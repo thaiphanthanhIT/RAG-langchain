@@ -54,7 +54,7 @@ def search_ministry(state: QAState) -> Dict[str, Any]:
     try:
         # Giả sử embedding model và DB đã tồn tại và đúng đường dẫn
         embedding_model = GPT4AllEmbeddings(model_file="./all-MiniLM-L6-v2-f16.gguf")
-        db = FAISS.load_local("vectorstores/db_faiss", embedding_model, allow_dangerous_deserialization=True)
+        db = FAISS.load_local("vectorstores/db_text", embedding_model, allow_dangerous_deserialization=True)
         logger.info(f"Searching FAISS for: {query}")
         docs = db.similarity_search(query, k=3)
         context = "\n".join([doc.page_content for doc in docs])
@@ -219,7 +219,8 @@ workflow.set_conditional_entry_point(
     {
         "ministry": "ministry",
         "search": "search",
-        "__error__": "handle_error", # Nếu route trả về lỗi    }
+        "__error__": "handle_error", # Nếu route trả về lỗi    
+    }
 )
 
 # Các node đều kết thúc workflow sau khi chạy
