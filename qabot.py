@@ -9,7 +9,6 @@ from langchain_core.runnables import RunnableLambda
 from langchain_community.embeddings import GPT4AllEmbeddings
 from langchain_community.vectorstores import FAISS
 from duckduckgo_search import DDGS
-# Thêm import này để cấu hình safety settings nếu cần
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 # ---------------------------
@@ -30,25 +29,21 @@ genai.configure(api_key=api_key)
 
 # Khởi tạo models
 try:
-    routing_model = genai.GenerativeModel("models/gemini-1.5-flash") # Có thể thêm safety_settings=safety_settings
-    answering_model = genai.GenerativeModel("models/gemini-1.5-flash") # Có thể thêm safety_settings=safety_settings
-    # answering_model = genai.GenerativeModel("models/gemini-1.5-pro") # Thử đổi sang Pro nếu Flash gặp vấn đề
+    routing_model = genai.GenerativeModel("models/gemini-1.5-flash") 
+    answering_model = genai.GenerativeModel("models/gemini-1.5-flash") 
     logger.info("Đã khởi tạo thành công model Gemini.")
 except Exception as e:
     logger.error(f"Lỗi khởi tạo model Gemini: {e}")
     raise
 
-# ---------------------------
 # Định nghĩa trạng thái LangGraph
-# ---------------------------
 class QAState(TypedDict):
     query: str
     # source: Literal["ministry", "search"] # Có thể bỏ source nếu route quyết định trực tiếp node chạy
     result: str | None # Cho phép None để xử lý lỗi
 
-# ---------------------------
+
 # Tool: Truy vấn dữ liệu Bộ Tài chính (FAISS)
-# ---------------------------
 def search_ministry(state: QAState) -> Dict[str, Any]:
     logger.info(">>> Running Tool: search_ministry (FAISS)")
     query = state.get("query")
@@ -104,9 +99,7 @@ Trả lời:"""
         logger.error(f"Lỗi trong search_ministry: {e}")
         return {"result": "Đã xảy ra lỗi khi truy vấn dữ liệu Bộ Tài chính."}
 
-# ---------------------------
 # Tool: Tìm kiếm DuckDuckGo
-# ---------------------------
 def search_web(state: QAState) -> Dict[str, Any]:
     logger.info(">>> Running Tool: search_web (DuckDuckGo)")
     query = state.get("query")
@@ -168,9 +161,7 @@ Trả lời:"""
         return {"result": "Đã xảy ra lỗi khi tìm kiếm trên web hoặc xử lý kết quả."}
 
 
-# ---------------------------
 # Node định tuyến (chọn source)
-# ---------------------------
 def route(state: QAState) -> Literal["ministry", "search", "__error__"]:
     logger.info(">>> Running Router Node...")
     query = state.get("query")
@@ -210,9 +201,7 @@ def route(state: QAState) -> Literal["ministry", "search", "__error__"]:
         logger.warning("Router: Error occurred. Defaulting to 'search'.")
         return "search" # Mặc định tìm kiếm web khi có lỗi
 
-# ---------------------------
 # LangGraph Graph setup
-# ---------------------------
 workflow = StateGraph(QAState)
 
 # Sửa lại lambda để cập nhật state đúng cách
@@ -230,10 +219,7 @@ workflow.set_conditional_entry_point(
     {
         "ministry": "ministry",
         "search": "search",
-        "__error__": "handle_error", # Nếu route trả về lỗi
-         # Nếu bạn không muốn node lỗi riêng, có thể map __error__ về search hoặc ministry
-         # "__error__": "search"
-    }
+        "__error__": "handle_error", # Nếu route trả về lỗi    }
 )
 
 # Các node đều kết thúc workflow sau khi chạy
