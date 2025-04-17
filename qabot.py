@@ -29,8 +29,8 @@ genai.configure(api_key=api_key)
 
 # Khởi tạo models
 try:
-    routing_model = genai.GenerativeModel("models/gemini-1.5-flash") 
-    answering_model = genai.GenerativeModel("models/gemini-1.5-flash") 
+    routing_model = genai.GenerativeModel("models/gemini-2.0-flash") 
+    answering_model = genai.GenerativeModel("models/gemini-2.0-flash") 
     logger.info("Đã khởi tạo thành công model Gemini.")
 except Exception as e:
     logger.error(f"Lỗi khởi tạo model Gemini: {e}")
@@ -56,21 +56,37 @@ def search_ministry(state: QAState) -> Dict[str, Any]:
         embedding_model = GPT4AllEmbeddings(model_file="./all-MiniLM-L6-v2-f16.gguf")
         db = FAISS.load_local("vectorstores/db_text", embedding_model, allow_dangerous_deserialization=True)
         logger.info(f"Searching FAISS for: {query}")
-        docs = db.similarity_search(query, k=3)
+        docs = db.similarity_search(query, k=15)
         context = "\n".join([doc.page_content for doc in docs])
 
         if not context.strip():
              logger.warning("search_ministry: No relevant documents found in FAISS.")
              return {"result": "Không tìm thấy tài liệu liên quan trong cơ sở dữ liệu Bộ Tài chính."}
 
-        prompt = f"""Sử dụng CHỈ thông tin trong ngữ cảnh sau đây để trả lời câu hỏi. Không dùng kiến thức bên ngoài.
-Ngữ cảnh:
+        prompt = f"""
+Bạn là một trợ lý pháp lý thân thiện, am hiểu văn bản pháp luật của Bộ Tài chính.
+Trả lời câu hỏi của người dùng CHỈ dựa trên phần "Dữ liệu nội bộ" dưới đây — không suy đoán hay tạo nội dung không có sẵn.
+
+- Nếu không đủ thông tin, hãy nói rõ một cách nhã nhặn (ví dụ: "Dựa theo thông tin tôi có được...").
+- Nếu câu hỏi chưa rõ ràng hoặc quá chung chung, hãy khuyến khích người dùng hỏi lại cụ thể hơn.
+- Chỉ đề cập đến dữ liệu nội bộ, không nói đến cách cấu trúc hoặc cách bạn nhận được dữ liệu.
+- Giải thích gọn, dễ hiểu, và đúng theo nội dung từ Bộ Tài chính, nếu cần hãy trích xuất từ ngữ cảnh được cung cấp cho đầy đủ.
+- Nếu không thể xác định câu trả lời từ dữ liệu, hãy nói rõ: "Tôi không tìm thấy thông tin phù hợp trong dữ liệu nội bộ."
+- Nếu người dùng yêu cầu chi tiết, hãy trả lời thật chi tiết từ nội dung nội bộ bạn được cung cấp.
+Dữ liệu nội bộ:
 ---
 {context}
 ---
-Câu hỏi: {query}
 
-Trả lời:"""
+Câu hỏi:
+{query}
+
+Trả lời:
+Hãy cung cấp một câu trả lời chi tiết, rõ ràng, và đúng theo các dữ liệu trong phần "Dữ liệu nội bộ". Nếu câu trả lời không đầy đủ, xin vui lòng làm rõ thêm với các thông tin mà bạn có được từ dữ liệu.
+"""
+
+
+        print(f"[search_ministry] Prompting Gemini... {prompt}")
         logger.info(f"[search_ministry] Prompting Gemini...")
         # logger.debug(f"[search_ministry] Full Prompt:\n{prompt}") # Uncomment if needed
 

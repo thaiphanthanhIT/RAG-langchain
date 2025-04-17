@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # Đường dẫn
-TEXT_DATA_PATH = "crawl/data/text"
+TEXT_DATA_PATH = "crawled_texts"
 PDF_DATA_PATH = "crawl/data/pdf"
 VECTOR_DB_TEXT_PATH = "vectorstores/db_text"
 VECTOR_DB_PDF_PATH = "vectorstores/db_pdf"
