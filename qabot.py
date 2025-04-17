@@ -1,8 +1,24 @@
-from langchain.chains.retrieval_qa.base import RetrievalQA
+import logging
+import os
+from typing import TypedDict, Literal, Dict, Any, List, Tuple
+
+import google.generativeai as genai
+from dotenv import load_dotenv
+from langgraph.graph import StateGraph
 from langchain_community.embeddings import GPT4AllEmbeddings
-from langchain_community.llms import CTransformers
-from langchain.prompts import PromptTemplate
 from langchain_community.vectorstores import FAISS
+from langchain_google_genai import ChatGoogleGenerativeAI
+
+from config import set_environment_variables
+set_environment_variables("evaluators")
+
+llm = ChatGoogleGenerativeAI(
+    model="gemini-2.0-flash",
+    temperature=0,
+    max_tokens=None,
+    timeout=None,
+    max_retries=2,
+)
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 from config import set_environment_variables
@@ -18,7 +34,7 @@ llm = ChatGoogleGenerativeAI(
 
 # Tên file mô hình và đường dẫn vector DB
 model_file = "vinallama-2.7b-chat_q5_0.gguf"
-vector_db_path = "vectorstores/db_pdf" # faiss -> pdf
+vector_db_path = "vectorstores/db_text" # faiss -> pdf
 
 # # Load mô hình LLM từ file .gguf
 # def load_file(model_file):
@@ -40,12 +56,14 @@ def create_qa_chain(prompt, llm, db):
     retriever = db.as_retriever(
         search_type="similarity",
         search_kwargs={"k": 20}
+        search_kwargs={"k": 20}
     )
 
     qa_chain = RetrievalQA.from_chain_type(
         llm=llm,
         chain_type="stuff",
         retriever=retriever,
+        return_source_documents=True,
         return_source_documents=True,
         chain_type_kwargs={"prompt": prompt}
     )
@@ -65,6 +83,7 @@ def read_vector_db():
 if __name__ == "__main__":
     db = read_vector_db()
     # llm = load_file(model_file)
+    # llm = load_file(model_file)
 
     template = """<|im_start|>system
 Sử dụng thông tin sau đây để trả lời câu hỏi. Nếu bạn không biết câu trả lời, hãy nói không biết.
@@ -76,7 +95,7 @@ Sử dụng thông tin sau đây để trả lời câu hỏi. Nếu bạn khôn
     prompt = create_prompt(template)
     llm_chain = create_qa_chain(prompt, llm, db)
 
-    question = "Hãy đưa ra những quy định của Chính phủ về việc sử dụng kinh phí hỗ trợ trong quản lý, sử dụng đất trồng lúa"
+    question = "Hãy trình bày những quy định về cách sắp xếp tổ chức đơn vị dự toán ngân sách nhà nước đối với các Đảng ủy mới thành lập ở Trung ương và địa phương"
     response = llm_chain.invoke({"query": question})
 
     print("Câu hỏi:", question)
