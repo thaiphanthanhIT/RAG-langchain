@@ -38,7 +38,7 @@ Kinh tế Việt Nam đang phát triển mạnh, với các ngành mũi nhọn l
 
 # Tạo vector DB từ file PDF
 def create_db_from_files():
-    loader = DirectoryLoader(pdf_data_path, glob="*.pdf", loader_cls=PyPDFLoader)
+    loader = DirectoryLoader("crawl/data/", glob="*.pdf", loader_cls=PyPDFLoader) 
     documents = loader.load()
 
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=512, chunk_overlap=50)
@@ -53,5 +53,5 @@ def create_db_from_files():
 # === Thực thi tùy theo mục đích ===
 if __name__ == "__main__":
     # Chạy cái nào tùy bạn muốn
-    create_db_from_text()
-    # create_db_from_files()
+    # create_db_from_text()
+    create_db_from_files()
