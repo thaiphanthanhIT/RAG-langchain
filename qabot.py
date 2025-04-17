@@ -19,6 +19,18 @@ llm = ChatGoogleGenerativeAI(
     timeout=None,
     max_retries=2,
 )
+from langchain_google_genai import ChatGoogleGenerativeAI
+
+from config import set_environment_variables
+set_environment_variables("evaluators")
+
+llm = ChatGoogleGenerativeAI(
+    model="gemini-2.0-flash",
+    temperature=0,
+    max_tokens=None,
+    timeout=None,
+    max_retries=2,
+)
 
 # Tên file mô hình và đường dẫn vector DB
 model_file = "vinallama-2.7b-chat_q5_0.gguf"
@@ -44,12 +56,14 @@ def create_qa_chain(prompt, llm, db):
     retriever = db.as_retriever(
         search_type="similarity",
         search_kwargs={"k": 20}
+        search_kwargs={"k": 20}
     )
 
     qa_chain = RetrievalQA.from_chain_type(
         llm=llm,
         chain_type="stuff",
         retriever=retriever,
+        return_source_documents=True,
         return_source_documents=True,
         chain_type_kwargs={"prompt": prompt}
     )
@@ -68,6 +82,7 @@ def read_vector_db():
 # Bắt đầu chạy QA bot
 if __name__ == "__main__":
     db = read_vector_db()
+    # llm = load_file(model_file)
     # llm = load_file(model_file)
 
     template = """<|im_start|>system
