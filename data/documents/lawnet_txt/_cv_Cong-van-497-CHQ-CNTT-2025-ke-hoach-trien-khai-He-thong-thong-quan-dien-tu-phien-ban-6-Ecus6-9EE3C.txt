@@ -1,0 +1,216 @@
+Công văn 497/CHQ-CNTT năm 2025 về kế hoạch triển khai Hệ thống thông quan điện tử phiên bản 6 (Ecus6) do Cục Hải quan ban hành
+Số hiệu:
+497/CHQ-CNTT
+Loại văn bản:
+Công văn
+Nơi ban hành:
+Cục Hải quan
+Người ký:
+Trần Đức Hùng
+Ngày ban hành:
+26/03/2025
+Ngày hiệu lực:
+Đã biết
+Ngày công báo:
+Đang cập nhật
+Số công báo:
+Đang cập nhật
+Tình trạng:
+Đã biết
+Số hiệu:
+497/CHQ-CNTT
+Loại văn bản:
+Công văn
+Nơi ban hành:
+Cục Hải quan
+Người ký:
+Trần Đức Hùng
+Ngày ban hành:
+26/03/2025
+Ngày hiệu lực:
+Đã biết
+Ngày công báo:
+Đang cập nhật
+Số công báo:
+Đang cập nhật
+Tình trạng:
+Đã biết
+BỘ TÀI CHÍNH CỤC HẢI QUAN -------
+BỘ TÀI CHÍNH CỤC HẢI QUAN -------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+CỘNG HÒA XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+Số: 497/CHQ-CNTT V/v kế hoạch triển
+  khai Hệ thống thông quan điện tử phiên bản 6 (Ecus6)
+Số: 497/CHQ-CNTT V/v kế hoạch triển
+  khai Hệ thống thông quan điện tử phiên bản 6 (Ecus6)
+Hà Nội, ngày 26
+  tháng 3 năm 2025
+Hà Nội, ngày 26
+  tháng 3 năm 2025
+Kính gửi:
+Kính gửi:
+- Ban: CNTT & Thống kê hải quan, Giám sát quản
+  lý về hải quan, Nghiệp vụ thuế hải quan, Quản lý rủi ro; - Các Chi cục Hải quan khu vực.
+- Ban: CNTT & Thống kê hải quan, Giám sát quản
+  lý về hải quan, Nghiệp vụ thuế hải quan, Quản lý rủi ro; - Các Chi cục Hải quan khu vực.
+Trên cơ sở đào tạo tập huấn hệ thống, Cục Hải quan
+thông báo kế hoạch triển khai diện rộng Hệ thống thông quan điện tử phiên bản 6
+(viết tắt là hệ thống Ecus6) thuộc phạm vi của hợp đồng số
+05092024/HĐKT/CNTT-HITD về việc thực hiện gói thầu “Xây dựng hệ thống xử lý
+thông quan khi VNACCS/VCIS gặp sự cố (Hệ thống khai Hải quan từ xa)” trên phạm
+vi toàn quốc. Cục Hải quan thông báo các đơn vị cụ thể như sau:
+1. Chức năng của hệ thống:
+Hệ thống Ecus6 được xây dựng với chức năng dự phòng
+cho hệ thống VNACCS/VCIS khi hệ thống VNACCS/VCIS gặp sự cố.
+Khi hệ thống VNACCS/VCIS gặp sự cố, hệ thống Ecus6
+sẽ được kích hoạt và thực hiện việc tiếp nhận tờ khai hải quan thay thế tạm thời
+cho hệ thống VNACCS/VCIS.
+Sau khi hệ thống VN ACCS/VCIS được khắc phục và sẵn
+sàng cho việc tiếp nhận tờ khai hải quan thì hệ thống Ecus6 sẽ tạm dừng hoạt động.
+2. Đối tượng sử dụng hệ thống
+Ecus6:
+- Các Chi cục Hải quan khu vực;
+- Ban Giám sát quản lý, Ban Nghiệp vụ thuế hải
+quan, Ban Quản lý rủi ro và Ban CNTT & Thống kê hải quan;
+- Cơ quan, tổ chức, doanh nghiệp kinh doanh dịch vụ
+khai hải quan (gọi tắt là Doanh nghiệp).
+3. Thông tin triển khai hệ thống:
+3.1. Kế hoạch triển khai:
+- Các đơn vị thực hiện triển khai chính thức hệ thống
+Ecus6 thuộc phạm vi hợp đồng số 05092024/HĐKT/CNTT-HITD: Bắt đầu từ ngày 25/3/2025 .
+- Đối với phân hệ tiếp nhận tờ khai trị giá thấp
+đáp ứng theo Quyết định số 01/2025/QĐ-TTg của Thủ tướng Chính phủ (nằm ngoài phạm
+vi hợp đồng số 05092024/HĐKT/CNTT-HITD): Sau khi có hướng dẫn của cấp có thẩm
+quyền, Cục Hải quan sẽ thông báo kế hoạch triển khai đến các đơn vị.
+3.2. Thông tin truy cập:
+Địa chỉ truy cập hệ thống Ecus6 dành cho cán bộ hải
+quan: http://10.224.128.226
+Địa chỉ tiếp nhận khai báo đến hệ thống Ecus6 đối với
+doanh nghiệp: https://tqdtv6.customs.gov.vn
+4. Hướng dẫn tổ chức triển khai
+cho cán bộ Hải quan
+Tài khoản sử dụng hệ thống Ecus6 sử dụng chung tài
+khoản với hệ thống đăng ký người sử dụng. Do đó, Cục Hải quan thông báo các đơn
+vị như sau:
+a) Đối với các Chi cục Hải quan khu vực
+Các Chi cục Hải quan khu vực được cấp tài khoản quản
+trị cấp Chi cục tại hệ thống Ecus6. Các đơn vị chỉ được sử dụng tài khoản quản
+trị để phân quyền cho các cán bộ thuộc đơn vị quản lý. Danh sách tài khoản quản
+trị theo Phụ lục I kèm theo công văn.
+Địa chỉ truy cập hệ thống Ecus6 dành cho cán bộ quản
+trị: http://10.224.128.226/gdc_ktx_iam_ui
+Tài khoản trên hệ thống đăng ký người sử dụng được
+sử dụng để truy cập hệ thống Ecus6 với mật khẩu mặc định ( Các đơn vị liên hệ
+cán bộ đầu mối Ban CNTT & Thống kê hải quan để nhận mật khẩu mặc định - Đ/c
+Nguyễn Hoàng Anh, SĐT (024)39440833 - máy lẻ: 8673, email: [email protected] ), khi đăng nhập lần đầu cần thực hiện đổi mật khẩu.
+Đối với cán bộ chưa được cấp tài khoản trên hệ thống Đăng ký người sử dụng để đồng
+bộ sang hệ thống Ecus6, các đơn vị truy cập vào hệ thống Đăng ký người sử dụng
+địa chỉ http://10.224.150.70/Pages/hq.aspx để tạo tài khoản.
+Cán bộ quản trị cấp Chi cục truy cập hệ thống Ecus6
+để phân quyền cho cán bộ tại đơn vị mình.
+b) Đối với các đơn vị thuộc Cục Hải quan
+Tài khoản của các đơn vị: Ban Giám sát quản lý về hải
+quan, Ban Quản lý rủi ro, Ban Nghiệp vụ thuế hải quan, đề nghị cán bộ của đơn vị
+tạo tài khoản trên hệ thống Đăng ký người sử dụng. Sau đó gửi danh sách tài khoản
+theo mẫu Phụ lục II về Ban CNTT & Thống kê hải quan để phân quyền vào hệ thống
+Ecus6.
+5. Hướng dẫn tổ chức triển khai
+cho các doanh nghiệp
+Đề nghị các đơn vị thông báo tới doanh nghiệp thuộc
+phạm vi quản lý của các đơn vị các nội dung sau:
+- Hệ thống Ecus6 của Cục Hải quan cho phép các
+doanh nghiệp kết nối chính thức từ ngày 25/3/2025 .
+- Về cơ chế trao đổi thông tin, định dạng thông điệp
+và phương thức kết nối được giữ nguyên không thay đổi so với hệ thống VNACCS hiện
+tại. Thông tin về tài liệu thiết kế được đăng tải trên trang chủ Hải quan Việt
+Nam tại địa chỉ:
+https://www.customs.gov.vn/index.jsp?pageId=2&aid=157788&cid=1581
+- Địa chỉ tiếp nhận khai báo đến hệ thống Ecus6 đối
+với doanh nghiệp: https://tqdtv6.customs.gov.vn
+6. Danh sách đầu mối hỗ trợ
+Các đơn vị báo cáo vướng mắc phát sinh (nếu có) bằng
+văn bản hoặc thư điện tử về Cục Hải quan qua các đơn vị đầu mối:
+- Ban CNTT & Thống kê hải quan hỗ trợ trả lời
+vướng mắc liên quan đến kỹ thuật.
+- Ban Giám sát quản lý về hải quan, Ban Nghiệp vụ
+thuế hải quan, Ban Quản lý rủi ro hỗ trợ trả lời vướng mắc liên quan đến nghiệp
+vụ.
+Để đảm bảo việc triển khai trên toàn quốc, các Chi
+cục Hải quan khu vực cử cán bộ phụ trách việc triển khai thực hiện kết nối
+chính thức hệ thống Ecus6 gửi thông tin về Ban CNTT & Thống kê hải quan chậm
+nhất ngày 26/3/2025 để phối hợp thực hiện.
+Cục Hải quan thông báo để các đơn vị biết và thực
+hiện./.
+Nơi nhận: - Như trên; - CT Nguyễn Văn Thọ (để b/c); - PCT Âu Anh Tuấn (để b/c); - PCT Lưu Mạnh Tưởng (để b/c); - Lưu: VT, CNTT.
+Nơi nhận: - Như trên; - CT Nguyễn Văn Thọ (để b/c); - PCT Âu Anh Tuấn (để b/c); - PCT Lưu Mạnh Tưởng (để b/c); - Lưu: VT, CNTT.
+KT. CỤC TRƯỞNG PHÓ CỤC TRƯỞNG Trần Đức Hùng
+KT. CỤC TRƯỞNG PHÓ CỤC TRƯỞNG Trần Đức Hùng
+Ban hành: {{m.News_Dates_Date}}
+Hiệu lực: {{m.News_EffectDate_Date}}
+Tình trạng: {{m.TinhTrang}}
+Cập nhật: {{m.Email_SendDate_Date}}
+Ban hành: {{m.News_Dates_Date}}
+Hiệu lực: {{m.News_EffectDate_Date}}
+Tình trạng: {{m.TinhTrang}}
+Cập nhật: {{m.Email_SendDate_Date}}
+Part 1 : General provisions
+When you use information and services on WEBSITE L aw N et , you accept this Agreement, including any changes thereafter.
+Content on WEBSITE L aw N et is legal documents and legal knowledge. You accept to use the service as you accept to use the current form and content.WEBSITE L aw N et does not arise liability to the user when the wrong application of the law occurs.
+When you reuse for non-commercial purposes the information from WEBSITE L aw N et , it is necessary to specify the source: "According to Lawnet.vn".
+Part 2: Service
+Services provided by WEBSITE L aw N et include:
+Part 3: Your Responsibilities
+When using WEBSITE L aw N et requires you to register a Subscriber Name, Password, and some personal information before use. This information must be accurate, because it directly affects your interests.
+When the user wants to change the registered information (Subscriber's name, user name, Email,...), the user must change in the Account information section;
+You keep your Username and Password confidential. WEBSITE L aw N et will not be responsible in cases where the password is changed due to disclosure by the user, or for many people to use together.
+Each Subscriber Name is registered for a specific individual or unit. Therefore, WEBSITE L aw N et have limited rights at a time then 1 Personal Subscription Only 1 person can use it. For Business Subscription then the number of users at a time will be registered by you.
+Part 4: Limiting Your Rights
+Your rights are limited by the following provisions:
+Part 5: Limitation of Liability of WEBSITE L aw N et
+Not responsible for any loss, liability, or damage resulting from your error.
+Not responsible for any loss, liability, or damage resulting from another website that links directly or indirectly from WEBSITE L aw N et , or the content of such websites.
+Not responsible for any claims, damages caused as a result of, or arising out of, in connection with the use or inability to use the WEBSITE L aw N et .
+In addition to the above limits, if there is a legal obligation that WEBSITE L aw N et has to bear and compensate, it will be equal to the fee you pay the last time (the last time).
+Part 6: Handling violations
+WEBSITE L aw N et has the right to apply measures to handle violations that are allowed by law if you violate the provisions of this General Agreement.
+This Agreement is governed by the laws of Vietnam. Any acts giving rise to liability and claims in connection with this Agreement shall be settled in the competent People's Court.
+Part 7: Implementation
+Notices and disclaimers on the WEBSITE L aw N et are subsequently added to the Agreement.
+If any provision of this Agreement, as well as subsequent notices and warnings, is unlawful, void and/or unenforceable, then that provision shall be deemed separate from those provisions. remainder of the Agreement, and without prejudice to the validity or enforceability of the remaining provisions.
+This Agreement entered into force on October 15, 2015.
+Phần 1 : Quy định chung
+Khi Quý khách sử dụng thông tin và dịch vụ trên WEBSITE L aw N et là Quý khách chấp nhận Thỏa ước này, kể cả những thay đổi về sau.
+Nội dung trên WEBSITE L aw N et là văn bản pháp luật và kiến thức pháp luật. Quý khách chấp nhận sử dụng dịch vụ là chấp nhận sử dụng hình thức và nội dung hiện tại.WEBSITE L aw N et không nảy sinh trách nhiệm pháp lý với người sử dụng khi xảy ra vận dụng pháp luật sai.
+Khi Quý khách sử dụng lại vào mục đích phi thương mại những thông tin từ WEBSITE L aw N et , nhất thiết phải ghi rõ nguồn: “Theo Lawnet.vn”.
+Phần 2 : Dịch vụ
+Các dịch vụ do WEBSITE L aw N et cung cấp bao gồm:
+Phần 3 : Trách nhiệm Quý khách
+Khi sử dụng WEBSITE L aw N et đòi hỏi Quý khách phải đăng ký Tên Thuê Bao, Mật khẩu, và một số thông tin cá nhân trước khi sử dụng. Các thông tin này phải chính xác, bởi nó ảnh hưởng trực tiếp đến quyền lợi của Quý khách.
+Khi muốn thay đổi về thông tin đã đăng ký (Tên Thuê Bao, người đứng tên sử dụng, Email,...), người sử dụng phải thay đổi tại phần Thông tin tài khoản;
+Quý khách tự bảo mật Tên Thuê bao và Mật khẩu. WEBSITE L aw N et sẽ không chịu trách nhiệm trong các trường hợp mật khẩu bị thay đổi do người sử dụng làm lộ, hoặc cho nhiều người cùng sử dụng chung.
+Mỗi Tên Thuê Bao được đăng ký cho một cá nhân, đơn vị cụ thể. Bởi vậy, WEBSITE L aw N et có quyền hạn chế tại một thời điểm thì 1 Thuê bao Cá Nhân chỉ có 1 người được sử dụng. Đối với Thuê bao Doanh nghiệp thì số người sử dụng tại một thời điểm sẽ do quý khách đăng ký.
+Phần 4 : Giới hạn quyền của Quý khách
+Quyền của Quý khách bị giới hạn bởi các quy định dưới đây:
+Phần 5: Giới hạn trách nhiệm của WEBSITE L aw N et
+Không chịu trách nhiệm về sự mất mát, nghĩa vụ pháp lý, hoặc thiệt hại nào là hậu quả từ sai sót của Quý khách.
+Không chịu trách nhiệm trước bất kỳ mất mát, nghĩa vụ pháp lý, hoặc thiệt hại nào là hậu quả từ một trang web khác có đường dẫn trực tiếp hoặc gián tiếp từ WEBSITE L aw N et , hoặc nội dung những trang web đó.
+Không chịu trách nhiệm về bất kỳ khiếu nại, thiệt hại nào do nguyên nhân là hậu quả của, hoặc phát sinh do liên quan đến việc sử dụng hoặc không thể sử dụng WEBSITE L aw N et .
+Ngòai các giới hạn trên, nếu xuất hiện một nghĩa vụ pháp lý nào đó mà WEBSITE L aw N et phải gánh chịu và bồi thường thì sẽ ngang bằng khoản phí Quý khách đóng lần gần nhất (lần sau cùng).
+Phần 6: Xử lý vi phạm
+WEBSITE L aw N et có quyền áp dụng các biện pháp xử lý vi phạm mà pháp luật cho phép nếu Quý khách vi phạm các quy định tại Thỏa ước chung này.
+Thỏa ước này chịu sự điều chỉnh của pháp luật Việt Nam. Bất kỳ hành vi nào làm phát sinh trách nhiệm và khiếu nại liên quan đến Thỏa ước này sẽ được giải quyết tại Tòa án Nhân dân có thẩm quyền.
+Phần 7: Thực hiện
+Các thông báo và khuyến cáo trên WEBSITE L aw N et sau này là bộ phận bổ sung cho Thỏa ước.
+Nếu bất kỳ điều khoản nào trong Thỏa ước này, cũng như thông báo và khuyến cáo về sau, không hợp pháp, vô hiệu và/hoặc không thể thi hành được, thì điều khoản đó sẽ được coi là tách biệt khỏi những điều khoản còn lại của Thỏa ước, và không ảnh hưởng đến hiệu lực cũng như khả năng thi hành của các điều khoản còn lại.
+Thỏa ước này có hiệu lực từ ngày 15/10/2015.
+Địa chỉ:
+19 Nguyễn Gia Thiều, Phường Võ Thị Sáu, Quận 3, TP Hồ Chí Minh
+Điện thoại:
+(028) 7302 2286 (6 lines)
+E-mail:
+[email protected]
+Địa chỉ: 17 Nguyễn Gia Thiều, P. Võ Thị Sáu, Q.3, TP.HCM
+Điện thoại cố định: (028) 7302 2286
+E-mail: [email protected]
