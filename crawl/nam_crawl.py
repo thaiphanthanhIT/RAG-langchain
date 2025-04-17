@@ -3,12 +3,14 @@ from bs4 import BeautifulSoup
 import os
 import json
 import time
+from dotenv import load_dotenv
+load_dotenv()
 
 # Giới hạn số page crawl
 max_pages = 10
 
 # API endpoint và thông tin xác thực
-api_url = "https://api.lawnet.vn/Document/Search?keyword=null&lan=1&token=A9pZek9EZ3dORFU0T1RVMU1EWTRNREExTUgxN01IMTdNSDZX&secretkey=0=pCZFcxMWJNRjFiTWpBeU5TOHdOQzh4TnlBd016bzFOVG8xTlYxYk9UTXlORGc1UVRZdE1qVXpSUzAwT1VVeUxUaENRa0l0TkRZMU5FRXlNREUxTlVRMlhRPTV3"
+api_url = os.getenv("API_URL_LAWNET")
 base_url = "https://lawnet.vn"
 
 # Body mẫu cho yêu cầu POST
