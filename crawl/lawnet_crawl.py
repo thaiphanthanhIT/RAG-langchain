@@ -8,48 +8,53 @@ import time
 import json
 
 driver = webdriver.Edge()
-driver.get("https://vbpq.mof.gov.vn")
+driver.get("https://lawnet.vn/tai-chinh/vb.html")
 print(driver.title)
 wait = WebDriverWait(driver, 10)
 # Các thành viên cần lấy sẽ thuộc từ 3 - 17  
 ##index-list-result > div > ul > li:nth-child(1) > div > div.align-top.col-lg-9.pr-lg-0 > div > div > div.pl-0.pl-md-2.pr-2.pr-md-0 > a > span
 ##index-list-result > div > ul > li:nth-child(20) > div > div.align-top.col-lg-9.pr-lg-0 > div > div > div.pl-0.pl-md-2.pr-2.pr-md-0 > a > span
 old_content = ""
-for page in range(2):
+for page in range(1):
 
     href_links = []
-    for i in range(3, 18):
+    for i in range(1, 21):
         element = wait.until(
             EC.presence_of_element_located(
                 (By.CSS_SELECTOR, 
-                f"#showallData > div:nth-child({i}) > div.panel-body > div.action-content > div > a.taive-hover")
+                f"#index-list-result > div > ul > li:nth-child({i}) > div > div.align-top.col-lg-9.pr-lg-0 \
+                > div > div > div.pl-0.pl-md-2.pr-2.pr-md-0 > a")
             )
         )
         href_links.append(element.get_attribute('href'))
 
-    docs = []
-    for link in href_links:
+    with open('links.json', 'w', encoding='utf-8') as f: 
+        json.dump(href_links, f, indent=4, ensure_ascii=False)
+
+    #docs = []
+    for i, link in enumerate(href_links):
+        print(link)
         driver.get(link)
-        name_element = wait.until(
-            EC.presence_of_element_located(
-                (By.CSS_SELECTOR, 
-                 "#h1-tit"
-                )
-            )
-        )
+        # name_element = wait.until(
+        #     EC.presence_of_element_located(
+        #         (By.CSS_SELECTOR, 
+        #          "#h1-tit"
+        #         )
+        #     )
+        # )
         element = wait.until(
             EC.presence_of_element_located(
                 (By.CSS_SELECTOR, 
-                "#tab-noidung > div > div > div > div.MainContentAll.rawContent-9F13D")
+                "#tab-noidung > div > div > div") 
+                # #tab-noidung > div > div > div > div.MainContentAll.rawContent-9F052
             )
         )
-        name = name_element.text
+        #name = name_element.text
         text = element.text
-        docs.append((name, link))
-    with open("./data/test.json", "w", encoding="utf-8") as f:
-        json.dump(docs, f, indent=4, ensure_ascii=False)
-        
-
+        #docs.append(text)
+        #crawl\data\-BTC.pdf
+        with open(f"doc{i}.txt", "w", encoding="utf-8") as f:
+            f.write(text)
 
 
     # driver.get("https://vbpq.mof.gov.vn")
@@ -61,6 +66,9 @@ for page in range(2):
     # )
     # old_content = anchor_element.text 
     # pagination = f'#showallData > div.pagination-angular > div.navbar-right.pagination-detail > ul > li:nth-child({page+4}) > a'
+    # # #searchController > div:nth-child(2) > div.col-md-9.pl-md-0 > div.mb-3.paging > ul > li.page-item.active > button 
+    # # #searchController > div:nth-child(2) > div.col-md-9.pl-md-0 > div.mb-3.paging > ul > li:nth-child(5) > button 
+    # # #searchController > div:nth-child(2) > div.col-md-9.pl-md-0 > div.mb-3.paging > ul > li:nth-child(11) > button
     # print(pagination)
     # pagination_link = wait.until(EC.presence_of_element_located(
     #         (By.CSS_SELECTOR, pagination ) 
