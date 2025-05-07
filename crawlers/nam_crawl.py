@@ -17,8 +17,7 @@ HEADERS = {
     )
 }
 DEFAULT_MAX_PAGES = 10
-
-
+DEFAULT_OUTPUT_DIR = "data/lawnet_documents"
 def build_request_body(page: int) -> dict:
     """Tạo body cho request POST"""
     return {
@@ -26,9 +25,9 @@ def build_request_body(page: int) -> dict:
         "Title": "LawNet-Tài chính",
         "page": page,
         "DescEN": None,
-        "DescVN": "Trang văn bản về lĩnh vực tài chính tại Việt Nam",
+        "DescVN": None,
         "KeywordEN": None,
-        "KeywordVN": "Tài chính, luật tài chính, văn bản tài chính...",
+        "KeywordVN": None,
         "keyword": None,
         "area": None,
         "lan": 1,
@@ -36,10 +35,10 @@ def build_request_body(page: int) -> dict:
         "matchTemp": False,
         "type": -1,
         "typeTemp": None,
-        "field": 10,
+        "field": None,
         "organ": None,
         "status": "",
-        "bday": "17/04/1945",
+        "bday": "01/01/2022",
         "eday": "17/04/2025",
         "bdayCHL": None,
         "edayCHL": None,
@@ -123,7 +122,7 @@ def crawl_lawnet_documents(max_pages: int = DEFAULT_MAX_PAGES, output_dir: str =
             url = doc.get("DocumentUrl")
             if url:
                 crawl_document_and_save(url, output_dir)
-                time.sleep(1)  # tránh bị chặn IP
+                time.sleep(0.001)  # tránh bị chặn IP
 
         if page * len(documents) >= total_items:
             print("[INFO] All documents fetched.")

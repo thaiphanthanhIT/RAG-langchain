@@ -1,0 +1,15 @@
+streamlit
+streamlit-chat
+python-dotenv
+langgraph
+langgraph-checkpoint
+langgraph-prebuilt
+langgraph-sdk
+langchain-community
+langchain-core
+langchain-google-genai
+google-generativeai
+faiss-cpu
+duckduckgo-search
+tqdm
+gpt4all
