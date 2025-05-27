@@ -1,0 +1,633 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 37/VBHN-BTC | Hà Nội, ngày 05 tháng 7 năm 2019                                |
+
+BỘ TÀI CHÍNH --------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 37/VBHN-BTC
+
+Hà Nội, ngày 05 tháng 7 năm 2019
+
+NGHỊ ĐỊNH[1]
+
+QUY ĐỊNH ĐIỀU KIỆN ĐẦU TƯ, KINH DOANH CHỨNG KHOÁN
+
+Nghị định số 86/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định điều kiện đầu tư, kinh doanh chứng khoán, có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2016, được sửa đổi, bổ sung bởi:
+
+Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+Căn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015;
+
+Căn cứ Luật chứng khoán ngày 29 tháng 6 năm 2006; Luật sửa đổi, bổ sung một số điều của Luật chứng khoán ngày 24 tháng 11 năm 2010;
+
+Căn cứ Luật đầu tư ngày 26 tháng 11 năm 2014;
+
+Căn cứ Luật doanh nghiệp ngày 26 tháng 11 năm 2014;
+
+Theo đề nghị của Bộ trưởng Bộ Tài chính;
+
+Chính phủ ban hành Nghị định quy định điều kiện đầu tư, kinh doanh chứng khoán[2].
+
+Chương I
+
+NHỮNG QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+1. Nghị định này quy định điều kiện đầu tư, kinh doanh chứng khoán mà tổ chức, cá nhân phải đáp ứng khi thực hiện hoạt động đầu tư, kinh doanh trên thị trường chứng khoán Việt Nam.
+
+2. Nghị định này áp dụng đối với công ty chứng khoán, công ty quản lý quỹ, công ty đầu tư chứng khoán, chi nhánh tổ chức kinh doanh chứng khoán nước ngoài tại Việt Nam, thành viên lưu ký, thành viên giao dịch, ngân hàng thanh toán, ngân hàng giám sát, Sở Giao dịch chứng khoán, Trung tâm Lưu ký chứng khoán Việt Nam và cơ quan, tổ chức, cá nhân có liên quan trên thị trường chứng khoán Việt Nam.
+
+Điều 2. Giải thích từ ngữ
+
+Trong Nghị định này, các từ ngữ sau đây được hiểu như sau:
+
+1. Công ty chứng khoán là doanh nghiệp thành lập và hoạt động theo pháp luật chứng khoán để thực hiện một, một số hoặc toàn bộ các nghiệp vụ: Môi giới chứng khoán, tự doanh chứng khoán, bảo lãnh phát hành chứng khoán, tư vấn đầu tư chứng khoán và được cung cấp các dịch vụ tài chính theo quy định của pháp luật chứng khoán.
+
+2. Công ty quản lý quỹ là doanh nghiệp thành lập và hoạt động theo pháp luật chứng khoán để thực hiện các nghiệp vụ: Quản lý quỹ đầu tư chứng khoán, quản lý danh mục đầu tư chứng khoán và tư vấn đầu tư chứng khoán.
+
+3. Tổ chức kinh doanh chứng khoán nước ngoài bao gồm công ty chứng khoán thành lập ở nước ngoài, công ty quản lý quỹ thành lập ở nước ngoài.
+
+4. Chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam là đơn vị phụ thuộc của công ty chứng khoán, công ty quản lý quỹ nước ngoài, không có tư cách pháp nhân và được cung cấp dịch vụ kinh doanh chứng khoán tại Việt Nam.
+
+5. Giao dịch ký quỹ là giao dịch mua chứng khoán có sử dụng tiền vay của công ty chứng khoán, trong đó chứng khoán vừa mua và các chứng khoán được phép ký quỹ khác của khách hàng được sử dụng làm tài sản bảo đảm cho khoản vay nêu trên.
+
+6. Giao dịch trong ngày là giao dịch mua và bán cùng một loại chứng khoán với cùng một khối lượng giao dịch, thực hiện trên cùng một tài khoản và trong cùng một ngày giao dịch.
+
+7. Ngân hàng thanh toán là ngân hàng cung cấp dịch vụ thanh toán tiền cho các giao dịch chứng khoán trên Sở Giao dịch chứng khoán.
+
+Điều 3. Quy định chung về hoạt động đầu tư, kinh doanh chứng khoán
+
+1. Khi thành lập và trong quá trình hoạt động đầu tư, kinh doanh trên thị trường chứng khoán Việt Nam, tổ chức, cá nhân phải tuân thủ và duy trì các điều kiện quy định tại Nghị định này và các điều kiện đầu tư, kinh doanh chứng khoán khác (nếu có) quy định tại Luật chứng khoán và Nghị định của Chính phủ.
+
+2. Trong quá trình hoạt động, khi có các thay đổi về nghiệp vụ kinh doanh, tên, địa điểm kinh doanh, vốn điều lệ, người đại diện theo pháp luật hoặc người đứng đầu của tổ chức kinh doanh chứng khoán, chi nhánh của tổ chức kinh doanh chứng khoán, chi nhánh của tổ chức kinh doanh chứng khoán nước ngoài tại Việt Nam hoặc tổ chức lại tổ chức kinh doanh chứng khoán thì ngoài việc thực hiện theo quy định pháp luật doanh nghiệp, phải được Đại hội đồng cổ đông, Hội đồng quản trị, Hội đồng thành viên hoặc chủ sở hữu công ty thông qua theo quy định pháp luật chứng khoán và phải thực hiện đăng ký với Ủy ban Chứng khoán Nhà nước.
+
+3. Trình tự, thủ tục đầu tư, kinh doanh chứng khoán trên thị trường chứng khoán Việt Nam của tổ chức, cá nhân trong nước và nước ngoài áp dụng theo quy định pháp luật chứng khoán.
+
+Điều 4. Điều kiện tổ chức nước ngoài sở hữu từ 51% trở lên vốn điều lệ của tổ chức kinh doanh chứng khoán tại Việt Nam
+
+Tổ chức nước ngoài được sở hữu từ 51% trở lên vốn điều lệ của tổ chức kinh doanh chứng khoán tại Việt Nam khi đáp ứng các điều kiện sau:
+
+1. Quy định tại khoản 6, 10 Điều 71 Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật chứng khoán (sau đây gọi tắt là Nghị định số 58/2012/NĐ-CP) và khoản 21, 24 Điều 1 Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 58/2012/NĐ-CP (sau đây gọi tắt là Nghị định số 60/2015/NĐ-CP).
+
+2. Được Đại hội đồng cổ đông, Hội đồng thành viên hoặc chủ sở hữu của tổ chức nước ngoài thông qua việc mua cổ phần hoặc phần vốn góp để sở hữu từ 51% trở lên vốn điều lệ của tổ chức kinh doanh chứng khoán tại Việt Nam.
+
+3. Được Đại hội đồng cổ đông, Hội đồng thành viên hoặc chủ sở hữu của tổ chức kinh doanh chứng khoán tại Việt Nam thông qua việc cho phép tổ chức nước ngoài mua cổ phần hoặc phần vốn góp để sở hữu từ 51% trở lên vốn điều lệ, trừ trường hợp tổ chức nước ngoài thực hiện chào mua công khai theo quy định pháp luật chứng khoán.
+
+4. Chỉ được sử dụng vốn chủ sở hữu và các nguồn vốn hợp pháp khác để mua cổ phần hoặc phần vốn góp và không thuộc các trường hợp hạn chế sở hữu theo quy định tại điểm c khoản 7 và điểm c khoản 8 Điều 71 Nghị định số 58/2012/NĐ-CP .
+
+5. Báo cáo tài chính năm gần nhất tính đến thời điểm nộp hồ sơ của tổ chức nước ngoài (hoặc báo cáo tài chính hợp nhất năm gần nhất trong trường hợp tổ chức nước ngoài là công ty mẹ) được lập và kiểm toán theo quy định của pháp luật nước ngoài phù hợp với chuẩn mực kế toán và kiểm toán quốc tế.
+
+Chương II
+
+ĐIỀU KIỆN ĐẦU TƯ, KINH DOANH CỦA CÔNG TY CHỨNG KHOÁN
+
+Điều 5. Điều kiện cấp Giấy phép thành lập và hoạt động công ty chứng khoán
+
+1.[3] Điều kiện về trụ sở làm việc, cơ sở vật chất, trang thiết bị:
+
+Có trụ sở làm việc bảo đảm cho hoạt động kinh doanh chứng khoán; có đủ cơ sở vật chất, kỹ thuật, trang thiết bị văn phòng, hệ thống máy tính, phần mềm phục vụ cho hoạt động phân tích đầu tư, phân tích và quản lý rủi ro, lưu trữ, bảo quản chứng từ, tài liệu và các thiết bị bảo đảm an toàn, an ninh cho trụ sở làm việc của công ty phù hợp với quy định về quy trình nghiệp vụ về hoạt động kinh doanh chứng khoán. Đối với nghiệp vụ bảo lãnh phát hành chứng khoán và tư vấn đầu tư chứng khoán thì không phải đáp ứng điều kiện về trang bị, thiết bị.
+
+2. Điều kiện về vốn:
+
+Vốn đã góp tại thời điểm thành lập công ty tối thiểu bằng mức vốn pháp định theo quy định tại khoản 1, 2 Điều 71 Nghị định số 58/2012/NĐ-CP .
+
+3. Điều kiện về nhân sự:
+
+Có danh sách dự kiến về nhân sự công ty, trong đó có tối thiểu 03 người hành nghề chứng khoán phù hợp cho mỗi nghiệp vụ kinh doanh đề nghị cấp phép thành lập và hoạt động. Có Tổng Giám đốc (Giám đốc) công ty chứng khoán và phải đáp ứng các tiêu chuẩn sau:
+
+a) [4] Không thuộc trường hợp đang bị truy cứu trách nhiệm hình sự hoặc chấp hành hình phạt tù hoặc bị tòa án cấm hành nghề kinh doanh theo quy định pháp luật;
+
+b) [5] Có ít nhất 02 năm kinh nghiệm làm việc tại các bộ phận nghiệp vụ trong lĩnh vực tài chính, ngân hàng, chứng khoán hoặc tại bộ phận tài chính, kế toán, đầu tư trong doanh nghiệp khác và có kinh nghiệm quản lý điều hành tối thiểu 02 năm;
+
+c) Có Chứng chỉ hành nghề phân tích tài chính hoặc Chứng chỉ hành nghề quản lý quỹ;
+
+d) [6] Không bị xử phạt theo pháp luật chứng khoán và thị trường chứng khoán trong vòng 06 tháng gần nhất tính đến thời điểm nộp hồ sơ;
+
+đ)[7] (được bãi bỏ)
+
+4. Điều kiện về cổ đông, thành viên góp vốn:
+
+Cơ cấu cổ đông, thành viên góp vốn đáp ứng các quy định tại khoản 5, 6, 7 và 10 Điều 71 Nghị định số 58/2012/NĐ-CP , quy định đối với nhà đầu tư nước ngoài tại khoản 21, 24 Điều 1 Nghị định số 60/2015/NĐ-CP và phải bảo đảm:
+
+a) [8] (được bãi bỏ)
+
+b) Trường hợp công ty chứng khoán được tổ chức dưới loại hình công ty trách nhiệm hữu hạn một thành viên, chủ sở hữu phải là ngân hàng thương mại, doanh nghiệp bảo hiểm hoặc tổ chức nước ngoài đáp ứng quy định tại Điều 4 Nghị định này.
+
+Điều 6. Điều kiện bổ sung nghiệp vụ kinh doanh chứng khoán của công ty chứng khoán
+
+Công ty chứng khoán được bổ sung nghiệp vụ kinh doanh chứng khoán sau khi được Ủy ban Chứng khoán Nhà nước chấp thuận nếu đáp ứng các điều kiện sau:
+
+1. Quy định tại khoản 1, 2 và 3 Điều 5 Nghị định này đối với các nghiệp vụ kinh doanh chứng khoán đã có và nghiệp vụ dự kiến bổ sung.
+
+2. Không trong tình trạng bị kiểm soát, kiểm soát đặc biệt, đình chỉ hoạt động trong vòng 03 tháng gần nhất tính đến thời điểm nộp hồ sơ đăng ký.
+
+Điều 7. Điều kiện tổ chức lại công ty chứng khoán
+
+Công ty chứng khoán được hợp nhất, sáp nhập hoặc chuyển đổi loại hình doanh nghiệp khi đáp ứng điều kiện sau:
+
+1. Công ty hình thành sau tổ chức lại phải đáp ứng quy định tại khoản 1, 2 và 3 Điều 5 Nghị định này. Trường hợp công ty chứng khoán sau tổ chức lại là công ty trách nhiệm hữu hạn một thành viên thì chủ sở hữu phải đáp ứng quy định tại điểm b khoản 4 Điều 5 Nghị định này.
+
+2. Trường hợp việc tổ chức lại công ty kết hợp với chào bán cổ phần riêng lẻ, chào bán cổ phần ra công chúng hoặc có các giao dịch phải được Ủy ban Chứng khoán Nhà nước chấp thuận thì phải bảo đảm các điều kiện theo quy định pháp luật có liên quan.
+
+3. Tuân thủ các điều kiện theo quy định pháp luật về cạnh tranh và các pháp luật khác có liên quan về tổ chức lại doanh nghiệp.
+
+Điều 8. Điều kiện đăng ký cung cấp dịch vụ giao dịch ký quỹ, giao dịch trong ngày, dịch vụ kinh doanh, bù trừ, thanh toán giao dịch chứng khoán phái sinh
+
+1. Công ty chứng khoán được thực hiện giao dịch ký quỹ sau khi Ủy ban Chứng khoán Nhà nước chấp thuận trên cơ sở đáp ứng các điều kiện sau:
+
+a) Được cấp phép thực hiện nghiệp vụ môi giới chứng khoán và được Hội đồng quản trị hoặc Hội đồng thành viên hoặc chủ sở hữu công ty chứng khoán thông qua việc thực hiện giao dịch ký quỹ;
+
+b) [9] Không đang trong tình trạng cảnh báo, kiểm soát, kiểm soát đặc biệt, đình chỉ hoạt động, tạm ngừng hoạt động, hợp nhất, sáp nhập, giải thể, phá sản;
+
+c) [10] (được bãi bỏ)
+
+d) [11] (được bãi bỏ)
+
+đ) Tỷ lệ vốn khả dụng đạt tối thiểu 180% liên tục trong 12 tháng gần nhất tính đến thời điểm đăng ký cung cấp dịch vụ giao dịch ký quỹ;
+
+e) Có hệ thống giao dịch phục vụ giao dịch ký quỹ, giám sát tài khoản giao dịch ký quỹ; hệ thống để quản lý tiền gửi giao dịch chứng khoán tách biệt tới từng nhà đầu tư tại ngân hàng; quy trình nghiệp vụ và quy trình quản lý rủi ro, kiểm soát nghiệp vụ giao dịch ký quỹ.
+
+2. Hồ sơ đăng ký cung cấp dịch vụ giao dịch ký quỹ bao gồm:
+
+a) Bản chính Giấy đăng ký cung cấp dịch vụ giao dịch ký quỹ;
+
+b) Bản sao Nghị quyết của Hội đồng quản trị hoặc Hội đồng thành viên hoặc chủ sở hữu công ty chứng khoán về việc thực hiện giao dịch ký quỹ;
+
+c) Bản chính thuyết minh hệ thống giao dịch phục vụ giao dịch ký quỹ, giám sát tài khoản giao dịch ký quỹ, trong đó có hệ thống công nghệ thông tin, hệ thống phần mềm;
+
+d) Quy trình nghiệp vụ giao dịch ký quỹ và Quy trình quản lý rủi ro, kiểm soát giao dịch ký quỹ.
+
+3. Hồ sơ theo quy định tại khoản 2 Điều này được lập thành 01 bộ kèm theo tệp thông tin điện tử và gửi trực tiếp hoặc qua đường bưu điện đến Ủy ban Chứng khoán Nhà nước. Trong thời hạn 15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Ủy ban Chứng khoán Nhà nước có văn bản chấp thuận công ty chứng khoán được thực hiện giao dịch ký quỹ. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước có văn bản trả lời công ty chứng khoán và nêu rõ lý do.
+
+4. Công ty chứng khoán được cung cấp dịch vụ giao dịch trong ngày cho khách hàng sau khi Ủy ban Chứng khoán Nhà nước chấp thuận trên cơ sở đáp ứng các điều kiện sau:
+
+a) [12] Được cấp phép các nghiệp vụ môi giới, tự doanh, bảo lãnh phát hành chứng khoán và được Hội đồng quản trị hoặc Hội đồng thành viên hoặc chủ sở hữu công ty thông qua hoạt động cung cấp dịch vụ giao dịch trong ngày;
+
+b) Quy định tại điểm b, c và d khoản 1 Điều này;
+
+c) Có cơ sở hạ tầng, hệ thống giao dịch phục vụ giao dịch trong ngày, hệ thống quản lý, giám sát hoạt động giao dịch trong ngày trên tài khoản của khách hàng; quy trình nghiệp vụ và quy trình quản lý rủi ro cho nghiệp vụ giao dịch trong ngày; có hệ thống để quản lý tiền gửi giao dịch chứng khoán tách biệt tới từng nhà đầu tư tại ngân hàng;
+
+d) [13] Tỷ lệ vốn khả dụng đạt tối thiểu 220% liên tục trong 06 tháng gần nhất tính đến thời điểm đăng ký cung cấp dịch vụ giao dịch trong ngày.
+
+5. Tổ chức kinh doanh chứng khoán được cung cấp dịch vụ kinh doanh chứng khoán phái sinh khi đáp ứng các điều kiện sau:
+
+a) Quy định tại khoản 1 Điều 4 Nghị định số 42/2015/NĐ-CP ngày 05 tháng 5 năm 2015 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh (sau đây gọi tắt là Nghị định số 42/2015/NĐ-CP);
+
+b) Trích lập đầy đủ các khoản dự phòng theo quy định và không có lỗ trong 02 năm gần nhất; tỷ lệ vốn khả dụng đạt tối thiểu 220% liên tục trong 12 tháng gần nhất trước tháng nộp hồ sơ;
+
+c) Ý kiến của tổ chức kiểm toán được chấp thuận tại báo cáo tài chính năm của năm tài chính gần nhất và báo cáo tài chính bán niên gần nhất (nếu có) đã được soát xét phải là chấp nhận toàn phần.
+
+6. Công ty chứng khoán, ngân hàng thương mại, chi nhánh ngân hàng nước ngoài được cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh khi đáp ứng các điều kiện sau:
+
+a) Quy định tại khoản 2 Điều 4 Nghị định số 42/2015/NĐ-CP và điểm c khoản 5 Điều này;
+
+b) Đối với công ty chứng khoán: Trích lập đầy đủ các khoản dự phòng theo quy định và không có lỗ trong 02 năm gần nhất, tỷ lệ vốn khả dụng đạt tối thiểu 260% liên tục trong 12 tháng gần nhất trước tháng nộp hồ sơ;
+
+c) Đối với ngân hàng thương mại, chi nhánh ngân hàng nước ngoài: Đáp ứng quy định về an toàn vốn theo quy định pháp luật về ngân hàng trong vòng 12 tháng gần nhất trước tháng nộp hồ sơ.
+
+Điều 9. Điều kiện thành lập, bổ sung nghiệp vụ chi nhánh, phòng giao dịch công ty chứng khoán
+
+1. Công ty chứng khoán thành lập chi nhánh phải đáp ứng các điều kiện sau:
+
+a) Duy trì điều kiện cấp phép kinh doanh hiện tại cho trụ sở chính và các chi nhánh, phòng giao dịch hiện tại (nếu có);
+
+b) Tại thời điểm thành lập chi nhánh, không bị đặt vào tình trạng kiểm soát, kiểm soát đặc biệt, đình chỉ hoạt động theo quy định pháp luật;
+
+c) Không bị xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán trong vòng 06 tháng tính đến thời điểm Ủy ban Chứng khoán Nhà nước nhận được hồ sơ đề nghị thành lập chi nhánh;
+
+d) Có trụ sở chi nhánh và trang thiết bị phục vụ hoạt động kinh doanh chứng khoán được ủy quyền tại chi nhánh theo quy định tại điểm b khoản 1 Điều 5 Nghị định này;
+
+đ) Giám đốc chi nhánh phải đáp ứng các tiêu chuẩn theo quy định tại điểm a và d khoản 3 Điều 5 Nghị định này, có chứng chỉ hành nghề chứng khoán phù hợp với nghiệp vụ kinh doanh mà chi nhánh được thực hiện, có kinh nghiệm chuyên môn trong lĩnh vực tài chính, ngân hàng, chứng khoán ít nhất 02 năm và có kinh nghiệm quản lý điều hành tối thiểu 01 năm; có tối thiểu 02 người hành nghề chứng khoán phù hợp cho mỗi nghiệp vụ kinh doanh thực hiện tại chi nhánh.
+
+2. Công ty chứng khoán được bổ sung nghiệp vụ tại chi nhánh khi đáp ứng các điều kiện sau:
+
+a) Quy định tại điểm a, d và đ khoản 1 Điều này đối với các nghiệp vụ kinh doanh chứng khoán đã có và nghiệp vụ dự kiến bổ sung;
+
+b) Không trong tình trạng bị kiểm soát, kiểm soát đặc biệt, đình chỉ hoạt động trong vòng 03 tháng tính đến thời điểm nộp hồ sơ.
+
+3. Công ty chứng khoán thành lập phòng giao dịch phải đáp ứng các điều kiện sau:
+
+a) Tại thời điểm thành lập phòng giao dịch, đáp ứng các điều kiện quy định tại điểm a, b và c khoản 1 Điều này;
+
+b) Có trụ sở và trang thiết bị phục vụ hoạt động hỗ trợ nghiệp vụ kinh doanh chứng khoán;
+
+c) Có tối thiểu 02 người hành nghề chứng khoán làm việc tại phòng giao dịch dự kiến thành lập;
+
+d) Địa điểm phòng giao dịch trong phạm vi địa bàn tỉnh, thành phố trực thuộc Trung ương nơi công ty chứng khoán đặt trụ sở chính hoặc chi nhánh.
+
+4. Ủy ban Chứng khoán Nhà nước thực hiện kiểm tra cơ sở vật chất, trụ sở đối với chi nhánh công ty chứng khoán dự kiến thực hiện nghiệp vụ môi giới chứng khoán, tự doanh chứng khoán hoặc phòng giao dịch trước khi quyết định chấp thuận.
+
+Điều 10. Điều kiện, hồ sơ, thủ tục thành lập và hoạt động chi nhánh của công ty chứng khoán nước ngoài tại Việt Nam
+
+1. Công ty chứng khoán nước ngoài chỉ được thành lập một chi nhánh tại Việt Nam khi đáp ứng các điều kiện sau:
+
+a) [14] Đang hoạt động hợp pháp, không đang trong tình trạng hợp nhất, sáp nhập, chia, tách, giải thể, phá sản; được phép thực hiện các nghiệp vụ kinh doanh chứng khoán dự kiến đăng ký cho chi nhánh tại Việt Nam; cơ quan quản lý giám sát chuyên ngành chứng khoán ở nước nguyên xứ đã ký các hoạt động hợp tác song phương hoặc đa phương với Ủy ban Chứng khoán Nhà nước Việt Nam;
+
+b) Có vốn được cấp cho chi nhánh tối thiểu bằng vốn pháp định theo quy định tại khoản 1 và 2 Điều 71 Nghị định số 58/2012/NĐ-CP đối với nghiệp vụ kinh doanh chứng khoán đăng ký hoạt động cho chi nhánh tại Việt Nam;
+
+c) Thời hạn hoạt động của công ty chứng khoán nước ngoài trên giấy phép (nếu có) phải còn ít nhất là 05 năm;
+
+d) Có quy trình quản lý rủi ro, quy trình tổ chức thực hiện các hoạt động nghiệp vụ kinh doanh chứng khoán phù hợp với pháp luật Việt Nam;
+
+đ) Không phải là cổ đông, thành viên góp vốn hoặc cùng với người có liên quan sở hữu trực tiếp hoặc thông qua ủy quyền, ủy thác đầu tư sở hữu trên 5% vốn điều lệ của một công ty chứng khoán tại Việt Nam;
+
+e) Được cấp có thẩm quyền trong công ty chứng khoán nước ngoài phê duyệt về việc thành lập chi nhánh tại Việt Nam;
+
+g) Chi nhánh dự kiến thành lập tại Việt Nam đáp ứng quy định tại khoản 1 và 3 Điều 5 Nghị định này.
+
+2. Chi nhánh công ty chứng khoán nước ngoài tại Việt Nam được thực hiện hoạt động kinh doanh chứng khoán như đối với công ty chứng khoán, ngoại trừ việc trực tiếp quản lý tiền gửi giao dịch chứng khoán của khách hàng và việc nhận mở tài khoản giao dịch chứng khoán cho nhà đầu tư trong nước.
+
+3. Hồ sơ đề nghị cấp Giấy phép thành lập và hoạt động chi nhánh của công ty chứng khoán nước ngoài tại Việt Nam bao gồm:
+
+a) Bản chính Giấy đề nghị cấp Giấy phép thành lập và hoạt động chi nhánh công ty chứng khoán nước ngoài tại Việt Nam do đại diện có thẩm quyền của công ty chứng khoán nước ngoài ký;
+
+b) Bản sao Điều lệ của công ty chứng khoán nước ngoài và quyết định giao vốn của công ty chứng khoán nước ngoài cho chi nhánh tại Việt Nam;
+
+c) Bản sao Giấy phép thành lập và hoạt động của công ty chứng khoán nước ngoài hoặc các văn bản tương đương do cơ quan có thẩm quyền của nước nguyên xứ cấp;
+
+d) Xác nhận của cơ quan tổ chức có thẩm quyền của nước ngoài nơi công ty chứng khoán nước ngoài có trụ sở chính về việc công ty chứng khoán nước ngoài không đang trong tình trạng kiểm soát, kiểm soát đặc biệt, tình trạng cảnh báo khác trừ trường hợp pháp luật nước ngoài có quy định khác;
+
+đ) Báo cáo tài chính của năm tài chính gần nhất của công ty chứng khoán nước ngoài (hoặc báo cáo tài chính hợp nhất của năm tài chính gần nhất trong trường hợp công ty chứng khoán nước ngoài là công ty mẹ) được lập và kiểm toán theo quy định của pháp luật nước ngoài phù hợp với các chuẩn mực kế toán và kiểm toán quốc tế;
+
+e) Bản sao Biên bản họp (nếu có) và Quyết định của Đại hội đồng cổ đông, Hội đồng quản trị hoặc Hội đồng thành viên hoặc Quyết định của chủ sở hữu hoặc đại diện có thẩm quyền theo quy định tại Điều lệ của công ty chứng khoán nước ngoài về việc thành lập chi nhánh tại Việt Nam;
+
+g) Bản chính danh sách Giám đốc chi nhánh được bổ nhiệm và nhân viên nghiệp vụ dự kiến do cấp có thẩm quyền của công ty chứng khoán nước ngoài ký; kèm theo hồ sơ cá nhân, lý lịch tư pháp được cấp không quá 06 tháng tính tới thời điểm nộp hồ sơ và các tài liệu khác chứng minh Giám đốc chi nhánh, nhân viên hành nghề đáp ứng điều kiện về nhân sự khi thành lập chi nhánh;
+
+h) Bản chính Bản thuyết minh cơ sở vật chất trang bị cho trụ sở chi nhánh kèm theo bản sao hợp đồng hoặc hợp đồng nguyên tắc thuê trụ sở chi nhánh cùng tài liệu xác nhận quyền sở hữu, quyền sử dụng hoặc thẩm quyền cho thuê của bên cho thuê trụ sở;
+
+i) Quy trình quản lý rủi ro, quy trình tổ chức thực hiện các hoạt động nghiệp vụ kinh doanh chứng khoán.
+
+4. Hồ sơ theo quy định tại khoản 3 Điều này được lập thành 01 bộ bằng tiếng Việt kèm theo tệp thông tin điện tử. Hồ sơ trên được nộp trực tiếp tại trụ sở Ủy ban Chứng khoán Nhà nước hoặc gửi qua đường bưu điện. Trường hợp giấy tờ, tài liệu trong hồ sơ được lập bằng tiếng nước ngoài thì phải được hợp pháp hóa lãnh sự và được dịch ra tiếng Việt; bản dịch phải được công chứng, chứng thực chữ ký của người dịch theo quy định của pháp luật.
+
+Trong thời hạn 20 ngày, kể từ ngày nhận được hồ sơ theo quy định tại khoản 3 Điều này, Ủy ban Chứng khoán Nhà nước có văn bản yêu cầu công ty chứng khoán nước ngoài sửa đổi, bổ sung hồ sơ đối với trường hợp hồ sơ chưa đầy đủ, hợp lệ hoặc thông báo cho công ty chứng khoán nước ngoài hoàn tất các điều kiện cơ sở vật chất, nhân sự và phong tỏa vốn được cấp của chi nhánh đối với trường hợp hồ sơ đầy đủ, hợp lệ. Công ty chứng khoán nước ngoài được sử dụng vốn được cấp của chi nhánh để đầu tư cơ sở vật chất. Phần vốn được cấp còn lại phải được phong tỏa trên tài khoản của ngân hàng thương mại theo chỉ định của Ủy ban Chứng khoán Nhà nước và được giải tỏa chuyển vào tài khoản của chi nhánh ngay sau khi Giấy phép thành lập và hoạt động chi nhánh có hiệu lực.
+
+Trong thời hạn 06 tháng, kể từ ngày Ủy ban Chứng khoán Nhà nước có văn bản về hồ sơ đề nghị cấp Giấy phép thành lập và hoạt động chi nhánh, công ty chứng khoán nước ngoài phải bổ sung hoàn chỉnh hồ sơ theo quy định. Sau thời hạn trên, công ty chứng khoán nước ngoài không sửa đổi, bổ sung tài liệu, hoàn thiện hồ sơ hoặc không thực hiện giải trình đầy đủ theo yêu cầu, Ủy ban Chứng khoán Nhà nước có quyền từ chối cấp Giấy phép thành lập và hoạt động chi nhánh.
+
+5. Ủy ban Chứng khoán Nhà nước thực hiện kiểm tra cơ sở vật chất, trụ sở đối với chi nhánh công ty chứng khoán nước ngoài dự kiến thực hiện nghiệp vụ môi giới chứng khoán, tự doanh chứng khoán trước khi ra quyết định chấp thuận.
+
+6. Trong thời hạn 07 ngày, kể từ ngày nhận được giấy xác nhận phong tỏa vốn, biên bản kiểm tra cơ sở vật chất và các tài liệu hợp lệ khác theo quy định tại khoản 3 Điều này, Ủy ban Chứng khoán Nhà nước cấp Giấy phép thành lập và hoạt động chi nhánh tại Việt Nam cho công ty chứng khoán nước ngoài. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước trả lời bằng văn bản và nêu rõ lý do.
+
+7. Trong thời hạn 30 ngày, kể từ ngày Giấy phép thành lập và hoạt động chi nhánh có hiệu lực, công ty chứng khoán nước ngoài phải làm thủ tục xin cấp con dấu với cơ quan công an, công bố Giấy phép thành lập và hoạt động chi nhánh trên một tờ báo viết hoặc báo điện tử được phép phát hành tại Việt Nam trong 03 số liên tiếp.
+
+8. Trong thời hạn 15 ngày kể từ ngày khai trương hoạt động, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam phải gửi Ủy ban Chứng khoán Nhà nước thông báo về ngày bắt đầu hoạt động và các tài liệu chứng minh tổ chức nước ngoài đã hoàn tất các thủ tục theo quy định tại khoản 7 Điều này.
+
+9. Chi nhánh công ty chứng khoán nước ngoài tại Việt Nam được bổ sung nghiệp vụ kinh doanh chứng khoán khi đáp ứng các điều kiện sau:
+
+a) Quy định tại điểm a, c và d khoản 1 Điều này;
+
+b) Không trong tình trạng bị kiểm soát, kiểm soát đặc biệt, đình chỉ hoạt động trong vòng 03 tháng tính đến thời điểm nộp hồ sơ;
+
+c) Quy định tại khoản 1, 2 và 3 Điều 5 Nghị định này đối với các nghiệp vụ kinh doanh chứng khoán đã có và nghiệp vụ dự kiến bổ sung.
+
+10. Chi nhánh công ty chứng khoán nước ngoài tại Việt Nam phải đề nghị Ủy ban Chứng khoán Nhà nước điều chỉnh Giấy phép thành lập và hoạt động chi nhánh trong trường hợp bổ sung, rút bớt nghiệp vụ kinh doanh của chi nhánh; thay đổi Giám đốc, tên, địa điểm đặt chi nhánh, địa điểm đặt trụ sở chính của tổ chức kinh doanh chứng khoán nước ngoài, nơi đăng ký kinh doanh của công ty chứng khoán nước ngoài, địa vị pháp lý hoặc các thay đổi liên quan tới việc chia tách, sáp nhập, hợp nhất của công ty chứng khoán nước ngoài.
+
+11. Kể từ khi được cấp Giấy phép thành lập và hoạt động, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam phải thực hiện nghĩa vụ báo cáo, công bố thông tin và tuân thủ quy định có liên quan về tổ chức, hoạt động, an toàn tài chính như áp dụng đối với công ty chứng khoán.
+
+12. Chi nhánh công ty chứng khoán nước ngoài tại Việt Nam được giải thể sau khi được Ủy ban Chứng khoán Nhà nước sự chấp thuận. Hồ sơ, thủ tục, trình tự giải thể áp dụng như đối với công ty chứng khoán là công ty trách nhiệm hữu hạn một thành viên.
+
+Chương III
+
+ĐIỀU KIỆN ĐẦU TƯ, KINH DOANH CỦA CÔNG TY QUẢN LÝ QUỸ, CÔNG TY ĐẦU TƯ CHỨNG KHOÁN
+
+Điều 11. Điều kiện cấp Giấy phép thành lập và hoạt động công ty quản lý quỹ
+
+1. Điều kiện về trụ sở làm việc, cơ sở vật chất và trang thiết bị:
+
+Đáp ứng các điều kiện quy định tại khoản 1 Điều 5 Nghị định này.
+
+2. Điều kiện về vốn:
+
+Vốn đã góp tại thời điểm thành lập công ty tối thiểu bằng mức vốn pháp định theo quy định tại khoản 3 Điều 71 Nghị định số 58/2012/NĐ-CP .
+
+3. Điều kiện về nhân sự:
+
+Có danh sách dự kiến về nhân sự công ty, trong đó có tối thiểu 05 nhân viên có chứng chỉ hành nghề quản lý quỹ. Có Tổng Giám đốc (Giám đốc), Phó Tổng Giám đốc (Phó Giám đốc) phụ trách nghiệp vụ (nếu có) và phải đáp ứng các tiêu chuẩn sau:
+
+a) Quy định tại điểm a, d và đ khoản 3 Điều 5 Nghị định này;
+
+b) [15] Có ít nhất 04 năm kinh nghiệm tại các bộ phận nghiệp vụ của các tổ chức trong lĩnh vực tài chính, ngân hàng, bảo hiểm hoặc tại bộ phận tài chính, kế toán, đầu tư trong các doanh nghiệp khác;
+
+c) Có Chứng chỉ hành nghề quản lý quỹ hoặc có một trong các văn bằng, chứng chỉ quốc tế sau:
+
+- Chứng chỉ hành nghề quản lý tài sản tại các quốc gia là thành viên của tổ chức hợp tác và phát triển kinh tế (OECD); hoặc
+
+- Đã thi đạt chứng chỉ quốc tế về phân tích đầu tư CFA bậc II (Chartered Financial Analyst level II), hoặc CIIA bậc II (Certified International Investment Analyst - Final level);
+
+d) [16] (được bãi bỏ)
+
+4.[17] Điều kiện về cổ đông, thành viên góp vốn:
+
+Cơ cấu cổ đông, điều kiện thành viên góp vốn đáp ứng các quy định tại các khoản 5, 6, 8 và 10 Điều 71 Nghị định số 58/2012/NĐ-CP , quy định đối với nhà đầu tư nước ngoài tại các khoản 21, 24 Điều 1 Nghị định số 60/2015/NĐ-CP. Trường hợp công ty quản lý quỹ được tổ chức dưới loại hình công ty trách nhiệm hữu hạn một thành viên, chủ sở hữu phải là ngân hàng thương mại, doanh nghiệp bảo hiểm, công ty chứng khoán hoặc tổ chức nước ngoài đáp ứng quy định tại Điều 4 Nghị định này.
+
+Điều 12. Điều kiện sửa đổi, bổ sung Giấy phép thành lập và hoạt động của công ty quản lý quỹ
+
+1. [18] (được bãi bỏ)
+
+2. Công ty quản lý quỹ được chuyển đổi loại hình công ty khi:
+
+a) Công ty hình thành sau chuyển đổi đáp ứng các điều kiện tại khoản 1, 2 và 3 Điều 11 và khoản 2 Điều 7 Nghị định này;
+
+b) Trường hợp công ty hình thành sau chuyển đổi được tổ chức dưới loại hình công ty trách nhiệm hữu hạn một thành viên, chủ sở hữu phải là ngân hàng thương mại, doanh nghiệp bảo hiểm, công ty chứng khoán hoặc tổ chức nước ngoài đáp ứng quy định tại Điều 4 Nghị định này.
+
+3. Công ty quản lý quỹ được hợp nhất, sáp nhập với công ty quản lý quỹ khác khi:
+
+a) Công ty hình thành sau hợp nhất, sáp nhập phải đáp ứng các điều kiện quy định tại khoản 1, 2 và 3 Điều 11 và khoản 2 Điều 7 Nghị định này;
+
+b) Tuân thủ các điều kiện theo quy định pháp luật về cạnh tranh và các pháp luật khác liên quan đến hợp nhất, sáp nhập.
+
+Điều 13. Điều kiện thành lập chi nhánh công ty quản lý quỹ
+
+1. Trừ nghiệp vụ quản lý tài sản ủy thác, chi nhánh công ty quản lý quỹ được cung cấp dịch vụ tư vấn đầu tư chứng khoán và các hoạt động khác theo sự phân cấp, ủy quyền của công ty quản lý quỹ, công ty quản lý quỹ thành lập chi nhánh phải đáp ứng các điều kiện sau:
+
+a) Có trụ sở, trang thiết bị đáp ứng điều kiện tại khoản 1 Điều 11 và quy định tại điểm b, c khoản 1 Điều 9 Nghị định này;
+
+b) Giám đốc chi nhánh đáp ứng quy định tại khoản 3 Điều 11 Nghị định này và có tối thiểu 01 nhân viên đáp ứng quy định tại điểm a, d khoản 3 Điều 11 Nghị định này, có chứng chỉ hành nghề kinh doanh chứng khoán hoặc đáp ứng quy định tại điểm c khoản 3 Điều 11 Nghị định này;
+
+c) [19] (được bãi bỏ)
+
+2. Điều kiện để tổ chức kinh doanh chứng khoán nước ngoài có nghiệp vụ quản lý quỹ được thành lập chi nhánh tại Việt Nam:
+
+a) [20] (được bãi bỏ)
+
+b) Đáp ứng quy định tại khoản 3 Điều 74 Nghị định số 58/2012/NĐ-CP ;
+
+c) Có vốn cấp cho chi nhánh tối thiểu bằng mức vốn pháp định theo quy định tại khoản 3 Điều 71 Nghị định số 58/2012/NĐ-CP ;
+
+d) Đáp ứng quy định tại khoản 1, 3 Điều 11 Nghị định này.
+
+Điều 14. Điều kiện cấp, điều chỉnh Giấy phép thành lập và hoạt động của công ty đầu tư chứng khoán
+
+1. Điều kiện cấp Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán đại chúng, công ty đầu tư chứng khoán bất động sản thực hiện theo quy định tại Điều 79 Nghị định số 58/2012/NĐ-CP. Điều kiện cấp Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán riêng lẻ thực hiện theo quy định tại Điều 87 Nghị định số 58/2012/NĐ-CP .
+
+2. Việc thay đổi tên, thay đổi công ty quản lý quỹ, thay đổi ngân hàng lưu ký, ngân hàng giám sát của công ty đầu tư chứng khoán phải được Đại hội đồng cổ đông công ty thông qua trước khi được Ủy ban Chứng khoán Nhà nước chấp thuận.
+
+3. Điều kiện hợp nhất, sáp nhập của công ty đầu tư chứng khoán:
+
+a) [21] (được bãi bỏ)
+
+b) [22] (được bãi bỏ)
+
+c) Trường hợp hợp nhất, sáp nhập các công ty đầu tư chứng khoán riêng lẻ, công ty hình thành sau khi hợp nhất, sáp nhập phải đáp ứng quy định tại Điều 87 Nghị định số 58/2012/NĐ-CP .
+
+4. Điều kiện gia hạn thời gian hoạt động của công ty đầu tư chứng khoán:
+
+a) Được Đại hội đồng cổ đông của công ty đầu tư chứng khoán thông qua;
+
+b) Giá trị tài sản ròng của công ty đầu tư chứng khoán tại kỳ định giá gần nhất trước thời điểm nộp hồ sơ gia hạn không thấp hơn 50 tỷ đồng Việt Nam.
+
+Chương IV
+
+ĐĂNG KÝ HOẠT ĐỘNG LƯU KÝ CHỨNG KHOÁN, NGÂN HÀNG THANH TOÁN, NGÂN HÀNG GIÁM SÁT
+
+Điều 15. Điều kiện đăng ký thành viên lưu ký của Trung tâm Lưu ký chứng khoán Việt Nam
+
+1. Công ty chứng khoán, ngân hàng thương mại tại Việt Nam đăng ký làm thành viên lưu ký của Trung tâm Lưu ký chứng khoán Việt Nam phải đáp ứng các điều kiện sau:
+
+a) Có Giấy chứng nhận đăng ký hoạt động lưu ký chứng khoán do Ủy ban Chứng khoán Nhà nước cấp;
+
+b) Có tối thiểu 01 thành viên Ban Giám đốc được phân công phụ trách hoạt động đăng ký, lưu ký, thanh toán bù trừ;
+
+c) Có nhân viên làm việc tại bộ phận nghiệp vụ lưu ký đã hoàn thành khóa học nghiệp vụ của Trung tâm Lưu ký chứng khoán Việt Nam;
+
+d) Có quy trình nghiệp vụ đăng ký, lưu ký, bù trừ và thanh toán chứng khoán phù hợp với quy định pháp luật hiện hành và các quy chế hoạt động nghiệp vụ của Trung tâm Lưu ký chứng khoán Việt Nam;
+
+đ) Có hệ thống công nghệ thông tin đáp ứng yêu cầu đăng ký, lưu ký, bù trừ và thanh toán chứng khoán phù hợp với quy định pháp luật hiện hành và các quy chế hoạt động nghiệp vụ của Trung tâm Lưu ký chứng khoán Việt Nam.
+
+2. Thành viên lưu ký được đăng ký cung cấp dịch vụ lưu ký chứng khoán cho chi nhánh của mình khi đáp ứng các điều kiện sau:
+
+a) Quy định tại điểm b, c, d và đ khoản 1 Điều này;
+
+b) Có Quyết định chấp thuận cho chi nhánh thực hiện hoạt động lưu ký chứng khoán do Ủy ban Chứng khoán Nhà nước cấp.
+
+Điều 16. Điều kiện ngân hàng đăng ký làm ngân hàng thanh toán
+
+1. Ủy ban Chứng khoán Nhà nước lựa chọn ngân hàng làm ngân hàng thanh toán cho giao dịch chứng khoán cơ sở và ngân hàng làm ngân hàng thanh toán cho giao dịch chứng khoán phái sinh trên Sở Giao dịch chứng khoán. Việc lựa chọn ngân hàng thanh toán do Ủy ban Chứng khoán Nhà nước thực hiện định kỳ 05 năm một lần theo quy định pháp luật.
+
+2. Ngân hàng thương mại được đăng ký làm ngân hàng thanh toán khi đáp ứng các điều kiện sau:
+
+a) Có vốn điều lệ thực góp trên 10.000 tỷ đồng;
+
+b) Có kết quả hoạt động kinh doanh có lãi trong vòng 02 năm gần nhất;
+
+c) Đáp ứng tỷ lệ an toàn vốn tối thiểu theo quy định của pháp luật về ngân hàng;
+
+d) Có hệ thống cơ sở vật chất kỹ thuật đảm bảo thực hiện thanh toán giao dịch và kết nối được với Trung tâm Lưu ký chứng khoán Việt Nam;
+
+đ) Có cam kết với Ủy ban Chứng khoán Nhà nước về việc cho vay thanh toán giao dịch chứng khoán trong trường hợp thành viên lưu ký mất khả năng thanh toán;
+
+e) Hệ thống cơ sở vật chất kỹ thuật có khả năng lưu giữ số liệu thông tin thanh toán giao dịch trong vòng ít nhất 05 năm và có thể cung cấp ngay cho Ủy ban Chứng khoán Nhà nước hoặc Trung tâm Lưu ký chứng khoán trong vòng 48 giờ khi có yêu cầu.
+
+Điều 17. Điều kiện đăng ký làm ngân hàng giám sát
+
+Ngân hàng được đăng ký làm ngân hàng giám sát khi đáp ứng các điều kiện sau:
+
+1. Là ngân hàng thương mại có Giấy chứng nhận đăng ký hoạt động lưu ký chứng khoán có chức năng thực hiện các dịch vụ lưu ký và giám sát việc quản lý quỹ đại chúng, công ty đầu tư chứng khoán.
+
+2. Phải có tối thiểu 02 nhân viên nghiệp vụ có các chứng chỉ sau:
+
+a) Chứng chỉ pháp luật về chứng khoán và thị trường chứng khoán;
+
+b) Chứng chỉ những vấn đề cơ bản về chứng khoán và thị trường chứng khoán hoặc đã có chứng chỉ hành nghề kinh doanh chứng khoán hoặc chứng chỉ quốc tế về phân tích đầu tư chứng khoán CFA từ bậc I trở lên, CIIA từ bậc I trở lên hoặc chứng chỉ hành nghề kinh doanh chứng khoán cấp tại các quốc gia OECD;
+
+c) Chứng chỉ kế toán hoặc kiểm toán hoặc chứng chỉ kế toán trưởng hoặc đã có các chứng chỉ quốc tế trong lĩnh vực kế toán, kiểm toán ACCA, CPA, CA (Chartered Accountants), ACA (Associate Chartered Accountants).
+
+3. Ngân hàng giám sát, thành viên hội đồng quản trị, thành viên ban điều hành và nhân viên của ngân hàng giám sát trực tiếp làm nhiệm vụ bảo quản tài sản quỹ và giám sát hoạt động quản lý tài sản của công ty quản lý quỹ không được là người có liên quan hoặc tham gia điều hành, quản trị công ty quản lý quỹ hoặc có quan hệ sở hữu, tham gia góp vốn, nắm giữ cổ phần, vay hoặc cho vay với công ty quản lý quỹ mà ngân hàng giám sát cung cấp dịch vụ giám sát và ngược lại.
+
+4. [23] (được bãi bỏ)
+
+5. Để giám sát hoạt động công ty đầu tư chứng khoán bất động sản, ngân hàng giám sát phải có tối thiểu 02 nhân viên nghiệp vụ có một trong các chứng chỉ sau: Chứng chỉ định giá bất động sản theo quy định của pháp luật về kinh doanh bất động sản hoặc Thẻ thẩm định viên về giá.
+
+Chương V
+
+LẬP CHI NHÁNH, VĂN PHÒNG ĐẠI DIỆN, ĐẦU TƯ RA NƯỚC NGOÀI
+
+Điều 18. Điều kiện thành lập chi nhánh, văn phòng đại diện ở nước ngoài, đầu tư ra nước ngoài của tổ chức kinh doanh chứng khoán
+
+1. Có phương án lập chi nhánh, văn phòng đại diện ở nước ngoài, đầu tư ra nước ngoài đã được Đại hội đồng cổ đông, Hội đồng thành viên hoặc chủ sở hữu chấp thuận bằng văn bản.
+
+2. Đảm bảo các quy định về an toàn tài chính sau khi trừ đi vốn cấp cho chi nhánh, chi phí thành lập văn phòng đại diện ở nước ngoài, vốn đầu tư ra nước ngoài.
+
+3. [24] (được bãi bỏ)
+
+4. [25] (được bãi bỏ)
+
+Điều 19.[26] (được bãi bỏ)
+
+Chương VI
+
+CHỨNG CHỈ HÀNH NGHỀ CHỨNG KHOÁN
+
+Điều 20. Nguyên tắc và các loại chứng chỉ hành nghề chứng khoán
+
+1. Chứng chỉ hành nghề chứng khoán bao gồm các loại sau:
+
+a) Chứng chỉ hành nghề môi giới chứng khoán được thực hiện nghiệp vụ môi giới chứng khoán, tư vấn đầu tư chứng khoán;
+
+b) Chứng chỉ hành nghề phân tích tài chính được thực hiện nghiệp vụ môi giới chứng khoán, tư vấn đầu tư chứng khoán, tự doanh chứng khoán, bảo lãnh phát hành chứng khoán;
+
+c) Chứng chỉ hành nghề quản lý quỹ được thực hiện nghiệp vụ môi giới chứng khoán, tư vấn đầu tư chứng khoán, tự doanh chứng khoán, bảo lãnh phát hành chứng khoán, quản lý danh mục đầu tư chứng khoán, quản lý quỹ đầu tư chứng khoán.
+
+2. Nguyên tắc hành nghề chứng khoán:
+
+a) Chứng chỉ hành nghề chứng khoán chỉ có giá trị sử dụng khi người được cấp chứng chỉ làm việc tại một công ty chứng khoán, công ty quản lý quỹ, công ty đầu tư chứng khoán và được công ty đó thông báo với Ủy ban Chứng khoán Nhà nước. Chứng chỉ hành nghề chứng khoán được cấp không thời hạn, trừ trường hợp bị thu hồi theo quy định tại Điều 80 Luật chứng khoán;
+
+b) Người có 01 trong 03 loại chứng chỉ hành nghề chứng khoán theo quy định tại khoản 1 Điều này và có chứng chỉ chuyên môn Chứng khoán phái sinh và thị trường chứng khoán phái sinh được thực hiện nghiệp vụ tương ứng với chứng chỉ đang nắm giữ liên quan đến chứng khoán phái sinh tại tổ chức kinh doanh chứng khoán;
+
+c) Người có chứng chỉ hành nghề chứng khoán chỉ được làm việc tại 01 bộ phận nghiệp vụ kinh doanh chứng khoán trong một thời điểm.
+
+Điều 21. Điều kiện cấp chứng chỉ hành nghề chứng khoán
+
+1. Chứng chỉ hành nghề môi giới chứng khoán được cấp cho cá nhân khi đáp ứng các điều kiện sau đây:
+
+a) Quy định tại điểm a khoản 1 Điều 79 Luật chứng khoán;
+
+b) Có trình độ từ đại học trở lên;
+
+c) Có các chứng chỉ chuyên môn về chứng khoán bao gồm chứng chỉ: Những vấn đề cơ bản về chứng khoán và thị trường chứng khoán, pháp luật về chứng khoán và thị trường chứng khoán, phân tích và đầu tư chứng khoán, môi giới chứng khoán và tư vấn đầu tư chứng khoán;
+
+d) Đạt yêu cầu trong kỳ thi sát hạch cấp chứng chỉ hành nghề chứng khoán phù hợp với loại chứng chỉ hành nghề chứng khoán đề nghị cấp.
+
+2. Chứng chỉ hành nghề phân tích tài chính được cấp cho cá nhân đáp ứng các điều kiện sau đây:
+
+a) Quy định tại khoản 1 Điều này;
+
+b) Có các chứng chỉ chuyên môn: Chứng chỉ tư vấn tài chính và bảo lãnh phát hành chứng khoán, chứng chỉ phân tích báo cáo tài chính doanh nghiệp.
+
+3. Chứng chỉ hành nghề quản lý quỹ được cấp cho cá nhân đáp ứng các điều kiện sau đây:
+
+a) Quy định tại khoản 2 Điều này;
+
+b) Có chứng chỉ chuyên môn quản lý quỹ và tài sản;
+
+c) Có tối thiểu 03 năm kinh nghiệm làm việc trong lĩnh vực tài chính, ngân hàng hoặc có một trong các loại chứng chỉ quốc tế CFA (Chartered Financial Analyst), CIIA (Certified International Investment Analyst), ACCA (Association of Chartered Certified Accountants), CPA (Certified Public Accountants).
+
+4. Các trường hợp được miễn chứng chỉ chuyên môn về chứng khoán quy định tại các khoản 1, 2 và 3 Điều này:
+
+a) Cá nhân có chứng chỉ quốc tế CIIA (Certified International Investment Analyst) hoặc giấy xác nhận đã đạt kỳ thi quốc tế CFA bậc II (Chartered Financial Analyst level II) trở lên được miễn chứng chỉ những vấn đề cơ bản về chứng khoán và thị trường chứng khoán, chứng chỉ phân tích và đầu tư chứng khoán, chứng chỉ phân tích báo cáo tài chính doanh nghiệp;
+
+b) Cá nhân có chứng chỉ quốc tế ACCA (Association of Chartered Certified Accountants), CPA (Certified Public Accountants) hoặc chứng chỉ kiểm toán viên, chứng chỉ hành nghề kế toán do Bộ Tài chính cấp hoặc giấy xác nhận đã đạt kỳ thi quốc tế CFA bậc I (Chartered Financial Analyst level I), CIIA bậc I (Certified International Investment Analyst level I) được miễn chứng chỉ những vấn đề cơ bản về chứng khoán và thị trường chứng khoán, chứng chỉ phân tích báo cáo tài chính doanh nghiệp;
+
+c) Cá nhân có chứng chỉ hành nghề chứng khoán hợp pháp ở nước ngoài hoặc tài liệu tương đương chứng minh cá nhân đó đang được phép hành nghề chứng khoán hợp pháp ở nước ngoài được miễn tất cả chứng chỉ chuyên môn về chứng khoán.
+
+Chương VII
+
+ĐIỀU KHOẢN THI HÀNH [27]
+
+Điều 22. Hiệu lực thi hành và điều khoản chuyển tiếp
+
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.
+
+2. Bãi bỏ khoản 18 Điều 2 Nghị định số 58/2012/NĐ-CP .
+
+3. Chi nhánh ngân hàng nước ngoài tại Việt Nam đã được cấp Giấy chứng nhận đăng ký hoạt động lưu ký chứng khoán, đã đăng ký làm thành viên lưu ký của Trung tâm Lưu ký chứng khoán Việt Nam trước khi Luật chứng khoán ngày 29 tháng 6 năm 2006 có hiệu lực thì được tiếp tục làm thành viên lưu ký chứng khoán.
+
+4. Trừ trường hợp chuyển đổi loại hình doanh nghiệp thành công ty trách nhiệm hữu hạn một thành viên, tổ chức kinh doanh chứng khoán được thành lập trước khi Nghị định này có hiệu lực thi hành thực hiện tổ chức lại doanh nghiệp không phải đáp ứng điều kiện về cơ cấu cổ đông, cơ cấu thành viên góp vốn quy định tại khoản 4 Điều 5 và khoản 4 Điều 11 Nghị định này.
+
+Điều 23. Tổ chức thực hiện
+
+1. Bộ Tài chính có trách nhiệm hướng dẫn thi hành Nghị định này.
+
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này./.
+
+|  | XÁC THỰC VĂN BẢN HỢP NHẤT KT. BỘ TRƯỞNG THỨ TRƯỞNG Huỳnh Quang Hải |
+
+|--|--------------------------------------------------------------------|
+
+XÁC THỰC VĂN BẢN HỢP NHẤT
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Huỳnh Quang Hải
+
+[1] Văn bản này được hợp nhất từ 02 Nghị định sau:
+
+- Nghị định số 86/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định điều kiện đầu tư, kinh doanh chứng khoán, có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2016;
+
+- Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+Văn bản hợp nhất này không thay thế 02 Nghị định nêu trên.
+
+[2] Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính có căn cứ ban hành như sau:
+
+“Căn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015;
+
+Căn cứ Luật chứng khoán ngày 29 tháng 6 năm 2006 và Luật sửa đổi, bổ sung một số điều của Luật chứng khoán ngày 24 tháng 11 năm 2010;
+
+Căn cứ Luật kinh doanh bảo hiểm ngày 09 tháng 12 năm 2000 và Luật sửa đổi, bổ sung một số điều của Luật kinh doanh bảo hiểm ngày 24 tháng 11 năm 2010;
+
+Căn cứ Luật kiểm toán độc lập ngày 29 tháng 3 năm 2011;
+
+Căn cứ Luật giá ngày 20 tháng 6 năm 2012;
+
+Căn cứ Luật kế toán ngày 20 tháng 11 năm 2015;
+
+Căn cứ Luật đầu tư ngày 26 tháng 11 năm 2014;
+
+Căn cứ Luật sửa đổi, bổ sung Điều 6 và Phụ lục 4 về Danh mục ngành, nghề đầu tư kinh doanh có điều kiện của Luật đầu tư ngày 22 tháng 11 năm 2016;
+
+Căn cứ Luật doanh nghiệp ngày 26 tháng 11 năm 2014;
+
+Theo đề nghị của Bộ trưởng Bộ Tài chính;
+
+Chính phủ ban hành Nghị định sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính.”
+
+[3] Khoản này được sửa đổi theo quy định tại điểm a khoản 1 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[4] Điểm này được sửa đổi theo quy định tại điểm b khoản 1 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[5] Điểm này được sửa đổi theo quy định tại điểm b khoản 1 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[6] Điểm này được sửa đổi theo quy định tại điểm b khoản 1 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[7] Điểm này được bãi bỏ theo quy định tại điểm a khoản 2 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[8] Điểm này được bãi bỏ theo quy định tại điểm a khoản 2 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[9] Điểm này được sửa đổi theo quy định tại điểm c khoản 1 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[10] Điểm này được bãi bỏ theo quy định tại điểm b khoản 2 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[11] Điểm này được bãi bỏ theo quy định tại điểm b khoản 2 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[12] Điểm này được sửa đổi theo quy định tại điểm d khoản 1 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[13] Điểm này được sửa đổi theo quy định tại điểm d khoản 1 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[14] Điểm này được sửa đổi theo quy định tại điểm đ khoản 1 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[15] Điểm này được sửa đổi theo quy định tại điểm e khoản 1 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[16] Điểm này được bãi bỏ theo quy định tại điểm c khoản 2 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[17] Khoản này được sửa đổi theo quy định tại điểm g khoản 1 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[18] Khoản này được bãi bỏ theo quy định tại điểm d khoản 2 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[19] Điểm này được bãi bỏ theo quy định tại điểm đ khoản 2 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[20] Điểm này được bãi bỏ theo quy định tại điểm đ khoản 2 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[21] Điểm này được bãi bỏ theo quy định tại điểm e khoản 2 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[22] Điểm này được bãi bỏ theo quy định tại điểm e khoản 2 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[23] Khoản này được bãi bỏ theo quy định tại điểm g khoản 2 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[24] Khoản này được bãi bỏ theo quy định tại điểm h khoản 2 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[25] Khoản này được bãi bỏ theo quy định tại điểm h khoản 2 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[26] Điều này được bãi bỏ theo quy định tại điểm i khoản 2 Điều 14 Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018.
+
+[27] Điều 15 của Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính, có hiệu lực thi hành kể từ ngày 07 tháng 11 năm 2018 quy định như sau:
+
+“Điều 15. Hiệu lực thi hành và điều khoản chuyển tiếp
+
+1. Nghị định này có hiệu lực thi hành từ ngày ký ban hành.
+
+2. Tổ chức, cá nhân đã nộp hồ sơ cho cơ quan quản lý nhà nước có thẩm quyền để được cấp Giấy chứng nhận đủ điều kiện kinh doanh trong lĩnh vực kế toán, kiểm toán, thẩm định giá, xổ số, trò chơi điện tử có thưởng dành cho người nước ngoài, casino, đặt cược, dịch vụ xếp hạng tín nhiệm, dịch vụ quản lý quỹ hưu trí tự nguyện; Giấy phép thành lập và hoạt động trong lĩnh vực kinh doanh bảo hiểm, kinh doanh chứng khoán; Giấy chứng nhận đăng ký hoạt động văn phòng đại diện tổ chức kinh doanh chứng khoán của tổ chức kinh doanh chứng khoán nước ngoài; chấp thuận công ty chứng khoán được thực hiện giao dịch ký quỹ, giao dịch trong ngày; chấp thuận cho doanh nghiệp kiểm toán được kiểm toán cho đơn vị có lợi ích công chúng trước ngày Nghị định này có hiệu lực thi hành mà chưa được cơ quan quản lý nhà nước cấp giấy hoặc chấp thuận thì được áp dụng các điều kiện đầu tư, kinh doanh quy định tại Nghị định này.
+
+3. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm hướng dẫn và thi hành Nghị định này./.”

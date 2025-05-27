@@ -1,0 +1,795 @@
+| BỘ TÀI CHÍNH       | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|--------------------|-----------------------------------------------------------------|
+
+| Số: 40/2020/TT-BTC | Hà Nội, ngày 15 tháng 5 năm 2020                                |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 40/2020/TT-BTC
+
+Hà Nội, ngày 15 tháng 5 năm 2020
+
+THÔNG TƯ
+
+HƯỚNG DẪN CHẾ ĐỘ BÁO CÁO TRONG LĨNH VỰC KẾ TOÁN, KIỂM TOÁN ĐỘC LẬP TẠI NGHỊ ĐỊNH SỐ 174/2016/NĐ-CP NGÀY 30/12/2016 CỦA CHÍNH PHỦ QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT KẾ TOÁN VÀ NGHỊ ĐỊNH SỐ 17/2012/NĐ-CP NGÀY 13/3/2012 CỦA CHÍNH PHỦ QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT KIỂM TOÁN ĐỘC LẬP
+
+Căn cứ Luật kiểm toán độc lập số 67/2011/QH12 ngày 29/3/2011;
+
+Căn cứ Luật kế toán số 88/2015/QH13 ngày 20/11/2015;
+
+Căn cứ Nghị định số 17/2012/NĐ-CP ngày 13/3/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật kiểm toán độc lập;
+
+Căn cứ Nghị định số 174/2016/NĐ-CP ngày 30/12/2016 của Chính phủ quy định chi tiết một số điều của Luật kế toán;
+
+Căn cứ Nghị định số 09/2019/NĐ-CP ngày 24/01/2019 của Chính phủ quy định về chế độ báo cáo của cơ quan hành chính nhà nước;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Cục trưởng Cục Quản lý, giám sát kế toán, kiểm toán,
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn chế độ báo cáo trong lĩnh vực kế toán, kiểm toán độc lập tại Nghị định số 174/2016/NĐ-CP ngày 30/12/2016 của Chính phủ quy định chi tiết một số điều của Luật kế toán và Nghị định số 17/2012/NĐ-CP ngày 13/3/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật kiểm toán độc lập.
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Thông tư này hướng dẫn chế độ báo cáo định kỳ về tình hình thực hiện hợp đồng cung cấp dịch vụ kế toán, kiểm toán độc lập qua biên giới phát sinh trong kỳ tại Việt Nam và tình hình thực hiện liên danh với doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài, doanh nghiệp kiểm toán nước ngoài trong việc cung cấp dịch vụ kế toán, kiểm toán độc lập qua biên giới theo quy định tại Điều 32, Điều 33 Nghị định số 174/2016/NĐ-CP ngày 30/12/2016 của Chính phủ quy định chi tiết một số điều của Luật kế toán và Điều 13, Điều 14 Nghị định số 17/2012/NĐ-CP ngày 13/3/2012 quy định chi tiết và hướng dẫn thi hành một số điều của Luật kiểm toán độc lập.
+
+Điều 2. Đối tượng áp dụng
+
+1. Doanh nghiệp kinh doanh dịch vụ kế toán tại Việt Nam có liên danh với doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài để cung cấp dịch vụ kế toán qua biên giới tại Việt Nam.
+
+2. Doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài có cung cấp dịch vụ kế toán qua biên giới tại Việt Nam.
+
+3. Doanh nghiệp kiểm toán tại Việt Nam có liên danh với doanh nghiệp kiểm toán nước ngoài để cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam.
+
+4. Doanh nghiệp kiểm toán nước ngoài có cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam.
+
+5. Tổ chức, cá nhân có liên quan đến chế độ báo cáo định kỳ về tình hình thực hiện hợp đồng cung cấp dịch vụ kế toán, kiểm toán qua biên giới phát sinh trong kỳ tại Việt Nam và tình hình thực hiện liên danh với doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài, doanh nghiệp kiểm toán nước ngoài trong việc cung cấp dịch vụ kế toán, kiểm toán qua biên giới.
+
+Chương II
+
+QUY ĐỊNH CỤ THỂ
+
+Điều 3. Chế độ báo cáo định kỳ khi cung cấp dịch vụ kế toán qua biên giới
+
+1. Nội dung báo cáo định kỳ về việc cung cấp dịch vụ kế toán qua biên giới của doanh nghiệp dịch vụ kế toán nước ngoài:
+
+a) Tên báo cáo: Tình hình thực hiện hợp đồng cung cấp dịch vụ kế toán qua biên giới.
+
+b) Nội dung yêu cầu báo cáo:
+
+- Thông tin về các bên liên danh;
+
+- Danh sách kế toán viên hành nghề của doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài;
+
+- Danh sách kế toán viên hành nghề được giao phụ trách phần việc thuộc trách nhiệm của mỗi bên trong hợp đồng cung cấp dịch vụ kế toán;
+
+- Danh sách hợp đồng cung cấp dịch vụ kế toán qua biên giới giao kết trong giai đoạn 06 tháng;
+
+- Tình hình chấp hành pháp luật Việt Nam.
+
+c) Đối tượng thực hiện báo cáo: Doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài có cung cấp dịch vụ kế toán qua biên giới tại Việt Nam.
+
+d) Cơ quan nhận báo cáo: Bộ Tài chính (Cục Quản lý, giám sát kế toán, kiểm toán).
+
+đ) Phương thức gửi, nhận báo cáo: Báo cáo định kỳ được thể hiện dưới hình thức văn bản giấy hoặc bản sao điện tử, được gửi bằng một trong các phương thức sau:
+
+- Gửi trực tiếp;
+
+- Gửi qua dịch vụ bưu chính;
+
+- Gửi qua hệ thống thư điện tử;
+
+- Các phương thức khác theo quy định của pháp luật.
+
+e) Thời hạn gửi báo cáo: Chậm nhất là ngày 31/7 năm báo cáo đối với báo cáo 6 tháng đầu năm; Chậm nhất là ngày 31/01 năm sau đối với báo cáo 6 tháng cuối năm.
+
+g) Tần suất thực hiện báo cáo: Báo cáo định kỳ 6 tháng một lần.
+
+h) Thời gian chốt số liệu báo cáo: Thời gian chốt số liệu 6 tháng đầu năm được tính từ ngày 01/01 đến ngày 30/6 của năm báo cáo, Thời gian chốt số liệu 6 tháng cuối năm được tính từ ngày 01/7 đến ngày 31/12 của năm báo cáo.
+
+i) Mẫu đề cương báo cáo: Theo Phụ lục số 01/BC ban hành kèm theo Thông tư này.
+
+k) Mẫu biểu số liệu báo cáo: Theo Phụ lục số 01/BC ban hành kèm theo Thông tư này.
+
+l) Hướng dẫn quy trình thực hiện báo cáo: Hàng năm, doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài tổng hợp thông tin theo mẫu và gửi về Bộ Tài chính theo thời hạn quy định.
+
+2. Nội dung báo cáo định kỳ về tình hình thực hiện liên danh với doanh nghiệp dịch vụ kế toán nước ngoài:
+
+a) Tên báo cáo: Tình hình thực hiện liên danh với doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài trong việc cung cấp dịch vụ kế toán qua biên giới.
+
+b) Nội dung yêu cầu báo cáo:
+
+- Thông tin về các bên liên danh;
+
+- Danh sách kế toán viên hành nghề được giao phụ trách phần việc thuộc trách nhiệm của mỗi bên trong hợp đồng cung cấp dịch vụ kế toán;
+
+- Danh sách hợp đồng cung cấp dịch vụ kế toán qua biên giới giao kết trong giai đoạn 06 tháng.
+
+c) Đối tượng thực hiện báo cáo: Doanh nghiệp kinh doanh dịch vụ kế toán tại Việt Nam có liên danh với doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài để cung cấp dịch vụ kế toán qua biên giới tại Việt Nam.
+
+d) Cơ quan nhận báo cáo: Bộ Tài chính (Cục Quản lý, giám sát kế toán, kiểm toán).
+
+đ) Phương thức gửi, nhận báo cáo: Báo cáo định kỳ được thể hiện dưới hình thức văn bản giấy hoặc bản sao điện tử, được gửi bằng một trong các phương thức sau:
+
+- Gửi trực tiếp;
+
+- Gửi qua dịch vụ bưu chính;
+
+- Gửi qua hệ thống thư điện tử;
+
+- Các phương thức khác theo quy định của pháp luật.
+
+e) Thời hạn gửi báo cáo: Chậm nhất là ngày 31/7 năm báo cáo đối với báo cáo 6 tháng đầu năm; Chậm nhất là ngày 31/01 năm sau đối với báo cáo 6 tháng cuối năm.
+
+g) Tần suất thực hiện báo cáo: Báo cáo định kỳ 6 tháng một lần.
+
+h) Thời gian chốt số liệu báo cáo: Thời gian chốt số liệu 6 tháng đầu năm được tính từ ngày 01/01 đến ngày 30/6 của năm báo cáo. Thời gian chốt số liệu 6 tháng cuối năm được tính từ ngày 01/7 đến ngày 31/12 của năm báo cáo.
+
+i) Mẫu đề cương báo cáo: Theo Phụ lục số 02/BC ban hành kèm theo Thông tư này.
+
+k) Mẫu biểu số liệu báo cáo: Theo Phụ lục số 02/BC ban hành kèm theo Thông tư này.
+
+l) Hướng dẫn quy trình thực hiện báo cáo: Hàng năm, doanh nghiệp kinh doanh dịch vụ kế toán tại Việt Nam tổng hợp thông tin theo mẫu và gửi về Bộ Tài chính theo thời hạn quy định.
+
+Điều 4. Chế độ báo cáo định kỳ khi cung cấp dịch vụ kiểm toán qua biên giới
+
+1. Nội dung báo cáo định kỳ về tình hình thực hiện hợp đồng cung cấp dịch vụ kiểm toán qua biên giới của doanh nghiệp kiểm toán nước ngoài:
+
+a) Tên báo cáo: Tình hình thực hiện hợp đồng cung cấp dịch vụ kiểm toán qua biên giới.
+
+b) Nội dung yêu cầu báo cáo:
+
+- Thông tin về các bên liên danh;
+
+- Danh sách kiểm toán viên hành nghề của doanh nghiệp kiểm toán nước ngoài;
+
+- Danh sách kiểm toán viên hành nghề được giao phụ trách phần việc thuộc trách nhiệm của mỗi bên trong hợp đồng kiểm toán;
+
+- Danh sách hợp đồng cung cấp dịch vụ kiểm toán qua biên giới giao kết trong giai đoạn 06 tháng;
+
+- Tình hình chấp hành pháp luật Việt Nam.
+
+c) Đối tượng thực hiện báo cáo: Doanh nghiệp kiểm toán nước ngoài có cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam.
+
+d) Cơ quan nhận báo cáo: Bộ Tài chính (Cục Quản lý, giám sát kế toán, kiểm toán).
+
+đ) Phương thức gửi, nhận báo cáo: Báo cáo định kỳ được thể hiện dưới hình thức văn bản giấy hoặc bản sao điện tử, được gửi bằng một trong các phương thức sau:
+
+- Gửi trực tiếp;
+
+- Gửi qua dịch vụ bưu chính;
+
+- Gửi qua hệ thống thư điện tử;
+
+- Các phương thức khác theo quy định của pháp luật.
+
+e) Thời hạn gửi báo cáo: Chậm nhất là ngày 31/7 năm báo cáo đối với báo cáo 6 tháng đầu năm; Chậm nhất là ngày 31/01 năm sau đối với báo cáo 6 tháng cuối năm.
+
+g) Tần suất thực hiện báo cáo: Báo cáo định kỳ 6 tháng một lần.
+
+h) Thời gian chốt số liệu báo cáo: Thời gian chốt số liệu 6 tháng đầu năm được tính từ ngày 01/01 đến ngày 30/6 của năm báo cáo. Thời gian chốt số liệu 6 tháng cuối năm được tính từ ngày 01/7 đến ngày 31/12 của năm báo cáo.
+
+i) Mẫu đề cương báo cáo: Theo Phụ lục số 03/BC ban hành kèm theo Thông tư này.
+
+k) Mẫu biểu số liệu báo cáo: Theo Phụ lục số 03/BC ban hành kèm theo Thông tư này.
+
+l) Hướng dẫn quy trình thực hiện báo cáo: Hàng năm, doanh nghiệp kiểm toán nước ngoài tổng hợp thông tin theo mẫu và gửi về Bộ Tài chính theo thời hạn quy định.
+
+2. Nội dung báo cáo định kỳ về tình hình thực hiện liên danh với doanh nghiệp kiểm toán toán nước ngoài:
+
+a) Tên báo cáo: Tình hình thực hiện liên danh với doanh nghiệp kiểm toán nước ngoài trong việc cung cấp dịch vụ kiểm toán qua biên giới.
+
+b) Nội dung yêu cầu báo cáo:
+
+- Thông tin về các bên liên danh;
+
+- Danh sách kiểm toán viên hành nghề được giao phụ trách phần việc thuộc trách nhiệm của mỗi bên trong hợp đồng kiểm toán;
+
+- Danh sách hợp đồng cung cấp dịch vụ kiểm toán qua biên giới giao kết trong giai đoạn 06 tháng.
+
+c) Đối tượng thực hiện báo cáo: Doanh nghiệp kiểm toán tại Việt Nam có liên danh với doanh nghiệp kiểm toán nước ngoài để cung cấp dịch vụ kiểm toán qua biên giới tại Việt Nam.
+
+d) Cơ quan nhận báo cáo: Bộ Tài chính (Cục Quản lý, giám sát kế toán, kiểm toán).
+
+đ) Phương thức gửi, nhận báo cáo: Báo cáo định kỳ được thể hiện dưới hình thức văn bản giấy hoặc bản sao điện tử, được gửi bằng một trong các phương thức sau:
+
+- Gửi trực tiếp;
+
+- Gửi qua dịch vụ bưu chính;
+
+- Gửi qua hệ thống thư điện tử;
+
+- Các phương thức khác theo quy định của pháp luật,
+
+e) Thời hạn gửi báo cáo: Chậm nhất là ngày 31/7 năm báo cáo đối với báo cáo 6 tháng đầu năm; Chậm nhất là ngày 31/01 năm sau đối với báo cáo 6 tháng cuối năm.
+
+g) Tần suất thực hiện báo cáo: Báo cáo định kỳ 6 tháng một lần.
+
+h) Thời gian chốt số liệu báo cáo: Thời gian chốt số liệu 6 tháng đầu năm được tính từ ngày 01/01 đến ngày 30/6 của năm báo cáo. Thời gian chốt số liệu 6 tháng cuối năm dược tính từ ngày 01/7 đến ngày 31/12 của năm báo cáo.
+
+i) Mẫu đề cương báo cáo: Theo Phụ lục số 04/BC ban hành kèm theo Thông tư này.
+
+k) Mẫu biểu số liệu báo cáo: Theo Phụ lục số 04/BC ban hành kèm theo Thông tư này.
+
+l) Hướng dẫn quy trình thực hiện báo cáo: Hàng năm, doanh nghiệp kiểm toán tại Việt Nam tổng hợp thông tin theo mẫu và gửi về Bộ Tài chính theo thời hạn quy định.
+
+Điều 5. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01/7/2020.
+
+2. Trong quá trình thực hiện, nếu có khó khăn vướng mắc, đề nghị phản ánh kịp thời để Bộ Tài chính nghiên cứu sửa đổi, bổ sung cho phù hợp./.
+
+| Nơi nhận: - Văn phòng Chính phủ; - Văn phòng Tổng bí thư; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Văn phòng TW và các ban của Đảng; - Viện Kiểm sát Nhân dân tối cao; - Tòa án Nhân dân tối cao; - Kiểm toán Nhà nước; - Phòng Thương mại và Công nghiệp Việt Nam; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - UBND các tỉnh, thành phố trực thuộc TW; - Sở Tài chính, Cục Thuế các tỉnh, thành phố trực thuộc TW; - Các công ty dịch vụ kế toán; hộ kinh doanh dịch vụ kế toán; - Các doanh nghiệp kiểm toán; - Hội Kiểm toán viên hành nghề Việt Nam; - Hội Kế toán và kiểm toán Việt Nam; - Các đơn vị thuộc Bộ Tài chính; - Cục Kiểm tra văn bản (Bộ Tư pháp); - Vụ Pháp chế (Bộ Tài chính); - Website Bộ Tài chính; - Công báo; - Lưu: VT, Cục QLKT. | KT. BỘ TRƯỞNG THỨ TRƯỞNG Đỗ Hoàng Anh Tuấn |
+
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+
+Nơi nhận: - Văn phòng Chính phủ; - Văn phòng Tổng bí thư; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Văn phòng TW và các ban của Đảng; - Viện Kiểm sát Nhân dân tối cao; - Tòa án Nhân dân tối cao; - Kiểm toán Nhà nước; - Phòng Thương mại và Công nghiệp Việt Nam; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - UBND các tỉnh, thành phố trực thuộc TW; - Sở Tài chính, Cục Thuế các tỉnh, thành phố trực thuộc TW; - Các công ty dịch vụ kế toán; hộ kinh doanh dịch vụ kế toán; - Các doanh nghiệp kiểm toán; - Hội Kiểm toán viên hành nghề Việt Nam; - Hội Kế toán và kiểm toán Việt Nam; - Các đơn vị thuộc Bộ Tài chính; - Cục Kiểm tra văn bản (Bộ Tư pháp); - Vụ Pháp chế (Bộ Tài chính); - Website Bộ Tài chính; - Công báo; - Lưu: VT, Cục QLKT.
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Đỗ Hoàng Anh Tuấn
+
+PHỤ LỤC SỐ 01/BC
+
+MẪU BÁO CÁO TÌNH HÌNH THỰC HIỆN HỢP ĐỒNG CUNG CẤP DỊCH VỤ KẾ TOÁN QUA BIÊN GIỚI (Ban hành kèm theo Thông tư số 40/2020/TT-BTC ngày 15/5/2020 của Bộ trưởng Bộ Tài chính)
+
+| TÊN DOANH NGHIỆP  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-------------------|-----------------------------------------------------------------|
+
+|                   | ….., ngày ….. tháng ….. năm …..                                 |
+
+TÊN DOANH NGHIỆP -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+….., ngày ….. tháng ….. năm …..
+
+BÁO CÁO
+
+Tình hình thực hiện hợp đồng cung cấp dịch vụ kế toán qua biên giới
+
+(Giai đoạn 06 tháng từ ngày …./…./…. đến ngày …./…./….)
+
+Kính gửi: Bộ Tài chính
+
+Thực hiện quy định của Thông tư số 40/2020/TT-BTC ngày 15/5/2020 của Bộ Tài chính hướng dẫn chế độ báo cáo trong lĩnh vực kế toán, kiểm toán độc lập tại Nghị định số 174/2016/NĐ-CP ngày 30/12/2016 của Chính phủ quy định chi tiết một số điều của Luật kế toán và Nghị định số 17/2012/NĐ-CP ngày 13/3/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật kiểm toán độc lập, (tên doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài) báo cáo tình hình thực hiện hợp đồng cung cấp dịch vụ kế toán qua biên giới như sau:
+
+1. (Tên doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài) có Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán qua biên giới tại Việt Nam (số) do (tên cơ quan cấp) cấp (ngày/tháng/năm) hiện đang liên danh với:
+
+(1) (Tên doanh nghiệp kinh doanh dịch vụ kế toán tại Việt Nam) theo Hợp đồng liên danh (số) (ngày/tháng/năm)
+
+(Tên doanh nghiệp kinh doanh dịch vụ kế toán tại Việt Nam) đang hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư hoặc giấy tờ khác có giá trị tương đương (số) do (tên cơ quan cấp) cấp (ngày/tháng/năm). Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán (số) cấp lần đầu (ngày/tháng/năm) (Cấp lại (lần thứ) (ngày/tháng/năm)).
+
+(2) (Tên doanh nghiệp kinh doanh dịch vụ kế toán tại Việt Nam) theo Hợp đồng liên danh (số) (ngày/tháng/năm)
+
+(Tên doanh nghiệp kinh doanh dịch vụ kế toán tại Việt Nam) đang hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư hoặc giấy tờ khác có giá trị tương đương (số) do (tên cơ quan cấp) cấp (ngày/tháng/năm). Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán (số) cấp lần đầu (ngày/tháng/năm) (Cấp lại (lần thứ) (ngày/tháng/năm)).
+
+…
+
+2. Danh sách kế toán viên hành nghề của (tên doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài):
+
+| Số TT | Họ và tên kế toán viên hành nghề | Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán | Thời hạn Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán |   |   |
+
+|-------|----------------------------------|---------------------------------------------------|------------------------------------------------------------|---|---|
+
+| Số    | Ngày cấp                         | Từ ngày                                           | Đến ngày                                                   |   |   |
+
+| 1     | 2                                | 3                                                 | 4                                                          | 5 | 6 |
+
+|       |                                  |                                                   |                                                            |   |   |
+
+|       |                                  |                                                   |                                                            |   |   |
+
+|       |                                  |                                                   |                                                            |   |   |
+
+Số TT
+
+Họ và tên kế toán viên hành nghề
+
+Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán
+
+Thời hạn Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán
+
+Số
+
+Ngày cấp
+
+Từ ngày
+
+Đến ngày
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+3. Danh sách hợp đồng cung cấp dịch vụ kế toán qua biên giới trong giai đoạn 06 tháng từ …./…./…. đến …./…./….:
+
+| Số TT     | Tên hợp đồng            | Số hợp đồng | Ngày ký hợp đồng | Kế toán viên hành nghề được giao phụ trách phần việc thuộc trách nhiệm của mỗi bên |   |
+
+|-----------|-------------------------|-------------|------------------|------------------------------------------------------------------------------------|---|
+
+| Họ và tên | Đơn vị                  |             |                  |                                                                                    |   |
+
+| 1         | 2                       | 3           | 4                | 5                                                                                  | 6 |
+
+| 1         | Hợp đồng đã hoàn thành  |             |                  |                                                                                    |   |
+
+| 1.1       |                         |             |                  |                                                                                    |   |
+
+| 1.2       |                         |             |                  |                                                                                    |   |
+
+| …         |                         |             |                  |                                                                                    |   |
+
+| 2         | Hợp đồng đang thực hiện |             |                  |                                                                                    |   |
+
+| 2.1       |                         |             |                  |                                                                                    |   |
+
+| 2.2       |                         |             |                  |                                                                                    |   |
+
+| ...       |                         |             |                  |                                                                                    |   |
+
+Số TT
+
+Tên hợp đồng
+
+Số hợp đồng
+
+Ngày ký hợp đồng
+
+Kế toán viên hành nghề được giao phụ trách phần việc thuộc trách nhiệm của mỗi bên
+
+Họ và tên
+
+Đơn vị
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1
+
+Hợp đồng đã hoàn thành
+
+1.1
+
+1.2
+
+…
+
+2
+
+Hợp đồng đang thực hiện
+
+2.1
+
+2.2
+
+...
+
+4. Về việc chấp hành pháp luật Việt Nam; (Nêu cụ thể các vi phạm về kế toán và các vi phạm khác của doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài và hình thức xử lý đã bị áp dụng, nếu có).
+
+(Tên doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài) cam đoan những nội dung kê khai trên đây là trung thực và xin chịu trách nhiệm trước pháp luật về nội dung báo cáo này./.
+
+|  | NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT (Ký tên, ghi rõ họ và tên và đóng dấu) |
+
+|--|----------------------------------------------------------------------|
+
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT (Ký tên, ghi rõ họ và tên và đóng dấu)
+
+PHỤ LỤC 02/BC
+
+MẪU BÁO CÁO TÌNH HÌNH THỰC HIỆN LIÊN DANH VỚI DOANH NGHIỆP DỊCH VỤ KẾ TOÁN NƯỚC NGOÀI TRONG VIỆC CUNG CẤP DỊCH VỤ KẾ TOÁN QUA BIÊN GIỚI (Ban hành kèm theo Thông tư số 40/2020/TT-BTC ngày 15/5/2020 của Bộ trưởng Bộ Tài chính)
+
+| TÊN DOANH NGHIỆP  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-------------------|-----------------------------------------------------------------|
+
+|                   | ….., ngày ….. tháng ….. năm …..                                 |
+
+TÊN DOANH NGHIỆP -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+….., ngày ….. tháng ….. năm …..
+
+BÁO CÁO
+
+Tình hình thực hiện liên danh với doanh nghiệp kế toán nước ngoài trong việc cung cấp dịch vụ kế toán qua biên giới
+
+(Giai đoạn 06 tháng từ ngày…./…./…. đến ngày…./…./….)
+
+Kính gửi: Bộ Tài chính
+
+Thực hiện quy định của Thông tư số 40/2020/TT-BTC ngày 15/5/2020 của Bộ Tài chính hướng dẫn chế độ báo cáo trong lĩnh vực kế toán, kiểm toán độc lập tại Nghị định số 174/2016/NĐ-CP ngày 30/12/2016 của Chính phủ quy định chi tiết một số điều của Luật kế toán và Nghị định số 17/2012/NĐ-CP ngày 13/3/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật kiểm toán độc lập, (tên doanh nghiệp kinh doanh dịch vụ kế toán tại Việt Nam) báo cáo tình hình thực hiện liên danh với doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài trong việc cung cấp dịch vụ kế toán qua biên giới như sau:
+
+1. (Tên doanh nghiệp kinh doanh dịch vụ kế toán tại Việt Nam) đang hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư hoặc giấy tờ khác có giá trị tương đương (số) do (tên cơ quan cấp) cấp (ngày/tháng/năm). Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán (số) cấp lần đầu (ngày/tháng/năm) (Cấp lại (lần thứ) (ngày/tháng/năm)).
+
+(Tên doanh nghiệp kinh doanh dịch vụ kế toán tại Việt Nam) hiện đang liên danh với:
+
+(1) (Tên doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài) có Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán qua biên giới tại Việt Nam (số) do (tên cơ quan cấp) cấp (ngày/tháng/năm) theo Hợp đồng liên danh (số) (ngày/tháng/năm).
+
+(2) (Tên doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài) có Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán qua biên giới tại Việt Nam (số) do (tên cơ quan cấp) cấp (ngày/tháng/năm) theo Hợp đồng liên danh (số)(ngày/tháng/năm).
+
+…
+
+2. Danh sách hợp đồng cung cấp dịch vụ kế toán qua biên giới trong giai đoạn 06 tháng từ ngày …./…./…. đến ngày …./…./….:
+
+| Số TT     | Tên hợp đồng            | Số hợp đồng | Ngày ký hợp đồng | Kế toán viên hành nghề được giao phụ trách phần việc thuộc trách nhiệm của mỗi bên |   |
+
+|-----------|-------------------------|-------------|------------------|------------------------------------------------------------------------------------|---|
+
+| Họ và tên | Đơn vị                  |             |                  |                                                                                    |   |
+
+| 1         | 2                       | 3           | 4                | 5                                                                                  | 6 |
+
+| 1         | Hợp đồng đã hoàn thành  |             |                  |                                                                                    |   |
+
+| 1.1       |                         |             |                  |                                                                                    |   |
+
+| 1.2       |                         |             |                  |                                                                                    |   |
+
+| …         |                         |             |                  |                                                                                    |   |
+
+| 2         | Hợp đồng đang thực hiện |             |                  |                                                                                    |   |
+
+| 2.1       |                         |             |                  |                                                                                    |   |
+
+| 2.2       |                         |             |                  |                                                                                    |   |
+
+| …         |                         |             |                  |                                                                                    |   |
+
+Số TT
+
+Tên hợp đồng
+
+Số hợp đồng
+
+Ngày ký hợp đồng
+
+Kế toán viên hành nghề được giao phụ trách phần việc thuộc trách nhiệm của mỗi bên
+
+Họ và tên
+
+Đơn vị
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1
+
+Hợp đồng đã hoàn thành
+
+1.1
+
+1.2
+
+…
+
+2
+
+Hợp đồng đang thực hiện
+
+2.1
+
+2.2
+
+…
+
+(Tên doanh nghiệp kế toán tại Việt Nam) cam đoan những nội dung kê khai trên đây là trung thực và xin chịu trách nhiệm trước pháp luật về nội dung báo cáo này./.
+
+|  | NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT (Ký tên, ghi rõ họ và tên và đóng dấu) |
+
+|--|----------------------------------------------------------------------|
+
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT (Ký tên, ghi rõ họ và tên và đóng dấu)
+
+PHỤ LỤC 03/BC
+
+MẪU BÁO CÁO TÌNH HÌNH THỰC HIỆN HỢP ĐỒNG CUNG CẤP DỊCH VỤ KIỂM TOÁN QUA BIÊN GIỚI (Ban hành kèm theo Thông tư số 40/2020/TT-BTC ngày 15/5/2020 của Bộ trưởng Bộ Tài chính)
+
+| TÊN DOANH NGHIỆP  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-------------------|-----------------------------------------------------------------|
+
+|                   | ….., ngày ….. tháng ….. năm …..                                 |
+
+TÊN DOANH NGHIỆP -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+….., ngày ….. tháng ….. năm …..
+
+BÁO CÁO
+
+Tình hình thực hiện hợp đồng cung cấp dịch vụ kiểm toán qua biên giới
+
+(Giai đoạn 06 tháng từ ngày…./…./…. đến ngày…./…./….)
+
+Kính gửi: Bộ Tài chính
+
+Thực hiện quy định của Thông tư số 40/2020/TT-BTC ngày 15/5/2020 của Bộ Tài chính hướng dẫn chế độ báo cáo trong lĩnh vực kế toán, kiểm toán độc lập tại Nghị định số 174/2016/NĐ-CP ngày 30/12/2016 của Chính phủ quy định chi tiết một số điều của Luật kế toán và Nghị định số 17/2012/NĐ-CP ngày 13/3/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật kiểm toán độc lập, (tên doanh nghiệp kiểm toán nước ngoài) báo cáo tình hình thực hiện hợp đồng cung cấp dịch vụ kiểm toán qua biên giới như sau:
+
+1. (Tên doanh nghiệp kiểm toán nước ngoài) có Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán qua biên giới tại Việt Nam (số) do (tên cơ quan cấp) cấp (ngày/tháng/năm) hiện đang liên danh với:
+
+(1) (Tên doanh nghiệp kiểm toán tại Việt Nam) theo Hợp đồng liên danh (số) (ngày/tháng/năm)
+
+(Tên doanh nghiệp kiểm toán tại Việt Nam) đang hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư hoặc giấy tờ khác có giá trị tương đương (số) do (tên cơ quan cấp) cấp (ngày/tháng/năm). Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (số) cấp lần đầu (ngày/tháng/năm) (điều chỉnh (lần thứ) (ngày/tháng/năm)).
+
+(2) (Tên doanh nghiệp kiểm toán tại Việt Nam) theo Hợp đồng liên danh (số) (ngày/tháng/năm)
+
+(Tên doanh nghiệp kiểm toán tại Việt Nam) đang hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư hoặc giấy tờ khác có giá trị tương đương (số) do (tên cơ quan cấp) cấp (ngày/tháng/năm). Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (số) cấp lần đầu (ngày/tháng/năm) (điều chỉnh (lần thứ) (ngày/tháng/năm)).
+
+…
+
+2. Danh sách kiểm toán viên hành nghề của (tên doanh nghiệp kiểm toán nước ngoài):
+
+| Số TT | Họ và tên kiểm toán viên hành nghề | Giấy chứng nhận đăng ký hành nghề kiểm toán | Thời hạn Giấy chứng nhận đăng ký hành nghề kiểm toán |   |   |
+
+|-------|------------------------------------|---------------------------------------------|------------------------------------------------------|---|---|
+
+| Số    | Ngày cấp                           | Từ ngày                                     | Đến ngày                                             |   |   |
+
+| 1     | 2                                  | 3                                           | 4                                                    | 5 | 6 |
+
+|       |                                    |                                             |                                                      |   |   |
+
+|       |                                    |                                             |                                                      |   |   |
+
+|       |                                    |                                             |                                                      |   |   |
+
+Số TT
+
+Họ và tên kiểm toán viên hành nghề
+
+Giấy chứng nhận đăng ký hành nghề kiểm toán
+
+Thời hạn Giấy chứng nhận đăng ký hành nghề kiểm toán
+
+Số
+
+Ngày cấp
+
+Từ ngày
+
+Đến ngày
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+3. Danh sách hợp đồng cung cấp dịch vụ kiểm toán qua biên giới giao kết trong giai đoạn 06 tháng từ ngày …/…/… đến ngày …/…/…
+
+| Số TT     | Tên hợp đồng            | Số hợp đồng | Ngày ký hợp đồng | Kiểm toán viên hành nghề được giao phụ trách phần việc thuộc trách nhiệm của mỗi bên |   |
+
+|-----------|-------------------------|-------------|------------------|--------------------------------------------------------------------------------------|---|
+
+| Họ và tên | Đơn vị                  |             |                  |                                                                                      |   |
+
+| 1         | 2                       | 3           | 4                | 5                                                                                    | 6 |
+
+| 1         | Hợp đồng đã hoàn thành  |             |                  |                                                                                      |   |
+
+| 1.1       |                         |             |                  |                                                                                      |   |
+
+| 1.2       |                         |             |                  |                                                                                      |   |
+
+| …         |                         |             |                  |                                                                                      |   |
+
+| 2         | Hợp đồng đang thực hiện |             |                  |                                                                                      |   |
+
+| 2.1       |                         |             |                  |                                                                                      |   |
+
+| 2.2       |                         |             |                  |                                                                                      |   |
+
+| …         |                         |             |                  |                                                                                      |   |
+
+Số TT
+
+Tên hợp đồng
+
+Số hợp đồng
+
+Ngày ký hợp đồng
+
+Kiểm toán viên hành nghề được giao phụ trách phần việc thuộc trách nhiệm của mỗi bên
+
+Họ và tên
+
+Đơn vị
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1
+
+Hợp đồng đã hoàn thành
+
+1.1
+
+1.2
+
+…
+
+2
+
+Hợp đồng đang thực hiện
+
+2.1
+
+2.2
+
+…
+
+4. Về việc chấp hành pháp luật Việt Nam: (Nêu cụ thể các vi phạm của doanh nghiệp kiểm toán nước ngoài về kế toán, kiểm toán và các vi phạm khác và hình thức xử lý đã bị áp dụng, nếu có).
+
+(Tên doanh nghiệp kiểm toán nước ngoài) cam đoan những nội dung kê khai trên đây là trung thực và xin chịu trách nhiệm trước pháp luật về nội dung báo cáo này./.
+
+|  | NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT (Ký tên, ghi rõ họ và tên và đóng dấu) |
+
+|--|----------------------------------------------------------------------|
+
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT (Ký tên, ghi rõ họ và tên và đóng dấu)
+
+PHỤ LỤC 04/BC
+
+MẪU BÁO CÁO TÌNH HÌNH THỰC HIỆN LIÊN DANH VỚI DOANH NGHIỆP KIỂM TOÁN NƯỚC NGOÀI TRONG VIỆC CUNG CẤP DỊCH VỤ KIỂM TOÁN QUA BIÊN GIỚI (Ban hành kèm theo Thông tư số 40/2020/TT-BTC ngày 15/5/2020 của Bộ trưởng Bộ Tài chính)
+
+| TÊN DOANH NGHIỆP  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-------------------|-----------------------------------------------------------------|
+
+|                   | ….., ngày ….. tháng ….. năm …..                                 |
+
+TÊN DOANH NGHIỆP -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+….., ngày ….. tháng ….. năm …..
+
+BÁO CÁO
+
+Tình hình thực hiện liên danh với doanh nghiệp kiểm toán nước ngoài trong việc cung cấp dịch vụ kiểm toán qua biên giới
+
+(Giai đoạn 06 tháng từ ngày…./…./…. đến ngày…./…./….)
+
+Kính gửi: Bộ Tài chính
+
+Thực hiện quy định của Thông tư số 40/2020/TT-BTC ngày 15/5/2020 của Bộ Tài chính hướng dẫn chế độ báo cáo trong lĩnh vực kế toán, kiểm toán độc lập tại Nghị định số 174/2016/NĐ-CP ngày 30/12/2016 của Chính phủ quy định chi tiết một số điều của Luật kế toán và Nghị định số 17/2012/NĐ-CP ngày 13/3/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật kiểm toán độc lập, (tên doanh nghiệp kiểm toán tại Việt Nam) báo cáo tình hình thực hiện liên danh với doanh nghiệp kiểm toán nước ngoài trong việc cung cấp dịch vụ kiểm toán qua biên giới như sau:
+
+1. (Tên doanh nghiệp kiểm toán tại Việt Nam) đang hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư hoặc giấy tờ khác có giá trị tương đương (số) do (tên cơ quan cấp) cấp (ngày/tháng/năm). Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (số) cấp lần đầu (ngày/tháng/năm) (điều chỉnh (lần thứ) (ngày/tháng/năm)).
+
+(Tên doanh nghiệp kiểm toán tại Việt Nam) hiện đang liên danh với:
+
+(1) (Tên doanh nghiệp kiểm toán nước ngoài) có Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán qua biên giới tại Việt Nam (số) do (tên cơ quan cấp) cấp (ngày/tháng/năm) theo Hợp đồng liên danh (số)(ngày/tháng/năm).
+
+(2) (Tên doanh nghiệp kiểm toán nước ngoài) có Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán qua biên giới tại Việt Nam (số) do (tên cơ quan cấp) cấp (ngày/tháng/năm) theo Hợp đồng liên danh (số) (ngày/tháng/năm).
+
+…
+
+2. Danh sách hợp đồng cung cấp dịch vụ kiểm toán qua biên giới trong giai đoạn 06 tháng từ ngày .../…/... đến ngày…/…/…:
+
+| Số TT     | Tên hợp đồng            | Số hợp đồng | Ngày ký hợp đồng | Kiểm toán viên hành nghề được giao phụ trách phần việc thuộc trách nhiệm của mỗi bên |   |
+
+|-----------|-------------------------|-------------|------------------|--------------------------------------------------------------------------------------|---|
+
+| Họ và tên | Đơn vị                  |             |                  |                                                                                      |   |
+
+| 1         | 2                       | 3           | 4                | 5                                                                                    | 6 |
+
+| 1         | Hợp đồng đã hoàn thành  |             |                  |                                                                                      |   |
+
+| 1.1       |                         |             |                  |                                                                                      |   |
+
+| 1.2       |                         |             |                  |                                                                                      |   |
+
+| …         |                         |             |                  |                                                                                      |   |
+
+| 2         | Hợp đồng đang thực hiện |             |                  |                                                                                      |   |
+
+| 2.1       |                         |             |                  |                                                                                      |   |
+
+| 2.2       |                         |             |                  |                                                                                      |   |
+
+| …         |                         |             |                  |                                                                                      |   |
+
+Số TT
+
+Tên hợp đồng
+
+Số hợp đồng
+
+Ngày ký hợp đồng
+
+Kiểm toán viên hành nghề được giao phụ trách phần việc thuộc trách nhiệm của mỗi bên
+
+Họ và tên
+
+Đơn vị
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1
+
+Hợp đồng đã hoàn thành
+
+1.1
+
+1.2
+
+…
+
+2
+
+Hợp đồng đang thực hiện
+
+2.1
+
+2.2
+
+…
+
+(Tên doanh nghiệp kiểm toán tại Việt Nam) cam đoan những nội dung kê khai trên đây là trung thực và xin chịu trách nhiệm trước pháp luật về nội dung báo cáo này./.
+
+|  | NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT (Ký tên, ghi rõ họ và tên và đóng dấu) |
+
+|--|----------------------------------------------------------------------|
+
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT (Ký tên, ghi rõ họ và tên và đóng dấu)

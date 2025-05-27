@@ -1,0 +1,2831 @@
+| BỘ TÀI CHÍNH   | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|----------------|-----------------------------------------------------------------|
+
+| Số: 683/QĐ-BTC | Hà Nội, ngày 28 tháng 04 năm 2020                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 683/QĐ-BTC
+
+Hà Nội, ngày 28 tháng 04 năm 2020
+
+QUYẾT ĐỊNH
+
+BAN HÀNH DANH MỤC DỊCH VỤ CÔNG TRỰC TUYẾN CỦA BỘ TÀI CHÍNH TÍCH HỢP, CUNG CẤP TRÊN CỔNG DỊCH VỤ CÔNG QUỐC GIA NĂM 2020
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/07/2017 Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/04/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính;
+
+Căn cứ Nghị Quyết số 01/NQ-CP ngày 01/01/2020 của Chính phủ về nhiệm vụ, giải pháp chủ yếu thực hiện kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2020;
+
+Căn cứ Nghị quyết số 02/NQ-CP ngày 01/01/2020 của Chính phủ về việc tiếp tục thực hiện những nhiệm vụ, giải pháp chủ yếu trong cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia năm 2020;
+
+Căn cứ Nghị quyết số 17/NQ-CP ngày 07/03/2019 của Chính phủ về một số nhiệm vụ, giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn 2019-2020, định hướng đến năm 2015;
+
+Căn cứ Quyết định số 411/QĐ-TTg ngày 24/03/2020 của Thủ tướng Chính phủ phê duyệt Danh mục dịch vụ công tích hợp, cung cấp trên Cổng dịch vụ công Quốc gia năm 2020;
+
+Xét đề nghị của Chánh Văn phòng Bộ Tài chính, Cục trưởng Cục Tin học và Thống kê tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Danh mục dịch vụ công trực tuyến của Bộ Tài chính thực hiện tích hợp, cung cấp trên Cổng dịch vụ công Quốc gia năm 2020 tại Phụ lục đính kèm.
+
+Điều 2. Căn cứ vào điều kiện thực tiễn triển khai, khuyến khích các đơn vị thuộc Bộ thực hiện tích hợp, cung cấp thêm trên Cổng dịch vụ công Quốc gia các dịch vụ công trực tuyến ngoài danh sách đã được phê duyệt tại Điều 1 Quyết định này đảm bảo phù hợp với quy định của Chính phủ, Nhà nước và Bộ Tài chính.
+
+Điều 3. Giao thủ trưởng các đơn vị:
+
+1. Tập trung rà soát, cắt giảm thủ tục hành chính, chi phí cho doanh nghiệp. Đẩy mạnh thực hiện dịch vụ công trực tuyến, trong đó phải tập trung tái cấu trúc quy trình nghiệp vụ, đơn giản hóa các thủ tục hành chính mức độ 3, 4 để tích hợp, cung cấp trên Cổng Dịch vụ công Quốc gia theo hướng cắt giảm mạnh chi phí, tạo thuận lợi cho người dân, doanh nghiệp và bảo đảm tích hợp, cung cấp tối thiểu 30% dịch vụ công mức 3, 4 trên Cổng Dịch vụ công Quốc gia trong năm 2020 theo đúng chỉ đạo của Chính phủ tại Nghị quyết số 01/NQ-CP ngày 01/01/2020 về nhiệm vụ, giải pháp chủ yếu thực hiện kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2020. Chủ động rà soát xây dựng lộ trình chi tiết triển khai, khẩn trương tích hợp các dịch vụ công trực tuyến lên Cổng Dịch vụ công Quốc gia đảm bảo hoàn thành theo nguyên tắc đảm bảo đến hết Quý II/2020 hoàn thành tích hợp tối thiểu 30% (TCHQ tối thiểu 10%), Quý III/2020 đạt tối thiểu 70% (TCHQ tối thiểu 40%), Quý IV/2020 hoàn thành tích hợp 100% số dịch vụ công trực tuyến theo phụ lục đính kèm Quyết định.
+
+2. Tiếp tục chuẩn hóa thông tin, dữ liệu thủ tục hành chính và cập nhật đầy đủ, kịp thời, chính xác trên Cơ sở dữ liệu quốc gia về thủ tục hành chính, mã hồ sơ trên hệ thống một cửa điện tử bảo đảm công khai, minh bạch, tạo điều kiện thuận lợi cho người dân, doanh nghiệp trong tiếp cận, thực hiện, giám sát việc giải quyết thủ tục hành chính.
+
+3. Đẩy mạnh thanh toán trực tuyến phí, lệ phí, thuế, thu phạt xử lý vi phạm hành chính và các nghĩa vụ tài chính khác trong giải quyết thủ tục hành chính, thực hiện dịch vụ công trên Cổng Dịch vụ công Quốc gia, Cổng Dịch vụ công Bộ Tài chính góp phần thực hiện thành công giải pháp đẩy mạnh thanh toán không dùng tiền mặt.
+
+4. Tổng cục Thuế, Kho bạc nhà nước phối hợp với Bộ Công An, Văn phòng Chính phủ, các ngân hàng thương mại, tổ chức cung ứng dịch vụ trung gian thanh toán và cơ quan liên quan trong việc hoàn thiện dịch vụ công trực tuyến đối với nộp phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ thuộc thẩm quyền xử phạt của Cảnh sát giao thông trên Cổng Dịch vụ công Quốc gia để triển khai toàn quốc trước ngày 30/6/2020.
+
+5. Tổng cục Thuế chủ trì, phối hợp với Văn phòng Chính phủ, Bộ Công an, Bộ Giao thông vận tải và cơ quan liên quan hoàn thiện dịch vụ công trực tuyến đối với thủ tục kê khai và thu lệ phí trước bạ xe ô tô, xe gắn máy tích hợp, cung cấp trên Cổng Dịch vụ công Quốc gia để triển khai toàn quốc trước ngày 30 tháng 6 năm 2020; chủ trì tích hợp, cung cấp dịch vụ công trực tuyến đối với kê khai thuế cá nhân, doanh nghiệp trên Cổng Dịch vụ công Quốc gia trước ngày 15/4/2020.
+
+6. Tổng cục Thuế, Kho bạc nhà nước và các đơn vị liên quan phối hợp với Bộ Giao thông vận tải trong việc chia sẻ dữ liệu đăng kiểm có ký số để phục vụ cho việc hoàn thiện dịch công trực tuyến kê khai lệ phí trước bạ xe ô tô, xe gắn máy; phối hợp với Văn phòng Chính phủ, Bộ Công an, Bộ Y tế, cơ quan liên quan xây dựng dịch vụ công trực tuyến đối với nộp phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ thuộc thẩm quyền xử phạt của Thanh tra giao thông và Đổi giấy phép lái xe mức độ 4 để tích hợp, cung cấp trên Cổng Dịch vụ công Quốc gia trước ngày 30/6/2020.
+
+Điều 4: Văn phòng Bộ chủ trì phối hợp với Cục Tin học và Thống kê Tài chính và các đơn vị thuộc Bộ triển khai công tác thông tin, tuyên truyền để nâng cao nhận thức, thay đổi thói quen, hành vi, tạo sự đồng thuận của người dân, doanh nghiệp trong việc thực hiện thủ tục hành chính qua dịch vụ công trực tuyến; theo dõi, đôn đốc, kiểm tra các đơn vị trong việc công bố, cập nhật thủ tục hành chính lên cơ sở dữ liệu quốc gia về thủ tục hành chính trên Cổng dịch vụ công quốc gia.
+
+Điều 5. Cục Tin học và Thống kê tài chính đôn đốc, kiểm tra các đơn vị thuộc Bộ thực hiện Quyết định này; kịp thời báo cáo Lãnh đạo Bộ tháo gỡ khó khăn vướng mắc trong quá trình tổ chức thực hiện.
+
+Điều 6. Quyết định này có hiệu lực từ ngày ký. Chánh Văn phòng Bộ, Cục trưởng Cục Tin học và Thống kê tài chính và Thủ trưởng các đơn vị liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+| Nơi nhận: - Như Điều 2; - Lãnh đạo Bộ; - Các cơ quan, đơn vị thuộc Bộ; - Cổng thông tin điện tử Bộ Tài chính; - Lưu VT, THTK. | KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai |
+
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+
+Nơi nhận: - Như Điều 2; - Lãnh đạo Bộ; - Các cơ quan, đơn vị thuộc Bộ; - Cổng thông tin điện tử Bộ Tài chính; - Lưu VT, THTK.
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai
+
+PHỤ LỤC
+
+DANH MỤC DỊCH VỤ CÔNG TRỰC TUYẾN MỨC ĐỘ 3, 4 NGÀNH TÀI CHÍNH TÍCH HỢP, CUNG CẤP TRÊN CỔNG DỊCH VỤ CÔNG QUỐC GIA NĂM 2020 (Ban hành kèm theo Quyết định số 683/QĐ-BTC ngày 28/04/2020 của Bộ trưởng Bộ Tài chính)
+
+| STT | Tên dịch vụ công trực tuyến | Mức độ DVCTT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Đơn vị chủ trì | Đơn vị phối hợp |          |
+
+|-----|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|-----------------|----------|
+
+| I   | Cơ quan Bộ Tài chính        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                |                 |          |
+
+| 1.  | 1                           | Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán cho doanh nghiệp dịch vụ kế toán tại Việt Nam (Cấp lần đầu)                                                                                                                                                                                                                                                                                                                                                              | 4              | Cục THTK        | Cục QLKT |
+
+| 2.  | 2                           | Đăng ký cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán (Cấp lại).                                                                                                                                                                                                                                                                                                                                                                                                           | 4              | Cục THTK        | Cục QLKT |
+
+| 3.  | 3                           | Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán cho Chi nhánh doanh nghiệp kế toán nước ngoài tại Việt Nam                                                                                                                                                                                                                                                                                                                                                               | 4              | Cục THTK        | Cục QLKT |
+
+| 4.  | 4                           | Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán (Cấp mới)                                                                                                                                                                                                                                                                                                                                                                                                                      | 4              | Cục THTK        | Cục QLKT |
+
+| 5.  | 5                           | Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán hết thời hạn                                                                                                                                                                                                                                                                                                                                                             | 4              | Cục THTK        | Cục QLKT |
+
+| 6.  | 6                           | Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi kế toán viên thay đổi nơi làm việc hoặc nơi đăng ký hành nghề dịch vụ kế toán                                                                                                                                                                                                                                                                                                                                              | 4              | Cục THTK        | Cục QLKT |
+
+| 7.  | 7                           | Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi thay đổi tên của doanh nghiệp dịch vụ kế toán nơi kế toán viên hành nghề đăng ký hành nghề                                                                                                                                                                                                                                                                                                                                 | 4              | Cục THTK        | Cục QLKT |
+
+| 8.  | 8                           | Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi kế toán viên hành nghề bị thu hồi giấy chứng nhận đăng ký hành nghề dịch vụ kế toán                                                                                                                                                                                                                                                                                                                                        | 4              | Cục THTK        | Cục QLKT |
+
+| 9.  | 9                           | Đăng ký cấp lại Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán                                                                                                                                                                                                                                                                                                                                                                                                                            | 4              | Cục THTK        | Cục QLKT |
+
+| 10. | 10                          | Kê khai giá (DVCTT khác)                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 4              | Cục THTK        | Cục QLG  |
+
+| 11. | 11                          | Đăng ký dự thi cấp thẻ lần đầu, sát hạch, cấp lần hai đối với thẻ thẩm định giá.                                                                                                                                                                                                                                                                                                                                                                                                             | 4              | Cục THTK        | Cục QLG  |
+
+| 12. | 12                          | Đăng ký dự thi chứng chỉ kiểm toán viên đối với người đã có chứng chỉ kế toán viên                                                                                                                                                                                                                                                                                                                                                                                                           | 4              | Cục THTK        | Cục QLKT |
+
+| 13. | 13                          | Đăng ký dự thi cấp chứng chỉ kiểm toán viên và chứng chỉ kế toán viên (đăng ký thi lại các môn chưa đạt hoặc thi tiếp các môn chưa thi)                                                                                                                                                                                                                                                                                                                                                      | 4              | Cục THTK        | Cục QLKT |
+
+| 14. | 14                          | Thủ tục Đăng ký kinh doanh dịch vụ kiểm toán cho chi nhánh doanh nghiệp kiểm toán                                                                                                                                                                                                                                                                                                                                                                                                            | 4              | Cục THTK        | Cục QLKT |
+
+| 15. | 15                          | Thủ tục đăng ký dự thi lấy chứng chỉ kiểm toán viên (Đăng ký lần đầu)                                                                                                                                                                                                                                                                                                                                                                                                                        | 4              | Cục THTK        | Cục QLKT |
+
+| 16. | 16                          | Thủ tục đăng ký dự thi lấy chứng chỉ kế toán viên (Đăng ký lần đầu)                                                                                                                                                                                                                                                                                                                                                                                                                          | 4              | Cục THTK        | Cục QLKT |
+
+| 17. | 17                          | Thủ tục đăng ký dự thi sát hạch đối với người có chứng chỉ chuyên gia kế toán hoặc chứng chỉ kiểm toán viên nước ngoài (chứng chỉ 18kiểm toán viên và chứng chỉ kế toán viên)                                                                                                                                                                                                                                                                                                                | 4              | Cục THTK        | Cục QLKT |
+
+| 18. | 18                          | Đăng ký cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (cấp mới)                                                                                                                                                                                                                                                                                                                                                                                                                            | 4              | Cục THTK        | Cục QLKT |
+
+| 19. | 19                          | Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (cấp lần đầu)                                                                                                                                                                                                                                                                                                                                                                                                          | 4              | Cục THTK        | Cục QLKT |
+
+| 20. | 20                          | Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán cho chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam                                                                                                                                                                                                                                                                                                                                                           | 4              | Cục THTK        | Cục QLKT |
+
+| 21. | 21                          | Đăng ký giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (Điều chỉnh)                                                                                                                                                                                                                                                                                                                                                                                                               | 4              | Cục THTK        | Cục QLKT |
+
+| 22. | 22                          | Đăng ký cấp giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (Cấp lại)                                                                                                                                                                                                                                                                                                                                                                                                              | 4              | Cục THTK        | Cục QLKT |
+
+| 23. | 23                          | Đăng ký cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (Cấp lại)                                                                                                                                                                                                                                                                                                                                                                                                                            | 4              | Cục THTK        | Cục QLKT |
+
+| 24. | 24                          | Đăng ký cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (Điều chỉnh)                                                                                                                                                                                                                                                                                                                                                                                                                         | 4              | Cục THTK        | Cục QLKT |
+
+| II  | Kho bạc nhà nước            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                |                 |          |
+
+| 25. | 1                           | Thủ tục kiểm soát thanh toán các khoản chi thường xuyên, chi sự nghiệp có tính chất thường xuyên, chi chương trình mục tiêu quốc gia, chương trình mục tiêu sử dụng kinh phí sự nghiệp                                                                                                                                                                                                                                                                                                       | 4              | KBNN            | Cục THTK |
+
+| 26. | 2                           | Thủ tục kiểm soát thanh toán vốn đầu tư thuộc nguồn vốn ngân sách nhà nước                                                                                                                                                                                                                                                                                                                                                                                                                   | 4              | KBNN            | Cục THTK |
+
+| 27. | 3                           | Thủ tục kiểm soát, thanh toán chi phí quản lý dự án đầu tư của các dự án sử dụng vốn ngân sách nhà nước qua Kho bạc Nhà nước                                                                                                                                                                                                                                                                                                                                                                 | 4              | KBNN            | Cục THTK |
+
+| 28. | 4                           | Thủ tục kiểm soát chi vốn nước ngoài qua Kho bạc Nhà nước                                                                                                                                                                                                                                                                                                                                                                                                                                    | 4              | KBNN            | Cục THTK |
+
+| 29. | 5                           | Thủ tục hạch toán vốn ODA, vốn vay ưu đãi vào ngân sách nhà nước                                                                                                                                                                                                                                                                                                                                                                                                                             | 4              | KBNN            | Cục THTK |
+
+| 30. | 6                           | Thủ tục tất toán tài khoản của đơn vị giao dịch mở tại Kho bạc Nhà nước.                                                                                                                                                                                                                                                                                                                                                                                                                     | 4              | KBNN            | Cục THTK |
+
+| III | Tổng cục Hải quan           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                |                 |          |
+
+| 31. | 1                           | Thủ tục hải quan đối với hàng hóa đưa vào, đưa ra cảng trung chuyển                                                                                                                                                                                                                                                                                                                                                                                                                          | 4              | TCHQ            | Cục THTK |
+
+| 32. | 2                           | Thủ tục hải quan đối với hàng hóa kinh doanh theo phương thức chuyển khẩu                                                                                                                                                                                                                                                                                                                                                                                                                    | 4              | TCHQ            | Cục THTK |
+
+| 33. | 3                           | Thủ tục thành lập địa điểm kiểm tra là chân công trình hoặc kho của công trình, nơi sản xuất                                                                                                                                                                                                                                                                                                                                                                                                 | 4              | TCHQ            | Cục THTK |
+
+| 34. | 4                           | Phân loại máy móc, thiết bị nguyên chiếc ở dạng tháo rời                                                                                                                                                                                                                                                                                                                                                                                                                                     | 4              | TCHQ            | Cục THTK |
+
+| 35. | 5                           | Thủ tục phân loại máy liên hợp hoặc tổ hợp máy thuộc các Chương 84, Chương 85 và Chương 90 của Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam                                                                                                                                                                                                                                                                                                                                               | 4              | TCHQ            | Cục THTK |
+
+| 36. | 6                           | Thủ tục xem hàng hóa trước khi khai hải quan                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 4              | TCHQ            | Cục THTK |
+
+| 37. | 7                           | Thủ tục xác nhận hoàn thành nghĩa vụ nộp thuế                                                                                                                                                                                                                                                                                                                                                                                                                                                | 4              | TCHQ            | Cục THTK |
+
+| 38. | 8                           | Thủ tục tham vấn trị giá đối với hàng hóa xuất khẩu, nhập khẩu (cấp Cục)                                                                                                                                                                                                                                                                                                                                                                                                                     | 4              | TCHQ            | Cục THTK |
+
+| 39. | 9                           | Thủ tục cấp giấy phép nhập khẩu, tạm nhập khẩu xe ô tô, xe gắn máy không nhằm mục đích thương mại                                                                                                                                                                                                                                                                                                                                                                                            | 4              | TCHQ            | Cục THTK |
+
+| 40. | 10                          | Thủ tục thuê kho bên ngoài doanh nghiệp chế xuất để lưu giữ nguyên liệu, sản phẩm của doanh nghiệp chế xuất, quản lý hải quan đối với hàng hóa đưa vào, đưa ra kho                                                                                                                                                                                                                                                                                                                           | 4              | TCHQ            | Cục THTK |
+
+| 41. | 11                          | Thủ tục xác định trước mã số hàng hóa xuất khẩu, nhập khẩu                                                                                                                                                                                                                                                                                                                                                                                                                                   | 4              | TCHQ            | Cục THTK |
+
+| 42. | 12                          | Thủ tục xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa (theo quy định tại Điều 47 Luật Quản lý thuế số 78/2006/QH10 được bổ sung tại khoản 13 Điều 1 Luật sửa đổi bổ sung một số điều của Luật Quản lý thuế...)                                                                                                                                                                                                                                                                          | 4              | TCHQ            | Cục THTK |
+
+| 43. | 13                          | Thủ tục tham vấn trị giá đối với hàng hóa xuất khẩu, nhập khẩu (cấp Chi cục)                                                                                                                                                                                                                                                                                                                                                                                                                 | 4              | TCHQ            | Cục THTK |
+
+| 44. | 14                          | Thủ tục sao y tờ khai hải quan bản chính do cơ quan hải quan lưu trong bộ hồ sơ hoàn, không thu thuế                                                                                                                                                                                                                                                                                                                                                                                         | 4              | TCHQ            | Cục THTK |
+
+| 45. | 15                          | Thủ tục xóa nợ tiền thuế, tiền chậm nộp, tiền phạt (theo qui định tại Điều 65 Luật Quản lý thuế được bổ sung tại khoản 20 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế, Nghị định 83/2013/NĐ-CP  ngày 22/7/2013 và Điều 136 Thông tư số 38/2015/TT-BTC  ngày 25/3/2015)                                                                                                                                                                                                    | 4              | TCHQ            | Cục THTK |
+
+| 46. | 16                          | Thủ tục áp dụng mức thuế suất của nhóm 98.49                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 4              | TCHQ            | Cục THTK |
+
+| 47. | 17                          | Thủ tục quyết toán việc xuất khẩu, sử dụng hàng hóa miễn thuế là vật liệu xây dựng đưa từ thị trường trong nước vào khu phi thuế quan để xây dựng sửa chữa và bảo dưỡng kết cấu hạ tầng kỹ thuật, hạ tầng xã hội chung trong khu phi thuế quan                                                                                                                                                                                                                                               | 4              | TCHQ            | Cục THTK |
+
+| 48. | 18                          | Thủ tục đăng ký tham gia chương trình ưu đãi thuế                                                                                                                                                                                                                                                                                                                                                                                                                                            | 4              | TCHQ            | Cục THTK |
+
+| 49. | 19                          | Thủ tục xét miễn thuế đối với hàng hóa là quà biếu, quà tặng, hàng mẫu không thuộc thẩm quyền của Bộ Tài chính, Tổng cục Hải quan, Cục Hải quan; thuốc chữa bệnh là quà biếu, quà tặng có trị giá vượt quá định mức miễn thuế nhưng do người Việt Nam định cư ở nước ngoài gửi về cho thân nhân tại Việt Nam là gia đình có công với cách mạng, thương binh, liệt sỹ, người già yếu không nơi nương tựa; hàng nhập khẩu để bán tại cửa hàng miễn thuế, hàng nhập khẩu theo điều ước quốc tế. | 4              | TCHQ            | Cục THTK |
+
+| 50. | 20                          | Thông báo kết quả hủy Biên lai                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 4              | TCHQ            | Cục THTK |
+
+| 51. | 21                          | Thủ tục xét miễn thuế đối với trường hợp hàng nhập khẩu phục vụ nghiên cứu khoa học, giáo dục đào tạo                                                                                                                                                                                                                                                                                                                                                                                        | 4              | TCHQ            | Cục THTK |
+
+| 52. | 22                          | Kiểm tra việc in, phát hành, quản lý và sử dụng Biên lai                                                                                                                                                                                                                                                                                                                                                                                                                                     | 4              | TCHQ            | Cục THTK |
+
+| 53. | 23                          | Thông báo phát hành Biên lai                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 4              | TCHQ            | Cục THTK |
+
+| 54. | 24                          | Thủ tục xóa nợ tiền thuế, tiền phạt (thực hiện theo Thông tư 77/2008/TT-BTC  ngày 15/9/2008 hướng dẫn thi hành một số biện pháp xử lý nợ đọng thuế và Thông tư số 24/2012/TT-BTC  ngày 17/02/2012 sửa đổi bổ sung Thông tư số 77/2008/TT-BTC)                                                                                                                                                                                                                                                | 4              | TCHQ            | Cục THTK |
+
+| 55. | 25                          | Thủ tục đề nghị kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu có yêu cầu bảo hộ quyền sở hữu trí tuệ                                                                                                                                                                                                                                                                                                                                                                                      | 4              | TCHQ            | Cục THTK |
+
+| 56. | 26                          | Thủ tục thành lập địa điểm tập kết, kiểm tra hàng hóa xuất khẩu, nhập khẩu ở biên giới                                                                                                                                                                                                                                                                                                                                                                                                       | 4              | TCHQ            | Cục THTK |
+
+| 57. | 27                          | Thủ tục thành lập kho bảo thuế                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 4              | TCHQ            | Cục THTK |
+
+| 58. | 28                          | Thủ tục chấm dứt hoạt động kho ngoại quan, địa điểm thu gom hàng lẻ, địa điểm kiểm tra tập trung, địa điểm tập kết, kiểm tra hàng hóa xuất khẩu, nhập khẩu ở biên giới                                                                                                                                                                                                                                                                                                                       | 4              | TCHQ            | Cục THTK |
+
+| 59. | 29                          | Thủ tục kiểm tra khoản giảm giá đối với hàng nhập khẩu                                                                                                                                                                                                                                                                                                                                                                                                                                       | 4              | TCHQ            | Cục THTK |
+
+| 60. | 30                          | Thủ tục thành lập địa điểm làm thủ tục hải quan tại cảng xuất khẩu, nhập khẩu hàng hóa được thành lập trong nội địa (cảng nội địa)                                                                                                                                                                                                                                                                                                                                                           | 4              | TCHQ            | Cục THTK |
+
+| 61. | 31                          | Thủ tục thành lập địa điểm kiểm tra, giám sát hải quan đối với bưu gửi do doanh nghiệp kinh doanh làm chủ đầu tư                                                                                                                                                                                                                                                                                                                                                                             | 4              | TCHQ            | Cục THTK |
+
+| 62. | 32                          | Thủ tục xét miễn thuế đối với hàng hóa là quà biếu tặng có trị giá vượt quá định mức miễn thuế theo quy định của Thủ tướng Chính phủ tặng cho cơ quan hành chính sự nghiệp, cơ quan đoàn thể xã hội hoạt động bằng ngân sách nhà nước; quà biếu tặng mang mục đích nhân đạo, từ thiện, nghiên cứu khoa học.                                                                                                                                                                                  | 4              | TCHQ            | Cục THTK |
+
+| 63. | 33                          | Thủ tục chấm dứt hoạt động địa điểm làm thủ tục hải quan tại cảng xuất khẩu, nhập khẩu hàng hóa được thành lập trong nội địa, địa điểm làm thủ tục hải quan ngoài cửa khẩu, kho hàng không kéo dài                                                                                                                                                                                                                                                                                           | 4              | TCHQ            | Cục THTK |
+
+| 64. | 34                          | Thủ tục thành lập kho hàng không kéo dài                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 4              | TCHQ            | Cục THTK |
+
+| 65. | 35                          | Thủ tục thành lập địa điểm kiểm tra tập trung do doanh nghiệp kinh doanh kho bãi đầu tư xây dựng                                                                                                                                                                                                                                                                                                                                                                                             | 4              | TCHQ            | Cục THTK |
+
+| 66. | 36                          | Thủ tục di chuyển, chuyển quyền sở hữu địa điểm kiểm tra tập trung, địa điểm tập kết, kiểm tra hàng hóa xuất khẩu, nhập khẩu ở biên giới                                                                                                                                                                                                                                                                                                                                                     | 4              | TCHQ            | Cục THTK |
+
+| 67. | 37                          | Thủ tục chuyển đổi quyền kinh doanh, khai thác địa điểm kiểm tra, giám sát hải quan đối với bưu gửi                                                                                                                                                                                                                                                                                                                                                                                          | 4              | TCHQ            | Cục THTK |
+
+| 68. | 38                          | Thủ tục đổi tên chủ sở hữu của địa điểm kiểm tra, giám sát hải quan đối với bưu gửi                                                                                                                                                                                                                                                                                                                                                                                                          | 4              | TCHQ            | Cục THTK |
+
+| 69. | 39                          | Thủ tục di chuyển, chuyển quyền sở hữu kho ngoại quan, địa điểm thu gom hàng lẻ                                                                                                                                                                                                                                                                                                                                                                                                              | 4              | TCHQ            | Cục THTK |
+
+| 70. | 40                          | Thủ tục thành lập địa điểm thu gom hàng lẻ ở nội địa (CFS)                                                                                                                                                                                                                                                                                                                                                                                                                                   | 4              | TCHQ            | Cục THTK |
+
+| 71. | 41                          | Thủ tục thành lập kho ngoại quan                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 4              | TCHQ            | Cục THTK |
+
+| 72. | 42                          | Thủ tục lựa chọn Ngân hàng thương mại là đại lý hoàn thuế giá trị gia tăng                                                                                                                                                                                                                                                                                                                                                                                                                   | 4              | TCHQ            | Cục THTK |
+
+| 73. | 43                          | Thủ tục chấm dứt, tạm dừng hoạt động của địa điểm kiểm tra, giám sát hải quan đối với bưu gửi                                                                                                                                                                                                                                                                                                                                                                                                | 4              | TCHQ            | Cục THTK |
+
+| 74. | 44                          | Thủ tục kiểm tra và xác định trước xuất xứ hàng nhập khẩu                                                                                                                                                                                                                                                                                                                                                                                                                                    | 4              | TCHQ            | Cục THTK |
+
+| 75. | 45                          | Thủ tục di chuyển, chuyển quyền sở hữu địa điểm làm thủ tục hải quan tại cảng xuất khẩu, nhập khẩu hàng hóa thành lập trong nội địa; địa điểm làm thủ tục hải quan ngoài cửa khẩu; kho hàng không kéo dài                                                                                                                                                                                                                                                                                    | 4              | TCHQ            | Cục THTK |
+
+| 76. | 46                          | Thủ tục cấp giấy phép nhập khẩu xe ô tô, xe mô tô của người Việt Nam định cư ở nước ngoài được phép hồi hương                                                                                                                                                                                                                                                                                                                                                                                | 4              | TCHQ            | Cục THTK |
+
+| 77. | 47                          | Thủ tục đăng ký danh mục hàng hóa xuất khẩu miễn thuế là vật liệu xây dựng đưa từ thị trường trong nước vào khu phi thuế quan                                                                                                                                                                                                                                                                                                                                                                | 4              | TCHQ            | Cục THTK |
+
+| 78. | 48                          | Thủ tục công nhận hoạt động đại lý làm thủ tục hải quan                                                                                                                                                                                                                                                                                                                                                                                                                                      | 4              | TCHQ            | Cục THTK |
+
+| 79. | 49                          | Thủ tục chấm dứt đại lý hoàn thuế giá trị gia tăng với Ngân hàng thương mại được lựa chọn làm đại lý hoàn thuế giá trị gia tăng                                                                                                                                                                                                                                                                                                                                                              | 4              | TCHQ            | Cục THTK |
+
+| 80. | 50                          | Thủ tục tiêu hủy xe ô tô, xe gắn máy của đối tượng được hưởng quyền ưu đãi, miễn trừ tại việt Nam                                                                                                                                                                                                                                                                                                                                                                                            | 4              | TCHQ            | Cục THTK |
+
+| 81. | 51                          | Thủ tục nộp dần tiền thuế nợ theo khoản 25 Điều 1 Luật số 21/2012/QH13 sửa đổi, bổ sung một số Điều của Luật quản lý thuế; Điều 39 Nghị định 83/2013/NĐ-CP  ngày 22/7/2013; khoản 7 Điều 5 Nghị định 12/2015/NĐ-CP  ngày 12/2/2015 và Điều 134 Thông tư 38/2015/TT-BTC  ngày 25/3/2015 của Bộ Tài chính đối với số tiền thuế nợ phát sinh tại 02 Chi cục HQ trở lên thuộc 01 Cục HQ.                                                                                                         | 4              | TCHQ            | Cục THTK |
+
+| 82. | 52                          | Thủ tục nộp dần tiền thuế nợ theo khoản 25 Điều 1 Luật số 21/2012/QH13 sửa đổi, bổ sung một số Điều của Luật quản lý thuế; Điều 39 Nghị định 83/2013/NĐ-CP  ngày 22/7/2013; khoản 7 Điều 5 Nghị định 12/2015/NĐ-CP  ngày 12/2/2015 và Điều 134 Thông tư 38/2015/TT-BTC  ngày 25/3/2015 của Bộ Tài chính đối với số tiền thuế nợ phát sinh tại 01 Chi cục HQ.                                                                                                                                 | 4              | TCHQ            | Cục THTK |
+
+| 83. | 53                          | Thủ tục nộp dần tiền thuế nợ theo khoản 25 Điều 1 Luật số 21/2012/QH13 sửa đổi, bổ sung một số Điều của Luật quản lý thuế; Điều 39 Nghị định 83/2013/NĐ-CP  ngày 22/7/2013; khoản 7 Điều 5 Nghị định 12/2015/NĐ-CP  ngày 12/2/2015 và Điều 134 Thông tư 38/2015/TT-BTC  ngày 25/3/2015 của Bộ Tài chính đối với số tiền thuế nợ phát sinh tại 02 Cục HQ trở lên.                                                                                                                             | 4              | TCHQ            | Cục THTK |
+
+| 84. | 54                          | Thủ tục kiểm tra khoản giảm giá đối với hàng nhập khẩu                                                                                                                                                                                                                                                                                                                                                                                                                                       | 4              | TCHQ            | Cục THTK |
+
+| 85. | 55                          | Thủ tục di chuyển, mở rộng, thu hẹp, bố trí lại địa điểm kiểm tra, giám sát hải quan đối với bưu gửi                                                                                                                                                                                                                                                                                                                                                                                         | 4              | TCHQ            | Cục THTK |
+
+| 86. | 56                          | Thủ tục xử lý hồ sơ đề nghị tạm dừng làm thủ tục hải quan đối với hàng hóa xuất khẩu, nhập khẩu có yêu cầu bảo vệ quyền sở hữu trí tuệ                                                                                                                                                                                                                                                                                                                                                       | 4              | TCHQ            | Cục THTK |
+
+| 87. | 57                          | Thủ tục kê khai, nộp thuế xe ô tô, xe mô tô khi chuyển nhượng của người Việt Nam định cư ở nước ngoài được phép hồi hương                                                                                                                                                                                                                                                                                                                                                                    | 4              | TCHQ            | Cục THTK |
+
+| 88. | 58                          | Thủ tục hoàn thuế /không thu thuế đối với hàng hóa xuất khẩu, nhập khẩu                                                                                                                                                                                                                                                                                                                                                                                                                      | 4              | TCHQ            | Cục THTK |
+
+| 89. | 59                          | Thủ tục chấm dứt hoạt động đại lý làm thủ tục hải quan.                                                                                                                                                                                                                                                                                                                                                                                                                                      | 4              | TCHQ            | Cục THTK |
+
+| 90. | 60                          | Thủ tục tiếp tục hoạt động đại lý làm thủ tục hải quan.                                                                                                                                                                                                                                                                                                                                                                                                                                      | 4              | TCHQ            | Cục THTK |
+
+| IV  | Ủy ban chứng khoán nhà nước |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                |                 |          |
+
+| 91. | 1                           | Hủy đăng ký công ty đại chúng                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 3              | UBCK            | Cục THTK |
+
+| 92. | 2                           | Đăng ký mua lại cổ phiếu làm cổ phiếu quỹ của công ty đại chúng                                                                                                                                                                                                                                                                                                                                                                                                                              | 3              | UBCK            | Cục THTK |
+
+| 93. | 3                           | Đăng ký bán cổ phiếu quỹ của công ty đại chúng                                                                                                                                                                                                                                                                                                                                                                                                                                               | 3              | UBCK            | Cục THTK |
+
+| 94. | 4                           | Đăng ký phát hành cổ phiếu theo chương trình lựa chọn cho người lao động của công ty đại chúng                                                                                                                                                                                                                                                                                                                                                                                               | 3              | UBCK            | Cục THTK |
+
+| 95. | 5                           | Đăng ký phát hành cổ phiếu để trả cổ tức của công ty đại chúng                                                                                                                                                                                                                                                                                                                                                                                                                               | 3              | UBCK            | Cục THTK |
+
+| 96. | 6                           | Đăng ký phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu của công ty đại chúng                                                                                                                                                                                                                                                                                                                                                                                                 | 3              | UBCK            | Cục THTK |
+
+| 97. | 7                           | Đăng ký chào mua công khai                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 3              | UBCK            | Cục THTK |
+
+| 98. | 8                           | Cấp chứng chỉ hành nghề chứng khoán                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 3              | UBCK            | Cục THTK |
+
+| 99. | 9                           | Đề nghị chấp thuận đăng ký niêm yết chứng khoán tại Sở giao dịch chứng khoán nước ngoài của tổ chức phát hành Việt Nam                                                                                                                                                                                                                                                                                                                                                                       | 3              | UBCK            | Cục THTK |
+
+| 100 | 10                          | Đăng ký niêm yết chứng khoán của tổ chức phát hành nước ngoài trên Sở giao dịch chứng khoán tại Việt Nam                                                                                                                                                                                                                                                                                                                                                                                     | 3              | UBCK            | Cục THTK |
+
+| 101 | 11                          | Đề nghị xác nhận tỷ lệ sở hữu nước ngoài tại công ty đại chúng                                                                                                                                                                                                                                                                                                                                                                                                                               | 3              | UBCK            | Cục THTK |
+
+| V   | Tổng cục Thuế               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                |                 |          |
+
+| 102 | 1                           | Báo cáo về việc nhận in hóa đơn/biên lai, cung cấp phần mềm tự in hóa đơn/biên lai; Báo cáo về việc truyền hóa đơn điện tử của tổ chức trung gian cung cấp giải pháp hóa đơn điện tử                                                                                                                                                                                                                                                                                                         | 4              | TCT             | Cục THTK |
+
+| 103 | 2                           | Báo cáo tình hình sử dụng hóa đơn/mất, cháy, hỏng hóa đơn                                                                                                                                                                                                                                                                                                                                                                                                                                    | 4              | TCT             | Cục THTK |
+
+| 104 | 3                           | Thông báo phát hành hóa đơn đặt in/hóa đơn tự in/hóa đơn in trực tiếp từ máy tính tiền và hóa đơn điện tử                                                                                                                                                                                                                                                                                                                                                                                    | 4              | TCT             | Cục THTK |
+
+| 105 | 4                           | Báo cáo về việc nhận in hóa đơn/biên lai, cung cấp phần mềm tự in hóa đơn/biên lai; Báo cáo về việc truyền hóa đơn điện tử của tổ chức trung gian cung cấp giải pháp hóa đơn điện tử                                                                                                                                                                                                                                                                                                         | 4              | TCT             | Cục THTK |
+
+| 106 | 5                           | Báo cáo tình hình sử dụng hóa đơn/mất, cháy, hỏng hóa đơn                                                                                                                                                                                                                                                                                                                                                                                                                                    | 4              | TCT             | Cục THTK |
+
+| 107 | 6                           | Thông báo về hóa đơn, Biên lai thu tiền phí, lệ phí không tiếp tục sử dụng/ Thông báo kết quả hủy hóa đơn, Biên lai thu tiền phí, lệ phí                                                                                                                                                                                                                                                                                                                                                     | 4              | TCT             | Cục THTK |
+
+| 108 | 7                           | Thông báo phát hành biên lai thu phí, lệ phí do cơ quan thu phí, lệ phí đặt in/tự in                                                                                                                                                                                                                                                                                                                                                                                                         | 4              | TCT             | Cục THTK |
+
+| 109 | 8                           | Báo cáo tình hình sử dụng Biên lai thu tiền phí, lệ phí                                                                                                                                                                                                                                                                                                                                                                                                                                      | 4              | TCT             | Cục THTK |
+
+| 110 | 9                           | Thông báo về hóa đơn, Biên lai thu tiền phí, lệ phí không tiếp tục sử dụng/ Thông báo kết quả hủy hóa đơn, Biên lai thu tiền phí, lệ phí                                                                                                                                                                                                                                                                                                                                                     | 4              | TCT             | Cục THTK |
+
+| 111 | 10                          | Thông báo phát hành biên lai thu phí, lệ phí do cơ quan thu phí, lệ phí đặt in/tự in                                                                                                                                                                                                                                                                                                                                                                                                         | 4              | TCT             | Cục THTK |
+
+| 112 | 11                          | Báo cáo tình hình sử dụng Biên lai thu tiền phí, lệ phí                                                                                                                                                                                                                                                                                                                                                                                                                                      | 4              | TCT             | Cục THTK |
+
+| 113 | 12                          | Đăng ký sử dụng dịch vụ T-VAN/ Đăng ký thay đổi, bổ sung thông tin đăng ký sử dụng dịch vụ T-VAN/ Đăng ký ngừng sử dụng dịch vụ T-VAN                                                                                                                                                                                                                                                                                                                                                        | 4              | TCT             | Cục THTK |
+
+| 114 | 13                          | Khai thuế GTGT theo phương pháp khấu trừ                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 4              | TCT             | Cục THTK |
+
+| 115 | 14                          | Khai thuế GTGT theo phương pháp trực tiếp trên GTGT                                                                                                                                                                                                                                                                                                                                                                                                                                          | 4              | TCT             | Cục THTK |
+
+| 116 | 15                          | Khai thuế GTGT theo phương pháp trực tiếp trên doanh thu                                                                                                                                                                                                                                                                                                                                                                                                                                     | 4              | TCT             | Cục THTK |
+
+| 117 | 16                          | Khai thuế GTGT đối với hoạt động kinh doanh xây dựng, lắp đặt, bán hàng vãng lai ngoại tỉnh và chuyển nhượng bất động sản ngoại tỉnh.                                                                                                                                                                                                                                                                                                                                                        | 4              | TCT             | Cục THTK |
+
+| 118 | 17                          | Khai thuế Giá trị gia tăng đối với cơ sở sản xuất thủy điện hạch toán phụ thuộc EVN, trường hợp nhà máy thủy điện nằm chung trên địa bàn các tỉnh                                                                                                                                                                                                                                                                                                                                            | 4              | TCT             | Cục THTK |
+
+| 119 | 18                          | Khai thuế Giá trị gia tăng đối với cơ sở sản xuất thủy điện hạch toán phụ thuộc EVN, trường hợp nhà máy thủy điện nằm trên 1 tỉnh                                                                                                                                                                                                                                                                                                                                                            | 4              | TCT             | Cục THTK |
+
+| 120 | 19                          | Khai thuế GTGT đối với cơ sở sản xuất thủy điện không thuộc EVN                                                                                                                                                                                                                                                                                                                                                                                                                              | 4              | TCT             | Cục THTK |
+
+| 121 | 20                          | Khai thuế giá tri gia tăng dành cho dự án đầu tư                                                                                                                                                                                                                                                                                                                                                                                                                                             | 4              | TCT             | Cục THTK |
+
+| 122 | 21                          | Khai thuế thu nhập doanh nghiệp tạm tính đối với hoạt động khai thác, xuất bán dầu thô, khí thiên nhiên.                                                                                                                                                                                                                                                                                                                                                                                     | 4              | TCT             | Cục THTK |
+
+| 123 | 22                          | Khai quyết toán thuế TNDN đối với hoạt động khai thác, xuất bán dầu thô, khí thiên nhiên.                                                                                                                                                                                                                                                                                                                                                                                                    | 4              | TCT             | Cục THTK |
+
+| 124 | 23                          | Khai thuế thu nhập doanh nghiệp đối với thu nhập từ chuyển nhượng quyền lợi tham gia hợp đồng dầu khí.                                                                                                                                                                                                                                                                                                                                                                                       | 4              | TCT             | Cục THTK |
+
+| 125 | 24                          | Khai thuế thu nhập doanh nghiệp đối với hoạt động chuyển nhượng bất động sản                                                                                                                                                                                                                                                                                                                                                                                                                 | 4              | TCT             | Cục THTK |
+
+| 126 | 25                          | Khai thuế thu nhập doanh nghiệp đối với hoạt động chuyển nhượng bất động sản                                                                                                                                                                                                                                                                                                                                                                                                                 | 4              | TCT             | Cục THTK |
+
+| 127 | 26                          | Khai thuế thu nhập doanh nghiệp tính theo tỷ lệ % trên doanh thu.                                                                                                                                                                                                                                                                                                                                                                                                                            | 4              | TCT             | Cục THTK |
+
+| 128 | 27                          | Khai thuế thu nhập doanh nghiệp tính theo tỷ lệ % trên doanh thu.                                                                                                                                                                                                                                                                                                                                                                                                                            | 4              | TCT             | Cục THTK |
+
+| 129 | 28                          | Khai thuế thu nhập doanh nghiệp đối với hoạt động chuyển nhượng vốn.                                                                                                                                                                                                                                                                                                                                                                                                                         | 4              | TCT             | Cục THTK |
+
+| 130 | 29                          | Khai thuế thu nhập doanh nghiệp đối với hoạt động chuyển nhượng vốn.                                                                                                                                                                                                                                                                                                                                                                                                                         | 4              | TCT             | Cục THTK |
+
+| 131 | 30                          | Khai quyết toán thuế thu nhập doanh nghiệp                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 4              | TCT             | Cục THTK |
+
+| 132 | 31                          | Khai quyết toán thuế thu nhập doanh nghiệp                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 4              | TCT             | Cục THTK |
+
+| 133 | 32                          | Khai thuế đối với Nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT theo phương pháp khấu trừ, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu.                                                                                                                                                                                                                                                                                                                                      | 4              | TCT             | Cục THTK |
+
+| 134 | 33                          | Khai quyết toán thuế TNDN đối với nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT theo phương pháp khấu trừ, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu.                                                                                                                                                                                                                                                                                                                      | 4              | TCT             | Cục THTK |
+
+| 135 | 34                          | Khai thuế đối với nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT theo phương pháp trực tiếp trên GTGT, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu đối với hoạt động kinh doanh và các loại thu nhập khác                                                                                                                                                                                                                                                                     | 4              | TCT             | Cục THTK |
+
+| 136 | 35                          | Khai quyết toán thuế đối với nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT tính trực tiếp trên GTGT, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu đối với hoạt động kinh doanh và các loại thu nhập khác                                                                                                                                                                                                                                                                      | 4              | TCT             | Cục THTK |
+
+| 137 | 36                          | Khai thuế đối với hãng hàng không nước ngoài                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 4              | TCT             | Cục THTK |
+
+| 138 | 37                          | Khai khấu trừ thuế thu nhập cá nhân đối với tổ chức, cá nhân trả thu nhập thực hiện khấu trừ thuế đối với thu nhập từ đầu tư vốn, từ chuyển nhượng chứng khoán, từ bản quyền, từ nhượng quyền thương mại, từ trúng thưởng của cá nhân cư trú và cá nhân không cư trú; từ kinh doanh của cá nhân không cư trú; Tổ chức, cá nhân trả thu nhập thực hiện khấu trừ thuế khi nhận chuyển nhượng vốn góp của cá nhân không cư trú.                                                                 | 4              | TCT             | Cục THTK |
+
+| 139 | 38                          | Khai khấu trừ thuế thu nhập cá nhân đối với tổ chức, cá nhân trả thu nhập thực hiện khấu trừ thuế đối với thu nhập từ đầu tư vốn, từ chuyển nhượng chứng khoán, từ bản quyền, từ nhượng quyền thương mại, từ trúng thưởng của cá nhân cư trú và cá nhân không cư trú; từ kinh doanh của cá nhân không cư trú; Tổ chức, cá nhân trả thu nhập thực hiện khấu trừ thuế khi nhận chuyển nhượng vốn góp của cá nhân không cư trú.                                                                 | 4              | TCT             | Cục THTK |
+
+| 140 | 39                          | Khai khấu trừ thuế thu nhập cá nhân đối với Công ty xổ số, doanh nghiệp bảo hiểm, doanh nghiệp bán hàng đa cấp trả tiền hoa hồng cho cá nhân trực tiếp ký hợp đồng làm đại lý bán đúng giá; doanh nghiệp bảo hiểm trả phí tích lũy bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác.                                                                                                                                                                                                          | 4              | TCT             | Cục THTK |
+
+| 141 | 40                          | Khai khấu trừ thuế thu nhập cá nhân đối với Công ty xổ số, doanh nghiệp bảo hiểm, doanh nghiệp bán hàng đa cấp trả tiền hoa hồng cho cá nhân trực tiếp ký hợp đồng làm đại lý bán đúng giá; doanh nghiệp bảo hiểm trả phí tích lũy bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác.                                                                                                                                                                                                          | 4              | TCT             | Cục THTK |
+
+| 142 | 41                          | Khai thuế đối với cá nhân có tài sản cho thuê                                                                                                                                                                                                                                                                                                                                                                                                                                                | 3              | TCT             | Cục THTK |
+
+| 143 | 42                          | Đề nghị điều chỉnh sai sót liên quan đến khoản nộp ngân sách nhà nước                                                                                                                                                                                                                                                                                                                                                                                                                        | 4              | TCT             | Cục THTK |
+
+| 144 | 43                          | Đề nghị điều chỉnh sai sót liên quan đến khoản nộp ngân sách nhà nước                                                                                                                                                                                                                                                                                                                                                                                                                        | 4              | TCT             | Cục THTK |
+
+| 145 | 44                          | Khai quyết toán thuế Tài nguyên đối với cơ sở sản xuất thủy điện                                                                                                                                                                                                                                                                                                                                                                                                                             | 4              | TCT             | Cục THTK |
+
+| 146 | 45                          | Khai thuế tài nguyên đối với trường hợp cơ sở sản xuất thủy điện không có lòng hồ nằm chung trên địa bàn các tỉnh                                                                                                                                                                                                                                                                                                                                                                            | 4              | TCT             | Cục THTK |
+
+| 147 | 46                          | Khai thuế tài nguyên đối với cơ sở khai thác tài nguyên                                                                                                                                                                                                                                                                                                                                                                                                                                      | 4              | TCT             | Cục THTK |
+
+| 148 | 47                          | Khai quyết toán thuế tài nguyên (trừ dầu thô, khí thiên nhiên).                                                                                                                                                                                                                                                                                                                                                                                                                              | 4              | TCT             | Cục THTK |
+
+| 149 | 48                          | Khai phí bảo vệ môi trường đối với khai thác khoáng sản                                                                                                                                                                                                                                                                                                                                                                                                                                      | 4              | TCT             | Cục THTK |
+
+| 150 | 49                          | Khai quyết toán phí bảo vệ môi trường đối với khai thác khoáng sản                                                                                                                                                                                                                                                                                                                                                                                                                           | 4              | TCT             | Cục THTK |
+
+| 151 | 50                          | Khai thuế bảo vệ môi trường đối với tổ chức, hộ gia đình, cá nhân khai thác khoáng sản.                                                                                                                                                                                                                                                                                                                                                                                                      | 4              | TCT             | Cục THTK |
+
+| 152 | 51                          | Khai phí, lệ phí khác thuộc ngân sách nhà nước                                                                                                                                                                                                                                                                                                                                                                                                                                               | 4              | TCT             | Cục THTK |
+
+| 153 | 52                          | Khai quyết toán phí, lệ phí khác thuộc ngân sách nhà nước                                                                                                                                                                                                                                                                                                                                                                                                                                    | 4              | TCT             | Cục THTK |
+
+| 154 | 53                          | Khai thuế tiêu thụ đặc biệt                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 4              | TCT             | Cục THTK |
+
+| 155 | 54                          | Khai thuế môn bài                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 4              | TCT             | Cục THTK |
+
+| 156 | 55                          | Khai thuế đối với tái bảo hiểm nước ngoài                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 4              | TCT             | Cục THTK |
+
+| 157 | 56                          | Khai thuế đối với hãng vận tải nước ngoài                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 4              | TCT             | Cục THTK |
+
+| 158 | 57                          | Báo cáo tình hình sử dụng tem rượu, quyết toán tem rượu và báo cáo mất tem rượu.                                                                                                                                                                                                                                                                                                                                                                                                             | 4              | TCT             | Cục THTK |
+
+| 159 | 58                          | Đăng ký hủy và thông báo kết quả hủy tem rượu                                                                                                                                                                                                                                                                                                                                                                                                                                                | 4              | TCT             | Cục THTK |
+
+| 160 | 59                          | Khai bổ sung hồ sơ khai thuế                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 4              | TCT             | Cục THTK |
+
+| 161 | 60                          | Khai thuế tiêu thụ đặc biệt                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 4              | TCT             | Cục THTK |
+
+| 162 | 61                          | Khai thuế môn bài                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 4              | TCT             | Cục THTK |
+
+| 163 | 62                          | Khai phí, lệ phí khác thuộc ngân sách nhà nước                                                                                                                                                                                                                                                                                                                                                                                                                                               | 4              | TCT             | Cục THTK |
+
+| 164 | 63                          | Khai quyết toán phí, lệ phí khác thuộc ngân sách nhà nước                                                                                                                                                                                                                                                                                                                                                                                                                                    | 4              | TCT             | Cục THTK |
+
+| 165 | 64                          | Khai thuế đối với Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài nộp thuế GTGT theo phương pháp khấu trừ, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu                                                                                                                                                                                                                                                                                                                                       | 4              | TCT             | Cục THTK |
+
+| 166 | 65                          | Khai quyết toán thuế TNDN đối với Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài nộp thuế GTGT theo phương pháp khấu trừ, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu                                                                                                                                                                                                                                                                                                                       | 4              | TCT             | Cục THTK |
+
+| 167 | 66                          | Khai thuế đối với nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT theo phương pháp tính trực tiếp trên GTGT, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu đối với hoạt động kinh doanh và các loại thu nhập khác                                                                                                                                                                                                                                                                | 4              | TCT             | Cục THTK |
+
+| 168 | 67                          | Khai quyết toán thuế đối với nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT tính trực tiếp trên GTGT, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu đối với hoạt động kinh doanh và các loại thu nhập khác                                                                                                                                                                                                                                                                      | 4              | TCT             | Cục THTK |
+
+| 169 | 68                          | Báo cáo tình hình sử dụng tem rượu, quyết toán tem rượu và báo cáo mất tem rượu.                                                                                                                                                                                                                                                                                                                                                                                                             | 4              | TCT             | Cục THTK |
+
+| 170 | 69                          | Đăng ký hủy và thông báo kết quả hủy tem rượu                                                                                                                                                                                                                                                                                                                                                                                                                                                | 4              | TCT             | Cục THTK |
+
+| 171 | 70                          | Khai bổ sung hồ sơ khai thuế                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 4              | TCT             | Cục THTK |
+
+| 172 | 71                          | Khai khấu trừ thuế thu nhập cá nhân đối với tổ chức, cá nhân trả thu nhập từ tiền lương, tiền công                                                                                                                                                                                                                                                                                                                                                                                           | 4              | TCT             | Cục THTK |
+
+| 173 | 72                          | Khai quyết toán thuế thu nhập cá nhân đối với tổ chức, cá nhân trả thu nhập từ tiền lương, tiền công                                                                                                                                                                                                                                                                                                                                                                                         | 4              | TCT             | Cục THTK |
+
+| 174 | 73                          | Khai khấu trừ thuế thu nhập cá nhân đối với tổ chức, cá nhân trả thu nhập từ tiền lương, tiền công                                                                                                                                                                                                                                                                                                                                                                                           | 4              | TCT             | Cục THTK |
+
+| 175 | 74                          | Khai quyết toán thuế thu nhập cá nhân đối với tổ chức, cá nhân trả thu nhập từ tiền lương, tiền công                                                                                                                                                                                                                                                                                                                                                                                         | 4              | TCT             | Cục THTK |
+
+| 176 | 75                          | Khai thuế đối với cá nhân kinh doanh khai thuế theo từng lần phát sinh                                                                                                                                                                                                                                                                                                                                                                                                                       | 3              | TCT             | Cục THTK |
+
+| 177 | 76                          | Thông báo phát hành hóa đơn đặt in/hóa đơn tự in/hóa đơn in trực tiếp từ máy tính tiền và hóa đơn điện tử                                                                                                                                                                                                                                                                                                                                                                                    | 4              | TCT             | Cục THTK |
+
+| 178 | 77                          | Khai quyết toán thuế thu nhập doanh nghiệp đối với cơ sở sản xuất thủy điện mà nhà máy thủy điện nằm chung trên địa bàn các tỉnh có/hoặc không có các đơn vị thủy điện hạch toán phụ thuộc.                                                                                                                                                                                                                                                                                                  | 4              | TCT             | Cục THTK |
+
+| 179 | 78                          | Khai thuế tài nguyên trường hợp cơ sở sản xuất thủy điện có lòng hồ nằm chung trên địa bàn các tỉnh                                                                                                                                                                                                                                                                                                                                                                                          | 4              | TCT             | Cục THTK |
+
+| 180 | 79                          | Khai thuế GTGT theo phương pháp khấu trừ                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 4              | TCT             | Cục THTK |
+
+| 181 | 80                          | Khai thuế GTGT theo phương pháp trực tiếp trên GTGT                                                                                                                                                                                                                                                                                                                                                                                                                                          | 4              | TCT             | Cục THTK |
+
+| 182 | 81                          | Khai thuế GTGT theo phương pháp trực tiếp trên doanh thu                                                                                                                                                                                                                                                                                                                                                                                                                                     | 4              | TCT             | Cục THTK |
+
+| 183 | 82                          | Khai thuế GTGT đối với hoạt động kinh doanh xây dựng, lắp đặt, bán hàng vãng lai ngoại tỉnh và chuyển nhượng bất động sản ngoại tỉnh.                                                                                                                                                                                                                                                                                                                                                        | 4              | TCT             | Cục THTK |
+
+| 184 | 83                          | Khai thuế giá trị gia tăng dành cho dự án đầu tư                                                                                                                                                                                                                                                                                                                                                                                                                                             | 4              | TCT             | Cục THTK |
+
+| 185 | 84                          | Khai thuế năm đối với cá nhân làm đại lý xổ số, đại lý bảo hiểm, bán hàng đa cấp và hoạt động kinh doanh khác chưa khấu trừ, nộp thuế trong năm                                                                                                                                                                                                                                                                                                                                              | 4              | TCT             | Cục THTK |
+
+| 186 | 85                          | Khai thuế tài nguyên đối với cơ sở khai thác tài nguyên                                                                                                                                                                                                                                                                                                                                                                                                                                      | 4              | TCT             | Cục THTK |
+
+| 187 | 86                          | Khai quyết toán thuế tài nguyên (trừ dầu thô, khí thiên nhiên).                                                                                                                                                                                                                                                                                                                                                                                                                              | 4              | TCT             | Cục THTK |
+
+| 188 | 87                          | Khai phí bảo vệ môi trường đối với khai thác khoáng sản                                                                                                                                                                                                                                                                                                                                                                                                                                      | 4              | TCT             | Cục THTK |
+
+| 189 | 88                          | Khai quyết toán phí bảo vệ môi trường đối với khai thác khoáng sản                                                                                                                                                                                                                                                                                                                                                                                                                           | 4              | TCT             | Cục THTK |
+
+| 190 | 89                          | Khai thuế bảo vệ môi trường đối với tổ chức, hộ gia đình, cá nhân khai thác khoáng sản.                                                                                                                                                                                                                                                                                                                                                                                                      | 4              | TCT             | Cục THTK |
+
+| 191 | 90                          | Khai thuế bảo vệ môi trường đối với than khai thác và tiêu thụ nội địa - Trường hợp than do Tập đoàn công nghiệp Than - Khoáng sản Việt Nam (Vinacomin) quản lý và giao cho các đơn vị thành viên khai thác, chế biến và tiêu thụ.                                                                                                                                                                                                                                                           | 4              | TCT             | Cục THTK |
+
+| 192 | 91                          | Khai thuế đối với tái bảo hiểm nước ngoài                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 4              | TCT             | Cục THTK |
+
+| 193 | 92                          | Khai thuế đối với hãng vận tải nước ngoài                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 4              | TCT             | Cục THTK |
+
+| 194 | 93                          | Khai thuế đối với hãng hàng không nước ngoài                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 4              | TCT             | Cục THTK |
+
+STT
+
+Tên dịch vụ công trực tuyến
+
+Mức độ DVCTT
+
+Đơn vị chủ trì
+
+Đơn vị phối hợp
+
+I
+
+Cơ quan Bộ Tài chính
+
+1.
+
+1
+
+Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán cho doanh nghiệp dịch vụ kế toán tại Việt Nam (Cấp lần đầu)
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+2.
+
+2
+
+Đăng ký cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán (Cấp lại).
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+3.
+
+3
+
+Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán cho Chi nhánh doanh nghiệp kế toán nước ngoài tại Việt Nam
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+4.
+
+4
+
+Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán (Cấp mới)
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+5.
+
+5
+
+Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán hết thời hạn
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+6.
+
+6
+
+Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi kế toán viên thay đổi nơi làm việc hoặc nơi đăng ký hành nghề dịch vụ kế toán
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+7.
+
+7
+
+Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi thay đổi tên của doanh nghiệp dịch vụ kế toán nơi kế toán viên hành nghề đăng ký hành nghề
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+8.
+
+8
+
+Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi kế toán viên hành nghề bị thu hồi giấy chứng nhận đăng ký hành nghề dịch vụ kế toán
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+9.
+
+9
+
+Đăng ký cấp lại Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+10.
+
+10
+
+Kê khai giá (DVCTT khác)
+
+4
+
+Cục THTK
+
+Cục QLG
+
+11.
+
+11
+
+Đăng ký dự thi cấp thẻ lần đầu, sát hạch, cấp lần hai đối với thẻ thẩm định giá.
+
+4
+
+Cục THTK
+
+Cục QLG
+
+12.
+
+12
+
+Đăng ký dự thi chứng chỉ kiểm toán viên đối với người đã có chứng chỉ kế toán viên
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+13.
+
+13
+
+Đăng ký dự thi cấp chứng chỉ kiểm toán viên và chứng chỉ kế toán viên (đăng ký thi lại các môn chưa đạt hoặc thi tiếp các môn chưa thi)
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+14.
+
+14
+
+Thủ tục Đăng ký kinh doanh dịch vụ kiểm toán cho chi nhánh doanh nghiệp kiểm toán
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+15.
+
+15
+
+Thủ tục đăng ký dự thi lấy chứng chỉ kiểm toán viên (Đăng ký lần đầu)
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+16.
+
+16
+
+Thủ tục đăng ký dự thi lấy chứng chỉ kế toán viên (Đăng ký lần đầu)
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+17.
+
+17
+
+Thủ tục đăng ký dự thi sát hạch đối với người có chứng chỉ chuyên gia kế toán hoặc chứng chỉ kiểm toán viên nước ngoài (chứng chỉ 18kiểm toán viên và chứng chỉ kế toán viên)
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+18.
+
+18
+
+Đăng ký cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (cấp mới)
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+19.
+
+19
+
+Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (cấp lần đầu)
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+20.
+
+20
+
+Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán cho chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+21.
+
+21
+
+Đăng ký giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (Điều chỉnh)
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+22.
+
+22
+
+Đăng ký cấp giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (Cấp lại)
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+23.
+
+23
+
+Đăng ký cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (Cấp lại)
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+24.
+
+24
+
+Đăng ký cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (Điều chỉnh)
+
+4
+
+Cục THTK
+
+Cục QLKT
+
+II
+
+Kho bạc nhà nước
+
+25.
+
+1
+
+Thủ tục kiểm soát thanh toán các khoản chi thường xuyên, chi sự nghiệp có tính chất thường xuyên, chi chương trình mục tiêu quốc gia, chương trình mục tiêu sử dụng kinh phí sự nghiệp
+
+4
+
+KBNN
+
+Cục THTK
+
+26.
+
+2
+
+Thủ tục kiểm soát thanh toán vốn đầu tư thuộc nguồn vốn ngân sách nhà nước
+
+4
+
+KBNN
+
+Cục THTK
+
+27.
+
+3
+
+Thủ tục kiểm soát, thanh toán chi phí quản lý dự án đầu tư của các dự án sử dụng vốn ngân sách nhà nước qua Kho bạc Nhà nước
+
+4
+
+KBNN
+
+Cục THTK
+
+28.
+
+4
+
+Thủ tục kiểm soát chi vốn nước ngoài qua Kho bạc Nhà nước
+
+4
+
+KBNN
+
+Cục THTK
+
+29.
+
+5
+
+Thủ tục hạch toán vốn ODA, vốn vay ưu đãi vào ngân sách nhà nước
+
+4
+
+KBNN
+
+Cục THTK
+
+30.
+
+6
+
+Thủ tục tất toán tài khoản của đơn vị giao dịch mở tại Kho bạc Nhà nước.
+
+4
+
+KBNN
+
+Cục THTK
+
+III
+
+Tổng cục Hải quan
+
+31.
+
+1
+
+Thủ tục hải quan đối với hàng hóa đưa vào, đưa ra cảng trung chuyển
+
+4
+
+TCHQ
+
+Cục THTK
+
+32.
+
+2
+
+Thủ tục hải quan đối với hàng hóa kinh doanh theo phương thức chuyển khẩu
+
+4
+
+TCHQ
+
+Cục THTK
+
+33.
+
+3
+
+Thủ tục thành lập địa điểm kiểm tra là chân công trình hoặc kho của công trình, nơi sản xuất
+
+4
+
+TCHQ
+
+Cục THTK
+
+34.
+
+4
+
+Phân loại máy móc, thiết bị nguyên chiếc ở dạng tháo rời
+
+4
+
+TCHQ
+
+Cục THTK
+
+35.
+
+5
+
+Thủ tục phân loại máy liên hợp hoặc tổ hợp máy thuộc các Chương 84, Chương 85 và Chương 90 của Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam
+
+4
+
+TCHQ
+
+Cục THTK
+
+36.
+
+6
+
+Thủ tục xem hàng hóa trước khi khai hải quan
+
+4
+
+TCHQ
+
+Cục THTK
+
+37.
+
+7
+
+Thủ tục xác nhận hoàn thành nghĩa vụ nộp thuế
+
+4
+
+TCHQ
+
+Cục THTK
+
+38.
+
+8
+
+Thủ tục tham vấn trị giá đối với hàng hóa xuất khẩu, nhập khẩu (cấp Cục)
+
+4
+
+TCHQ
+
+Cục THTK
+
+39.
+
+9
+
+Thủ tục cấp giấy phép nhập khẩu, tạm nhập khẩu xe ô tô, xe gắn máy không nhằm mục đích thương mại
+
+4
+
+TCHQ
+
+Cục THTK
+
+40.
+
+10
+
+Thủ tục thuê kho bên ngoài doanh nghiệp chế xuất để lưu giữ nguyên liệu, sản phẩm của doanh nghiệp chế xuất, quản lý hải quan đối với hàng hóa đưa vào, đưa ra kho
+
+4
+
+TCHQ
+
+Cục THTK
+
+41.
+
+11
+
+Thủ tục xác định trước mã số hàng hóa xuất khẩu, nhập khẩu
+
+4
+
+TCHQ
+
+Cục THTK
+
+42.
+
+12
+
+Thủ tục xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa (theo quy định tại Điều 47 Luật Quản lý thuế số 78/2006/QH10 được bổ sung tại khoản 13 Điều 1 Luật sửa đổi bổ sung một số điều của Luật Quản lý thuế...)
+
+4
+
+TCHQ
+
+Cục THTK
+
+43.
+
+13
+
+Thủ tục tham vấn trị giá đối với hàng hóa xuất khẩu, nhập khẩu (cấp Chi cục)
+
+4
+
+TCHQ
+
+Cục THTK
+
+44.
+
+14
+
+Thủ tục sao y tờ khai hải quan bản chính do cơ quan hải quan lưu trong bộ hồ sơ hoàn, không thu thuế
+
+4
+
+TCHQ
+
+Cục THTK
+
+45.
+
+15
+
+Thủ tục xóa nợ tiền thuế, tiền chậm nộp, tiền phạt (theo qui định tại Điều 65 Luật Quản lý thuế được bổ sung tại khoản 20 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế, Nghị định 83/2013/NĐ-CP ngày 22/7/2013 và Điều 136 Thông tư số 38/2015/TT-BTC ngày 25/3/2015)
+
+4
+
+TCHQ
+
+Cục THTK
+
+46.
+
+16
+
+Thủ tục áp dụng mức thuế suất của nhóm 98.49
+
+4
+
+TCHQ
+
+Cục THTK
+
+47.
+
+17
+
+Thủ tục quyết toán việc xuất khẩu, sử dụng hàng hóa miễn thuế là vật liệu xây dựng đưa từ thị trường trong nước vào khu phi thuế quan để xây dựng sửa chữa và bảo dưỡng kết cấu hạ tầng kỹ thuật, hạ tầng xã hội chung trong khu phi thuế quan
+
+4
+
+TCHQ
+
+Cục THTK
+
+48.
+
+18
+
+Thủ tục đăng ký tham gia chương trình ưu đãi thuế
+
+4
+
+TCHQ
+
+Cục THTK
+
+49.
+
+19
+
+Thủ tục xét miễn thuế đối với hàng hóa là quà biếu, quà tặng, hàng mẫu không thuộc thẩm quyền của Bộ Tài chính, Tổng cục Hải quan, Cục Hải quan; thuốc chữa bệnh là quà biếu, quà tặng có trị giá vượt quá định mức miễn thuế nhưng do người Việt Nam định cư ở nước ngoài gửi về cho thân nhân tại Việt Nam là gia đình có công với cách mạng, thương binh, liệt sỹ, người già yếu không nơi nương tựa; hàng nhập khẩu để bán tại cửa hàng miễn thuế, hàng nhập khẩu theo điều ước quốc tế.
+
+4
+
+TCHQ
+
+Cục THTK
+
+50.
+
+20
+
+Thông báo kết quả hủy Biên lai
+
+4
+
+TCHQ
+
+Cục THTK
+
+51.
+
+21
+
+Thủ tục xét miễn thuế đối với trường hợp hàng nhập khẩu phục vụ nghiên cứu khoa học, giáo dục đào tạo
+
+4
+
+TCHQ
+
+Cục THTK
+
+52.
+
+22
+
+Kiểm tra việc in, phát hành, quản lý và sử dụng Biên lai
+
+4
+
+TCHQ
+
+Cục THTK
+
+53.
+
+23
+
+Thông báo phát hành Biên lai
+
+4
+
+TCHQ
+
+Cục THTK
+
+54.
+
+24
+
+Thủ tục xóa nợ tiền thuế, tiền phạt (thực hiện theo Thông tư 77/2008/TT-BTC ngày 15/9/2008 hướng dẫn thi hành một số biện pháp xử lý nợ đọng thuế và Thông tư số 24/2012/TT-BTC ngày 17/02/2012 sửa đổi bổ sung Thông tư số 77/2008/TT-BTC)
+
+4
+
+TCHQ
+
+Cục THTK
+
+55.
+
+25
+
+Thủ tục đề nghị kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu có yêu cầu bảo hộ quyền sở hữu trí tuệ
+
+4
+
+TCHQ
+
+Cục THTK
+
+56.
+
+26
+
+Thủ tục thành lập địa điểm tập kết, kiểm tra hàng hóa xuất khẩu, nhập khẩu ở biên giới
+
+4
+
+TCHQ
+
+Cục THTK
+
+57.
+
+27
+
+Thủ tục thành lập kho bảo thuế
+
+4
+
+TCHQ
+
+Cục THTK
+
+58.
+
+28
+
+Thủ tục chấm dứt hoạt động kho ngoại quan, địa điểm thu gom hàng lẻ, địa điểm kiểm tra tập trung, địa điểm tập kết, kiểm tra hàng hóa xuất khẩu, nhập khẩu ở biên giới
+
+4
+
+TCHQ
+
+Cục THTK
+
+59.
+
+29
+
+Thủ tục kiểm tra khoản giảm giá đối với hàng nhập khẩu
+
+4
+
+TCHQ
+
+Cục THTK
+
+60.
+
+30
+
+Thủ tục thành lập địa điểm làm thủ tục hải quan tại cảng xuất khẩu, nhập khẩu hàng hóa được thành lập trong nội địa (cảng nội địa)
+
+4
+
+TCHQ
+
+Cục THTK
+
+61.
+
+31
+
+Thủ tục thành lập địa điểm kiểm tra, giám sát hải quan đối với bưu gửi do doanh nghiệp kinh doanh làm chủ đầu tư
+
+4
+
+TCHQ
+
+Cục THTK
+
+62.
+
+32
+
+Thủ tục xét miễn thuế đối với hàng hóa là quà biếu tặng có trị giá vượt quá định mức miễn thuế theo quy định của Thủ tướng Chính phủ tặng cho cơ quan hành chính sự nghiệp, cơ quan đoàn thể xã hội hoạt động bằng ngân sách nhà nước; quà biếu tặng mang mục đích nhân đạo, từ thiện, nghiên cứu khoa học.
+
+4
+
+TCHQ
+
+Cục THTK
+
+63.
+
+33
+
+Thủ tục chấm dứt hoạt động địa điểm làm thủ tục hải quan tại cảng xuất khẩu, nhập khẩu hàng hóa được thành lập trong nội địa, địa điểm làm thủ tục hải quan ngoài cửa khẩu, kho hàng không kéo dài
+
+4
+
+TCHQ
+
+Cục THTK
+
+64.
+
+34
+
+Thủ tục thành lập kho hàng không kéo dài
+
+4
+
+TCHQ
+
+Cục THTK
+
+65.
+
+35
+
+Thủ tục thành lập địa điểm kiểm tra tập trung do doanh nghiệp kinh doanh kho bãi đầu tư xây dựng
+
+4
+
+TCHQ
+
+Cục THTK
+
+66.
+
+36
+
+Thủ tục di chuyển, chuyển quyền sở hữu địa điểm kiểm tra tập trung, địa điểm tập kết, kiểm tra hàng hóa xuất khẩu, nhập khẩu ở biên giới
+
+4
+
+TCHQ
+
+Cục THTK
+
+67.
+
+37
+
+Thủ tục chuyển đổi quyền kinh doanh, khai thác địa điểm kiểm tra, giám sát hải quan đối với bưu gửi
+
+4
+
+TCHQ
+
+Cục THTK
+
+68.
+
+38
+
+Thủ tục đổi tên chủ sở hữu của địa điểm kiểm tra, giám sát hải quan đối với bưu gửi
+
+4
+
+TCHQ
+
+Cục THTK
+
+69.
+
+39
+
+Thủ tục di chuyển, chuyển quyền sở hữu kho ngoại quan, địa điểm thu gom hàng lẻ
+
+4
+
+TCHQ
+
+Cục THTK
+
+70.
+
+40
+
+Thủ tục thành lập địa điểm thu gom hàng lẻ ở nội địa (CFS)
+
+4
+
+TCHQ
+
+Cục THTK
+
+71.
+
+41
+
+Thủ tục thành lập kho ngoại quan
+
+4
+
+TCHQ
+
+Cục THTK
+
+72.
+
+42
+
+Thủ tục lựa chọn Ngân hàng thương mại là đại lý hoàn thuế giá trị gia tăng
+
+4
+
+TCHQ
+
+Cục THTK
+
+73.
+
+43
+
+Thủ tục chấm dứt, tạm dừng hoạt động của địa điểm kiểm tra, giám sát hải quan đối với bưu gửi
+
+4
+
+TCHQ
+
+Cục THTK
+
+74.
+
+44
+
+Thủ tục kiểm tra và xác định trước xuất xứ hàng nhập khẩu
+
+4
+
+TCHQ
+
+Cục THTK
+
+75.
+
+45
+
+Thủ tục di chuyển, chuyển quyền sở hữu địa điểm làm thủ tục hải quan tại cảng xuất khẩu, nhập khẩu hàng hóa thành lập trong nội địa; địa điểm làm thủ tục hải quan ngoài cửa khẩu; kho hàng không kéo dài
+
+4
+
+TCHQ
+
+Cục THTK
+
+76.
+
+46
+
+Thủ tục cấp giấy phép nhập khẩu xe ô tô, xe mô tô của người Việt Nam định cư ở nước ngoài được phép hồi hương
+
+4
+
+TCHQ
+
+Cục THTK
+
+77.
+
+47
+
+Thủ tục đăng ký danh mục hàng hóa xuất khẩu miễn thuế là vật liệu xây dựng đưa từ thị trường trong nước vào khu phi thuế quan
+
+4
+
+TCHQ
+
+Cục THTK
+
+78.
+
+48
+
+Thủ tục công nhận hoạt động đại lý làm thủ tục hải quan
+
+4
+
+TCHQ
+
+Cục THTK
+
+79.
+
+49
+
+Thủ tục chấm dứt đại lý hoàn thuế giá trị gia tăng với Ngân hàng thương mại được lựa chọn làm đại lý hoàn thuế giá trị gia tăng
+
+4
+
+TCHQ
+
+Cục THTK
+
+80.
+
+50
+
+Thủ tục tiêu hủy xe ô tô, xe gắn máy của đối tượng được hưởng quyền ưu đãi, miễn trừ tại việt Nam
+
+4
+
+TCHQ
+
+Cục THTK
+
+81.
+
+51
+
+Thủ tục nộp dần tiền thuế nợ theo khoản 25 Điều 1 Luật số 21/2012/QH13 sửa đổi, bổ sung một số Điều của Luật quản lý thuế; Điều 39 Nghị định 83/2013/NĐ-CP ngày 22/7/2013; khoản 7 Điều 5 Nghị định 12/2015/NĐ-CP ngày 12/2/2015 và Điều 134 Thông tư 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính đối với số tiền thuế nợ phát sinh tại 02 Chi cục HQ trở lên thuộc 01 Cục HQ.
+
+4
+
+TCHQ
+
+Cục THTK
+
+82.
+
+52
+
+Thủ tục nộp dần tiền thuế nợ theo khoản 25 Điều 1 Luật số 21/2012/QH13 sửa đổi, bổ sung một số Điều của Luật quản lý thuế; Điều 39 Nghị định 83/2013/NĐ-CP ngày 22/7/2013; khoản 7 Điều 5 Nghị định 12/2015/NĐ-CP ngày 12/2/2015 và Điều 134 Thông tư 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính đối với số tiền thuế nợ phát sinh tại 01 Chi cục HQ.
+
+4
+
+TCHQ
+
+Cục THTK
+
+83.
+
+53
+
+Thủ tục nộp dần tiền thuế nợ theo khoản 25 Điều 1 Luật số 21/2012/QH13 sửa đổi, bổ sung một số Điều của Luật quản lý thuế; Điều 39 Nghị định 83/2013/NĐ-CP ngày 22/7/2013; khoản 7 Điều 5 Nghị định 12/2015/NĐ-CP ngày 12/2/2015 và Điều 134 Thông tư 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính đối với số tiền thuế nợ phát sinh tại 02 Cục HQ trở lên.
+
+4
+
+TCHQ
+
+Cục THTK
+
+84.
+
+54
+
+Thủ tục kiểm tra khoản giảm giá đối với hàng nhập khẩu
+
+4
+
+TCHQ
+
+Cục THTK
+
+85.
+
+55
+
+Thủ tục di chuyển, mở rộng, thu hẹp, bố trí lại địa điểm kiểm tra, giám sát hải quan đối với bưu gửi
+
+4
+
+TCHQ
+
+Cục THTK
+
+86.
+
+56
+
+Thủ tục xử lý hồ sơ đề nghị tạm dừng làm thủ tục hải quan đối với hàng hóa xuất khẩu, nhập khẩu có yêu cầu bảo vệ quyền sở hữu trí tuệ
+
+4
+
+TCHQ
+
+Cục THTK
+
+87.
+
+57
+
+Thủ tục kê khai, nộp thuế xe ô tô, xe mô tô khi chuyển nhượng của người Việt Nam định cư ở nước ngoài được phép hồi hương
+
+4
+
+TCHQ
+
+Cục THTK
+
+88.
+
+58
+
+Thủ tục hoàn thuế /không thu thuế đối với hàng hóa xuất khẩu, nhập khẩu
+
+4
+
+TCHQ
+
+Cục THTK
+
+89.
+
+59
+
+Thủ tục chấm dứt hoạt động đại lý làm thủ tục hải quan.
+
+4
+
+TCHQ
+
+Cục THTK
+
+90.
+
+60
+
+Thủ tục tiếp tục hoạt động đại lý làm thủ tục hải quan.
+
+4
+
+TCHQ
+
+Cục THTK
+
+IV
+
+Ủy ban chứng khoán nhà nước
+
+91.
+
+1
+
+Hủy đăng ký công ty đại chúng
+
+3
+
+UBCK
+
+Cục THTK
+
+92.
+
+2
+
+Đăng ký mua lại cổ phiếu làm cổ phiếu quỹ của công ty đại chúng
+
+3
+
+UBCK
+
+Cục THTK
+
+93.
+
+3
+
+Đăng ký bán cổ phiếu quỹ của công ty đại chúng
+
+3
+
+UBCK
+
+Cục THTK
+
+94.
+
+4
+
+Đăng ký phát hành cổ phiếu theo chương trình lựa chọn cho người lao động của công ty đại chúng
+
+3
+
+UBCK
+
+Cục THTK
+
+95.
+
+5
+
+Đăng ký phát hành cổ phiếu để trả cổ tức của công ty đại chúng
+
+3
+
+UBCK
+
+Cục THTK
+
+96.
+
+6
+
+Đăng ký phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu của công ty đại chúng
+
+3
+
+UBCK
+
+Cục THTK
+
+97.
+
+7
+
+Đăng ký chào mua công khai
+
+3
+
+UBCK
+
+Cục THTK
+
+98.
+
+8
+
+Cấp chứng chỉ hành nghề chứng khoán
+
+3
+
+UBCK
+
+Cục THTK
+
+99.
+
+9
+
+Đề nghị chấp thuận đăng ký niêm yết chứng khoán tại Sở giao dịch chứng khoán nước ngoài của tổ chức phát hành Việt Nam
+
+3
+
+UBCK
+
+Cục THTK
+
+100
+
+10
+
+Đăng ký niêm yết chứng khoán của tổ chức phát hành nước ngoài trên Sở giao dịch chứng khoán tại Việt Nam
+
+3
+
+UBCK
+
+Cục THTK
+
+101
+
+11
+
+Đề nghị xác nhận tỷ lệ sở hữu nước ngoài tại công ty đại chúng
+
+3
+
+UBCK
+
+Cục THTK
+
+V
+
+Tổng cục Thuế
+
+102
+
+1
+
+Báo cáo về việc nhận in hóa đơn/biên lai, cung cấp phần mềm tự in hóa đơn/biên lai; Báo cáo về việc truyền hóa đơn điện tử của tổ chức trung gian cung cấp giải pháp hóa đơn điện tử
+
+4
+
+TCT
+
+Cục THTK
+
+103
+
+2
+
+Báo cáo tình hình sử dụng hóa đơn/mất, cháy, hỏng hóa đơn
+
+4
+
+TCT
+
+Cục THTK
+
+104
+
+3
+
+Thông báo phát hành hóa đơn đặt in/hóa đơn tự in/hóa đơn in trực tiếp từ máy tính tiền và hóa đơn điện tử
+
+4
+
+TCT
+
+Cục THTK
+
+105
+
+4
+
+Báo cáo về việc nhận in hóa đơn/biên lai, cung cấp phần mềm tự in hóa đơn/biên lai; Báo cáo về việc truyền hóa đơn điện tử của tổ chức trung gian cung cấp giải pháp hóa đơn điện tử
+
+4
+
+TCT
+
+Cục THTK
+
+106
+
+5
+
+Báo cáo tình hình sử dụng hóa đơn/mất, cháy, hỏng hóa đơn
+
+4
+
+TCT
+
+Cục THTK
+
+107
+
+6
+
+Thông báo về hóa đơn, Biên lai thu tiền phí, lệ phí không tiếp tục sử dụng/ Thông báo kết quả hủy hóa đơn, Biên lai thu tiền phí, lệ phí
+
+4
+
+TCT
+
+Cục THTK
+
+108
+
+7
+
+Thông báo phát hành biên lai thu phí, lệ phí do cơ quan thu phí, lệ phí đặt in/tự in
+
+4
+
+TCT
+
+Cục THTK
+
+109
+
+8
+
+Báo cáo tình hình sử dụng Biên lai thu tiền phí, lệ phí
+
+4
+
+TCT
+
+Cục THTK
+
+110
+
+9
+
+Thông báo về hóa đơn, Biên lai thu tiền phí, lệ phí không tiếp tục sử dụng/ Thông báo kết quả hủy hóa đơn, Biên lai thu tiền phí, lệ phí
+
+4
+
+TCT
+
+Cục THTK
+
+111
+
+10
+
+Thông báo phát hành biên lai thu phí, lệ phí do cơ quan thu phí, lệ phí đặt in/tự in
+
+4
+
+TCT
+
+Cục THTK
+
+112
+
+11
+
+Báo cáo tình hình sử dụng Biên lai thu tiền phí, lệ phí
+
+4
+
+TCT
+
+Cục THTK
+
+113
+
+12
+
+Đăng ký sử dụng dịch vụ T-VAN/ Đăng ký thay đổi, bổ sung thông tin đăng ký sử dụng dịch vụ T-VAN/ Đăng ký ngừng sử dụng dịch vụ T-VAN
+
+4
+
+TCT
+
+Cục THTK
+
+114
+
+13
+
+Khai thuế GTGT theo phương pháp khấu trừ
+
+4
+
+TCT
+
+Cục THTK
+
+115
+
+14
+
+Khai thuế GTGT theo phương pháp trực tiếp trên GTGT
+
+4
+
+TCT
+
+Cục THTK
+
+116
+
+15
+
+Khai thuế GTGT theo phương pháp trực tiếp trên doanh thu
+
+4
+
+TCT
+
+Cục THTK
+
+117
+
+16
+
+Khai thuế GTGT đối với hoạt động kinh doanh xây dựng, lắp đặt, bán hàng vãng lai ngoại tỉnh và chuyển nhượng bất động sản ngoại tỉnh.
+
+4
+
+TCT
+
+Cục THTK
+
+118
+
+17
+
+Khai thuế Giá trị gia tăng đối với cơ sở sản xuất thủy điện hạch toán phụ thuộc EVN, trường hợp nhà máy thủy điện nằm chung trên địa bàn các tỉnh
+
+4
+
+TCT
+
+Cục THTK
+
+119
+
+18
+
+Khai thuế Giá trị gia tăng đối với cơ sở sản xuất thủy điện hạch toán phụ thuộc EVN, trường hợp nhà máy thủy điện nằm trên 1 tỉnh
+
+4
+
+TCT
+
+Cục THTK
+
+120
+
+19
+
+Khai thuế GTGT đối với cơ sở sản xuất thủy điện không thuộc EVN
+
+4
+
+TCT
+
+Cục THTK
+
+121
+
+20
+
+Khai thuế giá tri gia tăng dành cho dự án đầu tư
+
+4
+
+TCT
+
+Cục THTK
+
+122
+
+21
+
+Khai thuế thu nhập doanh nghiệp tạm tính đối với hoạt động khai thác, xuất bán dầu thô, khí thiên nhiên.
+
+4
+
+TCT
+
+Cục THTK
+
+123
+
+22
+
+Khai quyết toán thuế TNDN đối với hoạt động khai thác, xuất bán dầu thô, khí thiên nhiên.
+
+4
+
+TCT
+
+Cục THTK
+
+124
+
+23
+
+Khai thuế thu nhập doanh nghiệp đối với thu nhập từ chuyển nhượng quyền lợi tham gia hợp đồng dầu khí.
+
+4
+
+TCT
+
+Cục THTK
+
+125
+
+24
+
+Khai thuế thu nhập doanh nghiệp đối với hoạt động chuyển nhượng bất động sản
+
+4
+
+TCT
+
+Cục THTK
+
+126
+
+25
+
+Khai thuế thu nhập doanh nghiệp đối với hoạt động chuyển nhượng bất động sản
+
+4
+
+TCT
+
+Cục THTK
+
+127
+
+26
+
+Khai thuế thu nhập doanh nghiệp tính theo tỷ lệ % trên doanh thu.
+
+4
+
+TCT
+
+Cục THTK
+
+128
+
+27
+
+Khai thuế thu nhập doanh nghiệp tính theo tỷ lệ % trên doanh thu.
+
+4
+
+TCT
+
+Cục THTK
+
+129
+
+28
+
+Khai thuế thu nhập doanh nghiệp đối với hoạt động chuyển nhượng vốn.
+
+4
+
+TCT
+
+Cục THTK
+
+130
+
+29
+
+Khai thuế thu nhập doanh nghiệp đối với hoạt động chuyển nhượng vốn.
+
+4
+
+TCT
+
+Cục THTK
+
+131
+
+30
+
+Khai quyết toán thuế thu nhập doanh nghiệp
+
+4
+
+TCT
+
+Cục THTK
+
+132
+
+31
+
+Khai quyết toán thuế thu nhập doanh nghiệp
+
+4
+
+TCT
+
+Cục THTK
+
+133
+
+32
+
+Khai thuế đối với Nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT theo phương pháp khấu trừ, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu.
+
+4
+
+TCT
+
+Cục THTK
+
+134
+
+33
+
+Khai quyết toán thuế TNDN đối với nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT theo phương pháp khấu trừ, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu.
+
+4
+
+TCT
+
+Cục THTK
+
+135
+
+34
+
+Khai thuế đối với nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT theo phương pháp trực tiếp trên GTGT, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu đối với hoạt động kinh doanh và các loại thu nhập khác
+
+4
+
+TCT
+
+Cục THTK
+
+136
+
+35
+
+Khai quyết toán thuế đối với nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT tính trực tiếp trên GTGT, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu đối với hoạt động kinh doanh và các loại thu nhập khác
+
+4
+
+TCT
+
+Cục THTK
+
+137
+
+36
+
+Khai thuế đối với hãng hàng không nước ngoài
+
+4
+
+TCT
+
+Cục THTK
+
+138
+
+37
+
+Khai khấu trừ thuế thu nhập cá nhân đối với tổ chức, cá nhân trả thu nhập thực hiện khấu trừ thuế đối với thu nhập từ đầu tư vốn, từ chuyển nhượng chứng khoán, từ bản quyền, từ nhượng quyền thương mại, từ trúng thưởng của cá nhân cư trú và cá nhân không cư trú; từ kinh doanh của cá nhân không cư trú; Tổ chức, cá nhân trả thu nhập thực hiện khấu trừ thuế khi nhận chuyển nhượng vốn góp của cá nhân không cư trú.
+
+4
+
+TCT
+
+Cục THTK
+
+139
+
+38
+
+Khai khấu trừ thuế thu nhập cá nhân đối với tổ chức, cá nhân trả thu nhập thực hiện khấu trừ thuế đối với thu nhập từ đầu tư vốn, từ chuyển nhượng chứng khoán, từ bản quyền, từ nhượng quyền thương mại, từ trúng thưởng của cá nhân cư trú và cá nhân không cư trú; từ kinh doanh của cá nhân không cư trú; Tổ chức, cá nhân trả thu nhập thực hiện khấu trừ thuế khi nhận chuyển nhượng vốn góp của cá nhân không cư trú.
+
+4
+
+TCT
+
+Cục THTK
+
+140
+
+39
+
+Khai khấu trừ thuế thu nhập cá nhân đối với Công ty xổ số, doanh nghiệp bảo hiểm, doanh nghiệp bán hàng đa cấp trả tiền hoa hồng cho cá nhân trực tiếp ký hợp đồng làm đại lý bán đúng giá; doanh nghiệp bảo hiểm trả phí tích lũy bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác.
+
+4
+
+TCT
+
+Cục THTK
+
+141
+
+40
+
+Khai khấu trừ thuế thu nhập cá nhân đối với Công ty xổ số, doanh nghiệp bảo hiểm, doanh nghiệp bán hàng đa cấp trả tiền hoa hồng cho cá nhân trực tiếp ký hợp đồng làm đại lý bán đúng giá; doanh nghiệp bảo hiểm trả phí tích lũy bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác.
+
+4
+
+TCT
+
+Cục THTK
+
+142
+
+41
+
+Khai thuế đối với cá nhân có tài sản cho thuê
+
+3
+
+TCT
+
+Cục THTK
+
+143
+
+42
+
+Đề nghị điều chỉnh sai sót liên quan đến khoản nộp ngân sách nhà nước
+
+4
+
+TCT
+
+Cục THTK
+
+144
+
+43
+
+Đề nghị điều chỉnh sai sót liên quan đến khoản nộp ngân sách nhà nước
+
+4
+
+TCT
+
+Cục THTK
+
+145
+
+44
+
+Khai quyết toán thuế Tài nguyên đối với cơ sở sản xuất thủy điện
+
+4
+
+TCT
+
+Cục THTK
+
+146
+
+45
+
+Khai thuế tài nguyên đối với trường hợp cơ sở sản xuất thủy điện không có lòng hồ nằm chung trên địa bàn các tỉnh
+
+4
+
+TCT
+
+Cục THTK
+
+147
+
+46
+
+Khai thuế tài nguyên đối với cơ sở khai thác tài nguyên
+
+4
+
+TCT
+
+Cục THTK
+
+148
+
+47
+
+Khai quyết toán thuế tài nguyên (trừ dầu thô, khí thiên nhiên).
+
+4
+
+TCT
+
+Cục THTK
+
+149
+
+48
+
+Khai phí bảo vệ môi trường đối với khai thác khoáng sản
+
+4
+
+TCT
+
+Cục THTK
+
+150
+
+49
+
+Khai quyết toán phí bảo vệ môi trường đối với khai thác khoáng sản
+
+4
+
+TCT
+
+Cục THTK
+
+151
+
+50
+
+Khai thuế bảo vệ môi trường đối với tổ chức, hộ gia đình, cá nhân khai thác khoáng sản.
+
+4
+
+TCT
+
+Cục THTK
+
+152
+
+51
+
+Khai phí, lệ phí khác thuộc ngân sách nhà nước
+
+4
+
+TCT
+
+Cục THTK
+
+153
+
+52
+
+Khai quyết toán phí, lệ phí khác thuộc ngân sách nhà nước
+
+4
+
+TCT
+
+Cục THTK
+
+154
+
+53
+
+Khai thuế tiêu thụ đặc biệt
+
+4
+
+TCT
+
+Cục THTK
+
+155
+
+54
+
+Khai thuế môn bài
+
+4
+
+TCT
+
+Cục THTK
+
+156
+
+55
+
+Khai thuế đối với tái bảo hiểm nước ngoài
+
+4
+
+TCT
+
+Cục THTK
+
+157
+
+56
+
+Khai thuế đối với hãng vận tải nước ngoài
+
+4
+
+TCT
+
+Cục THTK
+
+158
+
+57
+
+Báo cáo tình hình sử dụng tem rượu, quyết toán tem rượu và báo cáo mất tem rượu.
+
+4
+
+TCT
+
+Cục THTK
+
+159
+
+58
+
+Đăng ký hủy và thông báo kết quả hủy tem rượu
+
+4
+
+TCT
+
+Cục THTK
+
+160
+
+59
+
+Khai bổ sung hồ sơ khai thuế
+
+4
+
+TCT
+
+Cục THTK
+
+161
+
+60
+
+Khai thuế tiêu thụ đặc biệt
+
+4
+
+TCT
+
+Cục THTK
+
+162
+
+61
+
+Khai thuế môn bài
+
+4
+
+TCT
+
+Cục THTK
+
+163
+
+62
+
+Khai phí, lệ phí khác thuộc ngân sách nhà nước
+
+4
+
+TCT
+
+Cục THTK
+
+164
+
+63
+
+Khai quyết toán phí, lệ phí khác thuộc ngân sách nhà nước
+
+4
+
+TCT
+
+Cục THTK
+
+165
+
+64
+
+Khai thuế đối với Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài nộp thuế GTGT theo phương pháp khấu trừ, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu
+
+4
+
+TCT
+
+Cục THTK
+
+166
+
+65
+
+Khai quyết toán thuế TNDN đối với Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài nộp thuế GTGT theo phương pháp khấu trừ, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu
+
+4
+
+TCT
+
+Cục THTK
+
+167
+
+66
+
+Khai thuế đối với nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT theo phương pháp tính trực tiếp trên GTGT, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu đối với hoạt động kinh doanh và các loại thu nhập khác
+
+4
+
+TCT
+
+Cục THTK
+
+168
+
+67
+
+Khai quyết toán thuế đối với nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT tính trực tiếp trên GTGT, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu đối với hoạt động kinh doanh và các loại thu nhập khác
+
+4
+
+TCT
+
+Cục THTK
+
+169
+
+68
+
+Báo cáo tình hình sử dụng tem rượu, quyết toán tem rượu và báo cáo mất tem rượu.
+
+4
+
+TCT
+
+Cục THTK
+
+170
+
+69
+
+Đăng ký hủy và thông báo kết quả hủy tem rượu
+
+4
+
+TCT
+
+Cục THTK
+
+171
+
+70
+
+Khai bổ sung hồ sơ khai thuế
+
+4
+
+TCT
+
+Cục THTK
+
+172
+
+71
+
+Khai khấu trừ thuế thu nhập cá nhân đối với tổ chức, cá nhân trả thu nhập từ tiền lương, tiền công
+
+4
+
+TCT
+
+Cục THTK
+
+173
+
+72
+
+Khai quyết toán thuế thu nhập cá nhân đối với tổ chức, cá nhân trả thu nhập từ tiền lương, tiền công
+
+4
+
+TCT
+
+Cục THTK
+
+174
+
+73
+
+Khai khấu trừ thuế thu nhập cá nhân đối với tổ chức, cá nhân trả thu nhập từ tiền lương, tiền công
+
+4
+
+TCT
+
+Cục THTK
+
+175
+
+74
+
+Khai quyết toán thuế thu nhập cá nhân đối với tổ chức, cá nhân trả thu nhập từ tiền lương, tiền công
+
+4
+
+TCT
+
+Cục THTK
+
+176
+
+75
+
+Khai thuế đối với cá nhân kinh doanh khai thuế theo từng lần phát sinh
+
+3
+
+TCT
+
+Cục THTK
+
+177
+
+76
+
+Thông báo phát hành hóa đơn đặt in/hóa đơn tự in/hóa đơn in trực tiếp từ máy tính tiền và hóa đơn điện tử
+
+4
+
+TCT
+
+Cục THTK
+
+178
+
+77
+
+Khai quyết toán thuế thu nhập doanh nghiệp đối với cơ sở sản xuất thủy điện mà nhà máy thủy điện nằm chung trên địa bàn các tỉnh có/hoặc không có các đơn vị thủy điện hạch toán phụ thuộc.
+
+4
+
+TCT
+
+Cục THTK
+
+179
+
+78
+
+Khai thuế tài nguyên trường hợp cơ sở sản xuất thủy điện có lòng hồ nằm chung trên địa bàn các tỉnh
+
+4
+
+TCT
+
+Cục THTK
+
+180
+
+79
+
+Khai thuế GTGT theo phương pháp khấu trừ
+
+4
+
+TCT
+
+Cục THTK
+
+181
+
+80
+
+Khai thuế GTGT theo phương pháp trực tiếp trên GTGT
+
+4
+
+TCT
+
+Cục THTK
+
+182
+
+81
+
+Khai thuế GTGT theo phương pháp trực tiếp trên doanh thu
+
+4
+
+TCT
+
+Cục THTK
+
+183
+
+82
+
+Khai thuế GTGT đối với hoạt động kinh doanh xây dựng, lắp đặt, bán hàng vãng lai ngoại tỉnh và chuyển nhượng bất động sản ngoại tỉnh.
+
+4
+
+TCT
+
+Cục THTK
+
+184
+
+83
+
+Khai thuế giá trị gia tăng dành cho dự án đầu tư
+
+4
+
+TCT
+
+Cục THTK
+
+185
+
+84
+
+Khai thuế năm đối với cá nhân làm đại lý xổ số, đại lý bảo hiểm, bán hàng đa cấp và hoạt động kinh doanh khác chưa khấu trừ, nộp thuế trong năm
+
+4
+
+TCT
+
+Cục THTK
+
+186
+
+85
+
+Khai thuế tài nguyên đối với cơ sở khai thác tài nguyên
+
+4
+
+TCT
+
+Cục THTK
+
+187
+
+86
+
+Khai quyết toán thuế tài nguyên (trừ dầu thô, khí thiên nhiên).
+
+4
+
+TCT
+
+Cục THTK
+
+188
+
+87
+
+Khai phí bảo vệ môi trường đối với khai thác khoáng sản
+
+4
+
+TCT
+
+Cục THTK
+
+189
+
+88
+
+Khai quyết toán phí bảo vệ môi trường đối với khai thác khoáng sản
+
+4
+
+TCT
+
+Cục THTK
+
+190
+
+89
+
+Khai thuế bảo vệ môi trường đối với tổ chức, hộ gia đình, cá nhân khai thác khoáng sản.
+
+4
+
+TCT
+
+Cục THTK
+
+191
+
+90
+
+Khai thuế bảo vệ môi trường đối với than khai thác và tiêu thụ nội địa - Trường hợp than do Tập đoàn công nghiệp Than - Khoáng sản Việt Nam (Vinacomin) quản lý và giao cho các đơn vị thành viên khai thác, chế biến và tiêu thụ.
+
+4
+
+TCT
+
+Cục THTK
+
+192
+
+91
+
+Khai thuế đối với tái bảo hiểm nước ngoài
+
+4
+
+TCT
+
+Cục THTK
+
+193
+
+92
+
+Khai thuế đối với hãng vận tải nước ngoài
+
+4
+
+TCT
+
+Cục THTK
+
+194
+
+93
+
+Khai thuế đối với hãng hàng không nước ngoài
+
+4
+
+TCT
+
+Cục THTK

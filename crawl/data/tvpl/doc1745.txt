@@ -1,0 +1,363 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 2327/QĐ-BTC | Hà Nội, ngày 10 tháng 11 năm 2017                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 2327/QĐ-BTC
+
+Hà Nội, ngày 10 tháng 11 năm 2017
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH TIÊU CHUẨN KỸ THUẬT ĐIỆN TỬ ĐA PHƯƠNG TIỆN HỖ TRỢ CHỈ ĐẠO ĐIỀU HÀNH CỦA BỘ TÀI CHÍNH
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/07/2017của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+
+Căn cứ công văn số 1655/BTTTT-ƯDCNTT ngày 27/5/2008 của Bộ Thông tin và Truyền thông về các yêu cầu cơ bản về chức năng, tính năng kỹ thuật của Hệ thống giao ban điện tử đa phương tiện;
+
+Căn cứ công văn số 3386/BTTTT-ƯDCNTT ngày 23/10/2009 của Bộ Thông tin và Truyền thông về việc bổ sung, điều chỉnh một số điểm tại công văn số 1654/BTTTT-ƯDCNTT , 1655/BTTTT-ƯDCNTT ngày 27/5/2008 của Bộ Thông tin và Truyền thông;
+
+Xét đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Tiêu chuẩn kỹ thuật Hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính.
+
+Điều 2. Tiêu chuẩn kỹ thuật này áp dụng cho các cơ quan, đơn vị thuộc và trực thuộc Bộ Tài chính.
+
+Điều 3. Tiêu chuẩn kỹ thuật ban hành kèm theo Quyết định này là các tiêu chuẩn cơ bản và là mức tối thiểu hệ thống điện tử đa phương tiện phải đáp ứng. Trong quá trình thực hiện đầu tư, mua sắm, các cơ quan, đơn vị phải đảm bảo hệ thống điện tử đa phương tiện tuân thủ đầy đủ các tiêu chuẩn kỹ thuật ban hành kèm quyết định này, trường hợp bổ sung thêm tiêu chí kỹ thuật ngoài các tiêu chí đã quy định, cần đảm bảo tính hiện đại, an toàn và có tối thiểu 2 nhà cung cấp thiết bị hội nghị truyền hình đáp ứng.
+
+Thủ trưởng đơn vị chịu trách nhiệm về quyết định của mình trước Pháp luật và theo phân cấp của Bộ Tài chính.
+
+Điều 4. Giao Cục Tin học và Thống kê tài chính chủ trì, phối hợp với các đơn vị liên quan kịp thời trình Bộ phê duyệt điều chỉnh cập nhật các tiêu chuẩn kỹ thuật mới, tiên tiến, hiện đại phù hợp với thực tế và nhu cầu sử dụng.
+
+Điều 5. Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 1102/QĐ-BTC ngày 14/6/2017 của Bộ trưởng Bộ Tài chính về việc ban hành Tiêu chí, tiêu chuẩn kỹ thuật về thiết bị, kết nối, âm thanh và an toàn bảo mật thông tin hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính.
+
+Điều 6. Chánh Văn phòng Bộ Tài chính, Cục trưởng Cục Tin học và Thống kê tài chính, Thủ trưởng các đơn vị thuộc Bộ chịu trách nhiệm thi hành Quyết định này./.
+
+| Nơi nhận: - Như điều 6; - Cổng thông tin điện tử Bộ Tài chính; - Lưu: VT, THTK. | TUQ. BỘ TRƯỞNG CỤC TRƯỞNG CỤC TIN HỌC VÀ THỐNG KÊ TÀI CHÍNH Đặng Đức Mai |
+
+|---------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+
+Nơi nhận: - Như điều 6; - Cổng thông tin điện tử Bộ Tài chính; - Lưu: VT, THTK.
+
+TUQ. BỘ TRƯỞNG CỤC TRƯỞNG CỤC TIN HỌC VÀ THỐNG KÊ TÀI CHÍNH Đặng Đức Mai
+
+TIÊU CHUẨN KỸ THUẬT
+
+HỆ THỐNG ĐIỆN TỬ ĐA PHƯƠNG TIỆN HỖ TRỢ CHỈ ĐẠO ĐIỀU HÀNH CỦA BỘ TÀI CHÍNH (Ban hành kèm theo Quyết định số 2327/QĐ-BTC ngày 10/11/2017 của Bộ trưởng Bộ Tài chính)
+
+| STT | Tiêu chuẩn kỹ thuật                                                                                                                                                                                                                                                |
+
+|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| I   | Yêu cầu chung                                                                                                                                                                                                                                                      |
+
+| 1   | Thiết bị giao ban điện tử đa phương tiện hiện đại, chuyên nghiệp hỗ trợ chuẩn Full HD (Full High Definition)                                                                                                                                                       |
+
+| 2   | Tiêu chuẩn kỹ thuật thiết bị đáp ứng chuẩn quốc tế về thiết bị giao ban điện tử đa phương tiện                                                                                                                                                                     |
+
+| 3   | Tiêu chuẩn kỹ thuật của thiết bị chính trong hệ thống giao ban điện tử đa phương tiện gồm 06 nhóm cơ bản sau: - Thiết bị điều khiển đa điểm (MCU) - Phần mềm quản lý, lập lịch cuộc họp - Tính năng ghi kênh - Thiết bị đầu cuối - An toàn, bảo mật - Đường truyền |
+
+| II  | Thiết bị điều khiển đa điểm (MCU)                                                                                                                                                                                                                                  |
+
+| 1   | Hỗ trợ kết nối với MCU khác để tăng số lượng điểm họp                                                                                                                                                                                                              |
+
+| 2   | Hỗ trợ độ phân giải 1080p cho các thiết bị đầu/cuối                                                                                                                                                                                                                |
+
+| 3   | Hỗ trợ giao thức kết nối H.323 hoặc H.323 (AVC), SIP, IPv4, IPv6                                                                                                                                                                                                   |
+
+| 4   | Hỗ trợ các chuẩn mã hóa video: H.263++, H.264 hoặc H.264 AVC (Baseline), H.264 AVC (HP) hoặc H.264 HP (AVC), H.264 SVC                                                                                                                                             |
+
+| 5   | Hỗ trợ các chuẩn mã hóa audio G.711a/u hoặc G.711a/µ, G.722, G.722.1, G.729a hoặc G729A                                                                                                                                                                            |
+
+| 6   | Hỗ trợ chia sẻ dữ liệu thuyết trình: H.239, BFCP                                                                                                                                                                                                                   |
+
+| 7   | Hỗ trợ quản lý chất lượng dịch vụ QoS                                                                                                                                                                                                                              |
+
+| 8   | Hỗ trợ mã hóa nội dung họp theo chuẩn AES Hỗ trợ bảo mật tầng giao vận (Transport layer security - TLS)                                                                                                                                                            |
+
+| 9   | Hỗ trợ quản lý, cấu hình và điều khiển qua giao diện web, LDAP                                                                                                                                                                                                     |
+
+| 10  | 02 cổng kết nối mạng Gigabit                                                                                                                                                                                                                                       |
+
+| 11  | 02 nguồn điện vào có khả năng dự phòng cho nhau (redundant power supply)                                                                                                                                                                                           |
+
+| III | Phần mềm quản lý, lập lịch cuộc họp                                                                                                                                                                                                                                |
+
+| 1   | Hỗ trợ đăng ký các phiên họp, hỗ trợ thông báo bằng email đến các bên tham gia họp                                                                                                                                                                                 |
+
+| 2   | Chức năng lập lịch tích hợp được với Microsoft Exchange/Outlook                                                                                                                                                                                                    |
+
+| 3   | Hỗ trợ quản lý qua giao diện web                                                                                                                                                                                                                                   |
+
+| IV  | Tính năng ghi kênh                                                                                                                                                                                                                                                 |
+
+| 1   | Hỗ trợ các chức năng recording và streaming                                                                                                                                                                                                                        |
+
+| 2   | Hỗ trợ chuẩn H.239, H.264 hoặc H.264 AVC (HP) hoặc H.264 HP, G.711a/u hoặc G.711a/µ hoặc G.711 a and u hoặc G.711 a and µ                                                                                                                                          |
+
+| 3   | Hỗ trợ ghi 5 phiên họp đồng thời                                                                                                                                                                                                                                   |
+
+| 4   | Hỗ trợ lưu/phát video độ phân giải 1080p                                                                                                                                                                                                                           |
+
+| V   | Thiết bị đầu cuối (Codec, Camera)                                                                                                                                                                                                                                  |
+
+| 1   | Codec                                                                                                                                                                                                                                                              |
+
+|     | Hỗ trợ giao thức kết nối H.323 hoặc SIP, IPv4, IPv6                                                                                                                                                                                                                |
+
+|     | Hỗ trợ các chuẩn mã hóa video H.261, H.263, H.264 HP hoặc H.265 (SIP)                                                                                                                                                                                              |
+
+|     | Hỗ trợ các chuẩn mã hóa audio G.711, G.722, G.722.1, G729 hoặc G729A hoặc G729AB, Stereo                                                                                                                                                                           |
+
+|     | Cổng vào hình ảnh: 1 cổng HDMI                                                                                                                                                                                                                                     |
+
+|     | Cổng ra hình ảnh: 2 cổng HDMI                                                                                                                                                                                                                                      |
+
+|     | Cổng vào âm thanh: 1 cổng microphone, 1 cổng line-in                                                                                                                                                                                                               |
+
+|     | Cổng ra âm thanh: 1 cổng line-out                                                                                                                                                                                                                                  |
+
+|     | Cổng kết nối mạng Gigabit                                                                                                                                                                                                                                          |
+
+|     | Hỗ trợ nhận và xuất tín hiệu hình ảnh với độ phân giải 1080p@30fps                                                                                                                                                                                                 |
+
+|     | Hỗ trợ mã hóa nội dung họp theo chuẩn AES, H.235                                                                                                                                                                                                                   |
+
+|     | Hỗ trợ chia sẻ dữ liệu thuyết trình: H.239 và BFCP                                                                                                                                                                                                                 |
+
+|     | Hỗ trợ giao diện web                                                                                                                                                                                                                                               |
+
+| 2   | Camera                                                                                                                                                                                                                                                             |
+
+|     | Hỗ trợ độ phân giải 1080p@60fps/1080p@50fps                                                                                                                                                                                                                        |
+
+|     | Zoom quang học 10x                                                                                                                                                                                                                                                 |
+
+|     | Trường quan sát ngang (Horizontal Field of View) 65°                                                                                                                                                                                                               |
+
+|     | Góc quay ngang (PAN) ± 100°                                                                                                                                                                                                                                        |
+
+|     | Góc quay dọc (Tilt) ± 20°                                                                                                                                                                                                                                          |
+
+| VI  | An toàn, bảo mật                                                                                                                                                                                                                                                   |
+
+| 1   | Đảm bảo an ninh, có khả năng ngăn chặn sự thâm nhập trái phép vào cuộc họp, có sử dụng cơ chế đăng nhập xác thực                                                                                                                                                   |
+
+| 2   | Hỗ trợ tính năng mã hóa cuộc họp, mã hóa dữ liệu đường truyền                                                                                                                                                                                                      |
+
+| 3   | Có khả năng kết hợp với các thiết bị an ninh khác như mã hóa, tường lửa (firewall) hoặc tích hợp sẵn cơ chế bảo mật                                                                                                                                                |
+
+| VII | Đường truyền                                                                                                                                                                                                                                                       |
+
+| 1   | Băng thông tại điểm cầu: 4Mbps                                                                                                                                                                                                                                     |
+
+| 2   | Băng thông tại điểm trung tâm: 4Mbps x Số lượng điểm cầu                                                                                                                                                                                                           |
+
+| 3   | Phương tiện truyền dẫn cho toàn bộ kênh truyền là truyền dẫn quang                                                                                                                                                                                                 |
+
+STT
+
+Tiêu chuẩn kỹ thuật
+
+I
+
+Yêu cầu chung
+
+1
+
+Thiết bị giao ban điện tử đa phương tiện hiện đại, chuyên nghiệp hỗ trợ chuẩn Full HD (Full High Definition)
+
+2
+
+Tiêu chuẩn kỹ thuật thiết bị đáp ứng chuẩn quốc tế về thiết bị giao ban điện tử đa phương tiện
+
+3
+
+Tiêu chuẩn kỹ thuật của thiết bị chính trong hệ thống giao ban điện tử đa phương tiện gồm 06 nhóm cơ bản sau:
+
+- Thiết bị điều khiển đa điểm (MCU)
+
+- Phần mềm quản lý, lập lịch cuộc họp
+
+- Tính năng ghi kênh
+
+- Thiết bị đầu cuối
+
+- An toàn, bảo mật
+
+- Đường truyền
+
+II
+
+Thiết bị điều khiển đa điểm (MCU)
+
+1
+
+Hỗ trợ kết nối với MCU khác để tăng số lượng điểm họp
+
+2
+
+Hỗ trợ độ phân giải 1080p cho các thiết bị đầu/cuối
+
+3
+
+Hỗ trợ giao thức kết nối H.323 hoặc H.323 (AVC), SIP, IPv4, IPv6
+
+4
+
+Hỗ trợ các chuẩn mã hóa video: H.263++, H.264 hoặc H.264 AVC (Baseline), H.264 AVC (HP) hoặc H.264 HP (AVC), H.264 SVC
+
+5
+
+Hỗ trợ các chuẩn mã hóa audio G.711a/u hoặc G.711a/µ, G.722, G.722.1, G.729a hoặc G729A
+
+6
+
+Hỗ trợ chia sẻ dữ liệu thuyết trình: H.239, BFCP
+
+7
+
+Hỗ trợ quản lý chất lượng dịch vụ QoS
+
+8
+
+Hỗ trợ mã hóa nội dung họp theo chuẩn AES
+
+Hỗ trợ bảo mật tầng giao vận (Transport layer security - TLS)
+
+9
+
+Hỗ trợ quản lý, cấu hình và điều khiển qua giao diện web, LDAP
+
+10
+
+02 cổng kết nối mạng Gigabit
+
+11
+
+02 nguồn điện vào có khả năng dự phòng cho nhau (redundant power supply)
+
+III
+
+Phần mềm quản lý, lập lịch cuộc họp
+
+1
+
+Hỗ trợ đăng ký các phiên họp, hỗ trợ thông báo bằng email đến các bên tham gia họp
+
+2
+
+Chức năng lập lịch tích hợp được với Microsoft Exchange/Outlook
+
+3
+
+Hỗ trợ quản lý qua giao diện web
+
+IV
+
+Tính năng ghi kênh
+
+1
+
+Hỗ trợ các chức năng recording và streaming
+
+2
+
+Hỗ trợ chuẩn H.239, H.264 hoặc H.264 AVC (HP) hoặc H.264 HP, G.711a/u hoặc G.711a/µ hoặc G.711 a and u hoặc G.711 a and µ
+
+3
+
+Hỗ trợ ghi 5 phiên họp đồng thời
+
+4
+
+Hỗ trợ lưu/phát video độ phân giải 1080p
+
+V
+
+Thiết bị đầu cuối (Codec, Camera)
+
+1
+
+Codec
+
+Hỗ trợ giao thức kết nối H.323 hoặc SIP, IPv4, IPv6
+
+Hỗ trợ các chuẩn mã hóa video H.261, H.263, H.264 HP hoặc H.265 (SIP)
+
+Hỗ trợ các chuẩn mã hóa audio G.711, G.722, G.722.1, G729 hoặc G729A hoặc G729AB, Stereo
+
+Cổng vào hình ảnh: 1 cổng HDMI
+
+Cổng ra hình ảnh: 2 cổng HDMI
+
+Cổng vào âm thanh: 1 cổng microphone, 1 cổng line-in
+
+Cổng ra âm thanh: 1 cổng line-out
+
+Cổng kết nối mạng Gigabit
+
+Hỗ trợ nhận và xuất tín hiệu hình ảnh với độ phân giải 1080p@30fps
+
+Hỗ trợ mã hóa nội dung họp theo chuẩn AES, H.235
+
+Hỗ trợ chia sẻ dữ liệu thuyết trình: H.239 và BFCP
+
+Hỗ trợ giao diện web
+
+2
+
+Camera
+
+Hỗ trợ độ phân giải 1080p@60fps/1080p@50fps
+
+Zoom quang học 10x
+
+Trường quan sát ngang (Horizontal Field of View) 65°
+
+Góc quay ngang (PAN) ± 100°
+
+Góc quay dọc (Tilt) ± 20°
+
+VI
+
+An toàn, bảo mật
+
+1
+
+Đảm bảo an ninh, có khả năng ngăn chặn sự thâm nhập trái phép vào cuộc họp, có sử dụng cơ chế đăng nhập xác thực
+
+2
+
+Hỗ trợ tính năng mã hóa cuộc họp, mã hóa dữ liệu đường truyền
+
+3
+
+Có khả năng kết hợp với các thiết bị an ninh khác như mã hóa, tường lửa (firewall) hoặc tích hợp sẵn cơ chế bảo mật
+
+VII
+
+Đường truyền
+
+1
+
+Băng thông tại điểm cầu: 4Mbps
+
+2
+
+Băng thông tại điểm trung tâm: 4Mbps x Số lượng điểm cầu
+
+3
+
+Phương tiện truyền dẫn cho toàn bộ kênh truyền là truyền dẫn quang

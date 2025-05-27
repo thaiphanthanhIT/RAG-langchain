@@ -1,0 +1,2361 @@
+| BỘ TÀI CHÍNH        | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|---------------------|-----------------------------------------------------------------|
+
+| Số: 115/2017/TT-BTC | Hà Nội, ngày 25 tháng 10 năm 2017                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 115/2017/TT-BTC
+
+Hà Nội, ngày 25 tháng 10 năm 2017
+
+THÔNG TƯ
+
+HƯỚNG DẪN GIÁM SÁT GIAO DỊCH CHỨNG KHOÁN TRÊN THỊ TRƯỜNG CHỨNG KHOÁN
+
+Căn cứ Luật Chứng khoán ngày 29 tháng 6 năm 2006;
+
+Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán ngày 24 tháng 11 năm 2010;
+
+Căn cứ Nghị định số 58/2012/NĐ -CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán;
+
+Căn cứ Nghị định số 60/2015/NĐ -CP ngày 26 tháng 6 năm 2015 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 58/2012/NĐ -CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán;
+
+Căn cứ Nghị định số 42/2015/NĐ-CP ngày 05 tháng 5 năm 2015 của Chính phủ quy định về chứng khoán phái sinh và thị trường chứng khoán phái sinh;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Chủ tịch Ủy ban Chứng khoán Nhà nước;
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn giám sát giao dịch chứng khoán trên thị trường chứng khoán.
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Thông tư này hướng dẫn việc giám sát giao dịch chứng khoán trên thị trường chứng khoán có tổ chức.
+
+Điều 2. Đối tượng áp dụng
+
+Thông tư này áp dụng đối với các chủ thể giám sát và đối tượng giám sát dưới đây:
+
+1. Chủ thể giám sát:
+
+a) Ủy ban Chứng khoán Nhà nước (sau đây viết tắt là UBCKNN);
+
+b) Sở giao dịch chứng khoán (sau đây viết tắt là SGDCK);
+
+c) Trung tâm lưu ký chứng khoán Việt Nam (sau đây viết tắt là TTLKCK).
+
+2. Đối tượng giám sát là các tổ chức, cá nhân tham gia vào quá trình giao dịch, cung cấp các dịch vụ liên quan đến giao dịch chứng khoán, bao gồm:
+
+a) Tổ chức niêm yết, đăng ký giao dịch;
+
+b) Thành viên giao dịch và thành viên giao dịch chứng khoán phái sinh (sau đây viết tắt là TVGD);
+
+c) Thành viên lưu ký của Trung tâm lưu ký chứng khoán Việt Nam (sau đây viết tắt là TVLK);
+
+d) Công ty quản lý quỹ đầu tư chứng khoán, quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán;
+
+đ) SGDCK, TTLKCK khi tham gia cung cấp các dịch vụ liên quan đến giao dịch chứng khoán;
+
+e) Công ty chứng khoán, ngân hàng thương mại, chi nhánh ngân hàng nước ngoài được thực hiện bù trừ, thanh toán giao dịch chứng khoán phái sinh (sau đây gọi tắt là TVBT);
+
+g) Nhà đầu tư cá nhân, nhà đầu tư tổ chức (sau đây viết tắt là NĐT);
+
+h) Ngân hàng giám sát, ngân hàng thương mại cung cấp dịch vụ mở tài khoản tiền gửi đầu tư chứng khoán;
+
+i) Các đối tượng liên quan.
+
+Điều 3. Giải thích từ ngữ
+
+Trong Thông tư này, các từ ngữ sau đây được hiểu như sau:
+
+1. Thị trường chứng khoán có tổ chức là địa điểm hoặc hình thức trao đổi thông tin để tập hợp lệnh mua, bán và giao dịch chứng khoán niêm yết, đăng ký giao dịch trên SGDCK, bao gồm cả thị trường giao dịch chứng khoán phái sinh (sau đây gọi tắt là TTCK).
+
+2. Tổ chức niêm yết, đăng ký giao dịch là tổ chức có chứng khoán niêm yết, đăng ký giao dịch tại SGDCK.
+
+3. Giao dịch chứng khoán là việc mua, bán chứng khoán thực hiện qua hệ thống giao dịch của SGDCK và các trường hợp chuyển quyền sở hữu khác đối với chứng khoán niêm yết, đăng ký giao dịch trên SGDCK do TTLKCK thực hiện theo quy định của pháp luật chứng khoán.
+
+4. Giao dịch nội bộ là các hành vi được quy định tại khoản 1 Điều 70 Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán (sau đây gọi tắt là Nghị định số 58/2012/NĐ-CP).
+
+5. Giao dịch thao túng TTCK là các hành vi được quy định tại khoản 2 Điều 70 Nghị định số 58/2012/NĐ-CP.
+
+6. Giao dịch bất thường là các giao dịch rơi vào các tiêu chí cảnh báo bất thường của hệ thống tiêu chí giám sát do SGDCK ban hành và áp dụng để xác định chứng khoán có giao dịch bất thường sau khi có sự chấp thuận của UBCKNN.
+
+7. Tin đồn là thông tin của một nhóm người, của một cá nhân, tổ chức về một vấn đề liên quan đến các chứng khoán hoặc giao dịch chứng khoán diễn ra trên TTCK có thể có thực hoặc không có thực, nhưng thời điểm phát ra tin đồn chưa có căn cứ để kiểm chứng.
+
+Chương II
+
+TỔ CHỨC CÔNG TÁC GIÁM SÁT GIAO DỊCH CHỨNG KHOÁN
+
+Mục 1. GIÁM SÁT GIAO DỊCH CHỨNG KHOÁN CỦA ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC
+
+Điều 4. Trách nhiệm và quyền hạn của UBCKNN
+
+1. Chủ trì, phối hợp với các cơ quan, đơn vị liên quan xây dựng, trình cấp có thẩm quyền ban hành các văn bản quy phạm pháp luật về giám sát giao dịch chứng khoán.
+
+2. Ban hành quy trình giám sát giao dịch chứng khoán của UBCKNN; quy chế phối hợp trong công tác giám sát giao dịch chứng khoán giữa UBCKNN, SGDCK và TTLKCK.
+
+3. Phê duyệt hệ thống tiêu chí giám sát giao dịch chứng khoán do SGDCK xây dựng và các ngưỡng giám sát tỷ lệ sử dụng tài sản ký quỹ, giới hạn vị thế theo từng tài khoản của NĐT, TVBT do TTLKCK xây dựng.
+
+4. Xây dựng và thực hiện kế hoạch giám sát giao dịch chứng khoán hàng năm.
+
+5. Giám sát các hoạt động giao dịch chứng khoán trên TTCK nhằm phát hiện, ngăn ngừa, xử lý các hành vi giao dịch nội bộ, giao dịch thao túng TTCK và các hành vi vi phạm quy định pháp luật về giao dịch chứng khoán.
+
+6. Giám sát NĐT trong việc tuân thủ các quy định của pháp luật về giao dịch chứng khoán.
+
+7. Yêu cầu các đối tượng giám sát báo cáo, giải trình, cung cấp thông tin, tài liệu liên quan đến giao dịch chứng khoán.
+
+8. Kịp thời có cảnh báo phù hợp đối với các giao dịch và hành vi có dấu hiệu vi phạm pháp luật nhằm ngăn ngừa hành vi vi phạm pháp luật trong giao dịch chứng khoán của đối tượng giám sát.
+
+9. Tổng hợp báo cáo giám sát và báo cáo phục vụ công tác giám sát của SGDCK, TTLKCK, TVGD; yêu cầu SGDCK, TTLKCK, TVGD, TVBT phối hợp để kịp thời phát hiện, phân tích, đánh giá và tiến hành kiểm tra, xử lý khi cần thiết đối với các đối tượng liên quan đến các giao dịch chứng khoán bất thường theo quy định của pháp luật.
+
+10. Chủ trì, phối hợp với các đơn vị liên quan trong việc kiểm tra đối với các đối tượng giám sát quy định tại khoản 2 Điều 2 Thông tư này.
+
+11. Hàng năm hoặc theo yêu cầu của Bộ Tài chính, UBCKNN báo cáo Bộ Tài chính về kết quả thực hiện công tác giám sát giao dịch chứng khoán.
+
+Điều 5. Nội dung giám sát của UBCKNN
+
+Nội dung giám sát của UBCKNN bao gồm:
+
+1. Trên cơ sở báo cáo giám sát, báo cáo phục vụ công tác giám sát của SGDCK, TTLKCK, TVGD và các nguồn thông tin khác, phân tích sâu để phát hiện các giao dịch thao túng TTCK, giao dịch nội bộ, các giao dịch bị cấm khác và các hành vi vi phạm quy định pháp luật về chứng khoán và thị trường chứng khoán liên quan đến hoạt động giao dịch chứng khoán để có biện pháp ngăn chặn, xử lý kịp thời.
+
+2. Giám sát hoạt động của SGDCK trong việc tổ chức và giám sát các giao dịch chứng khoán diễn ra trên TTCK thuộc phạm vi giám sát của SGDCK theo quy định tại Mục 2 Chương II Thông tư này.
+
+3. Giám sát hoạt động của TTLKCK trong việc quản lý và giám sát tỷ lệ sử dụng tài sản ký quỹ theo từng tài khoản của NĐT, TVBT; giới hạn vị thế của NĐT khi tham gia giao dịch chứng khoán phái sinh theo quy định tại Mục 3 Chương II Thông tư này.
+
+4. Giám sát giao dịch chứng khoán của NĐT tổ chức trong nước, NĐT nước ngoài để kịp thời phát hiện các diễn biến bất thường có thể gây hiệu ứng tâm lý cho các NĐT nhỏ lẻ.
+
+5. Giám sát việc cung cấp dịch vụ liên quan đến giao dịch chứng khoán của các đối tượng quy định tại điểm b, c, d, đ, e, h, i khoản 2 Điều 2 Thông tư này.
+
+Điều 6. Phương thức giám sát giao dịch chứng khoán của UBCKNN
+
+1. Căn cứ dữ liệu giao dịch do SGDCK cung cấp, thực hiện phân tích, đánh giá, xử lý theo quy định đối với các giao dịch chứng khoán có dấu hiệu bất thường.
+
+2. Giám sát giao dịch chứng khoán dựa trên thông tin từ các nguồn:
+
+a) Báo cáo giám sát, báo cáo phục vụ công tác giám sát của SGDCK, TTLKCK, TVGD;
+
+b) Báo cáo của các tổ chức niêm yết, đăng ký giao dịch;
+
+c) Báo cáo, phản ánh của các tổ chức, cá nhân tham gia giao dịch trên TTCK;
+
+d) Các nguồn tin trên các phương tiện thông tin đại chúng, tin đồn;
+
+đ) Các nguồn thông tin khác.
+
+3. Kiểm tra bất thường đối với các đối tượng giám sát thông qua việc phát hiện các dấu hiệu giao dịch bất thường theo báo cáo của SGDCK, TTLKCK, TVGD và của các tổ chức, cá nhân tham gia giao dịch và cung cấp các dịch vụ giao dịch chứng khoán trên TTCK.
+
+Mục 2. GIÁM SÁT GIAO DỊCH CHỨNG KHOÁN CỦA SỞ GIAO DỊCH CHỨNG KHOÁN
+
+Điều 7. Quyền hạn và trách nhiệm của SGDCK
+
+1. Ban hành quy trình giám sát để đảm bảo thực hiện công tác giám sát có hiệu quả; ban hành hệ thống tiêu chí giám sát giao dịch chứng khoán trên SGDCK theo quy định tại Điều 9 Thông tư này sau khi được UBCKNN chấp thuận.
+
+2. Xây dựng hệ thống cơ sở dữ liệu phục vụ công tác giám sát, bao gồm các nội dung quy định tại Điều 11 Thông tư này.
+
+3. Giám sát hoạt động giao dịch, cung cấp các dịch vụ liên quan đến giao dịch chứng khoán trong phạm vi thị trường giao dịch chứng khoán do SGDCK tổ chức theo quy định của pháp luật.
+
+4. Giám sát diễn biến các giao dịch trong ngày, nhiều ngày, định kỳ; phân tích, đánh giá và chịu trách nhiệm xác định dấu hiệu thao túng TTCK, giao dịch nội bộ, các hành vi giao dịch quy định tại khoản 3 Điều 70 Nghị định số 58/2012/NĐ-CP.
+
+5. Giám sát việc công bố thông tin và chế độ báo cáo theo quy định hiện hành liên quan đến giao dịch chứng khoán của TVGD, tổ chức niêm yết, đăng ký giao dịch, công ty quản lý quỹ đầu tư chứng khoán, quỹ đầu tư chứng khoán đại chúng, công ty đầu tư chứng khoán, nhà đầu tư.
+
+6. Rà soát các thông tin trên phương tiện thông tin đại chúng, tin đồn liên quan đến các giao dịch bất thường.
+
+7. Yêu cầu TVGD, các tổ chức, cá nhân có liên quan giải trình, cung cấp thông tin, tài liệu liên quan đến giao dịch chứng khoán phục vụ công tác giám sát giao dịch chứng khoán.
+
+8. Thực hiện kiểm tra đối với các TVGD theo quy định tại Điều 12 Thông tư này; phối hợp với UBCKNN kiểm tra định kỳ hoặc bất thường đối với các đối tượng thuộc phạm vi giám sát của SGDCK.
+
+9. Xử lý theo quy chế của SGDCK đối với TVGD vi phạm quy định về giao dịch chứng khoán, kiến nghị UBCKNN xử lý các hành vi vi phạm quy định về giao dịch chứng khoán theo quy định pháp luật.
+
+10. Lập và gửi UBCKNN báo cáo định kỳ, báo cáo bất thường, báo cáo theo yêu cầu về giám sát giao dịch chứng khoán của các đối tượng giám sát.
+
+11. Phối hợp với TTLKCK bảo đảm hoạt động giao dịch trên thị trường, hoạt động bù trừ, thanh toán giao dịch chứng khoán phái sinh an toàn, hiệu quả theo quy định tại khoản 3 Điều 11 Nghị định số 42/2015/NĐ -CP ngày 05 tháng 5 năm 2015 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh và các văn bản pháp luật liên quan khác.
+
+Điều 8. Nội dung giám sát giao dịch chứng khoán của SGDCK
+
+1. SGDCK thực hiện giám sát nhằm ngăn ngừa, phát hiện các giao dịch và hành vi vi phạm pháp luật về giao dịch chứng khoán, bao gồm:
+
+a) Hành vi giao dịch nội bộ;
+
+b) Hành vi giao dịch thao túng TTCK;
+
+c) Hành vi giao dịch quy định tại khoản 3 Điều 70 Nghị định số 58/2012/NĐ-CP;
+
+d) Hành vi vi phạm khác về giao dịch chứng khoán theo quy định của pháp luật về chứng khoán và thị trường chứng khoán.
+
+2. Giám sát việc giao dịch, công bố thông tin và báo cáo liên quan đến giao dịch chứng khoán được niêm yết, đăng ký giao dịch tại SGDCK của các tổ chức niêm yết, đăng ký giao dịch, TVGD, công ty quản lý quỹ đầu tư chứng khoán, quỹ đầu tư chứng khoán đại chúng, công ty đầu tư chứng khoán, cổ đông lớn, nhà đầu tư sở hữu từ 5% trở lên chứng chỉ quỹ của một quỹ đại chúng dạng đóng, người nội bộ của tổ chức niêm yết, đăng ký giao dịch, người nội bộ của quỹ đại chúng niêm yết dạng đóng và người có liên quan, người được ủy quyền công bố thông tin và NĐT theo đúng quy định hiện hành.
+
+Điều 9. Tiêu chí giám sát giao dịch chứng khoán
+
+1. SGDCK xây dựng và ban hành hệ thống tiêu chí giám sát giao dịch đối với các chứng khoán được niêm yết, đăng ký giao dịch trên SGDCK để làm cơ sở tiến hành giám sát giao dịch trong ngày và nhiều ngày sau khi được UBCKNN chấp thuận.
+
+2. Nội dung và các tham số cụ thể trong hệ thống tiêu chí giám sát giao dịch chứng khoán phải được quy định và điều chỉnh trong từng thời kỳ cho phù hợp với tình hình giao dịch trên TTCK và đảm bảo công tác giám sát giao dịch chứng khoán có hiệu quả.
+
+Điều 10. Phương thức giám sát giao dịch chứng khoán của SGDCK
+
+1. Giám sát trực tuyến trên hệ thống giám sát của SGDCK các giao dịch trong ngày của chứng khoán niêm yết, chứng khoán đăng ký giao dịch để phát hiện các giao dịch bất thường.
+
+2. Giám sát giao dịch chứng khoán nhiều ngày dựa trên một hoặc các nguồn sau:
+
+a) Cơ sở dữ liệu giao dịch chứng khoán;
+
+b) Các báo cáo, phản ánh thông tin của các TVGD, tổ chức niêm yết, đăng ký giao dịch, các tổ chức, cá nhân tham gia TTCK; thông tin được các NĐT công bố theo quy định của pháp luật về chứng khoán và thị trường chứng khoán;
+
+c) Các thông tin liên quan đến bù trừ và thanh toán chứng khoán phái sinh nhận được từ TTLKCK;
+
+d) Các nguồn tin trên các phương tiện thông tin đại chúng, tin đồn;
+
+đ) Các nguồn thông tin khác.
+
+3. Yêu cầu các tổ chức, cá nhân có liên quan cung cấp thông tin và giải trình để làm rõ thêm các dấu hiệu giao dịch bất thường.
+
+4. Thực hiện kiểm tra đối với các TVGD theo quy định tại Điều 12 Thông tư này.
+
+5. Phối hợp với UBCKNN kiểm tra định kỳ hoặc bất thường đối với các đối tượng thuộc phạm vi giám sát của SGDCK.
+
+Điều 11. Hệ thống cơ sở dữ liệu phục vụ giám sát giao dịch chứng khoán
+
+SGDCK có trách nhiệm xây dựng hệ thống cơ sở dữ liệu phục vụ công tác giám sát giao dịch chứng khoán. Hệ thống cơ sở dữ liệu tối thiểu phải gồm các nội dung sau:
+
+1. Các dữ liệu về kết quả giao dịch chứng khoán.
+
+2. Danh sách và thông tin về các đối tượng thuộc phạm vi giám sát của SGDCK vi phạm quy định của pháp luật về chứng khoán và thị trường chứng khoán, quy định của SGDCK.
+
+3. Các báo cáo và thông tin liên quan đến giao dịch chứng khoán đã công bố qua hệ thống công bố thông tin của SGDCK; các báo cáo, thông tin đã báo cáo UBCKNN.
+
+4. Dữ liệu liên quan đến tài khoản giao dịch chứng khoán của nhà đầu tư.
+
+Điều 12. Kiểm tra đối với thành viên giao dịch của SGDCK
+
+1. Kiểm tra việc tuân thủ các quy chế, quy định, quy trình liên quan đến giao dịch chứng khoán, quy chế thành viên do SGDCK ban hành.
+
+2. Kiểm tra việc tuân thủ các quy định về niêm yết và công bố thông tin, giao dịch chứng khoán của TVGD là tổ chức niêm yết, tổ chức đăng ký giao dịch chứng khoán trên SGDCK.
+
+3. Căn cứ kết quả kiểm tra theo các quy định tại khoản 1, 2 Điều này, SGDCK có trách nhiệm:
+
+a) Xử lý theo quy chế của SGDCK trong trường hợp phát hiện vi phạm các quy định liên quan đến giao dịch chứng khoán của TVGD;
+
+b) Báo cáo UBCKNN về kết quả kiểm tra và xử lý;
+
+c) Kiến nghị UBCKNN xử lý các hành vi vi phạm đối với TVGD trong trường hợp vượt thẩm quyền của SGDCK.
+
+Điều 13. Báo cáo giám sát giao dịch định kỳ
+
+1. Trong vòng 02 ngày làm việc đầu tiên của tuần tiếp theo, SGDCK có trách nhiệm gửi UBCKNN báo cáo giám sát giao dịch tuần, gồm:
+
+a) Sổ lệnh giao dịch, kết quả giao dịch chứng khoán trong ngày; các thông tin định kỳ trong ngày giao dịch theo quy định tại khoản 2 Điều 33 Thông tư số 155/2015/TT-BTC ngày 06 tháng 10 năm 2015 của Bộ trưởng Bộ Tài chính hướng dẫn về việc công bố thông tin trên thị trường chứng khoán (sau đây gọi tắt là Thông tư số 155/2015/TT-BTC) theo nội dung quy định tại Mẫu số 01 Phụ lục I kèm theo Thông tư này;
+
+b) Kết quả công tác giám sát giao dịch chứng khoán tuần theo Mẫu số 02 Phụ lục I kèm theo Thông tư này.
+
+2. Trong vòng 10 ngày làm việc đầu tiên của tháng tiếp theo, SGDCK có trách nhiệm gửi UBCKNN báo cáo giám sát giao dịch tháng theo nội dung quy định tại Mẫu số 03 Phụ lục I kèm theo Thông tư này.
+
+3. Trong vòng 20 ngày làm việc đầu tiên của năm kế tiếp, SGDCK có trách nhiệm gửi UBCKNN báo cáo giám sát giao dịch năm theo nội dung quy định tại Mẫu số 04 Phụ lục I kèm theo Thông tư này.
+
+4. Các báo cáo quy định tại khoản 1, 2 và 3 Điều này được lập dưới hình thức văn bản và tệp dữ liệu điện tử. Riêng báo cáo quy định tại điểm a khoản 1 Điều này chỉ cần gửi dưới dạng tệp dữ liệu điện tử. Các báo cáo trên được gửi dưới dạng tệp dữ liệu điện tử trong trường hợp UBCKNN, SGDCK đều áp dụng chương trình chữ ký điện tử. SGDCK có trách nhiệm lưu giữ thông tin đã báo cáo theo quy định của pháp luật.
+
+Điều 14. Báo cáo giám sát giao dịch bất thường
+
+1. SGDCK có trách nhiệm gửi UBCKNN các báo cáo bất thường khi phát hiện dấu hiệu các hành vi vi phạm quy định tại khoản 1 Điều 8 Thông tư này trong vòng hai mươi bốn (24) giờ kể từ khi SGDCK phát hiện sự việc hoặc nhận được các báo cáo đề nghị công bố thông tin bất thường liên quan đến giao dịch chứng khoán.
+
+2. Đối với báo cáo bất thường nêu tại khoản 1 Điều này, SGDCK có trách nhiệm lập báo cáo phân tích riêng từng vụ việc, có ý kiến đánh giá và đề xuất phương án xử lý theo thẩm quyền hoặc kiến nghị xử lý trong trường hợp vượt quá thẩm quyền.
+
+Điều 15. Báo cáo giám sát giao dịch theo yêu cầu
+
+1. SGDCK có trách nhiệm gửi báo cáo khi nhận được yêu cầu bằng văn bản của UBCKNN.
+
+2. Báo cáo gửi cho UBCKNN nêu tại khoản 1 Điều này phải được thể hiện dưới hình thức văn bản và tệp dữ liệu điện tử theo nội dung và thời hạn UBCKNN yêu cầu.
+
+Mục 3. GIÁM SÁT CỦA TRUNG TÂM LƯU KÝ CHỨNG KHOÁN VIỆT NAM
+
+Điều 16. Trách nhiệm và quyền hạn của TTLKCK
+
+1. Xây dựng quy chế, quy trình nghiệp vụ cho hoạt động bù trừ, thanh toán giao dịch chứng khoán phái sinh đảm bảo giám sát hiệu quả các hoạt động này.
+
+2. Quản lý và giám sát việc duy trì các mức ký quỹ; xác định, điều chỉnh giới hạn vị thế đối với TVBT, NĐT theo quy định.
+
+3. Yêu cầu tổ chức, cá nhân thuộc phạm vi giám sát của TTLKCK có liên quan đến hoạt động bù trừ thanh toán chứng khoán báo cáo, giải trình, cung cấp thông tin, tài liệu phục vụ công tác giám sát.
+
+4. Trường hợp phát hiện dấu hiệu bất thường trong thanh toán giao dịch hoặc dấu hiệu NĐT, TVBT mất khả năng thanh toán, TTLKCK cảnh báo, yêu cầu TVBT giải trình, cung cấp tài liệu và thông tin liên quan và kịp thời báo cáo UBCKNN, đồng thời thông báo cho SGDCK.
+
+5. Thông báo kịp thời cho SGDCK các trường hợp vi phạm tỷ lệ sử dụng tài sản ký quỹ, vi phạm giới hạn vị thế.
+
+6. Lưu trữ đầy đủ thông tin liên quan quy định tại Điều 20 Thông tư này và chia sẻ các thông tin liên quan đến giao dịch chứng khoán để SGDCK triển khai công tác giám sát giao dịch.
+
+7. Thực hiện các nội dung về phối hợp giữa SGDCK và TTLKCK quy định tại Điều 29 Nghị định số 42/2015/NĐ -CP ngày 05 tháng 5 năm 2015 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh.
+
+8. Phối hợp với UBCKNN kiểm tra định kỳ hoặc bất thường đối với các đối tượng thuộc phạm vi giám sát của TTLKCK.
+
+9. Xử lý theo thẩm quyền các trường hợp vi phạm, báo cáo UBCKNN xử lý theo quy định của pháp luật trong trường hợp vượt quá thẩm quyền.
+
+10. Lập và gửi UBCKNN báo cáo giám sát định kỳ, bất thường, theo yêu cầu và báo cáo phục vụ công tác giám sát theo quy định tại Điều 25 Thông tư này.
+
+Điều 17. Nội dung giám sát của TTLKCK
+
+1. Giám sát TVLK, TVBT trong việc tuân thủ các quy định pháp luật về chứng khoán và thị trường chứng khoán trong triển khai các hoạt động nghiệp vụ liên quan đến đăng ký, lưu ký, bù trừ và thanh toán chứng khoán.
+
+2. Giám sát tỷ lệ sử dụng tài sản ký quỹ theo từng tài khoản của NĐT, TVBT.
+
+3. Giám sát về giới hạn vị thế của NĐT khi tham gia giao dịch chứng khoán phái sinh.
+
+Điều 18. Tiêu chí giám sát tại TTLKCK
+
+1. TTLKCK xây dựng và ban hành các ngưỡng giám sát tỷ lệ sử dụng tài sản ký quỹ, giới hạn vị thế theo từng tài khoản của NĐT, TVBT tại quy chế hoạt động nghiệp vụ sau khi được UBCKNN chấp thuận.
+
+2. Nội dung và các ngưỡng giám sát phải được quy định và điều chỉnh trong từng thời kỳ cho phù hợp với tình hình giao dịch trên TTCK và đảm bảo công tác giám sát tại TTLKCK có hiệu quả.
+
+Điều 19. Phương thức giám sát của TTLKCK
+
+1. Giám sát các trường hợp vi phạm tỷ lệ sử dụng tài sản ký quỹ của nhà đầu tư, giới hạn vị thế dựa trên một hoặc các nguồn dữ liệu, thông tin sau:
+
+a) Dữ liệu về vị thế, ký quỹ của TVBT, NĐT;
+
+b) Các báo cáo định kỳ, thông tin phản ánh từ TVBT và các đối tượng khác tham gia TTCK phái sinh;
+
+c) Các nguồn tin trên các phương tiện thông tin đại chúng;
+
+d) Các nguồn thông tin khác.
+
+2. Yêu cầu các tổ chức, cá nhân thuộc đối tượng giám sát của TTLKCK cung cấp thông tin và giải trình để làm rõ thêm các dấu hiệu bất thường.
+
+3. Phối hợp với UBCKNN kiểm tra định kỳ hoặc bất thường đối với các đối tượng thuộc phạm vi giám sát của TTLKCK.
+
+Điều 20. Lưu trữ dữ liệu phục vụ công tác giám sát
+
+TTLKCK có trách nhiệm lưu trữ đầy đủ thông tin về:
+
+1. Số lượng vị thế cuối ngày theo tài khoản của NĐT, thành viên bù trừ; giá trị lỗ, lãi, vị thế hàng ngày theo TVBT, giá trị ký quỹ ban đầu, giá trị ký quỹ yêu cầu, giá trị và danh mục tài sản ký quỹ theo từng tài khoản của NĐT, TVBT.
+
+2. Các thông tin liên quan đến giới hạn vị thế của NĐT.
+
+3. Danh sách và thông tin về các đối tượng thuộc phạm vi giám sát của TTLKCK vi phạm quy định của pháp luật về chứng khoán và thị trường chứng khoán phái sinh và quy định của TTLKCK liên quan đến bù trừ, thanh toán chứng khoán phái sinh.
+
+4. Dữ liệu về xử lý đối với TVBT tại TTLKCK do vi phạm tỷ lệ sử dụng tài sản ký quỹ, vi phạm giới hạn vị thế.
+
+5. Dữ liệu liên quan đến hoạt động bù trừ thanh toán giao dịch chứng khoán phái sinh của TVBT, NĐT.
+
+Điều 21. Báo cáo giám sát định kỳ
+
+1. Trong vòng 10 ngày làm việc đầu tiên của tháng tiếp theo, TTLKCK có trách nhiệm gửi các báo cáo định kỳ tháng cho UBCKNN gồm:
+
+- Báo cáo về hoạt động xử lý vi phạm đối với TVBT ( Mẫu số 06 Phụ lục II);
+
+- Báo cáo hỗ trợ thành viên bù trừ mất khả năng thanh toán ( Mẫu số 07 Phụ lục II).
+
+2. Các báo cáo định kỳ quy định tại khoản 1 Điều này được lập dưới hình thức văn bản và tệp dữ liệu điện tử (có áp dụng chương trình chữ ký điện tử).
+
+Điều 22. Báo cáo giám sát bất thường
+
+1. TTLKCK có trách nhiệm gửi UBCKNN các báo cáo bất thường khi phát hiện dấu hiệu vi phạm các quy định liên quan đến hoạt động ký quỹ, giới hạn vị thế, bù trừ, thanh toán giao dịch chứng khoán phái sinh.
+
+2. Báo cáo bất thường gửi UBCKNN dưới hình thức văn bản và tệp dữ liệu điện tử trong vòng hai mươi bốn (24) giờ kể từ khi TTLKCK phát hiện sự việc hoặc nhận được các báo cáo đề nghị công bố thông tin bất thường liên quan đến chứng khoán có dấu hiệu bất thường.
+
+3. Đối với báo cáo giám sát bất thường, TTLKCK có trách nhiệm lập báo cáo, có ý kiến đánh giá và đề xuất phương án xử lý theo thẩm quyền hoặc kiến nghị xử lý trong trường hợp vượt quá thẩm quyền.
+
+Điều 23. Báo cáo giám sát theo yêu cầu
+
+1. TTLKCK có trách nhiệm gửi báo cáo khi nhận được yêu cầu bằng văn bản của UBCKNN.
+
+2. Báo cáo gửi cho UBCKNN nêu tại khoản 1 Điều này phải được thể hiện dưới hình thức văn bản và tệp dữ liệu điện tử theo nội dung và thời hạn UBCKNN yêu cầu.
+
+Chương III
+
+NGHĨA VỤ CỦA CÁC ĐỐI TƯỢNG GIÁM SÁT
+
+Điều 24. Nghĩa vụ về cung cấp thông tin và giải trình theo yêu cầu của các tổ chức và cá nhân tham gia giao dịch chứng khoán, cung cấp dịch vụ giao dịch chứng khoán
+
+1. Tổ chức, cá nhân tham gia giao dịch chứng khoán, cung cấp dịch vụ giao dịch chứng khoán có nghĩa vụ cung cấp, cập nhật kịp thời, đầy đủ, chính xác các thông tin, tài liệu, dữ liệu điện tử liên quan đến nội dung giám sát giao dịch chứng khoán theo yêu cầu của UBCKNN, SGDCK, TTLKCK; giải trình theo yêu cầu của UBCKNN, SGDCK đối với các sự việc liên quan đến giao dịch chứng khoán theo quy định của pháp luật và thực hiện công bố thông tin theo quy định của pháp luật về chứng khoán và thị trường chứng khoán trong các trường hợp dưới đây:
+
+a) Giao dịch chứng khoán của tổ chức, cá nhân là cổ đông lớn theo quy định tại Điều 29 Luật Chứng khoán và Thông tư số 155/2015/TT-BTC ;
+
+b) Giao dịch chứng khoán của tổ chức, cá nhân và người có liên quan có ý định nắm giữ tới hai mươi lăm phần trăm (25%) cổ phiếu có quyền biểu quyết, chứng chỉ quỹ của một tổ chức niêm yết, đăng ký giao dịch, quỹ đóng; Giao dịch chứng khoán của tổ chức, cá nhân và người có liên quan đang nắm giữ từ hai mươi lăm phần trăm (25%) trở lên cổ phiếu có quyền biểu quyết, chứng chỉ quỹ của một tổ chức niêm yết, đăng ký giao dịch, quỹ đóng theo quy định tại khoản 1 Điều 32 Luật Chứng khoán đã được sửa đổi bởi khoản 11 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán và các văn bản hướng dẫn;
+
+c) Giao dịch chứng khoán của thành viên Hội đồng quản trị, Ban kiểm soát, Tổng Giám đốc (Giám đốc), Phó Tổng Giám đốc (Phó Giám đốc), Giám đốc Tài chính, Kế toán trưởng, Trưởng phòng tài chính kế toán, người nội bộ của tổ chức niêm yết, đăng ký giao dịch, người nội bộ của quỹ đại chúng niêm yết, người được ủy quyền công bố thông tin và những người có liên quan theo quy định tại Thông tư số 155/2015/TT-BTC ;
+
+d) Các Ngân hàng thương mại cung cấp dịch vụ mở tài khoản tiền đầu tư chứng khoán cho NĐT có trách nhiệm cung cấp thông tin về số dư tài khoản tiền của khách hàng theo yêu cầu của UBCKNN và các cơ quan có thẩm quyền theo quy định của pháp luật;
+
+đ) Các Ngân hàng giám sát có trách nhiệm cung cấp số liệu liên quan đến hoạt động đầu tư, giao dịch chứng khoán của quỹ đầu tư mà ngân hàng thực hiện giám sát theo yêu cầu của UBCKNN và các cơ quan có thẩm quyền theo quy định của pháp luật.
+
+2. Các tổ chức, cá nhân khi tham gia giao dịch trên TTCK có trách nhiệm hợp tác với UBCKNN, SGDCK, TTLKCK cơ quan có thẩm quyền theo quy định của pháp luật khi được yêu cầu.
+
+3. Trường hợp tổ chức, cá nhân tham gia giao dịch chứng khoán, cung cấp dịch vụ giao dịch chứng khoán không phối hợp, hợp tác với các cơ quan quy định tại khoản 2 Điều này sẽ bị xử lý theo quy định của pháp luật.
+
+Điều 25. Nghĩa vụ của Trung tâm lưu ký Chứng khoán Việt Nam
+
+TTLKCK có nghĩa vụ lưu trữ đầy đủ các thông tin liên quan đến các hoạt động nghiệp vụ và thực hiện chế độ báo cáo UBCKNN định kỳ, bất thường và theo yêu cầu để phục vụ công tác giám sát TTCK.
+
+1. Trong vòng 10 ngày làm việc đầu tiên của tháng TTLKCK có trách nhiệm gửi UBCKNN báo cáo định kỳ tháng gồm:
+
+a) Báo cáo tình hình cấp mã chứng khoán (Mẫu số 01 Phụ lục II);
+
+b) Báo cáo tình hình sửa lỗi, xử lý lỗi, lùi thời hạn thanh toán, loại bỏ thanh toán (Mẫu số 02 Phụ lục II);
+
+c) Thống kê giao dịch chứng khoán chuyển quyền sở hữu không qua hệ thống giao dịch của SGDCK (cho, tặng, biếu, thừa kế....) (Mẫu số 03 Phụ lục II);
+
+d) Báo cáo về thông tin và danh tính tài khoản giao dịch chứng khoán của NĐT mở tại các công ty chứng khoán (Mẫu số 04 Phụ lục II);
+
+đ) Danh sách cổ đông lớn của các công ty đăng ký chứng khoán tại TTLKCK (Mẫu số 05 Phụ lục II).
+
+Báo cáo định kỳ tháng quy định tại điểm a, b khoản 1 Điều này được lập dưới hình thức văn bản và tệp dữ liệu điện tử (có áp dụng chương trình chữ ký điện tử). Riêng đối với báo cáo quy định tại điểm c, d và đ khoản 1 Điều này áp dụng phương thức gửi dữ liệu điện tử. TTLKCK có trách nhiệm lưu giữ thông tin đã báo cáo theo quy định của pháp luật.
+
+2. Báo cáo bất thường: TTLKCK có trách nhiệm gửi UBCKNN các báo cáo bất thường khi phát hiện dấu hiệu vi phạm các quy định liên quan đến hoạt động sửa lỗi, lùi thời hạn thanh toán, loại bỏ không thanh toán giao dịch, chuyển quyền sở hữu không qua hệ thống giao dịch, tỷ lệ sở hữu chứng khoán đối với nhà đầu tư, cầm cố, thay đổi sở hữu chứng khoán, thực hiện quyền; vi phạm của các thành viên lưu ký chứng khoán, thành viên bù trừ, các tổ chức, cá nhân sử dụng dịch vụ do TTLKCK cung cấp theo quy định của pháp luật.
+
+Báo cáo bất thường gửi UBCKNN dưới hình thức văn bản và tệp dữ liệu điện tử trong vòng hai mươi bốn (24) giờ kể từ khi TTLKCK phát hiện sự việc hoặc nhận được các báo cáo đề nghị công bố thông tin bất thường liên quan đến chứng khoán có dấu hiệu bất thường.
+
+3. Báo cáo theo yêu cầu: TTLKCK có trách nhiệm gửi báo cáo khi nhận được yêu cầu bằng văn bản của UBCKNN để phục vụ công tác giám sát. Báo cáo theo yêu cầu gửi UBCKNN phải được thể hiện dưới hình thức văn bản và tệp dữ liệu điện tử theo nội dung và thời hạn UBCKNN yêu cầu.
+
+4. TTLKCK có trách nhiệm lưu giữ thông tin đã báo cáo theo quy định của pháp luật.
+
+5. Trường hợp cần thiết, TTLKCK thực hiện báo cáo định kỳ hoặc bất thường theo yêu cầu của Bộ Tài chính.
+
+Điều 26. Nghĩa vụ của TVGD, TVLK
+
+1. Nghĩa vụ phối hợp triển khai công tác giám sát của TVGD, TVBT
+
+a) Phối hợp với UBCKNN, SGDCK, TTLKCK trong việc thực hiện công tác giám sát giao dịch chứng khoán khi được yêu cầu;
+
+b) Phối hợp với UBCKNN trong việc mời NĐT đến làm việc với các đoàn kiểm tra của UBCKNN liên quan đến các giao dịch có dấu hiệu bất thường;
+
+c) Trường hợp phát hiện giao dịch vi phạm các quy định về chứng khoán và thị trường chứng khoán có trách nhiệm báo cáo UBCKNN.
+
+2. Nghĩa vụ báo cáo của TVGD
+
+a) TVGD có trách nhiệm thực hiện chế độ báo cáo phục vụ công tác giám sát giao dịch chứng khoán trong phạm vi chức năng của mình gửi UBCKNN, SGDCK gồm:
+
+- Báo cáo định kỳ tháng: Trong vòng 05 ngày làm việc đầu tiên của tháng, TVGD có trách nhiệm gửi SGDCK báo cáo định kỳ hàng tháng theo mẫu tại Phụ lục III Thông tư này.
+
+- Báo cáo bất thường: TVGD có trách nhiệm báo cáo UBCKNN, SGDCK trong vòng hai mươi bốn (24) giờ kể từ khi phát hiện các giao dịch có dấu hiệu là các giao dịch bị cấm quy định tại Điều 9 Luật Chứng khoán.
+
+- Báo cáo theo yêu cầu: TVGD có trách nhiệm gửi UBCKNN, SGDCK báo cáo theo yêu cầu khi nhận được yêu cầu bằng văn bản của UBCKNN, SGDCK. TVGD có nghĩa vụ báo cáo đầy đủ, chính xác và kịp thời theo đúng nội dung và thời hạn được yêu cầu bằng văn bản của UBCKNN, SGDCK.
+
+b) Báo cáo định kỳ, bất thường và theo yêu cầu quy định tại điểm a khoản này được thể hiện dưới hình thức văn bản và tệp dữ liệu điện tử (trong trường hợp cần thiết).
+
+Chương IV
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 27. Hiệu lực thi hành
+
+Thông tư này có hiệu lực từ ngày 08 tháng 12 năm 2017 và thay thế Thông tư số 13/2013/TT-BTC ngày 25 tháng 01 năm 2013 của Bộ trưởng Bộ Tài chính về giám sát giao dịch chứng khoán trên thị trường chứng khoán.
+
+Điều 28. Tổ chức thực hiện
+
+1. Ủy ban Chứng khoán Nhà nước, Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam, thành viên giao dịch, thành viên bù trừ, tổ chức niêm yết, đăng ký giao dịch, công ty quản lý quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán và các tổ chức, cá nhân có liên quan chịu trách nhiệm thực hiện Thông tư này.
+
+2. Việc sửa đổi, bổ sung, thay thế Thông tư này do Bộ trưởng Bộ Tài chính quyết định. /.
+
+| Nơi nhận: - Văn phòng Chính phủ; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - Viện Kiểm sát nhân dân tối cao; - Tòa án nhân dân tối cao; - HĐND, UBND các tỉnh, thành phố trực thuộc Trung ương; - Văn phòng ban chỉ đạo phòng chống tham nhũng Trung ương; - Kiểm toán nhà nước; - Công báo; - Website CP; - Cục Kiểm tra Văn bản (Bộ Tư pháp); - Các đơn vị thuộc Bộ Tài chính; - Website BTC, UBCKNN; - Lưu: VT, UBCK, (200b). | KT. BỘ TRƯỞNG THỨ TRƯỞNG Trần Xuân Hà |
+
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+
+Nơi nhận: - Văn phòng Chính phủ; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - Viện Kiểm sát nhân dân tối cao; - Tòa án nhân dân tối cao; - HĐND, UBND các tỉnh, thành phố trực thuộc Trung ương; - Văn phòng ban chỉ đạo phòng chống tham nhũng Trung ương; - Kiểm toán nhà nước; - Công báo; - Website CP; - Cục Kiểm tra Văn bản (Bộ Tư pháp); - Các đơn vị thuộc Bộ Tài chính; - Website BTC, UBCKNN; - Lưu: VT, UBCK, (200b).
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Trần Xuân Hà
+
+PHỤ LỤC I
+
+BÁO CÁO GIÁM SÁT GIAO DỊCH TẠI SỞ GIAO DỊCH CHỨNG KHOÁN (Ban hành kèm theo Thông tư số …../20…./TT-BTC ngày … tháng … năm 20.. của Bộ trưởng Bộ Tài chính hướng dẫn Giám sát giao dịch chứng khoán trên thị trường chứng khoán)
+
+MẪU SỐ 01. BÁO CÁO TUẦN (SỔ LỆNH VÀ KẾT QUẢ GIAO DỊCH)
+
+I. Dữ liệu thông tin thị trường: Thông tin định kỳ trong ngày giao dịch theo quy định tại khoản 2 Điều 3 3 Thông tư số 155/2015/TT-BTC ngày 06 tháng 10 năm 2015.
+
+II. Sổ lệnh giao dịch cổ phiếu/chứng chỉ quỹ/chứng quyền có bảo đảm tại SGDCK TP.HCM
+
+| Mã TV | Ngày | Giờ đặt lệnh | Máy trạm nhập lệnh | Lệnh mua/bán | Số thứ tự lệnh | Chứng khoán | Khối lượng đặt lệnh | Khối lượng chưa khớp | Khối lượng khớp lệnh | Tài khoản đặt lệnh | Giá đặt lệnh | Tình trạng lệnh | Giá trị lệnh | Loại lệnh (Nếu có) |
+
+|-------|------|--------------|--------------------|--------------|----------------|-------------|---------------------|----------------------|----------------------|--------------------|--------------|-----------------|--------------|--------------------|
+
+| (1)   | (2)  | (3)          | (4)                | (5)          | (6)            | (7)         | (8)                 | (9)                  | (10)                 | (11)               | (12)         | (13)            | (14)         | (15)               |
+
+|       |      |              |                    |              |                |             |                     |                      |                      |                    |              |                 |              |                    |
+
+|       |      |              |                    |              |                |             |                     |                      |                      |                    |              |                 |              |                    |
+
+|       |      |              |                    |              |                |             |                     |                      |                      |                    |              |                 |              |                    |
+
+Mã TV
+
+Ngày
+
+Giờ đặt lệnh
+
+Máy trạm nhập lệnh
+
+Lệnh mua/bán
+
+Số thứ tự lệnh
+
+Chứng khoán
+
+Khối lượng đặt lệnh
+
+Khối lượng chưa khớp
+
+Khối lượng khớp lệnh
+
+Tài khoản đặt lệnh
+
+Giá đặt lệnh
+
+Tình trạng lệnh
+
+Giá trị lệnh
+
+Loại lệnh (Nếu có)
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
+
+(13)
+
+(14)
+
+(15)
+
+| Ghi chú: (1) Mã thành viên: từ 001, …, nnn. (2) Ngày giao dịch: ngày/tháng/năm (3) Thời gian nhập lệnh (số thứ nhất và 2 hoặc số thứ nhất: giờ; số thứ 3 và 4: phút; 4 số cuối: giây) (4) Máy trạm nhập lệnh của thành viên: số cuối: số thứ tự máy trạm; số đầu hoặc 2 số đầu: mã thành viên. (5) Lệnh mua/bán trong đó S/B: sell/buy hoặc B/M: bán/mua (6) Số thứ tự lệnh nhập của thành viên: 4 số cuối từ 0001 đến 9999 theo thứ tự thời gian (7) Mã chứng khoán (8) Khối lượng đặt: số cổ phiếu | (9) Khối lượng chưa khớp: số cổ phiếu (10) Khối lượng khớp lệnh: số cổ phiếu (11) Tài khoản đặt lệnh (12) Giá đặt lệnh: nghìn đồng/cổ phần (13) Tình trạng lệnh: (M) Khớp/(O) không khớp/(X) hủy (14) Giá trị khớp: nghìn đồng (15) Loại lệnh: lệnh giới hạn/lệnh ATO/lệnh ATC |
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ghi chú:
+
+(1) Mã thành viên: từ 001, …, nnn.
+
+(2) Ngày giao dịch: ngày/tháng/năm
+
+(3) Thời gian nhập lệnh (số thứ nhất và 2 hoặc số thứ nhất: giờ; số thứ 3 và 4: phút; 4 số cuối: giây)
+
+(4) Máy trạm nhập lệnh của thành viên: số cuối: số thứ tự máy trạm; số đầu hoặc 2 số đầu: mã thành viên.
+
+(5) Lệnh mua/bán trong đó S/B: sell/buy hoặc B/M: bán/mua
+
+(6) Số thứ tự lệnh nhập của thành viên: 4 số cuối từ 0001 đến 9999 theo thứ tự thời gian
+
+(7) Mã chứng khoán
+
+(8) Khối lượng đặt: số cổ phiếu
+
+(9) Khối lượng chưa khớp: số cổ phiếu
+
+(10) Khối lượng khớp lệnh: số cổ phiếu
+
+(11) Tài khoản đặt lệnh
+
+(12) Giá đặt lệnh: nghìn đồng/cổ phần
+
+(13) Tình trạng lệnh: (M) Khớp/(O) không khớp/(X) hủy
+
+(14) Giá trị khớp: nghìn đồng
+
+(15) Loại lệnh: lệnh giới hạn/lệnh ATO/lệnh ATC
+
+III. Sổ lệnh giao dịch cổ phiếu/chứng chỉ quỹ tại SGDCK Hà Nội
+
+| Ngày GD | Thời gian | Loại lệnh | TT  | Số hiệu lệnh | Số hiệu lệnh gốc | CK  | M/B | SL  | Giá  | Số lượng chờ khớp | Giá chờ khớp | SL khớp | SL hủy | SL loại bỏ | Đại diện giao dịch | Mã thành viên | Mã thị trường | Loại hình NĐT | TK NĐT | Lợi suất |
+
+|---------|-----------|-----------|-----|--------------|------------------|-----|-----|-----|------|-------------------|--------------|---------|--------|------------|--------------------|---------------|---------------|---------------|--------|----------|
+
+| (1)     | (2)       | (3)       | (4) | (5)          | (6)              | (7) | (8) | (9) | (10) | (11)              | (12)         | (13)    | (14)   | (15)       | (16)               | (17)          | (18)          | (19)          | (20)   | (21)     |
+
+|         |           |           |     |              |                  |     |     |     |      |                   |              |         |        |            |                    |               |               |               |        |          |
+
+|         |           |           |     |              |                  |     |     |     |      |                   |              |         |        |            |                    |               |               |               |        |          |
+
+|         |           |           |     |              |                  |     |     |     |      |                   |              |         |        |            |                    |               |               |               |        |          |
+
+Ngày GD
+
+Thời gian
+
+Loại lệnh
+
+TT
+
+Số hiệu lệnh
+
+Số hiệu lệnh gốc
+
+CK
+
+M/B
+
+SL
+
+Giá
+
+Số lượng chờ khớp
+
+Giá chờ khớp
+
+SL khớp
+
+SL hủy
+
+SL loại bỏ
+
+Đại diện giao dịch
+
+Mã thành viên
+
+Mã thị trường
+
+Loại hình NĐT
+
+TK NĐT
+
+Lợi suất
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
+
+(13)
+
+(14)
+
+(15)
+
+(16)
+
+(17)
+
+(18)
+
+(19)
+
+(20)
+
+(21)
+
+Ghi chú:
+
+| (1) Ngày giao dịch: ngày/tháng/năm (2) Thời gian nhập lệnh (số thứ nhất và 2 hoặc số thứ nhất: giờ; số thứ 3 và 4: phút; 4 số cuối: giây) (3) Loại lệnh (4) Tình trạng lệnh (5) & (6) Số hiệu lệnh và Số hiệu lệnh gốc (7) Chứng khoán (8) M/B (mua/bán) (9) Số lượng đặt lệnh (10) Giá đặt lệnh (11) Số lượng chờ khớp (12) Giá chờ khớp | (13) Số lượng khớp (14) Số lượng hủy (15) Số lượng loại bỏ (16) Đại diện giao dịch (17) Mã Thành viên (18) Mã thị trường (19) Loại hình Nhà đầu tư (20) Tài khoản Nhà đầu tư (21) Lợi suất (áp dụng cho Trái phiếu) |
+
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+(1) Ngày giao dịch: ngày/tháng/năm
+
+(2) Thời gian nhập lệnh (số thứ nhất và 2 hoặc số thứ nhất: giờ; số thứ 3 và 4: phút; 4 số cuối: giây)
+
+(3) Loại lệnh
+
+(4) Tình trạng lệnh
+
+(5) & (6) Số hiệu lệnh và Số hiệu lệnh gốc
+
+(7) Chứng khoán
+
+(8) M/B (mua/bán)
+
+(9) Số lượng đặt lệnh
+
+(10) Giá đặt lệnh
+
+(11) Số lượng chờ khớp
+
+(12) Giá chờ khớp
+
+(13) Số lượng khớp
+
+(14) Số lượng hủy
+
+(15) Số lượng loại bỏ
+
+(16) Đại diện giao dịch
+
+(17) Mã Thành viên
+
+(18) Mã thị trường
+
+(19) Loại hình Nhà đầu tư
+
+(20) Tài khoản Nhà đầu tư
+
+(21) Lợi suất (áp dụng cho Trái phiếu)
+
+IV. Kết quả khớp lệnh giao dịch cổ phiếu/chứng chỉ quỹ/chứng quyền có bảo đảm tại SGDCK TP.HCM
+
+| Số thứ tự | Mã TV người mua | Mã TV người bán | STT nhập lệnh mua | STT nhập lệnh bán | Thời gian khớp lệnh | Ngày giao dịch | Máy trạm nhập lệnh mua | Máy trạm nhập lệnh bán | Loại hình NĐT mua | Loại hình NĐT bán | Mã chứng khoán | Khối lượng khớp | Giá  | Tài khoản mua | Tài khoản bán | Giá trị khớp lệnh |
+
+|-----------|-----------------|-----------------|-------------------|-------------------|---------------------|----------------|------------------------|------------------------|-------------------|-------------------|----------------|-----------------|------|---------------|---------------|-------------------|
+
+| (1)       | (2)             | (3)             | (4)               | (5)               | (6)                 | (7)            | (8)                    | (9)                    | (10)              | (11)              | (12)           | (13)            | (14) | (15)          | (16)          | (17)              |
+
+|           |                 |                 |                   |                   |                     |                |                        |                        |                   |                   |                |                 |      |               |               |                   |
+
+|           |                 |                 |                   |                   |                     |                |                        |                        |                   |                   |                |                 |      |               |               |                   |
+
+Số thứ tự
+
+Mã TV người mua
+
+Mã TV người bán
+
+STT nhập lệnh mua
+
+STT nhập lệnh bán
+
+Thời gian khớp lệnh
+
+Ngày giao dịch
+
+Máy trạm nhập lệnh mua
+
+Máy trạm nhập lệnh bán
+
+Loại hình NĐT mua
+
+Loại hình NĐT bán
+
+Mã chứng khoán
+
+Khối lượng khớp
+
+Giá
+
+Tài khoản mua
+
+Tài khoản bán
+
+Giá trị khớp lệnh
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
+
+(13)
+
+(14)
+
+(15)
+
+(16)
+
+(17)
+
+Ghi chú:
+
+| (1) Số thứ tự (1, …, n) khớp lệnh (2) Mã Thành viên người mua (3) Mã Thành viên người bán (4) Số thứ tự nhập lệnh mua (5) Số thứ tự nhập lệnh bán (6) Thời gian khớp lệnh (số thứ nhất và 2 hoặc số thứ nhất: giờ; số thứ 3 và 4: phút; 4 số cuối: giây) (7) Ngày giao dịch: ngày/tháng/năm (8) Máy trạm nhập lệnh mua (số đại diện giao dịch): số thứ nhất và 2: mã thành viên; số cuối: số thứ tự máy trạm của thành viên (9) Máy trạm nhập lệnh bán (số đại diện giao dịch): số thứ nhất và 2: mã thành viên; số cuối: số thứ tự máy trạm của thành viên | (10) Loại hình Nhà đầu tư mua (Tổ chức, Cá nhân, Quỹ…) (11) Loại hình Nhà đầu tư bán (Tổ chức, Cá nhân, Quỹ…) (12) Mã chứng khoán (13) Khối lượng khớp lệnh: cổ phiếu (14) Giá khớp lệnh (15) Tài khoản mua (16) Tài khoản bán (17) Giá trị khớp lệnh |
+
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+(1) Số thứ tự (1, …, n) khớp lệnh
+
+(2) Mã Thành viên người mua
+
+(3) Mã Thành viên người bán
+
+(4) Số thứ tự nhập lệnh mua
+
+(5) Số thứ tự nhập lệnh bán
+
+(6) Thời gian khớp lệnh (số thứ nhất và 2 hoặc số thứ nhất: giờ; số thứ 3 và 4: phút; 4 số cuối: giây)
+
+(7) Ngày giao dịch: ngày/tháng/năm
+
+(8) Máy trạm nhập lệnh mua (số đại diện giao dịch): số thứ nhất và 2: mã thành viên; số cuối: số thứ tự máy trạm của thành viên
+
+(9) Máy trạm nhập lệnh bán (số đại diện giao dịch): số thứ nhất và 2: mã thành viên; số cuối: số thứ tự máy trạm của thành viên
+
+(10) Loại hình Nhà đầu tư mua (Tổ chức, Cá nhân, Quỹ…)
+
+(11) Loại hình Nhà đầu tư bán (Tổ chức, Cá nhân, Quỹ…)
+
+(12) Mã chứng khoán
+
+(13) Khối lượng khớp lệnh: cổ phiếu
+
+(14) Giá khớp lệnh
+
+(15) Tài khoản mua
+
+(16) Tài khoản bán
+
+(17) Giá trị khớp lệnh
+
+V. Kết quả khớp lệnh giao dịch cổ phiếu/chứng chỉ quỹ tại SGDCK Hà Nội
+
+| Ngày GD | Thời gian | Số phiên | Số hiệu lệnh | SHL liên quan | Số xác nhận lệnh khớp | TV bán | Đại diện giao dịch bán | NĐT bán | Mã CK | Số lượng khớp | Giá khớp | Mã thị trường | Thành viên mua | Đại diện GD mua | NĐT Mua | Hình thức GD | Lợi suất | Hình thức thanh toán | Trong/sau giờ |
+
+|---------|-----------|----------|--------------|---------------|-----------------------|--------|------------------------|---------|-------|---------------|----------|---------------|----------------|-----------------|---------|--------------|----------|----------------------|---------------|
+
+| (1)     | (2)       | (3)      | (4)          | (5)           | (6)                   | (7)    | (8)                    | (9)     | (10)  | (11)          | (12)     | (13)          | (14)           | (15)            | (16)    | (17)         | (18)     | (19)                 | (20)          |
+
+|         |           |          |              |               |                       |        |                        |         |       |               |          |               |                |                 |         |              |          |                      |               |
+
+|         |           |          |              |               |                       |        |                        |         |       |               |          |               |                |                 |         |              |          |                      |               |
+
+Ngày GD
+
+Thời gian
+
+Số phiên
+
+Số hiệu lệnh
+
+SHL liên quan
+
+Số xác nhận lệnh khớp
+
+TV bán
+
+Đại diện giao dịch bán
+
+NĐT bán
+
+Mã CK
+
+Số lượng khớp
+
+Giá khớp
+
+Mã thị trường
+
+Thành viên mua
+
+Đại diện GD mua
+
+NĐT Mua
+
+Hình thức GD
+
+Lợi suất
+
+Hình thức thanh toán
+
+Trong/sau giờ
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
+
+(13)
+
+(14)
+
+(15)
+
+(16)
+
+(17)
+
+(18)
+
+(19)
+
+(20)
+
+Ghi chú:
+
+| (1) Ngày giao dịch: ngày/tháng/năm (2) Thời gian khớp lệnh (số thứ nhất và 2 hoặc số thứ nhất: giờ; số thứ 3 và 4: phút; 4 số cuối: giây) (3) Số phiên khớp lệnh (4) và (5) Số hiệu lệnh và Số hiệu lệnh liên quan (6) Số xác nhận lệnh khớp (7) Thành viên bên bán (8) Đại diện giao dịch bên bán (9) Tài khoản Nhà đầu tư bán (10) Mã chứng khoán | (11) Số lượng khớp (12) Giá khớp (13) Mã thị trường (14) Thành viên bên mua (15) Đại diện giao dịch bên mua (16) Tài khoản Nhà đầu tư mua (17) Hình thức giao dịch (18) Lợi suất (áp dụng cho Trái phiếu) (19) Hình thức thanh toán (20) Giao dịch trong giờ hay sau giờ |
+
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+(1) Ngày giao dịch: ngày/tháng/năm
+
+(2) Thời gian khớp lệnh (số thứ nhất và 2 hoặc số thứ nhất: giờ; số thứ 3 và 4: phút; 4 số cuối: giây)
+
+(3) Số phiên khớp lệnh
+
+(4) và (5) Số hiệu lệnh và Số hiệu lệnh liên quan
+
+(6) Số xác nhận lệnh khớp
+
+(7) Thành viên bên bán
+
+(8) Đại diện giao dịch bên bán
+
+(9) Tài khoản Nhà đầu tư bán
+
+(10) Mã chứng khoán
+
+(11) Số lượng khớp
+
+(12) Giá khớp
+
+(13) Mã thị trường
+
+(14) Thành viên bên mua
+
+(15) Đại diện giao dịch bên mua
+
+(16) Tài khoản Nhà đầu tư mua
+
+(17) Hình thức giao dịch
+
+(18) Lợi suất (áp dụng cho Trái phiếu)
+
+(19) Hình thức thanh toán
+
+(20) Giao dịch trong giờ hay sau giờ
+
+VI. Kết quả giao dịch thỏa thuận cổ phiếu/chứng chỉ quỹ /chứng quyền có bảo đảm/Trái phiếu tại SGDCK TP.HCM
+
+(Giao dịch thỏa thuận Cổ phiếu & chứng chỉ quỹ, Trái phiếu được lập thành từng bảng riêng)
+
+| Ngày giao dịch | Mã TV bán | Mã TV mua | Chứng khoán | Tài khoản bán | Tài khoản mua | Khối lượng đặt bán | Khối lượng đặt mua | Giá khớp | Khối lượng khớp | Giá trị khớp |
+
+|----------------|-----------|-----------|-------------|---------------|---------------|--------------------|--------------------|----------|-----------------|--------------|
+
+| (1)            | (2)       | (3)       | (4)         | (5)           | (6)           | (7)                | (8)                | (9)      | (10)            | (11)         |
+
+|                |           |           |             |               |               |                    |                    |          |                 |              |
+
+|                |           |           |             |               |               |                    |                    |          |                 |              |
+
+|                |           |           |             |               |               |                    |                    |          |                 |              |
+
+Ngày giao dịch
+
+Mã TV bán
+
+Mã TV mua
+
+Chứng khoán
+
+Tài khoản bán
+
+Tài khoản mua
+
+Khối lượng đặt bán
+
+Khối lượng đặt mua
+
+Giá khớp
+
+Khối lượng khớp
+
+Giá trị khớp
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+Ghi chú:
+
+(1): Ngày giao dịch (ngày/tháng/năm)
+
+(2)&(3): Mã thành viên (mua/bán)
+
+(4): Mã cổ phiếu, chứng chỉ quỹ Trái phiếu
+
+(5) & (6) Tài khoản bán/mua
+
+(7) và (8) KL đặt bán/đặt mua
+
+(9) Giá khớp
+
+(10) Khối lượng khớp
+
+(11) Giá trị khớp
+
+VII. Kết quả giao dịch thỏa thuận cổ phiếu/chứng chỉ quỹ/Trái phiếu tại SGDCK Hà Nội
+
+(Giao dịch trái phiếu doanh nghiệp được lập thành từng bảng riêng)
+
+| Ngày giao dịch | Thời gian | Số hiệu lệnh | SHL liên quan | Loại lệnh | Tình trạng | TV bán | ĐDGD bán | NĐT bán | CK   | M/B  | Số lượng | Giá  | Mã TT | TV Mua | ĐDGD mua | NĐT mua | Hình thức thanh toán | Chu kỳ TT | Lợi suất | Số ĐT | Trong/sau giờ |
+
+|----------------|-----------|--------------|---------------|-----------|------------|--------|----------|---------|------|------|----------|------|-------|--------|----------|---------|----------------------|-----------|----------|-------|---------------|
+
+| (1)            | (2)       | (3)          | (4)           | (5)       | (6)        | (7)    | (8)      | (9)     | (10) | (11) | (12)     | (13) | (14)  | (15)   | (16)     | (17)    | (18)                 | (19)      | (20)     | (21)  | (22)          |
+
+|                |           |              |               |           |            |        |          |         |      |      |          |      |       |        |          |         |                      |           |          |       |               |
+
+|                |           |              |               |           |            |        |          |         |      |      |          |      |       |        |          |         |                      |           |          |       |               |
+
+|                |           |              |               |           |            |        |          |         |      |      |          |      |       |        |          |         |                      |           |          |       |               |
+
+Ngày giao dịch
+
+Thời gian
+
+Số hiệu lệnh
+
+SHL liên quan
+
+Loại lệnh
+
+Tình trạng
+
+TV bán
+
+ĐDGD bán
+
+NĐT bán
+
+CK
+
+M/B
+
+Số lượng
+
+Giá
+
+Mã TT
+
+TV Mua
+
+ĐDGD mua
+
+NĐT mua
+
+Hình thức thanh toán
+
+Chu kỳ TT
+
+Lợi suất
+
+Số ĐT
+
+Trong/sau giờ
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
+
+(13)
+
+(14)
+
+(15)
+
+(16)
+
+(17)
+
+(18)
+
+(19)
+
+(20)
+
+(21)
+
+(22)
+
+Ghi chú:
+
+| (1): Ngày giao dịch (ngày/tháng/năm) (2): Thời gian khớp lệnh (3)&(4): Số hiệu lệnh và Số hiệu lệnh liên quan (5): Loại lệnh (6): Tình trạng lệnh (7)&(15) Thành viên bán/mua (8)&(16): Đại diện giao dịch bán/mua (9)&(17): Nhà đầu tư bán/mua (18): Hình thức thanh toán: Trực tiếp hoặc đa phương (19): Chu kỳ thanh toán: T+X với X là số ngày sau ngày T giao dịch (20): Lợi suất (áp dụng cho Trái phiếu) | (10) Mã chứng khoán (11) Mua/bán (12) Số lượng cổ phiếu (13) Giá (14) Mã thị trường (21) Số điện thoại (nếu có) (22) Giao dịch trong/sau giờ |
+
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+
+(1): Ngày giao dịch (ngày/tháng/năm)
+
+(2): Thời gian khớp lệnh
+
+(3)&(4): Số hiệu lệnh và Số hiệu lệnh liên quan
+
+(5): Loại lệnh
+
+(6): Tình trạng lệnh
+
+(7)&(15) Thành viên bán/mua
+
+(8)&(16): Đại diện giao dịch bán/mua
+
+(9)&(17): Nhà đầu tư bán/mua
+
+(18): Hình thức thanh toán: Trực tiếp hoặc đa phương
+
+(19): Chu kỳ thanh toán: T+X với X là số ngày sau ngày T giao dịch
+
+(20): Lợi suất (áp dụng cho Trái phiếu)
+
+(10) Mã chứng khoán
+
+(11) Mua/bán
+
+(12) Số lượng cổ phiếu
+
+(13) Giá
+
+(14) Mã thị trường
+
+(21) Số điện thoại (nếu có)
+
+(22) Giao dịch trong/sau giờ
+
+|  | …., ngày … tháng … năm Tổng Giám đốc Sở Giao dịch Chứng khoán |
+
+|--|---------------------------------------------------------------|
+
+…., ngày … tháng … năm Tổng Giám đốc Sở Giao dịch Chứng khoán
+
+Ghi chú: Các báo cáo này được lập dưới dạng file dữ liệu điện tử định dạng exel hoặc File text chiết xuất từ hệ thống giao dịch; Font chữ: Unicode Times New Roman.
+
+VIII. Sổ lệnh đặt chứng khoán phái sinh
+
+| Ngày GD | Thgian GD | Mã phiên | Kênh đặt lệnh | Phương thức GD | Mã TV Bán | Tài khoản NĐT Bán | SHL bán | Môi giới/Tự doanh Bán | Mã TV Mua | Tài khoản NĐT Mua | SHL Mua | Môi giới/Tự doanh Mua | SHL gốc | Số xác nhận lệnh khớp | Mã sản phẩm | Loại lệnh | M/B | Trạng thái | Giá đặt | Khối lượng đặt | Giá thực hiện | Khối lượng thực hiện | SendCompId | UTrade |
+
+|---------|-----------|----------|---------------|----------------|-----------|-------------------|---------|-----------------------|-----------|-------------------|---------|-----------------------|---------|-----------------------|-------------|-----------|-----|------------|---------|----------------|---------------|----------------------|------------|--------|
+
+|         |           |          |               |                |           |                   |         |                       |           |                   |         |                       |         |                       |             |           |     |            |         |                |               |                      |            |        |
+
+|         |           |          |               |                |           |                   |         |                       |           |                   |         |                       |         |                       |             |           |     |            |         |                |               |                      |            |        |
+
+|         |           |          |               |                |           |                   |         |                       |           |                   |         |                       |         |                       |             |           |     |            |         |                |               |                      |            |        |
+
+|         |           |          |               |                |           |                   |         |                       |           |                   |         |                       |         |                       |             |           |     |            |         |                |               |                      |            |        |
+
+Ngày GD
+
+Thgian GD
+
+Mã phiên
+
+Kênh đặt lệnh
+
+Phương thức GD
+
+Mã TV Bán
+
+Tài khoản NĐT Bán
+
+SHL bán
+
+Môi giới/Tự doanh Bán
+
+Mã TV Mua
+
+Tài khoản NĐT Mua
+
+SHL Mua
+
+Môi giới/Tự doanh Mua
+
+SHL gốc
+
+Số xác nhận lệnh khớp
+
+Mã sản phẩm
+
+Loại lệnh
+
+M/B
+
+Trạng thái
+
+Giá đặt
+
+Khối lượng đặt
+
+Giá thực hiện
+
+Khối lượng thực hiện
+
+SendCompId
+
+UTrade
+
+IX. Sổ lệnh khớp chứng khoán phái sinh
+
+| Ngày GD | Thgian GD | Mã phiên | Kênh đặt lệnh | Phương thức GD | Mã TV Bán | Tài khoản NĐT Bán | SHL bán | Môi giới/Tự doanh Bán | Mã TV Mua | Tài khoản NĐT Mua | SHL Mua | Môi giới/Tự doanh Mua | Số xác nhận lệnh khớp | Mã sản phẩm | Trạng thái | Price | Quantity | type |
+
+|---------|-----------|----------|---------------|----------------|-----------|-------------------|---------|-----------------------|-----------|-------------------|---------|-----------------------|-----------------------|-------------|------------|-------|----------|------|
+
+|         |           |          |               |                |           |                   |         |                       |           |                   |         |                       |                       |             |            |       |          |      |
+
+|         |           |          |               |                |           |                   |         |                       |           |                   |         |                       |                       |             |            |       |          |      |
+
+|         |           |          |               |                |           |                   |         |                       |           |                   |         |                       |                       |             |            |       |          |      |
+
+Ngày GD
+
+Thgian GD
+
+Mã phiên
+
+Kênh đặt lệnh
+
+Phương thức GD
+
+Mã TV Bán
+
+Tài khoản NĐT Bán
+
+SHL bán
+
+Môi giới/Tự doanh Bán
+
+Mã TV Mua
+
+Tài khoản NĐT Mua
+
+SHL Mua
+
+Môi giới/Tự doanh Mua
+
+Số xác nhận lệnh khớp
+
+Mã sản phẩm
+
+Trạng thái
+
+Price
+
+Quantity
+
+type
+
+X. Sổ lệnh thỏa thuận chứng khoán phái sinh
+
+| Ngày GD | Thgian GD | Mã phiên | Trạng thái | Mã TV Bán | TK Bán | Mã TV Mua | TK Mua | Mã sản phẩm | SHL Bán | SHL Mua | SHL gốc | Quantity | Price |
+
+|---------|-----------|----------|------------|-----------|--------|-----------|--------|-------------|---------|---------|---------|----------|-------|
+
+|         |           |          |            |           |        |           |        |             |         |         |         |          |       |
+
+|         |           |          |            |           |        |           |        |             |         |         |         |          |       |
+
+|         |           |          |            |           |        |           |        |             |         |         |         |          |       |
+
+|         |           |          |            |           |        |           |        |             |         |         |         |          |       |
+
+|         |           |          |            |           |        |           |        |             |         |         |         |          |       |
+
+|         |           |          |            |           |        |           |        |             |         |         |         |          |       |
+
+Ngày GD
+
+Thgian GD
+
+Mã phiên
+
+Trạng thái
+
+Mã TV Bán
+
+TK Bán
+
+Mã TV Mua
+
+TK Mua
+
+Mã sản phẩm
+
+SHL Bán
+
+SHL Mua
+
+SHL gốc
+
+Quantity
+
+Price
+
+MẪU SỐ 2. BÁO CÁO TUẦN
+
+| SỞ GIAO DỊCH CHỨNG KHOÁN ...  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-------------------------------|-----------------------------------------------------------------|
+
+| Số: …../SGDCK                 | ...., ngày tháng     năm 201...                                 |
+
+SỞ GIAO DỊCH CHỨNG KHOÁN ... -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: …../SGDCK
+
+...., ngày tháng năm 201...
+
+BÁO CÁO GIÁM SÁT TUẦN.../201...
+
+Báo cáo tình hình xử lý các dấu hiệu giao dịch bất thường trong tuần … /201…
+
+| TT | Mã cảnh báo theo tiêu chí | Dấu hiệu giao dịch bất thường | Mã chứng khoán giao dịch | Ngày giao dịch | Ngày bắt đầu xử lý | Tình trạng xử lý |
+
+|----|---------------------------|-------------------------------|--------------------------|----------------|--------------------|------------------|
+
+| 1  | 2                         | 3                             | 4                        | 5              | 6                  | 7                |
+
+TT
+
+Mã cảnh báo theo tiêu chí
+
+Dấu hiệu giao dịch bất thường
+
+Mã chứng khoán giao dịch
+
+Ngày giao dịch
+
+Ngày bắt đầu xử lý
+
+Tình trạng xử lý
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Ghi chú:
+
+- Dấu hiệu giao dịch bất thường: theo Hệ thống tiêu chí giám sát giao dịch bất thường do Sở Giao dịch Chứng khoán ban hành.
+
+- Biểu này được lập và báo cáo hàng tuần.
+
+| Nơi nhận: | Tổng Giám đốc Sở Giao dịch Chứng khoán |
+
+|-----------|----------------------------------------|
+
+Nơi nhận:
+
+Tổng Giám đốc Sở Giao dịch Chứng khoán
+
+MẪU SỐ 3. BÁO CÁO THÁNG /201.….
+
+| SỞ GIAO DỊCH CHỨNG KHOÁN...  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|------------------------------|-----------------------------------------------------------------|
+
+| Số: ……../SGDCK               | ..., ngày tháng    năm 201...                                   |
+
+SỞ GIAO DỊCH CHỨNG KHOÁN... -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: ……../SGDCK
+
+..., ngày tháng năm 201...
+
+BÁO CÁO GIÁM SÁT THÁNG …/201….
+
+I. Về việc tổ chức hoạt động gi ám sát tại Sở Giao dịch Chứng khoán
+
+1. Tổ chức và hoạt động của bộ máy giám sát (nếu có thay đổi).
+
+2. Về việc ban hành, bổ sung, sửa đổi các quy chế, quy định, quy trình giám sát tại Sở Giao dịch Chứng khoán.
+
+3. Về việc tổ chức giám sát giao dịch hàng ngày, nhiều ngày.
+
+4. Về việc thực hiện báo cáo định kỳ, báo cáo bất thường và báo cáo theo yêu cầu đối với Ủy ban Chứng khoán Nhà nước.
+
+5. Về việc phối hợp với các đơn vị khác trong công tác giám sát.
+
+6. Về việc xây dựng Hệ thống cơ sở dữ liệu phục vụ công tác giám sát.
+
+II. Các công việc đang triển khai
+
+Biểu 1. Báo cáo tình hình xử lý các dấu hiệu giao dịch bất thường tháng
+
+| TT | Mã cảnh báo theo tiêu chí giám sát | Dấu hiệu giao dịch bất thường | Tổ chức/cá nhân thực hiện giao dịch | Mã tài khoản giao dịch | Mã chứng khoán giao dịch | Ngày GD | Dấu hiệu vi phạm | Ngày bắt đầu xử lý | Tình trạng xử lý |
+
+|----|------------------------------------|-------------------------------|-------------------------------------|------------------------|--------------------------|---------|------------------|--------------------|------------------|
+
+| 1  | 2                                  | 3                             | 4                                   | 5                      | 6                        | 7       | 8                | 9                  | 10               |
+
+TT
+
+Mã cảnh báo theo tiêu chí giám sát
+
+Dấu hiệu giao dịch bất thường
+
+Tổ chức/cá nhân thực hiện giao dịch
+
+Mã tài khoản giao dịch
+
+Mã chứng khoán giao dịch
+
+Ngày GD
+
+Dấu hiệu vi phạm
+
+Ngày bắt đầu xử lý
+
+Tình trạng xử lý
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Ghi chú: Dấu hiệu giao dịch bất thường: theo Hệ thống tiêu chí giám sát giao dịch bất thường do SGDCK ban hành.
+
+III. Kết quả hoạt động gi ám sát tại Sở Giao dịch chứng khoán
+
+1. Về việc thực hiện giao dịch của các thành viên giao dịch
+
+Biểu 1. Hành vi vi phạm về giao dịch chứng khoán
+
+| TT | Tổ chứ c/cá nhân vi phạm về giao dịch chứng khoán | Mã tài khoản giao dịch | Tên CTCK thực hiện GD | Loại hành vi vi phạm | Ngày GD | Mã chứng khoán giao dịch | Hình thức xử lý |
+
+|----|---------------------------------------------------|------------------------|-----------------------|----------------------|---------|--------------------------|-----------------|
+
+| 1  | 2                                                 | 3                      | 4                     | 5                    | 6       | 7                        | 8               |
+
+TT
+
+Tổ chứ c/cá nhân vi phạm về giao dịch chứng khoán
+
+Mã tài khoản giao dịch
+
+Tên CTCK thực hiện GD
+
+Loại hành vi vi phạm
+
+Ngày GD
+
+Mã chứng khoán giao dịch
+
+Hình thức xử lý
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+2. Về hoạt động giám sát, kiểm tra, xử lý vi phạm
+
+- Về việc phát hiện các giao dịch bất thường (phân loại theo tiêu chí giám sát bất thường do Sở Giao dịch Chứng khoán ban hành).
+
+- Kết quả kiểm tra về giao dịch chứng khoán do Sở Giao dịch Chứng khoán thực hiện, kết quả xử lý những hành vi vi phạm (theo thẩm quyền).
+
+- Các vụ việc kiến nghị Ủy ban Chứng khoán Nhà nước xử lý vi phạm.
+
+IV. Kiến nghị
+
+1. Về chính sách chế độ
+
+2. Kiến nghị khác (nếu có)
+
+| Nơi nhận: | Tổng Giám đốc Sở Giao dịch Chứng khoán |
+
+|-----------|----------------------------------------|
+
+Nơi nhận:
+
+Tổng Giám đốc Sở Giao dịch Chứng khoán
+
+MẤU SỐ 04. BÁO CÁO GIÁM SÁT NĂM 20.…
+
+| SỞ GIAO DỊCH CHỨNG KHOÁN...  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|------------------------------|-----------------------------------------------------------------|
+
+| Số: ……./SGDCK                | ...., ngày….. tháng…. năm 201...                                |
+
+SỞ GIAO DỊCH CHỨNG KHOÁN... -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: ……./SGDCK
+
+...., ngày….. tháng…. năm 201...
+
+BÁO CÁO GIÁM SÁT NĂM 20..…
+
+I. Về việc tổ chức hoạt động gi ám sát tại Sở Giao dịch Chứng khoán
+
+1. Tổ chức và hoạt động của bộ máy giám sát
+
+2. Về việc ban hành, bổ sung, sửa đổi các quy chế, quy định, quy trình giám sát tại Sở Giao dịch Chứng khoán.
+
+3. Về việc tổ chức giám sát giao dịch hàng ngày, nhiều ngày.
+
+4. Về việc thực hiện báo cáo định kỳ, báo cáo bất thường và báo cáo theo yêu cầu đối với Ủy ban Chứng khoán Nhà nước.
+
+5. Về việc phối hợp với hợp với các đơn vị khác trong công tác giám sát.
+
+6. Về việc xây dựng Hệ thống cơ sở dữ liệu phục vụ công tác giám sát.
+
+II. Các công việc đang triển khai
+
+Biểu 1:Báo cáo tình hình xử lý các dấu hiệu giao dịch bất thường
+
+| TT | Mã cảnh báo theo tiêu chí giám sát | Dấu hiệu giao dịch bất thường | Tổ chức/cá nhân thực hiện giao dịch | Mã tài khoản giao dịch | Mã chứng khoán giao dịch | Ngày giao dịch | Dấu hiệu vi phạm | Ngày bắt đầu xử lý | Tình trạng xử lý |
+
+|----|------------------------------------|-------------------------------|-------------------------------------|------------------------|--------------------------|----------------|------------------|--------------------|------------------|
+
+| 1  | 2                                  | 3                             | 4                                   | 5                      | 6                        | 7              | 8                | 9                  | 10               |
+
+TT
+
+Mã cảnh báo theo tiêu chí giám sát
+
+Dấu hiệu giao dịch bất thường
+
+Tổ chức/cá nhân thực hiện giao dịch
+
+Mã tài khoản giao dịch
+
+Mã chứng khoán giao dịch
+
+Ngày giao dịch
+
+Dấu hiệu vi phạm
+
+Ngày bắt đầu xử lý
+
+Tình trạng xử lý
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Biểu 2: Danh sách tổ chức, cá nhân vi phạm quy định về giao dịch chứng khoán
+
+| TT                                             | Tên tổ chức cá nhân                       | Mã thành viên giao dịch | Mã tài khoản giao dịch | Tên CTCK            | Hành vi vi phạm về GDCK | Vi phạm về công bố thông tin khi thực hiện các giao dịch (cổ đông lớn, cổ đông nội bộ và người liên quan, cổ phiếu quỹ, cổ phiếu hạn chế chuyển nhượng, giao | Tổng cộng  | Ghi chú |   |   |  |  |
+
+|------------------------------------------------|-------------------------------------------|-------------------------|------------------------|---------------------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|---------|---|---|--|--|
+
+| Vi phạm /dấu hiệu vi phạm các quy định về GDCK | Vi phạm/dấu hiệu vi phạm giao dịch bị cấm |                         |                        |                     |                         |                                                                                                                                                              |            |         |   |   |  |  |
+
+|                                                |                                           |                         |                        |                     |                         |                                                                                                                                                              | dịch khác) |         |   |   |  |  |
+
+| Giao dịch cùng mua/bán                         | Huỷ/sửa lệnh sai quy định                 | Khác                    | Giao dịch nội bộ       | Giao dịch thao túng | Giao dịch bị cấm khác   |                                                                                                                                                              |            |         |   |   |  |  |
+
+|                                                | I/CTCK                                    |                         |                        | x                   | x                       | x                                                                                                                                                            |            | x       | x | x |  |  |
+
+|                                                | II/Đại diện GD/nhân viên CTCK             |                         |                        | x                   | x                       | x                                                                                                                                                            |            |         | x | x |  |  |
+
+|                                                | III/Tổ chức/cá nhân khác                  |                         |                        |                     |                         | x                                                                                                                                                            | x          | x       | x | x |  |  |
+
+TT
+
+Tên tổ chức cá nhân
+
+Mã thành viên giao dịch
+
+Mã tài khoản giao dịch
+
+Tên CTCK
+
+Hành vi vi phạm về GDCK
+
+Vi phạm về công bố thông tin khi thực hiện các giao dịch (cổ đông lớn, cổ đông nội bộ và người liên quan, cổ phiếu quỹ, cổ phiếu hạn chế chuyển nhượng, giao
+
+Tổng cộng
+
+Ghi chú
+
+Vi phạm /dấu hiệu vi phạm các quy định về GDCK
+
+Vi phạm/dấu hiệu vi phạm giao dịch bị cấm
+
+dịch khác)
+
+Giao dịch cùng mua/bán
+
+Huỷ/sửa lệnh sai quy định
+
+Khác
+
+Giao dịch nội bộ
+
+Giao dịch thao túng
+
+Giao dịch bị cấm khác
+
+I/CTCK
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+II/Đại diện GD/nhân viên CTCK
+
+x
+
+x
+
+x
+
+x
+
+x
+
+III/Tổ chức/cá nhân khác
+
+x
+
+x
+
+x
+
+x
+
+x
+
+Ghi chú về Biểu số 2:
+
+- Biểu này tổng hợp số lần vi phạm về giao dịch và công bố thông tin của các đối tượng thực hiện giao dịch;
+
+- Loại hành vi vi phạm được thống kê theo quy định hiện hành.
+
+III. Kiến nghị
+
+1. Về chính sách chế độ
+
+2. Kiến nghị khác (nếu có)
+
+| Nơi nhận: | Tổng Giám đốc Sở Giao dịch Chứng khoán |
+
+|-----------|----------------------------------------|
+
+Nơi nhận:
+
+Tổng Giám đốc Sở Giao dịch Chứng khoán
+
+| Ghi chú - Hành vi vi phạm về giao dịch chứng khoán tại các Biểu trong Phụ lục này bao gồm 2 nhóm hành vi: hành vi vi phạm các quy định về giao dịch (cùng mua/bán, giao dịch không dẫn đến việc thay đổi quyền sở hữu chứng khoán, và các vi phạm khác về quy chế giao dịch) và hành vi giao dịch bị cấm (giao dịch nội bộ; giao dịch thao túng và giao dịch bị cấm khác) - Kỳ báo cáo tại Phụ lục này được lập theo tuần, tháng và năm Dương lịch - Các báo cáo này được lập dưới dạng file dữ liệu điện tử định dạng exel (đối với dữ liệu báo cáo bằng bảng biểu) hoặc File text chiết xuất từ hệ thống giao dịch; Font chữ: Unicode Times New Roman. |
+
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ghi chú
+
+- Hành vi vi phạm về giao dịch chứng khoán tại các Biểu trong Phụ lục này bao gồm 2 nhóm hành vi: hành vi vi phạm các quy định về giao dịch (cùng mua/bán, giao dịch không dẫn đến việc thay đổi quyền sở hữu chứng khoán, và các vi phạm khác về quy chế giao dịch) và hành vi giao dịch bị cấm (giao dịch nội bộ; giao dịch thao túng và giao dịch bị cấm khác)
+
+- Kỳ báo cáo tại Phụ lục này được lập theo tuần, tháng và năm Dương lịch
+
+- Các báo cáo này được lập dưới dạng file dữ liệu điện tử định dạng exel (đối với dữ liệu báo cáo bằng bảng biểu) hoặc File text chiết xuất từ hệ thống giao dịch; Font chữ: Unicode Times New Roman.
+
+PHỤ LỤC II
+
+MẪU BIỂU BÁO CÁO CỦA TRUNG TÂM LƯU KÝ CHỨNG KHOÁN VIỆT NAM (Ban hành kèm theo Thông tư số ……../……../TT-BTC ngày …. tháng …. năm ………. của Bộ trưởng Bộ Tài chính hướng dẫn giám sát giao dịch chứng khoán trên thị trường chứng khoán)
+
+| TRUNG TÂM LƯU KÝ CHỨNG KHOÁN  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-------------------------------|-----------------------------------------------------------------|
+
+| Số: ……../TTLKCK               | …, ngày… tháng… năm 201...                                      |
+
+TRUNG TÂM LƯU KÝ CHỨNG KHOÁN -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: ……../TTLKCK
+
+…, ngày… tháng… năm 201...
+
+BÁO CÁO ĐỊNH KỲ THÁNG
+
+1. Báo cáo hoạt động cấp mã chứng khoán
+
+Mẫu số 1: Tình hình cấp mã chứng khoán
+
+| Stt | Ngày cấp mã chứng khoán | Tên Tổ chức phát hành | Vốn Điều lệ, SLCK đăng ký của TCPH | Địa chỉ của TCPH | Mã chứng khoán trong nước do VSD cấp | Mã ISIN do VSD cấp | Ghi chú |
+
+|-----|-------------------------|-----------------------|------------------------------------|------------------|--------------------------------------|--------------------|---------|
+
+| 1   | 2                       | 3                     | 4                                  | 5                | 6                                    | 7                  | 8       |
+
+Stt
+
+Ngày cấp mã chứng khoán
+
+Tên Tổ chức phát hành
+
+Vốn Điều lệ, SLCK đăng ký của TCPH
+
+Địa chỉ của TCPH
+
+Mã chứng khoán trong nước do VSD cấp
+
+Mã ISIN do VSD cấp
+
+Ghi chú
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+2. Báo cáo tình hình sửa lỗi, lùi thời hạn thanh toán, loại bỏ không thanh toán giao dịch chứng khoán
+
+Mẫu số 2: Tình hình sửa lỗi, lùi thời hạn thanh toán, loại bỏ không thanh toán
+
+| Stt                        | Mã thành viên lưu ký | Tên thành viên lưu ký | Loại lệnh | Tài khoản sửa lỗi | Mã chứng khoán | Số lượng | Ngày giao dịch | Ngày sửa lỗi/lùi thời hạn thanh toán/loại bỏ không thanh toán giao dịch | Thành viên lưu ký liên quan | Số lượng chứng khoán hỗ trợ | Lý do sửa/lùi thời hạn/loại bỏ không thanh toán |
+
+|----------------------------|----------------------|-----------------------|-----------|-------------------|----------------|----------|----------------|-------------------------------------------------------------------------|-----------------------------|-----------------------------|-------------------------------------------------|
+
+| A. Sửa lỗi                 |                      |                       |           |                   |                |          |                |                                                                         |                             |                             |                                                 |
+
+| B. Lùi thời hạn thanh toán |                      |                       |           |                   |                |          |                |                                                                         |                             |                             |                                                 |
+
+| C. Loại bỏ không toán      |                      |                       |           |                   |                |          |                |                                                                         |                             |                             |                                                 |
+
+| 1                          | 2                    | 3                     | 4         | 5                 | 6              | 7        | 8              | 9                                                                       | 10                          | 11                          | 12                                              |
+
+Stt
+
+Mã thành viên lưu ký
+
+Tên thành viên lưu ký
+
+Loại lệnh
+
+Tài khoản sửa lỗi
+
+Mã chứng khoán
+
+Số lượng
+
+Ngày giao dịch
+
+Ngày sửa lỗi/lùi thời hạn thanh toán/loại bỏ không thanh toán giao dịch
+
+Thành viên lưu ký liên quan
+
+Số lượng chứng khoán hỗ trợ
+
+Lý do sửa/lùi thời hạn/loại bỏ không thanh toán
+
+A. Sửa lỗi
+
+B. Lùi thời hạn thanh toán
+
+C. Loại bỏ không toán
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+3. Thống kê giao dịch chứng khoán chuyển quyền sở hữu không qua hệ thống giao dịch
+
+Mẫu số 3. Chi tiết tình hình chuyển quyền sở hữu chứng khoán
+
+| STT | Tên bên chuyển nhượng | Số đăng ký sở hữu của bên chuyển nhượng | Số Tài khoản giao dịch của bên chuyển nhượng | Tên bên nhận chuyển nhượng | Số đăng ký sở hữu của bên nhận chuyển nhượng | Số Tài khoản giao dịch của bên nhận chuyển nhượng | Mã chứng khoán chuyển nhượng quyền sở hữu | Số lượng chứng khoán chuyển nhượng quyền sở hữu | Ngày chuyển nhượng hiệu lực | Loại giao dịch | Ghi chú |
+
+|-----|-----------------------|-----------------------------------------|----------------------------------------------|----------------------------|----------------------------------------------|---------------------------------------------------|-------------------------------------------|-------------------------------------------------|-----------------------------|----------------|---------|
+
+| 1   | 2                     | 3                                       | 4                                            | 5                          | 6                                            | 7                                                 | 8                                         | 9                                               | 10                          | 11             | 12      |
+
+STT
+
+Tên bên chuyển nhượng
+
+Số đăng ký sở hữu của bên chuyển nhượng
+
+Số Tài khoản giao dịch của bên chuyển nhượng
+
+Tên bên nhận chuyển nhượng
+
+Số đăng ký sở hữu của bên nhận chuyển nhượng
+
+Số Tài khoản giao dịch của bên nhận chuyển nhượng
+
+Mã chứng khoán chuyển nhượng quyền sở hữu
+
+Số lượng chứng khoán chuyển nhượng quyền sở hữu
+
+Ngày chuyển nhượng hiệu lực
+
+Loại giao dịch
+
+Ghi chú
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+4. Thông tin và danh tính tài khoản giao dịch chứng khoán của nhà đầu tư mở tại các CTCK
+
+Mẫu số 4. Dữ liệu về thông tin và danh tính tài khoản giao dịch chứng khoán của NĐT
+
+Biểu 1: Thông tin và danh tính của NĐT mở tài khoản
+
+| STT | Tên khách hàng | Loại hình | Mã TKGD | Địa chỉ | Số đăng ký sở hữu | Ngày cấp | Nơi cấp | Ngày mở | Quốc tịch | Ghi chú        |
+
+|-----|----------------|-----------|---------|---------|-------------------|----------|---------|---------|-----------|----------------|
+
+| 1   |                | Tổ chức   |         |         |                   |          |         |         |           |                |
+
+| 2   |                | Cá nhân   |         |         |                   |          |         |         | Mỹ        | Người Việt Nam |
+
+STT
+
+Tên khách hàng
+
+Loại hình
+
+Mã TKGD
+
+Địa chỉ
+
+Số đăng ký sở hữu
+
+Ngày cấp
+
+Nơi cấp
+
+Ngày mở
+
+Quốc tịch
+
+Ghi chú
+
+1
+
+Tổ chức
+
+2
+
+Cá nhân
+
+Mỹ
+
+Người Việt Nam
+
+Biểu 2: Thông tin và danh tính của NĐT đóng tài khoản
+
+| STT | Tên khách hàng | Loại hình | Mã TKGD | Địa chỉ | Số đăng ký sở hữu | Ngày cấp | Nơi cấp | Ngày đóng | Quốc tịch | Ghi chú        |
+
+|-----|----------------|-----------|---------|---------|-------------------|----------|---------|-----------|-----------|----------------|
+
+| 1   |                | Tổ chức   |         |         |                   |          |         |           |           |                |
+
+| 2   |                | Cá nhân   |         |         |                   |          |         |           | Mỹ        | Người Việt Nam |
+
+STT
+
+Tên khách hàng
+
+Loại hình
+
+Mã TKGD
+
+Địa chỉ
+
+Số đăng ký sở hữu
+
+Ngày cấp
+
+Nơi cấp
+
+Ngày đóng
+
+Quốc tịch
+
+Ghi chú
+
+1
+
+Tổ chức
+
+2
+
+Cá nhân
+
+Mỹ
+
+Người Việt Nam
+
+Biểu 3: Thông tin và danh tính của NĐT thay đổi thông tin
+
+| STT | Tên khách hàng | Loại hình | Mã TKGD | Địa chỉ | Số đăng ký sở hữu | Ngày cấp | Nơi cấp | Quốc tịch | Ghi chú        |
+
+|-----|----------------|-----------|---------|---------|-------------------|----------|---------|-----------|----------------|
+
+| 1   |                | Tổ chức   |         |         |                   |          |         |           |                |
+
+| 2   |                | Cá nhân   |         |         |                   |          |         | Mỹ        | Người Việt Nam |
+
+STT
+
+Tên khách hàng
+
+Loại hình
+
+Mã TKGD
+
+Địa chỉ
+
+Số đăng ký sở hữu
+
+Ngày cấp
+
+Nơi cấp
+
+Quốc tịch
+
+Ghi chú
+
+1
+
+Tổ chức
+
+2
+
+Cá nhân
+
+Mỹ
+
+Người Việt Nam
+
+5. Thông tin về cổ đông lớn của các công ty đăng ký chứng khoán tại TTLKCK
+
+Mẫu số 5. Báo cáo về cổ đông lớn
+
+| STT         | Mã CK             | Số lượng đăng ký | Thông tin cổ đông | Đầu kỳ                      | Cuối kỳ | Ghi chú                     |         |   |    |    |    |
+
+|-------------|-------------------|------------------|-------------------|-----------------------------|---------|-----------------------------|---------|---|----|----|----|
+
+| Tên cổ đông | Số Đăng ký sở hữu | Ngày cấp         | Địa chỉ liên hệ   | Số lượng chứng khoán sở hữu | Tỷ lệ % | Số lượng chứng khoán sở hữu | Tỷ lệ % |   |    |    |    |
+
+| 1           | 2                 | 3                | 4                 | 5                           | 6       | 7                           | 8       | 9 | 10 | 11 | 12 |
+
+STT
+
+Mã CK
+
+Số lượng đăng ký
+
+Thông tin cổ đông
+
+Đầu kỳ
+
+Cuối kỳ
+
+Ghi chú
+
+Tên cổ đông
+
+Số Đăng ký sở hữu
+
+Ngày cấp
+
+Địa chỉ liên hệ
+
+Số lượng chứng khoán sở hữu
+
+Tỷ lệ %
+
+Số lượng chứng khoán sở hữu
+
+Tỷ lệ %
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+6. Hoạt động xử lý vi phạm đối với thành viên bù trừ
+
+Mẫu số 6. Xử lý vi phạm thành viên bù trừ
+
+| TVBT                           | Thông tin NĐT | Số lần vi phạm |      |      |                          |                 |  |
+
+|--------------------------------|---------------|----------------|------|------|--------------------------|-----------------|--|
+
+| Họ tên NĐT                     | Số ĐKSH       | Ngày cấp       | TKGD | TKKQ | % sử dụng tài sản ký quỹ | Giới hạn vị thế |  |
+
+| 001 - CTCP Chứng khoán         |               |                |      |      |                          |                 |  |
+
+|                                |               |                |      |      |                          |                 |  |
+
+|                                |               |                |      |      |                          |                 |  |
+
+| Cộng                           |               |                |      |      |                          |                 |  |
+
+| 002 - Công ty TNHH Chứng khoán |               |                |      |      |                          |                 |  |
+
+|                                |               |                |      |      |                          |                 |  |
+
+|                                |               |                |      |      |                          |                 |  |
+
+| Cộng                           |               |                |      |      |                          |                 |  |
+
+TVBT
+
+Thông tin NĐT
+
+Số lần vi phạm
+
+Họ tên NĐT
+
+Số ĐKSH
+
+Ngày cấp
+
+TKGD
+
+TKKQ
+
+% sử dụng tài sản ký quỹ
+
+Giới hạn vị thế
+
+001 - CTCP Chứng khoán
+
+Cộng
+
+002 - Công ty TNHH Chứng khoán
+
+Cộng
+
+7. Hỗ trợ thành viên bù trừ mất khả năng thanh toán
+
+Mẫu số 7: Hỗ trợ thành viên bù trừ mất khả năng thanh toán
+
+| STT | Mã TVBT | Tên TVBT | Ngày mất khả năng thanh toán | Tổng số tiền sử dụng | Nguồn sử dụng | Ghi chú |
+
+|-----|---------|----------|------------------------------|----------------------|---------------|---------|
+
+| 1   | 2       | 3        | 4                            | 5                    | 6             |         |
+
+STT
+
+Mã TVBT
+
+Tên TVBT
+
+Ngày mất khả năng thanh toán
+
+Tổng số tiền sử dụng
+
+Nguồn sử dụng
+
+Ghi chú
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Kiến nghị
+
+1. Về chính sách chế độ.
+
+2. Kiến nghị khác (nếu có).
+
+Ghi chú:
+
+- Kỳ báo cáo tại Phụ lục II được lập theo tháng Dương lịch;
+
+- Báo cáo được lập dưới hình thức file dữ liệu điện tử có định dạng Ecxel (đối với những dữ liệu báo cáo dưới dạng bảng biểu), font chữ Unicode Times New Roman.
+
+PHỤ LỤC III
+
+BÁO CÁO ĐỊNH KỲ CỦA TVGD (ban hành kèm theo Thông tư số…../…./TT-BTC ngày tháng…..năm của Bộ trưởng Bộ Tài chính hướng dẫn giám sát giao dịch chứng khoán trên TTCK)
+
+| CÔNG TY CHỨNG KHOÁN  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|----------------------|-----------------------------------------------------------------|
+
+| Số: ……/BCGS-....     | …, ngày… tháng… năm…..                                          |
+
+CÔNG TY CHỨNG KHOÁN -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: ……/BCGS-....
+
+…, ngày… tháng… năm…..
+
+BÁO CÁO GIÁM SÁT ĐỊNH KỲ THÁNG....../
+
+Báo cáo tình hình phát hiện và xử lý các dấu hiệu giao dịch bất thường trong tháng.../20..
+
+| STT | Nội dung báo cáo                                                                                                                  | Mã CK/nhóm TK | Dấu hiệu vi phạm | Khoảng thời gian giao dịch | Tình trạng xử lý |
+
+|-----|-----------------------------------------------------------------------------------------------------------------------------------|---------------|------------------|----------------------------|------------------|
+
+| 1   | Phát hiện dấu hiệu vi phạm các quy định về giao dịch chứng khoán của nhà đầu tư là khách hàng của CTCK, nhân viên CTCK;           |               |                  |                            |                  |
+
+| 2   | Phát hiện các dấu hiệu bất thường trong giao dịch của nhà đầu tư, nhóm nhà đầu tư có mối liên hệ với nhau là khách hàng của CTCK* |               |                  |                            |                  |
+
+| 3   | Vi phạm các quy định liên quan đến hoạt động ủy quyền giao dịch chứng khoán                                                       |               |                  |                            |                  |
+
+STT
+
+Nội dung báo cáo
+
+Mã CK/nhóm TK
+
+Dấu hiệu vi phạm
+
+Khoảng thời gian giao dịch
+
+Tình trạng xử lý
+
+1
+
+Phát hiện dấu hiệu vi phạm các quy định về giao dịch chứng khoán của nhà đầu tư là khách hàng của CTCK, nhân viên CTCK;
+
+2
+
+Phát hiện các dấu hiệu bất thường trong giao dịch của nhà đầu tư, nhóm nhà đầu tư có mối liên hệ với nhau là khách hàng của CTCK*
+
+3
+
+Vi phạm các quy định liên quan đến hoạt động ủy quyền giao dịch chứng khoán
+
+* Dấu hiệu bất thường của một nhóm nhà đầu tư gồm những dấu hiệu chính sau:
+
+a. Cùng ngày mở tài khoản, cùng địa chỉ liên hệ,cùng mua, cùng bán một loại chứng khoán làm ảnh hưởng đến giá, khối lượng của một hoặc nhiều mã chứng khoán.
+
+b. Cùng ngày mở tài khoản, cùng địa chỉ liên hệ, mua, bán qua lại với nhau làm ảnh hưởng đến giá, khối lượng của một hoặc nhiều mã CK
+
+c. Đặt, hủy lệnh liên tục hoặc liên tục đặt mua, đặt bán cùng 01 loại chứng khoán.
+
+CTCK... xin báo cáo SGDCK.
+
+| Nơi nhận: - Sở GDCK; - Vụ Giám sát TTCK-UBCKNN; - Lưu:....,VT. | CÔNG TY..... |
+
+|----------------------------------------------------------------|--------------|
+
+Nơi nhận: - Sở GDCK; - Vụ Giám sát TTCK-UBCKNN; - Lưu:....,VT.
+
+CÔNG TY.....
+
+Tài liệu đính kèm: thông tin chi tiết về tổ chức, cá nhân vi phạm

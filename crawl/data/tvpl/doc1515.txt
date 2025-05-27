@@ -1,0 +1,301 @@
+| BỘ TÀI CHÍNH        | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|---------------------|-----------------------------------------------------------------|
+
+| Số: 108/2018/TT-BTC | Hà Nội, ngày 15 tháng 11 năm 2018                               |
+
+BỘ TÀI CHÍNH --------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 108/2018/TT-BTC
+
+Hà Nội, ngày 15 tháng 11 năm 2018
+
+THÔNG TƯ
+
+HƯỚNG DẪN KẾ TOÁN DỰ TRỮ QUỐC GIA
+
+Căn cứ Luật Kế toán ngày 20 tháng 11 năm 2015;
+
+Căn cứ Luật Dự trữ quốc gia ngày 20 tháng 11 năm 2012;
+
+Căn cứ Nghị định số 174/2016/NĐ-CP ngày 30 tháng 12 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Kế toán;
+
+Căn cứ Nghị định số 94/2013/NĐ-CP ngày 21 tháng 8 năm 2013 của Chính phủ quy định chi tiết thi hành Luật Dự trữ Quốc gia;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Cục trưởng Cục Quản lý, giám sát kế toán, kiểm toán;
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn kế toán dự trữ quốc gia.
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+1. Thông tư này quy định chứng từ kế toán, tài khoản kế toán, sổ kế toán và báo cáo tài chính, báo cáo nghiệp vụ về hoạt động dự trữ quốc gia áp dụng cho các đơn vị quy định tại Điều 2 Thông tư này để hạch toán kế toán các nghiệp vụ kinh tế phát sinh liên quan đến hoạt động dự trữ quốc gia.
+
+2. Những nội dung không hướng dẫn trong Thông tư này, các đối tượng quy định tại Điều 2 Thông tư này thực hiện theo Chế độ kế toán hành chính sự nghiệp ban hành kèm theo Thông tư số 107/2017/TT-BTC ngày 10/10/2017 và các văn bản sửa đổi, bổ sung, thay thế Chế độ kế toán hành chính sự nghiệp (sau đây gọi tắt là Thông tư số 107) hoặc chế độ kế toán đặc thù được Bộ Tài chính chấp thuận.
+
+Điều 2. Đối tượng áp dụng
+
+Thông tư này áp dụng đối với:
+
+1. Các đơn vị dự trữ Nhà nước (gồm: Tổng cục Dự trữ nhà nước; Cục Dự trữ nhà nước khu vực; Chi cục dự trữ nhà nước);
+
+2. Các bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ trực tiếp quản lý hàng dự trữ quốc gia theo sự phân công của Chính phủ (sau đây gọi tắt là các bộ);
+
+3. Các cơ quan, tổ chức, cá nhân khác có liên quan đến công tác kế toán dự trữ quốc gia.
+
+Chương II
+
+QUY ĐỊNH CỤ THỂ
+
+Điều 3. Quy định về hệ thống chứng từ kế toán
+
+1. Ngoài các chứng từ kế toán ban hành theo Thông tư số 107/2017/TT-BTC ngày 10/10/2017 của Bộ Tài chính về chế độ kế toán hành chính sự nghiệp (Sau đây gọi tắt là Thông tư số 107/2017/TT-BTC), Thông tư này hướng dẫn bổ sung 12 chứng từ kế toán áp dụng cho các bộ, các đơn vị dự trữ Nhà nước.
+
+2. Danh mục, mẫu, giải thích nội dung và phương pháp lập 12 chứng từ kế toán bổ sung tại khoản 1, Điều này được quy định tại Phụ lục số 01 “Hệ thống chứng từ kế toán bổ sung” ban hành kèm theo Thông tư này.
+
+Điều 4. Quy định về hệ thống tài khoản kế toán
+
+Ngoài các tài khoản (TK) kế toán ban hành theo Thông tư số 107/2017/TT-BTC, Thông tư này hướng dẫn bổ sung 07 tài khoản cấp 1 trong bảng, 03 tài khoản ngoài bảng và mở chi tiết các TK cấp 2, 3 như sau:
+
+1. Bổ sung 07 tài khoản cấp 1:
+
+a) Tài khoản 145- Phải thu vốn dự trữ quốc gia: Phản ánh các khoản phải thu và tình hình thanh toán các khoản nợ phải thu dự trữ quốc gia.
+
+Tài khoản này có 04 Tài khoản cấp 2:
+
+- TK 1451- Hàng dự trữ quốc gia thiếu chờ xử lý: Phản ánh giá trị của khối lượng hàng dự trữ quốc gia thiếu hụt, mất mát và tình hình xử lý hàng dự trữ quốc gia thiếu hụt, mất mát đó.
+
+- TK 1452- Thu về bán hàng dự trữ quốc gia: Phản ánh các khoản thu và tình hình thanh toán các khoản thu về bán hàng dự trữ quốc gia, thu nợ vay trả bằng tiền theo quyết định của cấp có thẩm quyền.
+
+- TK 1453- Hàng dự trữ quốc gia thiếu hụt phải bồi thường: Phản ánh các khoản phải thu và tình hình thanh toán các khoản nợ phải thu về bồi thường vật chất do thiếu hụt quá định mức, bị mất mát, hư hỏng vật tư, hàng dự trữ quốc gia theo quyết định xử lý, bắt bồi thường.
+
+- TK 1458- Phải thu vốn dự trữ quốc gia khác: Phản ánh các khoản phải thu về dự trữ quốc gia khác như phải thu về cho vay hàng dự trữ quốc gia theo quyết định của cấp có thẩm quyền; phải thu vốn dự trữ quốc gia cấp hoặc điều chuyển hàng dự trữ quốc gia,...
+
+b) Tài khoản 151- Hàng dự trữ quốc gia đang đi đường: Phản ánh giá trị các loại hàng dự trữ quốc gia đã mua, đã thuộc quyền quản lý của đơn vị nhưng hàng chưa về nhập kho, còn đang trên đường vận chuyển, còn đang ở bến bãi hoặc đang gửi tại kho người bán, người vận chuyển.
+
+c) Tài khoản 157- Hàng dự trữ quốc gia: Phản ánh số hiện có và tình hình biến động giá trị các loại hàng dự trữ quốc gia, bao gồm hàng dự trữ quốc gia do đơn vị trực tiếp bảo quản và hàng dự trữ quốc gia thuê đơn vị khác bảo quản.
+
+Tài khoản này có 02 Tài khoản cấp 2:
+
+- TK 1571- Hàng dự trữ quốc gia trực tiếp bảo quản: phản ánh số hiện có và tình hình biến động giá trị các loại hàng dự trữ quốc gia do đơn vị trực tiếp bảo quản.
+
+- TK 1572- Hàng dự trữ quốc gia thuê bảo quản: phản ánh số hiện có và tình hình biến động giá trị các loại hàng dự trữ quốc gia thuê đơn vị khác bảo quản.
+
+d) Tài khoản 158- Hàng dự trữ quốc gia tạm xuất: Phản ánh hàng dự trữ quốc gia tạm xuất và tình hình biến động các loại hàng dự trữ quốc gia tạm xuất, bao gồm hàng dự trữ quốc gia xuất gia công; hàng dự trữ quốc gia luân phiên đổi hàng; hàng dự trữ quốc gia tạm xuất sử dụng; hàng dự trữ quốc gia tạm xuất khác.
+
+Tài khoản này có 04 Tài khoản cấp 2:
+
+- TK 1581- Hàng dự trữ quốc gia xuất gia công: phản ánh số hiện có và tình hình biến động giá trị các loại hàng dự trữ quốc gia đơn vị xuất gia công.
+
+- TK 1582- Hàng dự trữ quốc gia xuất luân phiên đổi hàng: phản ánh số hiện có và tình hình biến động giá trị các loại hàng dự trữ quốc gia luân phiên đổi hàng.
+
+- TK 1583- Hàng dự trữ quốc gia tạm xuất sử dụng: phản ánh số hiện có và tình hình biến động giá trị các loại hàng dự trữ quốc gia đơn vị tạm xuất sử dụng.
+
+- TK 1588- Hàng dự trữ quốc gia tạm xuất khác: phản ánh số hiện có và tình hình biến động giá trị các loại hàng dự trữ quốc gia tạm xuất khác.
+
+đ) Tài khoản 345- Phải trả vốn dự trữ quốc gia: Phản ánh các khoản phải trả của hoạt động dự trữ quốc gia.
+
+Tài khoản này có 04 Tài khoản cấp 2:
+
+- TK 3451- Hàng dự trữ quốc gia thừa chờ xử lý: phản ánh giá trị của khối lượng hàng dự trữ quốc gia thừa chưa xác định rõ nguyên nhân và tình hình xử lý hàng dự trữ thừa.
+
+- TK 3452- Phải trả về mua hàng dự trữ quốc gia: phản ánh các khoản nợ phải trả và tình hình thanh toán các khoản nợ phải trả của đơn vị với người bán hàng dự trữ quốc gia, không phản ánh vào tài khoản này các nghiệp vụ trả tiền ngay.
+
+- TK 3453- Ứng vốn dự trữ quốc gia: Phản ánh số vốn dự trữ quốc gia đã ứng của NSNN, tình hình thanh toán số vốn đã ứng trong thời gian dự toán chi ngân sách chưa được cấp có thẩm quyền giao và theo dõi tình hình ứng vốn giữa cấp trên với cấp dưới.
+
+Tài khoản này có 02 Tài khoản cấp 3:
+
++ TK 34531- Ứng vốn dự trữ quốc gia từ ngân sách nhà nước: Phản ánh số vốn dự trữ quốc gia đơn vị đã ứng của ngân sách nhà nước.
+
++ TK 34532- Ứng nội bộ vốn dự trữ quốc gia: Phản ánh ứng vốn dự trữ quốc gia giữa cấp trên với cấp dưới.
+
+- TK 3458- Phải trả vốn dự trữ quốc gia khác: Phản ánh các khoản phải trả vốn dự trữ quốc gia khác như hoạt động bán thanh lý hàng dự trữ quốc gia; phải trả về vốn dự trữ quốc gia nhận từ cấp trên cấp hoặc điều chuyển.
+
+e) Tài khoản 432- Quỹ tiết kiệm phí:
+
+Tài khoản 432- Quỹ tiết kiệm phí: Phản ánh số tiền chênh lệch giữa tổng kinh phí được hưởng theo định mức trừ đi tổng chi phí thực tế để thực hiện nhập, xuất, cứu trợ, hỗ trợ, viện trợ và bảo quản hàng dự trữ quốc gia theo quy định tại Thông tư số 145/2013/TT-BTC ngày 21/10/2013 của Bộ Tài chính về kế hoạch dự trữ quốc gia và NSNN chi cho dự trữ quốc gia và các văn bản sửa đổi, bổ sung Thông tư 145/2013/TT-BTC.
+
+Tài khoản này có 02 Tài khoản cấp 2:
+
+- TK 4321- Quỹ tiết kiệm phí: Phản ánh việc hình thành và sử dụng quỹ tiết kiệm phí bằng tiền của đơn vị.
+
+- TK 4322- Quỹ tiết kiệm phí hình thành TSCĐ: Phản ánh việc hình thành và sử dụng quỹ tiết kiệm phí bằng TSCĐ của đơn vị.
+
+g) Tài khoản 451- Nguồn vốn dự trữ quốc gia: Phản ánh số hiện có và tình hình tăng, giảm nguồn vốn dự trữ quốc gia tại đơn vị.
+
+2. Bổ sung 03 tài khoản ngoài bảng:
+
+a) Tài khoản 010- Dự toán chi dự trữ quốc gia: Phản ánh số dự toán chi mua hàng dự trữ quốc gia được cấp có thẩm quyền giao và việc rút dự toán ra sử dụng.
+
+Tài khoản này mở các Tài khoản cấp 2, cấp 3 được theo dõi năm trước, năm nay, năm sau và tạm ứng, thực chi theo quy định của luật NSNN và theo yêu cầu quản lý.
+
+b) Tài khoản 011- Kinh phí theo định mức: Phản ánh số kinh phí nhập, xuất, bảo quản, cứu trợ, viện trợ đơn vị được hưởng theo định mức hoặc mức phí được cơ quan có thẩm quyền phê duyệt và số dự toán đơn vị đã được giao.
+
+Tài khoản này mở các Tài khoản cấp 2 để theo dõi chi phí nhập, xuất, bảo quản, cứu trợ, viện trợ hàng dự trữ quốc gia.
+
+c) Tài khoản 015- Chi phí đã phát sinh nhưng chưa thực hiện: Phản ánh số chi phí nhập, xuất, bảo quản, cứu trợ, viện trợ,... đã phát sinh theo kế hoạch được giao nhưng đơn vị chưa thực hiện nhập, xuất, bảo quản, cứu trợ, viện trợ,... hàng dự trữ quốc gia.
+
+3. Mở chi tiết các tài khoản cấp 2, cấp 3:
+
+a) Tài khoản 111 - Tiền mặt
+
+- Mở chi tiết 02 tài khoản cấp 3 cho tài khoản 1111 “Tiền Việt Nam”:
+
++ TK 11111- Tiền mặt vốn dự trữ quốc gia (tiền Việt Nam);
+
++ TK 11118- Tiền mặt khác (tiền Việt Nam);
+
+- Mở chi tiết 02 tài khoản cấp 3 cho tài khoản 1112 “Ngoại tệ”:
+
++ TK 11121- Tiền mặt vốn dự trữ quốc gia (ngoại tệ);
+
++ TK 11128- Tiền mặt khác (ngoại tệ).
+
+b) Tài khoản 112 - Tiền gửi Ngân hàng, Kho bạc
+
+- Mở chi tiết 02 tài khoản cấp 3 cho tài khoản 1121 “Tiền Việt Nam”:
+
++ TK 11211- Tiền gửi vốn dự trữ quốc gia (tiền Việt Nam);
+
++ TK 11218- Tiền gửi khác (tiền Việt Nam);
+
+- Mở chi tiết 02 tài khoản cấp 3 cho tài khoản 1122 “Ngoại tệ”:
+
++ TK 11221- Tiền gửi vốn dự trữ quốc gia (ngoại tệ);
+
++ TK 11228- Tiền gửi khác (ngoại tệ).
+
+c) Tài khoản 141- Tạm ứng
+
+Mở chi tiết 02 tài khoản cấp 2:
+
+- TK 1411- Tạm ứng hoạt động thường xuyên;
+
+- TK 1415- Tạm ứng vốn mua hàng dự trữ quốc gia.
+
+d) Tài khoản 333- Các khoản phải nộp nhà nước:
+
+Mở chi tiết 02 tài khoản cấp 3 cho Tài khoản 3338- Các khoản phải nộp nhà nước khác:
+
+- TK 33381- Các khoản phải nộp về vốn dự trữ quốc gia;
+
+- TK 33388- Các khoản phải nộp khác.
+
+đ) Tài khoản 511- Thu hoạt động do NSNN cấp:
+
+Mở chi tiết 01 tài khoản cấp 2: TK 5113 - Thu nghiệp vụ dự trữ quốc gia.
+
+e) Tài khoản 611- Chi phí hoạt động:
+
+Mở chi tiết 01 tài khoản cấp 2: TK 6113 - Chi nghiệp vụ dự trữ quốc gia.
+
+Mở chi tiết 05 tài khoản cấp 3: TK 61131 - Chi phí nhập hàng dự trữ quốc gia; TK 61132 - Chi phí xuất hàng dự trữ quốc gia; TK 61133 - Chi phí bảo quản hàng dự trữ quốc gia; TK 61134 - Chi phí xuất hàng dự trữ quốc gia cứu trợ, hỗ trợ, viện trợ; TK 61135 - Chi phí nghiệp vụ dự trữ quốc gia.
+
+4. Danh mục tài khoản kế toán (sau khi bổ sung theo Thông tư này), nguyên tắc, kết cấu nội dung và phương pháp hạch toán một số hoạt động kinh tế chủ yếu của các Tài khoản bổ sung, mở chi tiết theo Thông tư này được quy định tại Phụ lục số 02 “Hệ thống Tài khoản kế toán dự trữ quốc gia” ban hành kèm theo Thông tư này.
+
+Điều 5. Quy định về hệ thống sổ kế toán
+
+1. Ngoài các sổ kế toán ban hành theo Thông tư số 107/2017/TT-BTC, Thông tư này hướng dẫn bổ sung 08 sổ kế toán chi tiết áp dụng cho các bộ, các đơn vị dự trữ Nhà nước.
+
+2. Danh mục, mẫu, giải thích nội dung và phương pháp ghi chép 08 sổ kế toán bổ sung tại khoản 1 Điều này được quy định tại Phụ lục số 03 “Hệ thống sổ kế toán bổ sung” ban hành kèm theo Thông tư này.
+
+Điều 6. Quy định về hệ thống báo cáo tài chính, báo cáo quyết toán áp dụng đối với hoạt động tài chính nội ngành của các đơn vị kế toán thuộc hệ thống dự trữ nhà nước
+
+1. Các đơn vị kế toán cơ sở thuộc hệ thống dự trữ nhà nước phải lập báo cáo tài chính, báo cáo quyết toán cho hoạt động tài chính nội ngành của đơn vị theo quy định tại Thông tư 107/2017/TT-BTC ngày 10/10/2017 về hướng dẫn chế độ kế toán hành chính, sự nghiệp. Ngoài ra đơn vị phải lập báo cáo thuyết minh tình hình thực hiện các chỉ tiêu của nhiệm vụ dự trữ quốc gia theo quy định tại Thông tư này.
+
+Danh mục báo cáo tài chính, báo cáo quyết toán cho hoạt động tài chính nội ngành của đơn vị và mẫu biểu báo cáo “thuyết minh tình hình thực hiện các chỉ tiêu của nhiệm vụ dự trữ quốc gia” quy định tại Phụ lục số 04 “Hệ thống báo cáo tài chính, báo cáo quyết toán áp dụng đối với hoạt động tài chính nội ngành của các đơn vị thuộc hệ thống dự trữ nhà nước” ban hành kèm theo Thông tư này.
+
+2. Đơn vị kế toán cấp trên thuộc hệ thống Dự trữ nhà nước phải lập báo cáo tài chính tổng hợp cho số liệu hoạt động tài chính nội ngành theo quy định tại Thông tư số 99/2018/TT-BTC ngày 01/11/2018 về hướng dẫn lập báo cáo tài chính tổng hợp của đơn vị kế toán nhà nước là đơn vị kế toán cấp trên.
+
+3. Ngoài các báo cáo quy định trên đây, Tổng cục dự trữ nhà nước còn phải lập các báo cáo khác cho hoạt động tài chính nội ngành theo yêu cầu của cơ quan có thẩm quyền (nếu có).
+
+Điều 7. Quy định áp dụng hệ thống báo cáo tài chính, báo cáo nghiệp vụ về hoạt động dự trữ quốc gia
+
+1. Báo cáo tài chính hoạt động dự trữ quốc gia
+
+a) Đối tượng lập báo cáo
+
+(1) Đơn vị kế toán cơ sở
+
+Các đơn vị kế toán cơ sở được nhà nước giao quản lý vốn dự trữ quốc gia phải lập báo cáo tài chính hoạt động dự trữ quốc gia theo quy định của Thông tư này, bao gồm:
+
+- Đơn vị kế toán cơ sở thuộc hệ thống dự trữ nhà nước.
+
+- Các đơn vị kế toán cơ sở thuộc các Bộ, ngành được giao quản lý vốn và hàng hóa dự trữ quốc gia.
+
+(2) Đơn vị kế toán cấp trên
+
+- Đơn vị kế toán cấp trên được giao quản lý vốn và hàng hóa dự trữ quốc gia phải lập báo cáo tài chính hoạt động dự trữ quốc gia tổng hợp từ các đơn vị kế toán trực thuộc theo quy định của Thông tư này.
+
+- Các đơn vị lập báo cáo tài chính hoạt động dự trữ quốc gia tổng hợp bao gồm:
+
++ Cục dự trữ nhà nước khu vực lập báo cáo tài chính hoạt động dự trữ quốc gia tổng hợp từ số liệu báo cáo tài chính hoạt động dự trữ quốc gia của các Chi cục dự trữ nhà nước.
+
++ Tổng cục dự trữ nhà nước lập báo cáo tài chính tổng hợp từ số liệu báo cáo tài chính hoạt động dự trữ quốc gia của các Cục dự trữ nhà nước khu vực và các Bộ, ngành.
+
++ Các Bộ, ngành được giao quản lý vốn và hàng hóa dự trữ quốc gia lập báo cáo tài chính hoạt động dự trữ quốc gia tổng hợp từ số liệu báo cáo tài chính hoạt động dự trữ quốc gia của các đơn vị kế toán trực thuộc.
+
+- Phương pháp lập báo cáo tài chính hoạt động dự trữ quốc gia tổng hợp: Đơn vị kế toán cấp trên lập ”Bảng tổng hợp các chỉ tiêu báo cáo tài chính hoạt động dự trữ quốc gia” cho các chỉ tiêu chi tiết thuộc hoạt động dự trữ quốc gia để hợp cộng chỉ tiêu tương ứng trên báo cáo tài chính hoạt động dự trữ quốc gia của các đơn vị kế toán trực thuộc trong phạm vi lập báo cáo tài chính tổng hợp, đồng thời xác định các giao dịch nội bộ thuộc hoạt động dự trữ quốc gia để loại trừ khi tổng hợp.
+
+(Mẫu biểu Bảng tổng hợp các chỉ tiêu báo cáo tài chính hoạt động dự trữ quốc gia theo phụ lục số 05 ban hành kèm theo Thông tư này).
+
+b) Mục đích của báo cáo tài chính hoạt động dự trữ quốc gia
+
+Báo cáo tài chính hoạt động dự trữ quốc gia của đơn vị kế toán dùng để cung cấp thông tin tài chính về hoạt động dự trữ quốc gia mà nhà nước giao cho đơn vị quản lý nhằm cung cấp cho những người có liên quan để xem xét và đưa ra các quyết định về các hoạt động dự trữ quốc gia. Đồng thời là thông tin cơ sở để cung cấp cho tổng hợp báo cáo tài chính hoạt động dự trữ quốc gia của đơn vị kế toán cấp trên.
+
+Báo cáo tài chính hoạt động dự trữ quốc gia của Tổng cục dự trữ nhà nước đồng thời cung cấp thông tin để tổng hợp báo cáo tài chính nhà nước.
+
+c) Thời hạn nộp báo cáo tài chính hoạt động dự trữ quốc gia
+
+Thời hạn nộp báo cáo tài chính hoạt động dự trữ quốc gia do Tổng cục dự trữ nhà nước quy định để đảm bảo thời gian tổng hợp số liệu cho lập báo cáo tài chính nhà nước và báo cáo các cơ quan, đơn vị có liên quan theo quy định.
+
+d) Công khai báo cáo tài chính hoạt động dự trữ quốc gia
+
+Báo cáo tài chính hoạt động dự trữ quốc gia được công khai theo quy định của pháp luật về hoạt động dự trữ quốc gia và các văn bản khác có liên quan.
+
+đ) Danh mục, mẫu biểu, giải thích nội dung và phương pháp lập hệ thống báo cáo tài chính hoạt động dự trữ quốc gia quy định tại Phụ lục số 06 “Hệ thống báo cáo tài chính, báo cáo nghiệp vụ về hoạt động dự trữ quốc gia” ban hành kèm theo Thông tư này.
+
+2. Báo cáo nghiệp vụ về hoạt động dự trữ quốc gia
+
+a) Đơn vị kế toán được nhà nước giao vốn dự trữ quốc gia phải lập báo cáo nghiệp vụ về hoạt động dự trữ quốc gia theo quy định của Thông tư này.
+
+Danh mục, mẫu biểu của hệ thống báo cáo nghiệp vụ về hoạt động dự trữ quốc gia quy định tại Phụ lục số 06 “Hệ thống báo cáo tài chính, báo cáo nghiệp vụ về hoạt động dự trữ quốc gia” ban hành kèm theo Thông tư này.
+
+b) Giải thích nội dung và phương pháp lập hệ thống báo cáo nghiệp vụ về hoạt động dự trữ quốc gia do Tổng cục dự trữ nhà nước hướng dẫn nhằm phù hợp với yêu cầu quản lý và báo cáo cơ quan có thẩm quyền.
+
+c) Ngoài các báo cáo quy định tại chế độ này, các đơn vị có quản lý vốn dự trữ quốc gia còn phải lập các báo cáo khác theo yêu cầu của cơ quan có thẩm quyền (nếu có).
+
+Chương III
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 8. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực từ ngày 01 tháng 01 năm 2019.
+
+2. Thông tư này thay thế Thông tư số 142/2014/TT-BTC ngày 25 tháng 9 năm 2014 của Bộ trưởng Bộ Tài chính về việc hướng dẫn kế toán dự trữ quốc gia.
+
+Điều 9. Tổ chức thực hiện
+
+1. Các bộ, ngành quản lý hàng dự trữ quốc gia, các đơn vị dự trữ Nhà nước chịu trách nhiệm chỉ đạo và triển khai thực hiện Thông tư hướng dẫn kế toán dự trữ quốc gia thuộc phạm vi quản lý.
+
+2. Cục trưởng Cục quản lý giám sát kế toán, kiểm toán; Tổng cục trưởng Tổng cục Dự trữ Nhà nước và Thủ trưởng các đơn vị liên quan chịu trách nhiệm thực hiện Thông tư này./.
+
+|  | KT. BỘ TRƯỞNG THỨ TRƯỞNG Đỗ Hoàng Anh Tuấn |
+
+|--|--------------------------------------------|
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Đỗ Hoàng Anh Tuấn
+
+| FILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN |
+
+|---------------------------------|
+
+FILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN

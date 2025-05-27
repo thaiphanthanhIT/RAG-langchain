@@ -1,0 +1,5495 @@
+| BỘ TÀI CHÍNH   | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|----------------|-----------------------------------------------------------------|
+
+| Số: 302/QĐ-BTC | Hà Nội, ngày 15 tháng 02 năm 2017                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 302/QĐ-BTC
+
+Hà Nội, ngày 15 tháng 02 năm 2017
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH QUY CHẾ BÁO CÁO TÌNH HÌNH TRIỂN KHAI ỨNG DỤNG CÔNG NGHỆ THÔNG TIN TẠI CÁC ĐƠN VỊ THUỘC BỘ TÀI CHÍNH
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 về ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước;
+
+Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23/12/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Nghị định số 102/2009/NĐ-CP ngày 06/11/2009 của Chính phủ về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước;
+
+Căn cứ Quyết định số 2699/QĐ-BTC ngày 10/11/2011 của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế quản lý đầu tư ứng dụng công nghệ thông tin tại các cơ quan hành chính, đơn vị sự nghiệp thuộc Bộ Tài chính;
+
+Căn cứ Quyết định số 2929/QĐ-BTC ngày 5/12/2011 của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế làm việc của Bộ Tài chính;
+
+Theo đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính và Chánh Văn phòng Bộ,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo quyết định này Quy chế báo cáo tình hình triển khai ứng dụng công nghệ thông tin tại các đơn vị thuộc Bộ Tài chính.
+
+Điều 2. Quyết định này thay thế Quyết định số 912/QĐ-BTC ngày 26/4/2013 của Bộ trưởng Bộ Tài chính và có hiệu lực thi hành kể từ ngày ký.
+
+Điều 3. Cục trưởng Cục Tin học và Thống kê tài chính, Chánh Văn phòng Bộ, thủ trưởng các cơ quan hành chính, đơn vị sự nghiệp thuộc Bộ Tài chính và thủ trưởng các đơn vị liên quan chịu trách nhiệm thi hành quyết định này. Trong quá trình thực hiện chế độ báo cáo, nếu có khó khăn, vướng mắc, các đơn vị phản ánh về Bộ Tài chính để xem xét, giải quyết./.
+
+| Nơi nhận: - Như điều 3; - Lãnh đạo Bộ (để báo cáo); - Các đơn vị, tổ chức thuộc BTC; - Lưu: VT, THTK. | KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai |
+
+|-------------------------------------------------------------------------------------------------------|-------------------------------------|
+
+Nơi nhận: - Như điều 3; - Lãnh đạo Bộ (để báo cáo); - Các đơn vị, tổ chức thuộc BTC; - Lưu: VT, THTK.
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai
+
+QUY CHẾ
+
+BÁO CÁO TÌNH HÌNH TRIỂN KHAI ỨNG DỤNG CÔNG NGHỆ THÔNG TIN TẠI CÁC CƠ QUAN, ĐƠN VỊ THUỘC BỘ TÀI CHÍNH (Ban hành kèm theo Quyết định số 302/QĐ-BTC ngày 15 tháng 02 năm 2017 của Bộ trưởng Bộ Tài chính)
+
+Điều 1. Phạm vi điều chỉnh
+
+Quy chế này quy định chế độ báo cáo tình hình triển khai các hoạt động ứng dụng công nghệ thông tin tại các cơ quan, đơn vị thuộc Bộ Tài chính.
+
+Điều 2. Đối tượng áp dụng
+
+Quy chế này áp dụng đối với: Kho bạc Nhà nước, Tổng cục Thuế, Tổng cục Hải quan, Ủy ban Chứng khoán Nhà nước, Tổng cục Dự trữ Nhà nước, Cục Tin học và Thống kê tài chính, Học viện Tài chính, các trường trực thuộc Bộ và các đơn vị thuộc Bộ Tài chính được phê duyệt danh mục dự toán ứng dụng công nghệ thông tin.
+
+Điều 3. Nội dung và biểu mẫu báo cáo
+
+Để quy định cụ thể báo cáo kết quả triển khai theo danh mục dự toán và các báo cáo theo quy định của nhà nước, Cục THTK đề xuất bổ sung theo quy định như sau:
+
+1. Về nội dung báo cáo triển khai ứng dụng CNTT phục vụ yêu cầu quản lý của Bộ Tài chính (nhiệm vụ và giải ngân theo danh mục dự toán):
+
+- Báo cáo tháng gồm các nội dung: Dự toán kinh phí Bộ giao đến thời điểm báo cáo; kinh phí giải ngân đến thời điểm báo cáo; kết quả triển khai đến thời điểm báo cáo, kế hoạch triển khai tháng tiếp theo; đề xuất kiến nghị và nguyên nhân chậm (nếu có). Thực hiện báo cáo theo Biểu 01.UDCNTT.
+
+- Báo cáo 6 tháng đầu năm gồm các nội dung: Đánh giá tình hình thực hiện triển khai CNTT 6 tháng đầu năm; kế hoạch và biện pháp triển khai công việc 6 tháng cuối năm; đề xuất, kiến nghị của đơn vị. Thực hiện báo cáo theo Biểu 01.UDCNTT và Biểu 02.UDCNTT.
+
+- Báo cáo năm gồm các nội dung: Đánh giá tình hình triển khai CNTT năm báo cáo; Kế hoạch và biện pháp triển khai công việc năm tiếp theo; Những khó khăn, vướng mắc trong quá trình triển khai công việc và kiến nghị biện pháp khắc phục. Thực hiện báo cáo theo Biểu 01.UDCNTT và Biểu 03.UDCNTT.
+
+2. Về báo cáo theo quy định của nhà nước:
+
+- Báo cáo theo quy định tại Thông tư 12/2010/TT-BTTTT ngày 18/05/2010 của Bộ Thông tin và Truyền thông về việc quy định việc cập nhật thông tin dự án đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước vào Cơ sở dữ liệu quốc gia về các dự án ứng dụng công nghệ thông tin, thực hiện báo cáo theo Biểu 04.UDCNTT.
+
+- Báo cáo theo quy định tại Thông tư số 23/2010/TT-BTTTT ngày 15/10/2010 của Bộ Thông tin và Truyền thông về việc Quy định về cung cấp thông tin trên Trang thông tin điện tử về năng lực quản lý, đầu tư công nghệ thông tin, thực hiện báo cáo theo Biểu 05.UDCNTT
+
+- Báo cáo theo quy định tại Thông tư số 06/2013/TT-BTTTT ngày 07/3/2013 của Bộ Thông tin và Truyền thông về việc báo cáo định kỳ về tình hình triển khai ứng dụng công nghệ thông tin của cơ quan nhà nước, thực hiện báo cáo theo Biểu 06.UDCNTT
+
+- Báo cáo theo quy định tại Thông tư số 25/2014/TT-BTTTT ngày 30/12/2014 của Bộ Thông tin và Truyền thông quy định về triển khai các hệ thống thông tin có quy mô và phạm vi từ Trung ương đến địa phương, thực hiện báo cáo theo Biểu 07.UDCNTT.
+
+Điều 4. Hình thức báo cáo
+
+1. Các báo cáo về hoạt động ứng dụng công nghệ thông tin được thực hiện theo 02 hình thức sau:
+
+a) Báo cáo gửi bằng văn bản:
+
+- Đối với báo cáo theo quy định của nhà nước Thông tư số 12/2010/TT-BTTTT; Thông tư số 23/2010/TT-BTTTT; Thông tư số 06/2013/TT-BTTTT; Thông tư số 25/2014/TT-BTTTT; Báo cáo 6 tháng đầu năm; Báo cáo năm; Báo cáo tình hình thực hiện Nghị quyết số 36a/NQ-CP hàng tháng đề xuất, kiến nghị và các báo cáo đột xuất, theo yêu cầu.
+
+- Báo cáo bằng văn bản phải có chữ ký, dấu của thủ trưởng đơn vị, số điện thoại cố định, di động, thư điện tử (email) của người lập biểu để thuận lợi cho việc kiểm tra, đối chiếu, xử lý số liệu.
+
+b) Báo cáo trên phần mềm:
+
+- Đối với báo cáo tháng về tiến độ và kinh phí các nhiệm vụ theo danh mục dự toán được.
+
+- Sử dụng một tài khoản được cấp phát của hệ thống ứng dụng báo cáo CNTT để báo cáo trực tiếp.
+
+- Đơn vị thực hiện cập nhật ngay vào phần mềm ứng dụng khi có phát sinh tiến độ và giải ngân các nội dung về danh mục dự toán đã được phê duyệt.
+
+2. Các báo cáo được lập theo quy định tại các biểu mẫu kèm theo Quy chế này.
+
+Điều 5. Thời hạn gửi báo cáo
+
+1. Các báo cáo tình hình triển khai theo danh mục dự toán ứng dụng công nghệ thông tin phục vụ quản lý nội bộ:
+
+a) Về quy định thời hạn của các đơn vị gửi báo cáo về Bộ (Cục THTK):
+
+- Báo cáo tháng: Trước ngày 20 của tháng báo cáo.
+
+- Báo cáo 6 tháng đầu năm: Trước ngày 20 tháng 6 của năm báo cáo.
+
+- Báo cáo năm: Trước ngày 15 tháng 12 của năm báo cáo.
+
+b) Về quy định thời hạn tổng hợp báo cáo Lãnh đạo Bộ của Cục Tin học và Thống kê tài chính:
+
+- Báo cáo tháng: Trước ngày 25 của tháng báo cáo.
+
+- Báo cáo 6 tháng đầu năm: Trước ngày 25 tháng 6 của năm báo cáo.
+
+- Báo cáo năm: Trước ngày 25 tháng 12 của năm báo cáo.
+
+2. Các báo cáo theo quy định của nhà nước:
+
+a) Báo cáo theo yêu cầu của Thông tư số 12/2010/TT-BTTTT cập nhật thông tin dự án đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước:
+
+- Các đơn vị gửi báo cáo:
+
++ Đối với Báo cáo giai đoạn 1: Chậm nhất không quá 30 ngày kể từ ngày dự án đầu tư được phê duyệt.
+
++ Đối với Báo cáo giai đoạn 2: Chậm nhất không quá 90 ngày kể từ ngày nghiệm thu, bàn giao tổng thể dự án.
+
+- Cục THTK tổng hợp báo cáo của các đơn vị gửi Bộ Thông tin và Truyền thông: Chậm nhất vào ngày 31 tháng 12 của năm báo cáo.
+
+b) Báo cáo theo yêu cầu của Thông tư số 06/2013/TT-BTTTT về lập và quản lý chi phí đầu tư ứng dụng công nghệ thông tin:
+
+- Các đơn vị gửi báo cáo: Trước ngày 15 tháng 1 hàng năm.
+
+- Cục THTK tổng hợp báo cáo của các đơn vị gửi Bộ Thông tin và Truyền thông: Trước ngày 1 tháng 2 hàng năm.
+
+c) Báo cáo theo yêu cầu của Thông tư 23/2010/TT-BTTTT cung cấp thông tin về năng lực quản lý, đầu tư ứng dụng công nghệ thông tin:
+
+- Các đơn vị gửi báo cáo: trước ngày 15 tháng 6 và tháng 12 hàng năm.
+
+- Cục THTK tổng hợp báo cáo của các đơn vị gửi Bộ Thông tin và Truyền thông: trước ngày 30 tháng 6 và tháng 12 hàng năm.
+
+d) Báo cáo theo yêu cầu của Thông tư số 25/2014/TT-BTTTT về triển khai các hệ thống thông tin có quy mô và phạm vi từ Trung ương đến địa phương:
+
+- Các đơn vị gửi báo cáo: Trong thời hạn 06 tháng kể từ ngày hệ thống thông tin được nghiệm thu, đưa vào khai thác sử dụng.
+
+- Cục THTK tổng hợp báo cáo của các đơn vị gửi Bộ Thông tin và Truyền thông: Sau 5 ngày nhận được văn bản chính thức của các đơn vị.
+
+Điều 6. Địa chỉ gửi, nhận báo cáo
+
+1. Báo cáo gửi trên phần mềm: Đơn vị thực hiện báo cáo truy cập theo địa chỉ https://bcdt.mof.gov.vn.
+
+2. Báo cáo bằng văn bản gửi về địa chỉ: Cục Tin học và Thống kê tài chính và Cục Kế hoạch - Tài chính, số 28 Trần Hưng Đạo, Quận Hoàn Kiếm, Hà Nội (đồng thời gửi bản mềm vào hòm thư theo địa chỉ: baocaocntt@mof.gov.vn và cntt_khtc@mof.gov.vn.).
+
+Điều 7. Trách nhiệm của cơ quan, đơn vị báo cáo, tổng hợp báo cáo
+
+1. Các cơ quan, đơn vị báo cáo có trách nhiệm tuân thủ chế độ báo cáo về thời hạn, nội dung báo cáo theo quy định tại Quy chế này và hoàn toàn chịu trách nhiệm về tính chính xác, đầy đủ, trung thực của nội dung báo cáo.
+
+Đối với các cơ quan, đơn vị có nhiều đầu mối quản lý, thủ trưởng các cơ quan, đơn vị có trách nhiệm quy định, thông báo, hướng dẫn các đầu mối thuộc phạm vi quản lý của mình thực hiện báo cáo tình hình triển khai các hoạt động ứng dụng công nghệ thông tin để tổng hợp gửi Bộ Tài chính trên nguyên tắc bảo đảm thời hạn và nội dung theo đúng quy định.
+
+Trường hợp quá thời hạn, đơn vị chưa gửi báo cáo theo quy định hoặc gửi báo cáo nhưng chưa đầy đủ nội dung theo yêu cầu, Cục Tin học và Thống kê tài chính sẽ tổng hợp tình hình triển khai ứng dụng công nghệ thông tin của đơn vị theo thông tin mà Cục Tin học và Thống kê tài chính có được ở thời điểm tổng hợp báo cáo. Thủ trưởng các đơn vị chịu hoàn toàn trách nhiệm trước Bộ về các nội dung tổng hợp đánh giá tình hình triển khai ứng dụng công nghệ thông tin của đơn vị.
+
+2. Cục Tin học và Thống kê tài chính có trách nhiệm:
+
+- Theo dõi, kiểm tra, đôn đốc và hướng dẫn việc thực hiện báo cáo.
+
+- Cập nhật và lưu trữ thông tin báo cáo theo đúng quy định của pháp luật.
+
+- Tổng hợp báo cáo Bộ trưởng Bộ Tài chính tình hình triển khai ứng dụng công nghệ thông tin toàn ngành theo tháng, 6 tháng và hàng năm; Báo cáo Bộ các kiến nghị, đề xuất của các đơn vị hệ thống và thông báo hướng xử lý của Bộ về các kiến nghị, đề xuất để các đơn vị, hệ thống tổ chức thực hiện; Công khai báo cáo trên Trang thông tin điện tử của Bộ Tài chính.
+
+- Thực hiện nâng cấp, cập nhật phần mềm Quản lý báo cáo và đầu tư CNTT để đảm bảo đáp ứng kịp thời thay đổi về cơ chế chính sách và những yêu cầu thực tế./.
+
+Biểu 01.UDCNTT
+
+BÁO CÁO ĐÁNH GIÁ TÌNH HÌNH TRIỂN KHAI ỨNG DỤNG CNTT THÁNG (N) VÀ KẾ HOẠCH TRIỂN KHAI THÁNG (N+1)
+
+Đơn vị:
+
+| STT       | Nội dung                      | Tổng dự toán được duyệt | Lũy kế dự toán đã bố trí đến 31/12 trước năm báo cáo | Danh mục dự toán | Các năm tiếp theo   | Dự toán năm báo cáo Bộ Tài chính giao đến thời điểm báo cáo | Giải ngân đến thời điểm báo cáo | Dự kiến giải ngân đến thời ngày cuối cùng tháng báo cáo | Ước thực hiện đến cuối năm báo cáo (%) | Kết quả thực hiện tháng báo cáo | Kế hoạch triển khai tháng tiếp theo | Ghi chú    |                      |            |                     |           |            |                        |    |    |    |    |    |    |    |    |
+
+|-----------|-------------------------------|-------------------------|------------------------------------------------------|------------------|---------------------|-------------------------------------------------------------|---------------------------------|---------------------------------------------------------|----------------------------------------|---------------------------------|-------------------------------------|------------|----------------------|------------|---------------------|-----------|------------|------------------------|----|----|----|----|----|----|----|----|
+
+| Tổng cộng | Dự toán năm trước chuyển sang | Năm báo cáo             | Tổng cộng                                            | Nguồn NSNN       | Nguồn thu sự nghiệp | Nguồn quỹ                                                   | Nguồn khác                      | Tổng cộng                                               | Nguồn NSNN                             | Nguồn thu sự nghiệp             | Nguồn quỹ                           | Nguồn khác | Tổng cộng            | Nguồn NSNN | Nguồn thu sự nghiệp | Nguồn quỹ | Nguồn khác |                        |    |    |    |    |    |    |    |    |
+
+| 1         | 2                             | 3=4+ 5+8                | 4                                                    | 5=6 +7           | 6                   | 7                                                           | 8                               | 9 = 10 +11+ 12                                          | 10                                     | 11                              | 12                                  | 13         | 14=15 + 16 + 17 + 18 | 15         | 16                  | 17        | 18         | 19 = 20 + 21 + 22 + 23 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+
+|           |                               |                         |                                                      |                  |                     |                                                             |                                 |                                                         |                                        |                                 |                                     |            |                      |            |                     |           |            |                        |    |    |    |    |    |    |    |    |
+
+|           |                               |                         |                                                      |                  |                     |                                                             |                                 |                                                         |                                        |                                 |                                     |            |                      |            |                     |           |            |                        |    |    |    |    |    |    |    |    |
+
+STT
+
+Nội dung
+
+Tổng dự toán được duyệt
+
+Lũy kế dự toán đã bố trí đến 31/12 trước năm báo cáo
+
+Danh mục dự toán
+
+Các năm tiếp theo
+
+Dự toán năm báo cáo Bộ Tài chính giao đến thời điểm báo cáo
+
+Giải ngân đến thời điểm báo cáo
+
+Dự kiến giải ngân đến thời ngày cuối cùng tháng báo cáo
+
+Ước thực hiện đến cuối năm báo cáo (%)
+
+Kết quả thực hiện tháng báo cáo
+
+Kế hoạch triển khai tháng tiếp theo
+
+Ghi chú
+
+Tổng cộng
+
+Dự toán năm trước chuyển sang
+
+Năm báo cáo
+
+Tổng cộng
+
+Nguồn NSNN
+
+Nguồn thu sự nghiệp
+
+Nguồn quỹ
+
+Nguồn khác
+
+Tổng cộng
+
+Nguồn NSNN
+
+Nguồn thu sự nghiệp
+
+Nguồn quỹ
+
+Nguồn khác
+
+Tổng cộng
+
+Nguồn NSNN
+
+Nguồn thu sự nghiệp
+
+Nguồn quỹ
+
+Nguồn khác
+
+1
+
+2
+
+3=4+ 5+8
+
+4
+
+5=6 +7
+
+6
+
+7
+
+8
+
+9 = 10 +11+ 12
+
+10
+
+11
+
+12
+
+13
+
+14=15 + 16 + 17 + 18
+
+15
+
+16
+
+17
+
+18
+
+19 = 20 + 21 + 22 + 23
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+Biểu 02.UDCNTT
+
+BÁO CÁO ĐÁNH GIÁ TÌNH HÌNH TRIỂN KHAI ỨNG DỤNG CNTT 6 THÁNG ĐẦU NĂM VÀ KẾ HOẠCH TRIỂN KHAI 6 THÁNG CUỐI NĂM
+
+Kính gửi: ...............................
+
+A. Đánh giá tình hình triển khai CNTT 6 tháng đầu năm
+
+I. Đánh giá tình hình và kết quả triển khai công việc
+
+1. Đánh giá chung
+
+- Khái quát đặc điểm, bối cảnh triển khai CNTT của đơn vị trong 6 tháng đầu năm.
+
+- Đánh giá sơ kết kết quả công tác triển khai ứng dụng CNTT theo kế hoạch, mục tiêu đặt ra trong kế hoạch năm.
+
+2. Về công tác kế hoạch, dự toán
+
+- Đánh giá tình hình thực hiện dự toán 6 tháng đầu năm: tổng số tiền giải ngân lũy kế đến thời điểm báo cáo, tỷ lệ phần trăm hoàn thành theo dự toán được giao trong năm, ước tỷ lệ phần trăm hoàn thành đến cuối năm báo cáo (kèm phụ biểu 01.01.UDCNTT về báo cáo giải ngân các nội dung CNTT theo danh mục dự toán năm báo cáo).
+
+- Đánh giá về những khó khăn, vướng mắc; những nguyên nhân khách quan, chủ quan tác động đến việc tổ chức thực hiện dự toán chưa đúng kế hoạch.
+
+3. Về công tác quản lý nhà nước về CNTT
+
+Báo cáo việc xây dựng các quy định, quy chế hướng dẫn đơn vị cấp dưới quản lý, sử dụng, vận hành hệ thống CNTT; liệt kê các chính sách CNTT đã được xây dựng, sửa đổi và tình hình áp dụng của đơn vị
+
+4. Về triển khai các đề án, dự án và các nhiệm vụ trọng tâm
+
+4.1. Các đề án, dự án và các nhiệm vụ trọng tâm thuộc thẩm quyền phê duyệt của Bộ trưởng
+
+- Đánh giá tổng hợp các đề án, dự án, các nhiệm vụ trọng tâm theo tiến độ hoàn thành:
+
++ Số lượng, nội dung đề án, dự án, nhiệm vụ trọng tâm thực hiện đúng tiến độ
+
++ Số lượng, nội dung đề án, dự án, nhiệm vụ trọng tâm chậm tiến độ
+
+- Đánh giá chi tiết kết quả thực hiện của từng đề án, dự án, nhiệm vụ trọng tâm:
+
++ Tên đề án, dự án và nhiệm vụ trọng tâm 1
+
++/ Đánh giá tiến độ thực hiện công việc đáp ứng theo tiến độ triển khai nhiệm vụ kế hoạch thực hiện đến cuối năm.
+
++/ Phân tích những nguyên nhân khách quan, chủ quan của những nội dung triển khai chưa đảm bảo yêu cầu.
+
++ Tên đề án, dự án và nhiệm vụ trọng tâm 2
+
++/ Đánh giá tiến độ thực hiện công việc đáp ứng theo tiến độ triển khai nhiệm vụ kế hoạch thực hiện đến cuối năm.
+
++/ Phân tích những nguyên nhân khách quan, chủ quan của những nội dung triển khai chưa đảm bảo yêu cầu.
+
+...
+
+4.2. Các đề án, dự án và các nhiệm vụ trọng tâm thuộc thẩm quyền phê duyệt của đơn vị
+
+- Đánh giá tổng hợp các đề án, dự án, các nhiệm vụ trọng tâm theo tiến độ hoàn thành:
+
++ Số lượng, nội dung đề án, dự án, nhiệm vụ trọng tâm thực hiện đúng tiến độ
+
++ Số lượng, nội dung đề án, dự án, nhiệm vụ trọng tâm chậm tiến độ
+
+- Đánh giá chi tiết kết quả thực hiện của từng đề án, dự án, nhiệm vụ trọng tâm:
+
++ Tên đề án, dự án và nhiệm vụ trọng tâm 1
+
++/ Đánh giá tiến độ thực hiện công việc đáp ứng theo tiến độ triển khai nhiệm vụ kế hoạch thực hiện đến cuối năm.
+
++/ Phân tích những nguyên nhân khách quan, chủ quan của những nội dung triển khai chưa đảm bảo yêu cầu.
+
++ Tên đề án, dự án và nhiệm vụ trọng tâm 2
+
++/ Đánh giá tiến độ thực hiện công việc đáp ứng theo tiến độ triển khai nhiệm vụ kế hoạch thực hiện đến cuối năm.
+
++/ Phân tích những nguyên nhân khách quan, chủ quan của những nội dung triển khai chưa đảm bảo yêu cầu.
+
+…
+
+II. Đề xuất kiến nghị:
+
+Từ những phân tích, đánh giá ở trên, các đơn vị kiến nghị, đề xuất cụ thể với các cấp có thẩm quyền về những vấn đề tồn tại:
+
+1. Về cơ chế, chính sách và công tác chỉ đạo điều hành: nêu những kiến nghị, đề xuất về những vấn đề tồn tại trong cơ chế chính sách, trong chỉ đạo điều hành đối với mỗi cấp độ phụ trách như kiến nghị về phương hướng, nhiệm vụ công tác trọng tâm đề xuất Lãnh đạo Bộ tập trung chỉ đạo điều hành; đề xuất các nội dung cần đổi mới của cơ chế, chính sách nhằm cải tiến, nâng cao chất lượng công việc cho 6 tháng cuối năm.
+
+2. Về nhân sự triển khai, công tác phối hợp triển khai của đơn vị với các đơn vị liên quan trên trong triển khai thực hiện dự toán, thực hiện đề án, dự án, nhiệm vụ trọng tâm theo lĩnh vực chuyên môn: quản lý triển khai CNTT, hạ tầng kỹ thuật, cơ sở dữ liệu, phần mềm ứng dụng, đào tạo tin học,...
+
+3. Về các vấn đề khác
+
+B. Kế hoạch và biện pháp triển khai công việc 6 tháng cuối năm
+
+I. Về công tác kế hoạch, dự toán
+
+Nêu mục tiêu cần phải đạt được trong 6 tháng cuối năm trong đó nêu rõ tỷ lệ giải ngân phải hoàn thành đến hết năm; các biện pháp tổ chức triển khai thực hiện kế hoạch dự toán để đảm bảo hoàn thành tỷ lệ giải ngân theo yêu cầu.
+
+II. Công tác quản lý nhà nước về CNTT
+
+Kế hoạch, tiến độ triển khai nhiệm vụ trọng tâm trong công tác quản lý CNTT đến cuối năm báo cáo.
+
+III. Về triển khai các đề án, dự án và các nhiệm vụ trọng tâm
+
+Nêu mục tiêu hoàn thành đối với từng đề án, dự án và các nhiệm vụ trọng tâm; các nội dung chính cần thực hiện và dự kiến thời gian, kết quả hoàn thành (kèm phụ biểu 01.2.UDCNTT về báo cáo tiến độ và kế hoạch triển khai các nội dung ứng dụng CNTT theo danh mục dự toán năm báo cáo).
+
+- Tên đề án, dự án và nhiệm vụ trọng tâm 1
+
++ Mục tiêu cần hoàn thành đến cuối năm
+
++ Các nội dung chính cần thực hiện, dự kiến kết quả, thời gian hoàn thành
+
+- Tên đề án, dự án và nhiệm vụ trọng tâm 2
+
++ Mục tiêu cần hoàn thành đến cuối năm
+
++ Các nội dung chính cần thực hiện, dự kiến kết quả, thời gian hoàn thành
+
+...
+
+IV. Giải pháp, kiến nghị đề xuất:
+
+- Đề xuất các giải pháp, biện pháp để đảm bảo thực hiện kế hoạch nêu trên
+
+- Đề xuất kiến nghị đối với các đơn vị có liên quan để giúp cho việc triển khai thành công kế hoạch của đơn vị.
+
+| NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên) | …….., ngày .... tháng ... năm ... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên) |
+
+|------------------------------------|-----------------------------------------------------------------------------------|
+
+NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên)
+
+…….., ngày .... tháng ... năm ... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên)
+
+Biểu 03.UDCNTT
+
+BÁO CÁO ĐÁNH GIÁ TÌNH HÌNH TRIỂN KHAI ỨNG DỤNG CNTT NĂM (N) VÀ KẾ HOẠCH TRIỂN KHAI NĂM (N+1)
+
+Kính gửi: ..........................................
+
+I. Đánh giá tình hình triển khai CNTT năm (N)
+
+1. Đánh giá chung
+
+- Khái quát những đặc điểm, bối cảnh triển khai CNTT của đơn vị trong cả năm.
+
+- Đánh giá tổng quát kết quả công tác triển khai ứng dụng CNTT theo kế hoạch, mục tiêu đặt ra trong kế hoạch năm, kết quả đạt được so với mục tiêu đã đề ra từ đầu năm, so với kế hoạch 5 năm về ứng dụng CNTT của đơn vị.
+
+2. Về công tác kế hoạch, dự toán
+
+- Đánh giá tình hình thực hiện dự toán trong cả năm: tổng số tiền giải ngân lũy kế đến thời điểm báo cáo, tỷ lệ phần trăm hoàn thành theo dự toán được giao trong năm (kèm phụ biểu 03.01, UDCNTT về kết quả triển khai ứng dụng CNTT theo danh mục dự toán năm báo cáo).
+
+- Đánh giá về những khó khăn, vướng mắc; những nguyên nhân khách quan, chủ quan tác động đến việc tổ chức thực hiện dự toán chưa đúng kế hoạch.
+
+3. Về công tác quản lý nhà nước về CNTT
+
+Báo cáo việc xây dựng các quy định, quy chế hướng dẫn đơn vị cấp dưới quản lý, sử dụng, vận hành hệ thống CNTT; liệt kê các chính sách CNTT đã được xây dựng, sửa đổi và tình hình áp dụng của đơn vị; kết quả thực hiện kiểm tra giám sát CNTT.
+
+4. Về triển khai các đề án, dự án và các nhiệm vụ trọng tâm
+
+4.1. Các đề án, dự án và các nhiệm vụ trọng tâm thuộc thẩm quyền phê duyệt của Bộ trưởng
+
+- Đánh giá tổng hợp các đề án, dự án, các nhiệm vụ trọng tâm theo tiến độ hoàn thành:
+
++ Số lượng, nội dung đề án, dự án, nhiệm vụ trọng tâm thực hiện đúng tiến độ
+
++ Số lượng, nội dung đề án, dự án, nhiệm vụ trọng tâm chậm tiến độ
+
+- Đánh giá chi tiết kết quả thực hiện từng đề án, dự án, nhiệm vụ trọng tâm:
+
++ Tên đề án, dự án và nhiệm vụ trọng tâm 1
+
++/ Đánh giá theo mục tiêu, nhiệm vụ Quyết định phê duyệt trong kế hoạch 5 năm của đơn vị.
+
++/ Đánh giá các nội dung hoàn thành đáp ứng như thế nào đối với yêu cầu triển khai của đơn vị.
+
++/ Phân tích những nguyên nhân khách quan, chủ quan của những nội dung triển khai chưa đảm bảo yêu cầu.
+
++ Tên đề án, dự án và nhiệm vụ trọng tâm 2
+
++/ Đánh giá theo mục tiêu, nhiệm vụ Quyết định phê duyệt trong kế hoạch 5 năm của đơn vị.
+
++/ Đánh giá các nội dung hoàn thành đáp ứng như thế nào đối với yêu cầu triển khai của đơn vị.
+
++/ Phân tích những nguyên nhân khách quan, chủ quan của những nội dung triển khai chưa đảm bảo yêu cầu.
+
+…
+
+4.2. Các đề án, dự án và các nhiệm vụ trọng tâm thuộc thẩm quyền phê duyệt của đơn vị.
+
+- Đánh giá tổng hợp các đề án, dự án, các nhiệm vụ trọng tâm theo tiến độ hoàn thành:
+
++ Số lượng, nội dung đề án, dự án, nhiệm vụ trọng tâm thực hiện đúng tiến độ
+
++ Số lượng, nội dung đề án, dự án, nhiệm vụ trọng tâm chậm tiến độ
+
+- Đánh giá chi tiết kết quả thực hiện từng đề án, dự án, nhiệm vụ trọng tâm:
+
++ Tên đề án, dự án và nhiệm vụ trọng tâm 1
+
++/ Đánh giá theo mục tiêu, nhiệm vụ Quyết định phê duyệt trong kế hoạch 5 năm của đơn vị.
+
++/ Báo cáo đánh giá các nội dung hoàn thành đáp ứng như thế nào đối với yêu cầu triển khai của đơn vị.
+
++/ Phân tích những nguyên nhân khách quan, chủ quan của những nội dung triển khai chưa đảm bảo yêu cầu.
+
++ Tên đề án, dự án và nhiệm vụ trọng tâm 2
+
++/ Đánh giá theo mục tiêu, nhiệm vụ Quyết định phê duyệt trong kế hoạch 5 năm của đơn vị.
+
++/ Báo cáo đánh giá các nội dung hoàn thành đáp ứng như thế nào đối với yêu cầu triển khai của đơn vị.
+
++/ Phân tích những nguyên nhân khách quan, chủ quan của những nội dung triển khai chưa đảm bảo yêu cầu.
+
+…
+
+II. Những khó khăn, vướng mắc trong quá trình triển khai công việc và kiến nghị biện pháp khắc phục
+
+1. Về cơ chế, chính sách và công tác chỉ đạo điều hành. Trong đó, kiến nghị phương hướng, nhiệm vụ công tác trọng tâm đề xuất Lãnh đạo Bộ tập trung chỉ đạo điều hành; đề xuất các nội dung cần đổi mới của cơ chế, chính sách để nhằm cải tiến, nâng cao chất lượng công việc cho những năm tiếp theo.
+
+2. Về nhân sự triển khai, công tác phối hợp triển khai của đơn vị với các đơn vị liên quan trên từng lĩnh vực: xây dựng cơ chế chính sách, hạ tầng kỹ thuật, chương trình ứng dụng, đào tạo tin học,...
+
+3. Các vấn đề khác
+
+III. Kế hoạch và biện pháp triển khai công việc năm (N+1)
+
+Trên cơ sở đánh giá kết quả thực hiện công việc trong năm như nêu tại phần I, các đơn vị xây dựng kế hoạch công việc năm tiếp theo trên các nội dung sau:
+
+1. Mục tiêu
+
+Nêu các mục tiêu chính cần phải đạt được trong thực hiện nhiệm vụ của năm tiếp theo, bám sát theo các mục tiêu, nhiệm vụ đã nêu trong kế hoạch 5 năm về ứng dụng CNTT đã được Bộ phê duyệt.
+
+2. Kế hoạch thực hiện
+
+2.1. Về công tác kế hoạch, dự toán
+
+Nêu mục tiêu cần phải đạt được của năm tiếp theo, trong đó nêu rõ tỷ lệ giải ngân phải hoàn thành đến hết năm; các biện pháp tổ chức triển khai thực hiện kế hoạch dự toán để đảm bảo hoàn thành tỷ lệ giải ngân theo yêu cầu.
+
+2.2. Công tác quản lý nhà nước về CNTT
+
+- Nêu cụ thể các nội dung xây dựng các văn bản, quy định hướng dẫn thực hiện công tác ứng dụng CNTT thuộc phạm vi trách nhiệm của đơn vị, tiến độ thực hiện.
+
+- Kế hoạch thực hiện công tác kiểm tra, giám sát
+
+2.3. Về triển khai các đề án, dự án và các nhiệm vụ trọng tâm
+
+- Tổng hợp số lượng các dự án, đề án, nhiệm vụ trọng tâm lập kế hoạch thực hiện
+
+- Xây dựng chương trình, kế hoạch cụ thể để thực hiện các dự án, đề án và nhiệm vụ trọng tâm theo các nội dung: mục tiêu thực hiện trong năm; các nội chính cần thực hiện, kết quả, tiến độ thực hiện các nội dung chính theo hai nhóm: các đề án, dự án, nhiệm vụ trọng tâm thuộc thẩm quyền quyết định của Bộ trưởng; các đề án, dự án, nhiệm vụ trọng tâm thuộc thẩm quyền quyết định của đơn vị.
+
+2.3.1. Tổng hợp số lượng các dự án, đề án, nhiệm vụ trọng tâm lập kế hoạch thực hiện trong năm:
+
+- Số lượng dự án lập kế hoạch thực hiện
+
++ Số lượng dự án nhóm A: ...., trong đó:
+
++/ Số lượng thực hiện chuẩn bị đầu tư
+
++/ Số lượng thực hiện đầu tư
+
++ Số lượng dự án nhóm B:
+
++/ Số lượng thực hiện chuẩn bị đầu tư
+
++/ Số lượng thực hiện đầu tư
+
++ Số lượng dự án nhóm C:
+
++/ Số lượng thực hiện chuẩn bị đầu tư
+
++/ Số lượng thực hiện đầu tư
+
+- Số lượng đề án, nhiệm vụ trọng tâm
+
+2.3.2. Các đề án, dự án và các nhiệm vụ trọng tâm thuộc thẩm quyền phê duyệt của Bộ trưởng
+
+- Tên đề án, dự án và nhiệm vụ trọng tâm 1
+
++ Mục tiêu cần hoàn thành đến cuối năm
+
++ Các nội dung chính cần thực hiện, dự kiến kết quả, thời gian hoàn thành
+
+- Tên đề án, dự án và nhiệm vụ trọng tâm 2
+
++ Mục tiêu cần hoàn thành đến cuối năm
+
++ Các nội dung chính cần thực hiện, dự kiến kết quả, thời gian hoàn thành
+
+…
+
+2.3.3. Các đề án, dự án và các nhiệm vụ trọng tâm thuộc thẩm quyền phê duyệt của đơn vị.
+
+- Tên đề án, dự án và nhiệm vụ trọng tâm 1
+
++ Mục tiêu cần hoàn thành đến cuối năm
+
++ Các nội dung chính cần thực hiện, dự kiến kết quả, thời gian hoàn thành
+
+- Tên đề án, dự án và nhiệm vụ trọng tâm 2
+
++ Mục tiêu cần hoàn thành đến cuối năm
+
++ Các nội dung chính cần thực hiện, dự kiến kết quả, thời gian hoàn thành
+
+…
+
+3. Giải pháp, kiến nghị đề xuất:
+
+- Đề xuất các giải pháp, biện pháp để đảm bảo thực hiện kế hoạch nêu trên
+
+- Đề xuất kiến nghị đối với các đơn vị có liên quan để giúp cho việc triển khai thành công kế hoạch của đơn vị.
+
+Biểu 04.UDCNTT
+
+Phụ lục I
+
+Mẫu báo cáo THÔNG TIN CHUNG
+
+| <Tên cơ quan, đơn vị thực hiện báo cáo> | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  | Ngày nhận: |
+
+|-----------------------------------------|-----------------------------------------------------------------|------------|
+
+<Tên cơ quan, đơn vị thực hiện báo cáo>
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------
+
+Ngày nhận:
+
+BÁO CÁO THÔNG TIN CHUNG
+
+Kính gửi: ......................................................
+
+1. Tên chủ đầu tư: .....................................................................................................................
+
+2. Tên dự án và tóm tắt nội dung dự án được phê duyệt ...........................................................
+
+………………………………………………………………………………………………………………
+
+3. Các văn bản pháp lý liên quan được liệt kê và đính kèm báo cáo này:
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+4. Mục tiêu của dự án: ...............................................................................................................
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+5. Nội dung và quy mô đầu tư:
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+6. Địa điểm đầu tư: ....................................................................................................................
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+7. Nguồn vốn đầu tư: .................................................................................................................
+
+……………………………………………………………………………………………………………
+
+8. Hình thức quản lý dự án
+
+| Chủ đầu tư trực tiếp quản lý                 | □ |
+
+|----------------------------------------------|---|
+
+| Chủ đầu tư thuê tổ chức tư vấn quản lý dự án | □ |
+
+| Gói thầu EPC                                 | □ |
+
+| Hình thức khác (ghi rõ tên hình thức)        | □ |
+
+Chủ đầu tư trực tiếp quản lý
+
+□
+
+Chủ đầu tư thuê tổ chức tư vấn quản lý dự án
+
+□
+
+Gói thầu EPC
+
+□
+
+Hình thức khác (ghi rõ tên hình thức)
+
+□
+
+……………………………………………………………………………………………………………
+
+9. Thời gian thực hiện: từ năm …………….. đến năm ……………………
+
+10. Quy trình quản lý đầu tư: .....................................................................................................
+
+11. Phân nhóm dự án:
+
+| Nhóm A | □ |
+
+|--------|---|
+
+| Nhóm B | □ |
+
+| Nhóm C | □ |
+
+Nhóm A
+
+□
+
+Nhóm B
+
+□
+
+Nhóm C
+
+□
+
+12. Phân loại dự án đầu tư
+
+| Dự án phát triển mới | □ |
+
+|----------------------|---|
+
+| Dự án nâng cấp       | □ |
+
+| Dự án mở rộng        | □ |
+
+Dự án phát triển mới
+
+□
+
+Dự án nâng cấp
+
+□
+
+Dự án mở rộng
+
+□
+
+13. Tính chất dự án công nghệ thông tin
+
+| Dự án hạ tầng kỹ thuật  | □ |
+
+|-------------------------|---|
+
+| Dự án ứng dụng phần mềm | □ |
+
+| Dự án hỗn hợp           | □ |
+
+Dự án hạ tầng kỹ thuật
+
+□
+
+Dự án ứng dụng phần mềm
+
+□
+
+Dự án hỗn hợp
+
+□
+
+14. Tổng mức đầu tư: ............................................................................................................
+
+Trong đó, bao gồm:
+
+Chi phí xây lắp: ............................................................................................................
+
+Chi phí thiết bị: ............................................................................................................
+
+Chi phí quản lý dự án: ..................................................................................................
+
+Chi phí tư vấn đầu tư: ....................................................................................................
+
+Chi phí khác: ..................................................................................................................
+
+Chi phí dự phòng: ............................................................................................................
+
+| NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên) | …….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên) |
+
+|------------------------------------|--------------------------------------------------------------------------------|
+
+NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên)
+
+…….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên)
+
+Phụ lục II
+
+Mẫu báo cáo KẾ HOẠCH ĐẤU THẦU VÀ HỢP ĐỒNG
+
+| <Tên cơ quan, đơn vị thực hiện báo cáo> | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  | Ngày nhận: |
+
+|-----------------------------------------|-----------------------------------------------------------------|------------|
+
+<Tên cơ quan, đơn vị thực hiện báo cáo>
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------
+
+Ngày nhận:
+
+BÁO CÁO KẾ HOẠCH ĐẤU THẦU VÀ HỢP ĐỒNG
+
+Kính gửi: ...........................................
+
+1. Tên dự án: ……………………………………………………………………………………………………………
+
+2. Kế hoạch đấu thầu và hợp đồng:
+
+| STT       | Tên gói thầu | Giá gói thầu | Nguồn vốn | Hình thức lựa chọn nhà thầu | Phương thức đấu thầu | Thời gian đấu thầu | Hình thức hợp đồng | Thời gian thực hiện hợp đồng | Tên nhà thầu |      |      |
+
+|-----------|--------------|--------------|-----------|-----------------------------|----------------------|--------------------|--------------------|------------------------------|--------------|------|------|
+
+| Phê duyệt | Thực tế      | Phê duyệt    | Thực tế   |                             |                      |                    |                    |                              |              |      |      |
+
+| [1]       | [2]          | [3]          | [4]       | [5]                         | [6]                  | [7]                | [8]                | [9]                          | [10]         | [11] | [12] |
+
+|           |              |              |           |                             |                      |                    |                    |                              |              |      |      |
+
+|           |              |              |           |                             |                      |                    |                    |                              |              |      |      |
+
+STT
+
+Tên gói thầu
+
+Giá gói thầu
+
+Nguồn vốn
+
+Hình thức lựa chọn nhà thầu
+
+Phương thức đấu thầu
+
+Thời gian đấu thầu
+
+Hình thức hợp đồng
+
+Thời gian thực hiện hợp đồng
+
+Tên nhà thầu
+
+Phê duyệt
+
+Thực tế
+
+Phê duyệt
+
+Thực tế
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+
+Ghi chú: Thông tin có trong tài liệu kế hoạch đấu thầu, các hợp đồng của dự án đã được phê duyệt.
+
+| NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên) | …….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên) |
+
+|------------------------------------|--------------------------------------------------------------------------------|
+
+NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên)
+
+…….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên)
+
+Phụ lục III
+
+Mẫu báo cáo DANH SÁCH YÊU CẦU KỸ THUẬT
+
+| <Tên cơ quan, đơn vị thực hiện báo cáo> | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  | Ngày nhận: |
+
+|-----------------------------------------|-----------------------------------------------------------------|------------|
+
+<Tên cơ quan, đơn vị thực hiện báo cáo>
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------
+
+Ngày nhận:
+
+BÁO CÁO DANH SÁCH YÊU CẦU KỸ THUẬT
+
+Kính gửi: ..................................................
+
+1. Tên dự án: .......................................................................................................................
+
+2. Quy trình nghiệp vụ được tin học hóa (đối với dự án phần mềm ứng dụng, dự án hỗn hợp)
+
+| STT | Tên quy trình nghiệp vụ | Mô tả tóm tắt |
+
+|-----|-------------------------|---------------|
+
+| [1] | [2]                     | [3]           |
+
+| 1   |                         |               |
+
+| 2   |                         |               |
+
+| 3   |                         |               |
+
+| …   | …                       |               |
+
+STT
+
+Tên quy trình nghiệp vụ
+
+Mô tả tóm tắt
+
+[1]
+
+[2]
+
+[3]
+
+1
+
+2
+
+3
+
+…
+
+…
+
+Ghi chú:
+
+[1] Đánh số thứ tự các quy trình nghiệp vụ được tin học hóa.
+
+[2] Tên quy trình nghiệp vụ thường gọi hoặc đã có quy định.
+
+[3] Mô tả ngắn gọn về tổ chức, vận hành của quy trình, sản phẩm chính của quá trình nghiệp vụ và các giao tác xử lý chính (các bước) của quy trình nghiệp vụ.
+
+3. Chức năng hệ thống (đối với dự án phần mềm ứng dụng, dự án hỗn hợp)
+
+| STT | Chức năng | Phân loại | Tiêu chuẩn kỹ thuật (nếu có) |
+
+|-----|-----------|-----------|------------------------------|
+
+| [1] | [2]       | [3]       | [4]                          |
+
+| 1   |           |           |                              |
+
+| 2   |           |           |                              |
+
+| 3   |           |           |                              |
+
+| …   | …         |           |                              |
+
+STT
+
+Chức năng
+
+Phân loại
+
+Tiêu chuẩn kỹ thuật (nếu có)
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+1
+
+2
+
+3
+
+…
+
+…
+
+Ghi chú:
+
+[1] Đánh số thứ tự các chức năng của hệ thống.
+
+[2] Mô tả ngắn gọn chức năng của hệ thống, thường bắt đầu bằng một động từ.
+
+[3] Chức năng được phân loại thành: bắt buộc, mong muốn hay tùy chọn.
+
+[4] Tiêu chuẩn kỹ thuật áp dụng để thực hiện chức năng, tiêu chuẩn kỹ thuật quy định tại Quyết định số 20/2008/QĐ-BTTTT và tiêu chuẩn chuyên ngành của hệ thống phục vụ.
+
+4. Khả năng hoạt động và chất lượng hệ thống
+
+| STT        | Khả năng hoạt động/ chất lượng hệ thống                                                                                                                              | Đáp ứng | Tiêu chuẩn kỹ thuật (nếu có) |   |  |
+
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|------------------------------|---|--|
+
+| [1]        | [2]                                                                                                                                                                  | [3]     | [4]                          |   |  |
+
+|            |                                                                                                                                                                      | Có      | Không                        |   |  |
+
+| 1          | Về hiệu quả sử dụng                                                                                                                                                  |         |                              |   |  |
+
+|            | Giảm thời gian xử lý                                                                                                                                                 | □       | □                            |   |  |
+
+|            | Tiết kiệm tài nguyên hệ thống máy chủ                                                                                                                                | □       | □                            |   |  |
+
+|            | Tiết kiệm tài nguyên máy trạm                                                                                                                                        | □       | □                            |   |  |
+
+|            | Tiết kiệm tài nguyên băng thông của đường truyền (nếu có kết nối mạng internet)                                                                                      | □       | □                            |   |  |
+
+| 2          | Về an toàn, bảo mật                                                                                                                                                  |         |                              |   |  |
+
+|            | Giải pháp an toàn, bảo mật cho mức dữ liệu                                                                                                                           | □       | □                            |   |  |
+
+|            | Giải pháp an toàn, bảo mật cho mức ứng dụng                                                                                                                          | □       | □                            |   |  |
+
+|            | Giải pháp an toàn, bảo mật cho mức hệ thống                                                                                                                          | □       | □                            |   |  |
+
+|            | Giải pháp an toàn, bảo mật cho mức mạng                                                                                                                              | □       | □                            |   |  |
+
+|            | Mức độ an toàn, bảo mật đối với người sử dụng                                                                                                                        | Cao     | □                            | □ |  |
+
+| Trung bình | □                                                                                                                                                                    | □       |                              |   |  |
+
+| Thấp       | □                                                                                                                                                                    | □       |                              |   |  |
+
+|            | Mức độ tin cậy đối với người sử dụng                                                                                                                                 | □       | □                            |   |  |
+
+| 3          | Về khả năng sử dụng                                                                                                                                                  |         |                              |   |  |
+
+|            | Người dùng có khả năng tự học các chức năng cơ bản                                                                                                                   | □       | □                            |   |  |
+
+|            | Người dùng xem cách bố trí giao diện và chủ động tự thực hiện các chức năng (đối với dự án phần mềm ứng dụng và hỗn hợp)                                             | □       | □                            |   |  |
+
+|            | Người dùng hài lòng với thiết kế giao diện (đối với dự án phần mềm ứng dụng và hỗn hợp)                                                                              | □       | □                            |   |  |
+
+|            | Khi có cảnh báo lỗi xảy ra trên màn hình, người sử dụng tự phát hiện lỗi và thao tác lại                                                                             | □       | □                            |   |  |
+
+|            | Sau một thời gian không sử dụng, người dùng vẫn có thể bắt đầu sử dụng lại khi cần (đối với dự án phần mềm ứng dụng và hỗn hợp)                                      | □       | □                            |   |  |
+
+| 4          | Về khả năng bảo trì                                                                                                                                                  |         |                              |   |  |
+
+|            | Có thể phân tích được: để chẩn đoán lỗi, sai sót, hư hỏng và xác định nguyên nhân, chức năng để sửa                                                                  | □       | □                            |   |  |
+
+|            | Có thể thay đổi được: cho phép cấu hình thay đổi chế độ làm việc trong quá trình hoạt động                                                                           | □       | □                            |   |  |
+
+|            | Tính bền vững: tránh được các tác động không mong muốn khi chỉnh sửa phần mềm                                                                                        | □       | □                            |   |  |
+
+|            | Có thể kiểm thử được: cho phép đánh giá được phần mềm chỉnh sửa                                                                                                      | □       | □                            |   |  |
+
+| 5          | Về khả năng thay đổi                                                                                                                                                 | □       | □                            |   |  |
+
+|            | Hệ thống hoạt động ổn định kể cả khi tăng hoặc giảm tải và có cảnh báo cho quản trị viên tình trạng tải và mức tải vượt quá giới hạn khả năng phục vụ của hệ thống   | □       | □                            |   |  |
+
+|            | Hệ thống cho phép mở rộng triển khai trên một vùng địa lý rộng hoặc thu hẹp triển khai tập trung khi cần                                                             | □       | □                            |   |  |
+
+|            | Hệ thống cho phép quản trị mở rộng mô hình tổ chức, mô hình nghiệp vụ và người dùng khi cần                                                                          | □       | □                            |   |  |
+
+|            | Có khả năng thích ứng với nhiều môi trường (đối với dự án phần mềm ứng dụng và hỗn hợp)                                                                              | □       | □                            |   |  |
+
+|            | Có thể cài đặt trên một môi trường cụ thể (đối với dự án phần mềm ứng dụng và hỗn hợp)                                                                               | □       | □                            |   |  |
+
+|            | Có thể cùng tồn tại và hoạt động với các hệ thống khác trong cùng một môi trường chung (đối với dự án phần mềm ứng dụng và hỗn hợp)                                  | □       | □                            |   |  |
+
+|            | Một số chức năng của hệ thống có thể thay thế cho một phần mềm ứng dụng khác với cùng mục đích và trong cùng môi trường (đối với dự án phần mềm ứng dụng và hỗn hợp) | □       | □                            |   |  |
+
+STT
+
+Khả năng hoạt động/ chất lượng hệ thống
+
+Đáp ứng
+
+Tiêu chuẩn kỹ thuật (nếu có)
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+Có
+
+Không
+
+1
+
+Về hiệu quả sử dụng
+
+Giảm thời gian xử lý
+
+□
+
+□
+
+Tiết kiệm tài nguyên hệ thống máy chủ
+
+□
+
+□
+
+Tiết kiệm tài nguyên máy trạm
+
+□
+
+□
+
+Tiết kiệm tài nguyên băng thông của đường truyền (nếu có kết nối mạng internet)
+
+□
+
+□
+
+2
+
+Về an toàn, bảo mật
+
+Giải pháp an toàn, bảo mật cho mức dữ liệu
+
+□
+
+□
+
+Giải pháp an toàn, bảo mật cho mức ứng dụng
+
+□
+
+□
+
+Giải pháp an toàn, bảo mật cho mức hệ thống
+
+□
+
+□
+
+Giải pháp an toàn, bảo mật cho mức mạng
+
+□
+
+□
+
+Mức độ an toàn, bảo mật đối với người sử dụng
+
+Cao
+
+□
+
+□
+
+Trung bình
+
+□
+
+□
+
+Thấp
+
+□
+
+□
+
+Mức độ tin cậy đối với người sử dụng
+
+□
+
+□
+
+3
+
+Về khả năng sử dụng
+
+Người dùng có khả năng tự học các chức năng cơ bản
+
+□
+
+□
+
+Người dùng xem cách bố trí giao diện và chủ động tự thực hiện các chức năng (đối với dự án phần mềm ứng dụng và hỗn hợp)
+
+□
+
+□
+
+Người dùng hài lòng với thiết kế giao diện (đối với dự án phần mềm ứng dụng và hỗn hợp)
+
+□
+
+□
+
+Khi có cảnh báo lỗi xảy ra trên màn hình, người sử dụng tự phát hiện lỗi và thao tác lại
+
+□
+
+□
+
+Sau một thời gian không sử dụng, người dùng vẫn có thể bắt đầu sử dụng lại khi cần (đối với dự án phần mềm ứng dụng và hỗn hợp)
+
+□
+
+□
+
+4
+
+Về khả năng bảo trì
+
+Có thể phân tích được: để chẩn đoán lỗi, sai sót, hư hỏng và xác định nguyên nhân, chức năng để sửa
+
+□
+
+□
+
+Có thể thay đổi được: cho phép cấu hình thay đổi chế độ làm việc trong quá trình hoạt động
+
+□
+
+□
+
+Tính bền vững: tránh được các tác động không mong muốn khi chỉnh sửa phần mềm
+
+□
+
+□
+
+Có thể kiểm thử được: cho phép đánh giá được phần mềm chỉnh sửa
+
+□
+
+□
+
+5
+
+Về khả năng thay đổi
+
+□
+
+□
+
+Hệ thống hoạt động ổn định kể cả khi tăng hoặc giảm tải và có cảnh báo cho quản trị viên tình trạng tải và mức tải vượt quá giới hạn khả năng phục vụ của hệ thống
+
+□
+
+□
+
+Hệ thống cho phép mở rộng triển khai trên một vùng địa lý rộng hoặc thu hẹp triển khai tập trung khi cần
+
+□
+
+□
+
+Hệ thống cho phép quản trị mở rộng mô hình tổ chức, mô hình nghiệp vụ và người dùng khi cần
+
+□
+
+□
+
+Có khả năng thích ứng với nhiều môi trường (đối với dự án phần mềm ứng dụng và hỗn hợp)
+
+□
+
+□
+
+Có thể cài đặt trên một môi trường cụ thể (đối với dự án phần mềm ứng dụng và hỗn hợp)
+
+□
+
+□
+
+Có thể cùng tồn tại và hoạt động với các hệ thống khác trong cùng một môi trường chung (đối với dự án phần mềm ứng dụng và hỗn hợp)
+
+□
+
+□
+
+Một số chức năng của hệ thống có thể thay thế cho một phần mềm ứng dụng khác với cùng mục đích và trong cùng môi trường (đối với dự án phần mềm ứng dụng và hỗn hợp)
+
+□
+
+□
+
+Ghi chú:
+
+[1] Đánh số thứ tự các khả năng hoạt động hoặc chất lượng của hệ thống.
+
+[2] Mô tả khả năng hoặc chất lượng của hệ thống đem lại.
+
+[3] Khả năng đáp ứng của hệ thống (có/không).
+
+[4] Tiêu chuẩn kỹ thuật áp dụng để thực hiện khả năng hoạt động hoặc chất lượng, tiêu chuẩn kỹ thuật quy định tại Quyết định số 20/2008/QĐ-BTTTT và tiêu chuẩn ngành của hệ thống phục vụ.
+
+| NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên) | …….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên) |
+
+|------------------------------------|--------------------------------------------------------------------------------|
+
+NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên)
+
+…….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên)
+
+Phụ lục IV
+
+Mẫu báo cáo NỘI DUNG ĐẦU TƯ
+
+| <Tên cơ quan, đơn vị thực hiện báo cáo> | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  | Ngày nhận: |
+
+|-----------------------------------------|-----------------------------------------------------------------|------------|
+
+<Tên cơ quan, đơn vị thực hiện báo cáo>
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------
+
+Ngày nhận:
+
+BÁO CÁO NỘI DUNG ĐẦU TƯ
+
+Kính gửi: ......................................................
+
+1. Tên dự án: ..........................................................................................................................
+
+2. Danh mục phần mềm ứng dụng (nếu có):............................................................................
+
+a) Tên giải pháp sản phẩm hệ thống phần mềm ứng dụng nội bộ: ..........................................
+
+……………………………………………………………………………………………………………
+
+b) Đơn vị cung cấp tương ứng: ….............................................................................................
+
+3. Danh mục thiết bị:
+
+| STT | Phân loại                                                                                                | Số lượng | Mô tả |
+
+|-----|----------------------------------------------------------------------------------------------------------|----------|-------|
+
+| [1] | [2]                                                                                                      | [3]      | [4]   |
+
+| 1   | Máy chủ                                                                                                  |          |       |
+
+| 2   | Máy trạm                                                                                                 |          |       |
+
+| 3   | Thiết bị mạng                                                                                            |          |       |
+
+| 4   | Thiết bị lưu trữ                                                                                         |          |       |
+
+| 5   | Thiết bị khác: …............................ …............................ …............................ |          |       |
+
+STT
+
+Phân loại
+
+Số lượng
+
+Mô tả
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+1
+
+Máy chủ
+
+2
+
+Máy trạm
+
+3
+
+Thiết bị mạng
+
+4
+
+Thiết bị lưu trữ
+
+5
+
+Thiết bị khác:
+
+…............................
+
+…............................
+
+…............................
+
+Ghi chú:
+
+[1] Đánh số thứ tự loại thiết bị.
+
+[2] Loại thiết bị.
+
+[3] Xác định số lượng thiết bị theo từng loại.
+
+[4] Mô tả tên hãng sản xuất, model cho thiết bị chính.
+
+5. Danh mục phần mềm hệ thống, phần mềm công cụ:
+
+| STT | Phân loại                                                                                                                                                                     | Mô tả |
+
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+
+| [1] | [2]                                                                                                                                                                           | [3]   |
+
+| 1   | Phần mềm hệ điều hành                                                                                                                                                         |       |
+
+| 2   | Phần mềm hệ quản trị cơ sở dữ liệu                                                                                                                                            |       |
+
+| 3   | Phần mềm máy chủ ứng dụng                                                                                                                                                     |       |
+
+| 4   | Phần mềm công cụ                                                                                                                                                              |       |
+
+| 5   | Phần mềm khác: …................................................... …................................................... …................................................... |       |
+
+STT
+
+Phân loại
+
+Mô tả
+
+[1]
+
+[2]
+
+[3]
+
+1
+
+Phần mềm hệ điều hành
+
+2
+
+Phần mềm hệ quản trị cơ sở dữ liệu
+
+3
+
+Phần mềm máy chủ ứng dụng
+
+4
+
+Phần mềm công cụ
+
+5
+
+Phần mềm khác:
+
+…...................................................
+
+…...................................................
+
+…...................................................
+
+Ghi chú:
+
+[1] Đánh số thứ tự loại phần mềm.
+
+[2] Loại phần mềm.
+
+[3] Mô tả tên phần mềm, tên hãng phát triển và phiên bản phần mềm (nếu là phần mềm nguồn mở khi mô tả tên hãng phát triển ghi cụ thể là “phần mềm nguồn mở”).
+
+6. Danh mục dịch vụ công nghệ thông tin:
+
+| STT | Phân loại                                                                                                                                                                                                        | Sử dụng | Ghi chú |
+
+|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|---------|
+
+| [1] | [2]                                                                                                                                                                                                              | [3]     | [4]     |
+
+| 1   | Dịch vụ thuê đặt chỗ                                                                                                                                                                                             | □       |         |
+
+| 2   | Dịch vụ thuê đường truyền                                                                                                                                                                                        | □       |         |
+
+| 3   | Dịch vụ tích hợp hệ thống                                                                                                                                                                                        | □       |         |
+
+| 4   | Dịch vụ cài đặt, cấu hình, hiệu chỉnh                                                                                                                                                                            | □       |         |
+
+| 5   | Dịch vụ đào tạo                                                                                                                                                                                                  | □       |         |
+
+| 6   | Dịch vụ tư vấn tại chỗ                                                                                                                                                                                           | □       |         |
+
+| 7   | Dịch vụ số hóa, chuyển đổi số liệu                                                                                                                                                                               | □       |         |
+
+| 8   | Dịch vụ kiểm thử, đánh giá chất lượng hệ thống                                                                                                                                                                   | □       |         |
+
+| 9   | Dịch vụ công nghệ thông tin và truyền thông khác: …................................................... …................................................... …................................................... | □       |         |
+
+STT
+
+Phân loại
+
+Sử dụng
+
+Ghi chú
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+1
+
+Dịch vụ thuê đặt chỗ
+
+□
+
+2
+
+Dịch vụ thuê đường truyền
+
+□
+
+3
+
+Dịch vụ tích hợp hệ thống
+
+□
+
+4
+
+Dịch vụ cài đặt, cấu hình, hiệu chỉnh
+
+□
+
+5
+
+Dịch vụ đào tạo
+
+□
+
+6
+
+Dịch vụ tư vấn tại chỗ
+
+□
+
+7
+
+Dịch vụ số hóa, chuyển đổi số liệu
+
+□
+
+8
+
+Dịch vụ kiểm thử, đánh giá chất lượng hệ thống
+
+□
+
+9
+
+Dịch vụ công nghệ thông tin và truyền thông khác:
+
+…...................................................
+
+…...................................................
+
+…...................................................
+
+□
+
+Ghi chú:
+
+[1] Đánh số thứ tự loại dịch vụ sử dụng trong quá trình triển khai dự án.
+
+[2] Loại dịch vụ.
+
+[3] Xác nhận hệ thống có/không sử dụng dịch vụ.
+
+[4] Ghi chú về việc sử dụng dịch vụ. Ví dụ dịch vụ thuê đường truyền 2Mbps.
+
+| NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên) | …….., ngày…. tháng… năm… THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên) |
+
+|------------------------------------|--------------------------------------------------------------------------|
+
+NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên)
+
+…….., ngày…. tháng… năm… THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên)
+
+Phụ lục V
+
+Mẫu báo cáo GIẢI PHÁP KỸ THUẬT CÔNG NGHỆ
+
+| <Tên cơ quan, đơn vị thực hiện báo cáo> | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  | Ngày nhận: |
+
+|-----------------------------------------|-----------------------------------------------------------------|------------|
+
+<Tên cơ quan, đơn vị thực hiện báo cáo>
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------
+
+Ngày nhận:
+
+BÁO CÁO GIẢI PHÁP KỸ THUẬT CÔNG NGHỆ
+
+Kính gửi:...........................................
+
+1. Tên dự án: ......................................................................................................................
+
+2. Tính chất dự án:
+
+□ Hạ tầng kỹ thuật
+
+□ Phần mềm ứng dụng
+
+□ Hỗn hợp
+
+3. Giải pháp kỹ thuật công nghệ chính: .....................................................................................
+
+……………………………………………………………………………………………………………
+
+a) Hạ tầng kỹ thuật
+
+| STT           | Đặc điểm                            | Giải pháp                 | Công nghệ (nếu có) |  |
+
+|---------------|-------------------------------------|---------------------------|--------------------|--|
+
+| [1]           | [2]                                 | [3]                       | [4]                |  |
+
+| 1             | Kiến trúc hệ thống                  | Ngang hàng (peer to peer) | □                  |  |
+
+| Tập trung     | □                                   |                           |                    |  |
+
+| Phân tán      | □                                   |                           |                    |  |
+
+| Bán tập trung | □                                   |                           |                    |  |
+
+| 2             | Tích hợp hệ thống                   |                           |                    |  |
+
+| 3             | An toàn, bảo mật                    |                           |                    |  |
+
+| 4             | Sao lưu, phục hồi                   |                           |                    |  |
+
+| 5             | Cân bằng tải (Load balancing)       |                           |                    |  |
+
+| 6             | Xử lý nhóm (Cluster)                |                           |                    |  |
+
+| 7             | Quản lý, tối ưu tài nguyên hệ thống |                           |                    |  |
+
+STT
+
+Đặc điểm
+
+Giải pháp
+
+Công nghệ (nếu có)
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+1
+
+Kiến trúc hệ thống
+
+Ngang hàng (peer to peer)
+
+□
+
+Tập trung
+
+□
+
+Phân tán
+
+□
+
+Bán tập trung
+
+□
+
+2
+
+Tích hợp hệ thống
+
+3
+
+An toàn, bảo mật
+
+4
+
+Sao lưu, phục hồi
+
+5
+
+Cân bằng tải (Load balancing)
+
+6
+
+Xử lý nhóm (Cluster)
+
+7
+
+Quản lý, tối ưu tài nguyên hệ thống
+
+Ghi chú:
+
+[1] Đánh số thứ tự các đặc điểm của hệ thống.
+
+[2] Đặc điểm hay tính năng của hệ thống.
+
+[3] Đánh dấu “X” vào ô vuông hoặc ghi tên giải pháp.
+
+[4] Ghi tên công nghệ chính (nếu có) cho giải pháp lựa chọn.
+
+b) Phần mềm ứng dụng và hỗn hợp
+
+| STT                                                                                            | Đặc điểm                            | Giải pháp                                                                  | Công nghệ/Công cụ (nếu có) |  |
+
+|------------------------------------------------------------------------------------------------|-------------------------------------|----------------------------------------------------------------------------|----------------------------|--|
+
+| [1]                                                                                            | [2]                                 | [3]                                                                        | [4]                        |  |
+
+| 1                                                                                              | Loại hệ thống                       | Hệ thống xử lý giao dịch                                                   | □                          |  |
+
+| Hệ thống thông tin quản lý                                                                     | □                                   |                                                                            |                            |  |
+
+| Hệ thống hỗ trợ ra quyết định                                                                  | □                                   |                                                                            |                            |  |
+
+| Hệ thống chuyên gia                                                                            | □                                   |                                                                            |                            |  |
+
+| Hệ thống tự động văn phòng                                                                     | □                                   |                                                                            |                            |  |
+
+| Hệ thống báo cáo nghiệp vụ thông minh (Business Intelligence)                                  | □                                   |                                                                            |                            |  |
+
+| 2                                                                                              | Kiểu ứng dụng                       | Ứng dụng phục vụ người dùng cuối qua giao diện Web (Web based application) | □                          |  |
+
+| Ứng dụng phục vụ người dùng cuối qua giao diện của số của máy trạm (Desktop based application) | □                                   |                                                                            |                            |  |
+
+| 3                                                                                              | Mô hình hệ thống                    | Client/Server                                                              | □                          |  |
+
+| Nhiều lớp (Multi-layer)                                                                        | □                                   |                                                                            |                            |  |
+
+| Xử lý ngang hàng □                                                                             | □                                   |                                                                            |                            |  |
+
+| 4                                                                                              | Kiến trúc hệ thống                  | Ngang hàng (peer to peer)                                                  | □                          |  |
+
+| Tập trung                                                                                      | □                                   |                                                                            |                            |  |
+
+| Phân tán                                                                                       | □                                   |                                                                            |                            |  |
+
+| Bán tập trung                                                                                  | □                                   |                                                                            |                            |  |
+
+| 5                                                                                              | Phương pháp thiết kế                | Hướng cấu trúc                                                             | □                          |  |
+
+| Hướng đối tượng                                                                                | □                                   |                                                                            |                            |  |
+
+| Khác                                                                                           | □                                   |                                                                            |                            |  |
+
+| 6                                                                                              | Thiết kế giao diện                  |                                                                            |                            |  |
+
+| 7                                                                                              | Tích hợp hệ thống                   | Dữ liệu                                                                    | □                          |  |
+
+| Ứng dụng                                                                                       | □                                   |                                                                            |                            |  |
+
+| Quy trình nghiệp vụ                                                                            | □                                   |                                                                            |                            |  |
+
+| Giao diện người dùng                                                                           | □                                   |                                                                            |                            |  |
+
+| 8                                                                                              | An toàn, bảo mật                    | Xác thực tên/mật khẩu                                                      | □                          |  |
+
+| Chữ ký số                                                                                      | □                                   |                                                                            |                            |  |
+
+| Khác                                                                                           | □                                   |                                                                            |                            |  |
+
+| 9                                                                                              | Sao lưu, phục hồi                   |                                                                            |                            |  |
+
+| 10                                                                                             | Cân bằng tải (Load balancing)       |                                                                            |                            |  |
+
+| 11                                                                                             | Xử lý nhóm (Cluster)                |                                                                            |                            |  |
+
+| 12                                                                                             | Quản lý, tối ưu tài nguyên hệ thống |                                                                            |                            |  |
+
+STT
+
+Đặc điểm
+
+Giải pháp
+
+Công nghệ/Công cụ (nếu có)
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+1
+
+Loại hệ thống
+
+Hệ thống xử lý giao dịch
+
+□
+
+Hệ thống thông tin quản lý
+
+□
+
+Hệ thống hỗ trợ ra quyết định
+
+□
+
+Hệ thống chuyên gia
+
+□
+
+Hệ thống tự động văn phòng
+
+□
+
+Hệ thống báo cáo nghiệp vụ thông minh (Business Intelligence)
+
+□
+
+2
+
+Kiểu ứng dụng
+
+Ứng dụng phục vụ người dùng cuối qua giao diện Web (Web based application)
+
+□
+
+Ứng dụng phục vụ người dùng cuối qua giao diện của số của máy trạm (Desktop based application)
+
+□
+
+3
+
+Mô hình hệ thống
+
+Client/Server
+
+□
+
+Nhiều lớp (Multi-layer)
+
+□
+
+Xử lý ngang hàng □
+
+□
+
+4
+
+Kiến trúc hệ thống
+
+Ngang hàng (peer to peer)
+
+□
+
+Tập trung
+
+□
+
+Phân tán
+
+□
+
+Bán tập trung
+
+□
+
+5
+
+Phương pháp thiết kế
+
+Hướng cấu trúc
+
+□
+
+Hướng đối tượng
+
+□
+
+Khác
+
+□
+
+6
+
+Thiết kế giao diện
+
+7
+
+Tích hợp hệ thống
+
+Dữ liệu
+
+□
+
+Ứng dụng
+
+□
+
+Quy trình nghiệp vụ
+
+□
+
+Giao diện người dùng
+
+□
+
+8
+
+An toàn, bảo mật
+
+Xác thực tên/mật khẩu
+
+□
+
+Chữ ký số
+
+□
+
+Khác
+
+□
+
+9
+
+Sao lưu, phục hồi
+
+10
+
+Cân bằng tải (Load balancing)
+
+11
+
+Xử lý nhóm (Cluster)
+
+12
+
+Quản lý, tối ưu tài nguyên hệ thống
+
+Ghi chú:
+
+[1] Đánh số thứ tự các giải pháp sử dụng.
+
+[2] Đặc điểm hay tính năng của hệ thống.
+
+[3] Đánh dấu “X” vào ô vuông hoặc ghi tên giải pháp.
+
+[4] Ghi tên công nghệ chính cho giải pháp lựa chọn hoặc tên công cụ để thực hiện.
+
+| NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên) | …….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên) |
+
+|------------------------------------|--------------------------------------------------------------------------------|
+
+NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên)
+
+…….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên)
+
+Phụ lục VI
+
+Mẫu báo cáo NGUỒN NHÂN LỰC
+
+| <Tên cơ quan, đơn vị thực hiện báo cáo> | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  | Ngày nhận: |
+
+|-----------------------------------------|-----------------------------------------------------------------|------------|
+
+<Tên cơ quan, đơn vị thực hiện báo cáo>
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------
+
+Ngày nhận:
+
+BÁO CÁO NGUỒN NHÂN LỰC
+
+Kính gửi: ........................
+
+1. Tên dự án: ……………………………………………………………………………………………………………
+
+2. Nguồn nhân lực phía chủ đầu tư
+
+Có thành lập Ban quản lý dự án không?
+
+□ Không, chủ đầu tư quản lý
+
+□ Có
+
+Nếu “Có”, thực hiện kê khai tiếp theo các bảng dưới đây:
+
+| STT | Vai trò                                                    | Chức vụ chính quyền                                          | Trình độ chuyên môn                                          | Số Dự án đã tham gia                                         | Ghi chú  |
+
+|-----|------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|----------|
+
+| [1] | [2]                                                        | [3]                                                          | [4]                                                          | [5]                                                          | [6]      |
+
+| 1   | Giám đốc Ban quản lý dự án                                 |                                                              |                                                              |                                                              | Bắt buộc |
+
+| 2   | Phó Giám đốc Ban quản lý dự án                             | 1 .......................... 2.......................... ... | 1 .......................... 2.......................... ... | 1 .......................... 2.......................... ... | Nếu có   |
+
+| 3   | Kế toán                                                    | 1 .......................... 2.......................... ... | 1 .......................... 2.......................... ... | 1 .......................... 2.......................... ... | Bắt buộc |
+
+| 4   | Thư ký dự án                                               |                                                              |                                                              |                                                              | Bắt buộc |
+
+| 5   | Tổng số thành viên Ban quản lý dự án:                      |                                                              |                                                              |                                                              | Bắt buộc |
+
+| 6   | Chứng chỉ chuyên môn của các thành viên ban quản lý dự án: |                                                              |                                                              |                                                              | Bắt buộc |
+
+STT
+
+Vai trò
+
+Chức vụ chính quyền
+
+Trình độ chuyên môn
+
+Số Dự án đã tham gia
+
+Ghi chú
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+1
+
+Giám đốc Ban quản lý dự án
+
+Bắt buộc
+
+2
+
+Phó Giám đốc Ban quản lý dự án
+
+1 ..........................
+
+2..........................
+
+...
+
+1 ..........................
+
+2..........................
+
+...
+
+1 ..........................
+
+2..........................
+
+...
+
+Nếu có
+
+3
+
+Kế toán
+
+1 ..........................
+
+2..........................
+
+...
+
+1 ..........................
+
+2..........................
+
+...
+
+1 ..........................
+
+2..........................
+
+...
+
+Bắt buộc
+
+4
+
+Thư ký dự án
+
+Bắt buộc
+
+5
+
+Tổng số thành viên Ban quản lý dự án:
+
+Bắt buộc
+
+6
+
+Chứng chỉ chuyên môn của các thành viên ban quản lý dự án:
+
+Bắt buộc
+
+3. Nguồn nhân lực phía nhà thầu tư vấn thiết kế
+
+| STT | Vai trò                                                                   | Trình độ chuyên môn | Số năm kinh nghiệm | Số Dự án đã tham gia | Chứng chỉ chuyên môn | Ghi chú  |
+
+|-----|---------------------------------------------------------------------------|---------------------|--------------------|----------------------|----------------------|----------|
+
+| [1] | [2]                                                                       | [3]                 | [4]                | [5]                  | [6]                  | [7]      |
+
+| 1   | Giám đốc dự án                                                            |                     |                    |                      |                      | Bắt buộc |
+
+| 2   | Chủ trì khảo sát                                                          |                     |                    |                      |                      | Bắt buộc |
+
+| 3   | Chủ trì thiết kế                                                          |                     |                    |                      |                      | Bắt buộc |
+
+| 4   | Chuyên gia chính về đầu tư tài chính                                      |                     |                    |                      |                      | Bắt buộc |
+
+| 5   | Chuyên gia chính về nghiệp vụ bài toán (Đối với gói thầu phần mềm nội bộ) |                     |                    |                      |                      | Nếu có   |
+
+| 6   | Vai trò khác: ...............................                             |                     |                    |                      |                      | Nếu có   |
+
+| 7   | Tổng số thành viên tham gia, thực hiện:                                   |                     |                    |                      |                      | Bắt buộc |
+
+STT
+
+Vai trò
+
+Trình độ chuyên môn
+
+Số năm kinh nghiệm
+
+Số Dự án đã tham gia
+
+Chứng chỉ chuyên môn
+
+Ghi chú
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+1
+
+Giám đốc dự án
+
+Bắt buộc
+
+2
+
+Chủ trì khảo sát
+
+Bắt buộc
+
+3
+
+Chủ trì thiết kế
+
+Bắt buộc
+
+4
+
+Chuyên gia chính về đầu tư tài chính
+
+Bắt buộc
+
+5
+
+Chuyên gia chính về nghiệp vụ bài toán (Đối với gói thầu phần mềm nội bộ)
+
+Nếu có
+
+6
+
+Vai trò khác:
+
+...............................
+
+Nếu có
+
+7
+
+Tổng số thành viên tham gia, thực hiện:
+
+Bắt buộc
+
+4. Nguồn nhân lực phía nhà thầu
+
+| STT        | Vai trò                                                          | Họ và tên | Trình độ chuyên môn | Số năm kinh nghiệm | Số Dự án đã tham gia | Chứng chỉ chuyên môn | Ghi chú  |
+
+|------------|------------------------------------------------------------------|-----------|---------------------|--------------------|----------------------|----------------------|----------|
+
+| [1]        | [2]                                                              | [3]       | [4]                 | [5]                | [6]                  | [7]                  | [8]      |
+
+| Gói thầu A |                                                                  |           |                     |                    |                      |                      |          |
+
+| 1          | Giám đốc dự án                                                   |           |                     |                    |                      |                      | Bắt buộc |
+
+| 2          | Phó Giám đốc dự án                                               |           |                     |                    |                      |                      | Nếu có   |
+
+| 3          | Kiến trúc sư hệ thống                                            |           |                     |                    |                      |                      | Bắt buộc |
+
+| 4          | Chuyên gia quản lý chất lượng                                    |           |                     |                    |                      |                      | Bắt buộc |
+
+| 5          | Chuyên gia đầu tư tài chính                                      |           |                     |                    |                      |                      | Nếu có   |
+
+| 6          | Chuyên gia nghiệp vụ bài toán (Đối với gói thầu phần mềm nội bộ) |           |                     |                    |                      |                      | Nếu có   |
+
+| 7          | Chỉ huy thi công                                                 |           |                     |                    |                      |                      | Bắt buộc |
+
+| 8          | Khảo sát, phân tích viên                                         | -         | -                   | -                  | -                    |                      | Bắt buộc |
+
+| 9          | Thiết kế viên                                                    | -         | -                   | -                  | -                    |                      | Bắt buộc |
+
+| 10         | Lập trình viên (Đối với gói thầu phần mềm nội bộ)                | -         | -                   | -                  | -                    |                      | Bắt buộc |
+
+| 11         | Kiểm thử viên                                                    | -         | -                   | -                  | -                    |                      | Bắt buộc |
+
+| 12         | Kỹ thuật viên triển khai, cài đặt, cấu hình                      | -         | -                   | -                  | -                    |                      | Bắt buộc |
+
+| 13         | Cán bộ đào tạo quản trị hệ thống                                 | -         | -                   | -                  | -                    |                      | Bắt buộc |
+
+| 14         | Cán bộ đào tạo người sử dụng                                     | -         | -                   | -                  | -                    |                      | Bắt buộc |
+
+| 15         | Vai trò khác: ......................................             |           |                     |                    |                      |                      | Nếu có   |
+
+| 16         | Tổng số thành viên tham gia, thực hiện:                          |           | Bắt buộc            |                    |                      |                      |          |
+
+| Gói thầu B |                                                                  |           |                     |                    |                      |                      |          |
+
+| …          | …                                                                | …         | …                   | …                  | …                    | …                    | …        |
+
+STT
+
+Vai trò
+
+Họ và tên
+
+Trình độ chuyên môn
+
+Số năm kinh nghiệm
+
+Số Dự án đã tham gia
+
+Chứng chỉ chuyên môn
+
+Ghi chú
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+Gói thầu A
+
+1
+
+Giám đốc dự án
+
+Bắt buộc
+
+2
+
+Phó Giám đốc dự án
+
+Nếu có
+
+3
+
+Kiến trúc sư hệ thống
+
+Bắt buộc
+
+4
+
+Chuyên gia quản lý chất lượng
+
+Bắt buộc
+
+5
+
+Chuyên gia đầu tư tài chính
+
+Nếu có
+
+6
+
+Chuyên gia nghiệp vụ bài toán (Đối với gói thầu phần mềm nội bộ)
+
+Nếu có
+
+7
+
+Chỉ huy thi công
+
+Bắt buộc
+
+8
+
+Khảo sát, phân tích viên
+
+-
+
+-
+
+-
+
+-
+
+Bắt buộc
+
+9
+
+Thiết kế viên
+
+-
+
+-
+
+-
+
+-
+
+Bắt buộc
+
+10
+
+Lập trình viên (Đối với gói thầu phần mềm nội bộ)
+
+-
+
+-
+
+-
+
+-
+
+Bắt buộc
+
+11
+
+Kiểm thử viên
+
+-
+
+-
+
+-
+
+-
+
+Bắt buộc
+
+12
+
+Kỹ thuật viên triển khai, cài đặt, cấu hình
+
+-
+
+-
+
+-
+
+-
+
+Bắt buộc
+
+13
+
+Cán bộ đào tạo quản trị hệ thống
+
+-
+
+-
+
+-
+
+-
+
+Bắt buộc
+
+14
+
+Cán bộ đào tạo người sử dụng
+
+-
+
+-
+
+-
+
+-
+
+Bắt buộc
+
+15
+
+Vai trò khác:
+
+......................................
+
+Nếu có
+
+16
+
+Tổng số thành viên tham gia, thực hiện:
+
+Bắt buộc
+
+Gói thầu B
+
+…
+
+…
+
+…
+
+…
+
+…
+
+…
+
+…
+
+…
+
+| NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên) | …….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên) |
+
+|------------------------------------|--------------------------------------------------------------------------------|
+
+NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên)
+
+…….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên)
+
+Phụ lục VII
+
+Mẫu báo cáo HỒ SƠ TÀI LIỆU KỸ THUẬT
+
+| <Tên cơ quan, đơn vị thực hiện báo cáo> | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  | Ngày nhận: |
+
+|-----------------------------------------|-----------------------------------------------------------------|------------|
+
+<Tên cơ quan, đơn vị thực hiện báo cáo>
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------
+
+Ngày nhận:
+
+BÁO CÁO HỒ SƠ TÀI LIỆU KỸ THUẬT
+
+Kính gửi: .........................................
+
+1. Tên dự án: ..........................................................................................................................
+
+2. Tính chất dự án:
+
+□ Hạ tầng kỹ thuật
+
+□ Phần mềm ứng dụng
+
+□ Hỗn hợp
+
+3. Quy trình công nghệ
+
+□ RUP (đối với dự án phần mềm ứng dụng)
+
+□ ISO
+
+□ Khác: ...................................................................................................................................
+
+4. Hồ sơ tài liệu kỹ thuật bàn giao
+
+a) Hạ tầng kỹ thuật
+
+| STT                        | Giai đoạn thực hiện                                                                                                  | Kết quả                                                                                                               | Xác nhận |
+
+|----------------------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|----------|
+
+| [1]                        | [2]                                                                                                                  | [3]                                                                                                                   | [4]      |
+
+| Gói thầu A: [tên gói thầu] |                                                                                                                      |                                                                                                                       |          |
+
+| 1                          | Khảo sát                                                                                                             | Tài liệu khảo sát (phục vụ thi công, lắp đặt)                                                                         | □        |
+
+| 2                          | Phân tích, đặc tả yêu cầu                                                                                            | Tài liệu đặc tả yêu cầu hệ thống Tài liệu kế hoạch kiểm thử chấp nhận                                                 | □ □      |
+
+| 3                          | Phân tích, thiết kế                                                                                                  | Tài liệu thiết kế thi công, lắp đặt hệ thống                                                                          | □        |
+
+| 4                          | Lắp đặt, cài đặt, cấu hình                                                                                           | Tài liệu kịch bản kiểm thử, chạy thử                                                                                  | □        |
+
+| 5                          | Đào tạo, chuyển giao                                                                                                 | Tài liệu hướng dẫn sử dụng Tài liệu hướng dẫn cài đặt, cấu hình Tài liệu hướng dẫn quản trị hệ thống Tài liệu đào tạo | □ □ □ □  |
+
+| 6                          | Tài liệu khác: ..................................................................................................... |                                                                                                                       |          |
+
+| Gói thầu B: [tên gói thầu] |                                                                                                                      |                                                                                                                       |          |
+
+| …                          | …                                                                                                                    | …                                                                                                                     | …        |
+
+STT
+
+Giai đoạn thực hiện
+
+Kết quả
+
+Xác nhận
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+Gói thầu A: [tên gói thầu]
+
+1
+
+Khảo sát
+
+Tài liệu khảo sát (phục vụ thi công, lắp đặt)
+
+□
+
+2
+
+Phân tích, đặc tả yêu cầu
+
+Tài liệu đặc tả yêu cầu hệ thống
+
+Tài liệu kế hoạch kiểm thử chấp nhận
+
+□
+
+□
+
+3
+
+Phân tích, thiết kế
+
+Tài liệu thiết kế thi công, lắp đặt hệ thống
+
+□
+
+4
+
+Lắp đặt, cài đặt, cấu hình
+
+Tài liệu kịch bản kiểm thử, chạy thử
+
+□
+
+5
+
+Đào tạo, chuyển giao
+
+Tài liệu hướng dẫn sử dụng
+
+Tài liệu hướng dẫn cài đặt, cấu hình
+
+Tài liệu hướng dẫn quản trị hệ thống
+
+Tài liệu đào tạo
+
+□
+
+□
+
+□
+
+□
+
+6
+
+Tài liệu khác:
+
+.....................................................................................................
+
+Gói thầu B: [tên gói thầu]
+
+…
+
+…
+
+…
+
+…
+
+Ghi chú: tham khảo kế hoạch thực hiện và kết quả bàn giao của hợp đồng
+
+[1] Đánh số thứ tự bước triển khai của nhà thầu thi công.
+
+[2] Mô tả tên bước.
+
+[3] Mô tả tài liệu là kết quả thực hiện theo từng bước, tập hợp các tài liệu này tạo thành hồ sơ kỹ thuật của gói thầu.
+
+[4] Xác nhận có trong hồ sơ kỹ thuật của gói thầu hay không
+
+b) Phần mềm ứng dụng
+
+| STT                        | Giai đoạn thực hiện                                                                                                  | Kết quả                                                                                                               | Xác nhận |  |
+
+|----------------------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|----------|--|
+
+| [1]                        | [2]                                                                                                                  | [3]                                                                                                                   | [4]      |  |
+
+| Gói thầu A: [tên gói thầu] |                                                                                                                      |                                                                                                                       |          |  |
+
+| 1                          | Khảo sát                                                                                                             | Tài liệu khảo sát (phục vụ thi công)                                                                                  | □        |  |
+
+| 2                          | Phân tích, đặc tả yêu cầu                                                                                            | Tài liệu đặc tả yêu cầu hệ thống Tài liệu kế hoạch kiểm thử chấp nhận                                                 | □ □      |  |
+
+| 3                          | Phân tích, thiết kế                                                                                                  | Tài liệu thiết kế bậc cao Tài liệu thiết kế chi tiết                                                                  | □ □      |  |
+
+| 4                          | Lập trình                                                                                                            | Đĩa CD chương trình: + Mã nguồn + Chương trình chạy                                                                   | □ □      |  |
+
+| 5                          | Kiểm thử/chạy thử                                                                                                    | Tài liệu kịch bản kiểm thử, bộ dữ liệu mẫu                                                                            | □        |  |
+
+| 6                          | Đào tạo, chuyển giao                                                                                                 | Tài liệu hướng dẫn sử dụng Tài liệu hướng dẫn cài đặt, cấu hình Tài liệu hướng dẫn quản trị hệ thống Tài liệu đào tạo | □ □ □ □  |  |
+
+| 7                          | Tài liệu khác: ..................................................................................................... |                                                                                                                       |          |  |
+
+| Gói thầu B: [tên gói thầu] |                                                                                                                      |                                                                                                                       |          |  |
+
+| ...                        | …                                                                                                                    | ...                                                                                                                   | ...      |  |
+
+|                            |                                                                                                                      |                                                                                                                       |          |  |
+
+STT
+
+Giai đoạn thực hiện
+
+Kết quả
+
+Xác nhận
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+Gói thầu A: [tên gói thầu]
+
+1
+
+Khảo sát
+
+Tài liệu khảo sát (phục vụ thi công)
+
+□
+
+2
+
+Phân tích, đặc tả yêu cầu
+
+Tài liệu đặc tả yêu cầu hệ thống
+
+Tài liệu kế hoạch kiểm thử chấp nhận
+
+□
+
+□
+
+3
+
+Phân tích, thiết kế
+
+Tài liệu thiết kế bậc cao
+
+Tài liệu thiết kế chi tiết
+
+□
+
+□
+
+4
+
+Lập trình
+
+Đĩa CD chương trình:
+
++ Mã nguồn
+
++ Chương trình chạy
+
+□
+
+□
+
+5
+
+Kiểm thử/chạy thử
+
+Tài liệu kịch bản kiểm thử, bộ dữ liệu mẫu
+
+□
+
+6
+
+Đào tạo, chuyển giao
+
+Tài liệu hướng dẫn sử dụng
+
+Tài liệu hướng dẫn cài đặt, cấu hình
+
+Tài liệu hướng dẫn quản trị hệ thống
+
+Tài liệu đào tạo
+
+□
+
+□
+
+□
+
+□
+
+7
+
+Tài liệu khác:
+
+.....................................................................................................
+
+Gói thầu B: [tên gói thầu]
+
+...
+
+…
+
+...
+
+...
+
+Ghi chú: tham khảo kế hoạch thực hiện và kết quả bàn giao của hợp đồng
+
+[1] Đánh số thứ tự bước triển khai của nhà thầu thi công.
+
+[2] Mô tả tên bước.
+
+[3] Mô tả tài liệu là kết quả thực hiện theo từng bước, tập hợp các tài liệu này tạo thành hồ sơ kỹ thuật của gói thầu.
+
+[4] Xác nhận có trong hồ sơ kỹ thuật của gói thầu hay không.
+
+c) Hỗn hợp
+
+Lập báo cáo kết hợp theo hướng dẫn tại điểm (a), (b) ở trên cho từng gói thầu theo tính chất về hạ tầng kỹ thuật, ứng dụng phần mềm, cơ sở dữ liệu.
+
+| NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên) | …….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên) |
+
+|------------------------------------|--------------------------------------------------------------------------------|
+
+NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên)
+
+…….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên)
+
+Phụ lục VIII
+
+Mẫu báo cáo CHI PHÍ ĐẦU TƯ
+
+| <Tên cơ quan, đơn vị thực hiện báo cáo> | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  | Ngày nhận: |
+
+|-----------------------------------------|-----------------------------------------------------------------|------------|
+
+<Tên cơ quan, đơn vị thực hiện báo cáo>
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------
+
+Ngày nhận:
+
+BÁO CÁO CHI PHÍ ĐẦU TƯ
+
+Kính gửi: ..........................
+
+1. Tên dự án: ............................................................................................................
+
+2. Chi phí đầu tư:
+
+| STT | Nội dung                                                                                                                                                                           | Dự toán được duyệt | Tổng giá trị thanh toán | Tổng giá trị quyết toán | Ghi chú |  |  |  |
+
+|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------------------|-------------------------|---------|--|--|--|
+
+| [1] | [2]                                                                                                                                                                                | [3]                | [4]                     | [5]                     | [6]     |  |  |  |
+
+|     | Tổng số                                                                                                                                                                            |                    |                         |                         |         |  |  |  |
+
+| 1   | Chi phí xây lắp - Gói thầu 1 - Gói thầu 2 - …                                                                                                                                      |                    |                         |                         |         |  |  |  |
+
+| 2   | Chi phí thiết bị, phần mềm - Gói thầu A - Gói thầu B - …                                                                                                                           |                    |                         |                         |         |  |  |  |
+
+| 3   | Chi phí quản lý dự án                                                                                                                                                              |                    |                         |                         |         |  |  |  |
+
+| 4   | Chi phí tư vấn - Chi phí lập dự án đầu tư, BCNCKT - Chi phí lập TKKT-TDT - Chi phí lập hồ sơ mời thầu, đánh giá hồ sơ dự thầu - Chi phí giám sát …                                 |                    |                         |                         |         |  |  |  |
+
+| 5   | Chi phí khác - Lệ phí thẩm định BCNCKT/DAĐT - Lệ phí thẩm định TKKT-TDT - Lệ phí thẩm định kết quả lựa chọn nhà thầu - Chi phí kiểm toán - Chi phí thẩm tra phê duyệt quyết toán … |                    |                         |                         |         |  |  |  |
+
+| 6   | Chi phí dự phòng                                                                                                                                                                   |                    |                         |                         |         |  |  |  |
+
+|     |                                                                                                                                                                                    |                    |                         |                         |         |  |  |  |
+
+STT
+
+Nội dung
+
+Dự toán được duyệt
+
+Tổng giá trị thanh toán
+
+Tổng giá trị quyết toán
+
+Ghi chú
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+Tổng số
+
+1
+
+Chi phí xây lắp
+
+- Gói thầu 1
+
+- Gói thầu 2
+
+- …
+
+2
+
+Chi phí thiết bị, phần mềm
+
+- Gói thầu A
+
+- Gói thầu B
+
+- …
+
+3
+
+Chi phí quản lý dự án
+
+4
+
+Chi phí tư vấn
+
+- Chi phí lập dự án đầu tư, BCNCKT
+
+- Chi phí lập TKKT-TDT
+
+- Chi phí lập hồ sơ mời thầu, đánh giá hồ sơ dự thầu
+
+- Chi phí giám sát
+
+…
+
+5
+
+Chi phí khác
+
+- Lệ phí thẩm định BCNCKT/DAĐT
+
+- Lệ phí thẩm định TKKT-TDT
+
+- Lệ phí thẩm định kết quả lựa chọn nhà thầu
+
+- Chi phí kiểm toán
+
+- Chi phí thẩm tra phê duyệt quyết toán
+
+…
+
+6
+
+Chi phí dự phòng
+
+Ghi chú: Thông tin có trong hồ sơ tài liệu quyết toán dự án hoàn thành.
+
+| NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên) | …….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên) |
+
+|------------------------------------|--------------------------------------------------------------------------------|
+
+NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên)
+
+…….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên)
+
+Phụ lục IX
+
+Mẫu báo cáo ĐÁNH GIÁ HIỆU QUẢ ĐẦU TƯ
+
+| <Tên cơ quan, đơn vị thực hiện báo cáo> | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  | Ngày nhận: |
+
+|-----------------------------------------|-----------------------------------------------------------------|------------|
+
+<Tên cơ quan, đơn vị thực hiện báo cáo>
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------
+
+Ngày nhận:
+
+BÁO CÁO ĐÁNH GIÁ HIỆU QUẢ ĐẦU TƯ
+
+Kính gửi: ...................................
+
+1. Tên dự án:.............................................................................................................................
+
+2. Hiệu quả đối với người sử dụng:
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+3. Hiệu quả đối với tổ chức:
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+4. Hiệu quả đối với môi trường hành chính, cộng đồng, xã hội:
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+| NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên) | …….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên) |
+
+|------------------------------------|--------------------------------------------------------------------------------|
+
+NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên)
+
+…….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên)
+
+Phụ lục X
+
+Mẫu báo cáo KINH NGHIỆM TRIỂN KHAI
+
+| <Tên cơ quan, đơn vị thực hiện báo cáo> | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  | Ngày nhận: |
+
+|-----------------------------------------|-----------------------------------------------------------------|------------|
+
+<Tên cơ quan, đơn vị thực hiện báo cáo>
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------
+
+Ngày nhận:
+
+BÁO CÁO KINH NGHIỆM TRIỂN KHAI
+
+Kính gửi: ........................
+
+1. Tên dự án: ............................................................................................................
+
+2. Đã có các văn bản quy định, hướng dẫn quy chế khai thác, vận hành, sử dụng cho hệ thống chưa?
+
+□ Đang thực hiện
+
+□ Có
+
+Nếu “Có” thì đã có bao nhiêu văn bản (liệt kê thứ tự các văn bản):
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+3. Đã có đội ngũ kỹ thuật đảm bảo cho hoạt động của hệ thống?
+
+□ Đã có và đảm bảo được yêu cầu duy trì, vận hành hệ thống
+
+□ Đã có, chưa đủ kinh nghiệm, cần thuê khoán ngoài để duy trì, vận hành hệ thống
+
+□ Đang thành lập
+
+□ Chưa xác định
+
+4. Phương án cài đặt, triển khai hệ thống
+
+□ Thực hiện triển khai đồng thời tất cả các đơn vị trực thuộc
+
+□ Thực hiện triển khai lần lượt từng đơn vị và từng bước hoàn thiện hệ thống
+
+□ Khác: ...................................................................................................................................
+
+……………………………………………………………………………………………………………
+
+5. Lãnh đạo quan tâm ủng hộ dự án, có tích cực tham gia sử dụng hệ thống
+
+□ Quan tâm ủng hộ bằng các quyết định hành chính nhanh chóng, kịp thời và tích cực tham gia sử dụng
+
+□ Quan tâm ủng hộ bằng các quyết định hành chính
+
+□ Ủng hộ và ủy quyền cho một cán bộ trực tiếp
+
+□ Khác: .....................................................................................................................................
+
+……………………………………………………………………………………………………………
+
+6. Phối hợp của các cơ quan, đơn vị khác liên quan đến dự án
+
+□ Thành lập nhóm tham gia, phối hợp triển khai
+
+□ Cử người tham gia triển khai
+
+□ Cử người phối hợp triển khai
+
+□ Khác: .......................................................................................................................................
+
+……………………………………………………………………………………………………………..
+
+7. Hiểu biết về quy trình công nghệ phục vụ quản lý
+
+□ Hiểu biết toàn bộ
+
+□ Hiểu biết một phần
+
+□ Đang tìm hiểu
+
+8. Phối hợp và tận dụng năng lực của tư vấn
+
+□ Chủ động phối hợp và tận dụng có hiệu quả năng lực, kinh nghiệm tư vấn trong suốt quá trình thực hiện hợp đồng với đơn vị tư vấn
+
+□ Tự thực hiện chức năng tư vấn:
+
+□ Khảo sát
+
+□ Lập dự án
+
+□ Quản lý dự án
+
+□ Thiết kế thi công và dự toán Tổng dự toán
+
+□ Lập Hồ sơ mời thầu
+
+□ Giám sát thi công
+
+□ Đánh giá đúng vai trò, nhiệm vụ của tư vấn đầu tư và chỉ tham gia khi đơn vị tư vấn bàn giao kết quả.
+
+□ Ý kiến khác: ..........................................................................................................................
+
+……………………………………………………………………………………………………………
+
+9. Phối hợp và tận dụng năng lực của nhà thầu thi công
+
+□ Chủ động thống nhất kế hoạch và phối hợp công việc, giám sát chặt chẽ, thường xuyên tổ chức hội thảo đánh giá tiến độ, chất lượng
+
+□ Định kỳ đánh giá tiến độ, chất lượng theo yêu cầu của tư vấn giám sát
+
+□ Hợp đồng với tư vấn giám sát và tham gia nghiệm thu, bàn giao kết quả của dự án
+
+□ Ý kiến khác: .........................................................................................................................
+
+……………………………………………………………………………………………………………
+
+10. Phối hợp giữa Chủ đầu tư, Ban quản lý dự án
+
+□ Chủ đầu tư, Ban quản lý dự án thực hiện các hoạt động theo đúng vai trò, chức năng, nhiệm vụ
+
+□ Ban quản lý dự án thay mặt chủ đầu tư tổ chức thực hiện và Chủ đầu tư sử dụng một đơn vị thẩm tra, giám sát hoạt động của Ban quản lý dự án
+
+□ Ban quản lý dự án thay mặt Chủ đầu tư chủ động tổ chức thực hiện toàn bộ dự án
+
+□ Ý kiến khác: ..............................................................................................................................
+
+……………………………………………………………………………………………………………
+
+11. Các bài học triển khai khác:
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+12. Đánh giá chung
+
+□ Dự án thành công
+
+□ Tiết kiệm được kinh phí so với Tổng mức đầu tư, Tổng dự toán đã được phê duyệt
+
+□ Tuân thủ đúng quy trình, thủ tục đầu tư theo quy định pháp luật hiện hành
+
+□ Lựa chọn được giải pháp công nghệ phù hợp cho hạ tầng phần cứng
+
+□ Lựa chọn được giải pháp công nghệ phù hợp cho phần mềm ứng dụng, cơ sở dữ liệu đáp ứng tốt với yêu cầu nghiệp vụ của bài toán cần tin học hóa trong tương lai
+
+□ Triển khai đúng kế hoạch đã được phê duyệt (tham khảo kế hoạch đấu thầu)
+
+□ Triển khai thí điểm cho hạng mục phần mềm ứng dụng
+
+□ Trình độ công nghệ thông tin của người sử dụng đáp ứng chuyển giao, khai thác, vận hành
+
+□ Lý do khác:
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+……………………………………………………………………………………………………………
+
+| NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên) | …….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên) |
+
+|------------------------------------|--------------------------------------------------------------------------------|
+
+NGƯỜI LẬP BIỂU (Ký, ghi rõ họ tên)
+
+…….., ngày.... tháng... năm... THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên)
+
+Phụ lục XI
+
+Mẫu công văn ĐƠN VỊ BÁO CÁO GỬI ĐƠN VỊ ĐẦU MỐI
+
+| <Cơ quan cấp trên> <Tên cơ quan, đơn vị>                              | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------------------------------------------------------------|-----------------------------------------------------------------|
+
+| Số: … V/v báo cáo thông tin dự án đầu tư ứng dụng công nghệ thông tin | …….., ngày.... tháng... năm...                                  |
+
+<Cơ quan cấp trên> <Tên cơ quan, đơn vị> ----------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ------------------------
+
+Số: … V/v báo cáo thông tin dự án đầu tư ứng dụng công nghệ thông tin
+
+…….., ngày.... tháng... năm...
+
+Kính gửi: <Đơn vị đầu mối>
+
+Thực hiện cập nhật thông tin dự án đầu tư ứng dụng công nghệ thông tin quy định tại Thông tư số .../TT-BTTTT ngày .../.../2010 của Bộ trưởng Bộ Thông tin và Truyền thông, sau khi kết thúc <Báo cáo giai đoạn 1/Báo cáo giai đoạn 2>, <Tên cơ quan, đơn vị> đã tiến hành tổng hợp báo cáo thông tin theo quy định, chi tiết báo cáo kèm theo để Quý Cơ quan tập hợp và cập nhật vào Cơ sở dữ liệu quốc gia về các dự án ứng dụng công nghệ thông tin.
+
+Trân trọng./.
+
+|  | THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên) |
+
+|--|-------------------------------------------------|
+
+THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên)
+
+Phụ lục XII
+
+Mẫu công văn ĐƠN VỊ ĐẦU MỐI CẬP NHẬT VÀO CƠ SỞ DỮ LIỆU
+
+| <Cơ quan cấp trên> <Tên cơ quan, đơn vị>                                            | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+
+| Số: …. V/v cập nhật thông tin của các dự án đầu tư ứng dụng công nghệ thông tin năm | …….., ngày.... tháng... năm...                                  |
+
+<Cơ quan cấp trên> <Tên cơ quan, đơn vị> ----------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ------------------------
+
+Số: …. V/v cập nhật thông tin của các dự án đầu tư ứng dụng công nghệ thông tin năm
+
+…….., ngày.... tháng... năm...
+
+Kính gửi: Bộ Thông tin và Truyền thông
+
+Thực hiện cập nhật thông tin dự án đầu tư ứng dụng công nghệ thông tin quy định tại Thông tư số .../TT-BTTTT ngày …../…../2010 của Bộ trưởng Bộ Thông tin và Truyền thông, sau khi tiếp nhận các báo cáo thông tin của các dự án đầu tư ứng dụng công nghệ thông tin từ các Chủ đầu tư, <Tên cơ quan, đơn vị> đã tiến hành phân loại và tập hợp báo cáo thông tin của các dự án đầu tư ứng dụng công nghệ thông tin kèm theo theo bảng tổng hợp dưới đây:
+
+| STT                 | Tên dự án | Chủ đầu tư | Ghi chú |
+
+|---------------------|-----------|------------|---------|
+
+| Báo cáo giai đoạn 1 |           |            |         |
+
+| 1                   |           |            |         |
+
+| 2                   |           |            |         |
+
+| …                   |           |            |         |
+
+| Báo cáo giai đoạn 2 |           |            |         |
+
+| 1                   |           |            |         |
+
+| 2                   |           |            |         |
+
+| …                   |           |            |         |
+
+STT
+
+Tên dự án
+
+Chủ đầu tư
+
+Ghi chú
+
+Báo cáo giai đoạn 1
+
+1
+
+2
+
+…
+
+Báo cáo giai đoạn 2
+
+1
+
+2
+
+…
+
+|  | THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên) |
+
+|--|-------------------------------------------------|
+
+THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên)
+
+Phụ lục XII
+
+Mẫu công văn DANH MỤC DỰ ÁN ĐẦU TƯ
+
+| <Cơ quan cấp trên> <Tên cơ quan, đơn vị>  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-------------------------------------------|-----------------------------------------------------------------|
+
+| Số: ……. V/v danh mục dự án đầu tư năm ... | …….., ngày.... tháng... năm...                                  |
+
+<Cơ quan cấp trên> <Tên cơ quan, đơn vị> ----------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ------------------------
+
+Số: ……. V/v danh mục dự án đầu tư năm ...
+
+…….., ngày.... tháng... năm...
+
+DANH MỤC DỰ ÁN ĐẦU TƯ
+
+Kính gửi: Bộ Thông tin và Truyền thông
+
+| STT | Chủ đầu tư | Tên dự án | Trạng thái | Tiến độ | Thời gian kết thúc |
+
+|-----|------------|-----------|------------|---------|--------------------|
+
+|     |            |           |            |         |                    |
+
+|     |            |           |            |         |                    |
+
+|     |            |           |            |         |                    |
+
+STT
+
+Chủ đầu tư
+
+Tên dự án
+
+Trạng thái
+
+Tiến độ
+
+Thời gian kết thúc
+
+|  | THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên) |
+
+|--|-------------------------------------------------|
+
+THỦ TRƯỞNG ĐƠN VỊ (Ký, đóng dấu, ghi rõ họ tên)
+
+Biểu 05.UDCNTT
+
+Phụ lục I
+
+Mẫu Phiếu cung cấp thông tin dự án, tổ chức, cá nhân đủ điều kiện năng lực tham gia dự án (Các đơn vị thuộc Bộ báo cáo)
+
+| TÊN CƠ QUAN, TỔ CHỨC  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------------|-----------------------------------------------------------------|
+
+| Số: …………              | …….., ngày    tháng năm                                         |
+
+TÊN CƠ QUAN, TỔ CHỨC -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------
+
+Số: …………
+
+…….., ngày tháng năm
+
+PHIẾU CUNG CẤP THÔNG TIN DỰ ÁN, TỔ CHỨC, CÁ NHÂN ĐỦ ĐIỀU KIỆN NĂNG LỰC THAM GIA DỰ ÁN
+
+Kính gửi: (Tên đơn vị đầu mối)
+
+A. Thông tin chung về dự án: (Chỉ cung cấp thông tin của 1 Dự án)
+
+| Mã dự án (1) | Tên dự án (2) | Chủ đầu tư | Cơ quan chủ quản | Địa chỉ Chủ đầu tư | Địa chỉ Cơ quan chủ quản | Điện thoại Chủ đầu tư | Điện thoại Cơ quan chủ quản | Nhóm dự án (3) | Thời gian bắt đầu (4) | Thời gian kết thúc dự kiến (4) |
+
+|--------------|---------------|------------|------------------|--------------------|--------------------------|-----------------------|-----------------------------|----------------|-----------------------|--------------------------------|
+
+|              |               |            |                  |                    |                          |                       |                             |                |                       |                                |
+
+Mã dự án (1)
+
+Tên dự án (2)
+
+Chủ đầu tư
+
+Cơ quan chủ quản
+
+Địa chỉ Chủ đầu tư
+
+Địa chỉ Cơ quan chủ quản
+
+Điện thoại Chủ đầu tư
+
+Điện thoại Cơ quan chủ quản
+
+Nhóm dự án (3)
+
+Thời gian bắt đầu (4)
+
+Thời gian kết thúc dự kiến (4)
+
+B. Thông tin nhà thầu/chủ đầu tư (nếu tự thực hiện) tham gia dự án trên
+
+1. Nhà thầu chính
+
+| Mã dự án (1) | Tên nhà thầu | Số quyết định thành lập/ Giấy chứng nhận đăng ký kinh doanh | Ngày cấp đăng ký kinh doanh / Thành lập (4) | Mã số thuế | Lĩnh vực hoạt động chính | Địa chỉ trụ sở chính | Điện thoại | Fax | Email | Web site (nếu có) | Nhà thầu chính (5) | Nhà thầu phụ (5) | Gói thầu Tư vấn lập dự án (5) | Gói thầu Tư vấn quản lý dự án (5) | Gói thầu Tư vấn khảo sát (5) | Gói thầu Tư vấn thiết kế thi công (5) | Gói thầu Tư vấn giám sát (5) | Gói thầu Thi công (5) |
+
+|--------------|--------------|-------------------------------------------------------------|---------------------------------------------|------------|--------------------------|----------------------|------------|-----|-------|-------------------|--------------------|------------------|-------------------------------|-----------------------------------|------------------------------|---------------------------------------|------------------------------|-----------------------|
+
+|              |              |                                                             |                                             |            |                          |                      |            |     |       |                   |                    |                  |                               |                                   |                              |                                       |                              |                       |
+
+Mã dự án (1)
+
+Tên nhà thầu
+
+Số quyết định thành lập/ Giấy chứng nhận đăng ký kinh doanh
+
+Ngày cấp đăng ký kinh doanh / Thành lập (4)
+
+Mã số thuế
+
+Lĩnh vực hoạt động chính
+
+Địa chỉ trụ sở chính
+
+Điện thoại
+
+Fax
+
+Email
+
+Web site (nếu có)
+
+Nhà thầu chính (5)
+
+Nhà thầu phụ (5)
+
+Gói thầu Tư vấn lập dự án (5)
+
+Gói thầu Tư vấn quản lý dự án (5)
+
+Gói thầu Tư vấn khảo sát (5)
+
+Gói thầu Tư vấn thiết kế thi công (5)
+
+Gói thầu Tư vấn giám sát (5)
+
+Gói thầu Thi công (5)
+
+Cá nhân trực tiếp tham gia dự án (thuộc nhà thầu chính)
+
+| Mã dự án (1) | Họ và tên | Số CMND | Ngày tháng năm sinh (4) | Nguyên quán | Trình độ chuyên môn cao nhất | Năm tốt nghiệp (4) | Chủ trì thiết kế sơ bộ (5) | Giám đốc tư vấn quản lý dự án (5) | Chủ trì khảo sát (5) | Chủ trì thiết kế thi công (5) | Giám sát thi công (5) | Chỉ huy thi công tại hiện trường (5) | Tên nhà thầu | Mã số thuế (nhà thầu) |
+
+|--------------|-----------|---------|-------------------------|-------------|------------------------------|--------------------|----------------------------|-----------------------------------|----------------------|-------------------------------|-----------------------|--------------------------------------|--------------|-----------------------|
+
+|              |           |         |                         |             |                              |                    |                            |                                   |                      |                               |                       |                                      |              |                       |
+
+|              |           |         |                         |             |                              |                    |                            |                                   |                      |                               |                       |                                      |              |                       |
+
+|              |           |         |                         |             |                              |                    |                            |                                   |                      |                               |                       |                                      |              |                       |
+
+Mã dự án (1)
+
+Họ và tên
+
+Số CMND
+
+Ngày tháng năm sinh (4)
+
+Nguyên quán
+
+Trình độ chuyên môn cao nhất
+
+Năm tốt nghiệp (4)
+
+Chủ trì thiết kế sơ bộ (5)
+
+Giám đốc tư vấn quản lý dự án (5)
+
+Chủ trì khảo sát (5)
+
+Chủ trì thiết kế thi công (5)
+
+Giám sát thi công (5)
+
+Chỉ huy thi công tại hiện trường (5)
+
+Tên nhà thầu
+
+Mã số thuế (nhà thầu)
+
+2. Nhà thầu phụ (nếu có): cung cấp thông tin như nhà thầu chính
+
+3. Cá nhân hành nghề độc lập thiết kế, khảo sát, giám sát (nếu có): cung cấp thông tin tương tự như nhà thầu chính, tên nhà thầu là tên cá nhân hành nghề độc lập, không ghi thông tin về số, ngày cấp Quyết định thành lập/ Giấy chứng nhận đăng ký kinh doanh.
+
+|  | Đại diện hợp pháp của chủ đầu tư [Ký, đóng dấu, ghi rõ họ tên, chức danh] |
+
+|--|---------------------------------------------------------------------------|
+
+Đại diện hợp pháp của chủ đầu tư [Ký, đóng dấu, ghi rõ họ tên, chức danh]
+
+Ghi chú:
+
+(1) Mã dự án: mã số dự án được cơ quan tài chính cấp. Để phục vụ cơ quan đầu mối trong công tác tổng hợp, mã dự án được ghi tại tất cả các bảng.
+
+(2) Tên dự án: ghi theo quyết định đầu tư/dự án khả thi/báo cáo nghiên cứu khả thi/báo cáo đầu tư/giấy chứng nhận đầu tư
+
+(3) Nhóm dự án: ghi một trong 04 loại dự án sau: Dự án quan trọng quốc gia, Nhóm A, Nhóm B, Nhóm C
+
+(4) Thời gian: ghi theo định dạng ngày, tháng, năm (dd/mm/yyyy) ví dụ 06/02/2011
+
+(5) Lựa chọn: Nếu đúng thì điền chữ “x”, nếu không phải thì để trống
+
+Phụ lục II
+
+Mẫu Phiếu tổng hợp thông tin dự án, tổ chức, cá nhân đủ điều kiện năng lực tham gia dự án (Cục Tin học và Thống kê tài chính tổng hợp báo cáo)
+
+| TÊN CƠ QUAN, TỔ CHỨC  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------------|-----------------------------------------------------------------|
+
+| Số: ………               | ….., ngày    tháng năm                                          |
+
+TÊN CƠ QUAN, TỔ CHỨC ----------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ------------------------
+
+Số: ………
+
+….., ngày tháng năm
+
+PHIẾU TỔNG HỢP THÔNG TIN DỰ ÁN, TỔ CHỨC, CÁ NHÂN ĐỦ ĐIỀU KIỆN NĂNG LỰC THAM GIA DỰ ÁN (Từ ngày... tháng... năm ... đến ngày... tháng... năm ...)
+
+Kính gửi: Bộ Thông tin và Truyền thông (Cục Ứng dụng công nghệ thông tin)
+
+A. Thông tin dự án: (cung cấp thông tin của các Dự án trong thời gian nêu trên)
+
+| Mã dự án (1) | Tên dự án (2) | Chủ đầu tư | Cơ quan chủ quản | Địa chỉ Chủ đầu tư | Địa chỉ Cơ quan chủ quản | Điện thoại Chủ đầu tư | Điện thoại Cơ quan chủ quản | Nhóm dự án (3) | Thời gian bắt đầu (4) | Thời gian kết thúc dự kiến (4) |
+
+|--------------|---------------|------------|------------------|--------------------|--------------------------|-----------------------|-----------------------------|----------------|-----------------------|--------------------------------|
+
+|              |               |            |                  |                    |                          |                       |                             |                |                       |                                |
+
+|              |               |            |                  |                    |                          |                       |                             |                |                       |                                |
+
+Mã dự án (1)
+
+Tên dự án (2)
+
+Chủ đầu tư
+
+Cơ quan chủ quản
+
+Địa chỉ Chủ đầu tư
+
+Địa chỉ Cơ quan chủ quản
+
+Điện thoại Chủ đầu tư
+
+Điện thoại Cơ quan chủ quản
+
+Nhóm dự án (3)
+
+Thời gian bắt đầu (4)
+
+Thời gian kết thúc dự kiến (4)
+
+B. Thông tin các nhà thầu/chủ đầu tư (nếu tự thực hiện) tham gia các dự án trên
+
+| Mã dự án (1) | Tên nhà thầu | Số quyết định thành lập/ Giấy chứng nhận đăng ký kinh doanh | Ngày cấp đăng ký kinh doanh / thành lập (4) | Mã số thuế | Lĩnh vực hoạt động chính | Địa chỉ trụ sở chính | Điện thoại | Fax | Email | Web site (nếu có) | Nhà thầu chính (5) | Nhà thầu phụ (5) | Gói thầu Tư vấn lập dự án (5) | Gói thầu Tư vấn quản lý dự án (5) | Gói thầu Tư vấn khảo sát (5) | Gói thầu Tư vấn thiết kế thi công (5) | Gói thầu Tư vấn giám sát (5) | Gói thầu Thi công (5) |
+
+|--------------|--------------|-------------------------------------------------------------|---------------------------------------------|------------|--------------------------|----------------------|------------|-----|-------|-------------------|--------------------|------------------|-------------------------------|-----------------------------------|------------------------------|---------------------------------------|------------------------------|-----------------------|
+
+|              |              |                                                             |                                             |            |                          |                      |            |     |       |                   |                    |                  |                               |                                   |                              |                                       |                              |                       |
+
+|              |              |                                                             |                                             |            |                          |                      |            |     |       |                   |                    |                  |                               |                                   |                              |                                       |                              |                       |
+
+|              |              |                                                             |                                             |            |                          |                      |            |     |       |                   |                    |                  |                               |                                   |                              |                                       |                              |                       |
+
+Mã dự án (1)
+
+Tên nhà thầu
+
+Số quyết định thành lập/ Giấy chứng nhận đăng ký kinh doanh
+
+Ngày cấp đăng ký kinh doanh / thành lập (4)
+
+Mã số thuế
+
+Lĩnh vực hoạt động chính
+
+Địa chỉ trụ sở chính
+
+Điện thoại
+
+Fax
+
+Email
+
+Web site (nếu có)
+
+Nhà thầu chính (5)
+
+Nhà thầu phụ (5)
+
+Gói thầu Tư vấn lập dự án (5)
+
+Gói thầu Tư vấn quản lý dự án (5)
+
+Gói thầu Tư vấn khảo sát (5)
+
+Gói thầu Tư vấn thiết kế thi công (5)
+
+Gói thầu Tư vấn giám sát (5)
+
+Gói thầu Thi công (5)
+
+C. Cá nhân (của các tổ chức trên)
+
+| Mã dự án (1) | Họ và tên | Số CMND | Ngày tháng năm sinh (4) | Nguyên quán | Trình độ chuyên môn cao nhất | Năm tốt nghiệp (4) | Chủ trì thiết kế sơ bộ (5) | Giám đốc tư vấn quản lý dự án (5) | Chủ trì khảo sát (5) | Chủ trì thiết kế thi công (5) | Giám sát thi công (5) | Chỉ huy thi công tại hiện trường (5) | Tên nhà thầu | Mã số thuế (nhà thầu) |
+
+|--------------|-----------|---------|-------------------------|-------------|------------------------------|--------------------|----------------------------|-----------------------------------|----------------------|-------------------------------|-----------------------|--------------------------------------|--------------|-----------------------|
+
+|              |           |         |                         |             |                              |                    |                            |                                   |                      |                               |                       |                                      |              |                       |
+
+|              |           |         |                         |             |                              |                    |                            |                                   |                      |                               |                       |                                      |              |                       |
+
+|              |           |         |                         |             |                              |                    |                            |                                   |                      |                               |                       |                                      |              |                       |
+
+Mã dự án (1)
+
+Họ và tên
+
+Số CMND
+
+Ngày tháng năm sinh (4)
+
+Nguyên quán
+
+Trình độ chuyên môn cao nhất
+
+Năm tốt nghiệp (4)
+
+Chủ trì thiết kế sơ bộ (5)
+
+Giám đốc tư vấn quản lý dự án (5)
+
+Chủ trì khảo sát (5)
+
+Chủ trì thiết kế thi công (5)
+
+Giám sát thi công (5)
+
+Chỉ huy thi công tại hiện trường (5)
+
+Tên nhà thầu
+
+Mã số thuế (nhà thầu)
+
+|  | Đại diện hợp pháp của đơn vị đầu mối [Ký, đóng dấu, ghi rõ họ tên, chức danh] |
+
+|--|-------------------------------------------------------------------------------|
+
+Đại diện hợp pháp của đơn vị đầu mối [Ký, đóng dấu, ghi rõ họ tên, chức danh]
+
+Ghi chú:
+
+(1) Mã dự án: mã số dự án được cơ quan tài chính cấp.
+
+(2) Tên dự án: ghi theo quyết định đầu tư/dự án khả thi/báo cáo nghiên cứu khả thi/báo cáo đầu tư/giấy chứng nhận đầu tư
+
+(3) Nhóm dự án: ghi một trong 04 loại dự án sau: Dự án quan trọng quốc gia, Nhóm A, Nhóm B, Nhóm C
+
+(4) Thời gian: ghi theo định dạng ngày, tháng, năm (dd/mm/ yyyy) ví dụ 06/02/2011
+
+(5) Lựa chọn: Nếu đúng thì điền chữ “x”, nếu không phải thì để trống
+
+Biểu 06.UDCNTT
+
+PHỤ LỤC
+
+BIỂU MẪU BÁO CÁO TÌNH HÌNH ỨNG DỤNG CÔNG NGHỆ THÔNG TIN CỦA BỘ, CƠ QUAN NGANG BỘ VÀ CƠ QUAN THUỘC CHÍNH PHỦ1
+
+MỤC 1. THÔNG TIN CHUNG
+
+1. Năm báo cáo: ..........
+
+2. Tên cơ quan báo cáo: ..............
+
+3. Địa chỉ: ............
+
+4. Điện thoại: ………………. Fax: ……………….
+
+5. Thư điện tử liên hệ: ……
+
+6. Địa chỉ trang/cổng thông tin điện tử (Website/Portal) chính thức: ………
+
+7. Tổng số đơn vị thuộc, trực thuộc cơ quan: ............
+
+8. Tổng số cán bộ, công chức, viên chức của toàn cơ quan2: ..........
+
+MỤC 2. THÔNG TIN LIÊN HỆ
+
+1. Họ và tên người thực hiện báo cáo: .....
+
+2. Đơn vị công tác: ....
+
+3. Chức vụ: .......
+
+4. Điện thoại cố định: ………… Điện thoại di động: ……….
+
+5. Thư điện tử: .......
+
+MỤC 3. HẠ TẦNG KỸ THUẬT CÔNG NGHỆ THÔNG TIN
+
+1. Tổng số cán bộ, công chức, viên chức được trang bị máy tính trong toàn cơ quan3: .......
+
+2. Tổng số máy tính có kết nối Internet băng thông rộng (xDSL): .......
+
+3. Tổng số máy tính không kết nối Internet vì lý do an ninh: .......
+
+4. Tổng số máy chủ: ....
+
+5. Số đơn vị có mạng cục bộ (LAN): ............ Tổng số mạng LAN: ………
+
+6. Số đơn vị được kết nối với mạng diện rộng (WAN): .............
+
+7. Hệ thống bảo đảm an toàn, an ninh thông tin
+
+7.1. Tổng số mạng cục bộ được bảo vệ bởi hệ thống tường lửa, hệ thống phát hiện và phòng, chống truy cập trái phép: .......
+
+- Tên các hệ thống tường lửa, hệ thống phát hiện và phòng, chống truy cập trái phép được sử dụng: ........
+
+- Tên nhà cung cấp: .......
+
+7.2. Hệ thống thư điện tử được trang bị phần mềm quét virus, lọc thư rác:
+
+□ Có □ Không
+
+Nếu có:
+
+- Tên phần mềm quét, lọc thư rác được sử dụng: .......
+
+- Tên nhà cung cấp: .......
+
+7.3. Tổng số máy tính được trang bị phần mềm diệt virus: ......
+
+- Tên phần mềm diệt virus được sử dụng: .......
+
+- Tên nhà cung cấp: ......
+
+7.4. Tổng số mạng LAN đã có hệ thống an toàn dữ liệu (tủ/băng đĩa/ SAN/NAS): .......
+
+7.5. Hệ thống an toàn báo cháy, nổ tại phòng máy chủ:
+
+□ Có □ Không
+
+7.6. Hệ thống an toàn chống sét tại phòng máy chủ:
+
+□ Có □ Không
+
+MỤC 4. ỨNG DỤNG CÔNG NGHỆ THÔNG TIN TRONG HOẠT ĐỘNG CỦA CƠ QUAN NHÀ NƯỚC
+
+1. Các ứng dụng đã triển khai
+
+1.1. Quản lý văn bản và điều hành trên môi trường mạng
+
+a) Số đơn vị thuộc, trực thuộc đã được triển khai: ......
+
+b) Số đơn vị thường xuyên sử dụng: .......
+
+c) Chức năng của hệ thống:
+
+□ Quản lý văn bản đi/đến trong nội bộ cơ quan
+
+□ Quản lý văn bản đi/đến với các cơ quan bên ngoài
+
+□ Tác vụ khác (nêu rõ): ......
+
+d) Các chức năng/tính năng chính: .....
+
+đ) Tên ứng dụng: .......
+
+e) Tên nhà cung cấp (nếu có): ........
+
+1.2. Ứng dụng chữ ký số
+
+1.2.1. Việc gửi/nhận văn bản điện tử và trong thư điện tử
+
+a) Số đơn vị thuộc, trực thuộc đã được triển khai: .........
+
+b) Số đơn vị thường xuyên sử dụng: ......
+
+c) Tên văn bản hoặc đường liên kết tới văn bản trên Website/Portal của cơ quan quy định về việc sử dụng chữ ký số: ....
+
+d) Tên nhà cung cấp (nếu có): ..........
+
+1.2.2. Các ứng dụng khác của cơ quan (nêu tên ứng dụng): .......
+
+1.3. Quản lý nhân sự
+
+a) Số đơn vị thuộc, trực thuộc đã được triển khai: .......
+
+b) Số đơn vị thường xuyên sử dụng: ......
+
+c) Các chức năng/tính năng chính: .....
+
+d) Tên phần mềm: ......
+
+đ) Tên nhà cung cấp (nếu có): ......
+
+1.4. Quản lý khoa học - công nghệ
+
+a) Số đơn vị thuộc, trực thuộc đã được triển khai: .........
+
+b) Số đơn vị thường xuyên sử dụng: .......
+
+c) Các chức năng/tính năng chính: .....
+
+d) Tên phần mềm: ......
+
+đ) Tên nhà cung cấp (nếu có): .....
+
+1.5. Quản lý kế toán - tài chính
+
+a) Số đơn vị thuộc, trực thuộc đã được triển khai: .........
+
+b) Số đơn vị thường xuyên sử dụng: .......
+
+c) Các chức năng/tính năng chính: .....
+
+d) Tên phần mềm: ......
+
+đ) Tên nhà cung cấp (nếu có): .....
+
+1.6. Quản lý tài sản
+
+a) Số đơn vị thuộc, trực thuộc đã được triển khai: .........
+
+b) Số đơn vị thường xuyên sử dụng: .......
+
+c) Các chức năng/tính năng chính: .....
+
+d) Tên phần mềm: ......
+
+đ) Tên nhà cung cấp (nếu có): .....
+
+1.7. Quản lý thanh tra, khiếu nại, tố cáo
+
+a) Số đơn vị thuộc, trực thuộc đã được triển khai: .........
+
+b) Số đơn vị thường xuyên sử dụng: .......
+
+c) Các chức năng/tính năng chính: .....
+
+d) Tên phần mềm: ......
+
+đ) Tên nhà cung cấp (nếu có): .....
+
+1.8. Thư điện tử chính thức của cơ quan
+
+a) Số đơn vị thuộc, trực thuộc đã được triển khai: .........
+
+b) Số đơn vị thường xuyên sử dụng: ...........
+
+c) Tỉ lệ cán bộ, công chức được cấp hộp thư điện tử chính thức do cơ quan cung cấp (tính trên toàn bộ các đơn vị tại cơ quan và các cơ quan thuộc, trực thuộc) (%): ......
+
+d) Tỉ lệ cán bộ, công chức thường xuyên sử dụng thư điện tử trong công việc (kiểm tra và sử dụng hàng ngày và tính trên toàn bộ các đơn vị tại cơ quan và các cơ quan thuộc, trực thuộc) (%): ......
+
+đ) Những loại văn bản thường xuyên được trao đổi qua thư điện tử: ....
+
+e) Tỷ lệ văn bản được trao đổi qua thư điện tử trong nội bộ cơ quan (%): .......
+
+g) Tỷ lệ văn bản được trao đổi qua thư điện tử với các cơ quan bên ngoài (%): .......
+
+h) Tên phần mềm quản lý thư điện tử: ........
+
+i) Tên nhà cung cấp (nếu có): ..........
+
+1.9. Tin học hóa việc tiếp nhận và xử lý hồ sơ tại bộ phận một cửa
+
+a) Cách thức triển khai
+
+□ Đồng bộ trên toàn cơ quan (mua tập trung và triển khai đồng bộ cho tất cả các đơn vị thuộc và trực thuộc)
+
+- Tên phần mềm: .........
+
+- Tên nhà cung cấp (nếu có): ........
+
+□ Riêng lẻ theo từng đơn vị (các đơn vị tự mua, tự triển khai)
+
+b) Khả năng xử lý hồ sơ tại bộ phận một cửa
+
+- Khả năng liên thông của hệ thống:
+
+□ Liên thông theo chiều ngang (giữa các đơn vị trực thuộc)
+
+□ Liên thông theo chiều dọc (với các đơn vị cấp dưới trực thuộc)
+
+- Tra cứu thông tin và trạng thái giải quyết hồ sơ:
+
+□ Qua hệ thống màn hình cảm ứng tại trụ sở cơ quan
+
+□ Qua Internet
+
+□ Qua tin nhắn SMS (điện thoại di động)
+
+□ Qua hình thức khác, nêu rõ hình thức: .........
+
+c) Hiệu quả sử dụng trong năm
+
+- Số lượng hồ sơ tiếp nhận qua bộ phận một cửa: ..........
+
+- Số lượng hồ sơ được giải quyết đúng hạn: ..........
+
+1.10. Các ứng dụng chuyên ngành khác
+
+Đối với mỗi ứng dụng, cho biết:
+
+a) Tên ứng dụng: .....
+
+b) Số đơn vị được triển khai: .......
+
+c) Số đơn vị thường xuyên sử dụng: .......
+
+d) Các chức năng/tính năng chính: .........
+
+đ) Tên phần mềm: ..........
+
+e) Tên nhà cung cấp (nếu có): ........
+
+1.11. Các ứng dụng, phần mềm đang sử dụng trên Mạng truyền số liệu chuyên dùng của các cơ quan Đảng, Nhà nước
+
+Đối với mỗi ứng dụng, cho biết:
+
+a) Tên ứng dụng: .........
+
+b) Các chức năng/tính năng chính: ........
+
+2. Hệ thống hội nghị truyền hình
+
+2.1. Tổng số điểm kết nối: .......
+
+2.2. Số cuộc họp qua hệ thống hội nghị truyền hình trên tổng số cuộc họp giữa cơ quan với các cơ quan thuộc, trực thuộc được thực hiện trong năm: ……../……….
+
+2.3. Số cuộc họp qua hội nghị truyền hình trên tổng số cuộc họp giữa cơ quan và địa phương được tổ chức trong năm: ……../………
+
+2.4. Số cuộc họp qua hệ thống hội nghị truyền hình giữa cơ quan với các cơ quan khác trên tổng số cuộc họp được thực hiện trong năm: ……./……..
+
+3. Trao đổi văn bản
+
+3.1. Tỉ lệ văn bản đi/đến được chuyển hoàn toàn trên môi trường mạng (hoàn toàn không dùng văn bản giấy) trên tổng số văn bản đi/đến trong nội bộ cơ quan (%): …
+
+3.2. Tỉ lệ văn bản đi/đến được chuyển hoàn toàn trên môi trường mạng (hoàn toàn không dùng văn bản giấy) trên tổng số văn bản đi/đến với các cơ quan bên ngoài (%): ………
+
+3.3. Tỉ lệ văn bản đi/đến được chuyển song song trên môi trường mạng và qua đường công văn trực tiếp trên tổng số văn bản đi/đến trong nội bộ cơ quan (%): ………..
+
+3.4. Tỉ lệ văn bản đi/đến được chuyển song song trên môi trường mạng và qua đường công văn trực tiếp trên tổng số văn bản đi/đến với cơ quan bên ngoài (%): ……….
+
+MỤC 5. TRANG THÔNG TIN ĐIỆN TỬ HOẶC CỔNG THÔNG TIN ĐIỆN TỬ
+
+1. Hệ thống hiện đang sử dụng là:
+
+□ Trang thông tin điện tử (Website) □ Cổng thông tin điện tử (Portal)
+
+- Hệ thống quản trị cơ sở dữ liệu đang sử dụng cho Website/Portal: .......
+
+Đối với Cổng thông tin điện tử:
+
+- Tên giải pháp (công nghệ) sử dụng: .........
+
+- Hệ thống có đáp ứng các yêu cầu cơ bản về chức năng, tính năng kỹ thuật theo Văn bản số 1654/BTTTT-ƯDCNTT ngày 27/5/2008 và Văn bản số 3386/BTTTT-ƯDCNTT ngày 23/10/2009 của Bộ Thông tin và Truyền thông:
+
+□ Có □ Không
+
+Nếu có, mức độ đáp ứng các chức năng, tính năng kỹ thuật của Cổng (%): ………..
+
+2. Thông tin được cung cấp và cập nhật đầy đủ trên Website/Portal4
+
+2.1. Số lượng tin, bài, văn bản cung cấp trên Website/Portal
+
+| TT | Tiêu chí                                                                                                           | Số lượng tin, bài, văn bản đã đăng tải trong năm |
+
+|----|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+
+| 1  | Tin tức, sự kiện: các tin, bài về hoạt động, các vấn đề liên quan thuộc phạm vi quản lý nhà nước của cơ quan       |                                                  |
+
+| 2  | Thông tin chỉ đạo, điều hành                                                                                       |                                                  |
+
+| a  | Ý kiến chỉ đạo điều hành của thủ trưởng cơ quan                                                                    |                                                  |
+
+| b  | Ý kiến xử lý, phản hồi đối với các kiến nghị, yêu cầu của tổ chức, cá nhân                                         |                                                  |
+
+| c  | Thông tin khen thưởng, xử phạt đối với tổ chức, doanh nghiệp hoạt động trong lĩnh vực quản lý nhà nước của cơ quan |                                                  |
+
+| d  | Lịch làm việc của lãnh đạo Cơ quan (đăng tải theo tuần)                                                            |                                                  |
+
+| 3  | Thông tin tuyên truyền, phổ biến, hướng dẫn thực hiện pháp luật, chế độ, chính sách                                |                                                  |
+
+| a  | Tuyên truyền, phổ biến, hướng dẫn việc thực hiện pháp luật nói chung                                               |                                                  |
+
+| b  | Chế độ, chính sách đối với những lĩnh vực thuộc phạm vi quản lý nhà nước của cơ quan                               |                                                  |
+
+| 4  | Chiến lược, định hướng, quy hoạch, kế hoạch phát triển ngành, lĩnh vực trong phạm vi cả nước                       |                                                  |
+
+| 5  | Hệ thống văn bản quy phạm pháp luật chuyên ngành và văn bản quản lý hành chính có liên quan                        |                                                  |
+
+| 6  | Mục lấy ý kiến góp ý của tổ chức, cá nhân                                                                          |                                                  |
+
+| a  | Đăng tải danh sách văn bản quy phạm pháp luật, chủ trương chính sách cần xin ý kiến                                |                                                  |
+
+| b  | Ý kiến góp ý của tổ chức, cá nhân                                                                                  |                                                  |
+
+| 7  | Thông tin báo cáo thống kê                                                                                         |                                                  |
+
+TT
+
+Tiêu chí
+
+Số lượng tin, bài, văn bản đã đăng tải trong năm
+
+1
+
+Tin tức, sự kiện: các tin, bài về hoạt động, các vấn đề liên quan thuộc phạm vi quản lý nhà nước của cơ quan
+
+2
+
+Thông tin chỉ đạo, điều hành
+
+a
+
+Ý kiến chỉ đạo điều hành của thủ trưởng cơ quan
+
+b
+
+Ý kiến xử lý, phản hồi đối với các kiến nghị, yêu cầu của tổ chức, cá nhân
+
+c
+
+Thông tin khen thưởng, xử phạt đối với tổ chức, doanh nghiệp hoạt động trong lĩnh vực quản lý nhà nước của cơ quan
+
+d
+
+Lịch làm việc của lãnh đạo Cơ quan (đăng tải theo tuần)
+
+3
+
+Thông tin tuyên truyền, phổ biến, hướng dẫn thực hiện pháp luật, chế độ, chính sách
+
+a
+
+Tuyên truyền, phổ biến, hướng dẫn việc thực hiện pháp luật nói chung
+
+b
+
+Chế độ, chính sách đối với những lĩnh vực thuộc phạm vi quản lý nhà nước của cơ quan
+
+4
+
+Chiến lược, định hướng, quy hoạch, kế hoạch phát triển ngành, lĩnh vực trong phạm vi cả nước
+
+5
+
+Hệ thống văn bản quy phạm pháp luật chuyên ngành và văn bản quản lý hành chính có liên quan
+
+6
+
+Mục lấy ý kiến góp ý của tổ chức, cá nhân
+
+a
+
+Đăng tải danh sách văn bản quy phạm pháp luật, chủ trương chính sách cần xin ý kiến
+
+b
+
+Ý kiến góp ý của tổ chức, cá nhân
+
+7
+
+Thông tin báo cáo thống kê
+
+2.2. Cung cấp các mục thông tin về chương trình nghiên cứu, đề tài khoa học và thông tin về dự án, hạng mục đầu tư, đấu thầu, mua sắm công
+
+| TT | Tiêu chí                                                                                                                                                                              | Có | Không |
+
+|----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|-------|
+
+| 1  | Thông tin chương trình nghiên cứu, đề tài khoa học được đưa lên Website/Portal                                                                                                        |    |       |
+
+| a  | Danh mục các chương trình, đề tài bao gồm: mã số, tên, cấp quản lý, lĩnh vực, đơn vị chủ trì, thời gian thực hiện                                                                     | □  | □     |
+
+| b  | Kết quả các chương trình, đề tài sau khi đã được hội đồng nghiệm thu khoa học thông qua bao gồm: báo cáo tổng hợp, báo cáo kết quả triển khai áp dụng của chương trình, đề tài        | □  | □     |
+
+| 2  | Thông tin về dự án, hạng mục đầu tư, đấu thầu, mua sắm công                                                                                                                           |    |       |
+
+| a  | Danh sách các dự án đang chuẩn bị đầu tư, các dự án đã triển khai, các dự án đã hoàn tất                                                                                              | □  | □     |
+
+| b  | Mỗi dự án cần có các thông tin gồm: tên dự án, mục tiêu chính, lĩnh vực chuyên môn, loại dự án, thời gian thực hiện, kinh phí dự án, loại hình tài trợ, nhà tài trợ, tình trạng dự án | □  | □     |
+
+TT
+
+Tiêu chí
+
+Có
+
+Không
+
+1
+
+Thông tin chương trình nghiên cứu, đề tài khoa học được đưa lên Website/Portal
+
+a
+
+Danh mục các chương trình, đề tài bao gồm: mã số, tên, cấp quản lý, lĩnh vực, đơn vị chủ trì, thời gian thực hiện
+
+□
+
+□
+
+b
+
+Kết quả các chương trình, đề tài sau khi đã được hội đồng nghiệm thu khoa học thông qua bao gồm: báo cáo tổng hợp, báo cáo kết quả triển khai áp dụng của chương trình, đề tài
+
+□
+
+□
+
+2
+
+Thông tin về dự án, hạng mục đầu tư, đấu thầu, mua sắm công
+
+a
+
+Danh sách các dự án đang chuẩn bị đầu tư, các dự án đã triển khai, các dự án đã hoàn tất
+
+□
+
+□
+
+b
+
+Mỗi dự án cần có các thông tin gồm: tên dự án, mục tiêu chính, lĩnh vực chuyên môn, loại dự án, thời gian thực hiện, kinh phí dự án, loại hình tài trợ, nhà tài trợ, tình trạng dự án
+
+□
+
+□
+
+2.3. Cập nhật thông tin đầy đủ và kịp thời
+
+| TT | Nội dung cập nhật                                                                                                                                                                                | Có | Không |
+
+|----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|-------|
+
+| 1  | Bảo đảm cập nhật thường xuyên, chính xác theo quy định tại Điều 17 Nghị định số 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ đối với các mục thông tin:                                            |    |       |
+
+| a  | Thông tin giới thiệu                                                                                                                                                                             | □  | □     |
+
+| b  | Tin tức, sự kiện                                                                                                                                                                                 | □  | □     |
+
+| c  | Thông tin chỉ đạo, điều hành                                                                                                                                                                     | □  | □     |
+
+| d  | Thông tin liên hệ của cán bộ, công chức có thẩm quyền bao gồm: họ tên, chức vụ, đơn vị công tác, số điện thoại/fax, địa chỉ thư điện tử chính thức                                               | □  | □     |
+
+| 2  | Thông tin tuyên truyền, phổ biến, hướng dẫn thực hiện pháp luật, chế độ, chính sách: thời gian cập nhật không quá 15 ngày làm việc kể từ khi văn bản pháp luật, chính sách, chế độ được ban hành | □  | □     |
+
+| 3  | Văn bản quy phạm pháp luật chuyên ngành và văn bản quản lý nhà nước                                                                                                                              |    |       |
+
+| a  | Thời gian cập nhật không quá 02 ngày làm việc kể từ ngày văn bản được ban hành đối với cơ quan ban hành văn bản                                                                                  | □  | □     |
+
+| b  | Thời gian cập nhật không quá 10 ngày làm việc kể từ ngày văn bản được ban hành đối với các cơ quan thuộc phạm vi điều chỉnh của văn bản                                                          | □  | □     |
+
+| 4  | Thời gian cập nhật không quá 10 ngày làm việc đối với các mục tin                                                                                                                                |    |       |
+
+| a  | Chiến lược, định hướng, quy hoạch, kế hoạch phát triển                                                                                                                                           | □  | □     |
+
+| b  | Thông tin về dự án, hạng mục đầu tư, đấu thầu, mua sắm công                                                                                                                                      | □  | □     |
+
+| 5  | Đối với mục Trao đổi - Hỏi đáp: chậm nhất 15 ngày làm việc kể từ khi tiếp nhận câu hỏi                                                                                                           | □  | □     |
+
+| 6  | Thông tin về chương trình, đề tài khoa học: thời gian cập nhật không quá 20 ngày làm việc kể từ khi chương trình, đề tài được phê duyệt hoặc sau khi chương trình, đề tài được nghiệm thu        | □  | □     |
+
+| 7  | Thông tin, báo cáo thống kê: thời gian cập nhật không quá 10 ngày làm việc kể từ khi thông tin thống kê được thủ trưởng cơ quan quyết định công bố                                               | □  | □     |
+
+| 8  | Các mục thông tin tiếng nước ngoài: thường xuyên rà soát, cập nhật kịp thời khi có phát sinh hoặc thay đổi                                                                                       | □  | □     |
+
+TT
+
+Nội dung cập nhật
+
+Có
+
+Không
+
+1
+
+Bảo đảm cập nhật thường xuyên, chính xác theo quy định tại Điều 17 Nghị định số 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ đối với các mục thông tin:
+
+a
+
+Thông tin giới thiệu
+
+□
+
+□
+
+b
+
+Tin tức, sự kiện
+
+□
+
+□
+
+c
+
+Thông tin chỉ đạo, điều hành
+
+□
+
+□
+
+d
+
+Thông tin liên hệ của cán bộ, công chức có thẩm quyền bao gồm: họ tên, chức vụ, đơn vị công tác, số điện thoại/fax, địa chỉ thư điện tử chính thức
+
+□
+
+□
+
+2
+
+Thông tin tuyên truyền, phổ biến, hướng dẫn thực hiện pháp luật, chế độ, chính sách: thời gian cập nhật không quá 15 ngày làm việc kể từ khi văn bản pháp luật, chính sách, chế độ được ban hành
+
+□
+
+□
+
+3
+
+Văn bản quy phạm pháp luật chuyên ngành và văn bản quản lý nhà nước
+
+a
+
+Thời gian cập nhật không quá 02 ngày làm việc kể từ ngày văn bản được ban hành đối với cơ quan ban hành văn bản
+
+□
+
+□
+
+b
+
+Thời gian cập nhật không quá 10 ngày làm việc kể từ ngày văn bản được ban hành đối với các cơ quan thuộc phạm vi điều chỉnh của văn bản
+
+□
+
+□
+
+4
+
+Thời gian cập nhật không quá 10 ngày làm việc đối với các mục tin
+
+a
+
+Chiến lược, định hướng, quy hoạch, kế hoạch phát triển
+
+□
+
+□
+
+b
+
+Thông tin về dự án, hạng mục đầu tư, đấu thầu, mua sắm công
+
+□
+
+□
+
+5
+
+Đối với mục Trao đổi - Hỏi đáp: chậm nhất 15 ngày làm việc kể từ khi tiếp nhận câu hỏi
+
+□
+
+□
+
+6
+
+Thông tin về chương trình, đề tài khoa học: thời gian cập nhật không quá 20 ngày làm việc kể từ khi chương trình, đề tài được phê duyệt hoặc sau khi chương trình, đề tài được nghiệm thu
+
+□
+
+□
+
+7
+
+Thông tin, báo cáo thống kê: thời gian cập nhật không quá 10 ngày làm việc kể từ khi thông tin thống kê được thủ trưởng cơ quan quyết định công bố
+
+□
+
+□
+
+8
+
+Các mục thông tin tiếng nước ngoài: thường xuyên rà soát, cập nhật kịp thời khi có phát sinh hoặc thay đổi
+
+□
+
+□
+
+3. Các chức năng hỗ trợ trên Website/Portal
+
+| TT | Tên chức năng                                                                                                         | Hoàn chỉnh | Đang thử nghiệm | Chưa có |
+
+|----|-----------------------------------------------------------------------------------------------------------------------|------------|-----------------|---------|
+
+| 1  | Chức năng hỗ trợ khai thác thông tin                                                                                  |            |                 |         |
+
+| a  | Tiếp nhận, phản hồi thông tin từ các tổ chức, cá nhân                                                                 | □          | □               | □       |
+
+| b  | Đăng các câu hỏi, trả lời trong mục Trao đổi - Hỏi đáp đối với những vấn đề có liên quan chung                        | □          | □               | □       |
+
+| c  | Các chức năng hỗ trợ người khuyết tật tiếp cận thông tin (tăng, giảm cỡ chữ; bộ đọc bài viết, ...)                    | □          | □               | □       |
+
+| d  | Sử dụng công cụ đa phương tiện (audio, video, ...) để hỗ trợ trong việc truyền tải thông tin                          | □          | □               | □       |
+
+| đ  | Hỗ trợ truy cập từ các thiết bị di động cầm tay (có giao diện riêng cho thiết bị di động)                             | □          | □               | □       |
+
+| e  | Cung cấp công cụ cho phép tổ chức, cá nhân đánh giá và xếp hạng đối với một số nội dung thông tin mà cơ quan cung cấp | □          | □               | □       |
+
+| g  | Chức năng cho phép tổ chức, cá nhân theo dõi quá trình xử lý dịch vụ công trực tuyến                                  | □          | □               | □       |
+
+| 2  | Chức năng hỗ trợ cho từng mục thông tin                                                                               |            |                 |         |
+
+| a  | Cho phép tải về văn bản quy phạm pháp luật                                                                            | □          | □               | □       |
+
+| b  | Cho phép đọc được các văn bản quy phạm pháp luật có liên quan thông qua liên kết                                      | □          | □               | □       |
+
+| c  | Công cụ tìm kiếm riêng cho các văn bản quy phạm pháp luật                                                             | □          | □               | □       |
+
+| d  | Công cụ tìm kiếm, tra cứu thuận tiện các dịch vụ công trực tuyến trên Website/Portal                                  | □          | □               | □       |
+
+| đ  | Công cụ đếm số lần truy cập                                                                                           | □          | □               | □       |
+
+| e  | Chức năng hướng dẫn sử dụng dịch vụ công trực tuyến đối với mỗi dịch vụ công từ mức độ 3 trở lên                      | □          | □               | □       |
+
+TT
+
+Tên chức năng
+
+Hoàn chỉnh
+
+Đang thử nghiệm
+
+Chưa có
+
+1
+
+Chức năng hỗ trợ khai thác thông tin
+
+a
+
+Tiếp nhận, phản hồi thông tin từ các tổ chức, cá nhân
+
+□
+
+□
+
+□
+
+b
+
+Đăng các câu hỏi, trả lời trong mục Trao đổi - Hỏi đáp đối với những vấn đề có liên quan chung
+
+□
+
+□
+
+□
+
+c
+
+Các chức năng hỗ trợ người khuyết tật tiếp cận thông tin (tăng, giảm cỡ chữ; bộ đọc bài viết, ...)
+
+□
+
+□
+
+□
+
+d
+
+Sử dụng công cụ đa phương tiện (audio, video, ...) để hỗ trợ trong việc truyền tải thông tin
+
+□
+
+□
+
+□
+
+đ
+
+Hỗ trợ truy cập từ các thiết bị di động cầm tay (có giao diện riêng cho thiết bị di động)
+
+□
+
+□
+
+□
+
+e
+
+Cung cấp công cụ cho phép tổ chức, cá nhân đánh giá và xếp hạng đối với một số nội dung thông tin mà cơ quan cung cấp
+
+□
+
+□
+
+□
+
+g
+
+Chức năng cho phép tổ chức, cá nhân theo dõi quá trình xử lý dịch vụ công trực tuyến
+
+□
+
+□
+
+□
+
+2
+
+Chức năng hỗ trợ cho từng mục thông tin
+
+a
+
+Cho phép tải về văn bản quy phạm pháp luật
+
+□
+
+□
+
+□
+
+b
+
+Cho phép đọc được các văn bản quy phạm pháp luật có liên quan thông qua liên kết
+
+□
+
+□
+
+□
+
+c
+
+Công cụ tìm kiếm riêng cho các văn bản quy phạm pháp luật
+
+□
+
+□
+
+□
+
+d
+
+Công cụ tìm kiếm, tra cứu thuận tiện các dịch vụ công trực tuyến trên Website/Portal
+
+□
+
+□
+
+□
+
+đ
+
+Công cụ đếm số lần truy cập
+
+□
+
+□
+
+□
+
+e
+
+Chức năng hướng dẫn sử dụng dịch vụ công trực tuyến đối với mỗi dịch vụ công từ mức độ 3 trở lên
+
+□
+
+□
+
+□
+
+4. Bảo đảm an toàn thông tin cho Website/Portal
+
+4.1. Chính sách và biện pháp phòng, chống
+
+| TT | Nội dung                                                                                                                      | Có | Không |
+
+|----|-------------------------------------------------------------------------------------------------------------------------------|----|-------|
+
+| 1  | Cơ chế xác thực, cấp phép truy cập, mã hóa thông tin, dữ liệu cho việc truy cập vào các thông tin, dịch vụ cần phải định danh | □  | □     |
+
+| 2  | Thông báo trên Trang chủ cho người sử dụng biết về chính sách bảo đảm an toàn thông tin cá nhân                               | □  | □     |
+
+| 3  | Quy trình cụ thể trong việc thu thập, sử dụng và chia sẻ thông tin cá nhân trên Website/Portal                                | □  | □     |
+
+| 4  | Định kỳ thực hiện sao lưu dữ liệu (tối thiểu 01 lần/tuần)                                                                     | □  | □     |
+
+| 5  | Áp dụng các tiêu chuẩn, quy chuẩn an toàn thông tin                                                                           | □  | □     |
+
+| 6  | Chính sách, thủ tục, quy trình giám sát các khâu tạo lập, xử lý và hủy bỏ dữ liệu                                             | □  | □     |
+
+| 7  | Quy trình lưu trữ nhật ký (logfile) của hệ thống                                                                              | □  | □     |
+
+| 8  | Quy trình quản lý, kiểm tra việc truy cập hệ thống                                                                            | □  | □     |
+
+TT
+
+Nội dung
+
+Có
+
+Không
+
+1
+
+Cơ chế xác thực, cấp phép truy cập, mã hóa thông tin, dữ liệu cho việc truy cập vào các thông tin, dịch vụ cần phải định danh
+
+□
+
+□
+
+2
+
+Thông báo trên Trang chủ cho người sử dụng biết về chính sách bảo đảm an toàn thông tin cá nhân
+
+□
+
+□
+
+3
+
+Quy trình cụ thể trong việc thu thập, sử dụng và chia sẻ thông tin cá nhân trên Website/Portal
+
+□
+
+□
+
+4
+
+Định kỳ thực hiện sao lưu dữ liệu (tối thiểu 01 lần/tuần)
+
+□
+
+□
+
+5
+
+Áp dụng các tiêu chuẩn, quy chuẩn an toàn thông tin
+
+□
+
+□
+
+6
+
+Chính sách, thủ tục, quy trình giám sát các khâu tạo lập, xử lý và hủy bỏ dữ liệu
+
+□
+
+□
+
+7
+
+Quy trình lưu trữ nhật ký (logfile) của hệ thống
+
+□
+
+□
+
+8
+
+Quy trình quản lý, kiểm tra việc truy cập hệ thống
+
+□
+
+□
+
+4.2. Phát hiện và xử lý sự cố6
+
+a) Tổng số lần hệ thống bị sự cố:.......
+
+b) Chi tiết công tác xử lý sự cố:......
+
+| TT                                              | Thời điểm bị tấn công             | Phương thức tấn công | Tấn công Website/Portal của | Thời gian khắc phục (bao nhiêu giờ) | Năng lực xử lý |   |   |
+
+|-------------------------------------------------|-----------------------------------|----------------------|-----------------------------|-------------------------------------|----------------|---|---|
+
+| Bộ, cơ quan ngang Bộ và cơ quan thuộc Chính phủ | Cơ quan/ Đơn vị thuộc, trực thuộc | Tự thực hiện         | Nhờ chuyên gia ngoài        |                                     |                |   |   |
+
+|                                                 |                                   |                      |                             |                                     |                | □ | □ |
+
+|                                                 |                                   |                      |                             |                                     |                | □ | □ |
+
+TT
+
+Thời điểm bị tấn công
+
+Phương thức tấn công
+
+Tấn công Website/Portal của
+
+Thời gian khắc phục (bao nhiêu giờ)
+
+Năng lực xử lý
+
+Bộ, cơ quan ngang Bộ và cơ quan thuộc Chính phủ
+
+Cơ quan/ Đơn vị thuộc, trực thuộc
+
+Tự thực hiện
+
+Nhờ chuyên gia ngoài
+
+□
+
+□
+
+□
+
+□
+
+5. Cung cấp dịch vụ công trực tuyến (đối với các cơ quan có cung cấp dịch vụ hành chính công)7
+
+5.1. Tổng số dịch vụ hành chính công (toàn bộ số lượng thủ tục hành chính của cơ quan): ......
+
+5.2. Tổng số dịch vụ công trực tuyến mức độ 1, 2: ...........
+
+5.3. Cung cấp thông tin về dịch vụ hành chính công trực tuyến từ mức độ 3 trở lên theo biểu mẫu sau:
+
+DANH SÁCH CÁC DỊCH VỤ CÔNG TRỰC TUYẾN MỨC ĐỘ 3 TRỞ LÊN
+
+Cơ quan: ......................................................
+
+| TT  | Nhóm dịch vụ công | Tên dịch vụ công | Mức dịch vụ | Địa chỉ đăng tải dịch vụ | Tên đơn vị cung cấp | Thời điểm sử dụng | Tỉ lệ hồ sơ đã được giải quyết trực tuyến trong năm (%) | Số lượng hồ sơ được giải quyết trực tuyến trong năm |
+
+|-----|-------------------|------------------|-------------|--------------------------|---------------------|-------------------|---------------------------------------------------------|-----------------------------------------------------|
+
+| (1) | (2)               | (3)              | (4)         | (5)                      | (6)                 | (7)               | (8)                                                     | (9)                                                 |
+
+| 1   |                   |                  |             |                          |                     |                   |                                                         |                                                     |
+
+| 2   |                   |                  |             |                          |                     |                   |                                                         |                                                     |
+
+TT
+
+Nhóm dịch vụ công
+
+Tên dịch vụ công
+
+Mức dịch vụ
+
+Địa chỉ đăng tải dịch vụ
+
+Tên đơn vị cung cấp
+
+Thời điểm sử dụng
+
+Tỉ lệ hồ sơ đã được giải quyết trực tuyến trong năm (%)
+
+Số lượng hồ sơ được giải quyết trực tuyến trong năm
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+1
+
+2
+
+6. Các dịch vụ trực tuyến khác (không thuộc loại dịch vụ công)
+
+| DANH SÁCH DỊCH VỤ TRỰC TUYẾN KHÁC Cơ quan: ........................................................................ |              |             |             |                                    |                     |
+
+|---------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------------|------------------------------------|---------------------|
+
+| TT                                                                                                                  | Nhóm dịch vụ | Tên dịch vụ | Mức dịch vụ | Địa chỉ trang Web đăng tải dịch vụ | Tên đơn vị cung cấp |
+
+| (1)                                                                                                                 | (2)          | (3)         | (4)         | (5)                                | (6)                 |
+
+|                                                                                                                     |              |             |             |                                    |                     |
+
+DANH SÁCH DỊCH VỤ TRỰC TUYẾN KHÁC Cơ quan: ........................................................................
+
+TT
+
+Nhóm dịch vụ
+
+Tên dịch vụ
+
+Mức dịch vụ
+
+Địa chỉ trang Web đăng tải dịch vụ
+
+Tên đơn vị cung cấp
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+7. Công tác tổ chức quản trị Website/Portal
+
+7.1. Tên văn bản và đường liên kết đăng tải văn bản về Quy chế quản lý, vận hành, duy trì Website/Portal: .........
+
+7.2. Ban Biên tập trang thông tin điện tử:
+
+a) Tổng số thành viên của Ban Biên tập: ............................... (người)
+
+b) Số thành viên biên tập trang thông tin: ............................... (người)
+
+c) Số thành viên xử lý dịch vụ công trực tuyến: ………………. (người)
+
+d) Số thành viên quản trị kỹ thuật: ............................................ (người)
+
+đ) Số hiệu văn bản hoặc đường liên kết đăng tải quyết định thành lập: ...............................
+
+MỤC 6. CÔNG TÁC BẢO ĐẢM AN TOÀN, AN NINH THÔNG TIN
+
+| TT | Nội dung                                                                                                                             | Có | Không |
+
+|----|--------------------------------------------------------------------------------------------------------------------------------------|----|-------|
+
+| 1  | Nội quy, quy chế về việc bảo đảm an toàn thông tin cá nhân áp dụng cho cán bộ, công chức trong nội bộ cơ quan                        | □  | □     |
+
+| 2  | Giải pháp bảo vệ, ngăn chặn và phát hiện sớm việc truy cập trái phép vào mạng máy tính hay thiết bị lưu trữ dữ liệu                  | □  | □     |
+
+| 3  | Cài đặt các ứng dụng bảo vệ như hệ thống diệt virus hay hệ thống phòng, chống truy cập trái phép                                     | □  | □     |
+
+| 4  | Quy định về bảo đảm an toàn, an ninh thông tin trong quá trình thiết kế, xây dựng, vận hành, nâng cấp và hủy bỏ các hạ tầng kỹ thuật | □  | □     |
+
+| 5  | Chính sách phân loại, lưu trữ, bảo vệ các danh mục bí mật nhà nước về thông tin số                                                   | □  | □     |
+
+| 6  | Nội quy bảo đảm an toàn, an ninh thông tin trong cơ quan                                                                             | □  | □     |
+
+| 7  | Cán bộ phụ trách quản lý an toàn, an ninh thông tin chuyên trách hoặc kiêm nhiệm                                                     | □  | □     |
+
+| 8  | Quy trình giám sát, hướng dẫn và kiểm tra định kỳ việc thực hiện các biện pháp bảo đảm an toàn, an ninh thông tin cho toàn hệ thống  | □  | □     |
+
+| 9  | Chính sách, thủ tục quản lý việc di chuyển các thiết bị công nghệ thông tin lưu trữ thông tin thuộc danh mục bí mật nhà nước         | □  | □     |
+
+| 10 | Sử dụng công nghệ xác thực khi truy cập hệ thống                                                                                     | □  | □     |
+
+| 11 | Giải pháp quản lý truy cập máy chủ, máy trạm                                                                                         | □  | □     |
+
+| 12 | Chính sách liên quan đến việc cài đặt các phần mềm mới lên máy chủ và máy trạm                                                       | □  | □     |
+
+| 13 | Giải pháp kỹ thuật để theo dõi tình trạng lây nhiễm và loại bỏ phần mềm độc hại ra khỏi hệ thống                                     | □  | □     |
+
+| 14 | Tổ chức phổ biến các quy định của pháp luật và nội quy của cơ quan về an toàn, an ninh thông tin cho các cán bộ, công chức           | □  | □     |
+
+| 15 | Đào tạo cán bộ chuyên sâu về an toàn, an ninh thông tin                                                                              | □  | □     |
+
+| 16 | Tổ chức đánh giá an toàn thông tin định kỳ cho hệ thống công nghệ thông tin                                                          | □  | □     |
+
+| 17 | Xây dựng kế hoạch phản ứng với các sự cố an toàn, an ninh thông tin                                                                  | □  | □     |
+
+| 18 | Kịch bản cụ thể trong việc phối hợp xử lý sự cố an toàn, an ninh thông tin                                                           | □  | □     |
+
+TT
+
+Nội dung
+
+Có
+
+Không
+
+1
+
+Nội quy, quy chế về việc bảo đảm an toàn thông tin cá nhân áp dụng cho cán bộ, công chức trong nội bộ cơ quan
+
+□
+
+□
+
+2
+
+Giải pháp bảo vệ, ngăn chặn và phát hiện sớm việc truy cập trái phép vào mạng máy tính hay thiết bị lưu trữ dữ liệu
+
+□
+
+□
+
+3
+
+Cài đặt các ứng dụng bảo vệ như hệ thống diệt virus hay hệ thống phòng, chống truy cập trái phép
+
+□
+
+□
+
+4
+
+Quy định về bảo đảm an toàn, an ninh thông tin trong quá trình thiết kế, xây dựng, vận hành, nâng cấp và hủy bỏ các hạ tầng kỹ thuật
+
+□
+
+□
+
+5
+
+Chính sách phân loại, lưu trữ, bảo vệ các danh mục bí mật nhà nước về thông tin số
+
+□
+
+□
+
+6
+
+Nội quy bảo đảm an toàn, an ninh thông tin trong cơ quan
+
+□
+
+□
+
+7
+
+Cán bộ phụ trách quản lý an toàn, an ninh thông tin chuyên trách hoặc kiêm nhiệm
+
+□
+
+□
+
+8
+
+Quy trình giám sát, hướng dẫn và kiểm tra định kỳ việc thực hiện các biện pháp bảo đảm an toàn, an ninh thông tin cho toàn hệ thống
+
+□
+
+□
+
+9
+
+Chính sách, thủ tục quản lý việc di chuyển các thiết bị công nghệ thông tin lưu trữ thông tin thuộc danh mục bí mật nhà nước
+
+□
+
+□
+
+10
+
+Sử dụng công nghệ xác thực khi truy cập hệ thống
+
+□
+
+□
+
+11
+
+Giải pháp quản lý truy cập máy chủ, máy trạm
+
+□
+
+□
+
+12
+
+Chính sách liên quan đến việc cài đặt các phần mềm mới lên máy chủ và máy trạm
+
+□
+
+□
+
+13
+
+Giải pháp kỹ thuật để theo dõi tình trạng lây nhiễm và loại bỏ phần mềm độc hại ra khỏi hệ thống
+
+□
+
+□
+
+14
+
+Tổ chức phổ biến các quy định của pháp luật và nội quy của cơ quan về an toàn, an ninh thông tin cho các cán bộ, công chức
+
+□
+
+□
+
+15
+
+Đào tạo cán bộ chuyên sâu về an toàn, an ninh thông tin
+
+□
+
+□
+
+16
+
+Tổ chức đánh giá an toàn thông tin định kỳ cho hệ thống công nghệ thông tin
+
+□
+
+□
+
+17
+
+Xây dựng kế hoạch phản ứng với các sự cố an toàn, an ninh thông tin
+
+□
+
+□
+
+18
+
+Kịch bản cụ thể trong việc phối hợp xử lý sự cố an toàn, an ninh thông tin
+
+□
+
+□
+
+MỤC 7. CƠ CHẾ, CHÍNH SÁCH VÀ CÁC QUY ĐỊNH CHO ỨNG DỤNG CÔNG NGHỆ THÔNG TIN
+
+| TT  | Nội dung văn bản                                                                                             | Ngày ban hành | Số và ký hiệu văn bản | Trích yếu | Đường Liên kết |
+
+|-----|--------------------------------------------------------------------------------------------------------------|---------------|-----------------------|-----------|----------------|
+
+| 1   | Kế hoạch ứng dụng công nghệ thông tin (CNTT) giai đoạn 5 năm                                                 |               |                       |           |                |
+
+| 2   | Kế hoạch ứng dụng CNTT trong năm                                                                             |               |                       |           |                |
+
+| 3   | Gắn kết giữa ứng dụng công nghệ thông tin với cải cách hành chính                                            |               |                       |           |                |
+
+| 3.1 | Chương trình, kế hoạch cải cách hành chính có bao gồm nội dung ứng dụng CNTT                                 |               |                       |           |                |
+
+| 3.2 | Thủ tục hành chính được chuẩn hóa theo tiêu chuẩn ISO để ứng dụng CNTT                                       |               |                       |           |                |
+
+| 4   | Quy định khuyến khích ứng dụng CNTT trong toàn ngành                                                         |               |                       |           |                |
+
+| 5   | Quy định về quy trình trao đổi, lưu trữ, xử lý văn bản điện tử trong nội bộ cơ quan và các đơn vị trực thuộc |               |                       |           |                |
+
+| 6   | Quy định về quản lý, sử dụng hệ thống thư điện tử của cơ quan                                                |               |                       |           |                |
+
+| 7   | Quy định nhằm giảm giấy tờ, tăng cường chia sẻ thông tin trong hoạt động của cơ quan                         |               |                       |           |                |
+
+| 8   | Quy định về phát triển nguồn nhân lực cho ứng dụng CNTT trong toàn ngành                                     |               |                       |           |                |
+
+| 9   | Quy định về bảo đảm an toàn, an ninh thông tin                                                               |               |                       |           |                |
+
+| 10  | Quy định về chế độ ưu đãi đối với cán bộ chuyên trách CNTT                                                   |               |                       |           |                |
+
+| 11  | Quy định về các vấn đề khác liên quan đến ứng dụng CNTT                                                      |               |                       |           |                |
+
+TT
+
+Nội dung văn bản
+
+Ngày ban hành
+
+Số và ký hiệu văn bản
+
+Trích yếu
+
+Đường Liên kết
+
+1
+
+Kế hoạch ứng dụng công nghệ thông tin (CNTT) giai đoạn 5 năm
+
+2
+
+Kế hoạch ứng dụng CNTT trong năm
+
+3
+
+Gắn kết giữa ứng dụng công nghệ thông tin với cải cách hành chính
+
+3.1
+
+Chương trình, kế hoạch cải cách hành chính có bao gồm nội dung ứng dụng CNTT
+
+3.2
+
+Thủ tục hành chính được chuẩn hóa theo tiêu chuẩn ISO để ứng dụng CNTT
+
+4
+
+Quy định khuyến khích ứng dụng CNTT trong toàn ngành
+
+5
+
+Quy định về quy trình trao đổi, lưu trữ, xử lý văn bản điện tử trong nội bộ cơ quan và các đơn vị trực thuộc
+
+6
+
+Quy định về quản lý, sử dụng hệ thống thư điện tử của cơ quan
+
+7
+
+Quy định nhằm giảm giấy tờ, tăng cường chia sẻ thông tin trong hoạt động của cơ quan
+
+8
+
+Quy định về phát triển nguồn nhân lực cho ứng dụng CNTT trong toàn ngành
+
+9
+
+Quy định về bảo đảm an toàn, an ninh thông tin
+
+10
+
+Quy định về chế độ ưu đãi đối với cán bộ chuyên trách CNTT
+
+11
+
+Quy định về các vấn đề khác liên quan đến ứng dụng CNTT
+
+MỤC 8. NHÂN LỰC VÀ ĐẦU TƯ CHO ỨNG DỤNG CÔNG NGHỆ THÔNG TIN
+
+1. Tổng số cán bộ chuyên trách về CNTT: ..........
+
+Trong đó:
+
+1.1. Số cán bộ tại đơn vị chuyên trách CNTT của cơ quan: ........
+
+1.2. Số đơn vị thuộc, trực thuộc cơ quan có cán bộ chuyên trách (hoặc phụ trách) về CNTT:.....
+
+1.3. Trình độ chuyên môn nghiệp vụ của cán bộ chuyên trách CNTT (văn bằng trong lĩnh vực CNTT):
+
+| Tiến sỹ: .................................. | Thạc sỹ: ..................................   |
+
+|---------------------------------------------|-----------------------------------------------|
+
+| Đại học: .................................. | Cao đẳng: ...............................     |
+
+| Trung cấp:...............................   | Khác:........................................ |
+
+Tiến sỹ: ..................................
+
+Thạc sỹ: ..................................
+
+Đại học: ..................................
+
+Cao đẳng: ...............................
+
+Trung cấp:...............................
+
+Khác:........................................
+
+2. Tỉ lệ cán bộ, công chức, viên chức thường xuyên sử dụng máy tính để xử lý công việc (%):…
+
+3. Tổ chức đào tạo nâng cao trình độ tin học (CNTT) cho cán bộ trong năm:
+
+3.1. Số lớp được tổ chức: ...............................
+
+3.2. Tổng số cán bộ được đào tạo: ...............................
+
+3.3. Nội dung đào tạo: ...............................
+
+4. Tổng chi ngân sách cho ứng dụng CNTT trong năm (triệu đồng): ...............................
+
+5. Tỉ lệ chi cho ứng dụng CNTT trên tổng ngân sách trong năm (%): ...............................
+
+6. Tổng chi mua sắm phần cứng trong năm (triệu đồng): ...............................
+
+7. Tổng chi mua sắm, xây dựng phần mềm trong năm (triệu đồng): ...............................
+
+8. Tổng chi đào tạo cán bộ chuyên trách CNTT trong năm (triệu đồng): ...............................
+
+9. Tổng chi đào tạo nâng cao trình độ tin học cho cán bộ, công chức, viên chức trong năm (triệu đồng): ......................................................
+
+| …….., ngày.... tháng... năm... Người khai (Ký và ghi rõ họ, tên) | …….., ngày.... tháng... năm... Thủ trưởng cơ quan (Ký tên, đóng dấu) |
+
+|------------------------------------------------------------------|----------------------------------------------------------------------|
+
+…….., ngày.... tháng... năm... Người khai (Ký và ghi rõ họ, tên)
+
+…….., ngày.... tháng... năm... Thủ trưởng cơ quan (Ký tên, đóng dấu)
+
+Biểu 07.UDCNTT
+
+PHỤ LỤC
+
+KHUNG QUY ĐỊNH KỸ THUẬT VỀ DỮ LIỆU (Ban hành kèm theo Thông tư số 25/2014/TT-BTTTT ngày 30 tháng 12 năm 2014 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về triển khai các hệ thống thông tin có quy mô và phạm vi từ Trung ương đến địa phương)
+
+Khung này dùng để các Bộ, ngành tham khảo khi xây dựng, ban hành Quy định kỹ thuật về dữ liệu của các hệ thống thông tin.
+
+Nội dung bao gồm:
+
+Tên: QUY ĐỊNH KỸ THUẬT VỀ DỮ LIỆU [tên hệ thống thông tin]
+
+Phần 1. Quy định chung
+
+- Phạm vi áp dụng
+
+- Đối tượng áp dụng
+
+- Giải thích từ ngữ
+
+Phần 2. Quy định kỹ thuật về dữ liệu
+
+Nội dung này quy định cụ thể về nội dung, cấu trúc và kiểu thông tin của dữ liệu. Nội dung dữ liệu của hệ thống thông tin sẽ triển khai cần được mô tả đầy đủ và xem xét phân nhóm, quy định cụ thể về kỹ thuật của các nhóm, thành phần dữ liệu để công tác tổ chức, quản lý dữ liệu được hiệu quả.
+
+Cụ thể bao gồm các nội dung chính sau:
+
+I. Nội dung dữ liệu
+
+Nội dung này quy định các thành phần dữ liệu hoặc nhóm dữ liệu cụ thể trong toàn bộ các thành phần dữ liệu của hệ thống thông tin để thuận tiện trong quản lý. Các thành phần dữ liệu có chung đặc tính được tạo thành một Nhóm dữ liệu. Mỗi Nhóm dữ liệu có thể phân thành các cấp theo các mức độ chi tiết khác nhau của dữ liệu.
+
+Ví dụ về phân Nhóm dữ liệu:
+
+| Tên nhóm              | Các thành phần nhóm dữ liệu cấp 1 | Các thành phần nhóm dữ liệu cấp 2 |
+
+|-----------------------|-----------------------------------|-----------------------------------|
+
+| Nhóm dữ liệu về Người |                                   |                                   |
+
+|                       | Họ và tên                         |                                   |
+
+|                       |                                   | Họ đệm                            |
+
+|                       |                                   | Tên                               |
+
+|                       | Ngày sinh                         |                                   |
+
+|                       | Quê quán                          |                                   |
+
+|                       | Chứng minh nhân dân               |                                   |
+
+|                       |                                   | Số CMTND                          |
+
+|                       |                                   | Ngày cấp                          |
+
+|                       |                                   | Nơi cấp                           |
+
+|                       | Địa chỉ                           |                                   |
+
+|                       |                                   | Số nhà, ngõ, xóm                  |
+
+|                       |                                   | Đường/phố                         |
+
+|                       |                                   | Xã/phường                         |
+
+|                       |                                   | Quận/huyện                        |
+
+|                       |                                   | Tỉnh/thành phố                    |
+
+Tên nhóm
+
+Các thành phần nhóm dữ liệu cấp 1
+
+Các thành phần nhóm dữ liệu cấp 2
+
+Nhóm dữ liệu về Người
+
+Họ và tên
+
+Họ đệm
+
+Tên
+
+Ngày sinh
+
+Quê quán
+
+Chứng minh nhân dân
+
+Số CMTND
+
+Ngày cấp
+
+Nơi cấp
+
+Địa chỉ
+
+Số nhà, ngõ, xóm
+
+Đường/phố
+
+Xã/phường
+
+Quận/huyện
+
+Tỉnh/thành phố
+
+Thông tin mô tả Nhóm dữ liệu cần phải quy định được các thông tin tối thiểu sau:
+
+- Tên nhóm dữ liệu: Tên Nhóm dữ liệu được diễn đạt bằng ngôn ngữ.
+
+- Cấp độ nhóm dữ liệu: Mỗi nhóm dữ liệu được phân thành các cấp theo các mức độ chi tiết khác nhau của dữ liệu (cao nhất cấp độ 1, tiếp theo cấp độ 2, 3...)
+
+- Mã thông tin: Được xác định đối với mỗi Nhóm dữ liệu, là một bộ gồm các thành phần được đặt liên tiếp nhau có dấu chấm (.) ngăn cách. Ví dụ: Mã thông tin đặt theo nguyên tắc KýHiệuNhóm.Cấp.SốThứTự. Khi đó Nhóm dữ liệu về Người có thể đặt mã là NG1.1, trong đó thành phần thứ nhất “NG” là từ viết tắt của Nhóm dữ liệu, thành phần thứ hai là cấp của Nhóm dữ liệu, thành phần thứ ba là số thứ tự của Mã thông tin trong cùng cấp.
+
+- Đối tượng thông tin: Là tên đối tượng được mô tả, ví dụ: cá nhân, tổ chức, tài sản, tài liệu,...
+
+- Các thành phần dữ liệu của nhóm (được quy định trong mục II).
+
+- Đặc tính: Đặc điểm chung cho tất cả các thành phần dữ liệu của nhóm.
+
+II. Quy định kỹ thuật các thành phần dữ liệu
+
+Thành phần dữ liệu là đơn vị dữ liệu nhỏ nhất của đối tượng thông tin trong Nhóm dữ liệu. Trong nội dung này, các thành phần dữ liệu phải được quy định cụ thể, chi tiết về đặc tính kỹ thuật, bao gồm các đặc tính cơ bản sau:
+
+- Tên trường (thành phần) dữ liệu: Tên trường dữ liệu được diễn đạt bằng ngôn ngữ.
+
+- Ký hiệu trường dữ liệu
+
+- Kiểu dữ liệu: Là tập các giá trị được đặc trưng bởi đặc tính dữ liệu và các thao tác trên các giá trị đó.
+
+- Miền giá trị: Là tập các giá trị hợp lệ cho một hoặc nhiều thành phần dữ liệu, được sử dụng để kiểm tra sự hợp lệ của dữ liệu. Miền giá trị có thể là các giá trị liệt kê hoặc mô tả.
+
+- Độ dài dữ liệu (đối với trường dữ liệu kiểu chuỗi ký tự).
+
+- Mô tả: Mô tả ý nghĩa trường dữ liệu.
+
+Ví dụ:
+
+| Tên nhóm dữ liệu: Nhóm dữ liệu về Người |                     |                        |                                  |                 |                 |                                                        |                                                                                     |
+
+|-----------------------------------------|---------------------|------------------------|----------------------------------|-----------------|-----------------|--------------------------------------------------------|-------------------------------------------------------------------------------------|
+
+| Cấp độ: Cấp 1                           |                     |                        |                                  |                 |                 |                                                        |                                                                                     |
+
+| Mã thông tin                            | Phân cấp thông tin  | Ký hiệu trường dữ liệu | Kiểu dữ liệu                     | Độ dài          | Mô tả           |                                                        |                                                                                     |
+
+| Đối tượng thông tin                     | Trường dữ liệu      |                        | Tiếng Việt                       | Tiếng Anh       |                 |                                                        |                                                                                     |
+
+| NG.1.1                                  | Cá nhân             |                        |                                  |                 |                 |                                                        |                                                                                     |
+
+|                                         |                     | Loại cá nhân           | Loaicanhan                       | Chuỗi ký tự     | CharacterString | 3                                                      | Là mã thông tin phân loại cá nhân                                                   |
+
+|                                         |                     | Họ và tên              | Chi tiết tại mã thông tin NG.2.1 |                 |                 |                                                        | Là họ và tên đầy đủ của cá nhân.                                                    |
+
+|                                         |                     | Ngày tháng năm sinh    | Ngaysinh                         | Ngày tháng      | Date/Integer    |                                                        | Là ngày, tháng, năm sinh của cá nhân.                                               |
+
+|                                         |                     | Giới tính              | Gioitinh                         | Lô gíc          | Boolean         |                                                        | Thể hiện giới tính của cá nhân                                                      |
+
+|                                         |                     | Chứng minh nhân dân    | Chi tiết tại mã thông tin NG.2.2 |                 |                 |                                                        | Là thông tin về chứng minh nhân dân của cá nhân là người Việt Nam trong nước.       |
+
+|                                         |                     | ….                     |                                  |                 |                 |                                                        |                                                                                     |
+
+| NG.1.2                                  | Hộ gia đình         |                        |                                  |                 |                 |                                                        |                                                                                     |
+
+|                                         |                     | Chủ hộ                 | Chi tiết tại mã thông tin NG.1.1 |                 |                 |                                                        | Là cá nhân có vai trò là chủ hộ. Một hộ gia đình có duy nhất một cá nhân là chủ hộ. |
+
+|                                         |                     | Vợ/chồng               | Chi tiết tại mã thông tin NG.1.1 |                 |                 |                                                        | Là cá nhân có vai trò là vợ hoặc chồng đối với chủ hộ.                              |
+
+|                                         |                     | Thành viên             | Chi tiết tại mã thông tin NG.1.1 |                 |                 |                                                        | Là thành viên còn lại (con cái, cha mẹ,...) của đối tượng hộ gia đình.              |
+
+|                                         |                     | ....                   |                                  |                 |                 |                                                        |                                                                                     |
+
+| Cấp độ: Cấp 2                           |                     |                        |                                  |                 |                 |                                                        |                                                                                     |
+
+| NG.2.1                                  | Họ tên              |                        |                                  |                 |                 |                                                        | Là họ và tên đầy đủ của cá nhân ghi trong giấy chứng minh nhân dân.                 |
+
+|                                         |                     | Họ đệm                 | Họ đệm                           | Chuỗi ký tự     | CharacterString | 30                                                     | Là họ và tên đệm của cá nhân ghi trong giấy chứng minh nhân dân.                    |
+
+|                                         | Tên                 | Ten                    | Chuỗi ký tự                      | CharacterString | 20              | Là tên của cá nhân ghi trong giấy chứng minh nhân dân. |                                                                                     |
+
+| NG.2.2                                  | Chứng minh nhân dân |                        |                                  |                 |                 |                                                        |                                                                                     |
+
+|                                         | Số CMTND            | SoCMTND                | Chuỗi ký tự                      | CharacterString | 15              | Là số chứng minh thư nhân dân.                         |                                                                                     |
+
+|                                         | Ngày cấp            | Ngaycap                | Ngày tháng                       | Date            |                 | Là ngày cấp giấy chứng minh thư nhân dân.              |                                                                                     |
+
+|                                         | Nơi cấp             | Noicap                 | Chuỗi ký tự                      | CharacterString | 50              | Là tên cơ quan cấp giấy chứng minh thư nhân dân.       |                                                                                     |
+
+Tên nhóm dữ liệu: Nhóm dữ liệu về
+
+Người
+
+Cấp độ: Cấp 1
+
+Mã thông tin
+
+Phân cấp thông tin
+
+Ký hiệu trường dữ liệu
+
+Kiểu dữ liệu
+
+Độ dài
+
+Mô tả
+
+Đối tượng thông tin
+
+Trường dữ liệu
+
+Tiếng Việt
+
+Tiếng Anh
+
+NG.1.1
+
+Cá nhân
+
+Loại cá nhân
+
+Loaicanhan
+
+Chuỗi ký tự
+
+CharacterString
+
+3
+
+Là mã thông tin phân loại cá nhân
+
+Họ và tên
+
+Chi tiết tại mã thông tin NG.2.1
+
+Là họ và tên đầy đủ của cá nhân.
+
+Ngày tháng năm sinh
+
+Ngaysinh
+
+Ngày tháng
+
+Date/Integer
+
+Là ngày, tháng, năm sinh của cá nhân.
+
+Giới tính
+
+Gioitinh
+
+Lô gíc
+
+Boolean
+
+Thể hiện giới tính của cá nhân
+
+Chứng minh nhân dân
+
+Chi tiết tại mã thông tin NG.2.2
+
+Là thông tin về chứng minh nhân dân của cá nhân là người Việt Nam trong nước.
+
+….
+
+NG.1.2
+
+Hộ gia đình
+
+Chủ hộ
+
+Chi tiết tại mã thông tin NG.1.1
+
+Là cá nhân có vai trò là chủ hộ. Một hộ gia đình có duy nhất một cá nhân là chủ hộ.
+
+Vợ/chồng
+
+Chi tiết tại mã thông tin NG.1.1
+
+Là cá nhân có vai trò là vợ hoặc chồng đối với chủ hộ.
+
+Thành viên
+
+Chi tiết tại mã thông tin NG.1.1
+
+Là thành viên còn lại (con cái, cha mẹ,...) của đối tượng hộ gia đình.
+
+....
+
+Cấp độ: Cấp 2
+
+NG.2.1
+
+Họ tên
+
+Là họ và tên đầy đủ của cá nhân ghi trong giấy chứng minh nhân dân.
+
+Họ đệm
+
+Họ đệm
+
+Chuỗi ký tự
+
+CharacterString
+
+30
+
+Là họ và tên đệm của cá nhân ghi trong giấy chứng minh nhân dân.
+
+Tên
+
+Ten
+
+Chuỗi ký tự
+
+CharacterString
+
+20
+
+Là tên của cá nhân ghi trong giấy chứng minh nhân dân.
+
+NG.2.2
+
+Chứng minh nhân dân
+
+Số CMTND
+
+SoCMTND
+
+Chuỗi ký tự
+
+CharacterString
+
+15
+
+Là số chứng minh thư nhân dân.
+
+Ngày cấp
+
+Ngaycap
+
+Ngày tháng
+
+Date
+
+Là ngày cấp giấy chứng minh thư nhân dân.
+
+Nơi cấp
+
+Noicap
+
+Chuỗi ký tự
+
+CharacterString
+
+50
+
+Là tên cơ quan cấp giấy chứng minh thư nhân dân.
+
+III. Dữ liệu đặc tả - Dữ liệu để định nghĩa và mô tả dữ liệu khác
+
+- Dữ liệu đặc tả được lập trong quá trình xây dựng cơ sở dữ liệu của hệ thống thông tin và được cập nhật khi có sự thay đổi về nội dung dữ liệu (cơ sở dữ liệu)
+
+- Nội dung dữ liệu đặc tả có thể bao gồm các nhóm thông tin mô tả:
+
++ Dữ liệu đặc tả của dữ liệu bao gồm các thông tin khái quát như đơn vị tạo lập, ngày tạo lập dữ liệu đặc tả.
+
++ Dữ liệu đặc tả chi tiết về dữ liệu.
+
++ Chất lượng dữ liệu bao gồm các thông tin về nguồn gốc dữ liệu, phạm vi, kết quả kiểm tra chất lượng dữ liệu,...
+
++ Cách thức trao đổi, chia sẻ dữ liệu bao gồm các thông tin về phương thức, phương tiện, định dạng trao đổi, chia sẻ dữ liệu.
+
+- Quy định về nội dung, cấu trúc và kiểu dữ liệu của dữ liệu đặc tả.
+
+Phần 3. Các Quy định kỹ thuật về dữ liệu của các ngành khác
+
+Nội dung này cập nhật các Quy định kỹ thuật về dữ liệu của các hệ thống thông tin liên quan khác đã ban hành và phải nêu rõ chỉ dẫn, căn cứ.
+
+Phần 4. Tổ chức thực hiện
+
+Quy định về trách nhiệm thực hiện của các bên liên quan.
+
+Phần 5. Phụ lục (nếu có)
+
+1 Báo cáo được thực hiện trên cơ sở tổng hợp số liệu từ các đơn vị tại cơ quan Bộ Tài chính và các đơn vị thuộc Bộ.
+
+2 Bao gồm số cán bộ, công chức, viên chức của các đơn vị thuộc Bộ.
+
+3 Bao gồm số cán bộ, công chức, viên chức của tất cả các đơn vị thuộc Bộ được trang bị máy tính bao gồm cả máy tính để bàn và máy tính xách tay.
+
+4 Chỉ khai báo thông tin đối với Website/Portal chính thức của Bộ, (không bao gồm các trang/ cổng thông tin của các đơn vị thuộc, trực thuộc).
+
+5 Để trả lời trong các phần 2.2, 2.3, 3 và 4.2.b), đề nghị đánh dấu (þ) hoặc (ý), nếu bỏ trống sẽ không được tính
+
+6 Sự cố xảy ra đối với Website/Portal của cơ quan nhà nước làm hệ thống gián đoạn hoặc ngừng hoạt động, có khả năng gây mất an toàn thông tin của hệ thống (không bao gồm các sự cố đã được các thiết bị firewall/lDS/IPS phát hiện và ngăn chặn).
+
+7 Dịch vụ công trực tuyến được hiểu theo định nghĩa tại khoản 4 Điều 3 Nghị định số 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên Website/Portal của cơ quan nhà nước. Dịch vụ công trực tuyến khai báo bao gồm các dịch vụ cung cấp trên Website/Portal của Bộ, cơ quan ngang Bộ và cơ quan thuộc Chính phủ và trên Website/Portal của các đơn vị trực thuộc.

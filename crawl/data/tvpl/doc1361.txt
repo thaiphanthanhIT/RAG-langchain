@@ -1,0 +1,1895 @@
+| BỘ TÀI CHÍNH       | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|--------------------|-----------------------------------------------------------------|
+
+| Số: 66/2019/TT-BTC | Hà Nội, ngày 20 tháng 9 năm 2019                                |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ----------------
+
+Số: 66/2019/TT-BTC
+
+Hà Nội, ngày 20 tháng 9 năm 2019
+
+THÔNG TƯ
+
+SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 110/2015/TT-BTC NGÀY 28/07/2015 CỦA BỘ TÀI CHÍNH HƯỚNG DẪN VỀ GIAO DỊCH ĐIỆN TỬ TRONG LĨNH VỰC THUẾ
+
+Căn cứ Luật Quản lý thuế số 78/2006/QH11 ngày 29/11/2006: Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế số 21/2012/QH12 ngày 20/11/2012; Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế số 71/2014/QH13 ngày 26/11/2014; Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế số 106/2016/QH13 ngày 06/4/2016 và các văn bản hướng dẫn thi hành;
+
+Căn cứ Nghị định số 165/2018/NĐ-CP ngày 24/12/2018 của Chính phủ quy định về giao dịch điện tử trong hoạt động tài chính;
+
+Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27/9/2018 của Chính phủ quy định chi tiết thi hành Luật giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng; nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Tổng cục trưởng Tổng cục Thuế;
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư sửa đổi, bổ sung một số điều của Thông tư số 110/2015/TT-BTC ngày 28/07/2015 của Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế như sau:
+
+Điều 1. Sửa đổi, bổ sung một số Điều tại Thông tư số 110/2015/TT-BTC ngày 28/07/2015 của Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế (Thông tư số 110/2015/TT-BTC) như sau:
+
+1, Sửa đổi Khoản 4, Khoản 6, Khoản 7 Điều 3 như sau:
+
+“4. Tài khoản giao dịch thuế điện tử là tên và mật khẩu đăng nhập vào Cổng thông tin điện tử của Tổng cục Thuế được cơ quan thuế cấp cho người nộp thuế để thực hiện các giao dịch điện tử trong lĩnh vực thuế và tra cứu các chứng từ điện tử.
+
+Tài khoản giao dịch thuế điện tử bao gồm 01 (một) tài khoản chính và tối đa không quá 10 (mười) tài khoản phụ. Tài khoản chính được cơ quan thuế cấp cho người nộp thuế sau khi người nộp thuế đăng ký giao dịch với cơ quan thuế theo quy định tại Điều 15 Thông tư này. Tài khoản phụ do người nộp thuế đăng ký thông qua tài khoản chính để phân quyền thực hiện theo từng dịch vụ”.
+
+“6. Tổ chức cung cấp dịch vụ giá trị gia tăng về giao dịch điện tử trong lĩnh vực thuế (sau đây gọi là tổ chức cung cấp dịch vụ T-VAN) là người trung gian theo quy định của Luật giao dịch điện tử và được Tổng cục Thuế chấp nhận kết nối với Cổng thông tin điện tử của Tổng cục Thuế để cung cấp dịch vụ đại diện (một phần hoặc toàn bộ) cho người nộp thuế thực hiện việc gửi, nhận, lưu trữ, phục hồi thông điệp dữ liệu điện tử; hỗ trợ khởi tạo, xử lý chứng từ điện tử; xác nhận việc thực hiện giao dịch điện tử giữa người nộp thuế với cơ quan thuế”.
+
+2. Khoản 8, Khoản 9 Điều 3 sửa thành Khoản 7, Khoản 8.
+
+3. Sửa đổi Khoản 3 Điều 7 như sau:
+
+“3. Chứng từ điện tử theo quy định tại Thông tư này có giá trị như hồ sơ, chứng từ, thông báo và các văn bản bằng giấy. Chứng từ điện tử có giá trị là bản gốc nếu được thực hiện bằng một trong các biện pháp quy định tại Điều 5 Nghị định số 165/2018/NĐ-CP ngày 26/12/2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính (sau đây gọi là Nghị định số 165/2018/NĐ-CP).
+
+Chứng từ điện tử được sửa đổi theo quy định tại Điều 8 Nghị định số 165/2018/NĐ-CP.
+
+Chứng từ điện tử có thể chuyển đổi sang chứng từ giấy và ngược lại theo quy định tại Luật Giao dịch điện tử và Nghị định số 165/2018/NĐ-CP”.
+
+4. Sửa đổi Điều 8 như sau:
+
+“Điều 8. Thời gian nộp hồ sơ thuế điện tử, nộp thuế điện tử
+
+1. Người nộp thuế được thực hiện các giao dịch điện tử trong lĩnh vực thuế 24 giờ trong ngày và 7 ngày trong tuần, bao gồm cả ngày nghỉ, ngày lễ và ngày Tết.
+
+2. Thời điểm xác nhận nộp hồ sơ thuế điện tử là căn cứ để cơ quan thuế tính thời gian nộp hồ sơ thuế và xử lý hành vi chậm nộp hoặc hành vi không nộp hồ sơ thuế của người nộp thuế; hoặc tính thời gian để giải quyết hồ sơ thuế điện tử theo quy định của Luật Quản lý thuế, các văn bản hướng dẫn thi hành và các quy định tại Thông tư này. Thời điểm xác nhận nộp hồ sơ thuế điện tử được xác định như sau:
+
+a) Đối với hồ sơ đăng ký thuế điện tử: là ngày ghi trên Thông báo tiếp nhận hồ sơ đăng ký thuế điện tử của cơ quan thuế gửi cho người nộp thuế qua Cổng thông tin điện tử của Tổng cục Thuế hoặc qua tổ chức cung cấp dịch vụ T-VAN (theo mẫu số 01-1/TB-TĐT ban hành kèm theo Thông tư này).
+
+b) Đối với hồ sơ khai thuế điện tử: là ngày ghi trên Thông báo chấp nhận hồ sơ khai thuế điện tử của cơ quan thuế gửi cho người nộp thuế qua Cổng thông tin điện tử của Tổng cục Thuế hoặc qua tổ chức cung cấp dịch vụ T-VAN (theo mẫu số 01-2/TB-TĐT ban hành kèm theo Thông tư này).
+
+c) Đối với chứng từ nộp thuế điện tử: là ngày ghi trên Thông báo tiếp nhận chứng từ nộp thuế điện tử của cơ quan thuế gửi cho người nộp thuế qua Cổng thông tin điện tử của Tổng cục Thuế hoặc qua tổ chức cung cấp dịch vụ T-VAN (theo mẫu số 01-1/TB-TĐT ban hành kèm theo Thông tư này).
+
+d) Đối với hồ sơ hoàn thuế điện tử: là ngày ghi trên Thông báo chấp nhận hồ sơ hoàn thuế điện tử của cơ quan thuế gửi cho người nộp thuế qua Cổng thông tin điện tử của Tổng cục Thuế hoặc qua tổ chức cung cấp dịch vụ T-VAN (theo mẫu số 01-2/TB-TĐT ban bành kèm theo Thông tư này).
+
+3. Ngày nộp thuế điện tử được xác định theo quy định tại Khoản 1 Điều 3 Thông tư số 84/2016/TT-BTC ngày 17/6/2016 của Bộ Tài chính hướng dẫn thủ tục thu nộp ngân sách nhà nước đối với các khoản thuế và thu nội địa (sau đây gọi là Thông tư số 84/2016/TT-BTC).
+
+Cơ quan thuế hoặc tổ chức cung cấp dịch vụ T-VAN có trách nhiệm gửi Thông báo về việc xác nhận nộp thuế điện tử (theo mẫu số 05/TB-TĐT ban hành kèm theo Thông tư này) đến người nộp thuế chậm nhất 15 phút sau khi nhận được thông báo từ ngân hàng xác nhận nộp thuế điện tử thành công hoặc lý do nộp thuế điện tử không thành công, trừ trường hợp nộp thuế điện tử qua hình thức thanh toán điện tử của ngân hàng theo quy định tại Khoản 2 Điều 24 Thông tư này”.
+
+5. Sửa đổi Khoản 3 Điều 9 như sau:
+
+“3. Trường hợp lỗi do Cổng thông tin điện tử của Tổng cục Thuế trong ngày cuối cùng của thời hạn nộp hồ sơ thuế, nộp thuế thì:
+
+a) Tổng cục Thuế có trách nhiệm thông báo thời điểm sự cố của hệ thống, thời điểm hệ thống tiếp tục hoạt động (theo mẫu 02/TB-TĐT ban hành kèm theo Thông tư này) trên Trang thông tin điện tử (www.gdt.gov.vn) và Cổng thông tin điện tử của Tổng cục Thuế.
+
+b) Người nộp thuế nộp hồ sơ thuế, chứng từ nộp thuế điện tử trong ngày tiếp theo liền kề ngày Cổng thông tin điện tử của Tổng cục Thuế tiếp tục hoạt động, trừ trường hợp thực hiện quy định tại Khoản c Điểm này. Hồ sơ thuế, chứng từ điện tử nộp trong thời gian này là đúng hạn.
+
+c) Người nộp thuế có yêu cầu nộp hồ sơ bản giấy trực tiếp tại cơ quan thuế hoặc qua đường bưu chính, nộp thuế trực tiếp tại Kho bạc Nhà nước, ngân hàng; cơ quan thuế, Kho bạc Nhà nước hoặc ngân hàng thực hiện tiếp nhận và giải quyết cho người nộp thuế theo quy định”.
+
+6. Sửa đổi Khoản 1 và Khoản 3 Điều 15 như sau:
+
+“1. Người nộp thuế truy cập vào Cổng thông tin điện tử của Tổng cục Thuế đăng ký giao dịch với cơ quan thuế bằng phương thức điện tử (theo mẫu số 01/ĐK-TĐT ban hành kèm theo Thông tư này), ký điện tử và gửi đến Cổng thông tin điện tử của Tổng cục Thuế. Chỉ sau khi được cơ quan thuế thông báo chấp nhận cấp tài khoản giao dịch điện tử theo quy định tại Điều này hoặc Điều 32 Thông tư này, người nộp thuế mới có thể thực hiện các giao dịch điện tử với cơ quan thuế theo quy định (trừ trường hợp đăng ký thuế lần đầu theo quy định tại Điều 19 Thông tư này).
+
+Người nộp thuế được cấp một tài khoản chính để thực hiện đầy đủ các giao dịch điện tử với cơ quan thuế theo quy định tại Khoản 1 Điều 1 Thông tư này, trừ quy định tại Khoản 2 Điều này. Người nộp thuế được sử dụng tài khoản chính để đăng ký thêm một hoặc một số tài khoản phụ qua chức năng trên Cổng thông tin điện tử của Tổng cục Thuế để thực hiện từng giao dịch thuế điện tử với cơ quan thuế.
+
+Cổng thông tin điện tử của Tổng cục Thuế gửi thông báo (theo mẫu số 03/TB-TĐT ban hành kèm theo Thông tư này) đến địa chỉ thư điện tử hoặc số điện thoại người nộp thuế đã đăng ký chậm nhất 15 phút sau khi nhận được hồ sơ đăng ký giao dịch bằng phương thức điện tử của người nộp thuế.
+
+Trường hợp chấp nhận, Cổng thông tin điện tử của Tổng cục Thuế gửi thông tin về tài khoản giao dịch thuế điện tử cho người nộp thuế.
+
+Trường hợp không chấp nhận, người nộp thuế căn cứ vào lý do không chấp nhận của cơ quan thuế tại thông báo (theo mẫu số 03/TB-TĐT ban hành kèm theo Thông tư này) để hoàn chỉnh thông tin đăng ký, ký điện tử và gửi đến Cổng thông tin điện tử của Tổng cục Thuế hoặc liên hệ với cơ quan thuế quản lý trực tiếp để được hướng dẫn, hỗ trợ”.
+
+“3. Đối với cá nhân có mã số thuế và sử dụng mã xác thực giao dịch điện tử, việc đăng ký giao dịch bằng phương thức điện tử với cơ quan thuế thực hiện như sau:
+
+a) Trường hợp phát sinh nghĩa vụ khai thuế hoặc nộp thuế định kỳ, người nộp thuế truy cập vào Cổng thông tin điện tử của Tổng cục Thuế và đăng ký giao dịch theo quy định tại Khoản 1, Khoản 2 Điều này.
+
+Người nộp thuế đến cơ quan thuế bất kỳ xuất trình chứng minh thư nhân dân hoặc hộ chiếu hoặc thẻ căn cước công dân để nhận và kích hoạt tài khoản giao dịch thuế điện tử.
+
+b) Trường hợp phát sinh nghĩa vụ khai thuế hoặc nộp thuế theo từng lần phát sinh, người nộp thuế thực hiện đăng ký giao dịch điện tử từng lần đồng thời với thời điểm nộp hồ sơ khai thuế”.
+
+7. Sửa đổi Khoản 1 Điều 18 như sau:
+
+“1. Đăng ký thuế điện tử là việc người nộp thuế (trừ người nộp thuế đăng ký thuế cùng với đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký kinh doanh) thực hiện nộp hồ sơ và nhận kết quả đăng ký thuế (trừ trường hợp nhận kết quả là Giấy chứng nhận đăng ký thuế hoặc Thông báo mã số thuế) qua Cổng thông tin điện tử của Tổng cục Thuế hoặc tổ chức cung cấp dịch vụ T-VAN.
+
+Trường hợp đăng ký thuế lần đầu, người nộp thuế thực hiện nộp hồ sơ và nhận kết quả đăng ký thuế theo quy định tại Điều 19 Thông tư này”.
+
+8. Sửa đổi Điều 19 như sau:
+
+“Điều 19. Đăng ký thuế lần đầu
+
+1. Người nộp thuế mới thành lập hoặc bắt đầu phát sinh nghĩa vụ với ngân sách nhà nước truy cập vào Cổng thông tin điện tử của Tổng cục Thuế để khai và nộp hồ sơ đăng ký thuế lần đầu theo quy định tại Thông tư số 95/2016/TT-BTC ngày 28/6/2016 của Bộ Tài chính hướng dẫn về đăng ký thuế (sau đây gọi là Thông tư số 95/2016/TT-BTC).
+
+2. Cổng thông tin điện tử của Tổng cục Thuế tiếp nhận, đối chiếu thông tin và gửi Thông báo tiếp nhận hồ sơ đăng ký thuế điện tử (theo mẫu 01-1/TB-TĐT ban hành kèm theo Thông tư này) cho người nộp thuế chậm nhất 15 phút kể từ khi nhận được hồ sơ đăng ký thuế của người nộp thuế vào địa chỉ thư điện tử hoặc số điện thoại người nộp thuế đã đăng ký với cơ quan thuế, thông báo nêu rõ thời gian, địa điểm trả kết quả, đồng thời yêu cầu người nộp thuế mang hồ sơ giấy đến trụ sở cơ quan thuế.
+
+3. Trường hợp hồ sơ đăng ký thuế đủ điều kiện cấp mã số thuế theo quy định, cơ quan thuế giải quyết theo quy định tại Thông tư số 95/2016/TT-BTC.
+
+Người nộp thuế nộp hồ sơ đăng ký thuế bản giấy tại trụ sở của cơ quan thuế ghi trên Thông báo về việc tiếp nhận hồ sơ đăng ký thuế điện tử.
+
+Cơ quan thuế đối chiếu ngay hồ sơ đăng ký thuế bản giấy với hồ sơ đã nhận qua Cổng thông tin điện tử của Tổng cục Thuế. Trường hợp hồ sơ đăng ký thuế bằng giấy khớp với hồ sơ đăng ký thuế điện tử, cơ quan thuế trả kết quả đăng ký thuế cho người nộp thuế. Trường hợp hồ sơ đăng ký thuế bằng bản giấy không khớp đúng với hồ sơ điện tử và thông tin trên hồ sơ bằng bản giấy đầy đủ, chính xác, cơ quan thuế giải quyết theo hồ sơ giấy và trả kết quả đăng ký thuế cho người nộp thuế. Trường hợp thông tin trên hồ sơ bằng bản giấy không đầy đủ, không chính xác, cơ quan thuế hướng dẫn người nộp thuế sửa đổi, bổ sung thông tin và nộp lại hồ sơ đăng ký thuế bản giấy khác.
+
+Sau thời hạn trả kết quả đăng ký thuế 30 (ba mươi) ngày kể từ ngày ghi trên Thông báo tiếp nhận hồ sơ đăng ký thuế điện tử mà người nộp thuế không đến cơ quan thuế hoặc đến cơ quan thuế nhưng không có văn bản nêu rõ lý do thì hồ sơ đăng ký thuế điện tử đã nộp không còn hiệu lực.
+
+4. Trường hợp hồ sơ đăng ký thuế không đủ điều kiện cấp mã số thuế theo quy định, trong thời hạn 02 (hai) ngày làm việc kể từ ngày tiếp nhận hồ sơ ghi trên Thông báo tiếp nhận hồ sơ đăng ký thuế điện tử, cơ quan thuế gửi Thông báo không chấp nhận hồ sơ đăng ký thuế (theo mẫu số 01-2/TB-TĐT ban hành kèm theo Thông tư này) cho người nộp thuế qua Cổng thông tin điện tử của Tổng cục Thuế.
+
+Người nộp thuế có trách nhiệm gửi hồ sơ đăng ký thuế điện tử khác qua Cổng thông tin điện tử của Tổng cục Thuế hoặc nộp hồ sơ bản giấy tại trụ sở cơ quan thuế quản lý trực tiếp để thay thế cho hồ sơ có sai sót đã gửi đến cơ quan thuế”.
+
+9. Sửa đổi, bổ sung Điều 20 như sau:
+
+“Điều 20. Đăng ký thay đổi thông tin đăng ký thuế, tạm ngừng kinh doanh, chấm dứt hiệu lực mã số thuế và các thủ tục đăng ký thuế khác
+
+1. Trường hợp người nộp thuế phát sinh thay đổi thông tin đăng ký thuế, tạm ngừng kinh doanh, chấm dứt hiệu lực mã số thuế và các thủ tục đăng ký thuế khác theo quy định tại Thông tư số 95/2016/TT-BTC (như đăng ký cấp mã số thuế khấu trừ, nộp thay, khôi phục mã số thuế, khôi phục sau tạm ngừng kinh doanh trước thời hạn), người nộp thuế sử dụng tài khoản giao dịch thuế điện tử truy cập vào Cổng thông tin điện tử của Tổng cục Thuế hoặc qua tổ chức cung cấp dịch vụ T-VAN, khai thông tin trên các hồ sơ tương ứng, ký điện tử và gửi cơ quan thuế.
+
+2. Cổng thông tin điện tử của Tổng cục Thuế hoặc tổ chức cung cấp dịch vụ T-VAN tiếp nhận, kiểm tra và gửi Thông báo tiếp nhận hồ sơ đăng ký thuế điện tử (theo mẫu 01-1/TB-TĐT ban hành kèm theo Thông tư này) cho người nộp thuế chậm nhất 15 phút kể từ khi nhận được hồ sơ điện tử của người nộp thuế.
+
+3. Trường hợp hồ sơ điện tử đầy đủ theo quy định, cơ quan thuế xử lý và trả kết quả cho người nộp thuế vào địa chỉ thư điện tử đã đăng ký hoặc tổ chức cung cấp dịch vụ T-VAN trong thời hạn quy định tại Thông tư số 95/2016/TT-BTC.
+
+Trường hợp người nộp thuế đăng ký nhận kết quả là Giấy chứng nhận đăng ký thuế hoặc Thông báo mã số thuế qua đường bưu chính thì cơ quan Thuế có trách nhiệm gửi kết quả cho người nộp thuế đến địa chỉ người nộp thuế đã đăng ký.
+
+4. Trường hợp hồ sơ điện tử chưa đầy đủ theo quy định, trong thời hạn 02 (hai) ngày làm việc kể từ ngày ghi trên Thông báo về việc tiếp nhận hồ sơ đăng ký thuế điện tử, cơ quan Thuế gửi Thông báo theo mẫu số 01-2/TB-TĐT ban hành kèm theo Thông tư này về việc không chấp nhận hồ sơ cho người nộp thuế qua Cổng thông tin điện tử của Tổng cục Thuế hoặc tổ chức cung cấp dịch vụ T-VAN.
+
+Người nộp thuế có trách nhiệm gửi hồ sơ điện tử khác qua Cổng thông tin điện tử của Tổng cục Thuế hoặc qua tổ chức cung cấp dịch vụ T-VAN hoặc nộp hồ sơ bản giấy tại trụ sở cơ quan thuế quản lý trực tiếp để thay thế cho hồ sơ có sai sót đã gửi đến cơ quan thuế”.
+
+10. Sửa đổi Điều 21 như sau:
+
+“Điều 21. Thay đổi thông tin về nghĩa vụ nộp hồ sơ khai thuế
+
+Trường hợp thông tin về nghĩa vụ nộp hồ sơ khai thuế (gồm: loại thuế, mẫu hồ sơ khai thuế, kỳ tính thuế, kỳ khai thuế, ngày bắt đầu, ngày kết thúc phải nộp hồ sơ khai thuế) trên Cổng thông tin điện tử của Tổng cục Thuế không đúng hoặc có thay đổi, người nộp thuế sử dụng tài khoản giao dịch thuế điện tử truy cập Cổng thông tin điện tử của Tổng cục Thuế hoặc của tổ chức cung cấp dịch vụ T-VAN và điều chỉnh thông tin. Cơ quan thuế thực hiện cập nhật thông tin về nghĩa vụ nộp hồ sơ khai thuế của người nộp thuế, đồng thời gửi thông tin xác nhận cho người nộp thuế qua Cổng thông tin điện tử của Tổng cục Thuế hoặc qua tổ chức cung cấp dịch vụ T-VAN trong thời gian 02 ngày làm việc kể từ ngày người nộp thuế điều chỉnh thông tin".
+
+11. Sửa đổi Điều 22 như sau:
+
+“Điều 22. Khai thuế điện tử
+
+1. Người nộp thuế thực hiện khai thuế điện tử theo một trong các cách sau:
+
+a) Khai thuế điện tử trực tuyến trên Cổng thông tin điện tử của Tổng cục Thuế: người nộp thuế truy cập Cổng thông tin điện tử của Tổng cục Thuế; thực hiện khai thuế trực tuyến tại Cổng thông tin điện tử của Tổng cục Thuế, ký điện tử và gửi hồ sơ khai thuế điện tử cho cơ quan thuế.
+
+b) Khai thuế điện tử bằng các phần mềm, công cụ hỗ trợ khai thuế: người nộp thuế lập hồ sơ khai thuế điện tử bằng phần mềm, công cụ hỗ trợ đáp ứng chuẩn định dạng dữ liệu của cơ quan thuế; sau đó truy cập vào Cổng thông tin điện tử của Tổng cục Thuế, ký điện tử và gửi hồ sơ khai thuế điện tử cho cơ quan thuế.
+
+c) Khai thuế thông qua tổ chức cung cấp dịch vụ T-VAN.
+
+2. Cổng thông tin điện tử của Tổng cục Thuế gửi Thông báo tiếp nhận hồ sơ khai thuế điện tử (theo mẫu 01-1/TB-TĐT ban hành kèm theo Thông tư này) cho người nộp thuế chậm nhất 15 phút kể từ khi nhận được hồ sơ khai thuế điện tử của người nộp thuế.
+
+Chậm nhất 01 (một) ngày làm việc kể từ ngày ghi trên thông báo tiếp nhận nộp hồ sơ khai thuế điện tử, cơ quan Thuế gửi Thông báo chấp nhận/không chấp nhận hồ sơ khai thuế điện tử (theo mẫu 01-2/TB-TĐT ban hành kèm theo Thông tư này) cho người nộp thuế qua Cổng thông tin điện tử của Tổng cục Thuế hoặc qua tổ chức cung cấp dịch vụ T-VAN.
+
+Trường hợp cơ quan thuế chấp nhận hồ sơ khai thuế điện tử, ngày xác định hoàn thành nghĩa vụ nộp hồ sơ khai thuế điện tử là ngày ghi trên Thông báo tiếp nhận hồ sơ khai thuế điện tử (theo mẫu 01-1/TB-TĐT ban hành kèm theo Thông tư này) đối với hồ sơ khai thuế đã được tiếp nhận lần đầu qua Cổng thông tin điện tử của Tổng cục Thuế hoặc qua tổ chức cung cấp dịch vụ T-VAN.
+
+Trường hợp cơ quan Thuế không chấp nhận hồ sơ khai thuế, cơ quan Thuế gửi Thông báo không chấp nhận hồ sơ khai thuế điện tử (theo mẫu 01-2/TB-TĐT ban hành kèm theo Thông tư này) cho người nộp thuế qua Cổng thông tin điện tử của Tổng cục Thuế, trong đó nêu rõ lý do.
+
+Người nộp thuế được xác định là chưa hoàn thành nộp hồ sơ khai thuế trong trường hợp hết thời hạn nộp hồ sơ khai thuế theo quy định tại Luật Quản lý thuế và các văn bản hướng dẫn thi hành, người nộp thuế không nộp lại hồ sơ khai thuế hoặc có nộp lại hồ sơ khai thuế nhưng không được cơ quan thuế chấp nhận.
+
+3. Người nộp thuế thực hiện giải trình, bổ sung hồ sơ khai thuế, phản hồi các thông báo của cơ quan thuế bằng phương thức điện tử qua Cổng thông tin điện tử của cơ quan Thuế hoặc nộp hồ sơ khai thuế bản Giấy tại trụ sở cơ quan
+
+12. Sửa đổi, bổ sung Điều 26 như sau:
+
+“Điều 26. Nộp thuế điện tử
+
+1. Thủ tục nộp thuế điện tử được thực hiện theo quy định tại Điều 6, Điều 7 và Điều 8 Thông tư số 84/2016/TT-BTC.
+
+2. Trường hợp nộp thuế qua hình thức thanh toán điện tử của ngân hàng, ngân hàng thực hiện xử lý chứng từ nộp thuế điện tử theo quy định của ngân hàng nơi người nộp thuế mở tài khoản và truyền thông tin về chứng từ nộp thuế điện tử của người nộp thuế cho cơ quan thuế qua Cổng thông tin điện tử của Tổng cục Thuế”.
+
+13. Sửa đổi Điều 27 như sau:
+
+“Điều 27. Lập và gửi hồ sơ đề nghị hoàn thuế điện tử
+
+1. Người nộp thuế lập và gửi hồ sơ đề nghị hoàn đến cơ quan thuế như sau:
+
+a) Trường hợp hồ sơ đề nghị hoàn thuế là Giấy đề nghị hoàn trả khoản thu ngân sách nhà nước và các tài liệu kèm theo, người nộp thuế thực hiện theo một trong hai phương thức như sau:
+
+- Người nộp thuế sử dụng tài khoản giao dịch thuế điện tử truy cập vào Cổng thông tin điện tử của Tổng cục Thuế, lập hồ sơ đề nghị hoàn thuế theo quy định, ký điện tử và gửi qua Cổng thông tin điện tử của Tổng cục Thuế.
+
+- Người nộp thuế lập hồ sơ đề nghị hoàn thuế theo quy định, ký điện tử và gửi qua tổ chức cung cấp dịch vụ T-VAN: Sau khi nhận được hồ sơ đề nghị hoàn thuế, tổ chức cung cấp dịch vụ T-VAN có trách nhiệm gửi ngay hồ sơ đề nghị hoàn thuế của người nộp thuế đến Cổng thông tin điện tử của Tổng cục Thuế.
+
+b) Trường hợp người nộp thuế đề nghị hoàn thuế trên hồ sơ khai thuế và không phải gửi Giấy đề nghị hoàn trả khoản thu ngân sách nhà nước thì việc lập và gửi hồ sơ hoàn thuế điện tử được thực hiện đồng thời với việc lập và gửi hồ sơ khai thuế điện tử theo quy định tại Điều 22 Thông tư này.
+
+2. Thông báo tiếp nhận/chấp nhận hồ sơ hoàn thuế
+
+a) Trường hợp hồ sơ đề nghị hoàn thuế là Giấy đề nghị hoàn trả khoản thu ngân sách nhà nước và các tài liệu kèm theo.
+
+Chậm nhất 15 phút kể từ khi tiếp nhận hồ sơ hoàn thuế điện tử, Cổng thông tin điện tử của Tổng cục Thuế gửi Thông báo tiếp nhận hồ sơ hoàn thuế điện tử (theo mẫu số 01-1/TB-TĐT ban hành kèm theo Thông tư này) cho người nộp thuế.
+
+Trong thời hạn 03 (ba) ngày làm việc kể từ ngày gửi Thông báo tiếp nhận nộp hồ sơ hoàn thuế điện tử, cơ quan Thuế gửi Thông báo chấp nhận/không chấp nhận hồ sơ hoàn thuế điện tử (theo mẫu 01-2/TB-TĐT ban hành kèm theo Thông tư này) cho người nộp thuế qua Cổng thông tin điện tử của Tổng cục Thuế.
+
+b) Trường hợp người nộp thuế đề nghị hoàn thuế trên hồ sơ khai thuế:
+
+Cổng thông tin điện tử của Tổng cục Thuế gửi thông báo tiếp nhận hồ sơ hoàn thuế điện tử đồng thời với thông báo tiếp nhận hồ sơ khai thuế điện tử. Việc trả Thông báo chấp nhận hoặc không chấp nhận hồ sơ khai thuế điện tử được thực hiện theo quy định tại Điều 22 Thông tư này và Thông báo chấp nhận hoặc không chấp nhận hồ sơ hoàn thuế điện tử được thực hiện theo quy định tại Điểm a Khoản này.
+
+c) Thời hạn giải quyết hồ sơ hoàn thuế theo quy định được tính từ ngày ghi trên Thông báo chấp nhận hồ sơ hoàn thuế điện tử (theo mẫu 01-2/TB-TĐT ban hành kèm theo Thông tư này)”.
+
+14. Sửa đổi Khoản 1, Khoản 2 và Khoản 3 Điều 28 như sau:
+
+“1. Cơ quan thuế có trách nhiệm giải quyết hồ sơ đề nghị hoàn thuế của người nộp thuế đã tiếp nhận bằng phương thức điện tử theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn Luật quản lý thuế và gửi kết quả giải quyết hồ sơ hoàn thuế của người nộp thuế (thông báo, quyết định liên quan đến quá trình giải quyết hoàn thuế, kết quả giải quyết hoàn thuế của cơ quan thuế) qua Cổng thông tin điện tử của Tổng cục Thuế hoặc qua tổ chức cung cấp dịch vụ T-VAN.
+
+2. Người nộp thuế giải trình, bổ sung thông tin, tài liệu liên quan đến hồ sơ đề nghị hoàn qua Cổng thông tin điện tử của Tổng cục Thuế hoặc qua tổ chức cung cấp dịch vụ T-VAN.
+
+3. Cơ quan thuế gửi quyết định hoàn thuế hoặc quyết định hoàn thuế kiêm bù trừ thu ngân sách nhà nước cho người nộp thuế qua Cổng thông tin điện tử của Tổng cục Thuế hoặc qua tổ chức cung cấp dịch vụ T-VAN.
+
+Đồng thời, Cơ quan Thuế gửi quyết định hoàn thuế và lệnh hoàn trả khoản thu ngân sách nhà nước hoặc quyết định hoàn thuế kiêm bù trừ khoản thu ngân sách nhà nước và lệnh hoàn trả kiêm bù trừ khoản thu ngân sách nhà nước (đối với trường hợp hoàn thuế giá trị gia tăng) và gửi Lệnh hoàn trả khoản thu ngân sách nhà nước hoặc lệnh hoàn trả kiêm bù trừ khoản thu ngân sách nhà nước (đối với trường hợp hoàn khác) cho Kho bạc Nhà nước bằng phương thức điện tử”.
+
+15. Sửa đổi Điều 29 như sau:
+
+“Điều 29. Tra cứu, xác nhận, điều chỉnh thông tin của người nộp thuế
+
+1. Tra cứu thông tin của người nộp thuế:
+
+a) Người nộp thuế sử dụng tài khoản giao dịch thuế điện tử truy cập Cổng thông tin điện tử của Tổng cục Thuế để tra cứu, xem, in toàn bộ thông tin về hồ sơ, chứng từ, thông báo đã nhận/gửi giữa cơ quan thuế và người nộp thuế. Các thông tin trên Cổng thông tin điện tử của Tổng cục Thuế có giá trị xác nhận như văn bản bằng giấy của cơ quan thuế.
+
+b) Người nộp thuế chưa có tài khoản giao dịch thuế điện tử, sử dụng mã giao dịch điện tử được cấp theo từng lần để tra cứu thông tin đã giao dịch với cơ quan Thuế.
+
+2. Xác nhận số thuế đã nộp ngân sách
+
+a) Trường hợp cần xác nhận số thuế đã nộp ngân sách nhà nước, người nộp thuế sử dụng tài khoản giao dịch thuế điện tử truy cập Cổng thông tin điện tử của Tổng cục Thuế hoặc qua tổ chức cung cấp dịch vụ T-VAN, lập Giấy đề nghị xác nhận số thuế đã nộp Ngân sách nhà nước (theo mẫu số C1-10a/NS-TĐT ban hành kèm theo Thông tư này), ký điện tử và gửi cho cơ quan Thuế.
+
+b) Cổng thông tin điện tử của Tổng cục Thuế gửi Thông báo tiếp nhận hồ sơ thuế điện tử (theo mẫu số 01-1/TB-TĐT ban hành kèm theo Thông tư này) chậm nhất 15 phút kể từ khi nhận được văn bản đề nghị của người nộp thuế.
+
+Cơ quan Thuế rà soát, đối chiếu thông tin do cơ quan thuế quản lý và gửi thông báo xác nhận hoặc không xác nhận số thuế đã nộp ngân sách (theo mẫu số C1-10b/NS-TĐT ban hành kèm theo Thông tư này) cho người nộp thuế qua Cổng thông tin điện tử của Tổng cục Thuế trong thời gian quy định tại Khoản 3 Điều 18 Thông tư số 84/2016/TT-BTC”.
+
+3. Tra cứu thông tin số thuế
+
+Người nộp thuế sử dụng tài khoản giao dịch thuế điện tử truy cập Cổng thông tin điện tử của Tổng cục Thuế để tra cứu thông tin số thuế.
+
+Định kỳ ngày 15 hàng tháng (hoặc ngày làm việc tiếp theo nếu ngày 15 hàng tháng trùng với ngày nghỉ theo quy định của Bộ luật về lao động), Cổng thông tin điện tử của Tổng cục Thuế đăng tải thông tin số thuế của tháng trước đó. Thông tin trên số thuế hàng tháng bao gồm:
+
+a) Thông tin về số thuế tháng trước chuyển sang (dư đầu kỳ);
+
+b) Thông tin về số thuế phát sinh trong tháng (phát sinh trong kỳ);
+
+c) Thông tin về số thuế chuyển tháng sau (dư cuối kỳ).
+
+Trường hợp thông tin số thuế không khớp đúng với dữ liệu về thuế do người nộp thuế theo dõi, người nộp thuế liên hệ với cơ quan thuế quản lý trực tiếp để được giải quyết.
+
+4. Xử lý sai sót, tra soát và điều chỉnh thông tin nộp thuế
+
+Việc xử lý sai sót, tra soát và điều chỉnh thông tin thu nộp thuế được thực hiện theo quy định tại Điều 17 Thông tư số 84/2016/TT-BTC.
+
+Người nộp thuế sử dụng tài khoản giao dịch thuế điện tử truy cập vào Cổng thông tin điện tử của Tổng cục Thuế, lập Thư tra soát (mẫu số C1-11/NS ban hành kèm theo Thông tư số 84/2016/TT-BTC), ký điện tử và gửi cơ quan Thuế.
+
+Cổng thông tin điện tử của Tổng cục Thuế gửi Thông báo tiếp nhận hồ sơ thuế điện tử (theo mẫu số 01-1/TB-TĐT ban hành kèm theo Thông tư này) cho người nộp thuế chậm nhất 15 phút kể từ khi nhận được Thư tra soát của người nộp thuế.
+
+Sau khi nhận được Thư tra soát của người nộp thuế qua Cổng thông tin điện tử của Tổng cục Thuế hoặc qua tổ chức cung cấp dịch vụ T-VAN, cơ quan Thuế kiểm tra, đối chiếu và ban hành Thông báo điều chỉnh thông tin nộp thuế (theo mẫu số 06/TB-TĐT ban hành kèm theo Thông tư này) gửi cho người nộp thuế qua Cổng thông tin điện tử của Tổng cục Thuế trong thời hạn quy định tại Điều 17 Thông tư số 84/2016/TT-BTC”.
+
+16. Bổ sung Khoản 3 Điều 35 như sau:
+
+“3. Người nộp thuế gửi hồ sơ thuế điện tử cho tổ chức cung cấp dịch vụ T-VAN. Trong thời gian quy định tại Điểm b Khoản 1 Điều 36 Thông tư này, tổ chức cung cấp dịch vụ T-VAN có trách nhiệm gửi hồ sơ thuế điện tử của người nộp thuế đến Cổng thông tin điện tử của Tổng cục Thuế”.
+
+17. Bổ sung Khoản 3 Điều 36 như sau:
+
+“3. Cơ quan Thuế gửi các thông báo, quyết định, văn bản của cơ quan thuế nêu tại Thông tư này đến hệ thống trao đổi thông tin của tổ chức cung cấp dịch vụ T-VAN để Tổ chức cung cấp dịch vụ T-VAN gửi cho người nộp thuế”.
+
+18. Sửa đổi, bổ sung, thay thế về mẫu biểu như sau:
+
+a. Sửa đổi các biểu mẫu ban hành kèm theo Thông tư số 110/2015/TT-BTC:
+
+- Thông báo về sự cố kỹ thuật của Cổng thông tin điện tử Tổng cục Thuế mẫu 02/TB-TĐT;
+
+- Thông báo về tài khoản giao dịch thuế điện tử theo mẫu 03/TB-TĐT;
+
+- Thông báo về việc xác nhận nộp thuế điện tử theo mẫu số 05/TB-TĐT;
+
+- Tờ khai đăng ký giao dịch với cơ quan thuế bằng phương thức điện tử theo mẫu số 01/ĐK-TĐT;
+
+- Tờ khai đăng ký thay đổi, bổ sung thông tin giao dịch thuế điện tử theo mẫu số 02/ĐK-TĐT;
+
+b. Bãi bỏ “Thông báo xác nhận nộp hồ sơ thuế điện tử theo mẫu số 01/TB-TĐT” và “Thông báo thực hiện thủ tục đăng ký thuế bằng phương thức điện tử mẫu 06/TB-TĐT” ban hành kèm theo Thông tư số 110/2015/TT-BTC , thay bằng “Thông báo tiếp nhận theo mẫu số 01-1/TB-TĐT” và “Thông báo chấp nhận/không chấp nhận theo mẫu số 01-2/TB-TĐT”.
+
+c. Bổ sung biểu mẫu:
+
+- Thông báo về việc điều chỉnh thông tin nộp thuế theo mẫu số 06/TB-TĐT;
+
+- Giấy đề nghị xác nhận số đã nộp NSNN theo mẫu số C1-10a/NS-TĐT;
+
+- Giấy xác nhận/không xác nhận số thuế đã nộp NSNN theo mẫu số C1-10b/NS-TĐT.
+
+Điều 2. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 05 tháng 11 năm 2019.
+
+2. Trong quá trình thực hiện, nếu các văn bản đề cập tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo văn bản mới được sửa đổi, bổ sung hoặc thay thế. Trường hợp có vướng mắc, đề nghị các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để nghiên cứu giải quyết./.
+
+| Nơi nhận: - Văn phòng TW và các Ban của Đảng; - Văn phòng Quốc hội; - Văn phòng Tổng Bí Thư; - Văn phòng Chủ tịch nước; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - Viện kiểm sát nhân dân tối cao; - Tòa án nhân dân tối cao; - Cục Kiểm tra văn bản (Bộ Tư pháp); - Kiểm toán Nhà nước; - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; - Công báo; - Website Chính phủ, Website Bộ Tài chính, Website TCT; - Các đơn vị thuộc Bộ Tài chính; - Lưu: VT, TCT (VT, KK). | KT. BỘ TRƯỞNG THỨ TRƯỞNG Trần Xuân Hà |
+
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+
+Nơi nhận: - Văn phòng TW và các Ban của Đảng; - Văn phòng Quốc hội; - Văn phòng Tổng Bí Thư; - Văn phòng Chủ tịch nước; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - Viện kiểm sát nhân dân tối cao; - Tòa án nhân dân tối cao; - Cục Kiểm tra văn bản (Bộ Tư pháp); - Kiểm toán Nhà nước; - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; - Công báo; - Website Chính phủ, Website Bộ Tài chính, Website TCT; - Các đơn vị thuộc Bộ Tài chính; - Lưu: VT, TCT (VT, KK).
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Trần Xuân Hà
+
+DANH MỤC MẪU BIỂU
+
+(Kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính)
+
+| Số TT | Mẫu số                                    | Tên mẫu biểu                                                              |
+
+|-------|-------------------------------------------|---------------------------------------------------------------------------|
+
+|       | 1. Đăng kí sử dụng giao dịch thuế điện tử |                                                                           |
+
+| 1     | 01/ĐK-TĐT                                 | Tờ khai đăng ký giao dịch với cơ quan thuế bằng phương thức điện tử       |
+
+| 2     | 02/ĐK-TĐT                                 | Tờ khai đăng ký thay đổi, bổ sung thông tin giao dịch thuế điện tử        |
+
+|       | 2. Thông báo thuế điện tử                 |                                                                           |
+
+| 3     | 01-1/TB-TĐT                               | Thông báo về việc Tiếp nhận hồ sơ/chứng từ thuế điện tử                   |
+
+| 4     | 01-2/TB-TĐT                               | Thông báo về việc chấp nhận/không chấp nhận hồ sơ thuế điện tử            |
+
+| 5     | 02/TB-TĐT                                 | Thông báo về việc Sự cố kỹ thuật của Cổng thông tin điện tử Tổng cục Thuế |
+
+| 6     | 03/TB-TĐT                                 | Thông báo về việc Tài khoản giao dịch thuế điện tử                        |
+
+| 7     | 05/TB-TĐT                                 | Thông báo về việc Xác nhận nộp thuế điện tử                               |
+
+| 8     | 06/TB-TĐT                                 | Thông báo điều chỉnh thông tin nộp thuế                                   |
+
+|       | 3. Xác nhận số thuế đã nộp NSNN           |                                                                           |
+
+| 9     | C1-10a/NS-TĐT                             | Giấy đề nghị xác nhận số thuế đã nộp Ngân sách Nhà nước                   |
+
+| 10    | C1-10b/NS-TĐT                             | Giấy xác nhận/không xác nhận số thuế đã nộp Ngân sách Nhà nước            |
+
+Số TT
+
+Mẫu số
+
+Tên mẫu biểu
+
+1. Đăng kí sử dụng giao dịch thuế điện tử
+
+1
+
+01/ĐK-TĐT
+
+Tờ khai đăng ký giao dịch với cơ quan thuế bằng phương thức điện tử
+
+2
+
+02/ĐK-TĐT
+
+Tờ khai đăng ký thay đổi, bổ sung thông tin giao dịch thuế điện tử
+
+2. Thông báo thuế điện tử
+
+3
+
+01-1/TB-TĐT
+
+Thông báo về việc Tiếp nhận hồ sơ/chứng từ thuế điện tử
+
+4
+
+01-2/TB-TĐT
+
+Thông báo về việc chấp nhận/không chấp nhận hồ sơ thuế điện tử
+
+5
+
+02/TB-TĐT
+
+Thông báo về việc Sự cố kỹ thuật của Cổng thông tin điện tử Tổng cục Thuế
+
+6
+
+03/TB-TĐT
+
+Thông báo về việc Tài khoản giao dịch thuế điện tử
+
+7
+
+05/TB-TĐT
+
+Thông báo về việc Xác nhận nộp thuế điện tử
+
+8
+
+06/TB-TĐT
+
+Thông báo điều chỉnh thông tin nộp thuế
+
+3. Xác nhận số thuế đã nộp NSNN
+
+9
+
+C1-10a/NS-TĐT
+
+Giấy đề nghị xác nhận số thuế đã nộp Ngân sách Nhà nước
+
+10
+
+C1-10b/NS-TĐT
+
+Giấy xác nhận/không xác nhận số thuế đã nộp Ngân sách Nhà nước
+
+|  | Mẫu số: 01/ĐK-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính) |
+
+|--|--------------------------------------------------------------------------------------------------|
+
+Mẫu số: 01/ĐK-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập- Tự do- Hạnh phúc -----------------
+
+TỜ KHAI
+
+Đăng ký giao dịch với cơ quan thuế bằng phương thức điện tử
+
+□ Tổ chức □ Cá nhân
+
+Kính gửi: <Tổng cục Thuế> ………………………………
+
+Tên người nộp thuế: ..........................................................................................................
+
+Mã số thuế: .......................................................................................................................
+
+Địa chỉ: .............................................................................................................................
+
+Xét các điều kiện thực hiện giao dịch điện tử trong lĩnh vực thuế, chúng tôi nhận thấy có đủ điều kiện giao dịch với cơ quan thuế bằng phương thức điện tử. Chúng tôi đăng ký với cơ quan thuế để sử dụng giao dịch thuế điện tử với các thông tin như sau:
+
+A. THÔNG TIN NGƯỜI NỘP THUẾ
+
+<Trường hợp người nộp thuế sử dụng chứng thư số>
+
+1. Thời gian đề nghị được áp dụng từ: ngày…… tháng…… năm……
+
+2. Thông tin đăng ký chứng thư số sử dụng giao dịch thuế điện tử:
+
+| STT | Tên tổ chức/cơ quan chứng thực/cấp/công nhận chữ ký số | Số sê-ri chứng thư số | Thời hạn sử dụng chứng thư số | Thủ tục thuế điện tử đăng ký sử dụng |              |
+
+|-----|--------------------------------------------------------|-----------------------|-------------------------------|--------------------------------------|--------------|
+
+|     |                                                        |                       | Từ ngày                       | Đến ngày                             |              |
+
+|     |                                                        |                       |                               |                                      | Đăng ký thuế |
+
+|     |                                                        |                       |                               |                                      | Khai thuế    |
+
+|     |                                                        |                       |                               |                                      | Nộp thuế     |
+
+|     |                                                        |                       |                               |                                      | Hoàn thuế    |
+
+STT
+
+Tên tổ chức/cơ quan chứng thực/cấp/công nhận chữ ký số
+
+Số sê-ri chứng thư số
+
+Thời hạn sử dụng chứng thư số
+
+Thủ tục thuế điện tử đăng ký sử dụng
+
+Từ ngày
+
+Đến ngày
+
+Đăng ký thuế
+
+Khai thuế
+
+Nộp thuế
+
+Hoàn thuế
+
+3. Thông tin đăng ký tài khoản thực hiện thủ tục nộp thuế điện tử:
+
+| STT | Số tài khoản | Tên tài khoản | Ngân hàng | Số sê-ri chứng thư số | Tên tổ chức/cơ quan chứng thực/cấp/công nhận chữ ký số |
+
+|-----|--------------|---------------|-----------|-----------------------|--------------------------------------------------------|
+
+|     |              |               |           |                       |                                                        |
+
+STT
+
+Số tài khoản
+
+Tên tài khoản
+
+Ngân hàng
+
+Số sê-ri chứng thư số
+
+Tên tổ chức/cơ quan chứng thực/cấp/công nhận chữ ký số
+
+4. Địa chỉ thư điện tử:
+
+4.1. Địa chỉ thư điện tử chính thức nhận tất cả các thông báo trong quá trình thực hiện giao dịch điện tử với cơ quan thuế: …………………………………………
+
+4.2. Địa chỉ thư điện tử bổ sung theo mỗi thủ tục hành chính thuế:
+
+| STT | Địa chỉ thư điện tử | Họ tên người sử dụng | Thủ tục thuế điện tử đăng ký sử dụng |
+
+|-----|---------------------|----------------------|--------------------------------------|
+
+|     |                     |                      | Đăng ký thuế                         |
+
+|     |                     |                      | Khai thuế                            |
+
+|     |                     |                      | Nộp thuế                             |
+
+|     |                     |                      | Hoàn thuế                            |
+
+STT
+
+Địa chỉ thư điện tử
+
+Họ tên người sử dụng
+
+Thủ tục thuế điện tử đăng ký sử dụng
+
+Đăng ký thuế
+
+Khai thuế
+
+Nộp thuế
+
+Hoàn thuế
+
+5. Số điện thoại: ................................................................................................................
+
+<Trường hợp người nộp thuế sử dụng mã xác thực OTP>
+
+1. Địa chỉ thư điện tử:
+
+1.1. Địa chỉ thư điện tử chính thức nhận tất cả các thông báo trong quá trình thực hiện giao dịch điện tử với cơ quan thuế: ………………………………
+
+1.2. Địa chỉ thư điện tử bổ sung theo mỗi thủ tục hành chính thuế:
+
+| STT | Địa chỉ thư điện tử | Họ tên người sử dụng | Thủ tục thuế điện tử đăng ký sử dụng |
+
+|-----|---------------------|----------------------|--------------------------------------|
+
+|     |                     |                      | Đăng ký thuế                         |
+
+|     |                     |                      | Khai thuế                            |
+
+|     |                     |                      | Nộp thuế                             |
+
+|     |                     |                      | Hoàn thuế                            |
+
+STT
+
+Địa chỉ thư điện tử
+
+Họ tên người sử dụng
+
+Thủ tục thuế điện tử đăng ký sử dụng
+
+Đăng ký thuế
+
+Khai thuế
+
+Nộp thuế
+
+Hoàn thuế
+
+2. Số điện thoại di động: ...................................................................................................
+
+B. XÁC NHẬN CỦA NGƯỜI NỘP THUẾ
+
+Chúng tôi/tôi cam kết tiếp nhận và phản hồi các thông tin liên quan đến giao dịch điện tử với cơ quan thuế; thực hiện theo các hướng dẫn, thông báo của cơ quan thuế và chấp hành quyết định, thông báo, yêu cầu của cơ quan thuế đã gửi đến địa chỉ thư điện tử chúng tôi đã đăng ký nêu trên và trên Cổng thông tin điện tử của Tổng cục Thuế theo quy định của pháp luật.
+
+Chúng tôi/tôi chịu trách nhiệm về tính hợp pháp, đầy đủ, chính xác với các thông tin đăng ký nêu trên.
+
+Chúng tôi/tôi cam kết hoàn toàn chịu trách nhiệm quản lý và sử dụng tài khoản theo các quy định của cơ quan thuế và pháp luật về thuế./.
+
+|  | ……, ngày…… tháng…… năm…… NGƯỜI NỘP THUẾ hoặc ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ <Chữ ký số của người nộp thuế> |
+
+|--|------------------------------------------------------------------------------------------------------------------|
+
+……, ngày…… tháng…… năm…… NGƯỜI NỘP THUẾ hoặc ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ <Chữ ký số của người nộp thuế>
+
+|  | Mẫu số: 02/ĐK-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính) |
+
+|--|--------------------------------------------------------------------------------------------------|
+
+Mẫu số: 02/ĐK-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc -----------------
+
+TỜ KHAI
+
+Đăng ký thay đổi, bổ sung thông tin giao dịch thuế điện tử
+
+□ Thay đổi □ Bổ sung
+
+Kính gửi: <Tổng cục Thuế> ………………………………
+
+I. THÔNG TIN NGƯỜI NỘP THUẾ
+
+1. Tên người nộp thuế: ......................................................................................................
+
+2. Mã số thuế: ...................................................................................................................
+
+II. THÔNG TIN ĐĂNG KÝ THAY ĐỔI/BỔ SUNG
+
+<Trường hợp người nộp thuế sử dụng chứng thư số>
+
+1. Thông tin đăng ký chứng thư số sử dụng giao dịch thuế điện tử:
+
+| STT | Tên tổ chức/cơ quan chứng thực/cấp/công nhận chữ ký số | Số sê-ri chứng thư số | Thời hạn sử dụng chứng thư số | Thủ tục thuế điện tử đăng ký sử dụng |              |
+
+|-----|--------------------------------------------------------|-----------------------|-------------------------------|--------------------------------------|--------------|
+
+|     |                                                        |                       | Từ ngày                       | Đến ngày                             |              |
+
+|     |                                                        |                       |                               |                                      | Đăng ký thuế |
+
+|     |                                                        |                       |                               |                                      | Khai thuế    |
+
+|     |                                                        |                       |                               |                                      | Nộp thuế     |
+
+|     |                                                        |                       |                               |                                      | Hoàn thuế    |
+
+STT
+
+Tên tổ chức/cơ quan chứng thực/cấp/công nhận chữ ký số
+
+Số sê-ri chứng thư số
+
+Thời hạn sử dụng chứng thư số
+
+Thủ tục thuế điện tử đăng ký sử dụng
+
+Từ ngày
+
+Đến ngày
+
+Đăng ký thuế
+
+Khai thuế
+
+Nộp thuế
+
+Hoàn thuế
+
+2. Thông tin đăng ký tài khoản thực hiện thủ tục nộp thuế điện tử:
+
+| STT | Số tài khoản | Tên tài khoản | Ngân hàng | Số sê-ri chứng thư số | Tên tổ chức/cơ quan chứng thực/cấp/công nhận chữ ký số |
+
+|-----|--------------|---------------|-----------|-----------------------|--------------------------------------------------------|
+
+|     |              |               |           |                       |                                                        |
+
+|     |              |               |           |                       |                                                        |
+
+STT
+
+Số tài khoản
+
+Tên tài khoản
+
+Ngân hàng
+
+Số sê-ri chứng thư số
+
+Tên tổ chức/cơ quan chứng thực/cấp/công nhận chữ ký số
+
+3. Địa chỉ thư điện tử:
+
+3.1. Địa chỉ thư điện tử chính thức nhận tất cả các thông báo trong quá trình thực hiện giao dịch điện tử với cơ quan thuế: ………………………………………………
+
+3.2. Địa chỉ thư điện tử bổ sung theo mỗi thủ tục hành chính thuế:
+
+| STT | Địa chỉ thư điện tử | Họ tên người sử dụng | Thủ tục thuế điện tử đăng ký sử dụng |
+
+|-----|---------------------|----------------------|--------------------------------------|
+
+|     |                     |                      | Đăng ký thuế                         |
+
+|     |                     |                      | Khai thuế                            |
+
+|     |                     |                      | Nộp thuế                             |
+
+|     |                     |                      | Hoàn thuế                            |
+
+STT
+
+Địa chỉ thư điện tử
+
+Họ tên người sử dụng
+
+Thủ tục thuế điện tử đăng ký sử dụng
+
+Đăng ký thuế
+
+Khai thuế
+
+Nộp thuế
+
+Hoàn thuế
+
+4. Số điện thoại .................................................................................................................
+
+<Trường hợp người nộp thuế sử dụng mã xác thực OTP>
+
+1. Địa chỉ thư điện tử:
+
+1.1. Địa chỉ thư điện tử chính thức nhận tất cả các thông báo trong quá trình thực hiện giao dịch điện tử với cơ quan thuế: ………………………………………………
+
+1.2. Địa chỉ thư điện tử bổ sung theo mỗi thủ tục hành chính thuế:
+
+| STT | Địa chỉ thư điện tử | Họ tên người sử dụng | Thủ tục thuế điện tử đăng ký sử dụng |
+
+|-----|---------------------|----------------------|--------------------------------------|
+
+|     |                     |                      | Đăng ký thuế                         |
+
+|     |                     |                      | Khai thuế                            |
+
+|     |                     |                      | Nộp thuế                             |
+
+|     |                     |                      | Hoàn thuế                            |
+
+STT
+
+Địa chỉ thư điện tử
+
+Họ tên người sử dụng
+
+Thủ tục thuế điện tử đăng ký sử dụng
+
+Đăng ký thuế
+
+Khai thuế
+
+Nộp thuế
+
+Hoàn thuế
+
+2. Số điện thoại di động:....................................................................................................
+
+(Người nộp thuế ghi những nội dung có thay đổi, bổ sung)
+
+III. XÁC NHẬN CỦA NGƯỜI NỘP THUẾ
+
+Chúng tôi/tôi cam kết tiếp nhận và phản hồi các thông tin liên quan đến giao dịch điện tử với cơ quan thuế; thực hiện theo các hướng dẫn, thông báo của cơ quan thuế và chấp hành quyết định, thông báo, yêu cầu của cơ quan thuế đã gửi đến địa chỉ thư điện tử chúng tôi đã đăng ký nêu trên và trên Cổng thông tin điện tử của Tổng cục Thuế theo quy định của pháp luật.
+
+Chúng tôi/tôi chịu trách nhiệm về tính hợp pháp, đầy đủ, chính xác với các thông tin đăng ký nêu trên.
+
+Chúng tôi/tôi cam kết hoàn toàn chịu trách nhiệm quản lý và sử dụng tài khoản theo các quy định của cơ quan thuế và pháp luật về thuế./.
+
+|  | ……, ngày…… tháng…… năm…… NGƯỜI NỘP THUẾ hoặc ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ <Chữ ký số của người nộp thuế> |
+
+|--|------------------------------------------------------------------------------------------------------------------|
+
+……, ngày…… tháng…… năm…… NGƯỜI NỘP THUẾ hoặc ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ <Chữ ký số của người nộp thuế>
+
+|                             | Mẫu số: 01-1/TB-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính) |  |
+
+|-----------------------------|----------------------------------------------------------------------------------------------------|--|
+
+| BỘ TÀI CHÍNH TỔNG CỤC THUẾ  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc                                     |  |
+
+| Số: ……/TB-TĐT               | ………, ngày …… tháng …… năm ……                                                                       |  |
+
+|                             |                                                                                                    |  |
+
+Mẫu số: 01-1/TB-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính)
+
+BỘ TÀI CHÍNH TỔNG CỤC THUẾ -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ----------------
+
+Số: ……/TB-TĐT
+
+………, ngày …… tháng …… năm ……
+
+THÔNG BÁO
+
+Về việc tiếp nhận <hồ sơ đăng ký thuế điện tử/ hồ sơ khai thuế điện tử/chứng từ nộp thuế điện tử/ hồ sơ hoàn thuế điện tử/hồ sơ thuế điện tử>
+
+| Kính gửi: | <Tên người nộp thuế: …> <Mã số thuế của NNT:....> |
+
+|-----------|---------------------------------------------------|
+
+Kính gửi:
+
+<Tên người nộp thuế: …>
+
+<Mã số thuế của NNT:....>
+
+<Trường hợp 1: Trường hợp tiếp nhận hồ sơ đăng ký thuế điện tử (hồ sơ đăng ký thuế/hồ sơ thay đổi thông tin đăng ký thuế/hồ sơ tạm ngừng kinh doanh/hồ sơ khôi phục mã số thuế/hồ sơ chấm dứt hiệu lực mã số thuế/hồ sơ khôi phục sau tạm ngừng kinh doanh trước thời hạn)/hồ sơ khai thuế điện tử/chứng từ nộp thuế điện tử/hồ sơ hoàn thuế điện tử/hồ sơ thuế điện tử của người nộp thuế thì ghi:>
+
+Căn cứ <hồ sơ đăng ký thuế điện tử/hồ sơ khai thuế điện tử/chứng từ nộp thuế điện tử/hồ sơ hoàn thuế điện tử/hồ sơ thuế điện tử> của người nộp thuế (NNT) gửi tới cơ quan thuế lúc... giờ... phút ngày ... tháng ... năm...., cơ quan thuế tiếp nhận <hồ sơ đăng ký thuế điện tử/ hồ sơ khai thuế điện tử/chứng từ nộp thuế điện tử/hồ sơ hoàn thuế điện tử/hồ sơ thuế điện tử> của NNT, cụ thể như sau:
+
+<Trường hợp tiếp nhận hồ sơ đăng ký thuế điện tử thì ghi:>
+
++ Tên hồ sơ <……>, mẫu <…> và các tài liệu đính kèm.
+
++ Mã giao dịch điện tử: ………………………………
+
+Hồ sơ đăng ký thuế điện tử của người nộp thuế đã được cơ quan thuế tiếp nhận vào lúc...giờ...phút ngày...tháng...năm... Hồ sơ đăng ký thuế điện tử của người nộp thuế sẽ được cơ quan thuế tiếp tục kiểm tra.
+
+Trường hợp qua kiểm tra hồ sơ không đầy đủ theo quy định cơ quan thuế sẽ trả Thông báo nêu rõ lý do không chấp nhận hồ sơ và hướng dẫn hoàn thiện hồ sơ cho người nộp thuế trong thời hạn 02 (hai) ngày làm việc kể từ ngày cơ quan thuế tiếp nhận hồ sơ ghi trên thông báo này.
+
+Trường hợp qua kiểm tra hồ sơ đầy đủ theo quy định: <nêu kết quả và thời hạn trả kết quả theo từng loại hồ sơ, địa điểm trả hồ sơ (riêng đối với hồ sơ đăng ký thuế lần đầu thì ghi thêm nội dung “Khi đến nhận kết quả đăng ký thuế, người nộp thuế phải nộp hồ sơ bản giấy cho cơ quan thuế”)>
+
+<Trường hợp tiếp nhận hồ sơ khai thuế/BCTC/BCAC thì hiển thị:>
+
++ Tên tờ khai/Phụ lục: ……………………
+
++ Loại tờ khai: ……………………
+
++ Kỳ tính thuế: ……………………
+
++ Lần nộp hoặc lần bổ sung: ……………………
+
++ Mã giao dịch điện tử: ……………………
+
+Hồ sơ khai thuế điện tử đã được cơ quan thuế tiếp nhận vào lúc…… giờ…… phút ngày....tháng……năm…… Hồ sơ khai thuế điện tử sẽ được cơ quan thuế tiếp tục kiểm tra và trả Thông báo chấp nhận hay không chấp nhận trong thời gian 01 ngày làm việc kể từ thời điểm cơ quan thuế tiếp nhận hồ sơ khai thuế điện tử của NNT.
+
+<Trường hợp tiếp nhận chứng từ nộp thuế thì hiển thị:>
+
++ Tên chứng từ nộp thuế điện tử: ………………
+
++ Số tham chiếu: ……
+
++ Tài khoản trích nợ: ………
+
++ Tên Kho bạc Nhà nước hạch toán thu: …………
+
++ Tên cơ quan thuế quản lý thu: …………
+
++ Tổng số khoản: …………
+
++ Loại tiền: …………
+
++ Tổng số tiền nộp NSNN: …………
+
+Chứng từ điện tử đã được cơ quan thuế tiếp nhận vào lúc...giờ....phút ngày.... tháng…. năm ……
+
+<Trường hợp tiếp nhận thư tra soát thì hiển thị:>
+
++ Tên hồ sơ thuế điện tử: …………………………
+
++ Mã giao dịch điện tử: ………………………………
+
+Thư tra soát điện tử đã được cơ quan thuế tiếp nhận vào lúc ...giờ....phút ngày…tháng… năm…
+
+Cơ quan thuế sẽ trả Thông báo về việc điều chỉnh thông tin nộp thuế, lý do không điều chỉnh (trường hợp không điều chỉnh) trong thời gian <số ngày làm việc theo quy định> kể từ ngày cơ quan thuế tiếp nhận thư tra soát của người nộp thuế.
+
+<Trường hợp tiếp nhận hồ sơ hoàn thuế thì hiển thị:>
+
++ Tên hồ sơ đề nghị hoàn thuế điện tử: ……………………
+
++ Mã giao dịch điện tử: …………………………
+
+Hồ sơ hoàn thuế điện tử đã được cơ quan thuế tiếp nhận vào lúc...giờ....phút ngày....tháng…. năm…… Hồ sơ hoàn thuế điện tử sẽ được cơ quan thuế tiếp tục kiểm tra và trả Thông báo chấp nhận hay không chấp nhận trong thời gian 03 ngày làm việc kể từ thời điểm cơ quan thuế tiếp nhận hồ sơ hoàn thuế điện tử của NNT.
+
+<Trường hợp tiếp nhận hồ sơ xác nhận số thuế đã nộp ngân sách:>
+
+Hồ sơ <xác nhận số thuế đã nộp ngân sách> điện tử đã được cơ quan thuế tiếp nhận vào lúc...giờ...phút ngày....tháng…. năm ….
+
+Cơ quan thuế sẽ trả Thông báo xác nhận hoặc không xác nhận, lý do không xác nhận trong thời hạn <3 ngày làm việc với đề nghị xác nhận số nộp ngân sách> kể từ ngày cơ quan thuế tiếp nhận hồ sơ đề nghị của người nộp thuế.
+
+< Trường hợp tiếp nhận hồ sơ thuế điện tử là hồ sơ khác:>
+
++ Tên hồ sơ thuế điện tử: ……………………
+
++ Mã giao dịch điện tử: …………………………
+
+Hồ sơ thuế điện tử đã được cơ quan thuế tiếp nhận vào lúc ...giờ....phút ngày....tháng… năm Hồ sơ thuế điện tử sẽ được cơ quan thuế tiếp tục kiểm tra và trả kết quả trong thời hạn <số ngày làm việc theo quy định> ngày làm việc kể từ ngày cơ quan thuế tiếp nhận hồ sơ đề nghị của người nộp thuế.
+
+<Trường hợp 2: Trường hợp không tiếp nhận hồ sơ khai thuế điện tử/chứng từ nộp thuế điện tử/hồ sơ hoàn thuế điện tử/hồ sơ thuế điện tử của người nộp thuế thì ghi:>
+
+Căn cứ <hồ sơ khai thuế điện tử/chứng từ nộp thuế điện tử/hồ sơ hoàn thuế điện tử/hồ sơ thuế điện tử> cửa NNT gửi tới cơ quan thuế lúc...giờ...phút ngày... tháng ... năm.... Cơ quan thuế thông báo về việc không tiếp nhận <hồ sơ khai thuế điện tử/chứng từ nộp thuế điện tử/ hồ sơ hoàn thuế điện tử/ hồ sơ thuế điện tử> của NNT, cụ thể như sau:
+
+<Trường hợp không tiếp nhận hồ sơ khai thuế/BCTC/BCAC thì hiển thị:>
+
++ Tên tờ khai/Phụ lục: …………………………
+
++ Loại tờ khai: ………………………………
+
++ Kỳ tính thuế: ………………………………
+
++ Lần nộp hoặc lần bổ sung: ……………………
+
++ Mã giao dịch điện tử: …………………………
+
++ Lý do không tiếp nhận: …………………………
+
+| STT | Mô tả lỗi                                                                                              | Hướng dẫn xử lý                                                                                    | Ghi chú |
+
+|-----|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------|
+
+| (1) | (2)                                                                                                    | (3)                                                                                                | (4)     |
+
+| 1   | <nhóm lỗi>(<tên lỗi>) <Sai thông tin kỳ tính thuế (Kỳ quyết toán từ ngày không được lớn hơn đến ngày)> | <Đề nghị NNT sửa lại thông tin kỳ quyết toán từ ngày đến ngày và gửi lại HSKT theo đúng quy định.> |         |
+
+STT
+
+Mô tả lỗi
+
+Hướng dẫn xử lý
+
+Ghi chú
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+1
+
+<nhóm lỗi>(<tên lỗi>) <Sai thông tin kỳ tính thuế (Kỳ quyết toán từ ngày không được lớn hơn đến ngày)>
+
+<Đề nghị NNT sửa lại thông tin kỳ quyết toán từ ngày đến ngày và gửi lại HSKT theo đúng quy định.>
+
+<Trường hợp không tiếp nhận hồ sơ nộp thuế thì hiển thị:>
+
++ Tên chứng từ nộp thuế điện tử: …………………………
+
++ Tài khoản trích nợ: ……………………
+
++ Tên Kho bạc Nhà nước hạch toán thu: ………………
+
++ Tên cơ quan thuế quản lý thu: ………………
+
++ Tổng số khoản: ………………
+
++ Loại tiền: ………………
+
++ Tổng số tiền nộp NSNN:...
+
++ Lý do không tiếp nhận:
+
+| STT | Mô tả lỗi             | Hướng dẫn xử lý | Ghi chú |
+
+|-----|-----------------------|-----------------|---------|
+
+| (1) | (2)                   | (3)             | (4)     |
+
+| 1   | <nhóm lỗi>(<tên lỗi>) |                 |         |
+
+STT
+
+Mô tả lỗi
+
+Hướng dẫn xử lý
+
+Ghi chú
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+1
+
+<nhóm lỗi>(<tên lỗi>)
+
+<Trường hợp không tiếp nhận thư tra soát thì hiển thị:>
+
++ Tên hồ sơ thuế điện tử: ……………………
+
++ Mã giao dịch điện tử: ……………………
+
++ Lý do không tiếp nhận:
+
+| STT | Mô tả lỗi             | Hướng dẫn xử lý | Ghi chú |
+
+|-----|-----------------------|-----------------|---------|
+
+| (1) | (2)                   | (3)             | (4)     |
+
+| 1   | <nhóm lỗi>(<tên lỗi>) |                 |         |
+
+STT
+
+Mô tả lỗi
+
+Hướng dẫn xử lý
+
+Ghi chú
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+1
+
+<nhóm lỗi>(<tên lỗi>)
+
+<Trường hợp không tiếp nhận hồ sơ hoàn thuế thì hiển thị:>
+
++ Tên hồ sơ đề nghị hoàn thuế điện tử: ……………………………
+
++ Mã giao dịch điện tử: …………………………
+
++ Lý do không tiếp nhận:
+
+| STT | Mô tả lỗi             | Hướng dẫn xử lý | Ghi chú |
+
+|-----|-----------------------|-----------------|---------|
+
+| (1) | (2)                   | (3)             | (4)     |
+
+| 1   | <nhóm lỗi>(<tên lỗi>) |                 |         |
+
+STT
+
+Mô tả lỗi
+
+Hướng dẫn xử lý
+
+Ghi chú
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+1
+
+<nhóm lỗi>(<tên lỗi>)
+
+<Trường hợp không tiếp nhận hồ sơ xác nhận số thuế đã nộp ngân sách: hồ sơ khác:>
+
++ Tên hồ sơ thuế điện tử: …………………………
+
++ Mã giao dịch điện tử: …………………………
+
++ Lý do không tiếp nhận:
+
+| STT | Mô tả lỗi             | Hướng dẫn xử lý | Ghi chú |
+
+|-----|-----------------------|-----------------|---------|
+
+| (1) | (2)                   | (3)             | (4)     |
+
+| 1   | <nhóm lỗi>(<tên lỗi>) |                 |         |
+
+STT
+
+Mô tả lỗi
+
+Hướng dẫn xử lý
+
+Ghi chú
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+1
+
+<nhóm lỗi>(<tên lỗi>)
+
+Đề nghị NTNT điều chỉnh và gửi lại <hồ sơ khai thuế điện tử/chứng từ nộp thuế điện tử/hồ sơ hoàn thuế điện tử/hồ sơ thuế điện tử> theo hướng dẫn nêu trên để được ghi nhận nghĩa vụ nộp hồ sơ thuế theo quy định.
+
+Trường hợp NNT cần biết thêm thông tin chi tiết, xin vui lòng truy cập theo đường dẫn http://www.xxx.gdt.gov.vn hoặc liên hệ với <tên cơ quan thuế giải quyết hồ sơ> để được hỗ trợ.
+
+Cơ quan thuế thông báo để người nộp thuế biết và thực hiện./.
+
+|  | <Chữ ký số của Tổng cục Thuế> |
+
+|--|-------------------------------|
+
+<Chữ ký số của Tổng cục Thuế>
+
+Ghi chú: Chữ in nghiêng trong dấu <> chỉ là giải thích hoặc ví dụ.
+
+Chọn trường hợp 1 hoặc 2 theo kết quả xử lý.
+
+|                             | Mẫu số: 01-2/TB-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính) |  |
+
+|-----------------------------|----------------------------------------------------------------------------------------------------|--|
+
+| BỘ TÀI CHÍNH TỔNG CỤC THUẾ  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc                                     |  |
+
+| Số: ……/TB-TĐT               | ………, ngày …… tháng …… năm ……                                                                       |  |
+
+|                             |                                                                                                    |  |
+
+Mẫu số: 01-2/TB-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính)
+
+BỘ TÀI CHÍNH TỔNG CỤC THUẾ -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ----------------
+
+Số: ……/TB-TĐT
+
+………, ngày …… tháng …… năm ……
+
+THÔNG BÁO
+
+Về việc chấp nhận/không chấp nhận <hồ sơ đăng ký thuế điện tử/ hồ sơ khai thuế điện tử/hồ sơ hoàn thuế điện tử/hồ sơ thuế điện tử>
+
+| Kính gửi: | <Họ tên người nộp thuế: …> <Mã số thuế của NNT:....> |
+
+|-----------|------------------------------------------------------|
+
+Kính gửi:
+
+<Họ tên người nộp thuế: …>
+
+<Mã số thuế của NNT:....>
+
+< Trường hợp 1: Trường hợp chấp nhận hồ sơ khai thuế điện tử/hồ sơ hoàn thuế điện tử thì ghi:>
+
+Căn cứ <hồ sơ khai thuế điện tử/hồ sơ hoàn thuế điện tử> của người nộp thuế (NNT) đã được Cổng thông tin điện tử của Tổng cục Thuế thông báo tiếp nhận vào lúc...giờ...phút ngày ... tháng ... năm.... Cơ quan thuế thông báo về việc chấp nhận <hồ sơ khai thuế điện tử/hồ sơ hoàn thuế điện tử> của NNT, cụ thể như sau:
+
+<Trường hợp chấp nhận hồ sơ khai thuế/BCTC/BCAC thì hiển thị:>
+
++ Tên tờ khai/Phụ lục: ………………………
+
++ Loại tờ khai: ………………………
+
++ Kỳ tính thuế: ………………………
+
++ Lần nộp hoặc lần bổ sung: ………………………
+
++ Mã giao dịch điện tử: ………………………
+
+Hồ sơ khai thuế (HSKT) điện tử của NNT được cơ quan thuế chấp nhận vào lúc...giờ...phút ngày....tháng…. năm ………
+
+Ngày hoàn thành việc nộp HSKT của NNT là ngày <ngày nộp của HSKT bước 1 được tiếp nhận lần đầu>.
+
+<Trường hợp chấp nhận hồ sơ hoàn thuế thì hiển thị:>
+
+Hồ sơ đề nghị hoàn thuế điện tử của NNT được cơ quan thuế nhận đủ vào lúc...giờ....phút ngày....tháng…… năm ……
+
+Hồ sư đề nghị hoàn thuế điện tử của NNT được cơ quan thuế nhận đủ vào lúc...giờ....phút ngày.... tháng…… năm ……
+
+Thời gian hẹn trả kết quả giải quyết: sáu 06 (sáu) ngày làm việc kể từ ngày nhận đủ hồ sơ.
+
+Trường hợp hồ sơ thuộc diện kiểm tra trước, hoàn thuế sau hoặc cần giải trình, bổ sung thông tin, tài liệu, cơ quan Thuế sẽ có thông báo gửi người nộp thuế.
+
+Cơ quan thuế sẽ thực hiện trả kết quả giải quyết hồ sơ hoàn thuế cho NNT qua Cổng thông tin điện tử của Tổng cục Thuế.
+
+<Trường hợp 2: Trường hợp không chấp nhận hồ sơ đăng ký thuế điện tử/hồ sơ khai thuế điện tử/hồ sơ hoàn thuế điện tử/hồ sơ thuế điện tử thì ghi:>
+
+Căn cứ hồ sơ thuế điện tử của người nộp thuế (NNT) đã được Cổng thông tin điện tử của Tổng cục Thuế Thông báo tiếp nhận vào lúc...giờ...phút ngày ... tháng ... năm.... Cơ quan thuế thông báo về việc không chấp nhận hồ sơ thuế điện tử của NNT, cụ thể như sau:
+
+<Trường hợp không chấp nhận hồ sơ đăng ký thuế điện tử (hồ sơ đăng ký thuế/hồ sơ thay đổi thông tin đăng ký thuế/hồ sơ tạm ngừng kinh doanh/hồ sơ khôi phục mã số thuế/hồ sơ chấm dứt hiệu lực mã số thuế/hồ sơ khôi phục sau tạm ngừng kinh doanh trước thời hạn) thì ghi:>
+
+- Tên hồ sơ <……>, mẫu <... > và các tài liệu đính kèm.
+
+- Mã giao dịch điện tử: ………….
+
+Hồ sơ đăng ký thuế điện tử của NNT nộp cho cơ quan thuế không đầy đủ theo quy định, cụ thể:
+
+| STT | Tên hồ sơ | Mẫu số | Thông tin có sai sót | Hướng dẫn xử lý |
+
+|-----|-----------|--------|----------------------|-----------------|
+
+|     |           |        |                      |                 |
+
+|     |           |        |                      |                 |
+
+STT
+
+Tên hồ sơ
+
+Mẫu số
+
+Thông tin có sai sót
+
+Hướng dẫn xử lý
+
+Đề nghị người nộp thuế điều chỉnh, hoàn thiện hồ sơ để nộp lại cho cơ quan thuế thay thế cho hồ sơ đã nộp có sai sót theo hướng dẫn nêu trên.
+
+Cơ quan thuế sẽ giải quyết hồ sơ khi người nộp thuế nộp hồ sơ đầy đủ theo Thông báo này.
+
+<Trường hợp không chấp nhận hồ sơ khai thuế/BCTC/BCAC thì hiển thị:>
+
++ Tên tờ khai/Phụ lục: ……………………
+
++ Loại tờ khai: ……………………
+
++ Kỳ tính thuế: ……………………
+
++ Lần nộp hoặc lần bổ sung: ……………………
+
++ Mã giao dịch điện tử: ……………………
+
++ Lý do không chấp nhận:
+
+| STT | Thông tin có sai sót                                                                                  | Hướng dẫn xử lý                                                                                              | Ghi chú |
+
+|-----|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------|
+
+| (1) | (2)                                                                                                   | (3)                                                                                                          | (4)     |
+
+| 1   | <nhóm lỗi>(<tên lỗi>) <Sai thông tin HSKT bổ sung (NNT chưa có HSKT chính thức cho kỳ tính thuế ...)> | NNT chưa có HSKT chính thức cho kỳ tính thuế .... Đề nghị NNT nộp HSKT chính thức trước khi nộp HSKT bổ sung |         |
+
+STT
+
+Thông tin có sai sót
+
+Hướng dẫn xử lý
+
+Ghi chú
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+1
+
+<nhóm lỗi>(<tên lỗi>) <Sai thông tin HSKT bổ sung (NNT chưa có HSKT chính thức cho kỳ tính thuế ...)>
+
+NNT chưa có HSKT chính thức cho kỳ tính thuế .... Đề nghị NNT nộp HSKT chính thức trước khi nộp HSKT bổ sung
+
+Đề nghị NNT điều chỉnh và gửi lại hồ sơ thuế điện tử theo hướng dẫn nêu trên để được ghi nhận nghĩa vụ nộp hồ sơ khai thuế theo quy định.
+
+<Trường hợp không chấp nhận hồ sơ hoàn thuế điện tử thì hiển thị:>
+
++ Tên hồ sơ đề nghị hoàn thuế điện tử:……………………
+
++ Mã giao dịch điện tử:……………………
+
++ Lý do không chấp nhận:
+
+| STT | Thông tin có sai sót  | Hướng dẫn xử lý | Ghi chú |
+
+|-----|-----------------------|-----------------|---------|
+
+| (1) | (2)                   | (3)             | (4)     |
+
+| 1   | <nhóm lỗi>(<tên lỗi>) |                 |         |
+
+STT
+
+Thông tin có sai sót
+
+Hướng dẫn xử lý
+
+Ghi chú
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+1
+
+<nhóm lỗi>(<tên lỗi>)
+
+<Trường hợp không chấp nhận hồ sơ thuế điện tử khác:>
+
++ Tên hồ sơ thuế điện tử: …………………………
+
++ Mã giao dịch điện tử: ………………………..
+
++ Lý do không chấp nhận:
+
+| STT | Thông tin có sai sót  | Hướng dẫn xử lý | Ghi chú |
+
+|-----|-----------------------|-----------------|---------|
+
+| (1) | (2)                   | (3)             | (4)     |
+
+| 1   | <nhóm lỗi>(<tên lỗi>) |                 |         |
+
+STT
+
+Thông tin có sai sót
+
+Hướng dẫn xử lý
+
+Ghi chú
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+1
+
+<nhóm lỗi>(<tên lỗi>)
+
+Đề nghị NNT điều chỉnh và gửi lại hồ sơ thuế điện tử theo hướng dẫn nêu trên để được ghi nhận nghĩa vụ nộp hồ sơ thuế theo quy định (trừ hồ sơ đăng ký thuế điện tử).
+
+Trường hợp cần biết thêm thông tin chi tiết, NNT vui lòng truy cập theo đường dẫn http://www.xxx.gdt.gov.vn hoặc liên hệ với <tên cơ quan thuế giải quyết hồ sơ> để được hỗ trợ.
+
+Cơ quan thuế thông báo để người nộp thuế biết, thực hiện./.
+
+|  | <Chữ ký số của Tổng cục Thuế> |
+
+|--|-------------------------------|
+
+<Chữ ký số của Tổng cục Thuế>
+
+Ghi chú: Chữ in nghiêng trong dấu <> chỉ là giải thích hoặc ví dụ.
+
+Chọn trường hợp 1 hoặc 2 theo kết quả xử lý.
+
+|                             | Mẫu số: 02/TB-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính) |  |
+
+|-----------------------------|--------------------------------------------------------------------------------------------------|--|
+
+| BỘ TÀI CHÍNH TỔNG CỤC THUẾ  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc                                   |  |
+
+| Số: ……/TB-TĐT               | ………, ngày …… tháng …… năm ……                                                                     |  |
+
+|                             |                                                                                                  |  |
+
+Mẫu số: 02/TB-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính)
+
+BỘ TÀI CHÍNH TỔNG CỤC THUẾ -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ----------------
+
+Số: ……/TB-TĐT
+
+………, ngày …… tháng …… năm ……
+
+THÔNG BÁO
+
+Về việc sự cố kỹ thuật của Cổng thông tin điện tử Tổng cục Thuế
+
+Căn cứ quy định tại Điều 9 Thông tư số …… ngày …/…/… của Bộ Tài chính hướng dẫn về giao dịch điện tử trong lĩnh vực thuế.
+
+<Thông báo về sự cố kỹ thuật>
+
+Do sự cố kỹ thuật của Cổng thông tin điện tử Tổng cục Thuế, Tổng cục Thuế thông báo tạm dừng việc nhận hồ sơ thuế điện tử/chứng từ nộp thuế điện tử của người nộp thuế từ ... ngày ... tháng ... năm ... Cơ quan Thuế đang cố gắng khắc phục sự cố trong thời gian sớm nhất. Sau khi sự cố được khắc phục, cơ quan Thuế sẽ có thông báo cho NNT biết.
+
+<Trường hợp thông báo sự cố kỹ thuật đã được khắc phục>
+
+Ngày ... tháng ... năm ... cơ quan Thuế có Thông báo số ……/TB-TĐT thông báo cho NNT về sự cố <kỹ thuật Cổng thông tin điện tử Tổng cục Thuế>. Đến nay, sự cố đã được khắc phục. Người nộp thuế có thể tiếp tục thực hiện các giao dịch điện tử qua Cổng thông tin điện tử của Tổng cục Thuế theo quy định.
+
+Người nộp thuế cần biết thêm chi tiết, xin vui lòng truy cập theo đường dẫn: http://www.xxx.gdt.gov.vn hoặc liên hệ với <tên cơ quan Thuế giải quyết hồ sơ> để được hỗ trợ trực tiếp.
+
+Tổng cục Thuế thông báo để người nộp thuế được biết./.
+
+|  | <Chữ ký số của Tổng cục Thuế> |
+
+|--|-------------------------------|
+
+<Chữ ký số của Tổng cục Thuế>
+
+Ghi chú: Chữ in nghiêng trong dấu <> chỉ là giải thích hoặc ví dụ.
+
+|                             | Mẫu số: 03/TB-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính) |  |
+
+|-----------------------------|--------------------------------------------------------------------------------------------------|--|
+
+| BỘ TÀI CHÍNH TỔNG CỤC THUẾ  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc                                   |  |
+
+| Số: ……/TB-TĐT               | ………, ngày …… tháng …… năm ……                                                                     |  |
+
+|                             |                                                                                                  |  |
+
+Mẫu số: 03/TB-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính)
+
+BỘ TÀI CHÍNH TỔNG CỤC THUẾ -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ----------------
+
+Số: ……/TB-TĐT
+
+………, ngày …… tháng …… năm ……
+
+THÔNG BÁO
+
+Về việc tài khoản giao dịch thuế điện tử
+
+| Kính gửi: | <Tên người nộp thuế: …> <Mã số thuế: …> <Địa chỉ: …> |
+
+|-----------|------------------------------------------------------|
+
+Kính gửi:
+
+<Tên người nộp thuế: …>
+
+<Mã số thuế: …>
+
+<Địa chỉ: …>
+
+<1. Trường hợp đăng ký giao dịch điện tử với cơ quan thuế bằng phương thức điện tử qua Cổng thông tin điện tử của Tổng cục Thuế/qua tổ chức cung cấp dịch vụ T-VAN>
+
+Căn cứ hồ sơ <đăng ký giao dịch thuế điện tử/đăng ký thay đổi, bổ sung thông tin giao dịch thuế điện tử/đăng ký ngừng giao dịch thuế điện tử> <qua Cổng thông tin điện tử của Tổng cục Thuế/qua tổ chức cung cấp dịch vụ T- VAN> của người nộp thuế
+
+Mã giao dịch điện tử: ...;
+
+Xét điều kiện thực hiện và cam kết của người nộp thuế.
+
+<1.1. Trường hợp chấp nhận đề nghị của người nộp thuế thì ghi:>
+
+Cơ quan thuế chấp nhận đề nghị về việc <đăng ký giao dịch thuế điện tử/đăng ký thay đổi, bổ sung thông tin giao dịch thuế điện tử/đăng ký ngừng giao dịch thuế điện tử> <qua Cổng thông tin điện tử của Tổng cục Thuế/qua tổ chức cung cấp dịch vụ T-VAN> của người nộp thuế kể từ ...giờ ....phút.... giây ngày ... tháng... năm..., cụ thể như sau:
+
+<1.1.1. Trường hợp đăng ký giao dịch với cơ quan thuế lần đầu>
+
+< Trường hợp NNT đăng ký giao dịch với cơ quan thuế bằng phương thức điện tử lần đầu qua Cổng thông tin điện tử của Tổng cục Thuế thì hiển thị: “thông tin về tài khoản; đường link để người nộp thuế đăng nhập vào hệ thống”>.
+
+< Trường hợp NNT đăng ký giao dịch với cơ quan thuế bằng phương thức điện tử lần đầu qua tổ chức cung cấp dịch vụ T-VAN thì hiển thị: “thông tin về tài khoản, mật khẩu để thực hiện tra cứu trên Cổng thông tin điện tử của Tổng cục Thuế; đường link để người nộp thuế đăng nhập vào hệ thống”>.
+
+Lưu ý:
+
++ NNT có trách nhiệm thông báo ngay cho cơ quan thuế khi phát hiện hoặc nghi ngờ có hiện tượng truy cập và sử dụng trái phép dịch vụ thuế điện tử hoặc nghi ngờ thông tin đăng nhập không còn bảo mật hoặc bị mất thiết bị xác thực.
+
++ NNT cần thận trọng, hạn chế dùng máy tính công cộng, mạng không dây công cộng để truy cập vào hệ thống thuế điện tử.
+
++ Thoát khỏi hệ thống thuế điện tử khi không sử dụng.
+
++ Không đặt tùy chọn của trình duyệt Web cho phép lưu lại tên và mật khẩu người dùng.
+
+<1.1.2. Trường hợp NNT đăng ký thay đổi, bổ sung thông tin/đăng ký ngừng giao dịch thuế điện tử thì hiển thị các thông tin đã chấp nhận>.
+
+<1.2. Trường hợp không chấp nhận đề nghị của người nộp thuế thì ghi:>
+
+Cơ quan thuế không chấp nhận đề nghị về việc <đăng ký giao dịch thuế điện tử/đăng ký thay đổi, bổ sung thông tin giao dịch thuế điện tử/đăng ký ngừng giao dịch thuế điện tử> của người nộp thuế.
+
+Lý do: <Lý do không chấp nhận>
+
+<2. Trường hợp cơ quan thuế gửi thông báo về việc ngừng giao dịch điện tử của người nộp thuế qua Cổng thông tin điện tử của Tổng cục Thuế/qua tổ chức cung cấp dịch vụ T-VAN:>
+
+Cơ quan thuế thông báo về việc Cổng thông tin điện tử của Tổng cục Thuế ngừng việc thực hiện các thủ tục hành chính thuế bằng phương thức điện tử của người nộp thuế kể từ ...giờ ....phút.... giây ngày ... tháng... năm...
+
+Lý do: <Người nộp thuế không hoạt động tại địa chỉ đã đăng ký/doanh nghiệp bị giải thể/chấm dứt tồn tại theo Thông báo của cơ quan đăng ký kinh doanh/ ……>
+
+Người nộp thuế cần biết thêm chi tiết, xin vui lòng truy cập theo đường dẫn: http://www.xxx.gdt.gov.vn hoặc liên hệ với <tên cơ quan thuế> để được hỗ trợ trực tiếp.
+
+Cơ quan thuế thông báo để người nộp thuế biết, thực hiện./.
+
+<Chữ ký số của Tổng cục Thuế>
+
+Ghi chú: Chữ in nghiêng trong dấu <> chỉ là giải thích hoặc ví dụ. Chọn trường hợp 1 hoặc 2 theo kết quả xử lý.
+
+|               | Mẫu số: 05/TB-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính) |  |
+
+|---------------|--------------------------------------------------------------------------------------------------|--|
+
+| NGÂN HÀNG………  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc                                   |  |
+
+| Số: ……/TB-NH  | ………, ngày …… tháng …… năm ……                                                                     |  |
+
+|               |                                                                                                  |  |
+
+Mẫu số: 05/TB-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính)
+
+NGÂN HÀNG……… -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ----------------
+
+Số: ……/TB-NH
+
+………, ngày …… tháng …… năm ……
+
+THÔNG BÁO
+
+Về việc xác nhận nộp thuế điện tử
+
+| Kính gửi: | <Tên người nộp thuế: …> <Mã số thuế: …> |
+
+|-----------|-----------------------------------------|
+
+Kính gửi:
+
+<Tên người nộp thuế: …>
+
+<Mã số thuế: …>
+
+Vào <...giờ ... phút ... giây, ngày ....tháng...năm...>, Ngân hàng …………… thông báo trạng thái thực hiện thủ tục nộp thuế điện tử của người nộp thuế, cụ thể như sau:
+
+| STT | Nội dung                            | Giá trị |
+
+|-----|-------------------------------------|---------|
+
+| 1   | Số tham chiếu                       |         |
+
+| 2   | Mã hiệu chứng từ                    |         |
+
+| 3   | Số chứng từ                         |         |
+
+| 4   | Tài khoản trích Nợ                  |         |
+
+| 5   | Nộp cho KBNN                        |         |
+
+| 6   | Ngày gửi GNT                        |         |
+
+| 7   | Ngày nộp thuế điện tử               |         |
+
+| 8   | Tổng số khoản                       |         |
+
+| 9   | Loại tiền                           |         |
+
+| 10  | Tổng số tiền nộp NSNN               |         |
+
+| 11  | Trạng thái                          |         |
+
+| 12  | Lý do <trường hợp không thành công> |         |
+
+STT
+
+Nội dung
+
+Giá trị
+
+1
+
+Số tham chiếu
+
+2
+
+Mã hiệu chứng từ
+
+3
+
+Số chứng từ
+
+4
+
+Tài khoản trích Nợ
+
+5
+
+Nộp cho KBNN
+
+6
+
+Ngày gửi GNT
+
+7
+
+Ngày nộp thuế điện tử
+
+8
+
+Tổng số khoản
+
+9
+
+Loại tiền
+
+10
+
+Tổng số tiền nộp NSNN
+
+11
+
+Trạng thái
+
+12
+
+Lý do <trường hợp không thành công>
+
+Để tra cứu thông tin đã nộp thuế điện tử nói trên, xin vui lòng truy cập theo đường dẫn: <đường dẫn>.
+
+|  | <Chữ ký số của Ngân hàng> |
+
+|--|---------------------------|
+
+<Chữ ký số của Ngân hàng>
+
+|                             | Mẫu số: 06/TB-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính) |  |
+
+|-----------------------------|--------------------------------------------------------------------------------------------------|--|
+
+| BỘ TÀI CHÍNH TỔNG CỤC THUẾ  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc                                   |  |
+
+| Số: ……/TB-TĐT               | ………, ngày …… tháng …… năm ……                                                                     |  |
+
+|                             |                                                                                                  |  |
+
+Mẫu số: 06/TB-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính)
+
+BỘ TÀI CHÍNH TỔNG CỤC THUẾ -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ----------------
+
+Số: ……/TB-TĐT
+
+………, ngày …… tháng …… năm ……
+
+THÔNG BÁO
+
+Về việc điều chỉnh thông tin nộp thuế
+
+| Kính gửi: | <Tên người nộp thuế: …> <Mã số thuế của người nộp thuế: …> |
+
+|-----------|------------------------------------------------------------|
+
+Kính gửi:
+
+<Tên người nộp thuế: …>
+
+<Mã số thuế của người nộp thuế: …>
+
+Căn cứ chứng từ nộp tiền vào NSNN của <Tên NNT, MST>;
+
+Căn cứ thư tra soát có mã giao dịch điện tử…………………… gửi đến cơ quan thuế lúc ……giờ…… phút ngày…… tháng…… năm…… của người nộp thuế;
+
+(1) Cục Thuế/Chi cục Thuế <Tên cơ quan thuế> xác nhận đã thực hiện điều chỉnh thông tin chứng từ nộp tiền vào NSNN của <Tên NNT, MST> như sau:
+
+| Ngày nộp thuế                         | Số tham chiếu             | Loại tiền          | Tài khoản thu | Tên KB hạch toán thu | Tên cơ quan thuế quản lý thu | Thông tin khoản nộp NSNN | Số tiền |  |  |
+
+|---------------------------------------|---------------------------|--------------------|---------------|----------------------|------------------------------|--------------------------|---------|--|--|
+
+| Số tờ khai/số quyết định/số thông báo | Kỳ thuế/ ngày QĐ/ ngày TB | Nội dung khoản nộp |               |                      |                              |                          |         |  |  |
+
+|                                       |                           |                    |               |                      |                              |                          |         |  |  |
+
+|                                       |                           |                    |               |                      |                              |                          |         |  |  |
+
+|                                       |                           |                    |               |                      |                              |                          |         |  |  |
+
+Ngày nộp thuế
+
+Số tham chiếu
+
+Loại tiền
+
+Tài khoản thu
+
+Tên KB hạch toán thu
+
+Tên cơ quan thuế quản lý thu
+
+Thông tin khoản nộp NSNN
+
+Số tiền
+
+Số tờ khai/số quyết định/số thông báo
+
+Kỳ thuế/ ngày QĐ/ ngày TB
+
+Nội dung khoản nộp
+
+hoặc: (2) Cơ quan thuế không thực hiện điều chỉnh thông tin chứng từ nộp tiền vào NSNN theo yêu cầu của người nộp thuế do <lý do>.
+
+Trường hợp người nộp thuế cần biết thêm thông tin chi tiết, xin vui lòng truy cập theo đường dẫn http://www.xxx.gdt.gov.vn hoặc liên hệ với <tên cơ quan thuế> để được hỗ trợ.
+
+Cơ quan thuế thông báo để người nộp thuế biết và thực hiện./.
+
+|  | <Chữ ký số của Tổng cục Thuế> |
+
+|--|-------------------------------|
+
+<Chữ ký số của Tổng cục Thuế>
+
+Ghi chú: Chữ in nghiêng trong dấu <> chỉ là giải thích hoặc ví dụ.
+
+Chọn trường hợp 1 hoặc 2 theo kết quả xử lý.
+
+|  | Mẫu số C1-10a/NS-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính) |
+
+|--|-----------------------------------------------------------------------------------------------------|
+
+Mẫu số C1-10a/NS-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính)
+
+CƠ QUAN/CÁ NHÂN ĐỀ NGHỊ ………..
+
+Số: …………………………
+
+Ngày…… tháng…… năm………
+
+GIẤY ĐỀ NGHỊ XÁC NHẬN SỐ THUẾ ĐÃ NỘP NGÂN SÁCH NHÀ NƯỚC
+
+Kính gửi: …………………… (Tên cơ quan thuế)
+
+Tên người nộp thuế: ……………………………………… Mã số thuế ...............................
+
+Đề nghị cơ quan thuế: ......................................................................................................
+
+Xác nhận số tiền đã nộp vào ngân sách nhà nước của:
+
+<Tên người nộp thuế> ………………………………Mã số thuế: …………………………
+
+Và các đơn vị phụ thuộc:
+
++ <Tên người nộp thuế> …………………………… Mã số thuế: …………………………
+
++ <Tên người nộp thuế> …………………………… Mã số thuế: …………………………
+
+……
+
+Các thông tin đề nghị xác nhận:
+
+1. Thời gian nộp tiền vào NSNN (trong năm dương lịch): Từ ngày …/…/… đến ngày …/…/…:
+
+2. Loại thuế (Người nộp thuế chọn xác nhận theo một trong hai trường hợp):
+
++ Tất cả các loại thuế
+
++ Một hoặc nhiều loại thuế: <Loại thuế 1 <Tiểu mục>; Loại thuế 2 <Tiểu mục>; …………>
+
+3. Chứng từ nộp thuế
+
+| STT                                       | Mã số thuế | Tên NNT | Số chứng từ | Ngày chứng từ | Nội dung nộp NSNN | Số tiền | Loại tiền | Cơ quan quản lý thu | Ghi chú |
+
+|-------------------------------------------|------------|---------|-------------|---------------|-------------------|---------|-----------|---------------------|---------|
+
+|                                           |            |         |             |               |                   |         |           |                     |         |
+
+|                                           |            |         |             |               |                   |         |           |                     |         |
+
+|                                           |            |         |             |               |                   |         |           |                     |         |
+
+| TỔNG CỘNG: (Chi tiết theo từng loại tiền) |            |         |             |               |                   |         |           |                     |         |
+
+STT
+
+Mã số thuế
+
+Tên NNT
+
+Số chứng từ
+
+Ngày chứng từ
+
+Nội dung nộp NSNN
+
+Số tiền
+
+Loại tiền
+
+Cơ quan quản lý thu
+
+Ghi chú
+
+TỔNG CỘNG:
+
+(Chi tiết theo từng loại tiền)
+
+| Người lập (Ký và ghi rõ họ tên) | Thủ trưởng cơ quan/người đề nghị (Ký tên và đóng dấu) |
+
+|---------------------------------|-------------------------------------------------------|
+
+Người lập (Ký và ghi rõ họ tên)
+
+Thủ trưởng cơ quan/người đề nghị (Ký tên và đóng dấu)
+
+|  | Mẫu số C1-10b/NS-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính) |
+
+|--|-----------------------------------------------------------------------------------------------------|
+
+Mẫu số C1-10b/NS-TĐT (Ban hành kèm theo Thông tư số 66/2019/TT-BTC ngày 20/9/2019 của Bộ Tài chính)
+
+CƠ QUAN THUẾ XÁC NHẬN ………..
+
+Số: ……………………
+
+Ngày…… tháng…… năm………
+
+GIẤY XÁC NHẬN/KHÔNG XÁC NHẬN SỐ THUẾ ĐÃ NỘP NSNN
+
+Kính gửi: <tên NNT>……… <Mã số thuế> …………
+
+Căn cứ Giấy đề nghị xác nhận số thuế đã nộp ngân sách nhà nước số…… ngày …/…/… của người nộp thuế gửi cơ quan thuế;
+
+Căn cứ số liệu về số thuế đã nộp NSNN của người nộp thuế được theo dõi trên ứng dụng của cơ quan thuế, <Trường hợp chấp nhận đề nghị xác nhận của NNT> cơ quan thuế xác nhận số tiền thuế đã nộp vào NSNN từ ngày …/…/… đến ngày …/…/… của <tên NNT>……, mã số thuế <mã số thuế> ………… và các đơn vị phụ thuộc (nếu có) ……, cụ thể như sau:
+
+<1. Xác nhận theo loại thuế>
+
+| STT                                                       | Mã số thuế | Tên NNT | Loại thuế | Nội dung nộp NSNN | Số tiền | Loại tiền | Cơ quan quản lý thu | Ghi chú |  |
+
+|-----------------------------------------------------------|------------|---------|-----------|-------------------|---------|-----------|---------------------|---------|--|
+
+| Chương                                                    | Tiểu mục   |         |           |                   |         |           |                     |         |  |
+
+|                                                           |            |         |           |                   |         |           |                     |         |  |
+
+|                                                           |            |         |           |                   |         |           |                     |         |  |
+
+|                                                           |            |         |           |                   |         |           |                     |         |  |
+
+| TỔNG CỘNG: (Chi tiết theo từng MST, loại thuế, loại tiền) |            |         |           |                   |         |           |                     |         |  |
+
+STT
+
+Mã số thuế
+
+Tên NNT
+
+Loại thuế
+
+Nội dung nộp NSNN
+
+Số tiền
+
+Loại tiền
+
+Cơ quan quản lý thu
+
+Ghi chú
+
+Chương
+
+Tiểu mục
+
+TỔNG CỘNG:
+
+(Chi tiết theo từng MST, loại thuế, loại tiền)
+
+<2. Xác nhận chi tiết theo chứng từ nộp thuế>
+
+| STT                                       | MST      | Tên NNT | Số chứng từ | Ngày chứng từ | Ngày nộp thuế | Nội dung nộp NSNN | Số tiền | Loại tiền | Cơ quan quản lý thu | Ghi chú |  |
+
+|-------------------------------------------|----------|---------|-------------|---------------|---------------|-------------------|---------|-----------|---------------------|---------|--|
+
+| Chương                                    | Tiểu mục |         |             |               |               |                   |         |           |                     |         |  |
+
+|                                           |          |         |             |               |               |                   |         |           |                     |         |  |
+
+|                                           |          |         |             |               |               |                   |         |           |                     |         |  |
+
+|                                           |          |         |             |               |               |                   |         |           |                     |         |  |
+
+| TỔNG CỘNG: (Chi tiết theo từng loại tiền) |          |         |             |               |               |                   |         |           |                     |         |  |
+
+STT
+
+MST
+
+Tên NNT
+
+Số chứng từ
+
+Ngày chứng từ
+
+Ngày nộp thuế
+
+Nội dung nộp NSNN
+
+Số tiền
+
+Loại tiền
+
+Cơ quan quản lý thu
+
+Ghi chú
+
+Chương
+
+Tiểu mục
+
+TỔNG CỘNG:
+
+(Chi tiết theo từng loại tiền)
+
+<Trường hợp không chấp nhận đề nghị xác nhận của NNT thì>: Cơ quan thuế không xác nhận đề nghị của người nộp thuế.
+
+Lý do không xác nhận:....
+
+Đề nghị người nộp thuế liên hệ với cơ quan thuế quản lý thu để rà soát, đối chiếu.
+
+Trường hợp có vướng mắc, người nộp thuế liên hệ với cơ quan thuế quản lý thu để được hỗ trợ trực tiếp./.
+
+|  | CƠ QUAN THUẾ…………                    |                               |
+
+|--|-------------------------------------|-------------------------------|
+
+|  | NGƯỜI ĐỐI CHIẾU (Ký, ghi rõ họ tên) | THỦ TRƯỞNG (Ký tên, đóng dấu) |
+
+CƠ QUAN THUẾ…………
+
+NGƯỜI ĐỐI CHIẾU (Ký, ghi rõ họ tên)
+
+THỦ TRƯỞNG (Ký tên, đóng dấu)

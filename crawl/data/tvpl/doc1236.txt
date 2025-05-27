@@ -1,0 +1,535 @@
+| BỘ TÀI CHÍNH       | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|--------------------|-----------------------------------------------------------------|
+
+| Số: 14/2020/TT-BTC | Hà Nội, ngày 18 tháng 3 năm 2020                                |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 14/2020/TT-BTC
+
+Hà Nội, ngày 18 tháng 3 năm 2020
+
+THÔNG TƯ
+
+SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 127/2018/TT-BTC NGÀY 27 THÁNG 12 NĂM 2018 CỦA BỘ TRƯỞNG BỘ TÀI CHÍNH QUY ĐỊNH GIÁ DỊCH VỤ TRONG LĨNH VỰC CHỨNG KHOÁN ÁP DỤNG TẠI SỞ GIAO DỊCH CHỨNG KHOÁN VÀ TRUNG TÂM LƯU KÝ CHỨNG KHOÁN VIỆT NAM NHẰM HỖ TRỢ CÁC TỔ CHỨC, CÁ NHÂN LIÊN QUAN CHỊU ẢNH HƯỞNG DO DỊCH COVID-19
+
+Căn cứ Luật chứng khoán ngày 29 tháng 6 năm 2006; Luật sửa đổi, bổ sung một số điều của Luật chứng khoán ngày 24 tháng 11 năm 2010;
+
+Căn cứ Luật phí và lệ phí ngày 25 tháng 11 năm 2015;
+
+Căn cứ Luật giá ngày 20 tháng 6 năm 2012;
+
+Căn cứ Luật quản lý nợ công ngày 23 tháng 11 năm 2017;
+
+Căn cứ Nghị định số 177/2013/NĐ-CP ngày 14 tháng 11 năm 2013 và Nghị định số 149/2016/NĐ-CP ngày 11 tháng 11 năm 2016 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 177/2013/NĐ-CP ngày 14 tháng 11 năm 2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giá;
+
+Căn cứ Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 và Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 quy định chi tiết và hướng dẫn thi hành một số điều của Luật chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật chứng khoán;
+
+Căn cứ Nghị định số 86/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện đầu tư, kinh doanh chứng khoán và Nghị định số 151/2018/NĐ-CP ngày 07 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Tài chính;
+
+Căn cứ Nghị định số 42/2015/NĐ-CP ngày 05 tháng 5 năm 2017 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh;
+
+Căn cứ Nghị định số 91/2018/NĐ-CP ngày 26 tháng 6 năm 2018 của Chính phủ về cấp và quản lý bảo lãnh Chính phủ;
+
+Căn cứ Nghị định số 93/2018/NĐ-CP ngày 30 tháng 6 năm 2018 của Chính phủ quy định về quản lý nợ của Chính quyền địa phương;
+
+Căn cứ Nghị định số 95/2018/NĐ-CP ngày 30 tháng 6 năm 2018 của Chính phủ quy định về phát hành, đăng ký, lưu ký, niêm yết và giao dịch công cụ nợ của Chính phủ trên thị trường chứng khoán;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Cục trưởng Cục quản lý giá, Chủ tịch Ủy ban Chứng khoán Nhà nước;
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư sửa đổi, bổ sung một số điều của Thông tư số 127/2018/TT-BTC ngày 27 tháng 12 năm 2018 của Bộ trưởng Bộ Tài chính quy định giá dịch vụ trong lĩnh vực chứng khoán áp dụng tại Sở giao dịch chứng khoán và Trung tâm lưu ký chứng khoán Việt Nam nhằm hỗ trợ các tổ chức, cá nhân liên quan chịu ảnh hưởng do dịch Covid-19.
+
+Điều 1. Sửa đổi mức giá dịch vụ quy định tại điểm 2, 3.4, 4, 5.1, 7, 12, 13, 14, 15, 18 Phần A; điểm 1, 3, 4, 6, 7 Phần B Biểu giá dịch vụ trong lĩnh vực chứng khoán áp dụng tại Sở giao dịch chứng khoán và Trung tâm lưu ký chứng khoán Việt Nam ban hành kèm theo Thông tư số 127/2018/TT-BTC ngày 27 tháng 12 năm 2018 của Bộ trưởng Bộ Tài chính như sau:
+
+A. GIÁ DỊCH VỤ ÁP DỤNG TẠI THỊ TRƯỜNG CHỨNG KHOÁN CƠ SỞ
+
+| STT  | TÊN GIÁ DỊCH VỤ                                                                                                    | MỨC GIÁ                                                                                                                                                                                                    |
+
+|------|--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| I    | GIÁ DỊCH VỤ ÁP DỤNG TẠI SỞ GIAO DỊCH CHỨNG KHOÁN                                                                   |                                                                                                                                                                                                            |
+
+| 2    | Giá dịch vụ đăng ký niêm yết                                                                                       |                                                                                                                                                                                                            |
+
+| 2.1  | Giá dịch vụ đăng ký niêm yết lần đầu                                                                               |                                                                                                                                                                                                            |
+
+| a    | Đối với cổ phiếu, trái phiếu doanh nghiệp, chứng chỉ quỹ đầu tư, công cụ nợ theo quy định tại Luật Quản lý nợ công | Không thu                                                                                                                                                                                                  |
+
+| b    | Đối với chứng quyền có bảo đảm                                                                                     | Không thu                                                                                                                                                                                                  |
+
+| 2.2  | Giá dịch vụ thay đổi đăng ký niêm yết                                                                              |                                                                                                                                                                                                            |
+
+| a    | Đối với cổ phiếu, trái phiếu doanh nghiệp, chứng chỉ quỹ đầu tư, công cụ nợ theo quy định tại Luật Quản lý nợ công | Không thu                                                                                                                                                                                                  |
+
+| b    | Đối với chứng quyền có bảo đảm                                                                                     | Không thu                                                                                                                                                                                                  |
+
+| 3    | Giá dịch vụ quản lý niêm yết                                                                                       |                                                                                                                                                                                                            |
+
+| 3.4  | Đối với chứng quyền có bảo đảm                                                                                     | 1 triệu đồng/tháng                                                                                                                                                                                         |
+
+| 4    | Giá dịch vụ giao dịch                                                                                              |                                                                                                                                                                                                            |
+
+| 4.1  | Giá dịch vụ giao dịch thông thường                                                                                 |                                                                                                                                                                                                            |
+
+| a    | Cổ phiếu, chứng chỉ quỹ đầu tư niêm yết (không bao gồm ETF)                                                        | 0,027% giá trị giao dịch                                                                                                                                                                                   |
+
+| b    | ETF niêm yết                                                                                                       | 0,018% giá trị giao dịch                                                                                                                                                                                   |
+
+| c    | Trái phiếu doanh nghiệp, công cụ nợ theo quy định tại Luật Quản lý nợ công                                         | 0,0054% giá trị giao dịch                                                                                                                                                                                  |
+
+| d    | Cổ phiếu, chứng chỉ quỹ đăng ký giao dịch (UPCOM)                                                                  | 0,018% giá trị giao dịch                                                                                                                                                                                   |
+
+| đ    | Chứng quyền có bảo đảm                                                                                             | 0,018% giá trị giao dịch                                                                                                                                                                                   |
+
+| 4.2  | Giá dịch vụ giao dịch mua bán lại (giao dịch repo) công cụ nợ theo quy định tại Luật Quản lý nợ công               |                                                                                                                                                                                                            |
+
+| a    | Kỳ hạn đến 2 ngày                                                                                                  | 0,00045% giá trị giao dịch                                                                                                                                                                                 |
+
+| b    | Kỳ hạn 3 đến 14 ngày                                                                                               | 0,0036% giá trị giao dịch                                                                                                                                                                                  |
+
+| c    | Kỳ hạn trên 14 ngày                                                                                                | 0,0054% giá trị giao dịch                                                                                                                                                                                  |
+
+| 4.3  | Giá dịch vụ giao dịch bán kết hợp mua lại công cụ nợ theo quy định tại Luật Quản lý nợ công                        | 0,0054% giá trị giao dịch                                                                                                                                                                                  |
+
+| 4.4  | Giá dịch vụ giao dịch vay và cho vay công cụ nợ theo quy định tại Luật Quản lý nợ công                             |                                                                                                                                                                                                            |
+
+| a    | Kỳ hạn đến 2 ngày                                                                                                  | 0,00045% giá trị giao dịch                                                                                                                                                                                 |
+
+| b    | Kỳ hạn 3 đến 14 ngày                                                                                               | 0,0036% giá trị giao dịch                                                                                                                                                                                  |
+
+| c    | Kỳ hạn trên 14 ngày                                                                                                | 0,0054% giá trị giao dịch                                                                                                                                                                                  |
+
+| 5    | Giá dịch vụ kết nối trực tuyến                                                                                     |                                                                                                                                                                                                            |
+
+| 5.1  | Giá dịch vụ kết nối lần đầu                                                                                        | Không thu                                                                                                                                                                                                  |
+
+| 7    | Giá dịch vụ đấu giá, chào bán cạnh tranh                                                                           | 0,15% trên tổng giá trị cổ phần, loại chứng khoán thực tế bán được, tối đa là 150 triệu đồng/1 cuộc bán đấu giá, chào bán cạnh tranh và tối thiểu là 20 triệu đồng/1 cuộc bán đấu giá, chào bán cạnh tranh |
+
+| II   | GIÁ DỊCH VỤ ÁP DỤNG TẠI TRUNG TÂM LƯU KÝ CHỨNG KHOÁN VIỆT NAM                                                      |                                                                                                                                                                                                            |
+
+| 12   | Giá dịch vụ đăng ký chứng khoán                                                                                    |                                                                                                                                                                                                            |
+
+| 12.1 | Giá dịch vụ đăng ký chứng khoán lần đầu                                                                            |                                                                                                                                                                                                            |
+
+| a    | Giá trị đăng ký chứng khoán dưới 80 tỷ đồng                                                                        | Không thu                                                                                                                                                                                                  |
+
+| b    | Giá trị đăng ký chứng khoán từ 80 tỷ đến dưới 200 tỷ đồng                                                          | Không thu                                                                                                                                                                                                  |
+
+| c    | Giá trị đăng ký chứng khoán từ 200 tỷ đồng trở lên                                                                 | Không thu                                                                                                                                                                                                  |
+
+| 12.2 | Giá dịch vụ đăng ký chứng khoán bổ sung                                                                            |                                                                                                                                                                                                            |
+
+| a    | Cổ phiếu, trái phiếu doanh nghiệp, chứng chỉ quỹ đầu tư (không bao gồm ETF)                                        | Không thu                                                                                                                                                                                                  |
+
+| b    | Chứng chỉ quỹ ETF, chứng quyền có bảo đảm                                                                          | Không thu                                                                                                                                                                                                  |
+
+| 13   | Giá dịch vụ lưu ký chứng khoán                                                                                     |                                                                                                                                                                                                            |
+
+| 13.1 | Cổ phiếu, chứng chỉ quỹ, chứng quyền có bảo đảm                                                                    | 0,27 đồng/cổ phiếu, chứng chỉ quỹ, chứng quyền có bảo đảm/tháng                                                                                                                                            |
+
+| 13.2 | Trái phiếu doanh nghiệp, công cụ nợ theo quy định tại Luật Quản lý nợ công                                         | 0,18 đồng/trái phiếu doanh nghiệp, công cụ nợ theo quy định tại Luật Quản lý nợ công/tháng, tối đa 2.000.000 đồng/tháng/mã trái phiếu doanh nghiệp, công cụ nợ theo quy định tại Luật Quản lý nợ công      |
+
+| 14   | Giá dịch vụ chuyển khoản chứng khoán                                                                               |                                                                                                                                                                                                            |
+
+| 14.1 | Giá dịch vụ chuyển khoản chứng khoán giữa các tài khoản của nhà đầu tư tại các Thành viên lưu ký khác nhau         | 0,3 đồng/1 chứng khoán/1 lần chuyển khoản/1 mã chứng khoán (tối đa không quá 300.000 đồng/1 lần chuyển khoản/1 mã chứng khoán)                                                                             |
+
+| 14.2 | Giá dịch vụ chuyển khoản chứng khoán để thực hiện thanh toán                                                       | 0,3 đồng/1 chứng khoán/1 lần chuyển khoản/1 mã chứng khoán (tối đa không quá 300.000 đồng/1 lần chuyển khoản/1 mã chứng khoán                                                                              |
+
+| 15   | Giá dịch vụ thực hiện quyền                                                                                        |                                                                                                                                                                                                            |
+
+| 15.1 | Dưới 500 nhà đầu tư                                                                                                | 3,5 triệu đồng/1 lần thực hiện quyền                                                                                                                                                                       |
+
+| 15.2 | Từ 500 nhà đầu tư đến dưới 1.000 nhà đầu tư                                                                        | 7 triệu đồng/1 lần thực hiện quyền                                                                                                                                                                         |
+
+| 15.3 | Từ 1.000 nhà đầu tư đến 5.000 nhà đầu tư                                                                           | 10,5 triệu đồng/1 lần thực hiện quyền                                                                                                                                                                      |
+
+| 15.4 | Trên 5.000 nhà đầu tư                                                                                              | 14 triệu đồng/1 lần thực hiện quyền                                                                                                                                                                        |
+
+| 18   | Dịch vụ vay, cho vay chứng khoán qua hệ thống VSD                                                                  |                                                                                                                                                                                                            |
+
+| a    | Thời hạn vay dưới 15 ngày                                                                                          | Không thu                                                                                                                                                                                                  |
+
+| b    | Thời hạn vay từ 15 ngày trở lên                                                                                    | Không thu                                                                                                                                                                                                  |
+
+STT
+
+TÊN GIÁ DỊCH VỤ
+
+MỨC GIÁ
+
+I
+
+GIÁ DỊCH VỤ ÁP DỤNG TẠI SỞ GIAO DỊCH CHỨNG KHOÁN
+
+2
+
+Giá dịch vụ đăng ký niêm yết
+
+2.1
+
+Giá dịch vụ đăng ký niêm yết lần đầu
+
+a
+
+Đối với cổ phiếu, trái phiếu doanh nghiệp, chứng chỉ quỹ đầu tư, công cụ nợ theo quy định tại Luật Quản lý nợ công
+
+Không thu
+
+b
+
+Đối với chứng quyền có bảo đảm
+
+Không thu
+
+2.2
+
+Giá dịch vụ thay đổi đăng ký niêm yết
+
+a
+
+Đối với cổ phiếu, trái phiếu doanh nghiệp, chứng chỉ quỹ đầu tư, công cụ nợ theo quy định tại Luật Quản lý nợ công
+
+Không thu
+
+b
+
+Đối với chứng quyền có bảo đảm
+
+Không thu
+
+3
+
+Giá dịch vụ quản lý niêm yết
+
+3.4
+
+Đối với chứng quyền có bảo đảm
+
+1 triệu đồng/tháng
+
+4
+
+Giá dịch vụ giao dịch
+
+4.1
+
+Giá dịch vụ giao dịch thông thường
+
+a
+
+Cổ phiếu, chứng chỉ quỹ đầu tư niêm yết (không bao gồm ETF)
+
+0,027% giá trị giao dịch
+
+b
+
+ETF niêm yết
+
+0,018% giá trị giao dịch
+
+c
+
+Trái phiếu doanh nghiệp, công cụ nợ theo quy định tại Luật Quản lý nợ công
+
+0,0054% giá trị giao dịch
+
+d
+
+Cổ phiếu, chứng chỉ quỹ đăng ký giao dịch (UPCOM)
+
+0,018% giá trị giao dịch
+
+đ
+
+Chứng quyền có bảo đảm
+
+0,018% giá trị giao dịch
+
+4.2
+
+Giá dịch vụ giao dịch mua bán lại (giao dịch repo) công cụ nợ theo quy định tại Luật Quản lý nợ công
+
+a
+
+Kỳ hạn đến 2 ngày
+
+0,00045% giá trị giao dịch
+
+b
+
+Kỳ hạn 3 đến 14 ngày
+
+0,0036% giá trị giao dịch
+
+c
+
+Kỳ hạn trên 14 ngày
+
+0,0054% giá trị giao dịch
+
+4.3
+
+Giá dịch vụ giao dịch bán kết hợp mua lại công cụ nợ theo quy định tại Luật Quản lý nợ công
+
+0,0054% giá trị giao dịch
+
+4.4
+
+Giá dịch vụ giao dịch vay và cho vay công cụ nợ theo quy định tại Luật Quản lý nợ công
+
+a
+
+Kỳ hạn đến 2 ngày
+
+0,00045% giá trị giao dịch
+
+b
+
+Kỳ hạn 3 đến 14 ngày
+
+0,0036% giá trị giao dịch
+
+c
+
+Kỳ hạn trên 14 ngày
+
+0,0054% giá trị giao dịch
+
+5
+
+Giá dịch vụ kết nối trực tuyến
+
+5.1
+
+Giá dịch vụ kết nối lần đầu
+
+Không thu
+
+7
+
+Giá dịch vụ đấu giá, chào bán cạnh tranh
+
+0,15% trên tổng giá trị cổ phần, loại chứng khoán thực tế bán được, tối đa là 150 triệu đồng/1 cuộc bán đấu giá, chào bán cạnh tranh và tối thiểu là 20 triệu đồng/1 cuộc bán đấu giá, chào bán cạnh tranh
+
+II
+
+GIÁ DỊCH VỤ ÁP DỤNG TẠI TRUNG TÂM LƯU KÝ CHỨNG KHOÁN VIỆT NAM
+
+12
+
+Giá dịch vụ đăng ký chứng khoán
+
+12.1
+
+Giá dịch vụ đăng ký chứng khoán lần đầu
+
+a
+
+Giá trị đăng ký chứng khoán dưới 80 tỷ đồng
+
+Không thu
+
+b
+
+Giá trị đăng ký chứng khoán từ 80 tỷ đến dưới 200 tỷ đồng
+
+Không thu
+
+c
+
+Giá trị đăng ký chứng khoán từ 200 tỷ đồng trở lên
+
+Không thu
+
+12.2
+
+Giá dịch vụ đăng ký chứng khoán bổ sung
+
+a
+
+Cổ phiếu, trái phiếu doanh nghiệp, chứng chỉ quỹ đầu tư (không bao gồm ETF)
+
+Không thu
+
+b
+
+Chứng chỉ quỹ ETF, chứng quyền có bảo đảm
+
+Không thu
+
+13
+
+Giá dịch vụ lưu ký chứng khoán
+
+13.1
+
+Cổ phiếu, chứng chỉ quỹ, chứng quyền có bảo đảm
+
+0,27 đồng/cổ phiếu, chứng chỉ quỹ, chứng quyền có bảo đảm/tháng
+
+13.2
+
+Trái phiếu doanh nghiệp, công cụ nợ theo quy định tại Luật Quản lý nợ công
+
+0,18 đồng/trái phiếu doanh nghiệp, công cụ nợ theo quy định tại Luật Quản lý nợ công/tháng, tối đa 2.000.000 đồng/tháng/mã trái phiếu doanh nghiệp, công cụ nợ theo quy định tại Luật Quản lý nợ công
+
+14
+
+Giá dịch vụ chuyển khoản chứng khoán
+
+14.1
+
+Giá dịch vụ chuyển khoản chứng khoán giữa các tài khoản của nhà đầu tư tại các Thành viên lưu ký khác nhau
+
+0,3 đồng/1 chứng khoán/1 lần chuyển khoản/1 mã chứng khoán (tối đa không quá 300.000 đồng/1 lần chuyển khoản/1 mã chứng khoán)
+
+14.2
+
+Giá dịch vụ chuyển khoản chứng khoán để thực hiện thanh toán
+
+0,3 đồng/1 chứng khoán/1 lần chuyển khoản/1 mã chứng khoán (tối đa không quá 300.000 đồng/1 lần chuyển khoản/1 mã chứng khoán
+
+15
+
+Giá dịch vụ thực hiện quyền
+
+15.1
+
+Dưới 500 nhà đầu tư
+
+3,5 triệu đồng/1 lần thực hiện quyền
+
+15.2
+
+Từ 500 nhà đầu tư đến dưới 1.000 nhà đầu tư
+
+7 triệu đồng/1 lần thực hiện quyền
+
+15.3
+
+Từ 1.000 nhà đầu tư đến 5.000 nhà đầu tư
+
+10,5 triệu đồng/1 lần thực hiện quyền
+
+15.4
+
+Trên 5.000 nhà đầu tư
+
+14 triệu đồng/1 lần thực hiện quyền
+
+18
+
+Dịch vụ vay, cho vay chứng khoán qua hệ thống VSD
+
+a
+
+Thời hạn vay dưới 15 ngày
+
+Không thu
+
+b
+
+Thời hạn vay từ 15 ngày trở lên
+
+Không thu
+
+B. GIÁ DỊCH VỤ ÁP DỤNG TẠI THỊ TRƯỜNG CHỨNG KHOÁN PHÁI SINH
+
+| STT | TÊN GIÁ DỊCH VỤ                                                | MỨC GIÁ                                                                                                                                                                                                              |
+
+|-----|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| I   | GIÁ DỊCH VỤ ÁP DỤNG TẠI SỞ GIAO DỊCH CHỨNG KHOÁN               |                                                                                                                                                                                                                      |
+
+| 1   | Giá dịch vụ đăng ký thành viên giao dịch chứng khoán phái sinh | Không thu                                                                                                                                                                                                            |
+
+| 3   | Giá dịch vụ giao dịch chứng khoán phái sinh                    |                                                                                                                                                                                                                      |
+
+| a   | Hợp đồng tương lai chỉ số                                      | 2.700 đồng/ hợp đồng                                                                                                                                                                                                 |
+
+| b   | Hợp đồng tương lai trái phiếu Chính phủ                        | 4.500 đồng/hợp đồng                                                                                                                                                                                                  |
+
+| II  | GIÁ DỊCH VỤ ÁP DỤNG TẠI TRUNG TÂM LƯU KÝ CHỨNG KHOÁN VIỆT NAM  |                                                                                                                                                                                                                      |
+
+| 4   | Giá dịch vụ đăng ký thành viên bù trừ                          | Không thu                                                                                                                                                                                                            |
+
+| 6   | Giá dịch vụ quản lý vị thế                                     | 2.550 đồng/hợp đồng/tài khoản/ngày                                                                                                                                                                                   |
+
+| 7   | Giá dịch vụ quản lý tài sản ký quỹ                             | 0,0024% giá trị lũy kế số dư tài sản ký quỹ (tiền + giá trị chứng khoán tính theo mệnh giá)/tài khoản/tháng (tối đa không quá 1.600.000 đồng/tài khoản/tháng, tối thiểu không thấp hơn 320.000 đồng/tài khoản/tháng) |
+
+STT
+
+TÊN GIÁ DỊCH VỤ
+
+MỨC GIÁ
+
+I
+
+GIÁ DỊCH VỤ ÁP DỤNG TẠI SỞ GIAO DỊCH CHỨNG KHOÁN
+
+1
+
+Giá dịch vụ đăng ký thành viên giao dịch chứng khoán phái sinh
+
+Không thu
+
+3
+
+Giá dịch vụ giao dịch chứng khoán phái sinh
+
+a
+
+Hợp đồng tương lai chỉ số
+
+2.700 đồng/ hợp đồng
+
+b
+
+Hợp đồng tương lai trái phiếu Chính phủ
+
+4.500 đồng/hợp đồng
+
+II
+
+GIÁ DỊCH VỤ ÁP DỤNG TẠI TRUNG TÂM LƯU KÝ CHỨNG KHOÁN VIỆT NAM
+
+4
+
+Giá dịch vụ đăng ký thành viên bù trừ
+
+Không thu
+
+6
+
+Giá dịch vụ quản lý vị thế
+
+2.550 đồng/hợp đồng/tài khoản/ngày
+
+7
+
+Giá dịch vụ quản lý tài sản ký quỹ
+
+0,0024% giá trị lũy kế số dư tài sản ký quỹ (tiền + giá trị chứng khoán tính theo mệnh giá)/tài khoản/tháng (tối đa không quá 1.600.000 đồng/tài khoản/tháng, tối thiểu không thấp hơn 320.000 đồng/tài khoản/tháng)
+
+Điều 2. Điều khoản thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 19 tháng 3 năm 2020 đến hết ngày 31 tháng 8 năm 2020. Sau ngày 31 tháng 8 năm 2020, mức giá dịch vụ trong lĩnh vực chứng khoán áp dụng tại Sở giao dịch chứng khoán và Trung tâm lưu ký chứng khoán Việt Nam được thực hiện theo quy định tại Thông tư số 127/2018/TT-BTC ngày 27 tháng 12 năm 2018 của Bộ trưởng Bộ Tài chính. Căn cứ diễn biến tình hình dịch Covid-19, Bộ trưởng Bộ Tài chính xem xét, quyết định kéo dài thời gian áp dụng Thông tư này trong trường hợp cần thiết.
+
+2. Trên cơ sở mức giá dịch vụ tại Điều 1 Thông tư này, các tổ chức cung cấp dịch vụ trong lĩnh vực chứng khoán tại Điều 2 Thông tư số 128/2018/TT-BTC ngày 27 tháng 12 năm 2018 của Bộ trưởng Bộ Tài chính quy định giá dịch vụ trong lĩnh vực chứng khoán áp dụng tại các tổ chức kinh doanh chứng khoán, ngân hàng thương mại tham gia vào thị trường chứng khoán Việt Nam giảm giá dịch vụ để hỗ trợ các tổ chức, cá nhân sử dụng dịch vụ chịu ảnh hưởng của dịch Covid-19 phù hợp với thực tế cung ứng dịch vụ, quy định của pháp luật về giá và pháp luật có liên quan.
+
+3. Các nội dung khác không quy định tại Thông tư này tiếp tục thực hiện theo quy định tại Thông tư số 127/2018/TT-BTC ngày 27 tháng 12 năm 2018 của Bộ trưởng Bộ Tài chính quy định giá dịch vụ trong lĩnh vực chứng khoán áp dụng tại Sở giao dịch chứng khoán và Trung tâm lưu ký chứng khoán Việt Nam.
+
+4. Trong quá trình thực hiện, nếu có vướng mắc đề nghị các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để nghiên cứu, hướng dẫn bổ sung./.
+
+| Nơi nhận: - Ban bí thư Trung ương Đảng; - Thủ tướng, các Phó thủ tướng Chính phủ; - Văn phòng Chính phủ; - Văn phòng Trung ương Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Viện Kiểm sát nhân dân tối cao; - Tòa án nhân dân tối cao; - Kiểm toán Nhà nước; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - Các Tổng công ty, Tập đoàn kinh tế nhà nước; - HĐND, UBND các tỉnh, thành phố trực thuộc TW; - Sở Tài chính các tỉnh, thành phố trực thuộc TW; - Cơ quan Trung ương của các đoàn thể; - Cục Thuế, kho bạc Nhà nước các tỉnh, thành phố trực thuộc Trung ương; - Cục kiểm tra văn bản QPPL (Bộ Tư pháp); - Các đơn vị thuộc Bộ Tài chính; - Công báo; - Cổng Thông tin điện tử Chính phủ; - Cổng Thông tin điện tử Bộ Tài chính; - Lưu: VT, Cục QLG (400). | BỘ TRƯỞNG Đinh Tiến Dũng |
+
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+
+Nơi nhận: - Ban bí thư Trung ương Đảng; - Thủ tướng, các Phó thủ tướng Chính phủ; - Văn phòng Chính phủ; - Văn phòng Trung ương Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Viện Kiểm sát nhân dân tối cao; - Tòa án nhân dân tối cao; - Kiểm toán Nhà nước; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - Các Tổng công ty, Tập đoàn kinh tế nhà nước; - HĐND, UBND các tỉnh, thành phố trực thuộc TW; - Sở Tài chính các tỉnh, thành phố trực thuộc TW; - Cơ quan Trung ương của các đoàn thể; - Cục Thuế, kho bạc Nhà nước các tỉnh, thành phố trực thuộc Trung ương; - Cục kiểm tra văn bản QPPL (Bộ Tư pháp); - Các đơn vị thuộc Bộ Tài chính; - Công báo; - Cổng Thông tin điện tử Chính phủ; - Cổng Thông tin điện tử Bộ Tài chính; - Lưu: VT, Cục QLG (400).
+
+BỘ TRƯỞNG Đinh Tiến Dũng

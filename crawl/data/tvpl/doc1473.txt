@@ -1,0 +1,1067 @@
+| BỘ TÀI CHÍNH   | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|----------------|-----------------------------------------------------------------|
+
+| Số: 629/QĐ-BTC | Hà Nội, ngày 10 tháng 04 năm 2019                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 629/QĐ-BTC
+
+Hà Nội, ngày 10 tháng 04 năm 2019
+
+QUYẾT ĐỊNH
+
+SỬA ĐỔI, BỔ SUNG DANH MỤC MÃ ĐỊNH DANH CÁC ĐƠN VỊ THUỘC, TRỰC THUỘC BỘ TÀI CHÍNH BAN HÀNH KÈM QUYẾT ĐỊNH SỐ 1642/QĐ-BTC NGÀY 17 THÁNG 9 NĂM 2018 CỦA BỘ TRƯỞNG BỘ TÀI CHÍNH BAN HÀNH DANH MỤC MÃ ĐỊNH DANH CÁC ĐƠN VỊ THUỘC, TRỰC THUỘC BỘ TÀI CHÍNH PHỤC VỤ KẾT NỐI, TRAO ĐỔI VĂN BẢN ĐIỆN TỬ THÔNG QUA HỆ THỐNG QUẢN LÝ VĂN BẢN VÀ ĐIỀU HÀNH
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Luật Công nghệ thông tin ngày 29/6/2006;
+
+Căn cứ Luật tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 06 năm 2006;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/07/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Quyết định số 28/2018/QĐ-TTg ngày 12/7/2018 của Thủ tướng Chính phủ về việc gửi, nhận văn bản điện tử giữa các cơ quan trong hệ thống hành chính nhà nước;
+
+Căn cứ Thông tư số 10/2016/TT-BTTTT của Bộ Thông tin và Truyền thông ban hành Quy chuẩn kỹ thuật quốc gia về cấu trúc mã định danh và định dạng dữ liệu gói tin phục vụ kết nối các hệ thống quản lý văn bản và điều hành;
+
+Xét đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Sửa đổi, bổ sung danh mục mã định danh các đơn vị thuộc, trực thuộc Bộ Tài chính phục vụ kết nối, trao đổi văn bản điện tử thông qua hệ thống quản lý văn bản và điều hành ban hành kèm theo Quyết định số 1642/QĐ-BTC ngày 17 tháng 9 năm 2018 của Bộ Tài chính (phụ lục đính kèm).
+
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+
+Điều 3. Cục trưởng Cục Tin học và Thống kê Tài chính, Chánh Văn phòng Bộ Tài chính, Thủ trưởng các đơn vị thuộc, trực thuộc Bộ chịu trách nhiệm thi hành Quyết định này./.
+
+| Nơi nhận: - Như Điều 3; - Website Bộ Tài chính; - Lưu: VT, THTK. | KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai |
+
+|------------------------------------------------------------------|-------------------------------------|
+
+Nơi nhận: - Như Điều 3; - Website Bộ Tài chính; - Lưu: VT, THTK.
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai
+
+PHỤ LỤC:
+
+SỬA ĐỔI, BỔ SUNG DANH MỤC MÃ ĐỊNH DANH CÁC ĐƠN VỊ THUỘC, TRỰC THUỘC BỘ TÀI CHÍNH (Ban hành kèm Quyết định số 629/QĐ-BTC ngày 10/4/2019)
+
+| TT  | Mã định danh        | MX1X2 | Y1Y2 | Z1Z2 | V1V2V3 | Tên đơn vị                                                         | Ghi chú           |
+
+|-----|---------------------|-------|------|------|--------|--------------------------------------------------------------------|-------------------|
+
+| I   | Văn phòng Tổng cục  |       |      |      |        |                                                                    |                   |
+
+| 1   | 000.B4.18.G12       | G12   | 18   | B4   | 000    | Vụ quản lý Thuế Doanh nghiệp nhỏ và vừa và Hộ Kinh doanh, cá nhân  | Đổi tên           |
+
+| 2   | 000.C2.18.G12       | G12   | 18   | C2   | 000    | Vụ Thanh tra - Kiểm tra                                            | Đổi tên           |
+
+| 3   | 000.C5.18.G12       | G12   | 18   | C5   | 000    | Ban quản lý dự án đầu tư xây dựng chuyên ngành thuộc Tổng cục Thuế | Thêm mới          |
+
+| II  | Cục Thuế Quảng Ninh |       |      |      |        |                                                                    |                   |
+
+| 1   | 208.22.18.G12       | G12   | 18   | 22   | 208    | Chi cục Thuế khu vực Tiên Yên - Bình Liêu - Ba Chẽ                 | Thêm mới          |
+
+| 2   | 209.22.18.G12       | G12   | 18   | 22   | 209    | Chi cục Thuế khu vực Hải Hà - Đầm Hà                               | Thêm mới          |
+
+| 3   | 210.22.18.G12       | G12   | 18   | 22   | 210    | Chi cục Thuế khu vực Uông Bí - Quảng Yên                           | Thêm mới          |
+
+| 4   | 199.22.18.G12       | G12   | 18   | 22   | 199    | Chi cục Thuế Huyện Tiên Yên                                        | Đóng mã định danh |
+
+| 5   | 198.22.18.G12       | G12   | 18   | 22   | 198    | Chi cục Thuế Huyện Bình Liêu                                       | Đóng mã định danh |
+
+| 6   | 202.22.18.G12       | G12   | 18   | 22   | 202    | Chi cục Thuế Huyện Ba Chẽ                                          | Đóng mã định danh |
+
+| 7   | 201.22.18.G12       | G12   | 18   | 22   | 201    | Chi cục Thuế Huyện Hải Hà                                          | Đóng mã định danh |
+
+| 8   | 200.22.18.G12       | G12   | 18   | 22   | 200    | Chi cục Thuế Huyện Đầm Hà                                          | Đóng mã định danh |
+
+| 9   | 196.22.18.G12       | G12   | 18   | 22   | 196    | Chi cục Thuế Thành phố Uông Bí                                     | Đóng mã định danh |
+
+| 10  | 206.22.18.G12       | G12   | 18   | 22   | 206    | Chi cục Thuế Thị xã Quảng Yên                                      | Đóng mã định danh |
+
+| III | Cục Thuế Hải Dương  |       |      |      |        |                                                                    |                   |
+
+| 1   | 301.30.18.G12       | G12   | 18   | 30   | 301    | Chi cục Thuế khu vực Cẩm Bình                                      | Thêm mới          |
+
+| 2   | 302.30.18.G12       | G12   | 18   | 30   | 302    | Chi cục Thuế khu vực Tứ Lộc                                        | Thêm mới          |
+
+| 3   | 303.30.18.G12       | G12   | 18   | 30   | 303    | Chi cục Thuế khu vực Kim Môn                                       | Thêm mới          |
+
+| 4   | 304.30.18.G12       | G12   | 18   | 30   | 304    | Chi cục Thuế khu vực Nam Thanh                                     | Thêm mới          |
+
+| 5   | 305.30.18.G12       | G12   | 18   | 30   | 305    | Chi cục Thuế khu vực Ninh Thanh                                    | Thêm mới          |
+
+| 6   | 296.30.18.G12       | G12   | 18   | 30   | 296    | Chi cục Thuế Huyện Bình Giang                                      | Đóng mã định danh |
+
+| 7   | 295.30.18.G12       | G12   | 18   | 30   | 295    | Chi cục Thuế Huyện Cẩm Giàng                                       | Đóng mã định danh |
+
+| 8   | 298.30.18.G12       | G12   | 18   | 30   | 298    | Chi cục Thuế Huyện Tứ Kỳ                                           | Đóng mã định danh |
+
+| 9   | 297.30.18.G12       | G12   | 18   | 30   | 297    | Chi cục Thuế Huyện Gia Lộc                                         | Đóng mã định danh |
+
+| 10  | 292.30.18.G12       | G12   | 18   | 30   | 292    | Chi cục Thuế Huyện Kinh Môn                                        | Đóng mã định danh |
+
+| 11  | 293.30.18.G12       | G12   | 18   | 30   | 293    | Chi cục Thuế Huyện Kim Thành                                       | Đóng mã định danh |
+
+| 12  | 291.30.18.G12       | G12   | 18   | 30   | 291    | Chi cục Thuế Huyện Nam Sách                                        | Đóng mã định danh |
+
+| 13  | 294.30.18.G12       | G12   | 18   | 30   | 294    | Chi cục Thuế Huyện Thanh Hà                                        | Đóng mã định danh |
+
+| 14  | 299.30.18.G12       | G12   | 18   | 30   | 299    | Chi cục Thuế Huyện Ninh Giang                                      | Đóng mã định danh |
+
+| 15  | 300.30.18.G12       | G12   | 18   | 30   | 300    | Chi cục Thuế Huyện Thanh Miện                                      | Đóng mã định danh |
+
+| IV  | Cục Thuế Cà Mau     |       |      |      |        |                                                                    |                   |
+
+| 1   | 974.96.18.G12       | G12   | 18   | 96   | 974    | Chi cục Thuế khu vực I trực thuộc Cục Thuế tỉnh Cà Mau             | Thêm mới          |
+
+| 2   | 971.96.18.G12       | G12   | 18   | 96   | 971    | Chi cục Thuế Huyện Năm Căn                                         | Đóng mã định danh |
+
+| 3   | 973.96.18.G12       | G12   | 18   | 96   | 973    | Chi cục Thuế Huyện Ngọc Hiển                                       | Đóng mã định danh |
+
+| V   | Cục Thuế Yên Bái    |       |      |      |        |                                                                    |                   |
+
+| 1   | 142.15.18.G12       | G12   | 18   | 15   | 142    | Chi cục Thuế khu vực Nghĩa Văn                                     | Thêm mới          |
+
+| 2   | 140.15.18.G12       | G12   | 18   | 15   | 140    | Chi cục Thuế Huyện Văn Chấn                                        | Đóng mã định danh |
+
+| 3   | 133.15.18.G12       | G12   | 18   | 15   | 133    | Chi cục Thuế Thị xã Nghĩa Lộ                                       | Đóng mã định danh |
+
+| VI  | Cục Thuế Lâm Đồng   |       |      |      |        |                                                                    |                   |
+
+| 1   | 684.68.18.G12       | G12   | 18   | 68   | 684    | Chi cục Thuế khu vực Đà Lạt - Lạc Dương                            | Thêm mới          |
+
+| 2   | 685.68.18.G12       | G12   | 18   | 68   | 685    | Chi cục Thuế khu vực Lâm Hà - Đam Rông                             | Thêm mới          |
+
+| 3   | 686.68.18.G12       | G12   | 18   | 68   | 686    | Chi cục Thuế khu vực Đạ Huoai - Đạ Tẻh - Cát Tiên                  | Thêm mới          |
+
+| 4   | 672.68.18.G12       | G12   | 18   | 68   | 672    | Chi cục Thuế Thành phố Đà Lạt                                      | Đóng mã định danh |
+
+| 5   | 681.68.18.G12       | G12   | 18   | 68   | 681    | Chi cục Thuế Huyện Đạ Huoai                                        | Đóng mã định danh |
+
+| 6   | 682.68.18.G12       | G12   | 18   | 68   | 682    | Chi cục Thuế Huyện Đạ Tẻh                                          | Đóng mã định danh |
+
+| 7   | 683.68.18.G12       | G12   | 18   | 68   | 683    | Chi cục Thuế Huyện Cát Tiên                                        | Đóng mã định danh |
+
+| 8   | 675.68.18.G12       | G12   | 18   | 68   | 675    | Chi cục Thuế Huyện Lạc Dương                                       | Đóng mã định danh |
+
+| 9   | 676.68.18.G12       | G12   | 18   | 68   | 676    | Chi cục Thuế Huyện Lâm Hà                                          | Đóng mã định danh |
+
+| 10  | 674.68.18.G12       | G12   | 18   | 68   | 674    | Chi cục Thuế Huyện Đam Rông                                        | Đóng mã định danh |
+
+| VII | Cục Thuế Quảng Ngãi |       |      |      |        |                                                                    |                   |
+
+| 1   | 537.51.18.G12       | G12   | 18   | 51   | 537    | Chi cục Thuế khu vực Sơn Hà - Sơn Tây                              | Thêm mới          |
+
+| 2   | 538.51.18.G12       | G12   | 18   | 51   | 538    | Chi cục Thuế khu vực Trà Bồng - Tây Trà                            | Thêm mới          |
+
+| 3   | 539.51.18.G12       | G12   | 18   | 51   | 539    | Chi cục Thuế khu vực Đức Phổ - Ba Tơ                               | Thêm mới          |
+
+| 4   | 525.51.18.G12       | G12   | 18   | 51   | 525    | Chi cục Thuế Huyện Trà Bồng                                        | Đóng mã định danh |
+
+| 5   | 526.51.18.012       | G12   | 18   | 51   | 526    | Chi cục Thuế Huyện Tây Trà                                         | Đóng mã định danh |
+
+| 6   | 529.51.18.G12       | G12   | 18   | 51   | 529    | Chi cục Thuế Huyện Sơn Hà                                          | Đóng mã định danh |
+
+| 7   | 530.51.18.G12       | G12   | 18   | 51   | 530    | Chi cục Thuế Huyện Sơn Tây                                         | Đóng mã định danh |
+
+| 8   | 534.51.18.G12       | G12   | 18   | 51   | 534    | Chi cục Thuế Huyện Đức Phổ                                         | Đóng mã định danh |
+
+| 9   | 535.51.18.G12       | G12   | 18   | 51   | 535    | Chi cục Thuế Huyện Ba Tơ                                           | Đóng mã định danh |
+
+TT
+
+Mã định danh
+
+MX1X2
+
+Y1Y2
+
+Z1Z2
+
+V1V2V3
+
+Tên đơn vị
+
+Ghi chú
+
+I
+
+Văn phòng Tổng cục
+
+1
+
+000.B4.18.G12
+
+G12
+
+18
+
+B4
+
+000
+
+Vụ quản lý Thuế Doanh nghiệp nhỏ và vừa và Hộ Kinh doanh, cá nhân
+
+Đổi tên
+
+2
+
+000.C2.18.G12
+
+G12
+
+18
+
+C2
+
+000
+
+Vụ Thanh tra - Kiểm tra
+
+Đổi tên
+
+3
+
+000.C5.18.G12
+
+G12
+
+18
+
+C5
+
+000
+
+Ban quản lý dự án đầu tư xây dựng chuyên ngành thuộc Tổng cục Thuế
+
+Thêm mới
+
+II
+
+Cục Thuế Quảng Ninh
+
+1
+
+208.22.18.G12
+
+G12
+
+18
+
+22
+
+208
+
+Chi cục Thuế khu vực Tiên Yên - Bình Liêu - Ba Chẽ
+
+Thêm mới
+
+2
+
+209.22.18.G12
+
+G12
+
+18
+
+22
+
+209
+
+Chi cục Thuế khu vực Hải Hà - Đầm Hà
+
+Thêm mới
+
+3
+
+210.22.18.G12
+
+G12
+
+18
+
+22
+
+210
+
+Chi cục Thuế khu vực Uông Bí - Quảng Yên
+
+Thêm mới
+
+4
+
+199.22.18.G12
+
+G12
+
+18
+
+22
+
+199
+
+Chi cục Thuế Huyện Tiên Yên
+
+Đóng mã định danh
+
+5
+
+198.22.18.G12
+
+G12
+
+18
+
+22
+
+198
+
+Chi cục Thuế Huyện Bình Liêu
+
+Đóng mã định danh
+
+6
+
+202.22.18.G12
+
+G12
+
+18
+
+22
+
+202
+
+Chi cục Thuế Huyện Ba Chẽ
+
+Đóng mã định danh
+
+7
+
+201.22.18.G12
+
+G12
+
+18
+
+22
+
+201
+
+Chi cục Thuế Huyện Hải Hà
+
+Đóng mã định danh
+
+8
+
+200.22.18.G12
+
+G12
+
+18
+
+22
+
+200
+
+Chi cục Thuế Huyện Đầm Hà
+
+Đóng mã định danh
+
+9
+
+196.22.18.G12
+
+G12
+
+18
+
+22
+
+196
+
+Chi cục Thuế Thành phố Uông Bí
+
+Đóng mã định danh
+
+10
+
+206.22.18.G12
+
+G12
+
+18
+
+22
+
+206
+
+Chi cục Thuế Thị xã Quảng Yên
+
+Đóng mã định danh
+
+III
+
+Cục Thuế Hải Dương
+
+1
+
+301.30.18.G12
+
+G12
+
+18
+
+30
+
+301
+
+Chi cục Thuế khu vực Cẩm Bình
+
+Thêm mới
+
+2
+
+302.30.18.G12
+
+G12
+
+18
+
+30
+
+302
+
+Chi cục Thuế khu vực Tứ Lộc
+
+Thêm mới
+
+3
+
+303.30.18.G12
+
+G12
+
+18
+
+30
+
+303
+
+Chi cục Thuế khu vực Kim Môn
+
+Thêm mới
+
+4
+
+304.30.18.G12
+
+G12
+
+18
+
+30
+
+304
+
+Chi cục Thuế khu vực Nam Thanh
+
+Thêm mới
+
+5
+
+305.30.18.G12
+
+G12
+
+18
+
+30
+
+305
+
+Chi cục Thuế khu vực Ninh Thanh
+
+Thêm mới
+
+6
+
+296.30.18.G12
+
+G12
+
+18
+
+30
+
+296
+
+Chi cục Thuế Huyện Bình Giang
+
+Đóng mã định danh
+
+7
+
+295.30.18.G12
+
+G12
+
+18
+
+30
+
+295
+
+Chi cục Thuế Huyện Cẩm Giàng
+
+Đóng mã định danh
+
+8
+
+298.30.18.G12
+
+G12
+
+18
+
+30
+
+298
+
+Chi cục Thuế Huyện Tứ Kỳ
+
+Đóng mã định danh
+
+9
+
+297.30.18.G12
+
+G12
+
+18
+
+30
+
+297
+
+Chi cục Thuế Huyện Gia Lộc
+
+Đóng mã định danh
+
+10
+
+292.30.18.G12
+
+G12
+
+18
+
+30
+
+292
+
+Chi cục Thuế Huyện Kinh Môn
+
+Đóng mã định danh
+
+11
+
+293.30.18.G12
+
+G12
+
+18
+
+30
+
+293
+
+Chi cục Thuế Huyện Kim Thành
+
+Đóng mã định danh
+
+12
+
+291.30.18.G12
+
+G12
+
+18
+
+30
+
+291
+
+Chi cục Thuế Huyện Nam Sách
+
+Đóng mã định danh
+
+13
+
+294.30.18.G12
+
+G12
+
+18
+
+30
+
+294
+
+Chi cục Thuế Huyện Thanh Hà
+
+Đóng mã định danh
+
+14
+
+299.30.18.G12
+
+G12
+
+18
+
+30
+
+299
+
+Chi cục Thuế Huyện Ninh Giang
+
+Đóng mã định danh
+
+15
+
+300.30.18.G12
+
+G12
+
+18
+
+30
+
+300
+
+Chi cục Thuế Huyện Thanh Miện
+
+Đóng mã định danh
+
+IV
+
+Cục Thuế Cà Mau
+
+1
+
+974.96.18.G12
+
+G12
+
+18
+
+96
+
+974
+
+Chi cục Thuế khu vực I trực thuộc Cục Thuế tỉnh Cà Mau
+
+Thêm mới
+
+2
+
+971.96.18.G12
+
+G12
+
+18
+
+96
+
+971
+
+Chi cục Thuế Huyện Năm Căn
+
+Đóng mã định danh
+
+3
+
+973.96.18.G12
+
+G12
+
+18
+
+96
+
+973
+
+Chi cục Thuế Huyện Ngọc Hiển
+
+Đóng mã định danh
+
+V
+
+Cục Thuế Yên Bái
+
+1
+
+142.15.18.G12
+
+G12
+
+18
+
+15
+
+142
+
+Chi cục Thuế khu vực Nghĩa Văn
+
+Thêm mới
+
+2
+
+140.15.18.G12
+
+G12
+
+18
+
+15
+
+140
+
+Chi cục Thuế Huyện Văn Chấn
+
+Đóng mã định danh
+
+3
+
+133.15.18.G12
+
+G12
+
+18
+
+15
+
+133
+
+Chi cục Thuế Thị xã Nghĩa Lộ
+
+Đóng mã định danh
+
+VI
+
+Cục Thuế Lâm Đồng
+
+1
+
+684.68.18.G12
+
+G12
+
+18
+
+68
+
+684
+
+Chi cục Thuế khu vực Đà Lạt - Lạc Dương
+
+Thêm mới
+
+2
+
+685.68.18.G12
+
+G12
+
+18
+
+68
+
+685
+
+Chi cục Thuế khu vực Lâm Hà - Đam Rông
+
+Thêm mới
+
+3
+
+686.68.18.G12
+
+G12
+
+18
+
+68
+
+686
+
+Chi cục Thuế khu vực Đạ Huoai - Đạ Tẻh - Cát Tiên
+
+Thêm mới
+
+4
+
+672.68.18.G12
+
+G12
+
+18
+
+68
+
+672
+
+Chi cục Thuế Thành phố Đà Lạt
+
+Đóng mã định danh
+
+5
+
+681.68.18.G12
+
+G12
+
+18
+
+68
+
+681
+
+Chi cục Thuế Huyện Đạ Huoai
+
+Đóng mã định danh
+
+6
+
+682.68.18.G12
+
+G12
+
+18
+
+68
+
+682
+
+Chi cục Thuế Huyện Đạ Tẻh
+
+Đóng mã định danh
+
+7
+
+683.68.18.G12
+
+G12
+
+18
+
+68
+
+683
+
+Chi cục Thuế Huyện Cát Tiên
+
+Đóng mã định danh
+
+8
+
+675.68.18.G12
+
+G12
+
+18
+
+68
+
+675
+
+Chi cục Thuế Huyện Lạc Dương
+
+Đóng mã định danh
+
+9
+
+676.68.18.G12
+
+G12
+
+18
+
+68
+
+676
+
+Chi cục Thuế Huyện Lâm Hà
+
+Đóng mã định danh
+
+10
+
+674.68.18.G12
+
+G12
+
+18
+
+68
+
+674
+
+Chi cục Thuế Huyện Đam Rông
+
+Đóng mã định danh
+
+VII
+
+Cục Thuế Quảng Ngãi
+
+1
+
+537.51.18.G12
+
+G12
+
+18
+
+51
+
+537
+
+Chi cục Thuế khu vực Sơn Hà - Sơn Tây
+
+Thêm mới
+
+2
+
+538.51.18.G12
+
+G12
+
+18
+
+51
+
+538
+
+Chi cục Thuế khu vực Trà Bồng - Tây Trà
+
+Thêm mới
+
+3
+
+539.51.18.G12
+
+G12
+
+18
+
+51
+
+539
+
+Chi cục Thuế khu vực Đức Phổ - Ba Tơ
+
+Thêm mới
+
+4
+
+525.51.18.G12
+
+G12
+
+18
+
+51
+
+525
+
+Chi cục Thuế Huyện Trà Bồng
+
+Đóng mã định danh
+
+5
+
+526.51.18.012
+
+G12
+
+18
+
+51
+
+526
+
+Chi cục Thuế Huyện Tây Trà
+
+Đóng mã định danh
+
+6
+
+529.51.18.G12
+
+G12
+
+18
+
+51
+
+529
+
+Chi cục Thuế Huyện Sơn Hà
+
+Đóng mã định danh
+
+7
+
+530.51.18.G12
+
+G12
+
+18
+
+51
+
+530
+
+Chi cục Thuế Huyện Sơn Tây
+
+Đóng mã định danh
+
+8
+
+534.51.18.G12
+
+G12
+
+18
+
+51
+
+534
+
+Chi cục Thuế Huyện Đức Phổ
+
+Đóng mã định danh
+
+9
+
+535.51.18.G12
+
+G12
+
+18
+
+51
+
+535
+
+Chi cục Thuế Huyện Ba Tơ
+
+Đóng mã định danh

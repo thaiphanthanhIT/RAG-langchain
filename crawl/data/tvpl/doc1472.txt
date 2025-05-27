@@ -1,0 +1,565 @@
+| BỘ TÀI CHÍNH   | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|----------------|-----------------------------------------------------------------|
+
+| Số: 636/QĐ-BTC | Hà Nội, ngày 11 tháng 4 năm 2019                                |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 636/QĐ-BTC
+
+Hà Nội, ngày 11 tháng 4 năm 2019
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU TẠI QUY CHẾ HOẠT ĐỘNG CỦA CỔNG THÔNG TIN ĐIỆN TỬ BỘ TÀI CHÍNH BAN HÀNH KÈM THEO QUYẾT ĐỊNH SỐ 2131/QĐ-BTC NGÀY 04/10/2016 CỦA BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước;
+
+Căn cứ Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật ban hành văn bản quy phạm pháp luật;
+
+Xét đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính và Chánh Văn phòng Bộ Tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Bổ sung một số điều, khoản của Quyết định số 2131/QĐ-BTC ngày 04 tháng 10 năm 2016 của Bộ trưởng Bộ Tài chính về Quy chế hoạt động của Cổng thông tin điện tử Bộ Tài chính như sau:
+
+1. Bổ sung khoản 5, Điều 12:
+
+“5. Trách nhiệm của các đơn vị trong việc cung cấp thông tin tiếng Anh
+
+Cung cấp, đăng tải kịp thời thông tin tiếng Anh lên Cổng thông tin điện tử Bộ Tài chính theo phân công tại Phụ lục ban hành kèm theo Quyết định này và chịu trách nhiệm về nội dung của thông tin đã cung cấp, đăng tải.”
+
+2. Bổ sung khoản 3, Điều 15:
+
+“3. Mức chi nhuận bút, thù lao trả cho tổ chức, cá nhân biên dịch các tin, bài từ tiếng Việt sang tiếng Anh đăng tải trên Cổng thông tin điện tử Bộ Tài chính được quy định tại Điều 5, Quyết định số 1196/QĐ-BTC ngày 28/6/2017 về việc ban hành Quy định chế độ chi phục vụ hoạt động đối với Trang thông tin điện tử của các đơn vị thuộc Bộ Tài chính và các văn bản sửa đổi, bổ sung, thay thế nếu có.”
+
+Điều 2. Hiệu lực thi hành và tổ chức thực hiện
+
+1. Quyết định này có hiệu lực kể từ ngày ký.
+
+2. Chánh Văn phòng Bộ, Cục trưởng Cục Tin học và Thống kê tài chính và Thủ trưởng các đơn vị liên quan chịu trách nhiệm thi hành Quyết định này. Trong quá trình thực hiện nếu có khó khăn vướng mắc, đề nghị các cơ quan, đơn vị phản ánh về Ban Biên tập Cổng thông tin điện tử Bộ Tài chính (Cục Tin học và Thống kê tài chính) để nghiên cứu giải quyết./.
+
+| Nơi nhận: - Như điều 2; - Lãnh đạo Bộ (để b/c); - Lưu: VT, THTK (30). | KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai |
+
+|-----------------------------------------------------------------------|-------------------------------------|
+
+Nơi nhận: - Như điều 2; - Lãnh đạo Bộ (để b/c); - Lưu: VT, THTK (30).
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai
+
+PHỤ LỤC
+
+DANH SÁCH CÁC MỤC, CHUYÊN MỤC, CHUYÊN TRANG VÀ ĐƠN VỊ CHỦ TRÌ CUNG CẤP, ĐĂNG TẢI THÔNG TIN TIẾNG ANH TRÊN CỔNG TTĐT BỘ TÀI CHÍNH (Ban hành kèm theo Quyết định số 636/QĐ-BTC ngày 11 tháng 04 năm 2019)
+
+I. MỤC, CHUYÊN MỤC
+
+| STT                                                                                               | Tên Mục/Chuyên mục                                                           | Nội dung chi tiết                                                                                                                            | Chu kỳ cập nhật thông tin                                                                      | Đơn vị chịu trách nhiệm cung cấp nội dung thông tin | Đơn vị chịu trách nhiệm đăng tải thông tin |
+
+|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------|
+
+| 1                                                                                                 | Giới thiệu Bộ                                                                | Lãnh đạo bộ;                                                                                                                                 | Khi thông tin tiếng Việt thay đổi                                                              | VPB                                                 | Cục THTK                                   |
+
+| Nhiệm vụ - quyền hạn;                                                                             | Khi thông tin tiếng Việt thay đổi                                            | VPB                                                                                                                                          | Cục THTK                                                                                       |                                                     |                                            |
+
+| Tổ chức bộ máy;                                                                                   | Khi thông tin tiếng Việt thay đổi                                            | Vụ TCCB                                                                                                                                      | Cục THTK                                                                                       |                                                     |                                            |
+
+| Lịch sử tài chính Việt Nam.                                                                       | Khi thông tin tiếng Việt thay đổi                                            | VPB                                                                                                                                          | Cục THTK                                                                                       |                                                     |                                            |
+
+| 2                                                                                                 | Tin tức - sự kiện                                                            | Tin tức hoạt động đối ngoại của Bộ, Lãnh đạo Bộ.                                                                                             | Sau 02 ngày làm việc kể từ khi tin tiếng Việt được đăng tải                                    | VPB                                                 | VPB                                        |
+
+| 3                                                                                                 | Thông cáo báo chí                                                            | Thông cáo báo chí.                                                                                                                           | Sau 04 ngày làm việc kể từ khi tin tiếng Việt được đăng tải                                    | VPB                                                 | VPB                                        |
+
+| 4                                                                                                 | Văn bản quy phạm pháp luật                                                   | Tên VBQPPL mới liên quan đến cá nhân, tổ chức nước ngoài;                                                                                    | Sau 02 ngày làm việc kể từ ngày văn bản có hiệu lực                                            | Cục THTK                                            | Cục THTK                                   |
+
+| Khuyến khích cung cấp tin bài giới thiệu về VBQPPL mới liên quan đến cá nhân, tổ chức nước ngoài; | Sau 10 ngày làm việc kể từ ngày văn bản tiếng Việt được đăng tải             | Các đơn vị thuộc Bộ chủ trì soạn thảo Văn bản.                                                                                               | Cục THTK                                                                                       |                                                     |                                            |
+
+| Khuyến khích cung cấp nội dung VBQPPL liên quan đến cá nhân, tổ chức nước ngoài.                  | Sau 30 ngày làm việc kể từ ngày văn bản có hiệu lực                          | Đơn vị chủ trì xây dựng văn bản                                                                                                              | Cục THTK                                                                                       |                                                     |                                            |
+
+| 5                                                                                                 | Thống kê tài chính                                                           | Bản tin nợ công;                                                                                                                             | Khi nội dung tiếng Việt được đăng tải                                                          | Cục QLN                                             | Cục QLN                                    |
+
+| Báo cáo thường niên;                                                                              | Khi nội dung tiếng Việt được đăng tải                                        | Cục THTK                                                                                                                                     | Cục THTK                                                                                       |                                                     |                                            |
+
+| Hàng hóa xuất khẩu, nhập khẩu (link từ Cổng của TCHQ).                                            | Sau 02 ngày làm việc kể từ khi nội dung tiếng Việt được đăng tải             | TCHQ                                                                                                                                         | TCHQ                                                                                           |                                                     |                                            |
+
+| 6                                                                                                 | Chiến lược tài chính                                                         | Chiến lược tài chính tổng thể.                                                                                                               | Sau 30 ngày làm việc kể từ ngày nội dung tiếng Việt được đăng tải                              | Viện CLTC                                           | Viện CLTC                                  |
+
+| 7                                                                                                 | Thông tin về chương trình nghiên cứu, đề tài khoa học                        | Danh sách đề tài nghiên cứu khoa học.                                                                                                        | Sau 05 ngày làm việc kể từ khi nội dung tiếng việt được đăng tải                               | Viện CLTC                                           | Viện CLTC                                  |
+
+| 8                                                                                                 | Danh mục ngành nghề đầu tư, kinh doanh có điều kiện                          | Danh mục ngành, nghề đầu tư kinh doanh có điều kiện thuộc phạm vi quản lý nhà nước của Bộ Tài chính theo Luật Đầu tư.                        | 30 ngày kể từ ngày Luật Đầu tư thực hiện việc sửa đổi, bổ sung Danh mục.                       | Vụ PC                                               | Cục THTK                                   |
+
+| 9                                                                                                 | Ngân sách Nhà nước                                                           | Số liệu Công khai quốc tế.                                                                                                                   | Theo các cam kết quốc tế hoặc sau 02 ngày làm việc kể từ khi nội dung tiếng việt được đăng tải | Vụ NSNN                                             | Vụ NSNN                                    |
+
+| 10                                                                                                | Hợp tác quốc tế                                                              | - Hợp tác quốc tế; - Dự án thuộc Bộ.                                                                                                         | Theo các cam kết quốc tế hoặc sau 02 ngày làm việc kể từ khi nội dung tiếng việt được đăng tải | Vụ HTQT                                             | Vụ HTQT                                    |
+
+| 11                                                                                                | Đầu tư                                                                       | Tin tức về hoạt động đầu tư, môi trường đầu tư Việt Nam.                                                                                     | Sau 02 ngày làm việc kể từ khi nội dung tiếng việt được đăng tải                               | Vụ ĐT                                               | Vụ ĐT                                      |
+
+| 12                                                                                                | Hiện đại hoá ngành tài chính                                                 | Tin bài tuyên truyền về lĩnh vực hoạt động, ứng dụng CNTT phạm vi cải cách hành chính cải thiện môi trường đầu tư kinh doanh của Việt Nam.   | Sau 02 ngày làm việc kể từ khi nội dung tiếng việt được đăng tải                               | Cục THTK                                            | Cục THTK                                   |
+
+| 13                                                                                                | Hỏi đáp chính sách tài chính                                                 | Ứng dụng hỏi đáp tự động.                                                                                                                    | Khi có câu hỏi của độc giả                                                                     | Cục THTK                                            | Cục THTK                                   |
+
+| 14                                                                                                | Quản lý tài chính doanh nghiệp                                               | - Thông tin nổi bật về Tài chính doanh nghiệp nói chung và doanh nghiệp thuộc Bộ nói riêng; - Kết quả tái cấu trúc DNNN và cổ phần hoá DNNN. | Sau 02 ngày làm việc kể từ khi nội dung tiếng việt được đăng tải                               | Cục TCDN                                            | Cục TCDN                                   |
+
+| 15                                                                                                | Chuyên mục Dịch vụ công trực tuyến                                           | Tên dịch vụ công trực tuyến                                                                                                                  | Sau 02 ngày làm việc kể từ khi nội dung tiếng việt được đăng tải                               | Cục THTK                                            | Cục THTK                                   |
+
+| 16                                                                                                | Thông tin chứng khoán                                                        | Thông tin chứng khoán.                                                                                                                       | Hàng ngày                                                                                      | UBCKNN                                              | Cục THTK                                   |
+
+| 17                                                                                                | Tỷ giá hạch toán/Tỷ giá ngoại tệ                                             | Tỷ giá hạch toán/Tỷ giá ngoại tệ.                                                                                                            | Hàng tháng (hoặc khi có thông tin tiếng Việt)                                                  | KBNN/link từ Cổng NHNN                              | Cục THTK                                   |
+
+| 18                                                                                                | Quản lý, giám sát Bảo hiểm                                                   | Tin tức sự kiện đối ngoại, hợp tác quốc tế liên quan đến nhà đầu tư nước ngoài;                                                              | Sau 02 ngày làm việc kể từ ngày đăng tin tiếng Việt                                            | Cục QLBH                                            | Cục THTK                                   |
+
+| Danh mục doanh nghiệp, chi nhánh nước ngoài và danh mục văn phòng đại diện nước ngoài;            | Sau 02 ngày làm việc kể từ ngày đăng tin tiếng Việt                          | Cục QLBH                                                                                                                                     | Cục THTK                                                                                       |                                                     |                                            |
+
+| Tổng quan thị trường bảo hiểm theo năm (các chỉ số phát triển chủ yếu của thị trường theo năm).   | 02 ngày làm việc kể từ ngày phát hành ấn phẩm “Thị trường bảo hiểm Việt Nam” | Cục QLBH                                                                                                                                     | Cục THTK                                                                                       |                                                     |                                            |
+
+STT
+
+Tên Mục/Chuyên mục
+
+Nội dung chi tiết
+
+Chu kỳ cập nhật thông tin
+
+Đơn vị chịu trách nhiệm cung cấp nội dung thông tin
+
+Đơn vị chịu trách nhiệm đăng tải thông tin
+
+1
+
+Giới thiệu Bộ
+
+Lãnh đạo bộ;
+
+Khi thông tin tiếng Việt thay đổi
+
+VPB
+
+Cục THTK
+
+Nhiệm vụ - quyền hạn;
+
+Khi thông tin tiếng Việt thay đổi
+
+VPB
+
+Cục THTK
+
+Tổ chức bộ máy;
+
+Khi thông tin tiếng Việt thay đổi
+
+Vụ TCCB
+
+Cục THTK
+
+Lịch sử tài chính Việt Nam.
+
+Khi thông tin tiếng Việt thay đổi
+
+VPB
+
+Cục THTK
+
+2
+
+Tin tức - sự kiện
+
+Tin tức hoạt động đối ngoại của Bộ, Lãnh đạo Bộ.
+
+Sau 02 ngày làm việc kể từ khi tin tiếng Việt được đăng tải
+
+VPB
+
+VPB
+
+3
+
+Thông cáo báo chí
+
+Thông cáo báo chí.
+
+Sau 04 ngày làm việc kể từ khi tin tiếng Việt được đăng tải
+
+VPB
+
+VPB
+
+4
+
+Văn bản quy phạm pháp luật
+
+Tên VBQPPL mới liên quan đến cá nhân, tổ chức nước ngoài;
+
+Sau 02 ngày làm việc kể từ ngày văn bản có hiệu lực
+
+Cục THTK
+
+Cục THTK
+
+Khuyến khích cung cấp tin bài giới thiệu về VBQPPL mới liên quan đến cá nhân, tổ chức nước ngoài;
+
+Sau 10 ngày làm việc kể từ ngày văn bản tiếng Việt được đăng tải
+
+Các đơn vị thuộc Bộ chủ trì soạn thảo Văn bản.
+
+Cục THTK
+
+Khuyến khích cung cấp nội dung VBQPPL liên quan đến cá nhân, tổ chức nước ngoài.
+
+Sau 30 ngày làm việc kể từ ngày văn bản có hiệu lực
+
+Đơn vị chủ trì xây dựng văn bản
+
+Cục THTK
+
+5
+
+Thống kê tài chính
+
+Bản tin nợ công;
+
+Khi nội dung tiếng Việt được đăng tải
+
+Cục QLN
+
+Cục QLN
+
+Báo cáo thường niên;
+
+Khi nội dung tiếng Việt được đăng tải
+
+Cục THTK
+
+Cục THTK
+
+Hàng hóa xuất khẩu, nhập khẩu (link từ Cổng của TCHQ).
+
+Sau 02 ngày làm việc kể từ khi nội dung tiếng Việt được đăng tải
+
+TCHQ
+
+TCHQ
+
+6
+
+Chiến lược tài chính
+
+Chiến lược tài chính tổng thể.
+
+Sau 30 ngày làm việc kể từ ngày nội dung tiếng Việt được đăng tải
+
+Viện CLTC
+
+Viện CLTC
+
+7
+
+Thông tin về chương trình nghiên cứu, đề tài khoa học
+
+Danh sách đề tài nghiên cứu khoa học.
+
+Sau 05 ngày làm việc kể từ khi nội dung tiếng việt được đăng tải
+
+Viện CLTC
+
+Viện CLTC
+
+8
+
+Danh mục ngành nghề đầu tư, kinh doanh có điều kiện
+
+Danh mục ngành, nghề đầu tư kinh doanh có điều kiện thuộc phạm vi quản lý nhà nước của Bộ Tài chính theo Luật Đầu tư.
+
+30 ngày kể từ ngày Luật Đầu tư thực hiện việc sửa đổi, bổ sung Danh mục.
+
+Vụ PC
+
+Cục THTK
+
+9
+
+Ngân sách Nhà nước
+
+Số liệu Công khai quốc tế.
+
+Theo các cam kết quốc tế hoặc sau 02 ngày làm việc kể từ khi nội dung tiếng việt được đăng tải
+
+Vụ NSNN
+
+Vụ NSNN
+
+10
+
+Hợp tác quốc tế
+
+- Hợp tác quốc tế;
+
+- Dự án thuộc Bộ.
+
+Theo các cam kết quốc tế hoặc sau 02 ngày làm việc kể từ khi nội dung tiếng việt được đăng tải
+
+Vụ HTQT
+
+Vụ HTQT
+
+11
+
+Đầu tư
+
+Tin tức về hoạt động đầu tư, môi trường đầu tư Việt Nam.
+
+Sau 02 ngày làm việc kể từ khi nội dung tiếng việt được đăng tải
+
+Vụ ĐT
+
+Vụ ĐT
+
+12
+
+Hiện đại hoá ngành tài chính
+
+Tin bài tuyên truyền về lĩnh vực hoạt động, ứng dụng CNTT phạm vi cải cách hành chính cải thiện môi trường đầu tư kinh doanh của Việt Nam.
+
+Sau 02 ngày làm việc kể từ khi nội dung tiếng việt được đăng tải
+
+Cục THTK
+
+Cục THTK
+
+13
+
+Hỏi đáp chính sách tài chính
+
+Ứng dụng hỏi đáp tự động.
+
+Khi có câu hỏi của độc giả
+
+Cục THTK
+
+Cục THTK
+
+14
+
+Quản lý tài chính doanh nghiệp
+
+- Thông tin nổi bật về Tài chính doanh nghiệp nói chung và doanh nghiệp thuộc Bộ nói riêng;
+
+- Kết quả tái cấu trúc DNNN và cổ phần hoá DNNN.
+
+Sau 02 ngày làm việc kể từ khi nội dung tiếng việt được đăng tải
+
+Cục TCDN
+
+Cục TCDN
+
+15
+
+Chuyên mục Dịch vụ công trực tuyến
+
+Tên dịch vụ công trực tuyến
+
+Sau 02 ngày làm việc kể từ khi nội dung tiếng việt được đăng tải
+
+Cục THTK
+
+Cục THTK
+
+16
+
+Thông tin chứng khoán
+
+Thông tin chứng khoán.
+
+Hàng ngày
+
+UBCKNN
+
+Cục THTK
+
+17
+
+Tỷ giá hạch toán/Tỷ giá ngoại tệ
+
+Tỷ giá hạch toán/Tỷ giá ngoại tệ.
+
+Hàng tháng (hoặc khi có thông tin tiếng Việt)
+
+KBNN/link từ Cổng NHNN
+
+Cục THTK
+
+18
+
+Quản lý, giám sát Bảo hiểm
+
+Tin tức sự kiện đối ngoại, hợp tác quốc tế liên quan đến nhà đầu tư nước ngoài;
+
+Sau 02 ngày làm việc kể từ ngày đăng tin tiếng Việt
+
+Cục QLBH
+
+Cục THTK
+
+Danh mục doanh nghiệp, chi nhánh nước ngoài và danh mục văn phòng đại diện nước ngoài;
+
+Sau 02 ngày làm việc kể từ ngày đăng tin tiếng Việt
+
+Cục QLBH
+
+Cục THTK
+
+Tổng quan thị trường bảo hiểm theo năm (các chỉ số phát triển chủ yếu của thị trường theo năm).
+
+02 ngày làm việc kể từ ngày phát hành ấn phẩm “Thị trường bảo hiểm Việt Nam”
+
+Cục QLBH
+
+Cục THTK
+
+II. CHUYÊN TRANG
+
+| STT | Tên Chuyên trang                        | Nội dung chi tiết (gồm các thông tin tối thiểu)                                                                                                                                                                                                             | Đơn vị chủ trì cung cấp, đăng tải thông tin |
+
+|-----|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+
+| 1   | Thị trường trái phiếu                   | - Tổng quan về thị trường trái phiếu; - Chức năng nhiệm vụ; - Thông tin về thị trường sơ cấp; - Thông tin về thị trường thứ cấp; - Tin bài về hoạt động của thị trường trái phiếu; liên quan đến cá nhân, tổ chức người nước ngoài.                         | Vụ TCNH                                     |
+
+| 2   | Viện chiến lược và Chính sách tài chính | - Thông tin giới thiệu; - Thông tin về chương trình nghiên cứu, đề tài khoa học; - Chiến lược tài chính tổng thể; - Tin bài về hoạt động, các vấn đề liên quan thuộc phạm vi quản lý nhà nước của cơ quan, liên quan đến cá nhân, tổ chức người nước ngoài. | Viện CLTC                                   |
+
+STT
+
+Tên Chuyên trang
+
+Nội dung chi tiết (gồm các thông tin tối thiểu)
+
+Đơn vị chủ trì cung cấp, đăng tải thông tin
+
+1
+
+Thị trường trái phiếu
+
+- Tổng quan về thị trường trái phiếu;
+
+- Chức năng nhiệm vụ;
+
+- Thông tin về thị trường sơ cấp;
+
+- Thông tin về thị trường thứ cấp;
+
+- Tin bài về hoạt động của thị trường trái phiếu; liên quan đến cá nhân, tổ chức người nước ngoài.
+
+Vụ TCNH
+
+2
+
+Viện chiến lược và Chính sách tài chính
+
+- Thông tin giới thiệu;
+
+- Thông tin về chương trình nghiên cứu, đề tài khoa học;
+
+- Chiến lược tài chính tổng thể;
+
+- Tin bài về hoạt động, các vấn đề liên quan thuộc phạm vi quản lý nhà nước của cơ quan, liên quan đến cá nhân, tổ chức người nước ngoài.
+
+Viện CLTC
+
+III. CỔNG THÔNG TIN ĐIỆN TỬ CÁC ĐƠN VỊ TỔNG CỤC
+
+| STT | Tên Cổng TTĐT               | Nội dung chi tiết (gồm các thông tin tối thiểu)                                                                                                                                                                                                                                                                                             | Đơn vị chủ trì cung cấp, đăng tải thông tin |
+
+|-----|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+
+| 1   | Tổng cục Thuế               | - Thông tin giới thiệu gồm: sơ đồ, cơ cấu tổ chức, chức năng, nhiệm vụ, quyền hạn của đơn vị; - Thông tin liên hệ; - Các thông tin về dịch vụ công trực tuyến mà người nước ngoài có thể sử dụng; - Tin bài về hoạt động, các vấn đề liên quan thuộc phạm vi quản lý nhà nước của cơ quan, liên quan đến cá nhân, tổ chức người nước ngoài. | TCT                                         |
+
+| 2   | Tổng cục Hải quan           | - Thông tin giới thiệu gồm: sơ đồ, cơ cấu tổ chức, chức năng, nhiệm vụ, quyền hạn của đơn vị; - Thông tin liên hệ; - Các thông tin về dịch vụ công trực tuyến mà người nước ngoài có thể sử dụng; - Tin bài về hoạt động, các vấn đề liên quan thuộc phạm vi quản lý nhà nước của cơ quan, liên quan đến cá nhân, tổ chức người nước ngoài. | TCHQ                                        |
+
+| 3   | Kho bạc Nhà nước            | - Thông tin giới thiệu gồm: sơ đồ, cơ cấu tổ chức, chức năng, nhiệm vụ, quyền hạn của đơn vị; - Thông tin liên hệ; - Các thông tin về dịch vụ công trực tuyến mà người nước ngoài có thể sử dụng; - Tin bài về hoạt động, các vấn đề liên quan thuộc phạm vi quản lý nhà nước của cơ quan, liên quan đến cá nhân, tổ chức người nước ngoài. | KBNN                                        |
+
+| 4   | Tổng cục Dự trữ Nhà nước    | - Thông tin giới thiệu gồm: sơ đồ, cơ cấu tổ chức, chức năng, nhiệm vụ, quyền hạn của đơn vị; - Thông tin liên hệ; - Các thông tin về dịch vụ công trực tuyến mà người nước ngoài có thể sử dụng; - Tin bài về hoạt động, các vấn đề liên quan thuộc phạm vi quản lý nhà nước của cơ quan, liên quan đến cá nhân, tổ chức người nước ngoài. | TCDT                                        |
+
+| 5   | Ủy ban Chứng khoán Nhà nước | - Thông tin giới thiệu gồm: sơ đồ, cơ cấu tổ chức, chức năng, nhiệm vụ, quyền hạn của đơn vị; - Thông tin liên hệ; - Các thông tin về dịch vụ công trực tuyến mà người nước ngoài có thể sử dụng; - Tin bài về hoạt động, các vấn đề liên quan thuộc phạm vi quản lý nhà nước của cơ quan, liên quan đến cá nhân, tổ chức người nước ngoài. | UBCKNN                                      |
+
+STT
+
+Tên Cổng TTĐT
+
+Nội dung chi tiết (gồm các thông tin tối thiểu)
+
+Đơn vị chủ trì cung cấp, đăng tải thông tin
+
+1
+
+Tổng cục Thuế
+
+- Thông tin giới thiệu gồm: sơ đồ, cơ cấu tổ chức, chức năng, nhiệm vụ, quyền hạn của đơn vị;
+
+- Thông tin liên hệ;
+
+- Các thông tin về dịch vụ công trực tuyến mà người nước ngoài có thể sử dụng;
+
+- Tin bài về hoạt động, các vấn đề liên quan thuộc phạm vi quản lý nhà nước của cơ quan, liên quan đến cá nhân, tổ chức người nước ngoài.
+
+TCT
+
+2
+
+Tổng cục Hải quan
+
+- Thông tin giới thiệu gồm: sơ đồ, cơ cấu tổ chức, chức năng, nhiệm vụ, quyền hạn của đơn vị;
+
+- Thông tin liên hệ;
+
+- Các thông tin về dịch vụ công trực tuyến mà người nước ngoài có thể sử dụng;
+
+- Tin bài về hoạt động, các vấn đề liên quan thuộc phạm vi quản lý nhà nước của cơ quan, liên quan đến cá nhân, tổ chức người nước ngoài.
+
+TCHQ
+
+3
+
+Kho bạc Nhà nước
+
+- Thông tin giới thiệu gồm: sơ đồ, cơ cấu tổ chức, chức năng, nhiệm vụ, quyền hạn của đơn vị;
+
+- Thông tin liên hệ;
+
+- Các thông tin về dịch vụ công trực tuyến mà người nước ngoài có thể sử dụng;
+
+- Tin bài về hoạt động, các vấn đề liên quan thuộc phạm vi quản lý nhà nước của cơ quan, liên quan đến cá nhân, tổ chức người nước ngoài.
+
+KBNN
+
+4
+
+Tổng cục Dự trữ Nhà nước
+
+- Thông tin giới thiệu gồm: sơ đồ, cơ cấu tổ chức, chức năng, nhiệm vụ, quyền hạn của đơn vị;
+
+- Thông tin liên hệ;
+
+- Các thông tin về dịch vụ công trực tuyến mà người nước ngoài có thể sử dụng;
+
+- Tin bài về hoạt động, các vấn đề liên quan thuộc phạm vi quản lý nhà nước của cơ quan, liên quan đến cá nhân, tổ chức người nước ngoài.
+
+TCDT
+
+5
+
+Ủy ban Chứng khoán Nhà nước
+
+- Thông tin giới thiệu gồm: sơ đồ, cơ cấu tổ chức, chức năng, nhiệm vụ, quyền hạn của đơn vị;
+
+- Thông tin liên hệ;
+
+- Các thông tin về dịch vụ công trực tuyến mà người nước ngoài có thể sử dụng;
+
+- Tin bài về hoạt động, các vấn đề liên quan thuộc phạm vi quản lý nhà nước của cơ quan, liên quan đến cá nhân, tổ chức người nước ngoài.
+
+UBCKNN

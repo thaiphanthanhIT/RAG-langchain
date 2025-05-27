@@ -1,0 +1,847 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 1102/QĐ-BTC | Hà Nội, ngày 14 tháng 06 năm 2017                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 1102/QĐ-BTC
+
+Hà Nội, ngày 14 tháng 06 năm 2017
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH TIÊU CHÍ, TIÊU CHUẨN KỸ THUẬT VỀ THIẾT BỊ, KẾT NỐI, ÂM THANH VÀ AN TOÀN BẢO MẬT THÔNG TIN HỆ THỐNG ĐIỆN TỬ ĐA PHƯƠNG TIỆN HỖ TRỢ CHỈ ĐẠO ĐIỀU HÀNH CỦA BỘ TÀI CHÍNH
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23/12/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+
+Căn cứ công văn số 1655/BTTTT-ƯDCNTT ngày 27/5/2008 của Bộ Thông tin và Truyền thông về các yêu cầu cơ bản về chức năng, tính năng kỹ thuật của Hệ thống giao ban điện tử đa phương tiện
+
+Căn cứ công văn số 3386/BTTTT-ƯDCNTT ngày 23/10/2009 của Bộ Thông tin và Truyền thông về việc bổ sung, điều chỉnh một số điểm tại công văn số 1654/BTTTT-ƯDCNTT ngày 27/5/2008 của Bộ Thông tin và Truyền thông;
+
+Xét đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Quy định tiêu chí, tiêu chuẩn kỹ thuật về thiết bị, kết nối, âm thanh và an toàn bảo mật thông tin hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính.
+
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+
+Điều 3. Chánh Văn phòng Bộ Tài chính, Cục trưởng Cục Tin học và Thống kê tài chính, Thủ trưởng các đơn vị thuộc Bộ chịu trách nhiệm thi hành Quyết định này./.
+
+| Nơi nhận: - Như điều 3; - Cổng thông tin điện tử Bộ Tài chính; - Lưu: VT, THTK. | KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai |
+
+|---------------------------------------------------------------------------------|-------------------------------------|
+
+Nơi nhận: - Như điều 3; - Cổng thông tin điện tử Bộ Tài chính; - Lưu: VT, THTK.
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai
+
+PHỤ LỤC 01
+
+TIÊU CHÍ, TIÊU CHUẨN KỸ THUẬT VỀ THIẾT BỊ, KẾT NỐI, ÂM THANH VÀ AN TOÀN BẢO MẬT HỆ THỐNG ĐIỆN TỬ ĐA PHƯƠNG TIỆN HỖ TRỢ CHỈ ĐẠO ĐIỀU HÀNH CỦA BỘ TÀI CHÍNH (Ban hành kèm theo Quyết định số 1102/QĐ-BTC ngày 14/06/2017 của Bộ trưởng Bộ Tài chính)
+
+| STT                                                                                                                                                                                                                | THIẾT BỊ, TIÊU CHUẨN KỸ THUẬT                                                                                                                                                                                                                                                               |
+
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| A                                                                                                                                                                                                                  | PHÒNG MÁY TRUNG TÂM                                                                                                                                                                                                                                                                         |
+
+| 1                                                                                                                                                                                                                  | Thiết bị điều khiển đa điểm MCU providing                                                                                                                                                                                                                                                   |
+
+| 1.1                                                                                                                                                                                                                | Yêu cầu chung:                                                                                                                                                                                                                                                                              |
+
+|                                                                                                                                                                                                                    | - Hỗ trợ các độ phân giải HD 720p và HD 1080p với tốc độ khung hình hỗ trợ tới 60fps;                                                                                                                                                                                                       |
+
+|                                                                                                                                                                                                                    | - Tương thích và có khả năng tích hợp với hệ thống MCU của Chính phủ (Hiện tại hệ thống hội nghị trực tuyến của Chính phủ đang sử dụng thiết bị MCU Scopia Radvision);                                                                                                                      |
+
+|                                                                                                                                                                                                                    | - Tương thích với các sản phẩm đầu cuối của các hãng khác nhau bao gồm Avaya/Scopia Radvison, Polycom, Lifesize, Cisco/Tandberg, Sony ...                                                                                                                                                   |
+
+|                                                                                                                                                                                                                    | - Hỗ trợ khả năng kết nối đến các hệ thống TP (TelePresence) của các hãng khác nhau như Avaya/Scopia Radvison, Polycom, Lifesize, Cisco/Tandberg, ...                                                                                                                                       |
+
+|                                                                                                                                                                                                                    | - Hỗ trợ chuẩn H.264 SVC, H.264 Hight Profile                                                                                                                                                                                                                                               |
+
+| 1.2                                                                                                                                                                                                                | Yêu cầu kỹ thuật chi tiết:                                                                                                                                                                                                                                                                  |
+
+|                                                                                                                                                                                                                    | - Hỗ trợ các giao thức H.323, H.320, SIP. Hỗ trợ các giao thức IPV4, IPV6;                                                                                                                                                                                                                  |
+
+|                                                                                                                                                                                                                    | - Cho phép hiển thị đồng thời đến tối thiểu 28 điểm cầu trên một màn hình hiển thị                                                                                                                                                                                                          |
+
+|                                                                                                                                                                                                                    | - Cho phép hiển thị tối thiểu 24 kiểu hiển thị khác nhau (layout)                                                                                                                                                                                                                           |
+
+|                                                                                                                                                                                                                    | - Hỗ trợ các chuẩn mã hóa video theo H.261, H.263, H.263+, H.264, H.264 High profile và H.264 SVC;                                                                                                                                                                                          |
+
+|                                                                                                                                                                                                                    | - Hỗ trợ các chuẩn mã hóa audio theo G.711, G.722, G.722.1, G.729, MPEG4 AAC-LC, Polycom Siren 14/G.722.1 Annex C;                                                                                                                                                                          |
+
+|                                                                                                                                                                                                                    | - Hỗ trợ H.239 (H.323) and BFCP (SIP) chia sẻ dữ liệu thuyết trình                                                                                                                                                                                                                          |
+
+|                                                                                                                                                                                                                    | - Độ phân giải hình ảnh của các kênh trình chiếu nội dung có thể hỗ trợ đến WUXGA                                                                                                                                                                                                           |
+
+|                                                                                                                                                                                                                    | - Hỗ trợ khả năng dự phòng mạng bằng việc cho phép kết nối MCU đến 2 mạng khác nhau. Khi kết nối mạng chính bị lỗi, kết nối dự phòng sẽ được kích hoạt;                                                                                                                                     |
+
+|                                                                                                                                                                                                                    | - Xác thực truy nhập MCU được thực hiện qua tên truy nhập và mật khẩu với các mức truy nhập khác nhau Tương ứng với các quyền hạn khác nhau.                                                                                                                                                |
+
+| 2                                                                                                                                                                                                                  | Hệ thống quản lý, lập lịch cuộc họp, điều khiển cân bằng tải, Hệ thống H.323 Gatekeeper                                                                                                                                                                                                     |
+
+| 2.1                                                                                                                                                                                                                | Hình thức:                                                                                                                                                                                                                                                                                  |
+
+|                                                                                                                                                                                                                    | - Hệ thống quản lý lập lịch được cung cấp ở dạng phần mềm cài đặt trên các máy chủ thương mại hoặc được đóng gói thành dưới dạng thiết bị thương mại của hãng                                                                                                                               |
+
+| 2.2                                                                                                                                                                                                                | Giao diện và chức năng điều khiển:                                                                                                                                                                                                                                                          |
+
+|                                                                                                                                                                                                                    | - Điều khiển trên nền giao diện web, cho phép quản lý tập trung, điều khiển và giám sát mọi thành phần của hệ thống video trên mạng lưới (từ các thiết bị đầu cuối, thiết bị Gateway đến các thiết bị MCU, Gatekeeper);                                                                     |
+
+| 2.3                                                                                                                                                                                                                | Yêu cầu kỹ thuật chi tiết:                                                                                                                                                                                                                                                                  |
+
+|                                                                                                                                                                                                                    | - Hỗ trợ khả năng quản lý các loại thiết bị đầu cuối của nhiều hãng khác nhau Polycom, Avaya/Radvision, Cisco/Tanberg, Lifesize, Sony...                                                                                                                                                    |
+
+|                                                                                                                                                                                                                    | - Có thể quản lý việc vận hành, nâng cấp, cấu hình các thiết bị đầu cuối HNTH trên mạng;                                                                                                                                                                                                    |
+
+|                                                                                                                                                                                                                    | - Cung cấp các công cụ điều khiển các phiên họp như khởi tạo, thay đổi layout, mời các bên tham gia, kết thúc hội nghị...                                                                                                                                                                   |
+
+|                                                                                                                                                                                                                    | - Hỗ trợ đăng ký hoặc định kỳ các phiên họp, thông báo bằng email đến các bên tham gia hội nghị;                                                                                                                                                                                            |
+
+|                                                                                                                                                                                                                    | - Chức năng lập lịch được tích hợp với Microsoft Outlook;                                                                                                                                                                                                                                   |
+
+|                                                                                                                                                                                                                    | - Hỗ trợ khả năng quản lý tài nguyên của MCU, Gateway và Gatekeeper;                                                                                                                                                                                                                        |
+
+|                                                                                                                                                                                                                    | - H.323 GateKeeper được cung cấp dưới dạng phần mềm cài đặt trên các máy chủ thương mại;                                                                                                                                                                                                    |
+
+|                                                                                                                                                                                                                    | - Gatekeeper hỗ trợ khả năng quản lý băng thông các cuộc gọi giữa các vùng                                                                                                                                                                                                                  |
+
+|                                                                                                                                                                                                                    | - Cho phép thiết lập băng thông tối đa cho mỗi thiết bị đầu cuối (endpoint) hoặc các nhóm thiết bị đầu cuối;                                                                                                                                                                                |
+
+|                                                                                                                                                                                                                    | - GateKeeper cho phép thiết lập các chính sách phản hồi cuộc gọi (callfallback);                                                                                                                                                                                                            |
+
+|                                                                                                                                                                                                                    | - Hỗ trợ khả năng định tuyến với chi phí thấp nhất (Least Cost Routing);                                                                                                                                                                                                                    |
+
+|                                                                                                                                                                                                                    | - Hỗ trợ khả năng tìm kiếm nhóm (group hunting) và tìm kiếm hội nghị (conference hunting);                                                                                                                                                                                                  |
+
+|                                                                                                                                                                                                                    | - GateKeeper hỗ trợ khả năng tự động tìm kiếm các tài nguyên khả dụng, nhằm đảm bảo các dịch vụ yêu cầu của người dùng được định tuyến tới các tài nguyên mạng khả dụng.                                                                                                                    |
+
+| 3                                                                                                                                                                                                                  | Thiết bị ghi kênh                                                                                                                                                                                                                                                                           |
+
+| 3.1                                                                                                                                                                                                                | Yêu Cầu chung:                                                                                                                                                                                                                                                                              |
+
+|                                                                                                                                                                                                                    | - Ghi lại nội dung cuộc họp với đầy đủ âm thanh, hình ảnh, dữ liệu trình chiếu. Hỗ trợ H.239 hoặc SIP BFCP;                                                                                                                                                                                 |
+
+| 3.2                                                                                                                                                                                                                | Yêu cầu kỹ thuật ghi:                                                                                                                                                                                                                                                                       |
+
+|                                                                                                                                                                                                                    | - Ghi dung lượng cao tối đa 5 phiên đồng thời (5 kênh HD được cấp bản quyền của hãng sản xuất);                                                                                                                                                                                             |
+
+| - Chuyển mã các cuộc gọi theo định dạng Windos Media (.wmv) hoặc H.264 (.mp4).                                                                                                                                     |                                                                                                                                                                                                                                                                                             |
+
+| 3.3                                                                                                                                                                                                                | Yêu cầu phát lại:                                                                                                                                                                                                                                                                           |
+
+|                                                                                                                                                                                                                    | - Hỗ trợ việc phát lại tới người dùng có quyền xác thực hoặc tới cả người dùng công cộng khác (có hoặc không có mã PIN xác thực);                                                                                                                                                           |
+
+| - Hỗ trợ khả năng tải các cuộc họp về và xem lại ở chế độ offline;                                                                                                                                                 |                                                                                                                                                                                                                                                                                             |
+
+| 4                                                                                                                                                                                                                  | Switch 24 cổng 10/100/1000 kèm 4 cổng SFP                                                                                                                                                                                                                                                   |
+
+|                                                                                                                                                                                                                    | LAN port: 24 ports 10/100/1000Mbps                                                                                                                                                                                                                                                          |
+
+| SFP port: 4 ports 1000Mbps                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                             |
+
+| Switching capacity: ≥ 88 Gbps                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                             |
+
+| Forwarding Rate: ≥ 35 Mpps                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                             |
+
+| - >= 256 MB DRAM                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                             |
+
+| - >= 64 MB Flash                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                             |
+
+| Virtual LAN function: + Support IEEE802.1Q and Port-based VLAN assignment + ≥ 1000 Virtual LANs                                                                                                                    |                                                                                                                                                                                                                                                                                             |
+
+| MAC capacity: ≥ 2000                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                             |
+
+| Route Entries: ≥ 2000                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                             |
+
+| Loop preventing function: + Spanning Tree Transparent Bridging (IEEE 802.1d) + Rapid Spanning Tree Transparent Bridging (IEEE 802.1w) + MST - multiple Spanning Tree (IEEE 802.1s) + Hỗ trợ Per VLAN Spanning Tree |                                                                                                                                                                                                                                                                                             |
+
+| Network communication protocols: + TCP/IP + Hỗ trợ VRRP, HSRP                                                                                                                                                      |                                                                                                                                                                                                                                                                                             |
+
+| Chức năng bảo mật: + Hạn chế số lượng MAC address trên mỗi cổng + Hỗ trợ tính năng ACL: Vlan ACL, IP extended ACL + Hỗ trợ IEEE 802.1x authentication                                                              |                                                                                                                                                                                                                                                                                             |
+
+| Stack: Hỗ trợ tính năng stack (ghép nhiều thiết bị thành 1 thiết bị ảo để tăng tính dự phòng), có cáp stack đi kèm                                                                                                 |                                                                                                                                                                                                                                                                                             |
+
+| Định tuyến: Định tuyến tĩnh, OSPF, EIGRP                                                                                                                                                                           |                                                                                                                                                                                                                                                                                             |
+
+| Chức năng cấu hình (Configuration functions): Console/telne/ssh                                                                                                                                                    |                                                                                                                                                                                                                                                                                             |
+
+| Giao thức quản lý mạng (Network management protocols): SNMP                                                                                                                                                        |                                                                                                                                                                                                                                                                                             |
+
+| Cơ chế giám sát mạng (Network monitor mechanism): Syslog                                                                                                                                                           |                                                                                                                                                                                                                                                                                             |
+
+| Nguồn điện: Nguồn AC 200-240VAC/50Hz-60Hz                                                                                                                                                                          |                                                                                                                                                                                                                                                                                             |
+
+| 5                                                                                                                                                                                                                  | Thiết bị lưu điện                                                                                                                                                                                                                                                                           |
+
+|                                                                                                                                                                                                                    | - Loại: Online technology/Line-interactive                                                                                                                                                                                                                                                  |
+
+| - Công suất: 4000 Watts / 5000 VA hoặc 3500 Watts / 5000VA                                                                                                                                                         |                                                                                                                                                                                                                                                                                             |
+
+| - Điện áp vào: 230V điện áp danh định                                                                                                                                                                              |                                                                                                                                                                                                                                                                                             |
+
+| - Điện áp ra: Cho phép cấu hình điện áp danh định 220, 230 hoặc 240V, độ méo điện áp ra nhỏ hơn 5%                                                                                                                 |                                                                                                                                                                                                                                                                                             |
+
+| - Thời gian lưu điện tối đa: 15 phút                                                                                                                                                                               |                                                                                                                                                                                                                                                                                             |
+
+| 6                                                                                                                                                                                                                  | Rack 42U cho phòng máy                                                                                                                                                                                                                                                                      |
+
+|                                                                                                                                                                                                                    | - Tham chiếu tiêu chuẩn ANSI/EIA 310-D;                                                                                                                                                                                                                                                     |
+
+| - Chiều cao 42U;                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                             |
+
+| - Cửa sau: 1 cánh thông gió, cửa hông: 4 cánh với thiết kế 2 phần trên/dưới                                                                                                                                        |                                                                                                                                                                                                                                                                                             |
+
+| B                                                                                                                                                                                                                  | BỘ THIẾT BỊ CHO PHÒNG HỌP                                                                                                                                                                                                                                                                   |
+
+| 1                                                                                                                                                                                                                  | Codec                                                                                                                                                                                                                                                                                       |
+
+| 1.1                                                                                                                                                                                                                | Yêu cầu chung:                                                                                                                                                                                                                                                                              |
+
+|                                                                                                                                                                                                                    | - Thiết bị Video Conferencing chuyên dụng, phù hợp sử dụng cho nhiều loại phòng họp. - Thiết bị đã bao gồm camera 1080p@60fps, microphone, điều khiển từ xa và có khả năng kết hợp với các hệ thống thu hình, trang âm bên ngoài.                                                           |
+
+| 1.2                                                                                                                                                                                                                | Video:                                                                                                                                                                                                                                                                                      |
+
+|                                                                                                                                                                                                                    | - Hỗ trợ các chuẩn: H.263, H.263+, H.263++, H.264, H.264 HighProfile, H.264 SVC. - Hỗ trợ các độ phân giải SIF, CIF, 4SIF, 4CIF, w448p, w576p, 720p và 1080p. - Hỗ trợ các tốc độ khung hình 25fps, 30fps, 50fps, 60fps. - Hỗ trợ trình chiếu số liệu theo chuẩn H.239 (H.323); BFCP (SIP). |
+
+|                                                                                                                                                                                                                    | - Hỗ trợ tích hợp MCU mềm với khả năng kết nối đến tối thiểu 4 điểm HDCP 1080p@30fps                                                                                                                                                                                                        |
+
+| 1.3                                                                                                                                                                                                                | Audio                                                                                                                                                                                                                                                                                       |
+
+|                                                                                                                                                                                                                    | - Âm thanh độ phân giải cao: Hỗ trợ đầy đủ các chuẩn Audio: G.711, G.722, G.722.1 Annex C, G.728, G.729A, G.719, AAC-LD.                                                                                                                                                                    |
+
+| - Công nghệ khử tiếng vọng.                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                             |
+
+| - Tự động giảm nhiễu và tạp âm.                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                             |
+
+| - Tự động điều khiển khuếch đại.                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                             |
+
+| 1.4                                                                                                                                                                                                                | Giao diện:                                                                                                                                                                                                                                                                                  |
+
+|                                                                                                                                                                                                                    | - Ngõ vào Video: ≥ 1 cổng HDMI, ≥ 1 cổng DVI -I;                                                                                                                                                                                                                                            |
+
+| - Ngõ ra Vi deo: ≥ 2 cổng HDMI                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                             |
+
+| - Ngõ vào audio: ≥ 1 HDMI, ≥ 1 cổng Microphone, 1 cổng line in jack;                                                                                                                                               |                                                                                                                                                                                                                                                                                             |
+
+| - Ngõ ra audio : ≥ 2 HDMI, ≥ 1 cổng line out jack.                                                                                                                                                                 |                                                                                                                                                                                                                                                                                             |
+
+| - Giao diện mạng: ≥ 2 cổng 10/100/1000 BaseT Full Duplex (RJ 45);                                                                                                                                                  |                                                                                                                                                                                                                                                                                             |
+
+| - Cổng điều khiển Camera PTZ VISCA RS-232                                                                                                                                                                          |                                                                                                                                                                                                                                                                                             |
+
+| 1.5                                                                                                                                                                                                                | Quality of Service (QOS):                                                                                                                                                                                                                                                                   |
+
+|                                                                                                                                                                                                                    | - Khả năng điều khiển luồng (flow control).                                                                                                                                                                                                                                                 |
+
+| - Hỗ trợ Diffserv, ToS và IP Precedence.                                                                                                                                                                           |                                                                                                                                                                                                                                                                                             |
+
+| - Giảm tốc độ khi mất gói (packet loss downspeeding);                                                                                                                                                              |                                                                                                                                                                                                                                                                                             |
+
+| - Các chính sách phục hồi khi mất gói (packet loss recovery).                                                                                                                                                      |                                                                                                                                                                                                                                                                                             |
+
+| 1.6                                                                                                                                                                                                                | Quản lý và sử dụng:                                                                                                                                                                                                                                                                         |
+
+|                                                                                                                                                                                                                    | - Quản lý và cấu hình thiết bị qua giao diện web từ phần mềm trình duyệt.                                                                                                                                                                                                                   |
+
+| - Điều khiển từ xa.                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                             |
+
+| - Hỗ trợ giao diện API                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                             |
+
+|                                                                                                                                                                                                                    | - Hỗ trợ tích hợp MCU mềm với khả năng kết nối tối thiểu đến 4 điểm HDCP 1080p@30fps                                                                                                                                                                                                        |
+
+| 2                                                                                                                                                                                                                  | Camera                                                                                                                                                                                                                                                                                      |
+
+|                                                                                                                                                                                                                    | - Góc quan sát rộng: ≥50 độ. - Dải quay ngang tối thiểu +100/-100 độ.                                                                                                                                                                                                                       |
+
+| - Góc quay dọc (Tilt): Tối thiểu +25/-25 độ.                                                                                                                                                                       |                                                                                                                                                                                                                                                                                             |
+
+| - Zoom : tối thiểu 5x zoom quang học.                                                                                                                                                                              |                                                                                                                                                                                                                                                                                             |
+
+| - Tự động lấy nét.                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                             |
+
+| - Camera độ phân giải full HD 1080p@60fps.                                                                                                                                                                         |                                                                                                                                                                                                                                                                                             |
+
+| - Vị trí đặt trước của Camera: tối thiểu ≥100 vị trí                                                                                                                                                               |                                                                                                                                                                                                                                                                                             |
+
+| - Hỗ trợ điều khiển camera đầu xa theo chuẩn H.224, H.281.                                                                                                                                                         |                                                                                                                                                                                                                                                                                             |
+
+| 3                                                                                                                                                                                                                  | Âm thanh phòng họp                                                                                                                                                                                                                                                                          |
+
+| 3.1                                                                                                                                                                                                                | Amplier kèm Mixer                                                                                                                                                                                                                                                                           |
+
+|                                                                                                                                                                                                                    | Công suất ra loa định mức ≥ 240W                                                                                                                                                                                                                                                            |
+
+| Đáp tuyến tần số (Frequency response) ≥ 50Hz                                                                                                                                                                       |                                                                                                                                                                                                                                                                                             |
+
+| Đầu vào âm thanh (Audio input) ≥ 3                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                             |
+
+| Đầu ra âm thanh (Audio output) ≥ 1                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                             |
+
+| Điện áp hoạt động: 220 VAC 50 Hz hoặc 60 Hz                                                                                                                                                                        |                                                                                                                                                                                                                                                                                             |
+
+| 3.2                                                                                                                                                                                                                | Loa (Speaker)                                                                                                                                                                                                                                                                               |
+
+|                                                                                                                                                                                                                    | Công suất đáp ứng (01 loa): ≥ 30W/1 Loa                                                                                                                                                                                                                                                     |
+
+| Tổng Công suất loa: ≥ 240 W                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                             |
+
+| Kiểu dáng: treo tường/âm trần.                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                             |
+
+| 3.3                                                                                                                                                                                                                | Microphone                                                                                                                                                                                                                                                                                  |
+
+|                                                                                                                                                                                                                    | - Micro để bàn loại có dây                                                                                                                                                                                                                                                                  |
+
+| - Công nghệ: Công nghệ xử lý kỹ thuật số                                                                                                                                                                           |                                                                                                                                                                                                                                                                                             |
+
+| - Đáp tuyến tần số: ≥ 25Hz và ≤ 20kHz                                                                                                                                                                              |                                                                                                                                                                                                                                                                                             |
+
+| - Nút tắt bật Mic: Phím cứng/Cảm ứng                                                                                                                                                                               |                                                                                                                                                                                                                                                                                             |
+
+| - Có đèn báo trạng thái tắt, bật mic                                                                                                                                                                               |                                                                                                                                                                                                                                                                                             |
+
+| 4                                                                                                                                                                                                                  | Tivi                                                                                                                                                                                                                                                                                        |
+
+|                                                                                                                                                                                                                    | - Độ lớn màn hình: tối thiểu 40 inches                                                                                                                                                                                                                                                      |
+
+| - Độ phân giải Full HD (1920x1080)                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                             |
+
+| - Cổng kết nối HDMI ≥ 1                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                             |
+
+| 5                                                                                                                                                                                                                  | Máy chiếu kèm màn hình                                                                                                                                                                                                                                                                      |
+
+|                                                                                                                                                                                                                    | - Dạng Panel LCD, tỷ lệ hình ảnh : 4:3; 5:4;                                                                                                                                                                                                                                                |
+
+| - Đèn chiếu: 275W UHP; Độ sáng tối đa: 5000 lumens; Hệ số tương phản: 2000:1; Màn chiếu điện 150"; Độ phân giải màn hình WXGA;                                                                                     |                                                                                                                                                                                                                                                                                             |
+
+| - Cổng kết nối HDMI ≥ 1                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                             |
+
+| 6                                                                                                                                                                                                                  | Thiết bị lưu điện                                                                                                                                                                                                                                                                           |
+
+|                                                                                                                                                                                                                    | - Loại: Online technology/Line-interactive                                                                                                                                                                                                                                                  |
+
+| - Công suất: 1400 Watts / 2000 VA                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                             |
+
+| - Điện áp vào: 230V điện áp danh định                                                                                                                                                                              |                                                                                                                                                                                                                                                                                             |
+
+| - Điện áp ra: Cho phép cấu hình điện áp danh định 220, 230 hoặc 240V, độ méo điện áp ra nhỏ hơn 5%                                                                                                                 |                                                                                                                                                                                                                                                                                             |
+
+| - Thời gian lưu điện tối đa: 5 phút                                                                                                                                                                                |                                                                                                                                                                                                                                                                                             |
+
+| 7                                                                                                                                                                                                                  | Máy tính vận hành hệ thống                                                                                                                                                                                                                                                                  |
+
+|                                                                                                                                                                                                                    | - Loại máy tính: Laptop                                                                                                                                                                                                                                                                     |
+
+| - CPU: Tối thiểu CoreTM i5                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                             |
+
+| - RAM: Tối thiểu 4 GB                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                             |
+
+| - Đĩa cứng: Tối thiểu 500 GB                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                             |
+
+| - Kích thước màn hình: Tối thiểu 14 inch                                                                                                                                                                           |                                                                                                                                                                                                                                                                                             |
+
+| - Độ phân giải: Tối thiểu 720p (1280x720 pixels)                                                                                                                                                                   |                                                                                                                                                                                                                                                                                             |
+
+| - Cổng giao tiếp: 2xUSB 2.0, 1xVGA, 1xHDMI, 1 x headphone/microphone (jack 3.5mm)                                                                                                                                  |                                                                                                                                                                                                                                                                                             |
+
+| - LAN: 1xRJ45 10/100/1000Mbps                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                             |
+
+| - Chuẩn WiFi: 802.11b/g/n                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                             |
+
+| - PIN/Battery: Tối thiểu 4 cell                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                             |
+
+| - Hệ điều hành, phần mềm sẵn có/OS: Windows 10 bản quyền.                                                                                                                                                          |                                                                                                                                                                                                                                                                                             |
+
+| C                                                                                                                                                                                                                  | ĐƯỜNG TRUYỀN VÀ AN TOÀN BẢO MẬT THÔNG TIN                                                                                                                                                                                                                                                   |
+
+| 1                                                                                                                                                                                                                  | Đường truyền dữ liệu MPLS/VPN Layer 3                                                                                                                                                                                                                                                       |
+
+|                                                                                                                                                                                                                    | - Kênh truyền sử dụng công nghệ MPLS/VPN layer3: Băng thông tại điểm cầu: 4Mbps; Băng thông tại điểm uplink: 4Mbps x số lượng điểm cầu.                                                                                                                                                     |
+
+| - Phương tiện truyền dẫn cho toàn bộ kênh truyền là truyền dẫn quang                                                                                                                                               |                                                                                                                                                                                                                                                                                             |
+
+| - Kênh truyền liên tỉnh phải được kết nối trên hệ thống thiết bị truyền dẫn tiên tiến, có vòng Ring bảo vệ và dự phòng 1+1 để đảm bảo chất lượng đường truyền.                                                     |                                                                                                                                                                                                                                                                                             |
+
+| Đảm bảo chất lượng kênh truyền: - Băng thông: >=95%; - Tính sẵn sàng: >=99.2% - Độ trễ: <=60ms; - Mất gói tin: <=0,1% - Thời gian khắc phục sự cố: <=4 giờ - Thời gian lắp đặt: 45 ngày                            |                                                                                                                                                                                                                                                                                             |
+
+| 2                                                                                                                                                                                                                  | An toàn thông tin: Chống tấn công DdoS Volume-Based trên kênh truyền                                                                                                                                                                                                                        |
+
+|                                                                                                                                                                                                                    | - Hệ thống chống tấn công DDoS Volume-Based được đặt trong Hệ thống mạng lõi của nhà mạng, Đơn vị cung cấp vận hành giám sát, bảo vệ cho chủ đầu tư, chủ đầu tư không cần đầu tư tài nguyên, bố trí nhân sự vận hành giám sát                                                               |
+
+| - Hệ thống vận hành giám sát 24/7, phát hiện, phát hiện và ngăn chặn các đợt tấn công gây tràn băng thông, gián đoạn đường truyền cho tất cả các điểm theo phạm vi cung cấp.                                       |                                                                                                                                                                                                                                                                                             |
+
+| - Phát hiện và cảnh báo các cuộc tấn công DDOS băng thông lớn, cảnh báo đến người quản trị bằng SMS hoặc email                                                                                                     |                                                                                                                                                                                                                                                                                             |
+
+| - Thời gian phát hiện tấn công dưới 2 phút.                                                                                                                                                                        |                                                                                                                                                                                                                                                                                             |
+
+| - Phát hiện và cảnh báo tấn công làm nghẽn uplink theo từng interface, xử lý nghẽn link trực tiếp qua portal                                                                                                       |                                                                                                                                                                                                                                                                                             |
+
+| - Giảm thiểu các kiểu tấn công băng thông lớn như: UDP flood, ICMP flood, SYN Flood, DNS Amplification, NTP Amplification...                                                                                       |                                                                                                                                                                                                                                                                                             |
+
+| - Xử lý các cuộc tấn công băng thông lớn lên đến 40Gbps hoặc các luồng tấn công đến 10 triệu pps                                                                                                                   |                                                                                                                                                                                                                                                                                             |
+
+STT
+
+THIẾT BỊ, TIÊU CHUẨN KỸ THUẬT
+
+A
+
+PHÒNG MÁY TRUNG TÂM
+
+1
+
+Thiết bị điều khiển đa điểm MCU providing
+
+1.1
+
+Yêu cầu chung:
+
+- Hỗ trợ các độ phân giải HD 720p và HD 1080p với tốc độ khung hình hỗ trợ tới 60fps;
+
+- Tương thích và có khả năng tích hợp với hệ thống MCU của Chính phủ (Hiện tại hệ thống hội nghị trực tuyến của Chính phủ đang sử dụng thiết bị MCU Scopia Radvision);
+
+- Tương thích với các sản phẩm đầu cuối của các hãng khác nhau bao gồm Avaya/Scopia Radvison, Polycom, Lifesize, Cisco/Tandberg, Sony ...
+
+- Hỗ trợ khả năng kết nối đến các hệ thống TP (TelePresence) của các hãng khác nhau như Avaya/Scopia Radvison, Polycom, Lifesize, Cisco/Tandberg, ...
+
+- Hỗ trợ chuẩn H.264 SVC, H.264 Hight Profile
+
+1.2
+
+Yêu cầu kỹ thuật chi tiết:
+
+- Hỗ trợ các giao thức H.323, H.320, SIP. Hỗ trợ các giao thức IPV4, IPV6;
+
+- Cho phép hiển thị đồng thời đến tối thiểu 28 điểm cầu trên một màn hình hiển thị
+
+- Cho phép hiển thị tối thiểu 24 kiểu hiển thị khác nhau (layout)
+
+- Hỗ trợ các chuẩn mã hóa video theo H.261, H.263, H.263+, H.264, H.264 High profile và H.264 SVC;
+
+- Hỗ trợ các chuẩn mã hóa audio theo G.711, G.722, G.722.1, G.729, MPEG4 AAC-LC, Polycom Siren 14/G.722.1 Annex C;
+
+- Hỗ trợ H.239 (H.323) and BFCP (SIP) chia sẻ dữ liệu thuyết trình
+
+- Độ phân giải hình ảnh của các kênh trình chiếu nội dung có thể hỗ trợ đến WUXGA
+
+- Hỗ trợ khả năng dự phòng mạng bằng việc cho phép kết nối MCU đến 2 mạng khác nhau. Khi kết nối mạng chính bị lỗi, kết nối dự phòng sẽ được kích hoạt;
+
+- Xác thực truy nhập MCU được thực hiện qua tên truy nhập và mật khẩu với các mức truy nhập khác nhau Tương ứng với các quyền hạn khác nhau.
+
+2
+
+Hệ thống quản lý, lập lịch cuộc họp, điều khiển cân bằng tải, Hệ thống H.323 Gatekeeper
+
+2.1
+
+Hình thức:
+
+- Hệ thống quản lý lập lịch được cung cấp ở dạng phần mềm cài đặt trên các máy chủ thương mại hoặc được đóng gói thành dưới dạng thiết bị thương mại của hãng
+
+2.2
+
+Giao diện và chức năng điều khiển:
+
+- Điều khiển trên nền giao diện web, cho phép quản lý tập trung, điều khiển và giám sát mọi thành phần của hệ thống video trên mạng lưới (từ các thiết bị đầu cuối, thiết bị Gateway đến các thiết bị MCU, Gatekeeper);
+
+2.3
+
+Yêu cầu kỹ thuật chi tiết:
+
+- Hỗ trợ khả năng quản lý các loại thiết bị đầu cuối của nhiều hãng khác nhau Polycom, Avaya/Radvision, Cisco/Tanberg, Lifesize, Sony...
+
+- Có thể quản lý việc vận hành, nâng cấp, cấu hình các thiết bị đầu cuối HNTH trên mạng;
+
+- Cung cấp các công cụ điều khiển các phiên họp như khởi tạo, thay đổi layout, mời các bên tham gia, kết thúc hội nghị...
+
+- Hỗ trợ đăng ký hoặc định kỳ các phiên họp, thông báo bằng email đến các bên tham gia hội nghị;
+
+- Chức năng lập lịch được tích hợp với Microsoft Outlook;
+
+- Hỗ trợ khả năng quản lý tài nguyên của MCU, Gateway và Gatekeeper;
+
+- H.323 GateKeeper được cung cấp dưới dạng phần mềm cài đặt trên các máy chủ thương mại;
+
+- Gatekeeper hỗ trợ khả năng quản lý băng thông các cuộc gọi giữa các vùng
+
+- Cho phép thiết lập băng thông tối đa cho mỗi thiết bị đầu cuối (endpoint) hoặc các nhóm thiết bị đầu cuối;
+
+- GateKeeper cho phép thiết lập các chính sách phản hồi cuộc gọi (callfallback);
+
+- Hỗ trợ khả năng định tuyến với chi phí thấp nhất (Least Cost Routing);
+
+- Hỗ trợ khả năng tìm kiếm nhóm (group hunting) và tìm kiếm hội nghị (conference hunting);
+
+- GateKeeper hỗ trợ khả năng tự động tìm kiếm các tài nguyên khả dụng, nhằm đảm bảo các dịch vụ yêu cầu của người dùng được định tuyến tới các tài nguyên mạng khả dụng.
+
+3
+
+Thiết bị ghi kênh
+
+3.1
+
+Yêu Cầu chung:
+
+- Ghi lại nội dung cuộc họp với đầy đủ âm thanh, hình ảnh, dữ liệu trình chiếu. Hỗ trợ H.239 hoặc SIP BFCP;
+
+3.2
+
+Yêu cầu kỹ thuật ghi:
+
+- Ghi dung lượng cao tối đa 5 phiên đồng thời (5 kênh HD được cấp bản quyền của hãng sản xuất);
+
+- Chuyển mã các cuộc gọi theo định dạng Windos Media (.wmv) hoặc H.264 (.mp4).
+
+3.3
+
+Yêu cầu phát lại:
+
+- Hỗ trợ việc phát lại tới người dùng có quyền xác thực hoặc tới cả người dùng công cộng khác (có hoặc không có mã PIN xác thực);
+
+- Hỗ trợ khả năng tải các cuộc họp về và xem lại ở chế độ offline;
+
+4
+
+Switch 24 cổng 10/100/1000 kèm 4 cổng SFP
+
+LAN port: 24 ports 10/100/1000Mbps
+
+SFP port: 4 ports 1000Mbps
+
+Switching capacity: ≥ 88 Gbps
+
+Forwarding Rate: ≥ 35 Mpps
+
+- >= 256 MB DRAM
+
+- >= 64 MB Flash
+
+Virtual LAN function:
+
++ Support IEEE802.1Q and Port-based VLAN assignment
+
++ ≥ 1000 Virtual LANs
+
+MAC capacity: ≥ 2000
+
+Route Entries: ≥ 2000
+
+Loop preventing function:
+
++ Spanning Tree Transparent Bridging (IEEE 802.1d)
+
++ Rapid Spanning Tree Transparent Bridging (IEEE 802.1w)
+
++ MST - multiple Spanning Tree (IEEE 802.1s)
+
++ Hỗ trợ Per VLAN Spanning Tree
+
+Network communication protocols:
+
++ TCP/IP
+
++ Hỗ trợ VRRP, HSRP
+
+Chức năng bảo mật:
+
++ Hạn chế số lượng MAC address trên mỗi cổng
+
++ Hỗ trợ tính năng ACL: Vlan ACL, IP extended ACL
+
++ Hỗ trợ IEEE 802.1x authentication
+
+Stack: Hỗ trợ tính năng stack (ghép nhiều thiết bị thành 1 thiết bị ảo để tăng tính dự phòng), có cáp stack đi kèm
+
+Định tuyến: Định tuyến tĩnh, OSPF, EIGRP
+
+Chức năng cấu hình (Configuration functions): Console/telne/ssh
+
+Giao thức quản lý mạng (Network management protocols): SNMP
+
+Cơ chế giám sát mạng (Network monitor mechanism): Syslog
+
+Nguồn điện: Nguồn AC 200-240VAC/50Hz-60Hz
+
+5
+
+Thiết bị lưu điện
+
+- Loại: Online technology/Line-interactive
+
+- Công suất: 4000 Watts / 5000 VA hoặc 3500 Watts / 5000VA
+
+- Điện áp vào: 230V điện áp danh định
+
+- Điện áp ra: Cho phép cấu hình điện áp danh định 220, 230 hoặc 240V, độ méo điện áp ra nhỏ hơn 5%
+
+- Thời gian lưu điện tối đa: 15 phút
+
+6
+
+Rack 42U cho phòng máy
+
+- Tham chiếu tiêu chuẩn ANSI/EIA 310-D;
+
+- Chiều cao 42U;
+
+- Cửa sau: 1 cánh thông gió, cửa hông: 4 cánh với thiết kế 2 phần trên/dưới
+
+B
+
+BỘ THIẾT BỊ CHO PHÒNG HỌP
+
+1
+
+Codec
+
+1.1
+
+Yêu cầu chung:
+
+- Thiết bị Video Conferencing chuyên dụng, phù hợp sử dụng cho nhiều loại phòng họp.
+
+- Thiết bị đã bao gồm camera 1080p@60fps, microphone, điều khiển từ xa và có khả năng kết hợp với các hệ thống thu hình, trang âm bên ngoài.
+
+1.2
+
+Video:
+
+- Hỗ trợ các chuẩn: H.263, H.263+, H.263++, H.264, H.264 HighProfile, H.264 SVC.
+
+- Hỗ trợ các độ phân giải SIF, CIF, 4SIF, 4CIF, w448p, w576p, 720p và 1080p.
+
+- Hỗ trợ các tốc độ khung hình 25fps, 30fps, 50fps, 60fps.
+
+- Hỗ trợ trình chiếu số liệu theo chuẩn H.239 (H.323); BFCP (SIP).
+
+- Hỗ trợ tích hợp MCU mềm với khả năng kết nối đến tối thiểu 4 điểm HDCP 1080p@30fps
+
+1.3
+
+Audio
+
+- Âm thanh độ phân giải cao: Hỗ trợ đầy đủ các chuẩn Audio: G.711, G.722, G.722.1 Annex C, G.728, G.729A, G.719, AAC-LD.
+
+- Công nghệ khử tiếng vọng.
+
+- Tự động giảm nhiễu và tạp âm.
+
+- Tự động điều khiển khuếch đại.
+
+1.4
+
+Giao diện:
+
+- Ngõ vào Video: ≥ 1 cổng HDMI, ≥ 1 cổng DVI -I;
+
+- Ngõ ra Vi deo: ≥ 2 cổng HDMI
+
+- Ngõ vào audio: ≥ 1 HDMI, ≥ 1 cổng Microphone, 1 cổng line in jack;
+
+- Ngõ ra audio : ≥ 2 HDMI, ≥ 1 cổng line out jack.
+
+- Giao diện mạng: ≥ 2 cổng 10/100/1000 BaseT Full Duplex (RJ 45);
+
+- Cổng điều khiển Camera PTZ VISCA RS-232
+
+1.5
+
+Quality of Service (QOS):
+
+- Khả năng điều khiển luồng (flow control).
+
+- Hỗ trợ Diffserv, ToS và IP Precedence.
+
+- Giảm tốc độ khi mất gói (packet loss downspeeding);
+
+- Các chính sách phục hồi khi mất gói (packet loss recovery).
+
+1.6
+
+Quản lý và sử dụng:
+
+- Quản lý và cấu hình thiết bị qua giao diện web từ phần mềm trình duyệt.
+
+- Điều khiển từ xa.
+
+- Hỗ trợ giao diện API
+
+- Hỗ trợ tích hợp MCU mềm với khả năng kết nối tối thiểu đến 4 điểm HDCP 1080p@30fps
+
+2
+
+Camera
+
+- Góc quan sát rộng: ≥50 độ.
+
+- Dải quay ngang tối thiểu +100/-100 độ.
+
+- Góc quay dọc (Tilt): Tối thiểu +25/-25 độ.
+
+- Zoom : tối thiểu 5x zoom quang học.
+
+- Tự động lấy nét.
+
+- Camera độ phân giải full HD 1080p@60fps.
+
+- Vị trí đặt trước của Camera: tối thiểu ≥100 vị trí
+
+- Hỗ trợ điều khiển camera đầu xa theo chuẩn H.224, H.281.
+
+3
+
+Âm thanh phòng họp
+
+3.1
+
+Amplier kèm Mixer
+
+Công suất ra loa định mức ≥ 240W
+
+Đáp tuyến tần số (Frequency response) ≥ 50Hz
+
+Đầu vào âm thanh (Audio input) ≥ 3
+
+Đầu ra âm thanh (Audio output) ≥ 1
+
+Điện áp hoạt động: 220 VAC 50 Hz hoặc 60 Hz
+
+3.2
+
+Loa (Speaker)
+
+Công suất đáp ứng (01 loa): ≥ 30W/1 Loa
+
+Tổng Công suất loa: ≥ 240 W
+
+Kiểu dáng: treo tường/âm trần.
+
+3.3
+
+Microphone
+
+- Micro để bàn loại có dây
+
+- Công nghệ: Công nghệ xử lý kỹ thuật số
+
+- Đáp tuyến tần số: ≥ 25Hz và ≤ 20kHz
+
+- Nút tắt bật Mic: Phím cứng/Cảm ứng
+
+- Có đèn báo trạng thái tắt, bật mic
+
+4
+
+Tivi
+
+- Độ lớn màn hình: tối thiểu 40 inches
+
+- Độ phân giải Full HD (1920x1080)
+
+- Cổng kết nối HDMI ≥ 1
+
+5
+
+Máy chiếu kèm màn hình
+
+- Dạng Panel LCD, tỷ lệ hình ảnh : 4:3; 5:4;
+
+- Đèn chiếu: 275W UHP; Độ sáng tối đa: 5000 lumens; Hệ số tương phản: 2000:1; Màn chiếu điện 150"; Độ phân giải màn hình WXGA;
+
+- Cổng kết nối HDMI ≥ 1
+
+6
+
+Thiết bị lưu điện
+
+- Loại: Online technology/Line-interactive
+
+- Công suất: 1400 Watts / 2000 VA
+
+- Điện áp vào: 230V điện áp danh định
+
+- Điện áp ra: Cho phép cấu hình điện áp danh định 220, 230 hoặc 240V, độ méo điện áp ra nhỏ hơn 5%
+
+- Thời gian lưu điện tối đa: 5 phút
+
+7
+
+Máy tính vận hành hệ thống
+
+- Loại máy tính: Laptop
+
+- CPU: Tối thiểu CoreTM i5
+
+- RAM: Tối thiểu 4 GB
+
+- Đĩa cứng: Tối thiểu 500 GB
+
+- Kích thước màn hình: Tối thiểu 14 inch
+
+- Độ phân giải: Tối thiểu 720p (1280x720 pixels)
+
+- Cổng giao tiếp: 2xUSB 2.0, 1xVGA, 1xHDMI, 1 x headphone/microphone (jack 3.5mm)
+
+- LAN: 1xRJ45 10/100/1000Mbps
+
+- Chuẩn WiFi: 802.11b/g/n
+
+- PIN/Battery: Tối thiểu 4 cell
+
+- Hệ điều hành, phần mềm sẵn có/OS: Windows 10 bản quyền.
+
+C
+
+ĐƯỜNG TRUYỀN VÀ AN TOÀN BẢO MẬT THÔNG TIN
+
+1
+
+Đường truyền dữ liệu MPLS/VPN Layer 3
+
+- Kênh truyền sử dụng công nghệ MPLS/VPN layer3: Băng thông tại điểm cầu: 4Mbps; Băng thông tại điểm uplink: 4Mbps x số lượng điểm cầu.
+
+- Phương tiện truyền dẫn cho toàn bộ kênh truyền là truyền dẫn quang
+
+- Kênh truyền liên tỉnh phải được kết nối trên hệ thống thiết bị truyền dẫn tiên tiến, có vòng Ring bảo vệ và dự phòng 1+1 để đảm bảo chất lượng đường truyền.
+
+Đảm bảo chất lượng kênh truyền:
+
+- Băng thông: >=95%;
+
+- Tính sẵn sàng: >=99.2%
+
+- Độ trễ: <=60ms;
+
+- Mất gói tin: <=0,1%
+
+- Thời gian khắc phục sự cố: <=4 giờ
+
+- Thời gian lắp đặt: 45 ngày
+
+2
+
+An toàn thông tin: Chống tấn công DdoS Volume-Based trên kênh truyền
+
+- Hệ thống chống tấn công DDoS Volume-Based được đặt trong Hệ thống mạng lõi của nhà mạng, Đơn vị cung cấp vận hành giám sát, bảo vệ cho chủ đầu tư, chủ đầu tư không cần đầu tư tài nguyên, bố trí nhân sự vận hành giám sát
+
+- Hệ thống vận hành giám sát 24/7, phát hiện, phát hiện và ngăn chặn các đợt tấn công gây tràn băng thông, gián đoạn đường truyền cho tất cả các điểm theo phạm vi cung cấp.
+
+- Phát hiện và cảnh báo các cuộc tấn công DDOS băng thông lớn, cảnh báo đến người quản trị bằng SMS hoặc email
+
+- Thời gian phát hiện tấn công dưới 2 phút.
+
+- Phát hiện và cảnh báo tấn công làm nghẽn uplink theo từng interface, xử lý nghẽn link trực tiếp qua portal
+
+- Giảm thiểu các kiểu tấn công băng thông lớn như: UDP flood, ICMP flood, SYN Flood, DNS Amplification, NTP Amplification...
+
+- Xử lý các cuộc tấn công băng thông lớn lên đến 40Gbps hoặc các luồng tấn công đến 10 triệu pps

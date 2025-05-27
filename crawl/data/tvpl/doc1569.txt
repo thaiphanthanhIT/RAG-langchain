@@ -1,0 +1,2215 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 1223/QĐ-BTC | Hà Nội, ngày 27 tháng 07 năm 2018                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 1223/QĐ-BTC
+
+Hà Nội, ngày 27 tháng 07 năm 2018
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH QUY CHẾ TRUYỀN NHẬN THÔNG TIN THU NỘP, HOÀN TRẢ NGÂN SÁCH NHÀ NƯỚC ĐIỆN TỬ GIỮA CƠ QUAN THUẾ, HẢI QUAN, TÀI CHÍNH VÀ KHO BẠC NHÀ NƯỚC
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Luật ngân sách nhà nước số 83/2015/QH13 ngày 25/06/2016 của Quốc hội;
+
+Căn cứ Luật quản lý thuế số 78/2006/QH10 ngày 29 tháng 11 năm 2006 và Luật sửa đổi, bổ sung một số điều của Luật quản lý thuế số 21/2012/QH13 ngày 20 tháng 11 năm 2012; Luật sửa đổi, bổ sung một số điều của các Luật về thuế số 71/2014/QH13 ngày 26 tháng 11 năm 2014; Luật sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng, Luật Thuế tiêu thụ đặc biệt và Luật quản lý thuế số 106/2016/QH13 ngày 6/4/2016 và các văn bản hướng dẫn thi hành;
+
+Căn cứ Luật Giao dịch điện tử số 51/2005/QH11 ngày 29/11/2005;
+
+Căn cứ Nghị định số 83/2013/NĐ-CP ngày 22/07/2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật quản lý thuế và Luật sửa đổi, bổ sung một số điều của Luật quản lý thuế; Nghị định số 91/2014/NĐ-CP ngày 01/10/2014 của Chính phủ sửa đổi, bổ sung một số điều tại các Nghị định quy định về thuế; Nghị định số 12/2015/NĐ-CP ngày 12/02/2015 của Chính phủ quy định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của các Luật về thuế và sửa đổi, bổ sung một số điều của các Nghị định về thuế;
+
+Căn cứ Nghị định số 156/2016/NĐ-CP ngày 21/11/2016 sửa đổi, bổ sung một số điều của Nghị định số 27/2007/NĐ-CP ngày 23/2/2007 của Chính phủ về giao dịch điện tử trong hoạt động Tài chính;
+
+Căn cứ Nghị định số 25/2017/NĐ-CP ngày 14/3/2017 của Chính phủ về Báo cáo tài chính nhà nước.
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Thông tư số 77/2017/TT-BTC ngày 28/7/2017 của Bộ Tài chính hướng dẫn Chế độ kế toán Ngân sách nhà nước và hoạt động nghiệp vụ Kho bạc Nhà nước;
+
+Căn cứ Thông tư số 84/2016/TT-BTC ngày 17/6/2016 của Bộ Tài chính hướng dẫn thủ tục thu nộp ngân sách nhà nước đối với các khoản thu nội địa;
+
+Căn cứ Thông tư số 184/2015/TT-BTC ngày 17/11/2015 của Bộ Tài chính quy định thủ tục về kê khai, bảo lãnh tiền thuế, thu nộp tiền thuế, tiền chậm nộp tiền phạt, tiền phí, lệ phí, các khoản thu khác, đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh và phương tiện xuất cảnh, nhập cảnh, quá cảnh;
+
+Căn cứ Thông tư số 328/2016/TT-BTC ngày 26/12/2016 của Bộ Tài chính hướng dẫn thu và quản lý các khoản thu ngân sách nhà nước qua Kho bạc Nhà nước;
+
+Căn cứ Thông tư số 99/2016/TT-BTC ngày 29/6/2016 của Bộ Tài chính hướng dẫn về quản lý hoàn thuế giá trị gia tăng; Thông tư số 31/2017/TT-BTC ngày 18/4/2017 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 99/2016/TT-BTC ngày 29/6/2016 của Bộ Tài chính hướng dẫn về quản lý hoàn thuế giá trị gia tăng;
+
+Căn cứ Thông tư số 18/2017/TT-BTC ngày 28/2/2017 của Bộ Tài chính Quy định Hệ thống Danh mục điện tử dùng chung trong lĩnh vực tài chính;
+
+Theo đề nghị của Tổng cục trưởng Tổng cục Thuế, Tổng cục trưởng Tổng cục Hải quan, Tổng giám đốc Kho bạc Nhà nước, Cục trưởng Cục Tin học và Thống kê Tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này “Quy chế truyền nhận thông tin thu nộp, hoàn trả ngân sách nhà nước điện tử giữa cơ quan Thuế, Hải quan, Tài chính và Kho bạc Nhà nước”.
+
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký, thay thế Quyết định số 1027/QĐ-BTC ngày 19/5/2009 của Bộ Tài chính về việc ban hành quy trình quản lý thu ngân sách nhà nước theo dự án hiện đại hóa thu, nộp ngân sách nhà nước, thay thế Quyết định số 654/QĐ-BTC ngày 02/04/2013 của Bộ Tài chính.
+
+Điều 3. Tổng giám đốc Kho bạc Nhà nước, Tổng cục trưởng Tổng cục Thuế, Tổng cục trưởng Tổng cục Hải quan, Cục trưởng Cục Tin học và Thống kê Tài chính, Cục trưởng Cục Kế hoạch - Tài chính, Vụ trưởng Vụ Pháp chế, Vụ trưởng Vụ Ngân sách Nhà nước, Chánh văn phòng Bộ Tài chính và các đơn vị thuộc hệ thống Thuế, Kho bạc Nhà nước, Hải quan, Tài chính chịu trách nhiệm thi hành quyết định này./.
+
+| Nơi nhận: - Như điều 3; - Sở Tài chính, Cục Thuế, Kho bạc Nhà nước, Cục Hải quan các tỉnh, thành phố trực thuộc Trung ương; - Lưu: VT, TCT (VT, CNTT, KK). | KT. BỘ TRƯỞNG THỨ TRƯỞNG Trần Xuân Hà |
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+
+Nơi nhận: - Như điều 3; - Sở Tài chính, Cục Thuế, Kho bạc Nhà nước, Cục Hải quan các tỉnh, thành phố trực thuộc Trung ương; - Lưu: VT, TCT (VT, CNTT, KK).
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Trần Xuân Hà
+
+QUY CHẾ
+
+TRUYỀN NHẬN THÔNG TIN THU NỘP, HOÀN TRẢ NGÂN SÁCH NHÀ NƯỚC ĐIỆN TỬ GIỮA CƠ QUAN THUẾ, HẢI QUAN, TÀI CHÍNH VÀ KHO BẠC NHÀ NƯỚC (Ban hành kèm theo Quyết định số 1223/QĐ-BTC ngày 27 tháng 07 năm 2018 của Bộ trưởng Bộ Tài chính)
+
+Phần I
+
+CÁC QUY ĐỊNH CHUNG
+
+1. Mục đích, đối tượng và phạm vi áp dụng
+
+a) Mục đích
+
+Thực hiện Chính phủ điện tử trong hoạt động của các cơ quan hành chính nhà nước cấp độ 4 trong việc truyền nhận thông tin thu nộp, hoàn trả ngân sách nhà nước giữa các cơ quan trong ngành Tài chính nhằm đảm bảo mục tiêu, yêu cầu của các Nghị quyết của Chính phủ, theo đó các cơ quan trong ngành Tài chính thực hiện truyền nhận thông tin hạch toán thu nộp, hoàn trả ngân sách nhà nước bằng phương thức điện tử, tự động từ khi tiếp nhận, xử lý, hạch toán, kiểm tra, kiểm soát và báo cáo trong mỗi cơ quan và thống nhất trong toàn ngành Tài chính.
+
+b) Đối tượng áp dụng
+
+- Cơ quan Thuế: Tổng cục Thuế, Cục Thuế tỉnh, thành phố trực thuộc Trung ương, Chi cục Thuế.
+
+- Cơ quan Hải quan: Tổng cục Hải quan, Cục Hải quan tỉnh, thành phố trực thuộc Trung ương, Chi cục Hải quan.
+
+- Kho bạc Nhà nước: Kho bạc Nhà nước; Sở Giao dịch Kho bạc Nhà nước; Kho bạc Nhà nước tỉnh, thành phố trực thuộc trung ương; Kho bạc Nhà nước quận, huyện, thị xã, thành phố trực thuộc tỉnh.
+
+- Cơ quan Tài chính: Vụ Ngân sách nhà nước thuộc Bộ Tài chính; Sở Tài chính tỉnh, thành phố trực thuộc trung ương; Phòng Tài chính quận, huyện, thị xã, thành phố trực thuộc tỉnh.
+
+- Cục Tin học và Thống kê Tài chính thuộc Bộ Tài chính.
+
+c) Phạm vi áp dụng
+
+Việc truyền nhận thông tin thu nộp, hoàn trả ngân sách nhà nước điện tử giữa cơ quan Thuế, Hải quan, Tài chính và Kho bạc Nhà nước được áp dụng đối với các thông tin sau:
+
+- Thông tin về số thuế phải thu ngân sách nhà nước và số thuế phải hoàn ngân sách nhà nước do cơ quan Thuế hạch toán.
+
+- Thông tin liên quan đến chứng từ thu nộp, hoàn trả ngân sách nhà nước của người nộp thuế, tổ chức thu do cơ quan Thuế, cơ quan Hải quan, cơ quan Tài chính quản lý được hạch toán tập trung tại Kho bạc Nhà nước, bao gồm:
+
++ Thông tin về chứng từ thu nộp ngân sách nhà nước của người nộp thuế, tổ chức thu do cơ quan Thuế, cơ quan Hải quan, cơ quan Tài chính quản lý.
+
++ Thông tin về chứng từ hoàn trả tiền thuế và các khoản thu khác ngân sách cho người nộp thuế và các tổ chức khác (bao gồm hoàn từ dự toán hoàn thuế giá trị gia tăng và hoàn trả từ ngân sách nhà nước các cấp).
+
+- Thông tin truyền nhận theo quy định tại Quyết định số 2413/QĐ-BTC ngày 23/11/2017 của Bộ Tài chính về việc ban hành Quy chế trao đổi thông tin và phối hợp công tác giữa cơ quan Hải quan và cơ quan Thuế.
+
+- Thông tin báo cáo tổng hợp kết quả thu nộp, hoàn trả ngân sách của cơ quan Thuế, cơ quan Hải quan, cơ quan Tài chính, Kho bạc Nhà nước theo định kỳ ngày, tháng, năm, quyết toán năm ngân sách theo quy định của Bộ Tài chính.
+
+- Thông tin báo cáo tài chính cơ quan Thuế, cơ quan Hải quan, cơ quan Tài chính, Kho bạc Nhà nước theo quy định của Chính phủ về Báo cáo tài chính nhà nước.
+
+- Thông tin về đối chiếu, tra soát, điều chỉnh
+
++ Thông tin truyền nhận tra soát/trả lời tra soát; đề nghị điều chỉnh thông tin hạch toán thu nộp ngân sách nhà nước; đề nghị điều chỉnh thông tin chứng từ hoàn trả tiền thuế theo năm ngân sách (bao gồm hoàn từ dự toán hoàn thuế giá trị gia tăng và hoàn trả từ ngân sách nhà nước).
+
++ Thông tin truyền nhận đối soát gói tin số liệu truyền nhận về thu nộp, hoàn trả ngân sách, báo cáo giữa các cơ quan Thuế, cơ quan Hải quan, cơ quan Tài chính, Kho bạc Nhà nước.
+
+2. Một số từ ngữ sử dụng trong quy chế
+
+- Trung tâm trao đổi thông tin thu NSNN do Cục Tin học và Thống kê Tài chính trực tiếp quản lý, vận hành: có chức năng truyền và nhận dữ liệu của hệ thống Thuế, Hải quan, Tài chính, Kho bạc Nhà nước.
+
+- Cổng thông tin điện tử là điểm truy cập tập trung, tích hợp thông tin đến người nộp thuế, cho phép người nộp thuế thực hiện các thủ tục hành chính thuế theo quy định của Luật quản lý thuế; cung cấp các dịch vụ hỗ trợ người nộp thuế bằng phương thức giao dịch điện tử với Tổng cục Thuế, Tổng cục Hải quan, Kho bạc Nhà nước trên nền tảng web.
+
+- Gói tin là tập hợp dữ liệu bao gồm các trường thông tin được thiết lập theo chuẩn cấu trúc dữ liệu truyền nhận giữa các hệ thống thông tin và được mã hóa bằng ngôn ngữ tin học do các đơn vị thống nhất sử dụng.
+
+- KBNN viết tắt cụm từ “Kho bạc Nhà nước”.
+
+- NHTM viết tắt cụm từ “Ngân hàng thương mại”.
+
+- NNT viết tắt cụm từ “Người nộp thuế”.
+
+- NSNN viết tắt cụm từ “Ngân sách nhà nước”.
+
+- NDKT viết tắt cụm từ “Nội dung kinh tế”.
+
+- GTGT viết tắt cụm từ “Giá trị gia tăng”’.
+
+3. Nguyên tắc thực hiện
+
+a) Cơ quan Thuế, Hải quan, Tài chính và Kho bạc Nhà nước thực hiện truyền nhận thông tin thu nộp, hoàn trả ngân sách nhà nước theo phương thức điện tử trong phạm vi chức năng, nhiệm vụ, quyền hạn và chịu trách nhiệm về tính chính xác, đầy đủ, kịp thời của thông tin theo quy định tại Quyết định này và các quy định của pháp luật.
+
+b) Thông tin truyền nhận điện tử phải được đảm bảo về tính trung thực, toàn vẹn, an toàn, bảo mật trong quá trình truyền nhận; đảm bảo khả năng phục hồi, lưu trữ và khả năng khắc phục sự cố; đảm bảo tuân thủ các quy định về thông tin bí mật, tuyệt mật của nhà nước và ngành tài chính.
+
+c) Quy trình truyền nhận thông tin thu nộp, hoàn trả ngân sách nhà nước điện tử giữa cơ quan Thuế, Hải quan, Tài chính và Kho bạc Nhà nước được thực hiện thống nhất tại tất cả các cấp: trung ương, tỉnh, huyện theo đúng chức năng, nhiệm vụ và quyền hạn đã được pháp luật quy định đối với Tổng cục Thuế, Tổng cục Hải quan, cơ quan Tài chính và Kho bạc Nhà nước.
+
+d) Các cơ quan sử dụng chữ ký số trong việc truyền nhận thông tin thu nộp, hoàn trả ngân sách nhà nước.
+
+- Chữ ký số là chữ ký phải đảm bảo có hiệu lực trong thời gian các bên kết nối, truyền nhận thông tin điện tử theo quy định của nhà nước, ngành tài chính.
+
+- Chữ ký số sử dụng trong quá trình truyền nhận thông tin thu nộp, hoàn trả NSNN là chữ ký số đảm bảo tính pháp lý của chữ ký số sử dụng được quy định tại Luật giao dịch điện tử và các văn bản hướng dẫn thi hành, theo đó:
+
++ Dữ liệu thông tin thu nộp, hoàn trả NSNN trao đổi dưới dạng XML và có gắn chữ ký số của bên gửi có tính pháp lý tương đương như con dấu và chữ ký.
+
++ Dữ liệu thông tin thu nộp, hoàn trả NSNN có gắn chữ ký số tại Cổng thông tin điện tử của các bên trao đổi là cơ sở để thực hiện các thủ tục thu nộp, hoàn trả NSNN.
+
+- Đơn vị sử dụng chữ ký số có trách nhiệm thông báo bằng văn bản để các bên liên quan chấp nhận trong các giao dịch điện tử về thu nộp, hoàn trả ngân sách nhà nước; trường hợp thay đổi chữ ký số, thông báo bằng văn bản cho các bên liên quan trước ngày chữ ký số mới có hiệu lực ít nhất 5 ngày làm việc.
+
+- Quy định sử dụng chữ ký số trong truyền nhận thông tin thu nộp, hoàn trả NSNN điện tử như sau: Các thông tin thu nộp, hoàn trả NSNN được truyền nhận giữa các đơn vị trong ngành Tài chính phải sử dụng chữ ký số của cơ quan cấp Tổng cục Thuế, Tổng cục Hải quan, Kho bạc Nhà nước, Cục Tin học và Thống kê Tài chính (chữ ký số nhân danh).
+
+Trong đó, sử dụng thêm chữ ký số của người có thẩm quyền (chữ ký số đích danh) đối với các thông tin truyền nhận như sau: Thông tin số thuế đã thu (Bảng kê chứng từ nộp ngân sách); Thông tin số thuế phải hoàn trả; Thông tin số thuế đã hoàn (Bảng kê chứng từ hoàn thuế); Thông tin tra soát, điều chỉnh thông tin khoản thu nộp, khoản hoàn từ NSNN. Các đơn vị sử dụng chữ ký số nhân danh phải đảm bảo tính pháp lý đối với chữ ký số của người có thẩm quyền để đảm bảo an toàn, tránh bị lợi dụng về thông tin thu nộp, hoàn trả NSNN.
+
+đ) Các cơ quan tiếp nhận thông tin thu nộp, hoàn trả ngân sách nhà nước điện tử được sử dụng để thực hiện theo chức năng, nhiệm vụ của mình nhưng không được thay đổi dữ liệu và tính toàn vẹn của dữ liệu.
+
+e) Trường hợp có sự cố kỹ thuật kéo dài vượt quá thời gian quy định và không áp dụng được phương thức giao dịch điện tử, các bên tạm thời truyền nhận thông tin liên quan đến thu nộp, hoàn trả ngân sách nhà nước bằng phương thức phù hợp khác để bảo đảm có thông tin, dữ liệu kịp thời phục vụ công tác quản lý thu nộp, hoàn trả ngân sách nhà nước.
+
+g) Khi phát sinh vướng mắc, các bên phối hợp thống nhất phương pháp giải quyết kịp thời; nếu chưa thống nhất thì báo cáo cấp trên của mỗi cơ quan; nếu còn ý kiến khác thì báo cáo Bộ Tài chính.
+
+4. Xây dựng, phát triển hệ thống, kết nối tự động truyền nhận thông tin
+
+a) Cục Tin học và Thống kê Tài chính thuộc Bộ Tài chính có trách nhiệm xây dựng, duy trì, giám sát vận hành Trung tâm trao đổi thông tin thu NSNN; xây dựng hệ thống đảm bảo an toàn, bảo mật, sao lưu, dự phòng đối với Trung tâm trao đổi thông tin thu NSNN; thực hiện điều phối việc truyền nhận thông tin của cơ quan Thuế, Hải quan, Tài chính, Kho bạc Nhà nước qua Trung tâm trao đổi thông tin thu NSNN đảm bảo thông suốt, kịp thời.
+
+b) Cơ quan Thuế, Hải quan, Tài chính và Kho bạc Nhà nước có trách nhiệm xây dựng, phát triển các hệ thống thông tin, dữ liệu tập trung tại Tổng cục Thuế, Tổng cục Hải quan, Kho bạc Nhà nước; xây dựng hệ thống đảm bảo an toàn, bảo mật, sao lưu, dự phòng đối với hệ thống thông tin của từng đơn vị; xây dựng hệ thống kết nối, truyền nhận thông tin để tiếp nhận thông tin của các cơ quan khác và cung cấp thông tin cho các cơ quan có liên quan theo quy định tại Quyết định này.
+
+c) Trung tâm trao đổi thông tin thu NSNN là kênh kết nối truyền nhận chính thức giữa các đơn vị trong ngành Tài chính.
+
+Trong thời gian hệ thống trao đổi thông tin thu NSNN chưa được nâng cấp đáp ứng các nội dung quy định tại Quyết định này, các đơn vị: cơ quan Thuế, Hải quan, Tài chính và Kho bạc Nhà nước sẽ căn cứ vào hiện trạng hệ thống trao đổi thông tin của từng đơn vị để lựa chọn phương thức truyền nhận qua đường kết nối trực tiếp hoặc qua Trung tâm trao đổi thông tin thu NSNN.
+
+Sau khi Trung tâm trao đổi thông tin thu NSNN đã được nâng cấp, vận hành ổn định đáp ứng nội dung quy định tại Quyết định này thì Trung tâm trao đổi thông tin thu NSNN sẽ là kênh trao đổi chính thức giữa các đơn vị trong ngành Tài chính. Tuy nhiên, trường hợp có dữ liệu đặc thù phục vụ trao đổi riêng giữa hai đơn vị thì có thể thực hiện truyền nhận qua đường kết nối trực tiếp.
+
+5. Trách nhiệm của các cơ quan trong việc thực hiện quy trình truyền nhận thông tin thu, nộp, hoàn trả NSNN
+
+a) Cục Tin học và Thống kê Tài chính:
+
+- Đảm bảo duy trì, quản lý và cập nhật cơ sở dữ liệu danh mục dùng chung của ngành Tài chính phục vụ công tác thu nộp, hoàn trả NSNN theo phương thức điện tử giữa cơ quan Thuế, Hải quan, Tài chính và Kho bạc Nhà nước.
+
+- Tích hợp số liệu từ Trung tâm trao đổi thông tin thu NSNN vào Kho dữ liệu thu, chi ngân sách nhà nước để cung cấp các báo cáo tổng hợp số thu NSNN, đảm bảo tính nhất quán thông tin thu ngân sách, phục vụ công tác quản lý, điều hành của cơ quan Tài chính tại trung ương và địa phương.
+
+- Quản trị cơ sở dữ liệu, ứng dụng quản trị truyền tin và ứng dụng trao đổi thông tin tại Trung tâm trao đổi thông tin thu NSNN. Kiểm soát việc truyền, nhận dữ liệu; phát hiện kịp thời các lỗi và các trường hợp chậm, tắc trong truyền, nhận dữ liệu và phối hợp với các bên liên quan để có biện pháp giải quyết kịp thời.
+
+- Đảm bảo hạ tầng truyền thông, kết nối thông suốt trong việc truyền nhận dữ liệu của Trung tâm trao đổi thông tin thu NSNN.
+
+- Là đầu mối trao đổi, kết nối các đơn vị trong quá trình vận hành qua Trung tâm trao đổi thông tin thu NSNN.
+
+b) Cơ quan Thuế, Hải quan
+
+- Cung cấp thông tin về số thuế phải thu NSNN, số phải hoàn đầy đủ, chính xác và kịp thời sang Kho bạc Nhà nước.
+
+- Tiếp nhận thông tin về số thuế đã thu NSNN (bao gồm cả số đã thu do cơ quan Tài chính quản lý), số thuế đã hoàn từ Kho bạc Nhà nước truyền sang, đồng thời phản hồi thông tin về việc tiếp nhận thành công/ không thành công (trường hợp không thành công gửi kèm lý do không thành công) gửi sang Kho bạc Nhà nước.
+
+- Thực hiện cung cấp thông tin theo quy định tại Quyết định số 2413/QĐ-BTC ngày 23/11/2017 của Bộ Tài chính về việc ban hành Quy chế trao đổi thông tin và phối hợp công tác giữa cơ quan Hải quan và cơ quan Thuế và các văn bản sửa đổi, bổ sung (nếu có).
+
+- Kiểm soát việc truyền, nhận dữ liệu; phát hiện lỗi truyền, nhận dữ liệu và phối hợp với Kho bạc Nhà nước thực hiện việc tra soát/ trả lời tra soát; điều chỉnh thông tin thu, nộp và hoàn trả NSNN kịp thời, đúng thời gian quy định; đối chiếu báo cáo số thu NSNN kịp thời, đảm bảo khớp đúng về số đã nộp, đã hoàn NSNN trước khi khóa sổ kế toán thuế.
+
+- Phối hợp với Kho bạc Nhà nước, Cục Tin học và Thống kê Tài chính khắc phục các lỗi phát sinh (nếu có) trong quá trình truyền nhận thông tin thu, nộp và hoàn trả NSNN.
+
+c) Kho bạc Nhà nước
+
+- Sử dụng thông tin về số thuế phải thu nộp NSNN, số thuế phải hoàn do cơ quan Thuế, Hải quan cung cấp để phục vụ công tác thu NSNN, hoàn trả từ NSNN; Đồng thời, phản hồi thông tin về việc tiếp nhận thành công/ không thành công (trường hợp không thành công gửi kèm lý do không thành công) gửi sang cơ quan Thuế, Hải quan.
+
+- Truyền thông tin về số thuế đã thu NSNN và số thuế đã hoàn cho cơ quan Thuế, Hải quan, Tài chính.
+
+- Kiểm soát việc truyền, nhận dữ liệu; phát hiện lỗi truyền, nhận dữ liệu và phối hợp với các đơn vị trong ngành Tài chính khắc phục các lỗi phát sinh (nếu có) trong quá trình truyền nhận thông tin thu nộp NSNN và hoàn trả từ NSNN.
+
+- Phối hợp thực hiện đối soát truyền nhận thông tin với các đơn vị trong quá trình truyền nhận thông tin thu nộp, hoàn trả NSNN.
+
+d) Cơ quan Tài chính
+
+- Nhận dữ liệu phải thu NSNN từ cơ quan Thuế, cơ quan Hải quan truyền sang.
+
+- Truyền dữ liệu phải thu khác NSNN cho cơ quan Thuế.
+
+- Nhận dữ liệu về số đã thu NSNN và hoàn trả từ Kho bạc Nhà nước để thực hiện quản lý và điều hành ngân sách theo quy định.
+
+Phần II
+
+QUY ĐỊNH CỤ THỂ
+
+Mục A. TRUYỀN NHẬN THÔNG TIN GIỮA CƠ QUAN THUẾ VÀ KHO BẠC NHÀ NƯỚC
+
+1. Cung cấp thông tin số thuế phải thu NSNN do cơ quan Thuế quản lý
+
+a) Nội dung thông tin
+
+Thông tin cụ thể khoản phải thu NSNN bao gồm:
+
+(1) Mã và tên cơ quan Thuế quản lý khoản thu NSNN;
+
+(2) Mã và tên Kho bạc Nhà nước hạch toán khoản thu;
+
+(3) Số tham chiếu của khoản phải thu NSNN;
+
+(4) Mã số thuế và tên người nộp thuế;
+
+(5) Địa chỉ NNT;
+
+(6) Chương;
+
+(7) Tiểu mục;
+
+(8) Số tiền;
+
+(9) Đơn vị tiền;
+
+(10) Số quyết định/số thông báo;
+
+(11) Kỳ thuế/Ngày quyết định/ ngày thông báo;
+
+(12) Tài khoản NSNN/Tài khoản thu hồi hoàn thuế GTGT;
+
+(13) Nội dung khoản thu NSNN;
+
+(14) Mã địa bàn hành chính;
+
+b) Phương thức cung cấp thông tin
+
+Hàng ngày, Tổng cục Thuế cập nhật 2 lần/ngày và cung cấp thông tin số thuế phải thu do cơ quan thuế quản lý trên Cổng thông tin điện tử của Tổng cục Thuế.
+
+Kho bạc Nhà nước/Cơ quan Hải quan khai thác thông tin về số thuế phải nộp của NNT trên Cổng thông tin điện tử của Tổng cục Thuế phục vụ công tác thu nộp NSNN.
+
+2. Cung cấp thông tin số thuế đã thu ngân sách nhà nước
+
+a) Nội dung thông tin chứng từ thu NSNN
+
+Thông tin cụ thể khoản đã thu NSNN bao gồm:
+
+(1) Mã và tên Kho bạc Nhà nước hạch toán khoản thu;
+
+(2) Mã và tên cơ quan Thuế (cơ quan Tài chính) quản lý khoản thu NSNN;
+
+(3) Số tham chiếu của khoản thu;
+
+(4) Mã số thuế và tên người nộp thuế;
+
+(5) Số quyết định/số thông báo;
+
+(6) Kỳ thuế/Ngày quyết định/ ngày thông báo;
+
+(7) Tên cơ quan có thẩm quyền ban hành quyết định/ văn bản yêu cầu phải thu NSNN: Kiểm toán nhà nước, Thanh tra Tài chính, Thanh tra Chính phủ, cơ quan có thẩm quyền khác (nếu có);
+
+(8) Tên và mã ngân hàng/KBNN thực hiện giao dịch nộp thuế;
+
+(9) Ngày nộp thuế;
+
+(10) Số, ký hiệu chứng từ nộp thuế tạo bởi NHTM, KBNN thực hiện giao dịch nộp thuế; hoặc số, ký hiệu Lệnh hoàn trả kiêm bù trừ thu NSNN tạo bởi cơ quan Thuế;
+
+(11) Số và ký hiệu chứng từ điều chỉnh thu NSNN tạo bởi cơ quan quản lý khoản thu;
+
+(12) Tài khoản nợ/ Tài khoản có do KBNN hạch toán;
+
+(13) Ngày Kho bạc hạch toán chứng từ;
+
+(14) Niên độ KBNN hạch toán khoản đã thu;
+
+(15) Mã chương của khoản đã thu NSNN;
+
+(16) Mã tiểu mục của khoản đã thu NSNN;
+
+(17) Mã nguyên tệ;
+
+(18) Số tiền nguyên tệ;
+
+(19) Tỷ giá KBNN hạch toán thu NSNN;
+
+(20) Số tiền VND;
+
+(21) Số hiệu bảng kê/ gói chứng từ KBNN truyền sang cơ quan Thuế;
+
+(22) Ngày bảng kê/ gói chứng từ KBNN truyền sang cơ quan Thuế.
+
+b) Bảng kê chứng từ thu NSNN
+
+Bảng kê chứng từ thu NSNN được thực hiện theo mẫu số 04/BK-CTNNS ban hành theo Thông tư 77/2017/TT-BTC ngày 28/7/2017 của Bộ Tài chính hướng dẫn Chế độ kế toán Ngân sách nhà nước và hoạt động nghiệp vụ Kho bạc Nhà nước.
+
+c) Phương thức cung cấp thông tin
+
+c1) Cung cấp thông tin thông tin chứng từ thu NSNN
+
+Sau khi Kế toán trưởng của đơn vị Kho bạc Nhà nước ký duyệt chứng từ đối với các khoản thu trực tiếp tại Kho bạc Nhà nước, hệ thống TCS tự động truyền chứng từ thu ngân sách chậm nhất 15 phút/lần sang cơ quan Thuế qua đường kết nối trực tiếp giữa Tổng cục Thuế và Kho bạc Nhà nước.
+
+c2) Cung cấp thông tin tổng hợp các khoản thu NSNN theo ngày
+
+Cơ quan Kho bạc Nhà nước có trách nhiệm tập hợp thông tin đã thu ngân sách nhà nước đã được hạch toán thu NSNN để truyền sang cơ quan Thuế quản lý khoản thu bảng kê chứng từ nộp ngân sách nhà nước (mẫu số 04/BK-CTNNS ban hành kèm theo Thông tư 77/2017/TT-BTC ngày 28/7/2017 của Bộ Tài chính bằng phương thức điện tử chậm nhất là 10 giờ sáng ngày làm việc tiếp theo.
+
+Dữ liệu chứng từ đã thu NSNN phải bao gồm các thông tin theo quy định tại điểm 1 mục này.
+
+Dữ liệu chứng từ đã thu NSNN được truyền từ Kho bạc Nhà nước sang cơ quan Thuế thông qua Trung tâm trao đổi thông tin thu NSNN.
+
+3. Cung cấp thông tin số thuế phải hoàn do cơ quan Thuế quản lý
+
+a) Nội dung thông tin
+
+Thông tin cụ thể khoản phải hoàn từ NSNN bao gồm:
+
+(1) Số quyết định hoàn, ngày quyết định hoàn;
+
+(2) Số lệnh hoàn, ngày lệnh hoàn;
+
+(3) Mã và tên Kho bạc Nhà nước thực hiện lệnh hoàn;
+
+(4) Mã và tên cơ quan Thuế ban hành quyết định hoàn, lệnh hoàn;
+
+(5) Số tham chiếu của khoản phải hoàn;
+
+(6) Mã số thuế và tên người nộp thuế ứng với mã số thuế được hoàn thuế;
+
+(7) Địa chỉ NNT;
+
+(8) Hình thức hoàn trả;
+
+(9) Lý do hoàn trả;
+
+(10) Chi tiết nội dung hoàn trả:
+
+(10.1) Nội dung khoản nộp NSNN/chi hoàn thuế GTGT;
+
+(10.2) Mã NDKT;
+
+(10.3) Mã Chương;
+
+(10.4) KBNN nơi thu NSNN (đối với hoàn nộp thừa);
+
+(10.5) Năm ngân sách;
+
+(10.6) Số tiền đã nộp (đối với hoàn nộp thừa);
+
+(10.7) Số tiền được quyết định hoàn trả;
+
+(11) Khấu trừ khoản hoàn trả để thu NSNN:
+
+(11.1) Nội dung khoản thu NSNN;
+
+(11.2) Mã số thuế;
+
+(11.3) Số tờ khai/quyết định/thông báo;
+
+(11.4) Kỳ thuế/ngày tờ khai/quyết định/thông báo;
+
+(11.5) Mã tài khoản kế toán của KBNN;
+
+(11.6) Mã NDKT;
+
+(11.7) Mã chương;
+
+(11.8) Mã cơ quan thu;
+
+(11.9) Kho bạc Nhà nước nơi thu NSNN;
+
+(11.10) Số tiền thu NSNN;
+
+(12) Hoàn trả số tiền còn lại sau khi đã bù trừ khoản phải nộp NSNN:
+
+(12.1) Số tiền bằng số và chữ;
+
+(12.2) Tài khoản nhận tiền hoàn trả: Số và tên tài khoản; mã và tên ngân hàng/ KBNN giữ tài khoản;
+
+(12.3) Tên người nhận tiền mặt, số giấy chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu, nơi cấp giấy chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu;
+
+(13) Tên người lập lệnh hoàn;
+
+(14) Tên người ký lệnh hoàn;
+
+(15) Chức danh người ký lệnh hoàn;
+
+b) Phương thức cung cấp thông tin
+
+Ngay sau khi Lệnh hoàn được ban hành, cơ quan Thuế thực hiện cập nhật, hạch toán Lệnh hoàn trên hệ thống quản lý thuế của cơ quan Thuế và truyền thông tin Lệnh hoàn thuế, Quyết định hoàn thuế (đối với hoàn thuế GTGT khấu trừ) sang Kho bạc Nhà nước.
+
+Cơ quan Thuế và Kho bạc Nhà nước thực hiện truyền nhận thông tin số thuế phải hoàn qua Trung tâm trao đổi thông tin thu NSNN.
+
+Trường hợp Trung tâm trao đổi thông tin thu NSNN chưa nâng cấp đáp ứng, thông tin số thuế phải hoàn được truyền qua đường kết nối trực tiếp giữa Tổng cục Thuế và Kho bạc Nhà nước.
+
+4. Cung cấp thông tin số thuế đã hoàn trả
+
+a) Nội dung thông tin chứng từ hoàn thuế
+
+Thông tin cụ thể khoản thuế đã hoàn trả từ NSNN bao gồm:
+
+(1) Số quyết định hoàn, ngày quyết định hoàn;
+
+(2) Số lệnh hoàn, ngày lệnh hoàn;
+
+(3) Mã và tên Kho bạc Nhà nước thực hiện lệnh hoàn;
+
+(4) Mã và tên cơ quan Thuế ban hành quyết định hoàn, lệnh hoàn;
+
+(5) Số tham chiếu của khoản phải hoàn;
+
+(6) Mã số thuế và tên NNT ứng với mã số thuế được hoàn thuế;
+
+(7) Địa chỉ NNT;
+
+(8) Hình thức hoàn trả (phần NNT nhận lại);
+
+(9) Lý do hoàn trả;
+
+(10) Chi tiết nội dung hoàn trả:
+
+(10.1) Nội dung khoản nộp NSNN/chi hoàn thuế GTGT;
+
+(10.2) Mã NDKT;
+
+(10.3) Mã Chương;
+
+(10.4) KBNN nơi thu NSNN (hoàn nộp thừa);
+
+(10.5) Năm ngân sách;
+
+(10.6) Số tiền đã nộp;
+
+(10.7) Số tiền được quyết định hoàn trả.
+
+(11) Khấu trừ khoản hoàn trả để thu NSNN:
+
+(11.1) Nội dung khoản thu NSNN;
+
+(11.2) Mã số thuế;
+
+(11.3) Số tờ khai/quyết định/thông báo;
+
+(11.4) Kỳ thuế/ngày tờ khai/quyết định/thông báo;
+
+(11.5) Mã tài khoản kế toán;
+
+(11.6) Mã NDKT;
+
+(11.7) Mã cơ quan thu;
+
+(11.8) Mã chương;
+
+(11.9) Kho bạc Nhà nước nơi thu NSNN;
+
+(11.10) Số tiền thu NSNN.
+
+(12) Hoàn trả số tiền còn lại sau khi đã bù trừ khoản phải nộp NSNN:
+
+(12.1) Số tiền bằng số và chữ;
+
+(12.2) Tài khoản nhận tiền hoàn trả: Số và tên tài khoản; mã và tên ngân hàng/ KBNN giữ tài khoản;
+
+(12.3) Tên người nhận tiền mặt, số giấy chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu, nơi cấp giấy chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu.
+
+(13) Ngày hạch toán hoàn thuế tại KBNN;
+
+(14) Niên độ hạch toán hoàn trả;
+
+(15) Tài khoản nợ/Tài khoản có do KBNN hạch toán;
+
+(16) Mã NDKT, Mã địa bàn hành chính, Mã chương, Mã ngành kinh tế (trong trường hợp KBNN hạch toán chi ngân sách hoàn trả);
+
+b) Phương thức cung cấp thông tin
+
+b1) Cơ quan Thuế và Kho bạc Nhà nước thực hiện truyền nhận thông tin số thuế phải hoàn qua Trung tâm trao đổi thông tin thu NSNN.
+
+Trường hợp Trung tâm trao đổi thông tin thu NSNN chưa nâng cấp đáp ứng, thông tin số thuế phải hoàn được truyền qua đường kết nối trực tiếp giữa Tổng cục Thuế và Kho bạc Nhà nước.
+
+b2) Cung cấp thông tin sau khi thực hiện lệnh hoàn
+
+Sau khi kiểm tra lệnh hoàn, quyết định hoàn (đối với hoàn thuế GTGT khấu trừ) đảm bảo đủ điều kiện thực hiện theo quy định hiện hành, Kho bạc Nhà nước truyền thông tin khoản đã hoàn sang cơ quan Thuế ban hành lệnh hoàn.
+
+b3) Cung cấp thông tin tổng hợp các khoản đã hoàn theo ngày
+
+Hàng ngày, Kho bạc Nhà nước có trách nhiệm cung cấp thông tin các khoản hoàn trả đã được hạch toán hoàn NSNN đến hết ngày làm việc liền kề trước đó cho cơ quan Thuế ban hành lệnh hoàn thuế.
+
+Dữ liệu chứng từ thu NSNN trong lệnh hoàn trả phải bao gồm các thông tin theo quy định tại điểm 1 mục này, được tạo lập theo gói chứng từ tương ứng với số hiệu Bảng kê chứng từ hoàn trả từ NSNN (theo mẫu 04A/BK-CTNNS đính kèm quy chế) theo từng cặp cơ quan Kho bạc Nhà nước thực hiện lệnh hoàn và cơ quan Thuế ban hành lệnh hoàn.
+
+Đối với khoản hoàn trả do cơ quan Tài chính là cơ quan ban hành lệnh hoàn, Kho bạc Nhà nước thực hiện truyền dữ liệu các gói chứng từ sang cơ quan Thuế ngang cấp với cơ quan Tài chính ban hành lệnh hoàn.
+
+Dữ liệu chứng từ hoàn trả từ NSNN được truyền từ Kho bạc Nhà nước sang cơ quan Thuế thông qua Trung tâm trao đổi thông tin thu NSNN.
+
+5. Truyền nhận thông tin tra soát, điều chỉnh thông tin khoản thu, khoản hoàn trả NSNN
+
+a) Tra soát thông tin khoản thu, hoàn trả
+
+- Cơ quan Kho bạc Nhà nước/cơ quan Thuế gửi đề nghị tra soát thông tin sang cơ quan Thuế/Kho bạc Nhà nước để xác nhận, cung cấp các thông tin liên quan đến chứng từ thu nộp vào NSNN, chứng từ hoàn trả của NSNN.
+
+- Trong thời hạn 3 ngày làm việc kể từ khi nhận được đề nghị tra soát của cơ quan Kho bạc Nhà nước, cơ quan Thuế có trách nhiệm tra cứu, cung cấp, xác nhận thông tin và gửi trả lời tra soát sang Kho bạc Nhà nước. Trường hợp phức tạp, cần thời gian để có thông tin trả lời, cơ quan Thuế gửi thông báo về việc đã nhận được đề nghị tra soát và thời gian sẽ trả lời tra soát.
+
+- Sử dụng mẫu 01/TS/THU (đính kèm) để lập Thư tra soát khoản thu NSNN/trả lời trả soát.
+
+- Sử dụng mẫu 02/TS/HOÀN (đính kèm) để lập Thư tra soát khoản hoàn/trả lời tra soát.
+
+b) Điều chỉnh khoản thu NSNN, khoản đã hoàn từ NSNN
+
+- Khi phát hiện ra sai sót trên chứng từ thu NSNN, chứng từ hoàn trả từ NSNN do Kho bạc Nhà nước truyền sang hoặc giải quyết thư tra soát của người nộp thuế, cơ quan Thuế gửi đề nghị điều chỉnh khoản đã thu NSNN, điều chỉnh khoản đã hoàn trả từ NSNN sang cơ quan Kho bạc Nhà nước để đề nghị điều chỉnh các thông tin có sai sót.
+
+- Cơ quan Kho bạc Nhà nước nhận được Giấy đề nghị điều chỉnh thu NSNN, điều chỉnh khoản đã hoàn, có trách nhiệm xem xét và trả lời cơ quan Thuế về việc chấp nhận điều chỉnh hay không chấp nhận điều chỉnh trong thời hạn 3 (ba) ngày làm việc.
+
+Thông tin điều chỉnh khoản thu NSNN, điều chỉnh khoản hoàn được tổng hợp theo dữ liệu chứng từ thu NSNN, chứng từ hoàn đã được Kho bạc Nhà nước hạch toán kế toán NSNN và gửi hàng ngày sang cơ quan Thuế.
+
+- Thông tin điều chỉnh khoản thu NSNN, khoản đã hoàn từ NSNN được thể hiện trên Giấy đề nghị điều chỉnh thu NSNN của chế độ kế toán NSNN tại Kho bạc Nhà nước.
+
+c) Phương thức truyền nhận
+
+Cơ quan Thuế và cơ quan Kho bạc Nhà nước truyền nhận đề nghị và trả lời nghiệp vụ tra soát, đề nghị điều chỉnh khoản thu NSNN, đề nghị điều chỉnh khoản đã hoàn qua Trung tâm trao đổi thông tin thu NSNN.
+
+Trường hợp Trung tâm trao đổi thông tin thu NSNN chưa nâng cấp đáp ứng, thực hiện truyền nhận qua đường kết nối trực tiếp giữa Tổng cục Thuế và Kho bạc Nhà nước.
+
+6. Truyền nhận báo cáo kế toán khoản thu NSNN, khoản hoàn từ NSNN
+
+Định kỳ, cơ quan Kho bạc Nhà nước gửi cơ quan Thuế đồng cấp các báo cáo thu NSNN, báo cáo hoàn từ NSNN qua Trung tâm trao đổi thông tin thu NSNN.
+
+Trường hợp Trung tâm trao đổi thông tin thu NSNN chưa nâng cấp đáp ứng, Tổng cục Thuế và Kho bạc Nhà nước sẽ căn cứ vào hiện trạng hệ thống trao đổi thông tin của đơn vị để thống nhất, lựa chọn phương thức truyền nhận phù hợp.
+
+a) Báo cáo sau khoá sổ tháng
+
+Trong thời hạn 01 (một) ngày làm việc kể từ ngày khoá sổ tháng tại Kho bạc Nhà nước, cơ quan Kho bạc Nhà nước gửi cơ quan Thuế đồng cấp các báo cáo:
+
+- Báo cáo thu vay NSNN khu vực và sắc thuế (mẫu B2-01/NS);
+
+- Báo cáo thu vay NSNN theo Chương, Tiểu mục (mẫu B2-02/NS);
+
+- Báo cáo số liệu tài khoản chi hoàn thuế GTGT (Mẫu số 01/KB/GTGT).
+
+b) Báo cáo quyết toán năm NSNN
+
+Trong thời hạn 01 (một) ngày làm việc kể từ ngày khoá sổ quyết toán năm NSNN cơ quan Kho bạc Nhà nước gửi cơ quan Thuế đồng cấp các báo cáo:
+
+- Báo cáo thu vay NSNN khu vực và sắc thuế (mẫu B2-01/NS);
+
+- Báo cáo thu vay NSNN theo Chương, Tiểu mục (mẫu B2-02/NS);
+
+- Báo cáo số liệu tài khoản chi hoàn thuế GTGT (Mẫu số 01/KB/GTGT);
+
+- Các báo cáo kế toán NSNN năm trước trong thời gian chỉnh lý: KBNN thực hiện gửi báo cáo cho cơ quan Thuế vào các kỳ báo cáo như sau: ngày 05/01 năm sau, ngày 05/06 năm sau, ngày 05/11 năm sau.
+
+7. Kiểm soát tiến độ giải quyết công việc qua giao dịch điện tử
+
+a) Kiểm soát tiến độ giải quyết đề nghị tra soát
+
+Hàng ngày, cơ quan lập đề nghị tra soát rà soát tổng hợp tiến độ giải quyết tra soát tính đến hết ngày làm việc liền kề trước đó, cụ thể như sau:
+
+(1) Cơ quan gửi tra soát;
+
+(2) Cơ quan nhận tra soát;
+
+(3) Số lượng tra soát chưa được xử lý đầu ngày (ngày làm việc liền kề trước đó);
+
+(4) Số lượng tra soát được gửi trong ngày;
+
+(5) Số lượng tra soát được trả lời trong ngày;
+
+(6) Số lượng tra soát chưa được xử lý tính đến hết ngày làm việc liền kề trước đó;
+
+(7) Danh sách tra soát chưa được xử lý:
+
+- Số hiệu tra soát gửi đi;
+
+- Ngày gửi tra soát;
+
+- Ngày hết hạn trả lời tra soát.
+
+Căn cứ vào thông tin tổng hợp tiến độ giải quyết tra soát, cơ quan lập tra soát phối hợp với cơ quan nhận tra soát bảo đảm tiến độ trả lời tra soát theo quy định.
+
+b) Kiểm soát tiến độ giải quyết lệnh hoàn trả khoản thu NSNN
+
+Hàng ngày, cơ quan lập lệnh hoàn trả khoản thu NSNN tổng hợp tiến độ giải quyết hoàn trả khoản thu NSNN tính đến hết ngày làm việc liền kề trước đó, cụ thể như sau:
+
+(1) Cơ quan Thuế lập lệnh hoàn;
+
+(2) Kho bạc Nhà nước thực hiện hoàn trả;
+
+(3) Số lượng lệnh hoàn trả chưa được hoàn trả;
+
+(4) Số lượng lệnh hoàn đã được hoàn trả;
+
+(5) Danh sách lệnh hoàn trả chưa được hoàn trả:
+
+- Số hiệu lệnh hoàn gửi đi;
+
+- Ngày gửi lệnh hoàn;
+
+- Ngày hết hạn thực hiện hoàn trả;
+
+Căn cứ vào thông tin tổng hợp tiến độ giải quyết hoàn thuế, cơ quan Thuế phối hợp với Kho bạc Nhà nước bảo đảm tiến độ hoàn trả NSNN theo quy định.
+
+c) Kiểm soát tiến độ giải quyết đề nghị điều chỉnh khoản thu NSNN, khoản đã hoàn trả từ NSNN
+
+Hàng ngày, cơ quan lập đề nghị điều chỉnh khoản thu NSNN, điều chỉnh khoản đã hoàn trả từ NSNN tổng hợp tiến độ giải quyết đề nghị điều chỉnh khoản thu NSNN, khoản đã hoàn trả từ NSNN tính đến hết ngày làm việc liền kề trước đó, cụ thể như sau:
+
+(1) Cơ quan Thuế gửi đề nghị điều chỉnh thu, điều chỉnh hoàn;
+
+(2) Cơ quan Kho bạc Nhà nước nhận đề nghị điều chỉnh;
+
+(3) Số lượng đề nghị điều chỉnh tồn đầu ngày (ngày làm việc liền kề trước đó);
+
+(4) Số lượng đề nghị điều chỉnh được gửi trong ngày;
+
+(5) Số lượng đề nghị điều chỉnh được giải quyết trong ngày;
+
+(6) Số lượng đề nghị điều chỉnh chưa được xử lý tính đến hết ngày làm việc liền kề trước đó;
+
+(7) Danh sách đề nghị điều chỉnh chưa được xử lý:
+
+- Số hiệu đề nghị điều chỉnh gửi đi;
+
+- Ngày gửi đề nghị điều chỉnh.
+
+Căn cứ vào thông tin tổng hợp tiến độ giải quyết điều chỉnh khoản thu NSNN, khoản đã hoàn trả từ NSNN, cơ quan lập điều chỉnh khoản thu NSNN, khoản đã hoàn trả từ NSNN phối hợp với cơ quan nhận điều chỉnh khoản thu NSNN, khoản đã hoàn trả từ NSNN bảo đảm tiến độ trả lời điều chỉnh theo quy định.
+
+8. Báo cáo kết quả truyền/ nhận gói tin phục vụ đối soát dữ liệu giữa Tổng cục Thuế và Kho bạc Nhà nước.
+
+Tùy vào thực tế triển khai phương thức truyền nhận (truyền trực tiếp hoặc qua Trung tâm trao đổi thông tin thu NSNN), các đơn vị phối hợp đối soát các gói tin truyền nhận cho phù hợp, theo các nội dung chính như sau:
+
+a) Báo cáo thống kê danh sách các gói tin đã gửi
+
+Hàng ngày, hệ thống của đơn vị gửi gói tin (Tổng cục Thuế/Kho bạc Nhà nước) thực hiện kết xuất Báo cáo thống kê danh sách các gói tin đã gửi sang cơ quan nhận tương ứng (Kho bạc Nhà nước/Tổng cục Thuế) và trạng thái truyền nhận của các gói tin.
+
+Nội dung bao gồm các thông tin sau:
+
+- Thông tin chung:
+
+(1) Nơi truyền; // Nơi truyền gói tin;
+
+(2) Nơi nhận; // Nơi nhận gói tin;
+
+(3) Thời gian gửi; // Thời gian gửi gói tin;
+
+(4) Mã gói tin;
+
+- Thông tin chi tiết của báo cáo thống kê gói tin truyền nhận:
+
+(5) Loại dữ liệu; // Mã quy định loại dữ liệu trao đổi tương ứng giữa hệ thống Tổng cục Thuế và Kho bạc Nhà nước;
+
+(6) Mã gói tin;
+
+(7) Thời gian truyền; // Ngày hệ thống truyền gói tin;
+
+(8) Trạng thái; // Trạng thái gói tin (00: Thành công; 01: Lỗi);
+
+(9) Mã lỗi;
+
+(10) Số/ký hiệu của giao dịch tác nghiệp (số chứng từ/bảng kê/lệnh hoàn/tra soát/đề nghị điều chỉnh);
+
+(11) Tổng số gói tin theo từng loại dữ liệu;
+
+Ví dụ:
+
+| STT     | Loại dữ liệu          | Mã gói tin | Trạng thái | Lý do lỗi |
+
+|---------|-----------------------|------------|------------|-----------|
+
+| 1       | 03001-Chứng từ Online | MSG_01     | Thành công |           |
+
+| MSG_02  | Thành công            |            |            |           |
+
+| MSG_03  | Lỗi                   |            |            |           |
+
+| Tổng: 3 |                       |            |            |           |
+
+| 2       | 03010-Tra soát        | TS_01      | Thành công |           |
+
+| TS_02   | Lỗi                   |            |            |           |
+
+| Tổng: 2 |                       |            |            |           |
+
+| ….      |                       |            |            |           |
+
+STT
+
+Loại dữ liệu
+
+Mã gói tin
+
+Trạng thái
+
+Lý do lỗi
+
+1
+
+03001-Chứng từ Online
+
+MSG_01
+
+Thành công
+
+MSG_02
+
+Thành công
+
+MSG_03
+
+Lỗi
+
+Tổng: 3
+
+2
+
+03010-Tra soát
+
+TS_01
+
+Thành công
+
+TS_02
+
+Lỗi
+
+Tổng: 2
+
+….
+
+b) Đối soát gói tin và kết quả đối soát
+
+Hệ thống của đơn vị nhận gói tin căn cứ vào Báo cáo thống kê danh sách các gói tin để thực hiện đối soát thông tin gói tin đã truyền nhận giữa các đơn vị.
+
+Nguyên tắc đối soát: lấy thời gian gửi gói tin tại đơn vị gửi làm căn cứ đối soát.
+
+Thời gian quét đối soát: bao gồm các gói tin gửi từ 0h00 ngày đối soát đến trước 0h00 ngày tiếp theo.
+
+Sau đó thực hiện truyền kết quả đối soát gói tin sang cơ quan nhận tương ứng, thông tin bao gồm:
+
+- Thông tin chung:
+
+(1) Nơi truyền; // Nơi truyền gói tin;
+
+(2) Nơi nhận; // Nơi nhận gói tin;
+
+(3) Thời gian gửi; // Thời gian gửi gói tin;
+
+(4) Mã gói tin.
+
+(5) Kết quả đối soát: Chênh lệch/Khớp đúng.
+
+- Thông tin chi tiết kết quả đối soát gói tin:
+
+(6) Loại dữ liệu; // Mã quy định loại dữ liệu trao đổi tương ứng giữa hệ thống Tổng cục Thuế và Kho bạc Nhà nước;
+
+(7) Mã gói tin;
+
+(8) Thời gian truyền; // Ngày hệ thống truyền gói tin;
+
+(9) Trạng thái; // Trạng thái gói tin (00: Thành công; 01: Lỗi);
+
+(10) Mã lỗi;
+
+(11) Số/ký hiệu của giao dịch tác nghiệp (số chứng từ/bảng kê/lệnh hoàn/tra soát/đề nghị điều chỉnh);
+
+Ví dụ:
+
+| STT                       | Ngày gửi   | Loại dữ liệu chênh lệch/lỗi | Mã gói tin chênh lệch/ lỗi cần gửi lại |
+
+|---------------------------|------------|-----------------------------|----------------------------------------|
+
+| 1                         | 18/08/2017 | 03001-Chứng từ Online       | MSG_01                                 |
+
+| MSG_02                    |            |                             |                                        |
+
+| 2                         | 19/08/2017 | 03001-Chứng từ Online       | MSG_03                                 |
+
+| 03007-Chứng từ điều chỉnh | ĐC-01      |                             |                                        |
+
+STT
+
+Ngày gửi
+
+Loại dữ liệu chênh lệch/lỗi
+
+Mã gói tin chênh lệch/ lỗi cần gửi lại
+
+1
+
+18/08/2017
+
+03001-Chứng từ Online
+
+MSG_01
+
+MSG_02
+
+2
+
+19/08/2017
+
+03001-Chứng từ Online
+
+MSG_03
+
+03007-Chứng từ điều chỉnh
+
+ĐC-01
+
+Căn cứ vào Báo cáo kết quả đối soát gói tin, trường hợp có chênh lệch gói tin truyền, nhận hoặc các gói tin đã nhận vào hệ thống nhưng có trạng thái lỗi thì đơn vị truyền chủ động truyền lại các gói tin còn thiếu hoặc nhận bị lỗi đã được liệt kê trong báo cáo.
+
+Tùy tình hình thực tế triển khai, các đơn vị thống nhất xây dựng Danh mục mã lỗi gói tin trong quá trình truyền nhận, bao gồm:
+
+(1) Mã lỗi;
+
+(2) Mô tả lỗi.
+
+Ví dụ: Danh mục lỗi gói tin chi tiết như sau:
+
+| STT | Mã lỗi   | Mô tả lỗi                        |
+
+|-----|----------|----------------------------------|
+
+| 1   | 02-00027 | Không tồn tại path cần ký        |
+
+| 2   | 02-00000 | Lỗi Connection rỗng              |
+
+| 3   | 02-00026 | Lỗi hàm lấy thông tin chứng từ   |
+
+| 4   | 02-00000 | Lỗi trong hàm Main               |
+
+| 5   | GIP0014  | Giải thuật không hợp lệ          |
+
+| 6   | GIP0015  | Lỗi input /output stream         |
+
+| 7   | GIP0016  | Chuẩn ký không tồn tại           |
+
+| 8   | GIP0017  | Không có thông tin chuẩn hàm băm |
+
+| ... |          |                                  |
+
+STT
+
+Mã lỗi
+
+Mô tả lỗi
+
+1
+
+02-00027
+
+Không tồn tại path cần ký
+
+2
+
+02-00000
+
+Lỗi Connection rỗng
+
+3
+
+02-00026
+
+Lỗi hàm lấy thông tin chứng từ
+
+4
+
+02-00000
+
+Lỗi trong hàm Main
+
+5
+
+GIP0014
+
+Giải thuật không hợp lệ
+
+6
+
+GIP0015
+
+Lỗi input /output stream
+
+7
+
+GIP0016
+
+Chuẩn ký không tồn tại
+
+8
+
+GIP0017
+
+Không có thông tin chuẩn hàm băm
+
+...
+
+Mục B. TRUYỀN NHẬN THÔNG TIN GIỮA CƠ QUAN THUẾ VÀ CƠ QUAN TÀI CHÍNH
+
+1. Cung cấp thông tin số thuế phải thu do cơ quan Thuế quản lý
+
+a) Nội dung thông tin
+
+Thông tin cụ thể khoản phải thu NSNN bao gồm:
+
+(1) Mã và tên Cơ quan Thuế quản lý khoản thu NSNN;
+
+(2) Mã và tên Kho bạc Nhà nước hạch toán khoản thu;
+
+(3) Số tham chiếu của khoản phải nộp NSNN;
+
+(4) Mã số thuế và tên người nộp thuế;
+
+(5) Địa chỉ NNT;
+
+(6) Chương;
+
+(7) Tiểu mục;
+
+(8) Số tiền;
+
+(9) Đơn vị tiền;
+
+(10) Số quyết định/số thông báo;
+
+(11) Kỳ thuế/Ngày quyết định/ ngày thông báo;
+
+(12) Tài khoản NSNN/Tài khoản thu hồi hoàn thuế GTGT;
+
+b) Phương thức cung cấp thông tin
+
+Hàng tháng, sau ngày khóa sổ Tổng cục Thuế truyền thông tin số thuế phải thu do cơ quan Thuế quản lý sang cơ quan Tài chính qua Trung tâm trao đổi thông tin thu NSNN.
+
+Mục C. TRUYỀN NHẬN THÔNG TIN GIỮA CƠ QUAN HẢI QUAN VÀ KHO BẠC NHÀ NƯỚC
+
+1. Cung cấp thông tin số thuế phải thu do cơ quan Hải quan quản lý
+
+a) Nội dung thông tin
+
+Thông tin cụ thể khoản phải thu NSNN bao gồm:
+
+(1) Mã và tên cơ quan Hải quan quản lý khoản thu NSNN;
+
+(2) Mã và tên Kho bạc Nhà nước hạch toán khoản thu;
+
+(3) Số tham chiếu của khoản phải thu NSNN;
+
+(4) Mã số thuế và tên người nộp thuế ứng với mã số thuế;
+
+(5) Chương;
+
+(6) Tiểu mục;
+
+(7) Số tiền, đơn vị tiền;
+
+(8) Số tờ khai/Số quyết định/số thông báo;
+
+(9) Ngày tờ khai/Ngày quyết định/ngày thông báo;
+
+(10) Tên cơ quan có thẩm quyền ban hành quyết định/ văn bản yêu cầu phải thu NSNN: Kiểm toán nhà nước, Thanh tra Tài chính, Thanh tra Chính phủ, Cơ quan có thẩm quyền khác;
+
+(11) Nội dung khoản phải thu NSNN;
+
+b) Phương thức cung cấp thông tin
+
+Hàng ngày, Tổng cục Hải quan cập nhật và cung cấp thông tin số thuế phải thu do cơ quan Hải quan quản lý trên Cổng thanh toán điện tử Hải quan.
+
+Kho bạc Nhà nước/Cơ quan Thuế khai thác thông tin về số thuế phải nộp của NNT trên Cổng thanh toán điện tử Hải quan phục vụ công tác thu nộp NSNN.
+
+Cuối ngày, Tổng cục Hải quan truyền qua Trung tâm trao đổi thông tin thu NSNN sang Kho bạc Nhà nước.
+
+2. Cung cấp thông tin số thuế đã thu ngân sách nhà nước
+
+a) Nội dung thông tin
+
+Thông tin cụ thể khoản đã thu NSNN bao gồm:
+
+(1) Mã và tên Kho bạc Nhà nước hạch toán khoản thu;
+
+(2) Mã và tên cơ quan Hải quan quản lý khoản thu NSNN;
+
+(3) Số tham chiếu của khoản thu;
+
+(4) Mã số thuế và tên người nộp thuế;
+
+(5) Số tờ khai/Số quyết định/ số thông báo;
+
+(6) Ngày tờ khai/Ngày quyết định/ ngày thông báo;
+
+(7) Tên cơ quan có thẩm quyền ban hành quyết định/ văn bản yêu cầu phải nộp NSNN: Kiểm toán nhà nước, Thanh tra Tài chính, Thanh tra Chính phủ, cơ quan có thẩm quyền khác;
+
+(8) Tên và mã ngân hàng/KBNN thực hiện giao dịch nộp thuế;
+
+(9) Ngày nộp thuế;
+
+(10) Số, ký hiệu chứng từ nộp thuế tạo bởi NHTM, KBNN thực hiện giao dịch nộp thuế; hoặc số, ký hiệu Lệnh hoàn trả kiêm bù trừ thu NSNN tạo bởi cơ quan Hải quan.
+
+(11) Số và ký hiệu chứng từ điều chỉnh thu NSNN tạo bởi cơ quan quản lý khoản thu;
+
+(12) Tài khoản nợ/Tài khoản có do KBNN hạch toán khoản thu;
+
+(13) Ngày Kho bạc hạch toán chứng từ;
+
+(14) Số tờ khai, niên độ KBNN hạch toán khoản thu;
+
+(15) Mã chương của khoản thu NSNN;
+
+(16) Mã tiểu mục của khoản thu NSNN;
+
+(17) Mã nguyên tệ;
+
+(18) Số tiền nguyên tệ;
+
+(19) Tỷ giá KBNN hạch toán số thu;
+
+(20) Số tiền VND;
+
+(21) Số hiệu bảng kê/gói chứng từ KBNN truyền sang Tổng cục Hải quan;
+
+(22) Ngày bảng kê/gói chứng từ KBNN truyền sang Tổng cục Hải quan.
+
+b) Phương thức cung cấp thông tin
+
+b1) Cung cấp thông tin sau khi thực hiện giao dịch đã thu NSNN tại Kho bạc Nhà nước
+
+Chậm nhất sau 15 phút kể từ khi hoàn thành giao dịch đã thu NSNN, Kho bạc Nhà nước truyền thông tin khoản đã thu NSNN sang cơ quan Hải quan qua đường kết nối trực tiếp giữa Tổng cục Hải quan và Kho bạc Nhà nước.
+
+b2) Cung cấp thông tin tổng hợp các khoản thu nộp NSNN theo ngày
+
+Cuối ngày hoặc chậm nhất vào đầu ngày làm việc tiếp theo, Kho bạc Nhà nước có trách nhiệm cung cấp thông tin các khoản thu nộp NSNN đã được hạch toán thu NSNN cho cơ quan Hải quan.
+
+Dữ liệu chứng từ thu nộp NSNN phải bao gồm các thông tin theo quy định tại điểm 1 mục này, được tạo lập theo gói chứng từ tương ứng với số hiệu Bảng kê chứng từ thu NSNN theo từng cặp Kho bạc Nhà nước và cơ quan Hải quan.
+
+Dữ liệu chứng từ thu nộp NSNN được truyền từ Kho bạc Nhà nước sang cơ quan Hải quan thông qua Trung tâm trao đổi thông tin thu NSNN.
+
+3. Cung cấp thông tin số thuế phải hoàn
+
+a) Nội dung thông tin
+
+Thông tin cụ thể khoản phải hoàn từ NSNN bao gồm:
+
+(1) Số quyết định hoàn, ngày quyết định hoàn;
+
+(2) Số lệnh hoàn, ngày lệnh hoàn;
+
+(3) Mã và tên Kho bạc Nhà nước thực hiện lệnh hoàn;
+
+(4) Mã và tên cơ quan Hải quan ban hành quyết định hoàn, lệnh hoàn;
+
+(5) Số tham chiếu của khoản phải hoàn;
+
+(6) Mã số thuế và tên người nộp thuế ứng với mã số thuế được hoàn thuế;
+
+(7) Địa chỉ NNT;
+
+(8) Hình thức hoàn trả;
+
+(9) Lý do hoàn trả;
+
+(10) Chi tiết nội dung hoàn trả:
+
+(10.1) Nội dung khoản nộp NSNN;
+
+(10.2) Mã NDKT;
+
+(10.3) Mã Chương;
+
+(10.4) KBNN nơi thu NSNN;
+
+(10.5) Năm ngân sách;
+
+(10.6) Số tiền đã nộp;
+
+(10.7) Số tiền được quyết định hoàn trả.
+
+(11) Khấu trừ khoản hoàn trả để thu NSNN:
+
+(11.1) Nội dung khoản thu NSNN;
+
+(11.2) Mã số thuế;
+
+(11.3) Số tờ khai/quyết định/thông báo;
+
+(11.4) Kỳ thuế/ngày tờ khai/quyết định/thông báo;
+
+(11.5) Mã tài khoản kế toán;
+
+(11.6) Mã NDKT;
+
+(11.7) Mã cơ quan thu;
+
+(11.8) Mã chương;
+
+(11.9) Kho bạc Nhà nước nơi thu NSNN;
+
+(11.10) Số tiền thu NSNN
+
+(12) Hoàn trả số tiền còn lại sau khi đã bù trừ khoản phải nộp NSNN:
+
+(12.1) Số tiền bằng số và chữ;
+
+(12.2) Tài khoản nhận tiền hoàn trả: Số và tên tài khoản; mã và tên ngân hàng/ KBNN giữ tài khoản;
+
+(12.3) Tên người nhận tiền mặt, số giấy chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu, nơi cấp giấy chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu.
+
+(13) Tên người lập lệnh hoàn;
+
+(14) Tên người ký lệnh hoàn;
+
+(15) Chức danh người ký lệnh hoàn;
+
+b) Phương thức cung cấp thông tin
+
+Ngay sau khi Lệnh hoàn được ban hành, cơ quan Hải quan thực hiện cập nhật, hạch toán Lệnh hoàn trên hệ thống kế toán thuế tập trung của cơ quan Hải quan và truyền thông tin Lệnh hoàn thuế sang Kho bạc Nhà nước.
+
+Cơ quan Hải quan và Kho bạc Nhà nước thực hiện truyền nhận thông tin số thuế phải hoàn qua Trung tâm trao đổi thông tin thu NSNN.
+
+Trường hợp Trung tâm trao đổi thông tin thu NSNN chưa nâng cấp đáp ứng, thông tin số thuế phải hoàn được truyền qua đường kết nối trực tiếp giữa Tổng cục Hải quan và Kho bạc Nhà nước.
+
+4. Cung cấp thông tin số thuế đã hoàn trả
+
+a) Nội dung thông tin
+
+Thông tin cụ thể khoản thuế đã hoàn trả từ NSNN bao gồm:
+
+(1) Số quyết định hoàn, ngày quyết định hoàn;
+
+(2) Số lệnh hoàn, ngày lệnh hoàn;
+
+(3) Mã và tên Kho bạc Nhà nước thực hiện lệnh hoàn;
+
+(4) Mã và tên cơ quan Hải quan ban hành quyết định hoàn, lệnh hoàn;
+
+(5) Số tham chiếu của khoản phải hoàn;
+
+(6) Mã số thuế và tên người nộp thuế ứng với mã số thuế được hoàn thuế;
+
+(7) Địa chỉ NNT;
+
+(8) Hình thức hoàn trả;
+
+(9) Lý do hoàn trả;
+
+(10) Chi tiết nội dung hoàn trả:
+
+(10.1) Nội dung khoản nộp NSNN;
+
+(10.2) Mã NDKT;
+
+(10.3) Mã chương;
+
+(10.4) KBNN nơi thu NSNN;
+
+(10.5) Năm ngân sách;
+
+(10.6) Số tiền đã nộp;
+
+(10.7) Số tiền được quyết định hoàn trả.
+
+(11) Khấu trừ khoản hoàn trả để thu NSNN:
+
+(11.1) Nội dung khoản thu NSNN;
+
+(11.2) Mã số thuế;
+
+(11.3) Số tờ khai/quyết định/thông báo;
+
+(11.4) Kỳ thuế/ngày tờ khai/quyết định/thông báo;
+
+(11.5) Mã tài khoản kế toán;
+
+(11.6) Mã NDKT;
+
+(11.7) Mã cơ quan thu;
+
+(11.8) Mã chương;
+
+(11.9) Kho bạc Nhà nước nơi thu NSNN;
+
+(11.10) Số tiền thu NSNN.
+
+(12) Hoàn trả số tiền còn lại sau khi đã bù trừ khoản phải nộp NSNN:
+
+12.1) Số tiền bằng số và chữ;
+
+(12.2) Tài khoản nhận tiền hoàn trả: Số và tên tài khoản; mã và tên ngân hàng/ KBNN giữ tài khoản;
+
+(12.3) Tên người nhận tiền mặt, số giấy chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu, nơi cấp giấy chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu.
+
+(13) Ngày hạch toán hoàn thuế tại KBNN;
+
+(14) Niên độ hạch toán hoàn trả;
+
+(15) Tài khoản nợ/Tài khoản có do KBNN hạch toán;
+
+(16) Mã NDKT, Mã địa bàn hành chính, Mã chương, Mã ngành kinh tế (trong trường hợp KBNN hạch toán chi ngân sách hoàn trả);
+
+b) Phương thức cung cấp thông tin
+
+b1) Cung cấp thông tin sau khi thực hiện lệnh hoàn
+
+Sau khi thực hiện xong lệnh hoàn, Kho bạc Nhà nước truyền thông tin khoản thuế đã hoàn sang cơ quan Hải quan qua Trung tâm trao đổi thông tin thu NSNN.
+
+Trường hợp Trung tâm trao đổi thông tin thu NSNN chưa nâng cấp đáp ứng, thông tin số thuế phải hoàn được truyền qua đường kết nối trực tiếp giữa Tổng cục Hải quan và Kho bạc Nhà nước.
+
+b2) Cung cấp thông tin tổng hợp các khoản đã hoàn theo ngày
+
+Cuối ngày hoặc chậm nhất là đầu giờ của ngày làm việc tiếp theo, Kho bạc Nhà nước có trách nhiệm cung cấp thông tin các khoản hoàn trả đã được hạch toán hoàn NSNN cho cơ quan Hải quan ban hành lệnh hoàn thuế.
+
+Dữ liệu chứng từ thu nộp NSNN phải bao gồm các thông tin theo quy định tại điểm 1 mục này, được tạo lập theo gói chứng từ tương ứng với số hiệu Bảng kê chứng từ hoàn trả từ NSNN theo từng cặp cơ quan Kho bạc Nhà nước thực hiện lệnh hoàn và cơ quan Hải quan ban hành lệnh hoàn.
+
+Dữ liệu chứng từ hoàn trả từ NSNN được truyền từ Kho bạc Nhà nước sang cơ quan Hải quan thông qua Trung tâm trao đổi thông tin thu NSNN.
+
+5. Truyền nhận thông tin tra soát, điều chỉnh thông tin khoản thu, khoản hoàn trả NSNN
+
+a) Tra soát thông tin khoản thu nộp, hoàn trả
+
+- Cơ quan Kho bạc Nhà nước/cơ quan Hải quan gửi đề nghị tra soát thông tin sang cơ quan Hải quan/Kho bạc Nhà nước để đề nghị xác nhận, cung cấp các thông tin liên quan đến chứng từ thu nộp vào NSNN, chứng từ hoàn thuế.
+
+- Trong thời hạn 02 (hai) ngày làm việc kể từ khi nhận được đề nghị tra soát của cơ quan Kho bạc Nhà nước/cơ quan Hải quan, cơ quan Hải quan/Kho bạc Nhà nước có trách nhiệm tra cứu, cung cấp, xác nhận thông tin và trả lời tra soát. Trường hợp phức tạp, cần thời gian để có thông tin trả lời, cơ quan Hải quan/Kho bạc Nhà nước gửi tra soát trả lời về việc đã nhận được đề nghị tra soát và thời gian sẽ trả lời tra soát.
+
+- Sử dụng mẫu 01/TS/THU (đính kèm) để lập Thư tra soát khoản thu NSNN/trả lời trả soát.
+
+- Sử dụng mẫu 02/TS/HOÀN (đính kèm) để lập Thư tra soát khoản hoàn/trả lời tra soát.
+
+b) Điều chỉnh khoản thu nộp NSNN, khoản đã hoàn từ NSNN
+
+- Khi phát hiện ra sai sót trên chứng từ thu nộp, chứng từ hoàn do Kho bạc Nhà nước truyền sang hoặc giải quyết thư tra soát của người nộp thuế, cơ quan Hải quan gửi đề nghị điều chỉnh khoản đã thu NSNN, điều chỉnh khoản đã hoàn sang cơ quan Kho bạc Nhà nước để đề nghị điều chỉnh một trong các thông tin có sai sót.
+
+- Cơ quan Kho bạc Nhà nước nhận được Giấy đề nghị điều chỉnh thu NSNN, điều chỉnh khoản đã hoàn, có trách nhiệm điều chỉnh trong thời hạn 3 (ba) ngày làm việc.
+
+Thông tin điều chỉnh khoản thu NSNN, điều chỉnh khoản hoàn được tổng hợp theo dữ liệu chứng từ thu NSNN, chứng từ hoàn đã được Kho bạc Nhà nước hạch toán kế toán NSNN và gửi hàng ngày sang cơ quan Hải quan.
+
+- Thông tin điều chỉnh khoản thu NSNN, khoản đã hoàn từ NSNN được thể hiện trên Giấy đề nghị điều chỉnh thu NSNN của chế độ kế toán NSNN tại Kho bạc Nhà nước hiện hành.
+
+c) Phương thức truyền nhận
+
+Cơ quan Hải quan và cơ quan Kho bạc Nhà nước truyền nhận đề nghị và trả lời nghiệp vụ tra soát, đề nghị điều chỉnh khoản thu NSNN, đề nghị điều chỉnh khoản đã hoàn qua Trung tâm trao đổi thông tin thu NSNN.
+
+Trường hợp Trung tâm trao đổi thông tin thu NSNN chưa nâng cấp đáp ứng, thực hiện truyền nhận qua đường kết nối trực tiếp giữa Tổng cục Hải quan và Kho bạc Nhà nước.
+
+6. Truyền nhận báo cáo kế toán khoản thu NSNN, khoản hoàn từ NSNN
+
+Định kỳ, Kho bạc Nhà nước gửi Tổng cục Hải quan các báo cáo thu NSNN, báo cáo hoàn từ NSNN qua Trung tâm trao đổi thông tin thu NSNN.
+
+Trường hợp Trung tâm trao đổi thông tin thu NSNN chưa nâng cấp đáp ứng, Tổng cục Hải quan và Kho bạc Nhà nước sẽ căn cứ vào hiện trạng hệ thống trao đổi thông tin của đơn vị để thống nhất, lựa chọn hình thức truyền nhận phù hợp.
+
+a) Báo cáo sau khoá sổ tháng
+
+Trong thời hạn 01 (một) ngày làm việc kể từ ngày khoá sổ tháng tại Kho bạc Nhà nước, Kho bạc Nhà nước gửi Tổng cục Hải quan các báo cáo:
+
+- Báo cáo thu vay NSNN khu vực và sắc thuế (mẫu B2-01/NS);
+
+- Báo cáo thu vay NSNN theo Chương, Tiểu mục (mẫu B2-02/NS);
+
+b) Báo cáo quyết toán năm NSNN
+
+Trong thời hạn 01 (một) ngày làm việc kể từ ngày khoá sổ quyết toán năm NSNN, Kho bạc Nhà nước gửi Tổng cục Hải quan các báo cáo:
+
+- Báo cáo thu vay NSNN khu vực và sắc thuế (mẫu B2-01/NS);
+
+- Báo cáo thu vay NSNN theo Chương, Tiểu mục (mẫu B2-02/NS);
+
+- Các báo cáo kế toán NSNN năm trước trong thời gian chỉnh lý: Kho bạc Nhà nước thực hiện gửi báo cáo cho cơ quan Hải quan vào các kỳ báo cáo như sau: ngày 05/01 năm sau, ngày 05/06 năm sau, ngày 05/11 năm sau.
+
+7. Kiểm soát tiến độ giải quyết công việc qua giao dịch điện tử
+
+a) Kiểm soát tiến độ giải quyết đề nghị tra soát
+
+Hàng ngày, cơ quan lập đề nghị tra soát rà soát tổng hợp tiến độ giải quyết tra soát tính đến hết ngày làm việc liền kề trước đó, cụ thể như sau:
+
+(1) Cơ quan gửi tra soát;
+
+(2) Cơ quan nhận tra soát;
+
+(3) Số lượng tra soát chưa được xử lý đầu ngày (ngày làm việc liền kề trước đó);
+
+(4) Số lượng tra soát được gửi trong ngày;
+
+(5) Số lượng tra soát được trả lời trong ngày;
+
+(6) Số lượng tra soát chưa được xử lý tính đến hết ngày làm việc liền kề trước đó;
+
+(7) Danh sách tra soát chưa được xử lý:
+
+- Số hiệu tra soát gửi đi;
+
+- Ngày gửi tra soát;
+
+- Ngày hết hạn trả lời tra soát.
+
+Căn cứ vào thông tin tổng hợp tiến độ giải quyết tra soát, cơ quan lập tra soát phối hợp với cơ quan nhận tra soát bảo đảm tiến độ trả lời tra soát theo quy định.
+
+b) Kiểm soát tiến độ giải quyết lệnh hoàn trả khoản thu NSNN
+
+Hàng ngày, cơ quan lập lệnh hoàn trả khoản thu NSNN tổng hợp tiến độ giải quyết hoàn trả khoản thu NSNN tính đến hết ngày làm việc liền kề trước đó, cụ thể như sau:
+
+(1) Cơ quan Hải quan lập lệnh hoàn;
+
+(2) Kho bạc Nhà nước thực hiện hoàn trả;
+
+(3) Số lượng lệnh hoàn trả chưa được hoàn trả;
+
+(4) Số lượng lệnh hoàn đã được hoàn trả;
+
+(5) Danh sách lệnh hoàn trả chưa được hoàn trả:
+
+- Số hiệu lệnh hoàn gửi đi;
+
+- Ngày gửi lệnh hoàn;
+
+- Ngày hết hạn thực hiện hoàn trả;
+
+Căn cứ vào thông tin tổng hợp tiến độ giải quyết hoàn thuế, cơ quan Hải quan phối hợp với Kho bạc Nhà nước bảo đảm tiến độ hoàn trả NSNN theo quy định.
+
+c) Kiểm soát tiến độ giải quyết đề nghị điều chỉnh khoản thu NSNN, khoản đã hoàn trả từ NSNN
+
+Hàng ngày, cơ quan lập đề nghị điều chỉnh khoản thu NSNN, khoản đã hoàn trả từ NSNN tổng hợp tiến độ giải quyết đề nghị điều chỉnh khoản thu NSNN, khoản đã hoàn trả từ NSNN tính đến hết ngày làm việc liền kề trước đó, cụ thể như sau:
+
+(1) Cơ quan Hải quan gửi đề nghị điều chỉnh thu, điều chỉnh hoàn;
+
+(2) Cơ quan Kho bạc Nhà nước nhận đề nghị điều chỉnh;
+
+(3) Số lượng đề nghị điều chỉnh tồn đầu ngày (ngày làm việc liền kề trước đó);
+
+(4) Số lượng đề nghị điều chỉnh được gửi trong ngày;
+
+(5) Số lượng đề nghị điều chỉnh được giải quyết trong ngày;
+
+(6) Số lượng đề nghị điều chỉnh chưa được xử lý tính đến hết ngày làm việc liền kề trước đó;
+
+(7) Danh sách đề nghị điều chỉnh chưa được xử lý:
+
+- Số hiệu đề nghị điều chỉnh gửi đi;
+
+- Ngày gửi đề nghị điều chỉnh.
+
+Căn cứ vào thông tin tổng hợp tiến độ giải quyết điều chỉnh khoản thu NSNN, khoản đã hoàn trả từ NSNN, cơ quan lập điều chỉnh khoản thu NSNN, khoản đã hoàn trả từ NSNN phối hợp với cơ quan nhận điều chỉnh khoản thu NSNN, khoản đã hoàn trả từ NSNN bảo đảm tiến độ trả lời điều chỉnh theo quy định.
+
+8. Báo cáo kết quả truyền/ nhận gói tin phục vụ đối soát dữ liệu giữa Tổng cục Hải quan và Kho bạc Nhà nước.
+
+Tùy vào thực tế triển khai phương thức truyền nhận (truyền trực tiếp hoặc qua Trung tâm trao đổi thông tin thu NSNN), các đơn vị phối hợp đối soát các gói tin truyền nhận cho phù hợp, theo các nội dung chính như sau:
+
+a) Báo cáo thống kê danh sách các gói tin đã gửi
+
+Hàng ngày, hệ thống của đơn vị gửi gói tin (Tổng cục Hải quan/Kho bạc Nhà nước) thực hiện kết xuất Báo cáo thống kê danh sách các gói tin đã gửi sang cơ quan nhận tương ứng (Kho bạc Nhà nước/Tổng cục Hải quan) và trạng thái truyền nhận của các gói tin.
+
+Nội dung bao gồm các thông tin sau:
+
+- Thông tin chung:
+
+(1) Nơi truyền; // Nơi truyền gói tin;
+
+(2) Nơi nhận; // Nơi nhận gói tin;
+
+(3) Thời gian gửi; // Thời gian gửi gói tin;
+
+(4) Mã gói tin;
+
+- Thông tin chi tiết của báo cáo thống kê gói tin truyền nhận:
+
+(5) Loại dữ liệu; // Mã quy định loại dữ liệu trao đổi tương ứng giữa hệ thống Tổng cục Hải quan và Kho bạc Nhà nước;
+
+(6) Mã gói tin;
+
+(7) Thời gian truyền; // Ngày hệ thống truyền gói tin;
+
+(8) Trạng thái; // Trạng thái gói tin (00: Thành công; 01: Lỗi);
+
+(9) Mã lỗi;
+
+(10) Số/ký hiệu của giao dịch tác nghiệp (số chứng từ/bảng kê/lệnh hoàn/tra soát/đề nghị điều chỉnh);
+
+(11) Tổng số gói tin theo từng loại dữ liệu;
+
+Ví dụ:
+
+| STT     | Loại dữ liệu          | Mã gói tin | Trạng thái | Lý do lỗi |
+
+|---------|-----------------------|------------|------------|-----------|
+
+| 1       | 03001-Chứng từ online | MSG_01     | Thành công |           |
+
+| MSG_02  | Thành công            |            |            |           |
+
+| MSG_03  | Lỗi                   |            |            |           |
+
+| Tổng: 3 |                       |            |            |           |
+
+| 2       | 03010-Tra soát        | TS_01      | Thành công |           |
+
+| TS_02   | Lỗi                   |            |            |           |
+
+| Tổng: 2 |                       |            |            |           |
+
+| …….     |                       |            |            |           |
+
+STT
+
+Loại dữ liệu
+
+Mã gói tin
+
+Trạng thái
+
+Lý do lỗi
+
+1
+
+03001-Chứng từ online
+
+MSG_01
+
+Thành công
+
+MSG_02
+
+Thành công
+
+MSG_03
+
+Lỗi
+
+Tổng: 3
+
+2
+
+03010-Tra soát
+
+TS_01
+
+Thành công
+
+TS_02
+
+Lỗi
+
+Tổng: 2
+
+…….
+
+b) Đối soát gói tin và kết quả đối soát
+
+Hệ thống của đơn vị nhận gói tin căn cứ vào Báo cáo thống kê danh sách các gói tin để thực hiện đối soát thông tin gói tin đã truyền nhận giữa các đơn vị.
+
+Nguyên tắc đối soát: lấy thời gian gửi gói tin tại đơn vị gửi làm căn cứ đối soát.
+
+Thời gian quét đối soát: bao gồm các gói tin gửi từ 0h00 ngày đối soát đến trước 0h00 ngày tiếp theo.
+
+Sau đó thực hiện truyền kết quả đối soát gói tin sang cơ quan nhận tương ứng, thông tin bao gồm:
+
+- Thông tin chung:
+
+(1) Nơi truyền; // Nơi truyền gói tin;
+
+(2) Nơi nhận; // Nơi nhận gói tin;
+
+(3) Thời gian gửi; // Thời gian gửi gói tin;
+
+(4) Mã gói tin;
+
+(5) Kết quả đối soát: Chênh lệch/Khớp đúng.
+
+- Thông tin chi tiết kết quả đối soát gói tin:
+
+(6) Loại dữ liệu; // Mã quy định loại dữ liệu trao đổi tương ứng giữa hệ thống Tổng cục Hải quan và Kho bạc Nhà nước;
+
+(7) Mã gói tin;
+
+(8) Thời gian truyền; // Ngày hệ thống truyền gói tin;
+
+(9) Trạng thái; // Trạng thái gói tin (00: Thành công; 01: Lỗi);
+
+(10) Mã lỗi;
+
+(11) Số/ký hiệu của giao dịch tác nghiệp (số chứng từ/bảng kê/lệnh hoàn/tra soát/đề nghị điều chỉnh);
+
+Ví dụ:
+
+| STT                       | Ngày gửi   | Loại dữ liệu chênh lệch/lỗi | Mã gói tin chênh lệch/ lỗi cần gửi lại |
+
+|---------------------------|------------|-----------------------------|----------------------------------------|
+
+| 1                         | 18/08/2017 | 03001-Chứng từ online       | MSG_01                                 |
+
+| MSG_02                    |            |                             |                                        |
+
+| 2                         | 19/08/2017 | 03001-Chứng từ online       | MSG_03                                 |
+
+| 03007-Chứng từ điều chỉnh | ĐC-01      |                             |                                        |
+
+STT
+
+Ngày gửi
+
+Loại dữ liệu chênh lệch/lỗi
+
+Mã gói tin chênh lệch/ lỗi cần gửi lại
+
+1
+
+18/08/2017
+
+03001-Chứng từ online
+
+MSG_01
+
+MSG_02
+
+2
+
+19/08/2017
+
+03001-Chứng từ online
+
+MSG_03
+
+03007-Chứng từ điều chỉnh
+
+ĐC-01
+
+Căn cứ vào Báo cáo kết quả đối soát gói tin, trường hợp có chênh lệch gói tin truyền, nhận hoặc các gói tin đã nhận vào hệ thống nhưng có trạng thái lỗi thì đơn vị truyền chủ động truyền lại các gói tin còn thiếu hoặc nhận bị lỗi đã được liệt kê trong báo cáo.
+
+Tùy tình hình thực tế triển khai, các đơn vị thống nhất xây dựng Danh mục mã lỗi gói tin trong quá trình truyền nhận, bao gồm:
+
+(1) Mã lỗi;
+
+(2) Mô tả lỗi.
+
+Ví dụ: Danh mục lỗi gói tin chi tiết như sau:
+
+| STT | Mã lỗi   | Mô tả lỗi                      |
+
+|-----|----------|--------------------------------|
+
+| 1   | 02-00027 | Không tồn tại path cần ký      |
+
+| 2   | 02-00000 | Lỗi Connection rỗng            |
+
+| 3   | 02-00026 | Lỗi hàm lấy thông tin chứng từ |
+
+| 4   | 02-00000 | Lỗi trong hàm Main             |
+
+| 5   | GIP0014  | Giải thuật không hợp lệ        |
+
+| 6   | GIP0015  | Lỗi input /output stream       |
+
+| 7   | GIP0016  | Chuẩn ký không tồn tại         |
+
+| 8   | GIP0017  | Không có thông tin chuẩn hàm … |
+
+| ... |          |                                |
+
+STT
+
+Mã lỗi
+
+Mô tả lỗi
+
+1
+
+02-00027
+
+Không tồn tại path cần ký
+
+2
+
+02-00000
+
+Lỗi Connection rỗng
+
+3
+
+02-00026
+
+Lỗi hàm lấy thông tin chứng từ
+
+4
+
+02-00000
+
+Lỗi trong hàm Main
+
+5
+
+GIP0014
+
+Giải thuật không hợp lệ
+
+6
+
+GIP0015
+
+Lỗi input /output stream
+
+7
+
+GIP0016
+
+Chuẩn ký không tồn tại
+
+8
+
+GIP0017
+
+Không có thông tin chuẩn hàm …
+
+...
+
+Mục D. TRUYỀN NHẬN THÔNG TIN GIỮA CƠ QUAN HẢI QUAN VÀ CƠ QUAN TÀI CHÍNH
+
+1. Cung cấp thông tin số thuế phải thu do cơ quan Hải quan quản lý
+
+a) Nội dung thông tin
+
+Thông tin cụ thể khoản phải thu NSNN bao gồm:
+
+(1) Mã và tên Cơ quan Hải quan quản lý khoản thu NSNN;
+
+(2) Mã và tên Kho bạc Nhà nước hạch toán khoản thu;
+
+(3) Số tham chiếu của khoản phải thu NSNN;
+
+(4) Mã số thuế và tên người nộp thuế ứng với mã số thuế;
+
+(5) Chương;
+
+(6) Tiểu mục;
+
+(7) Số tiền, đơn vị tiền;
+
+(8) Số tờ khai/Số quyết định/số văn bản;
+
+(9) Ngày tờ khai/Ngày quyết định/ngày văn bản;
+
+(10) Tên cơ quan có thẩm quyền ban hành quyết định/ văn bản yêu cầu phải nộp NSNN: Kiểm toán nhà nước, Thanh tra Tài chính, Thanh tra Chính phủ, Cơ quan có thẩm quyền khác;
+
+(11) Nội dung khoản thu NSNN.
+
+b) Phương thức cung cấp thông tin
+
+Hàng tháng, Tổng cục Hải quan truyền thông tin số thuế phải thu do cơ quan Hải quan quản lý sang cơ quan Tài chính qua Trung tâm trao đổi thông tin thu NSNN.
+
+Mục E. TRUYỀN NHẬN THÔNG TIN GIỮA CƠ QUAN HẢI QUAN VÀ CƠ QUAN THUẾ
+
+1. Nội dung truyền nhận thông tin
+
+Nội dung truyền nhận thông tin giữa cơ quan Hải quan và cơ quan Thuế được thực hiện theo quy định tại Quyết định số 2413/QĐ-BTC ngày 23/11/2017 của Bộ Tài chính về việc ban hành Quy chế trao đổi thông tin và phối hợp công tác giữa cơ quan Hải quan và cơ quan Thuế và các văn bản sửa đổi, bổ sung (nếu có).
+
+2. Phương thức truyền nhận thông tin
+
+Tổng cục Hải quan và Tổng cục Thuế thực hiện truyền nhận thông tin qua Trung tâm trao đổi thông tin thu NSNN.
+
+Trường hợp Trung tâm trao đổi thông tin thu NSNN chưa nâng cấp đáp ứng, cơ quan Thuế và cơ quan Hải quan sẽ căn cứ vào hiện trạng hệ thống trao đổi thông tin của từng đơn vị để lựa chọn phương thức truyền nhận phù hợp.
+
+Mục G. TRUYỀN NHẬN THÔNG TIN GIỮA CƠ QUAN TÀI CHÍNH VÀ KHO BẠC NHÀ NƯỚC
+
+1. Cung cấp thông tin số thuế đã thu do cơ quan Tài chính quản lý
+
+a) Nội dung thông tin
+
+- Thông tin cụ thể khoản đã thu NSNN bao gồm:
+
+(1) Mã và tên Kho bạc Nhà nước hạch toán khoản thu;
+
+(2) Mã và tên cơ quan Tài chính quản lý khoản thu NSNN;
+
+(3) Số tham chiếu của khoản thu;
+
+(4) Mã số thuế và tên người nộp thuế;
+
+(5) Tên cơ quan có thẩm quyền ban hành quyết định/ văn bản yêu cầu phải nộp NSNN: Kiểm toán nhà nước, Thanh tra Tài chính, Thanh tra Chính phủ, cơ quan có thẩm quyền khác;
+
+(6) Tên và mã ngân hàng/KBNN thực hiện giao dịch nộp thuế;
+
+(7) Ngày nộp thuế;
+
+(8) Số, ký hiệu chứng từ nộp thuế tạo bởi NHTM, KBNN thực hiện giao dịch nộp thuế; hoặc số, ký hiệu Lệnh hoàn trả kiêm bù trừ thu NSNN tạo bởi cơ quan Tài chính.
+
+(9) Số và ký hiệu chứng từ điều chỉnh thu NSNN tạo bởi cơ quan quản lý khoản thu; Số và ký hiệu chứng từ tra soát/ trả lời tra soát.
+
+(10) Số và ký hiệu giao dịch hạch toán kế toán NSNN tại KBNN;
+
+(11) Phương thức nộp NSNN: Nộp tiền vào NSNN, nộp thuế qua hoàn kiêm bù trừ, nộp tiền vào tài khoản tiền gửi, tài khoản tạm giữ theo văn bản của cơ quan có thẩm quyền, trích tiền từ tài khoản tiền gửi, tài khoản tạm giữ sang tài khoản thu NSNN, ghi thu ghi chi, điều chỉnh thu NSNN;
+
+(12) Ngày Kho bạc hạch toán chứng từ;
+
+(13) Số và mã hiệu giao dịch KBNN hạch toán;
+
+(14) Tài khoản KBNN hạch toán thu NSNN: Thu NSNN, ghi thu ghi chi, tạm nộp;
+
+(15) Số tờ khai, niên độ KBNN hạch toán khoản nộp;
+
+(16) Mã chương của khoản nộp NSNN;
+
+(17) Mã tiểu mục của khoản nộp NSNN;
+
+(18) Mã nguyên tệ;
+
+(19) Số tiền nguyên tệ;
+
+(20) Tỷ giá KBNN hạch toán số thu;
+
+(21) Số tiền VND;
+
+(22) Số hiệu bảng kê/ gói chứng từ KBNN truyền sang cơ quan Tài chính;
+
+(23) Ngày bảng kê/ gói chứng từ KBNN truyền sang cơ quan Tài chính.
+
+b) Phương thức cung cấp thông tin
+
+Kho bạc Nhà nước truyền sang cơ quan Tài chính qua Trung tâm trao đổi thông tin thu NSNN.
+
+c) Tần suất truyền nhận
+
+Hàng ngày, Kho bạc Nhà nước có trách nhiệm cung cấp thông tin các khoản thu nộp NSNN đã được hạch toán thu NSNN đến hết ngày làm việc liền kề trước đó cho cơ quan Tài chính.
+
+Dữ liệu chứng từ thu nộp NSNN phải bao gồm các thông tin theo quy định tại điểm 1 mục này, được tạo lập theo gói chứng từ tương ứng với số hiệu Bảng kê chứng từ thu NSNN theo từng cặp Kho bạc Nhà nước và cơ quan Tài chính.
+
+2. Danh mục tỷ lệ phân chia điều tiết ngân sách nhà nước
+
+a) Nội dung thông tin
+
+- Thông tin chung về tỷ lệ phân chia, bao gồm:
+
+(1) Mã KBNN 4 số;
+
+(2) Mã tỷ lệ phân chia;
+
+(3) Tỷ lệ điều tiết cho ngân sách cấp trung ương (%);
+
+(4) Tỷ lệ điều tiết cho ngân sách cấp tỉnh (%);
+
+(5) Tỷ lệ điều tiết cho ngân sách cấp huyện (%);
+
+(6) Tỷ lệ điều tiết cho ngân sách cấp xã (%);
+
+(7) Tình trạng hoạt động của mã tỷ lệ phân chia.
+
+- Thông tin chi tiết xác định tỷ lệ phân chia bao gồm:
+
+(1) Mã tài khoản tự nhiên;
+
+(2) Mã địa bàn hành chính;
+
+(3) Mã cơ quan thu;
+
+(4) Từ mã chương;
+
+(5) Đến mã chương;
+
+(6) Từ mã ngành;
+
+(7) Đến mã ngành;
+
+(8) Từ mã NDKT;
+
+(9) Đến mã NDKT;
+
+(10) Tình trạng hoạt động của bộ xác định tỷ lệ phân chia.
+
+b) Phương thức truyền nhận
+
+Truyền nhận thông tin qua Trung tâm trao đổi thông tin thu NSNN.
+
+c) Tần suất truyền nhận
+
+Kho bạc Nhà nước truyền lần đầu và truyền khi có phát sinh, thay đổi.
+
+3. Tra soát thông tin khoản thu nộp, hoàn trả
+
+- Cơ quan Kho bạc Nhà nước/cơ quan Tài chính gửi đề nghị tra soát thông tin sang cơ quan Tài chính/Kho bạc Nhà nước để đề nghị xác nhận, cung cấp các thông tin liên quan đến chứng từ thu nộp vào NSNN, chứng từ hoàn thuế.
+
+- Trong thời hạn 03 (ba) ngày làm việc kể từ khi nhận được đề nghị tra soát của cơ quan Kho bạc Nhà nước/cơ quan Tài chính, cơ quan Tài chính/Kho bạc Nhà nước có trách nhiệm tra cứu, cung cấp, xác nhận thông tin và trả lời tra soát. Trường hợp phức tạp, cần thời gian để có thông tin trả lời, cơ quan tài chính/Kho bạc Nhà nước gửi tra soát trả lời về việc đã nhận được đề nghị tra soát và thời gian sẽ trả lời tra soát.
+
+Nội dung thông tin về điện tra soát và trả lời tra soát được quy định tại mẫu 01/TS/THU mẫu 02/TS/HOÀN (đính kèm Quyết định). Trong đó: Sử dụng mẫu 01/TS/THU để lập Thư tra soát khoản thu NSNN/ Trả lời trả soát; Sử dụng mẫu 02/TS/HOÀN để lập Thư tra soát khoản hoàn/trả lời tra soát.
+
+- Phương thức truyền nhận và thời điểm áp dụng.
+
++ Cơ quan Tài chính và Kho bạc Nhà nước truyền nhận thông tin qua Trung tâm trao đổi thông tin thu NSNN.
+
++ Việc tra soát, trả lời tra soát điện tử được triển khai áp dụng khi Trung tâm trao đổi thông tin thu NSNN đáp ứng việc truyền nhận và khi cơ quan tài chính và đơn vị Kho bạc Nhà nước đồng cấp thống nhất thực hiện.
+
+Mục H. VẬN HÀNH, GIÁM SÁT, KHẮC PHỤC LỖI HỆ THỐNG
+
+1. Vận hành hệ thống
+
+Từng cơ quan phải cử cán bộ tin học làm đầu mối để duy trì hoạt động của hệ thống truyền nhận thông tin.
+
+Quy trình xử lý sự cố, vướng mắc giữa các đơn vị tham gia hệ thống truyền nhận thông tin thu, nộp và hoàn trả NSNN được thực hiện theo Quyết định số 1274/QĐ-BTC ngày 06/06/2016 của Bộ Tài chính về việc ban hành Quy chế phối hợp thực hiện sự cố, vướng mắc giữa các đơn vị tham gia hệ thống truyền nhận thông tin thu nộp NSNN và các văn bản sửa đổi bổ sung (nếu có).
+
+2. Theo dõi giám sát
+
+Hàng ngày, cán bộ quản trị của từng đơn vị phải kiểm tra hệ thống để bảo đảm thông tin được truyền nhận thông suốt, vẹn toàn, bảo mật giữa các hệ thống.
+
+Nội dung kiểm tra hệ thống gồm: Kiểm tra hoạt động của máy chủ, kiểm tra hoạt động của chương trình, kiểm tra hệ thống truyền tin có bị sự cố cũng như bị đọng dữ liệu truyền nhận trên hàng đợi, kiểm tra hoạt động khôi phục dữ liệu.
+
+3. Hỗ trợ, khắc phục lỗi
+
+Bộ phận tin học cấp trung ương chịu trách nhiệm hỗ trợ cho cấp tỉnh trong trường hợp bộ phận tin học cấp tỉnh không thể khắc phục được sự cố kỹ thuật. Bộ phận tin học cấp tỉnh hỗ trợ cho cấp huyện trong trường hợp bộ phận tin học cấp huyện không thể khắc phục được sự cố kỹ thuật.
+
+Phần III
+
+TỔ CHỨC THỰC HIỆN
+
+1. Kho bạc Nhà nước, Tổng cục Thuế, Tổng cục Hải quan, cơ quan Tài chính chỉ đạo, tổ chức tập huấn và hướng dẫn thực hiện Quy chế truyền nhận thông tin thu nộp, hoàn trả NSNN điện tử giữa cơ quan Thuế, cơ quan Hải quan, cơ quan Tài chính và Kho bạc Nhà nước để các đơn vị triển khai.
+
+2. Cục Tin học và Thống kê Tài chính, Tổng cục Thuế, Tổng cục Hải quan, Kho bạc Nhà nước, cơ quan Tài chính căn cứ nội dung quy định tại Quy chế này để xây dựng, phát triển, nâng cấp hệ thống trao đổi thông tin và hạ tầng kỹ thuật theo hướng hiện đại, hiệu quả và phù hợp với kế hoạch phát triển hệ thống thông tin của ngành Tài chính./.
+
+| Tên KBNN:…. (1) Tên Cơ quan thu:….. (2) Mã KB:..........(1) Mã hiệu CQThu: …….(2) | THƯ TRA SOÁT KHOẢN HOÀN (1) /TRẢ LỜI TRA SOÁT (2) VABWAFAATABfADIAMAAyADIAMAA0ADEAMwA= Loại tra soát: □ Tự do □ Lệnh hoàn trả NSNN □ Lệnh hoàn trả kiêm bù trừ | Loại tra soát: | □ Tự do |  | □ Lệnh hoàn trả NSNN □ Lệnh hoàn trả kiêm bù trừ | Mẫu số: 02/TS/HOAN (Ban hành kèm theo QĐ số..../QĐ-BTC ngày  /  /2018 của Bộ Tài chính) Số tra soát:……………….. Số tra soát liên quan:………. (2) |
+
+|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|---------|--|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+
+| Loại tra soát:                                                                    | □ Tự do                                                                                                                                                        |                |         |  |                                                  |                                                                                                                                             |
+
+|                                                                                   | □ Lệnh hoàn trả NSNN □ Lệnh hoàn trả kiêm bù trừ                                                                                                               |                |         |  |                                                  |                                                                                                                                             |
+
+Tên KBNN:…. (1)
+
+Tên Cơ quan thu:….. (2)
+
+Mã KB:..........(1)
+
+Mã hiệu CQThu: …….(2)
+
+THƯ TRA SOÁT KHOẢN HOÀN (1) /TRẢ LỜI TRA SOÁT (2)
+
+| Loại tra soát: | □ Tự do                                          |
+
+|----------------|--------------------------------------------------|
+
+|                | □ Lệnh hoàn trả NSNN □ Lệnh hoàn trả kiêm bù trừ |
+
+Loại tra soát:
+
+□ Tự do
+
+□ Lệnh hoàn trả NSNN
+
+□ Lệnh hoàn trả kiêm bù trừ
+
+Mẫu số: 02/TS/HOAN (Ban hành kèm theo QĐ số..../QĐ-BTC ngày / /2018 của Bộ Tài chính)
+
+Số tra soát:………………..
+
+Số tra soát liên quan:………. (2)
+
+| Kính gửi: | <Tên cơ quan thu>(1)/ <Tên KBNN>(2) Mã hiệu:<Mã CQT>(1)/ <Mã KBNN>(2) | Tra soát hỏi/Tra soát trả lời |
+
+|-----------|-----------------------------------------------------------------------|-------------------------------|
+
+Kính gửi:
+
+<Tên cơ quan thu>(1)/ <Tên KBNN>(2)
+
+Mã hiệu:<Mã CQT>(1)/ <Mã KBNN>(2)
+
+Tra soát hỏi/Tra soát trả lời
+
+1. Thông tin đề nghị tra soát (1)/ Thông tin trả lời tra soát (2)
+
+| Lệnh hoàn  | Mã số thuế của người được hoàn trả | Tên người được hoàn trả | Số tiền được quyết định hoàn trả |  |
+
+|------------|------------------------------------|-------------------------|----------------------------------|--|
+
+| Số         | Ngày                               |                         |                                  |  |
+
+|            |                                    |                         |                                  |  |
+
+|            |                                    |                         |                                  |  |
+
+| Tổng cộng: |                                    |                         |                                  |  |
+
+Lệnh hoàn
+
+Mã số thuế của người được hoàn trả
+
+Tên người được hoàn trả
+
+Số tiền được quyết định hoàn trả
+
+Số
+
+Ngày
+
+Tổng cộng:
+
+2. Nội dung tra soát(1)/ Nội dung trả lời trả soát (2):…………………………………………
+
+……………………………………………………………………………………………………….
+
+|           | KHO BẠC NHÀ NƯỚC/CƠ QUAN THU |
+
+|-----------|------------------------------|
+
+| Người lập | Người kiểm soát (Ký số)      |
+
+KHO BẠC NHÀ NƯỚC/CƠ QUAN THU
+
+Người lập
+
+Người kiểm soát (Ký số)
+
+Ghi chú: (1) Thông tin tra soát do KBNN lập gửi tra soát
+
+(2) Thông tin tra soát do cơ quan thu lập gửi tra soát
+
+| Tên KBNN:…. (1) Tên Cơ quan thu:….. (2) Mã KB:..........(1) Mã hiệu CQThu: …….(2) | THƯ TRA SOÁT KHOẢN THU NSNN/TRẢ LỜI TRA SOÁT VABWAFAATABfADIAMAAyADIAMAA0ADEAMwA= Loại tra soát: □ Tra soát gắn với chứng từ | Loại tra soát: | □ Tra soát gắn với chứng từ | Giờ, ngày ký: …..,…./…./…. Mẫu số: 01/TS/THU (Ban hành kèm theo QĐ số..../QĐ-BTC ngày  /  /2018 của Bộ Tài chính) Số tra soát:……………….. Số tra soát liên quan:………. (2) |
+
+|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------------|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| Loại tra soát:                                                                    | □ Tra soát gắn với chứng từ                                                                                                  |                |                             |                                                                                                                                                                       |
+
+Tên KBNN:…. (1)
+
+Tên Cơ quan thu:….. (2)
+
+Mã KB:..........(1)
+
+Mã hiệu CQThu: …….(2)
+
+THƯ TRA SOÁT KHOẢN THU NSNN/TRẢ LỜI TRA SOÁT
+
+| Loại tra soát: | □ Tra soát gắn với chứng từ |
+
+|----------------|-----------------------------|
+
+Loại tra soát:
+
+□ Tra soát gắn với chứng từ
+
+Giờ, ngày ký: …..,…./…./….
+
+Mẫu số: 01/TS/THU (Ban hành kèm theo QĐ số..../QĐ-BTC ngày / /2018 của Bộ Tài chính)
+
+Số tra soát:………………..
+
+Số tra soát liên quan:………. (2)
+
+| Kính gửi: | <Tên cơ quan thu>(1)/ <Tên KBNN>(2) Mã hiệu:<Mã CQT>(1)/ <Mã KBNN>(2) | Tra soát hỏi/Tra soát trả lời |
+
+|-----------|-----------------------------------------------------------------------|-------------------------------|
+
+Kính gửi:
+
+<Tên cơ quan thu>(1)/ <Tên KBNN>(2)
+
+Mã hiệu:<Mã CQT>(1)/ <Mã KBNN>(2)
+
+Tra soát hỏi/Tra soát trả lời
+
+1. Thông tin đề nghị tra soát
+
+| Chứng từ nộp | Mã số thuế | Tên NNT           | Thông tin trên chứng từ KBNN nhận được |           |         |                |             |              |         |  |  |
+
+|--------------|------------|-------------------|----------------------------------------|-----------|---------|----------------|-------------|--------------|---------|--|--|
+
+| Số           | Ngày       | Nội dung nộp NSNN | Tài khoản                              | Mã Chương | Mã NDKT | Mã Cơ quan thu | Số TK/TB/QĐ | Ngày/kỳ thuế | Số tiền |  |  |
+
+|              |            |                   |                                        |           |         |                |             |              |         |  |  |
+
+|              |            |                   |                                        |           |         |                |             |              |         |  |  |
+
+|              |            |                   |                                        |           |         |                |             |              |         |  |  |
+
+Chứng từ nộp
+
+Mã số thuế
+
+Tên NNT
+
+Thông tin trên chứng từ KBNN nhận được
+
+Số
+
+Ngày
+
+Nội dung nộp NSNN
+
+Tài khoản
+
+Mã Chương
+
+Mã NDKT
+
+Mã Cơ quan thu
+
+Số TK/TB/QĐ
+
+Ngày/kỳ thuế
+
+Số tiền
+
+2. Nội dung tra soát(1)/ Nội dung trả lời trả soát (2):…………………………………………………..
+
+…………………………………………………………………………………………………………………
+
+|           | KHO BẠC NHÀ NƯỚC/CƠ QUAN THU |
+
+|-----------|------------------------------|
+
+| Người lập | Người kiểm soát (Ký số)      |
+
+KHO BẠC NHÀ NƯỚC/CƠ QUAN THU
+
+Người lập
+
+Người kiểm soát (Ký số)
+
+Giờ, ngày ký: …..,…../…./…..
+
+Ghi chú: (1) Thông tin tra soát do KBNN lập gửi tra soát
+
+(2) Thông tin tra soát do cơ quan thu lập gửi tra soát
+
+| KHO BẠC NHÀ NƯỚC …….. | Mẫu số: 04A/BK-CTNNS Theo QĐ số …../QĐ-BTC ngày …/…/… của BTC |
+
+|-----------------------|---------------------------------------------------------------|
+
+KHO BẠC NHÀ NƯỚC ……..
+
+Mẫu số: 04A/BK-CTNNS
+
+Theo QĐ số …../QĐ-BTC
+
+ngày …/…/… của BTC
+
+BẢNG KÊ CHỨNG TỪ HOÀN THUẾ
+
+Liên số: ………. Lưu tại ……….
+
+Từ ngày …….. đến ngày ……….
+
+Cơ quan thu ……. (Mã - Tên)
+
+| STT                                   | Lệnh hoàn                          | Quyết định hoàn | Mã số thuế | Tên người được hoàn | Niên độ               | Mã Tài khoản hoàn thuế                | Mã Chương - Mã NDKT          | Số tiền |  |  |  |  |  |
+
+|---------------------------------------|------------------------------------|-----------------|------------|---------------------|-----------------------|---------------------------------------|------------------------------|---------|--|--|--|--|--|
+
+| Số                                    | Ngày lệnh hoàn                     | Ngày hạch toán  | Số         | Ngày                | Tổng số tiền hoàn (7) | Số tiền khấu trừ hoàn trả để thu NSNN | Số tiền còn lại hoàn trả NNT |         |  |  |  |  |  |
+
+| I                                     | Hoàn thuế GTGT                     |                 |            |                     |                       |                                       |                              |         |  |  |  |  |  |
+
+| A                                     | Lệnh hoàn trả khoản thu NSNN       |                 |            |                     |                       |                                       |                              |         |  |  |  |  |  |
+
+|                                       | ...                                |                 |            |                     |                       |                                       |                              |         |  |  |  |  |  |
+
+| B                                     | Lệnh hoàn trả kiêm bù trừ thu NSNN |                 |            |                     |                       |                                       |                              |         |  |  |  |  |  |
+
+|                                       | ...                                |                 |            |                     |                       |                                       |                              |         |  |  |  |  |  |
+
+| Cộng phần hoàn trả (8):               |                                    |                 |            |                     |                       |                                       |                              |         |  |  |  |  |  |
+
+| Cộng phần lãi (9):                    |                                    |                 |            |                     |                       |                                       |                              |         |  |  |  |  |  |
+
+| II                                    | Hoàn thuế nộp thừa                 |                 |            |                     |                       |                                       |                              |         |  |  |  |  |  |
+
+| A                                     | Lệnh hoàn trả khoản thu NSNN       |                 |            |                     |                       |                                       |                              |         |  |  |  |  |  |
+
+|                                       | ...                                |                 |            |                     |                       |                                       |                              |         |  |  |  |  |  |
+
+| B                                     | Lệnh hoàn trả kiêm bù trừ thu NSNN |                 |            |                     |                       |                                       |                              |         |  |  |  |  |  |
+
+|                                       |                                    |                 |            |                     |                       |                                       |                              |         |  |  |  |  |  |
+
+| Cộng phần hoàn trả (10):              |                                    |                 |            |                     |                       |                                       |                              |         |  |  |  |  |  |
+
+| Cộng phần lãi (11):                   |                                    |                 |            |                     |                       |                                       |                              |         |  |  |  |  |  |
+
+| Cộng phần hoàn trả (12) = (8) + (10): |                                    |                 |            |                     |                       |                                       |                              |         |  |  |  |  |  |
+
+| Cộng phần lãi (13) = (9) + (11):      |                                    |                 |            |                     |                       |                                       |                              |         |  |  |  |  |  |
+
+| Tổng cộng = (12) + (13):              |                                    |                 |            |                     |                       |                                       |                              |         |  |  |  |  |  |
+
+STT
+
+Lệnh hoàn
+
+Quyết định hoàn
+
+Mã số thuế
+
+Tên người được hoàn
+
+Niên độ
+
+Mã Tài khoản hoàn thuế
+
+Mã Chương - Mã NDKT
+
+Số tiền
+
+Số
+
+Ngày lệnh hoàn
+
+Ngày hạch toán
+
+Số
+
+Ngày
+
+Tổng số tiền hoàn (7)
+
+Số tiền khấu trừ hoàn trả để thu NSNN
+
+Số tiền còn lại hoàn trả NNT
+
+I
+
+Hoàn thuế GTGT
+
+A
+
+Lệnh hoàn trả khoản thu NSNN
+
+...
+
+B
+
+Lệnh hoàn trả kiêm bù trừ thu NSNN
+
+...
+
+Cộng phần hoàn trả (8):
+
+Cộng phần lãi (9):
+
+II
+
+Hoàn thuế nộp thừa
+
+A
+
+Lệnh hoàn trả khoản thu NSNN
+
+...
+
+B
+
+Lệnh hoàn trả kiêm bù trừ thu NSNN
+
+Cộng phần hoàn trả (10):
+
+Cộng phần lãi (11):
+
+Cộng phần hoàn trả (12) = (8) + (10):
+
+Cộng phần lãi (13) = (9) + (11):
+
+Tổng cộng = (12) + (13):
+
+Tổng số tiền bằng chữ:……………………………………………………………………………
+
+| Ngày ... tháng ... năm ... (1) KHO BẠC NHÀ NƯỚC |                 |              |             |
+
+|-------------------------------------------------|-----------------|--------------|-------------|
+
+| Kế toán trưởng Tên (2)                          | Kế toán Tên (4) |              |             |
+
+| Chữ ký số (3)                                   |                 | Người in (5) | Ngày in (6) |
+
+Ngày ... tháng ... năm ... (1)
+
+KHO BẠC NHÀ NƯỚC
+
+Kế toán trưởng
+
+Tên (2)
+
+Kế toán
+
+Tên (4)
+
+Chữ ký số (3)
+
+Người in (5)
+
+Ngày in (6)
+
+Ghi chú:
+
+- Chỉ tiêu (1): Ngày, tháng, năm ký bảng kê điện tử hoặc bảng kê giấy trong trường hợp không truyền đường bảng kê điện tử;
+
+- Chỉ tiêu (2): Tên của Kế toán trưởng của KBNN;
+
+- Chỉ tiêu (3): Chữ ký điện tử đích danh của Kế toán trưởng của KBNN trong trường hợp truyền bảng kê thu NSNN gắn chữ ký số. Chữ ký của Kế toán trưởng của KBNN trong trường hợp in bảng kê giấy và có đóng dấu của KBNN khi bị lỗi truyền nhận bảng kê điện tử có gắn chữ ký số;
+
+- Chỉ tiêu (4): Tên Kế toán viên của KBNN trong trường hợp in bảng kê giấy khi bị lỗi truyền nhận bảng kê điện tử có gắn chữ ký số;
+
+- Chỉ tiêu (5): Tên Người in bảng kê của cơ quan thu trong những trường hợp cơ quan thu in phục hồi bảng kê điện tử;
+
+- Chỉ tiêu (6): Ngày, tháng, năm cơ quan thu in phục hồi bảng kê điện tử.
+
+- Chỉ tiêu (7): Ghi số tiền chi trả lãi hoàn trả chậm theo Tiểu mục chi trả lãi do chậm hoàn trả thuế vào cột Tổng số tiền hoàn

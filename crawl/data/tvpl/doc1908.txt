@@ -1,0 +1,621 @@
+| BỘ TÀI CHÍNH       | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|--------------------|-----------------------------------------------------------------|
+
+| Số: 09/2017/TT-BTC | Hà Nội, ngày 06 tháng 02 năm 2017                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 09/2017/TT-BTC
+
+Hà Nội, ngày 06 tháng 02 năm 2017
+
+THÔNG TƯ
+
+VỀ QUY CHUẨN KỸ THUẬT QUỐC GIA ĐỐI VỚI MÁY BƠM NƯỚC CHỮA CHÁY (ĐỒNG BỘ THIẾT BỊ CHỮA CHÁY RỪNG) DỰ TRỮ QUỐC GIA
+
+Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật số 68/2006/QH11 ngày 29 tháng 6 năm 2006;
+
+Căn cứ Luật Dự trữ quốc gia số 22/2012/QH13 ngày 20 tháng 11 năm 2012;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 94/2013/NĐ-CP ngày 21 tháng 8 năm 2013 của Chính phủ quy định chi tiết thi hành Luật Dự trữ quốc gia;
+
+Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Theo đề nghị của Tổng cục trưởng Tổng cục Dự trữ Nhà nước;
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư về Quy chuẩn kỹ thuật quốc gia đối với máy bơm nước chữa cháy (đồng bộ thiết bị chữa cháy rừng) dự trữ quốc gia.
+
+Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia đối với máy bơm nước chữa cháy (đồng bộ thiết bị chữa cháy rừng) dự trữ quốc gia.
+
+Điều 2. Thông tư này có hiệu lực kể từ ngày 10 tháng 8 năm 2017 và thay thế Thông tư số 41/2010/TT-BTC ngày 25/3/2010 của Bộ trưởng Bộ Tài chính ban hành Quy chuẩn kỹ thuật quốc gia về dự trữ nhà nước đối với máy bơm nước chữa cháy.
+
+Điều 3. Tổng cục trưởng Tổng cục Dự trữ Nhà nước, Thủ trưởng các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động giao nhận (nhập, xuất), bảo quản và quản lý máy bơm nước chữa cháy (đồng bộ thiết bị chữa cháy rừng) dự trữ quốc gia có trách nhiệm tổ chức thực hiện Thông tư này.
+
+Trong quá trình thực hiện, nếu có vấn đề vướng mắc, các cơ quan, tổ chức, cá nhân kịp thời phản ánh về Bộ Tài chính để nghiên cứu, sửa đổi, bổ sung./.
+
+| Nơi nhận: - Văn phòng TW Đảng và các Ban của Đảng; - Văn phòng Quốc hội; - Văn phòng Tổng bí thư; - Văn phòng Chủ tịch nước; - Văn phòng Chính phủ; - Viện kiểm sát nhân dân tối cao; - Tòa án nhân dân tối cao; - Kiểm toán Nhà nước; - Các Bộ, cơ quan ngang Bộ; cơ quan thuộc Chính phủ; - Các cơ quan Trung ương của các đoàn thể; - Các đơn vị thuộc Bộ Tài chính; - Cục Kiểm tra văn bản - Bộ Tư pháp; - Công báo; Website Chính phủ; Website Bộ Tài chính; - Lưu: VT, TCDT. | KT. BỘ TRƯỞNG THỨ TRƯỞNG Nguyễn Hữu Chí |
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+
+Nơi nhận: - Văn phòng TW Đảng và các Ban của Đảng; - Văn phòng Quốc hội; - Văn phòng Tổng bí thư; - Văn phòng Chủ tịch nước; - Văn phòng Chính phủ; - Viện kiểm sát nhân dân tối cao; - Tòa án nhân dân tối cao; - Kiểm toán Nhà nước; - Các Bộ, cơ quan ngang Bộ; cơ quan thuộc Chính phủ; - Các cơ quan Trung ương của các đoàn thể; - Các đơn vị thuộc Bộ Tài chính; - Cục Kiểm tra văn bản - Bộ Tư pháp; - Công báo; Website Chính phủ; Website Bộ Tài chính; - Lưu: VT, TCDT.
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Nguyễn Hữu Chí
+
+QCVN 10: 2017/BTC
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA ĐỐI VỚI MÁY BƠM NƯỚC CHỮA CHÁY (ĐỒNG BỘ THIẾT BỊ CHỮA CHÁY RỪNG) DỰ TRỮ QUỐC GIA
+
+National technical regulation on state reserve of Fire-fighting water pumps (synchronous firefighting equipment)
+
+MỤC LỤC
+
+Lời nói đầu
+
+1. QUY ĐỊNH CHUNG
+
+1.1. Phạm vi điều chỉnh
+
+1.2. Đối tượng áp dụng
+
+1.3. Giải thích từ ngữ
+
+1.4. Tài liệu viện dẫn
+
+2. YÊU CẦU KỸ THUẬT
+
+2.1. Yêu cầu về kỹ thuật
+
+2.2. Căn cứ quy định yêu cầu kỹ thuật tại Quy chuẩn này
+
+3. PHƯƠNG PHÁP THỬ
+
+3.1. Kiểm tra ngoại quan
+
+3.2. Kiểm tra vận hành
+
+3.3. Kiểm tra đáp ứng các yêu cầu kỹ thuật
+
+4. QUY ĐỊNH VỀ GIAO NHẬN VÀ BẢO QUẢN
+
+4.1. Vận chuyển
+
+4.2. Yêu cầu đối với vật tư, thiết bị, dụng cụ
+
+4.3. Quy trình kiểm tra khi nhập kho
+
+4.4. Bảo quản
+
+4.5. Quy trình xuất hàng
+
+4.6. Quy định về báo cáo chất lượng máy bơm nước chữa cháy
+
+5. QUY ĐỊNH VỀ QUẢN LÝ
+
+5.1. Kiểm tra chất lượng
+
+5. 2. Yêu cầu về nhà kho
+
+5.3. Lập thẻ lô hàng
+
+5.4. Chế độ ghi chép sổ sách theo dõi hàng hóa
+
+5.5. Phòng chống cháy nổ
+
+5.6. Yêu cầu về quản lý
+
+6. TRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN
+
+7. TỔ CHỨC THỰC HIỆN
+
+Lời nói đầu
+
+QCVN 10: 2017/BTC thay thế QCVN 10: 2010/BTC Quy chuẩn kỹ thuật quốc gia đối với máy bơm nước chữa cháy (đồng bộ thiết bị chữa cháy rừng) dự trữ quốc gia do Tổng cục Dự trữ Nhà nước biên soạn và trình duyệt, Bộ Khoa học và Công nghệ thẩm định và được Bộ trưởng Bộ Tài chính ban hành tại Thông tư số 09/2017/TT-BTC ngày 06 tháng 02 năm 2017.
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA ĐỐI VỚI MÁY BƠM NƯỚC CHỮA CHÁY (ĐỒNG BỘ THIẾT BỊ CHỮA CHÁY RỪNG) DỰ TRỮ QUỐC GIA
+
+National technical regulation on state reserve of fire-fighting water pumps (synchronous firefighting equipment)
+
+1. QUY ĐỊNH CHUNG
+
+1.1. Phạm vi điều chỉnh
+
+Quy chuẩn này quy định về yêu cầu kỹ thuật, phương pháp thử, giao nhận (nhập, xuất), bảo quản và công tác quản lý đối với máy bơm nước chữa cháy (đồng bộ thiết bị chữa cháy rừng) dự trữ quốc gia.
+
+1.2. Đối tượng áp dụng
+
+Quy chuẩn này áp dụng đối với các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động giao nhận (nhập, xuất), bảo quản và quản lý máy bơm nước chữa cháy (đồng bộ thiết bị chữa cháy rừng) dự trữ quốc gia.
+
+1.3. Giải thích từ ngữ
+
+Trong Quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
+
+1.3.1. Máy bơm nước chữa cháy (đồng bộ thiết bị chữa cháy rừng) dự trữ quốc gia là máy bơm loại khiêng tay và trang thiết bị kèm theo có yêu cầu kỹ thuật phù hợp theo Mục 2 Quy chuẩn này để phục vụ công tác cứu hộ, cứu nạn. Sau đây gọi tắt là máy bơm nước chữa cháy.
+
+1.3.2. Lô máy bơm nước chữa cháy là những máy bơm và trang thiết bị tương ứng kèm theo được sản xuất hàng loạt có cùng công dụng, nhãn hiệu, kiểu loại, cùng vật liệu chế tạo, đặc tính kỹ thuật, của cùng một cơ sở chế tạo.
+
+1.4. Tài liệu viện dẫn
+
+1.4.1. Tiêu chuẩn quốc gia TCVN 8060: 2009 (ISO 14557: 2002) Phương tiện chữa cháy - Vòi chữa cháy - Vòi hút bằng cao su, chất dẻo và cụm vòi.
+
+1.4.2. Tiêu Chuẩn quốc gia TCVN 5740: 2009 Phương tiện phòng cháy chữa cháy - Vòi đẩy chữa cháy - Vòi đẩy bằng sợi tổng hợp tráng cao su.
+
+1.4.3. Tiêu chuẩn quốc gia TCVN 5739:1993 Thiết bị chữa cháy đầu nố i.
+
+2. YÊU CẦU KỸ THUẬT
+
+2.1. Yêu cầu về kỹ thuật
+
+Máy bơm nước chữa cháy phải đáp ứng các yêu cầu kỹ thuật về phương tiện phòng cháy, chữa cháy của Bộ Công an; trong đó đáp ứng các yêu cầu cụ thể sau:
+
+2.1.1. Máy bơm
+
+2.1.1.1. Động cơ
+
+- Loại động cơ: Động cơ đốt trong;
+
+- Công suất định mức (công suất liên tục): Không nhỏ hơn 30 kW;
+
+2.1.1.2. Bơm
+
+- Loại bơm: Bơm ly tâm;
+
+- Lưu lượng phun với áp lực bơm 0,5 MPa (tại chiều sâu hút nước 3m): Không nhỏ hơn 1350 L/min;
+
+- Chiều sâu hút nước lớn nhất: Không nhỏ hơn 7,5 m.
+
+2.1.1.3. Khối lượng khô: Không lớn hơn 100 kg.
+
+2.1.2. Trang thiết bị
+
+2.1.2.1. Vòi hút (ống hút) kiểu A:
+
+- Vật liệu: Bằng vải tráng cao su có lõi thép chịu áp lực cao và áp lực chân không; vòi hút có đủ đầu nối (khớp nối) và trõ lọc rác, đồng bộ với kích thước cửa hút của máy bơm;
+
+- Các yêu cầu kỹ thuật thỏa mãn Tiêu chuẩn quốc gia TCVN 8060: 2009 (ISO 14557: 2002) Phương tiện chữa cháy - Vòi chữa cháy - vòi hút bằng cao su, chất dẻo và cụm vòi.
+
+2.1.2.2. Vòi đẩy chữa cháy
+
+- Vật liệu: Làm bằng sợi tổng hợp bên trong tráng cao su; vòi đẩy có đầu nối (khớp nối) phù hợp với ba chạc;
+
+- Các yêu cầu kỹ thuật thỏa mãn Tiêu chuẩn quốc gia TCVN 5740: 2009 Phương tiện phòng cháy chữa cháy - Vòi đẩy chữa cháy - Vòi đẩy bằng sợi tổng hợp tráng cao su.
+
+2.1.2.3. Ba chạc
+
+- Vật liệu: Hợp kim nhôm;
+
+- Kích thước cửa vào và cửa ra: Đồng bộ với kích thước cửa xả của máy bơm và vòi đẩy chữa cháy.
+
+2.1.2.4. Lăng phun
+
+- Vật liệu: Hợp kim nhôm;
+
+- Kiểu phun: Đa tác dụng (phun thẳng, phun mưa);
+
+- Kiểu loại: Điều chỉnh bằng tay.
+
+2.1.2.5. Đầu nối
+
+- Vật liệu: Hợp kim nhôm.
+
+- Các yêu cầu kỹ thuật thỏa mãn Tiêu chuẩn quốc gia TCVN 5739: 1993 Thiết bị chữa cháy đầu nối.
+
+(Ghi chú: Sai số cho phép kích thước cửa hút, kích thước cửa xả, ba chạc, lăng phun khi lắp ghép đảm bảo độ kín trong quá trình vận hành, kiểm tra).
+
+2.2. Căn cứ quy định yêu cầu kỹ thuật tại quy chuẩn này và tình hình điều kiện cụ thể, Thủ trưởng đơn vị dự trữ quốc gia quy định tiêu chuẩn kỹ thuật cho từng loại máy bơm nước chữa cháy (bao gồm số lượng vòi hút, vòi đẩy chữa cháy, lăng phun) đưa vào dự trữ quốc gia.
+
+3. PHƯƠNG PHÁP THỬ
+
+Máy bơm nước chữa cháy trước khi nhập kho (đưa vào) dự trữ quốc gia phải được Kiểm tra chứng nhận chất lượng sản phẩm theo quy định của pháp luật. Các đơn vị dự trữ quốc gia lấy mẫu kiểm tra chất lượng trước khi nhập kho theo các nội dung sau:
+
+3.1. Kiểm tra ngoại quan
+
+3.1.1. Lấy mẫu
+
+Mẫu được lấy ngẫu nhiên trong số máy bơm nước chữa cháy nhập kho (quá trình giao nhận và bảo quản) để kiểm tra ngoại quan; số lượng tối thiểu 2% nhưng không ít hơn 05 chiếc.
+
+3.1.2. Nội dung kiểm tra: Theo quy định tại điểm 4.3.2.1, Mục 4 của Quy chuẩn này.
+
+3.2. Kiểm tra vận hành
+
+3.2.1. Lấy mẫu (không thuộc số lượng máy bơm nước chữa cháy tại điểm 3.1.1 của Quy chuẩn này)
+
+Mẫu được lấy ngẫu nhiên trong quá trình giao nhận để kiểm tra vận hành là 5 % nhưng không ít hơn:
+
+- 3 máy bơm khi số lượng nhập tại một điểm kho từ 20 máy bơm đến 50 máy bơm;
+
+- 2 máy bơm khi số lượng máy nhập tại một điểm kho nhỏ hơn 20 máy bơm.
+
+3.2.2. Nội dung kiểm tra: Theo quy định tại điểm 4.3.2.2, Mục 4 của Quy chuẩn này.
+
+3.3. Kiểm tra đáp ứng các yêu cầu kỹ thuật
+
+3.3.1. Lấy mẫu
+
+Đối với lô máy bơm nước chữa cháy của mỗi nhà sản xuất có số lượng không lớn hơn 50 bộ thì khi giao nhận lấy ngẫu nhiên 01 máy bơm nước chữa cháy (bao gồm máy bơm và trang thiết bị đồng bộ kèm theo) để kiểm tra. Nếu máy bơm hoặc thiết bị lấy đi kiểm tra có một chỉ tiêu không đảm bảo chất lượng thì tiến hành kiểm tra thêm một máy bơm hoặc một thiết bị tiếp theo. Nếu sau hai lần kiểm tra không đạt thì đơn vị dự trữ quốc gia lập biên bản không chấp nhận lô hàng và yêu cầu đơn vị cung cấp thay thế lô hàng khác và kiểm tra lại theo quy định.
+
+3.3.2. Các yêu cầu kỹ thuật phải kiểm tra:
+
+3.3.2.1. Máy bơm: Kiểm tra 03 chỉ tiêu là công suất định mức (công suất liên tục), lưu lượng phun và chiều sâu hút nước lớn nhất theo quy định tại khoản 2.1, Mục 2 Quy chuẩn này với sai số cho phép không quá 3%.
+
+3.3 2.2. Trang thiết bị
+
+- Vòi hút kiểm tra các chỉ tiêu: Áp suất thử; áp suất nổ; lực bám dính và kiểm tra đầu nối của vòi hút;
+
+- Vòi đẩy chữa cháy kiểm tra các chỉ tiêu: Áp suất thủy lực làm việc; áp suất thủy lực thử nghiệm; độ bền liên kết giữa lớp cao su và lớp vải bao ngoài vòi đẩy và kiểm tra đầu nối của vòi đẩy (từ 2 phía của vòi đẩy);
+
+- Đầu nối:
+
++ Đầu nối hút: Kiểm tra độ bền, độ kín chân không (đầu nối của vòi hút);
+
++ Đầu nối phun: Kiểm tra độ bền, độ kín (đầu nối của vòi đẩy chữa cháy, ba chạc, lăng phun);
+
+3.3.2 3. Các chỉ tiêu kỹ thuật của máy bơm và trang thiết bị theo quy định tại khoản 2.1, Mục 2 của Quy chuẩn này.
+
+3.3.3. Phương pháp thử
+
+3.3.3.1. Kiểm tra vòi hút (ống hút) với mức chỉ tiêu và phương pháp thử theo Tiêu chuẩn quốc gia TCVN 8060: 2009 (ISO 14557: 2002) Phương tiện chữa cháy - Vòi chữa cháy - Vòi hút bằng cao su, chất dẻo và cụm vòi;
+
+3.3.3.2. Kiểm tra vòi đẩy chữa cháy với mức chỉ tiêu và phương pháp thử theo Tiêu chuẩn quốc gia TCVN 5740: 2009 Phương tiện phòng cháy chữa cháy - Vòi đẩy chữa cháy - Vòi đẩy bằng sợi tổng hợp tráng cao su;
+
+3.3.3.3. Kiểm tra đầu nối (khớp nối) với mức chỉ tiêu và phương pháp thử theo Tiêu chuẩn quốc gia TCVN 5739: 1993 Thiết bị chữa cháy đầu nối;
+
+3.3.3.4. Phương pháp thử kiểm tra vật liệu chế tạo ba chạc và lăng phun bằng phương pháp quang phổ hoặc phương pháp thử được quy định tại quy chuẩn, tiêu chuẩn kỹ thuật theo quy định của pháp luật.
+
+3.3.4. Tổ chức kiểm tra, kiểm định, thử nghiệm: Phòng thử nghiệm được chỉ định (nếu có) hoặc Phòng thử nghiệm được công nhận (Vilas, Las) hoặc đơn vị Đo lường được công nhận khả năng thử nghiệm thuộc Tổng cục Tiêu chuẩn Đo lường Chất lượng.
+
+4. QUY ĐỊNH VỀ GIAO NHẬN VÀ BẢO QUẢN
+
+4.1. Vận chuyển
+
+- Phương tiện vận chuyển phải có mui che mưa, nắng và sạch; không vận chuyển cùng với vật liệu và hóa chất gây ảnh hưởng đến chất lượng máy bơm nước chữa cháy;
+
+- Khi đưa máy bơm và trang thiết bị kèm theo lên và xuống xe, phải chuẩn bị các phương tiện, dụng cụ nâng hạ; các kiện hàng phải xếp lên xe theo hướng dẫn trên bao bì; kê xếp đảm bảo chắc chắn không làm đổ vỡ ảnh hưởng đến chất lượng hàng hóa.
+
+4.2. Yêu cầu đối với vật tư, thiết bị, dụng cụ
+
+Đơn vị được giao nhiệm vụ trực tiếp quản lý máy bơm nước chữa cháy có trách nhiệm chuẩn bị đầy đủ vật tư, thiết bị, dụng cụ phục vụ cho quá trình nhập, xuất và bảo quản máy bơm nước chữa cháy gồm:
+
+- Giá kê: Dùng để kê, xếp máy bơm và trang thiết bị;
+
+- Bể chứa nước phục vụ cho quá trình vận hành máy bơm nước chữa cháy;
+
+- Máy nén khí: Dùng để vệ sinh máy bơm, trang thiết bị và thổi bột tan vào bên trong vòi hút, vòi đẩy;
+
+- 01 bộ đồ nghề phục vụ cho công tác nhập, bảo quản và xuất kho; 01 bộ vòi hút, vòi đẩy chữa cháy phục vụ cho quá trình thử máy;
+
+- Vật tư dùng cho bảo quản: Ắc quy, xăng (A92 hoặc A95), nhiên liệu điêzen, dầu máy (động cơ 4 kỳ), dầu bôi trơn (động cơ 2 kỳ), bột tan, chổi, giẻ lau, xà phòng, vải bạt, thuốc xử lý côn trùng và sinh vật có hại;
+
+- Vật tư dùng cho nhập, xuất hàng: Ắc quy, xăng (A92 hoặc A95), nhiên liệu điêzen, dầu máy (động cơ 4 kỳ), dầu bôi trơn (động cơ 2 kỳ), bột tan, chổi, giẻ lau, xà phòng, vải bạt, thuốc xử lý côn trùng và sinh vật có hại;
+
+- Vật tư liên quan đến điện, nước: Dây điện, bóng điện thắp sáng trong và ngoài kho, điện bơm nước và xì khô, điện dùng cho thiết bị bảo quản; nước cho bảo quản và phòng cháy chữa cháy;
+
+- Dụng cụ, thiết bị phòng chống lụt bão, phòng cháy chữa cháy;
+
+- Các loại dụng cụ, trang thiết bị khác có liên quan đến công tác nhập, xuất và bảo quản máy bơm nước chữa cháy.
+
+4.3. Quy trình kiểm tra khi nhập kho
+
+Đơn vị dự trữ quốc gia thực hiện kiểm tra máy bơm nước chữa cháy khi nhập kho theo các nội dung sau:
+
+4.3.1. Kiểm tra hồ sơ kỹ thuật
+
+4.3.1.1. Giấy tờ do đơn vị cung cấp hàng cung cấp
+
+4.3.1.1.1. Đối với máy nhập khẩu, phải có đủ các hồ sơ sau
+
+- Giấy chứng nhận xuất xưởng của nhà sản xuất đối với lô máy bơm;
+
+- Giấy chứng nhận xuất xưởng của nhà sản xuất đối với lô trang thiết bị;
+
+- Giấy chứng nhận xuất xứ lô máy bơm;
+
+- Giấy chứng nhận xuất xứ lô trang thiết bị;
+
+- Chứng thư giám định về số lượng và chủng loại của lô máy bơm nước chữa cháy (máy bơm và trang thiết bị) nhập khẩu của cơ quan có chức năng giám định chất lượng hàng hóa cấp;
+
+- Bản kê chi tiết đóng gói các phụ kiện đồng bộ kèm theo từng máy của nhà sản xuất hoặc xuất khẩu;
+
+- Phiếu bảo hành máy bơm nước chữa cháy và các thông tin về quyền lợi, phạm vi và địa điểm cung cấp dịch vụ bảo hành;
+
+- Tài liệu kỹ thuật về cấu tạo của máy bơm nước chữa cháy, bảo đảm đúng chủng loại và phải là bản in mầu. Tài liệu hướng dẫn sử dụng máy, ngoài tài liệu của nhà sản xuất đơn vị bán hàng có trách nhiệm cung cấp thêm một bản dịch Tiếng Việt cho từng đơn vị dự trữ quốc gia nhập hàng;
+
+- Giấy chứng nhận kiểm định phương tiện phòng cháy và chữa cháy của Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ - Bộ Công an kiểm tra và cấp cho lô máy bơm nước chữa cháy giao nhận (máy bơm và trang thiết bị).
+
+4.3.1.1.2. Đối với máy bơm nước chữa cháy được sản xuất hoặc lắp ráp trong nước phải có đủ hồ sơ theo các nội dung quy định tại điểm 4.3.1.1.1 (trừ Giấy chứng nhận xuất xứ và chứng thư giám định lô hàng),
+
+4.3.1.2. Hồ sơ do đơn vị dự trữ quốc gia phối hợp với đơn vị cung cấp hàng thực hiện.
+
+- Biên bản kiểm tra hồ sơ kỹ thuật;
+
+- Biên bản kiểm tra ngoại quan của lô hàng;
+
+- Biên bản lấy mẫu đưa đi kiểm tra chất lượng và biên bản bàn giao mẫu cho đơn vị kiểm tra chất lượng;
+
+- Phiếu kết quả thử nghiệm các chỉ tiêu của máy bơm và trang thiết bị;
+
+- Biên bản giao nhận và các tài liệu kèm theo.
+
+4.3.1.3. Kiểm tra, giao nhận hồ sơ
+
+- Đơn vị dự trữ quốc gia nhận hàng phải kiểm tra tính đầy đủ, chính xác và hiệu lực của các hồ sơ nêu trên nhằm xác định rõ chất lượng lô hàng nhập kho dự trữ;
+
+- Khi một lượng hàng giao nhận được chia ở nhiều đơn vị dự trữ quốc gia khác nhau, hồ sơ là bản chính được giao cho đơn vị dự trữ quốc gia có số lượng hàng nhập kho nhiều nhất, các đơn vị dự trữ quốc gia khác là bản sao có công chứng.
+
+4.3.2. Kiểm tra khi giao nhận
+
+4.3.2.1. Kiểm tra ngoại quan
+
+Nội dung kiểm tra:
+
+- Máy bơm: Kiểm đếm đủ số lượng máy; kiểm tra xác định ký mã hiệu từng máy phù hợp với các hồ sơ liên quan khi nhập hàng; kiểm tra tính đồng bộ của máy (đèn chiếu sáng, ắc quy phù hợp với kiểu máy bơm), các chi tiết máy gắn liền trên máy và của các phụ tùng, tình trạng bên ngoài máy không bị méo bẹp, gãy vỡ, rạn nứt hoặc han rỉ;
+
+- Trang thiết bị: Kiểm đếm đủ số lượng trang thiết bị; kiểm tra xác định ký mã hiệu từng trang thiết bị phù hợp với các hồ sơ liên quan khi nhập hàng; kiểm tra tính đồng bộ trang thiết bị. Các trang thiết bị sáng, bóng, không bị méo bẹp, gãy vỡ, rạn nứt hoặc han rỉ, rỗ, bọt khí.
+
+Nếu máy bơm hoặc thiết bị lấy kiểm tra có một chỉ tiêu không đảm bảo chất lượng thì tiến hành kiểm tra thêm với số lượng 50%. Nếu sau hai lần kiểm tra không đạt thì đơn vị dự trữ quốc gia lập biên bản không chấp nhận lô hàng và yêu cầu đơn vị cung cấp thay thế lô hàng khác và kiểm tra lại theo quy định.
+
+4.3 2.2. Kiểm tra vận hành
+
+Thực hiện theo quy định tại điểm 4.4.4.1, Mục 4 của Quy chuẩn này. Trong quá trình kiểm tra vận hành yêu cầu tại các vị trí lắp ghép đầu nối, bề mặt ghép nối của ba chạc, lăng phun không bị rò nước. Nếu bất kỳ một máy hoặc thiết bị nào bị sự cố kỹ thuật phải tách riêng ra, tiến hành chọn ngẫu nhiên một máy hoặc thiết bị khác thay thế. Nếu máy hoặc thiết bị thay thế vẫn bị sự cố kỹ thuật khi kiểm tra, đơn vị nhận hàng mở rộng kiểm tra toàn bộ số lượng máy hoặc thiết bị đó.
+
+4.3.2 3. Lấy mẫu đưa đi kiểm tra chất lượng: Thực hiện theo quy định tại khoản 3.2, Mục 3 của Quy chuẩn này.
+
+4.3.3. Giao nhận, điều chuyển trong phạm vi nội bộ Tổng cục Dự trữ Nhà nước
+
+4.3.3.1. Bàn giao hồ sơ
+
+- Khi điều chuyển máy trong phạm vi nội bộ Tổng cục Dự trữ Nhà nước, các hồ sơ liên quan phải được bàn giao đầy đủ theo từng máy.
+
+- Nếu số máy được điều chuyển không trọn cả lô máy, các hồ sơ liên quan được bàn giao là bản sao hợp pháp. Đơn vị dự trữ quốc gia là đơn vị giao hàng phải lưu giữ các hồ sơ chính cùng với số máy còn lại. Trong trường hợp toàn bộ lô máy được điều chuyển cho nhiều đơn vị dự trữ quốc gia khác nhau, đơn vị tiếp nhận nhiều máy nhất được giữ các hồ sơ chính.
+
+4.3.3.2. Giao nhận máy
+
+Thực hiện như quy định tại điểm 4.3.2.1 và 4.3.2.2. Trong trường hợp số máy được giao nhận có bao gồm các máy đã vận hành nổ máy 3 tháng 1 lần, việc kiểm tra nổ máy giới hạn trong số các máy đã được vận hành nổ máy 3 tháng 1 lần.
+
+4.3.4. Biên bản giao nhận
+
+Mọi trường hợp giao nhận máy đều phải lập biên bản ghi rõ số lượng, chất lượng, tình trạng thực tế của lô hàng và các tài liệu hồ sơ kèm theo. Biên bản giao nhận được lưu giữ cùng các hồ sơ pháp lý khác kèm theo lô hàng.
+
+4.4. Bảo quản
+
+4.4.1. Kê xếp
+
+4.4.1.1. Đối với máy bơm
+
+- Được kê xếp trên giá kê, chiều cao mặt sàn giá kê cách sàn kho tối thiểu là 0,3 m, các máy bơm được xếp một lớp trên giá kê;
+
+- Hai máy bơm xếp kế tiếp nhau theo hàng ngang quy định có khoảng cách tối thiểu là 0,2 m bảo đảm cho việc vệ sinh thường xuyên;
+
+- Các mặt bao kiện chứa máy bơm có ghi ký hiệu được quay ra ngoài để tiện cho việc theo dõi kiểm kê;
+
+- Sàn kho bảo đảm có khoảng lưu không phục vụ công tác bảo quản, di chuyển khi xuất, nhập. Lô hàng cách tường kho, cột kho tối thiểu là 0,5 m; khoảng cách giữa các lô hàng tối thiểu là 2 m.
+
+4.4.1.2. Đối với trang thiết bị kèm theo máy bơm
+
+- Vòi hút được xếp trên giá kê cách sàn kho tối thiểu 0,3 m, mặt giá được lót phẳng, các vòi hút xếp chồng lên nhau không quá 5 lớp;
+
+- Vòi đẩy chữa cháy được cuộn tròn, bọc kín, đặt trong thùng chứa riêng biệt và không để lẫn với các phụ kiện khác;
+
+- Lăng phun và các đầu nối được lau chùi sạch, bọc kín bằng giấy nến cất xếp riêng và không để lẫn với phụ kiện khác.
+
+4.4.1.3. Ắc quy kèm theo máy phải là ắc quy khô chưa đổ điện dịch, được bảo quản riêng và không được xếp chồng lên nhau.
+
+4.4.2. Bảo quản lần đầu: Là các công việc thực hiện sau khi giao nhận nhập kho dự trữ quốc gia, bao gồm:
+
+- Lau chùi, vệ sinh sạch toàn bộ số máy bơm nước chữa cháy khi giao nhận, đánh số theo dõi và cất xếp trong cùng một lô hàng.
+
+- Lau chùi, làm khô (trong và ngoài) các chi tiết đã đưa ra sử dụng trong quá trình kiểm tra: Lăng phun, các đầu vòi hút, đầu nối, vòi đẩy chữa cháy, xả hết nhiên liệu trong thùng chứa...
+
+4.4.3. Bảo quản thường xuyên
+
+- Hàng ngày thủ kho bảo quản phải kiểm tra tình trạng an toàn của nhà kho, mặt ngoài các thùng chứa hàng nhằm phát hiện sinh vật gây hại xâm nhập kho và các dấu hiệu không an toàn khác. Nếu phát hiện thấy phải xác định rõ nguyên nhân, báo cáo người phụ trách đơn vị và có biện pháp xử lý kịp thời. Kiểm tra độ ẩm, nhiệt độ trong kho, thực hiện thông gió tự nhiên hoặc thông gió cưỡng bức (nếu cần thiết) để đảm bảo điều kiện bảo quản bình thường (nhiệt độ không quá 35°C và độ ẩm không khí không quá 85%);
+
+- Mỗi tuần một lần dùng chổi hoặc máy hút bụi làm sạch bụi bẩn, mạng nhện xung quanh thùng hàng, giá đỡ, các phụ kiện của máy bơm, trần tường và nền kho;
+
+- Ba tháng một lần tháo dỡ toàn bộ vòi ra kiểm tra, lau chùi vệ sinh và xoa bột tan bên ngoài và bên trong vòi hút, dùng giấy nến bọc kín 2 đầu của vòi hút; đảo lớp xếp trên xuống, lớp dưới lên; đối với vòi đẩy chữa cháy cuộn đảo chiều gập của vòi. Sau đó xếp lại vào vị trí ban đầu. Toàn bộ công việc được thực hiện ở khu vực sạch và có lót nền trong quá trình thực hiện.
+
+- Toàn bộ số máy bơm không trong diện phát động nổ máy, quy định 3 tháng 1 lần thực hiện các công việc sau:
+
++ Tháo máy bơm ra khỏi bao bì, kiểm tra toàn diện bằng ngoại quan;
+
++ Tháo bugi (hoặc vòi phun) ra khỏi máy, tra dầu nhờn vào buồng đốt rồi dùng dây khởi động giật quay máy vài vòng;
+
++ Nhỏ từ 2 giọt đến 3 giọt dầu nhờn vào phần ren bugi máy sau đó vặn chặt lại như cũ;
+
++ Kiểm tra, thay mới dầu máy (nếu cần thiết);
+
++ Kiểm tra, thay mới dầu bộ phận hút chân không (nếu cần thiết);
+
++ Vệ sinh toàn bộ máy bơm, vỏ hòm, đóng gói lại và cất xếp vào vị trí ban đầu.
+
+4.4.4. Nổ máy và bảo quản sau nổ máy
+
+4.4.4.1. Nổ máy
+
+- Số máy bơm được vận hành nổ để sẵn sàng xuất cấp là 20% số máy bơm hiện có tại một điểm kho giữ hàng, nhưng không ít hơn:
+
++ 10 máy khi số lượng máy nhập tại một điểm kho từ 20 máy đến 50 máy;
+
++ 5 máy khi số lượng máy bảo quản tại một điểm kho nhỏ hơn 20 máy.
+
+- Ba tháng một lần, máy bơm phải được vận hành nổ. Các lần bảo quản tiếp theo vẫn thực hiện đối với số lượng máy bơm đã vận hành nổ ban đầu. Thời gian nổ máy là 20 min. Quy trình phải đảm bảo cho việc nổ máy ổn định và đủ thời gian kiểm tra các chỉ tiêu. Không được nổ máy lâu quá 1 min mà không hút phun nước. Quy trình vận hành thử máy phải đảm bảo thực hiện các bước dưới đây.
+
+4.4.4.1.1. Trước khi nổ máy
+
+- Tổ vận hành bảo quản tối thiểu có 3 người và biết vận hành thành thạo;
+
+- Chuẩn bị đầy đủ nhiên liệu và bình chứa để phục vụ cho quá trình phát động. Nhiên liệu phát động nổ không đổ trực tiếp vào thùng chứa của máy bơm mà dùng bình chứa bên ngoài nối với tuy ô dẫn nhiên liệu vào máy trước cốc lọc nhiên liệu;
+
+- Kiểm tra dầu máy động cơ (đối với động cơ 4 kỳ) và kiểm tra tỉ lệ pha trộn giữa nhiên liệu và dầu bôi trơn (đối với động cơ 2 kỳ).
+
+4.4.4.1.2. Trình tự thao tác nổ máy
+
+- Nạp nhiên liệu đầy đủ;
+
+- Lắp vòi hút, vòi đẩy chữa cháy vào máy bơm và đưa vòi hút vào bể chứa nước tuần hoàn;
+
+- Xoay núm điều khiển ga đến vị trí khởi động;
+
+- Dùng dây giật có sẵn ở bánh đà giật nhẹ vài lần, rồi giật mạnh nổ máy. Khi máy nổ rồi:
+
++ Thực hiện thao tác gây chân không (Kéo cần gây chân không). Khi nước đã lên guồng bơm (quan sát trên đồng hồ phun hoặc ở đầu xả của bơm chân không) thì thả cần gây chân không ra và mở van phun;
+
++ Tăng giảm ga để kiểm tra khả năng làm việc của máy bơm.
+
+4.4.4.1.3. Kiểm tra kỹ thuật
+
+- Khi máy nổ có nguồn nước phun ra ổn định thì để máy chạy đều ở vòng quay đó. Tiến hành kiểm tra khả năng hoạt động của máy:
+
++ Nghe tiếng máy: Tiếng máy nổ êm, không có các tiếng kêu lạ, tiếng gõ của chi tiết máy;
+
++ Kiểm tra khả năng phun, so sánh với những chỉ tiêu quy định trong tài liệu kỹ thuật của máy bơm.
+
+- Khi phát hiện có các hiện tượng bất thường phải hạ bớt ga, để máy nổ ở vòng tua thấp nhất để phát hiện nguyên nhân. Tắt máy, xử lý xong rồi mới bắt đầu nổ lại máy.
+
+4.4.4.1.4. Tắt máy.
+
+- Sau khi kiểm tra xong, máy bơm đã vận hành đủ thời gian quy định, tiến hành tắt máy theo các thao tác sau:
+
++ Hạ bớt tay ga, cho máy chạy ở tốc độ vòng tua thấp nhất trong thời gian từ 3 min đến 5 min;
+
++ Đóng van xả;
+
++ Đối với động cơ xăng: Vặn khóa xăng của cốc lọc xăng để máy tiếp tục nổ cho đến khi máy tự tắt;
+
++ Đối với động cơ điêzen: Không phải đốt hết nhiên liệu trong cốc lọc và bơm nhiên liệu;
+
++ Vặn công tắc chính về vị trí tắt (OFF);
+
++ Mở van xả nước làm mát và đóng van lại sau khi đã bảo đảm xả hết nước.
+
+- Trong trường hợp vận hành khởi động máy bằng ắc quy, mỗi lần để nổ khoảng 5 s, nếu động cơ không nổ thì sau 10 s đề lại hoặc kiểm tra lại toàn bộ các quy trình trước để tiếp tục đề nổ tiếp:
+
++ Nếu máy khởi động không chạy kiểm tra lại ắc quy và hệ thống điện;
+
++ Không đề tiếp khi động cơ đang chạy;
+
++ Không được cho máy hoạt động ở tốc độ thấp quá 30 min để tránh làm hỏng máy.
+
+- Đối với loại động cơ được làm mát trực tiếp bằng nước: Không để bơm nước làm việc ở áp suất dưới 294199,5 Pa (3 kg/cm2) nhằm đảm bảo nước làm mát động cơ;
+
+- Đối với loại bơm chân không kiểu cánh gạt: Không tăng ga quá cao (tốc độ trên 1400 r/min) khi kéo cần gây chân không.
+
+4.4 4.2. Bảo quản sau nổ máy
+
+Việc bảo quản sau nổ máy thực hiện các công việc như sau:
+
+- Lau chùi sạch dầu mỡ, dùng máy nén khí thổi và lau chùi làm khô máy bơm;
+
+- Tháo bugi, làm sạch bugi bằng giẻ mềm sau đó tra dầu bôi trơn vào phần ren bugi từ 2 giọt đến 3 giọt; nhỏ từ 5 giọt đến 7 giọt dầu bôi trơn qua lỗ chân bugi (hoặc vòi phun) vào trong buồng đốt rồi lắp trả bugi (hoặc vòi phun) và vặn chặt lại (chú ý không làm cháy ren để lắp bugi (hoặc vòi phun) trên thân máy); sau đó dùng dây khởi động giật quay máy vài vòng;
+
+- Tra dầu mỡ vào các vị trí cần thiết: Vú mỡ; đầu nối ống trên thân máy bơm;
+
+- Kê xếp máy bơm lại vào kho như vị trí ban đầu.
+
+4.5. Quy trình xuất hàng
+
+- Bảo đảm nguyên tắc hàng nhập trước xuất trước, hàng nhập sau xuất sau; xuất gọn từng lô hàng đúng số lượng và chủng loại. Trong những trường hợp khác phải có ý kiến chỉ đạo của cơ quan cấp trên trực tiếp quản lý;
+
+- Trong cùng một lô máy bơm tiến hành xuất trước số máy bơm thường xuyên được nổ máy tại mỗi điểm kho, nếu thiếu tiếp tục xuất tới số máy bơm được bảo quản định kỳ dài hạn cùng điểm kho đó;
+
+- Bảo đảm chất lượng toàn bộ số lượng máy bơm và các hồ sơ liên quan trước khi xuất cấp.
+
+4.6. Quy định về báo cáo chất lượng máy bơm nước chữa cháy
+
+- Chậm nhất một tháng sau khi kết thúc nhập kho, Thủ trưởng đơn vị dự trữ quốc gia chỉ đạo các cơ quan chuyên môn báo cáo chất lượng máy bơm nước chữa cháy nhập kho về cơ quan dự trữ quốc gia chuyên trách;
+
+- Hàng quý, tổng hợp, báo cáo cơ quan quản lý dự trữ quốc gia chuyên trách tình hình chất lượng máy bơm nước chữa cháy đang bảo quản trước ngày 20 của tháng cuối quý. Trường hợp đột xuất đơn vị gửi báo cáo riêng;
+
+- Thủ trưởng đơn vị dự trữ quốc gia chỉ đạo các cơ quan chuyên môn báo cáo chất lượng máy bơm nước chữa cháy về cơ quan dự trữ quốc gia chuyên trách trước khi xuất kho.
+
+5. QUY ĐỊNH VỀ QUẢN LÝ
+
+5.1. Kiểm tra chất lượng
+
+5.1.1. Kiểm tra chất lượng nhập kho
+
+5.1.1.1. Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ kiểm tra theo quy định của pháp luật. Cụ thể: Kiểm tra và cấp Giấy chứng nhận kiểm định phương tiện phòng cháy và chữa cháy đối với máy bơm nước chữa cháy nhập kho dự trữ quốc gia.
+
+5.1.1.2. Các đơn vị dự trữ quốc gia thực hiện kiểm tra theo quy định tại Mục 3 và Mục 4 của Quy chuẩn này.
+
+5.1.2. Kiểm tra chốt lượng trước thời gian hết hạn bảo hành, trong quá trình lưu kho và trước khi xuất kho
+
+5.1.2.1. Kiểm tra trước thời gian hết hạn bảo hành
+
+Trước thời gian hết hạn bảo hành 3 tháng, đơn vị dự trữ quốc gia tiến hành kiểm tra vận hành; kiểm tra ngoại quan toàn bộ máy bơm và trang thiết bị. Nếu máy bơm hoặc trang thiết bị có một chỉ tiêu không đảm bảo chất lượng thì đơn vị dự trữ quốc gia mời đơn vị cung cấp hàng lấy mẫu bất kỳ để kiểm tra. Nếu sau hai lần kiểm tra không đạt thì đơn vị dự trữ quốc gia yêu cầu tổ chức, cá nhân cung cấp máy bơm nước chữa cháy có trách nhiệm thay thế đảm bảo chất lượng.
+
+5.1.2.2. Kiểm tra chất lượng trong quá trình lưu kho: Thực hiện theo quy định tại Mục 4 của Quy chuẩn này.
+
+5.1.2.3. Kiểm tra chất lượng trước khi xuất kho: Thực hiện theo quy định tại Mục 4 của Quy chuẩn này.
+
+5.1.3. Thời gian sản xuất, bảo hành và lưu kho bảo quản máy bơm nước chữa cháy:
+
+5.1.3.1. Thời gian từ khi sản xuất đến khi nhập kho dự trữ quốc gia: Không lớn hơn 9 tháng (kể cả thời gian vận chuyển).
+
+5.1.3.2. Thời gian bảo hành: Tối thiểu 36 tháng tính từ ngày ký biên bản giao nhận đối với máy bơm nước chữa cháy (máy bơm và trang thiết bị) nhập kho dự trữ quốc gia.
+
+5.3.1.3. Thời gian lưu kho bảo quản: Không lớn hơn 6 năm kể từ ngày nhập kho dự trữ quốc gia.
+
+5.2. Yêu cầu về nhà kho
+
+Kho chứa máy bơm nước chữa cháy là kho chứa hàng vật tư, thiết bị cứu hộ cứu nạn có cùng điều kiện bảo quản có yêu cầu cơ bản sau:
+
+- Phải là loại kho có tường bao; mái che chống nắng, mưa, gió, bão; có trần chống nóng;
+
+- Nền kho phẳng, cứng, chịu được tải trọng tối thiểu 3 tấn/m2;
+
+- Kho được trang bị đủ quạt thông gió để bảo đảm trong kho luôn khô ráo, thoáng mát; có dụng cụ đo nhiệt độ, độ ẩm không khí;
+
+- Phải có hệ thống chống chim, chuột, phòng trừ mối và sinh vật gây hại khác, có hệ thống điện chiếu sáng phục vụ công tác bảo quản, bảo vệ;
+
+- Phải xa các nguồn hóa chất, nơi dễ cháy nổ, đường điện cao thế, hạn chế tối đa bụi bẩn, bức xạ nhiệt;
+
+- Có nội quy, phương tiện và phương án phòng cháy chữa cháy, phòng chống bão lụt.
+
+5.3. Lập thẻ lô hàng
+
+Mỗi lô hàng nhập kho phải được lập một thẻ lô hàng, trong đó ghi rõ:
+
+- Ký hiệu sản phẩm;
+
+- Quy cách;
+
+- Tên cơ sở chế tạo, địa chỉ;
+
+- Năm chế tạo;
+
+- Số lượng;
+
+- Ngày nhập kho.
+
+5.4. Chế độ ghi chép sổ sách theo dõi hàng hóa
+
+5.4.1. Cùng với việc lập các chứng từ theo chế độ kế toán dự trữ quốc gia phải lập sổ theo dõi bảo quản (gọi tắt là sổ bảo quản).
+
+5.4.2. Sổ bảo quản
+
+- Dùng để ghi chép hàng ngày hoặc đột xuất về tình hình công tác bảo quản hàng hóa, diễn biến về số lượng, chất lượng. Sổ phải đóng dấu giáp lai, ghi đầy đủ các nội dung theo quy định, có đầy đủ các thành phần ký tên và đóng dấu;
+
+- Thủ kho bảo quản phải ghi chép đầy đủ các diễn biến về chất lượng, công việc bảo quản, các hư hỏng phát sinh và kết quả xử lý cho từng máy bơm nước chữa cháy trong quá trình lưu kho;
+
+- Thủ trưởng đơn vị trực tiếp quản lý hàng dự trữ quốc gia 02 lần/tháng; bộ phận kỹ thuật bảo quản đơn vị trực tiếp quản lý hàng dự trữ quốc gia 01 lần/tuần ghi chép tình hình diễn biến về số lượng, chất lượng và đánh giá công tác bảo quản máy bơm nước chữa cháy trong sổ bảo quản;
+
+- Ba tháng một lần, thủ trưởng đơn vị dự trữ quốc gia phải kiểm tra và ghi nhận xét đánh giá công tác bảo quản máy bơm nước chữa cháy vào sổ bảo quản.
+
+5.5. Phòng chống cháy nổ: Thủ trưởng đơn vị dự trữ quốc gia có trách nhiệm tổ chức thực hiện công tác phòng chống cháy nổ theo quy định của pháp luật; bảo đảm chất lượng hàng hóa và Kho dự trữ quốc gia an toàn.
+
+5.6. Yêu cầu về quản lý: Máy bơm nước chữa cháy tuân thủ các quy định về quản lý tại Nghị định số 79/2014/NĐ-CP ngày 31/7/2014 của Chính phủ quy định chi tiết thi hành một số Điều của Luật Phòng cháy và Chữa cháy và Luật Sửa đổi, bổ sung một số Điều của Luật Phòng cháy và chữa cháy; Thông tư số 66/2014/TT-BCA ngày 14/12/2014 của Bộ Công an quy định chi tiết thi hành một số Điều của Nghị định số 79/2014/NĐ-CP ngày 31/7/2014 của Chính phủ.
+
+6. TRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN
+
+6.1. Các tổ chức, cá nhân cung cấp máy bơm nước chữa cháy cho dự trữ quốc gia có trách nhiệm cung cấp sản phẩm có chất lượng phù hợp với quy định tại Mục 2 của Quy chuẩn này.
+
+6.2. Thủ trưởng đơn vị dự trữ quốc gia có trách nhiệm chỉ đạo tổ chức thực hiện công tác giao nhận và bảo quản máy bơm nước chữa cháy theo đúng quy định tại Mục 4 và Mục 5 của Quy chuẩn này.
+
+7. TỔ CHỨC THỰC HIỆN
+
+7.1. Tổng cục Dự trữ Nhà nước (cơ quan dự trữ quốc gia chuyên trách) có trách nhiệm hướng dẫn và kiểm tra thực hiện Quy chuẩn này.
+
+7.2. Trong trường hợp các Tiêu chuẩn, Quy chuẩn, văn bản quy phạm pháp luật tại Quy chuẩn này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo quy định tại các Tiêu chuẩn, Quy chuẩn, văn bản quy phạm pháp luật sửa đổi, bổ sung hoặc thay thế đó./.

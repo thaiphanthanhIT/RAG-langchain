@@ -1,0 +1,609 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 2531/QĐ-BTC | Hà Nội, ngày 04 tháng 12 năm 2019                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 2531/QĐ-BTC
+
+Hà Nội, ngày 04 tháng 12 năm 2019
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH QUY TRÌNH ĐIỆN TỬ VỀ VIỆC TIẾP NHẬN, GIẢI QUYẾT TỪNG THỦ TỤC HÀNH CHÍNH QUA DỊCH VỤ CÔNG TRỰC TUYẾN MỨC ĐỘ 3,4 CỦA CƠ QUAN BỘ TÀI CHÍNH
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Nghị định số 61/2018 NĐ-CP ngày 23/4/2018 của Chính phủ về việc thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính;
+
+Căn cứ Nghị định số 165/2018/NĐ-CP 24/12/2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính;
+
+Căn cứ Quyết định số 985/QĐ-TTg ngày 08/8/ 2018 của Thủ tướng Chính phủ Ban hành Kế hoạch thực hiện Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính;
+
+Căn cứ Quyết định số 28/2018/QĐ-TTg ngày 12/7/2018 của Thủ tướng Chính phủ về việc gửi, nhận văn bản điện tử giữa các cơ quan trong hệ thống hành chính nhà nước;
+
+Căn cứ Quyết định số 1720/QĐ-BTC ngày 01/10/2018 của Bộ trưởng Bộ Tài chính ban hành kế hoạch hành động thực hiện Nghị định số 61/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính;
+
+Theo đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo quyết định này Quy trình điện tử về việc tiếp nhận, giải quyết từng thủ tục hành chính (TTHC) qua dịch vụ công trực tuyến mức độ 3,4 của cơ quan Bộ Tài chính tại 06 lĩnh vực bao gồm:
+
+- Lĩnh vực Tin học thống kê tài chính: 01 TTHC.
+
+- Lĩnh vực Tài chính ngân hàng: 02 TTHC;
+
+- Lĩnh vực Quản lý Công sản: 05 TTHC;
+
+- Lĩnh vực Quản lý giá: 08 TTHC;
+
+- Lĩnh vực Kế toán, Kiểm toán: 23 TTHC;
+
+- Lĩnh vực Quản lý bảo hiểm: 24 TTHC;
+
+(Danh mục Quy trình điện tử về việc tiếp nhận, giải quyết từng TTHC qua dịch vụ công trực tuyến mức độ 3,4 của cơ quan Bộ Tài chính đính kèm).
+
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký. Cục trưởng Cục Tin học và Thống kê tài chính, Thủ trưởng các đơn vị liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+| Nơi nhận: - Như Điều 2; - Lãnh đạo Bộ (để báo cáo); - Cổng TTĐT BTC; - Lưu: VT, THTK (10b). | KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai |
+
+|---------------------------------------------------------------------------------------------|-------------------------------------------|
+
+Nơi nhận: - Như Điều 2; - Lãnh đạo Bộ (để báo cáo); - Cổng TTĐT BTC; - Lưu: VT, THTK (10b).
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai
+
+DANH MỤC
+
+QUY TRÌNH ĐIỆN TỬ GIẢI QUYẾT TỪNG THỦ TỤC HÀNH CHÍNH QUA DỊCH VỤ CÔNG TRỰC TUYẾN MỨC ĐỘ 3,4 CỦA CƠ QUAN BỘ TÀI CHÍNH (Ban hành kèm theo Quyết định số 2531/QĐ-BTC ngày 04/12/2019 của Bộ trưởng Bộ Tài chính)
+
+| TT | Tên thủ tục hành chính                  |                                                                                                                                                                                       |
+
+|----|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+|    | I. Lĩnh vực Tin học thống kê tài chính |                                                                                                                                                                                       |
+
+| 1  | 1.                                      | Đăng ký mã số đơn vị có quan hệ với ngân sách                                                                                                                                         |
+
+|    | II. Lĩnh vực Tài chính ngân hàng       |                                                                                                                                                                                       |
+
+| 2  | 1.                                      | Cấp, cấp lại và điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số                                                                                                            |
+
+| 3  | 2.                                      | Cấp, cấp lại, điều chỉnh, gia hạn Giấy chứng nhận đủ điều kiện kinh doanh trò chơi điện tử có thưởng                                                                                  |
+
+|    | III. Lĩnh vực Quản lý Công sản          |                                                                                                                                                                                       |
+
+| 4  | 1.                                      | Điều chuyển tài sản hạ tầng giao thông đường bộ                                                                                                                                       |
+
+| 5  | 2.                                      | Trình tự, thủ tục điều chuyển tài sản nhà nước tại các cơ quan, tổ chức, đơn vị thuộc thẩm quyền của Bộ Tài chính                                                                     |
+
+| 6  | 3.                                      | Quản lý và xử lý tài sản của các dự án sử dụng vốn nhà nước khi dự án kết thúc                                                                                                       |
+
+| 7  | 4.                                      | Quản lý, sử dụng hóa đơn bán tài sản nhà nước và hóa đơn bán tài sản tịch thu, sung quỹ nhà nước                                                                                    |
+
+| 8  | 5.                                      | Xác lập quyền sở hữu của nhà nước đối với tài sản nhận chuyển giao                                                                                                                    |
+
+|    | IV. Lĩnh vực Quản lý Giá               |                                                                                                                                                                                       |
+
+| 9  | 1.                                      | Cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá                                                                                                                     |
+
+| 10 | 2.                                      | Cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá                                                                                                                 |
+
+| 11 | 3.                                      | Đăng ký dự thi cấp thẻ thẩm định giá lần đầu đối với công dân Việt Nam                                                                                                               |
+
+| 12 | 4.                                      | Đăng ký dự thi cấp thẻ thẩm định giá các lần tiếp theo                                                                                                                               |
+
+| 13 | 5.                                      | Đăng ký dự thi sát hạch cấp thẻ thẩm định viên về giá đối với người có Chứng chỉ hành nghề thẩm định giá do tổ chức nước ngoài có thẩm quyền cấp được Bộ Tài chính thừa nhận         |
+
+| 14 | 6.                                      | Đăng ký giá của các doanh nghiệp thuộc danh sách đăng ký giá tại Bộ Tài chính                                                                                                        |
+
+|    | Các dịch vụ công khác về Giá:           |                                                                                                                                                                                       |
+
+| 15 | 7.                                      | Kê khai giá                                                                                                                                                                           |
+
+| 16 | 8.                                      | Cấp giấy xác nhận đã cấp thẻ thẩm định viên về giá                                                                                                                                   |
+
+|    | V. Lĩnh vực Kế toán, Kiểm toán          |                                                                                                                                                                                       |
+
+| 17 | 1.                                      | Đăng ký tham gia kiểm toán cho đơn vị có lợi ích công chúng                                                                                                                           |
+
+| 18 | 2.                                      | Đăng ký dự thi chứng chỉ kiểm toán viên đối với người đã có chứng chỉ kế toán viên                                                                                                   |
+
+| 19 | 3.                                      | Đăng ký dự thi cấp chứng chỉ kiểm toán viên và chứng chỉ kế toán viên (đăng ký thi lại các môn chưa đạt hoặc thi tiếp các môn chưa thi)                                               |
+
+| 20 | 4.                                      | Đăng ký dự thi cấp chứng chỉ kiểm toán viên (đăng ký lần đầu)                                                                                                                         |
+
+| 21 | 5.                                      | Đăng ký dự thi cấp chứng chỉ kế toán viên (đăng ký lần đầu)                                                                                                                           |
+
+| 22 | 6.                                      | Đăng ký dự thi sát hạch đối với người có chứng chỉ chuyên gia kế toán hoặc chứng chỉ kiểm toán viên nước ngoài                                                                      |
+
+| 23 | 7.                                      | Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán cho Chi nhánh doanh nghiệp kế toán nước ngoài tại Việt Nam                                                        |
+
+| 24 | 8.                                      | Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán (cấp lại)                                                                                                         |
+
+| 25 | 9.                                      | Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán (cấp lần đầu)                                                                                                     |
+
+| 26 | 10.                                     | Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi kế toán viên hành nghề bị thu hồi giấy chứng nhận đăng ký hành nghề dịch vụ kế toán                                 |
+
+| 27 | 11.                                     | Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi kế toán viên thay đổi nơi làm việc hoặc nơi đăng ký hành nghề dịch vụ kế toán                                       |
+
+| 28 | 12.                                     | Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi thay đổi tên của doanh nghiệp dịch vụ kế toán nơi kế toán viên hành nghề đăng ký hành nghề                          |
+
+| 29 | 13.                                     | Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán hết hạn                                                           |
+
+| 30 | 14.                                     | Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán (cấp lại)                                                                                                               |
+
+| 31 | 15.                                     | Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán (cấp mới)                                                                                                               |
+
+| 32 | 16.                                     | Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán cho chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam                                                    |
+
+| 33 | 17.                                     | Đăng ký kinh doanh dịch vụ kiểm toán cho chi nhánh doanh nghiệp kiểm toán                                                                                                             |
+
+| 34 | 18.                                     | Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (cấp lại)                                                                                                       |
+
+| 35 | 19.                                     | Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (điều chỉnh)                                                                                                    |
+
+| 36 | 20.                                     | Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (cấp lần đầu)                                                                                                   |
+
+| 37 | 21.                                     | Đăng ký cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (cấp lại)                                                                                                                     |
+
+| 38 | 22.                                     | Đăng ký cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (điều chỉnh)                                                                                                                  |
+
+| 39 | 23.                                     | Đăng ký cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (cấp mới)                                                                                                                     |
+
+|    | VI. Lĩnh vực Quản lý bảo hiểm           |                                                                                                                                                                                       |
+
+| 40 | 1.                                      | Đề nghị phê chuẩn cập nhật nguyên tắc phân bổ tài sản, nguồn vốn, doanh thu, chi phí chung liên quan đến cả chủ sở hữu và quỹ chủ hợp đồng trong bảo hiểm nhân thọ                   |
+
+| 41 | 2.                                      | Đề nghị chấp thuận (hoặc điều chỉnh, chấm dứt) việc thành lập hoặc góp vốn thành lập doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm ở nước ngoài                             |
+
+| 42 | 3.                                      | Phê chuẩn chương trình đào tạo đại lý bảo hiểm                                                                                                                                        |
+
+| 43 | 4.                                      | Đề nghị áp dụng phân chia thặng dư trong bảo hiểm nhân thọ                                                                                                                            |
+
+| 44 | 5.                                      | Chuyển giao hợp đồng bảo hiểm                                                                                                                                                         |
+
+| 45 | 6.                                      | Phê chuẩn việc áp dụng (hoặc thay đổi áp dụng) phương pháp trích lập dự phòng nghiệp vụ bảo hiểm                                                                                      |
+
+| 46 | 7.                                      | Phê chuẩn sản phẩm bảo hiểm hưu trí                                                                                                                                                   |
+
+| 47 | 8.                                      | Phê chuẩn sản phẩm bảo hiểm liên kết đơn vị                                                                                                                                           |
+
+| 48 | 9.                                      | Phê chuẩn sản phẩm bảo hiểm liên kết chung                                                                                                                                            |
+
+| 49 | 10.                                     | Phê chuẩn sản phẩm bảo hiểm nhân thọ                                                                                                                                                  |
+
+| 50 | 11.                                     | Phê chuẩn sản phẩm bảo hiểm sức khỏe                                                                                                                                                  |
+
+| 51 | 12.                                     | Giải thể doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm, chấm dứt hoạt động của chi nhánh nước ngoài                                                                           |
+
+| 52 | 13.                                     | Bổ nhiệm, thay đổi một số chức danh quản trị, điều hành của doanh nghiệp bảo hiểm, chi nhánh nước ngoài, doanh nghiệp môi giới bảo hiểm                                               |
+
+| 53 | 14.                                     | Chấp thuận chia, tách, hợp nhất, sáp nhập, chuyển đổi hình thức, chuyển nhượng cổ phần, phần vốn góp từ 10% vốn điều lệ trở lên doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm |
+
+| 54 | 15.                                     | Thay đổi nội dung, phạm vi và thời hạn hoạt động của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm                                                                            |
+
+| 55 | 16.                                     | Thay đổi địa điểm trụ sở chính, chi nhánh, văn phòng đại diện của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài      |
+
+| 56 | 17.                                     | Chấm dứt hoạt động chi nhánh, văn phòng đại diện của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm                                                                            |
+
+| 57 | 18.                                     | Mở chi nhánh, văn phòng đại diện hoặc chuyển đổi văn phòng đại diện thành chi nhánh của doanh nghiệp bảo hiểm, tái bảo hiểm, môi giới bảo hiểm                                       |
+
+| 58 | 19.                                     | Cấp giấy phép điều chỉnh việc tăng hoặc giảm mức vốn điều lệ, vốn được cấp                                                                                                            |
+
+| 59 | 20.                                     | Thủ tục chấp thuận về nguyên tắc để tăng/giảm mức vốn điều lệ, vốn được cấp                                                                                                           |
+
+| 60 | 21.                                     | Thủ tục đổi tên doanh nghiệp bảo hiểm, môi giới bảo hiểm, chi nhánh nước ngoài                                                                                                        |
+
+| 61 | 22.                                     | Chấm dứt hoạt động của Văn phòng đại diện doanh nghiệp bảo hiểm, tái bảo hiểm, môi giới bảo hiểm nước ngoài                                                                           |
+
+| 62 | 23.                                     | Gia hạn hoạt động của Văn phòng đại diện doanh nghiệp bảo hiểm, tái bảo hiểm, môi giới bảo hiểm nước ngoài                                                                            |
+
+| 63 | 24.                                     | Sửa đổi, bổ sung giấy phép đặt Văn phòng đại diện của doanh nghiệp bảo hiểm, tái bảo hiểm, môi giới bảo hiểm nước ngoài                                                               |
+
+TT
+
+Tên thủ tục hành chính
+
+I. Lĩnh vực Tin học thống kê tài chính
+
+1
+
+1.
+
+Đăng ký mã số đơn vị có quan hệ với ngân sách
+
+II. Lĩnh vực Tài chính ngân hàng
+
+2
+
+1.
+
+Cấp, cấp lại và điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số
+
+3
+
+2.
+
+Cấp, cấp lại, điều chỉnh, gia hạn Giấy chứng nhận đủ điều kiện kinh doanh trò chơi điện tử có thưởng
+
+III. Lĩnh vực Quản lý Công sản
+
+4
+
+1.
+
+Điều chuyển tài sản hạ tầng giao thông đường bộ
+
+5
+
+2.
+
+Trình tự, thủ tục điều chuyển tài sản nhà nước tại các cơ quan, tổ chức, đơn vị thuộc thẩm quyền của Bộ Tài chính
+
+6
+
+3.
+
+Quản lý và xử lý tài sản của các dự án sử dụng vốn nhà nước khi dự án kết thúc
+
+7
+
+4.
+
+Quản lý, sử dụng hóa đơn bán tài sản nhà nước và hóa đơn bán tài sản tịch thu, sung quỹ nhà nước
+
+8
+
+5.
+
+Xác lập quyền sở hữu của nhà nước đối với tài sản nhận chuyển giao
+
+IV. Lĩnh vực Quản lý Giá
+
+9
+
+1.
+
+Cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá
+
+10
+
+2.
+
+Cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá
+
+11
+
+3.
+
+Đăng ký dự thi cấp thẻ thẩm định giá lần đầu đối với công dân Việt Nam
+
+12
+
+4.
+
+Đăng ký dự thi cấp thẻ thẩm định giá các lần tiếp theo
+
+13
+
+5.
+
+Đăng ký dự thi sát hạch cấp thẻ thẩm định viên về giá đối với người có Chứng chỉ hành nghề thẩm định giá do tổ chức nước ngoài có thẩm quyền cấp được Bộ Tài chính thừa nhận
+
+14
+
+6.
+
+Đăng ký giá của các doanh nghiệp thuộc danh sách đăng ký giá tại Bộ Tài chính
+
+Các dịch vụ công khác về Giá:
+
+15
+
+7.
+
+Kê khai giá
+
+16
+
+8.
+
+Cấp giấy xác nhận đã cấp thẻ thẩm định viên về giá
+
+V. Lĩnh vực Kế toán, Kiểm toán
+
+17
+
+1.
+
+Đăng ký tham gia kiểm toán cho đơn vị có lợi ích công chúng
+
+18
+
+2.
+
+Đăng ký dự thi chứng chỉ kiểm toán viên đối với người đã có chứng chỉ kế toán viên
+
+19
+
+3.
+
+Đăng ký dự thi cấp chứng chỉ kiểm toán viên và chứng chỉ kế toán viên (đăng ký thi lại các môn chưa đạt hoặc thi tiếp các môn chưa thi)
+
+20
+
+4.
+
+Đăng ký dự thi cấp chứng chỉ kiểm toán viên (đăng ký lần đầu)
+
+21
+
+5.
+
+Đăng ký dự thi cấp chứng chỉ kế toán viên (đăng ký lần đầu)
+
+22
+
+6.
+
+Đăng ký dự thi sát hạch đối với người có chứng chỉ chuyên gia kế toán hoặc chứng chỉ kiểm toán viên nước ngoài
+
+23
+
+7.
+
+Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán cho Chi nhánh doanh nghiệp kế toán nước ngoài tại Việt Nam
+
+24
+
+8.
+
+Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán (cấp lại)
+
+25
+
+9.
+
+Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán (cấp lần đầu)
+
+26
+
+10.
+
+Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi kế toán viên hành nghề bị thu hồi giấy chứng nhận đăng ký hành nghề dịch vụ kế toán
+
+27
+
+11.
+
+Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi kế toán viên thay đổi nơi làm việc hoặc nơi đăng ký hành nghề dịch vụ kế toán
+
+28
+
+12.
+
+Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi thay đổi tên của doanh nghiệp dịch vụ kế toán nơi kế toán viên hành nghề đăng ký hành nghề
+
+29
+
+13.
+
+Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán hết hạn
+
+30
+
+14.
+
+Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán (cấp lại)
+
+31
+
+15.
+
+Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán (cấp mới)
+
+32
+
+16.
+
+Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán cho chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+
+33
+
+17.
+
+Đăng ký kinh doanh dịch vụ kiểm toán cho chi nhánh doanh nghiệp kiểm toán
+
+34
+
+18.
+
+Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (cấp lại)
+
+35
+
+19.
+
+Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (điều chỉnh)
+
+36
+
+20.
+
+Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (cấp lần đầu)
+
+37
+
+21.
+
+Đăng ký cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (cấp lại)
+
+38
+
+22.
+
+Đăng ký cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (điều chỉnh)
+
+39
+
+23.
+
+Đăng ký cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (cấp mới)
+
+VI. Lĩnh vực Quản lý bảo hiểm
+
+40
+
+1.
+
+Đề nghị phê chuẩn cập nhật nguyên tắc phân bổ tài sản, nguồn vốn, doanh thu, chi phí chung liên quan đến cả chủ sở hữu và quỹ chủ hợp đồng trong bảo hiểm nhân thọ
+
+41
+
+2.
+
+Đề nghị chấp thuận (hoặc điều chỉnh, chấm dứt) việc thành lập hoặc góp vốn thành lập doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm ở nước ngoài
+
+42
+
+3.
+
+Phê chuẩn chương trình đào tạo đại lý bảo hiểm
+
+43
+
+4.
+
+Đề nghị áp dụng phân chia thặng dư trong bảo hiểm nhân thọ
+
+44
+
+5.
+
+Chuyển giao hợp đồng bảo hiểm
+
+45
+
+6.
+
+Phê chuẩn việc áp dụng (hoặc thay đổi áp dụng) phương pháp trích lập dự phòng nghiệp vụ bảo hiểm
+
+46
+
+7.
+
+Phê chuẩn sản phẩm bảo hiểm hưu trí
+
+47
+
+8.
+
+Phê chuẩn sản phẩm bảo hiểm liên kết đơn vị
+
+48
+
+9.
+
+Phê chuẩn sản phẩm bảo hiểm liên kết chung
+
+49
+
+10.
+
+Phê chuẩn sản phẩm bảo hiểm nhân thọ
+
+50
+
+11.
+
+Phê chuẩn sản phẩm bảo hiểm sức khỏe
+
+51
+
+12.
+
+Giải thể doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm, chấm dứt hoạt động của chi nhánh nước ngoài
+
+52
+
+13.
+
+Bổ nhiệm, thay đổi một số chức danh quản trị, điều hành của doanh nghiệp bảo hiểm, chi nhánh nước ngoài, doanh nghiệp môi giới bảo hiểm
+
+53
+
+14.
+
+Chấp thuận chia, tách, hợp nhất, sáp nhập, chuyển đổi hình thức, chuyển nhượng cổ phần, phần vốn góp từ 10% vốn điều lệ trở lên doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm
+
+54
+
+15.
+
+Thay đổi nội dung, phạm vi và thời hạn hoạt động của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm
+
+55
+
+16.
+
+Thay đổi địa điểm trụ sở chính, chi nhánh, văn phòng đại diện của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài
+
+56
+
+17.
+
+Chấm dứt hoạt động chi nhánh, văn phòng đại diện của doanh nghiệp bảo hiểm, doanh nghiệp môi giới bảo hiểm
+
+57
+
+18.
+
+Mở chi nhánh, văn phòng đại diện hoặc chuyển đổi văn phòng đại diện thành chi nhánh của doanh nghiệp bảo hiểm, tái bảo hiểm, môi giới bảo hiểm
+
+58
+
+19.
+
+Cấp giấy phép điều chỉnh việc tăng hoặc giảm mức vốn điều lệ, vốn được cấp
+
+59
+
+20.
+
+Thủ tục chấp thuận về nguyên tắc để tăng/giảm mức vốn điều lệ, vốn được cấp
+
+60
+
+21.
+
+Thủ tục đổi tên doanh nghiệp bảo hiểm, môi giới bảo hiểm, chi nhánh nước ngoài
+
+61
+
+22.
+
+Chấm dứt hoạt động của Văn phòng đại diện doanh nghiệp bảo hiểm, tái bảo hiểm, môi giới bảo hiểm nước ngoài
+
+62
+
+23.
+
+Gia hạn hoạt động của Văn phòng đại diện doanh nghiệp bảo hiểm, tái bảo hiểm, môi giới bảo hiểm nước ngoài
+
+63
+
+24.
+
+Sửa đổi, bổ sung giấy phép đặt Văn phòng đại diện của doanh nghiệp bảo hiểm, tái bảo hiểm, môi giới bảo hiểm nước ngoài
+
+| Văn bản này có file đính kèm, bạn phải tải Văn bản về để xem toàn bộ nội dung.Tải về |
+
+|--------------------------------------------------------------------------------------|

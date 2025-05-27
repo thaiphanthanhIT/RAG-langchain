@@ -1,0 +1,441 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 28/VBHN-BTC | Hà Nội, ngày 09 tháng 5 năm 2019                                |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 28/VBHN-BTC
+
+Hà Nội, ngày 09 tháng 5 năm 2019
+
+THÔNG TƯ[1]
+
+HƯỚNG DẪN VỀ ĐĂNG KÝ GIAO DỊCH CHỨNG KHOÁN TRÊN HỆ THỐNG GIAO DỊCH CHO CHỨNG KHOÁN CHƯA NIÊM YẾT
+
+Thông tư số 180/2015/TT-BTC ngày 13 tháng 11 năm 2015 của Bộ trưởng Bộ Tài chính hướng dẫn về đăng ký giao dịch chứng khoán trên hệ thống giao dịch cho chứng khoán chưa niêm yết, có hiệu lực kể từ ngày 01 tháng 01 năm 2016 được sửa đổi, bổ sung bởi:
+
+Thông tư số 13/2019/TT-BTC ngày 15 tháng 3 năm 2019 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 180/2015/TT-BTC ngày 13/11/2015 hướng dẫn về đăng ký giao dịch chứng khoán trên hệ thống giao dịch cho chứng khoán chưa niêm yết, có hiệu lực kể từ ngày 01 tháng 5 năm 2019.
+
+Căn cứ Luật Chứng khoán ngày 29 tháng 6 năm 2006;
+
+Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán ngày 24 tháng 11 năm 2010;
+
+Căn cứ Luật Doanh nghiệp ngày 26 tháng 11 năm 2014;
+
+Căn cứ Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán;
+
+Căn cứ Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán;
+
+Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Chủ tịch Ủy ban Chứng khoán Nhà nước;
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn về đăng ký giao dịch chứng khoán trên hệ thống giao dịch cho chứng khoán chưa niêm yết.[2]
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng[3]
+
+1. Thông tư này hướng dẫn về đối tượng, hồ sơ, thủ tục đăng ký, thay đổi đăng ký và hủy đăng ký giao dịch chứng khoán trên hệ thống giao dịch cho chứng khoán chưa niêm yết.
+
+2. Thông tư này áp dụng đối với các đối tượng sau:
+
+a) Công ty đại chúng;
+
+b) Doanh nghiệp cổ phần hóa theo quy định pháp luật về cổ phần hóa;
+
+c) Sở Giao dịch chứng khoán, Trung tâm Lưu ký Chứng khoán Việt Nam;
+
+d) Cơ quan, tổ chức, cá nhân khác có liên quan.
+
+Điều 2. Giải thích từ ngữ[4]
+
+Ngoài các thuật ngữ đã được giải thích trong Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán (sau đây gọi là Nghị định số 58/2012/NĐ-CP), Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Nghị định số 126/2017/NĐ-CP ngày 16 tháng 11 năm 2017 của Chính phủ về chuyển doanh nghiệp nhà nước và công ty trách nhiệm hữu hạn một thành viên do doanh nghiệp nhà nước đầu tư 100% vốn điều lệ thành công ty cổ phần (sau đây gọi là Nghị định số 126/2017/NĐ-CP), trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Hệ thống giao dịch cho chứng khoán chưa niêm yết (sau đây gọi là hệ thống giao dịch Upcom) là hệ thống giao dịch cho chứng khoán chưa niêm yết do Sở giao dịch chứng khoán Hà Nội tổ chức.
+
+2. Chứng khoán đăng ký giao dịch là chứng khoán của công ty đại chúng, doanh nghiệp cổ phần hóa theo quy định pháp luật về cổ phần hóa được chấp thuận đăng ký giao dịch trên hệ thống giao dịch Upcom.
+
+3. Đăng ký giao dịch là việc đưa chứng khoán công ty đại chúng và doanh nghiệp cổ phần hóa theo quy định pháp luật về cổ phần hóa vào giao dịch trên hệ thống giao dịch Upcom.
+
+4. Tổ chức đăng ký giao dịch là công ty đại chúng và doanh nghiệp cổ phần hóa theo quy định pháp luật về cổ phần hóa có chứng khoán đăng ký giao dịch trên hệ thống giao dịch Upcom.
+
+5. Cụm từ “công ty”, “doanh nghiệp” và “tổ chức” được sử dụng với nghĩa như nhau trong Thông tư này.
+
+Điều 3. Đối tượng và thời hạn thực hiện đăng ký giao dịch
+
+1. Đối tượng đăng ký giao dịch
+
+a) Công ty đại chúng không đủ điều kiện niêm yết phải đăng ký giao dịch trên hệ thống giao dịch Upcom;
+
+b) Công ty đại chúng đủ điều kiện niêm yết nhưng chưa niêm yết trên Sở giao dịch chứng khoán phải đăng ký giao dịch trên hệ thống giao dịch Upcom;
+
+c) Công ty hủy niêm yết phải đăng ký giao dịch trên hệ thống giao dịch Upcom nếu vẫn đáp ứng điều kiện là công ty đại chúng (bao gồm cả trường hợp bị hủy niêm yết do công ty hình thành sau hợp nhất, sáp nhập, hoán đổi không đáp ứng điều kiện niêm yết);
+
+d)[5] Doanh nghiệp cổ phần hóa theo quy định pháp luật về cổ phần hóa chưa niêm yết trên Sở giao dịch chứng khoán thì phải đăng ký giao dịch trên hệ thống giao dịch Upcom.
+
+2. Thời hạn thực hiện đăng ký giao dịch
+
+a) Trong thời hạn ba mươi (30) ngày, kể từ ngày Ủy ban Chứng khoán Nhà nước có công văn xác nhận hoàn tất việc đăng ký công ty đại chúng theo quy định tại Điều 34 Nghị định số 58/2012/NĐ-CP , công ty đại chúng có trách nhiệm hoàn tất việc đăng ký chứng khoán tại Trung tâm lưu ký chứng khoán Việt Nam và đăng ký giao dịch trên hệ thống giao dịch Upcom;
+
+b)[6] Trong thời hạn ba mươi (30) ngày kể từ ngày kết thúc đợt chào bán chứng khoán ra công chúng theo quy định pháp luật về chứng khoán, công ty đại chúng chưa niêm yết chứng khoán phải hoàn tất việc đăng ký chứng khoán tại Trung tâm Lưu ký chứng khoán Việt Nam và đăng ký giao dịch trên hệ thống giao dịch Upcom;
+
+c) Trong vòng mười (10) ngày làm việc kể từ ngày hủy niêm yết có hiệu lực, Sở giao dịch chứng khoán có trách nhiệm phối hợp với Trung tâm lưu ký chứng khoán Việt Nam đăng ký giao dịch đối với cổ phiếu của công ty bị hủy niêm yết là công ty đại chúng. Quy định này áp dụng cho chứng khoán bị hủy niêm yết bao gồm cả trường hợp hủy niêm yết bắt buộc, hủy niêm yết tự nguyện và chứng khoán bị hủy niêm yết do công ty niêm yết sau khi sáp nhập, hoặc phát hành cổ phiếu để hoán đổi không đáp ứng điều kiện niêm yết;
+
+d) Trong vòng sáu (06) tháng, kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp, công ty hợp nhất từ các doanh nghiệp trong đó có công ty niêm yết, mà sau hợp nhất, công ty hợp nhất không đáp ứng điều kiện niêm yết theo quy định phải hoàn tất thủ tục đăng ký giao dịch.
+
+đ)[7] Doanh nghiệp cổ phần hóa theo quy định pháp luật về cổ phần hóa và chưa niêm yết trên Sở Giao dịch Chứng khoán thực hiện đăng ký, lưu ký và đăng ký giao dịch chứng khoán theo thời hạn quy định tại Khoản 5 Điều 4 Thông tư này.
+
+Điều 4. Thủ tục, hồ sơ đăng ký giao dịch
+
+1. Đối với công ty đại chúng đã đăng ký chứng khoán tại Trung tâm lưu ký chứng khoán Việt Nam:
+
+1.1. Hồ sơ đăng ký giao dịch chứng khoán bao gồm:
+
+a) Giấy đề nghị đăng ký giao dịch chứng khoán theo mẫu quy định tại Phụ lục số 01 ban hành kèm theo Thông tư này;
+
+b) Thông tin tóm tắt về công ty theo mẫu quy định tại Phụ lục số 08 ban hành kèm theo Nghị định số 58/2012/NĐ-CP ;
+
+c)[8] Báo cáo tài chính đã được kiểm toán của năm liền trước năm nộp hồ sơ đăng ký giao dịch của doanh nghiệp trừ một số trường hợp sau:
+
+- Trường hợp công ty đại chúng thay đổi loại hình doanh nghiệp trong năm liền trước hoặc trong năm nộp hồ sơ đăng ký giao dịch thì sử dụng Báo cáo tài chính kiểm toán đủ 12 tháng của năm liền trước năm nộp hồ sơ đăng ký giao dịch (giai đoạn trước chuyển đổi hoặc cả hai giai đoạn trước và sau chuyển đổi thành công ty cổ phần);
+
+- Trường hợp công ty bị hủy niêm yết do hợp nhất và sau hợp nhất vẫn đáp ứng điều kiện là công ty đại chúng và việc hợp nhất hoàn thành trong năm liền trước năm nộp hồ sơ đăng ký giao dịch thì sử dụng Báo cáo tài chính năm liền trước năm đăng ký giao dịch (kỳ báo cáo không đủ 12 tháng) đã được kiểm toán của công ty hợp nhất; Trường hợp việc hợp nhất hoàn thành trong năm nộp hồ sơ đăng ký giao dịch thì sử dụng Báo cáo tài chính năm liền trước năm đăng ký giao dịch đã kiểm toán của các công ty bị hợp nhất;
+
+- Trường hợp doanh nghiệp nhà nước hoàn tất việc cổ phần hóa cùng năm nộp hồ sơ đăng ký giao dịch thì sử dụng Báo cáo tài chính năm liền trước năm đăng ký giao dịch đã được kiểm toán của doanh nghiệp trong giai đoạn là doanh nghiệp nhà nước;
+
+- Trường hợp doanh nghiệp nhà nước hoàn tất việc cổ phần hóa trong năm liền trước năm nộp hồ sơ đăng ký giao dịch thì sử dụng Báo cáo tài chính được kiểm toán cho giai đoạn từ khi công ty chính thức trở thành công ty cổ phần đến hết năm tài chính đó;
+
+- Các trường hợp khác do Sở Giao dịch Chứng khoán Hà Nội hướng dẫn sau khi có ý kiến bằng văn bản của Ủy ban Chứng khoán Nhà nước.
+
+Trường hợp doanh nghiệp thay đổi về vốn điều lệ thực góp trong năm đăng ký giao dịch thì ngoài Báo cáo tài chính theo quy định tại điểm này, doanh nghiệp nộp thêm báo cáo kiểm toán vốn.
+
+d) Bản sao Giấy chứng nhận đăng ký chứng khoán của Trung tâm lưu ký chứng khoán Việt Nam và bản sao công văn thông báo cho Trung tâm lưu ký chứng khoán Việt Nam về việc đăng ký ngày chốt danh sách cổ đông để đăng ký giao dịch.
+
+1.2. Hồ sơ đăng ký giao dịch chứng khoán tại điểm 1.1 khoản 1 Điều này được lập thành một (01) bộ bản gốc kèm theo một (01) bản dữ liệu điện tử (nếu có), nộp trực tiếp hoặc qua đường bưu điện cho Sở giao dịch chứng khoán Hà Nội.
+
+1.3.[9] Trong vòng năm (05) ngày làm việc kể từ ngày nhận được hồ sơ, Sở Giao dịch Chứng khoán Hà Nội có trách nhiệm yêu cầu tổ chức đăng ký giao dịch sửa đổi, bổ sung hồ sơ (nếu cần).
+
+Trong vòng năm (05) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, Sở Giao dịch Chứng khoán Hà Nội cấp Quyết định chấp thuận đăng ký giao dịch đồng thời thực hiện công bố thông tin ra thị trường. Trường hợp từ chối, Sở Giao dịch Chứng khoán Hà Nội phải trả lời bằng văn bản và nêu rõ lý do.
+
+2. Đối với công ty đại chúng chưa đăng ký chứng khoán tại Trung tâm lưu ký chứng khoán Việt Nam:
+
+2.1. Hồ sơ đăng ký giao dịch chứng khoán bao gồm:
+
+a) Hồ sơ đăng ký chứng khoán tại Trung tâm lưu ký chứng khoán Việt Nam theo quy định pháp luật chứng khoán về đăng ký, lưu ký, bù trừ và thanh toán chứng khoán;
+
+b) Tài liệu quy định tại các tiết a, b, c điểm 1.1 khoản 1 Điều này.
+
+2.2. Tài liệu quy định tại tiết a điểm 2.1 khoản 2 Điều này được lập thành một (01) bộ bản gốc kèm theo một (01) bản dữ liệu điện tử (nếu có), nộp trực tiếp hoặc qua đường bưu điện cho Trung tâm lưu ký chứng khoán Việt Nam. Tài liệu quy định tại tiết b điểm 2.1 khoản 2 Điều này được lập thành một (01) bộ bản gốc kèm theo một (01) bản dữ liệu điện tử, nộp trực tiếp hoặc qua đường bưu điện cho Sở giao dịch chứng khoán Hà Nội.
+
+2.3.[10] Trong vòng năm (05) ngày làm việc kể từ ngày nhận được hồ sơ, Trung tâm Lưu ký Chứng khoán Việt Nam có trách nhiệm yêu cầu tổ chức đăng ký giao dịch sửa đổi, bổ sung hồ sơ (nếu cần).
+
+Trong vòng năm (05) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, Trung tâm Lưu ký Chứng khoán Việt Nam cấp Giấy chứng nhận đăng ký chứng khoán cho tổ chức phát hành đồng thời gửi giấy chứng nhận đăng ký chứng khoán cho Sở Giao dịch Chứng khoán Hà Nội. Trong vòng năm (05) ngày làm việc, kể từ ngày nhận được Giấy chứng nhận đăng ký chứng khoán và hồ sơ đầy đủ, hợp lệ quy định tại tiết b điểm 2.1 khoản 2 Điều này, Sở giao dịch chứng khoán Hà Nội cấp Quyết định chấp thuận đăng ký giao dịch đồng thời thực hiện công bố thông tin ra thị trường. Trường hợp từ chối, Sở giao dịch chứng khoán Hà Nội phải trả lời bằng văn bản và nêu rõ lý do.
+
+3. Trong vòng mười (10) ngày kể từ ngày ban hành Quyết định chấp thuận đăng ký giao dịch, công ty đại chúng có trách nhiệm đưa cổ phiếu vào giao dịch trên hệ thống giao dịch Upcom.
+
+4. Trường hợp đăng ký giao dịch theo quy định tại điểm c khoản 2 Điều 3 Thông tư này, việc đăng ký giao dịch cổ phiếu do các Sở giao dịch chứng khoán phối hợp với Trung tâm lưu ký chứng khoán Việt Nam tự thực hiện.
+
+5. [11] Đối với doanh nghiệp cổ phần hóa theo điểm d khoản 1 Điều 3 Thông tư này:
+
+a) Trường hợp doanh nghiệp cổ phần hóa gắn với đăng ký, lưu ký và đăng ký giao dịch theo quy định tại Nghị định số 126/2017/NĐ-CP thực hiện theo trình tự quy định tại khoản 8 Điều 7 Thông tư số 40/2018/TT-BTC ngày 04/5/2018 của Bộ trưởng Bộ Tài chính hướng dẫn bán cổ phần lần đầu và quản lý, sử dụng tiền thu từ cổ phần hóa của doanh nghiệp nhà nước và công ty trách nhiệm hữu hạn một thành viên do doanh nghiệp nhà nước đầu tư 100% vốn điều lệ chuyển đổi thành công ty cổ phần và văn bản pháp luật có liên quan;
+
+b) Trường hợp doanh nghiệp cổ phần hóa đã hoàn tất việc chuyển sang công ty cổ phần theo quy định pháp luật về cổ phần hóa nhưng chưa đăng ký giao dịch hoặc không thuộc đối tượng quy định tại điểm a khoản này thì thực hiện thủ tục, hồ sơ đăng ký, lưu ký, đăng ký giao dịch chứng khoán theo quy định tại khoản 2 Điều này;
+
+c) Doanh nghiệp cổ phần hóa sau khi được cấp Giấy chứng nhận đăng ký doanh nghiệp hoạt động dưới hình thức công ty cổ phần thực hiện đăng ký lại thông tin với Trung tâm Lưu ký Chứng khoán Việt Nam theo Quy chế cấp mã chứng khoán, đăng ký lưu ký đối với cổ phiếu trúng đấu giá của doanh nghiệp cổ phần hóa, đồng thời gửi bản Thông tin tóm tắt về công ty theo Mẫu số 08 của Phụ lục ban hành kèm theo Nghị định số 58/2012/NĐ-CP và gửi hồ sơ thay đổi đăng ký giao dịch theo quy định tại Điều 5 Thông tư này (nếu có) cho Sở Giao dịch Chứng khoán Hà Nội;
+
+d) Doanh nghiệp cổ phần hóa sau khi đăng ký giao dịch trên hệ thống giao dịch Upcom phải thực hiện công bố thông tin như công ty đại chúng;
+
+đ) Sở Giao dịch Chứng khoán Hà Nội hướng dẫn cơ chế và phương thức giao dịch của doanh nghiệp cổ phần hóa thực hiện đăng ký giao dịch tại Quy chế tổ chức và quản lý giao dịch chứng khoán của tổ chức đăng ký giao dịch chứng khoán tại Sở Giao dịch Chứng khoán Hà Nội sau khi được Ủy ban Chứng khoán Nhà nước chấp thuận
+
+Điều 5. Thay đổi đăng ký giao dịch[12]
+
+1. Tổ chức đăng ký giao dịch thực hiện thay đổi đăng ký giao dịch khi thay đổi số lượng chứng khoán đưa vào đăng ký giao dịch trên Sở Giao dịch Chứng khoán Hà Nội.
+
+2. Hồ sơ, thủ tục thay đổi đăng ký giao dịch
+
+a) Hồ sơ thay đổi đăng ký giao dịch bao gồm:
+
+- Giấy đề nghị thay đổi đăng ký giao dịch theo mẫu quy định tại Phụ lục 02 ban hành kèm theo Thông tư này;
+
+- Bản sao Giấy chứng nhận đăng ký chứng khoán đã được điều chỉnh do Trung tâm Lưu ký Chứng khoán Việt Nam cấp (trừ trường hợp thay đổi đăng ký giao dịch do giảm vốn);
+
+- Các tài liệu liên quan đến việc thay đổi số lượng chứng khoán đăng ký giao dịch.
+
+b) Tổ chức đăng ký nộp hồ sơ thay đổi đăng ký giao dịch tới Sở Giao dịch Chứng khoán Hà Nội theo quy định tại điểm a khoản này.
+
+c) Trong vòng năm (05) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, Sở Giao dịch Chứng khoán Hà Nội cấp Quyết định chấp thuận thay đổi đăng ký giao dịch đồng thời thực hiện công bố thông tin ra thị trường. Trường hợp từ chối, Sở Giao dịch Chứng khoán Hà Nội trả lời tổ chức đăng ký giao dịch bằng văn bản và nêu rõ lý do.
+
+d) Trường hợp số lượng chứng khoán đăng ký giao dịch thay đổi tăng, trong vòng năm (05) ngày làm việc kể từ ngày Sở Giao dịch Chứng khoán Hà Nội ban hành Quyết định chấp thuận thay đổi đăng ký giao dịch, tổ chức đăng ký giao dịch phải đăng ký ngày giao dịch cho số lượng chứng khoán mới (ngày giao dịch phải sau ít nhất sáu (06) ngày làm việc kể từ ngày Sở Giao dịch Chứng khoán Hà Nội nhận được văn bản đề nghị của tổ chức đăng ký giao dịch nhưng tối đa không quá ba mươi (30) ngày kể từ ngày được cấp Quyết định chấp thuận thay đổi đăng ký giao dịch) và hoàn tất các thủ tục để đưa chứng khoán mới vào giao dịch.
+
+Điều 6. Hủy đăng ký giao dịch
+
+1. Chứng khoán bị hủy đăng ký giao dịch trong các trường hợp sau:
+
+a) Tổ chức đăng ký giao dịch không còn đáp ứng điều kiện là công ty đại chúng theo thông báo hủy đăng ký công ty đại chúng của Ủy ban Chứng khoán Nhà nước;
+
+b) Tổ chức đăng ký giao dịch chấm dứt sự tồn tại do bị sáp nhập, hợp nhất, chia, giải thể hoặc phá sản;
+
+c) Tổ chức đăng ký giao dịch bị thu hồi giấy chứng nhận đăng ký doanh nghiệp hoặc giấy phép thành lập và hoạt động trong lĩnh vực chuyên ngành;
+
+d) Tổ chức đăng ký giao dịch được chấp thuận niêm yết tại Sở giao dịch chứng khoán.
+
+đ)[13] Doanh nghiệp cổ phần hóa theo quy định pháp luật về cổ phần hóa đăng ký giao dịch trên hệ thống giao dịch Upcom và được cấp Giấy chứng nhận đăng ký doanh nghiệp sẽ bị hủy đăng ký giao dịch sau một (01) năm kể từ ngày không đáp ứng điều kiện về vốn hoặc cổ đông theo quy định tại điểm c khoản 1 Điều 25 Luật Chứng khoán hoặc cả hai điều kiện trên.
+
+Ngày doanh nghiệp cổ phần hóa đăng ký giao dịch không đáp ứng điều kiện về vốn là ngày doanh nghiệp đã đăng ký kinh doanh dưới hình thức công ty cổ phần và có vốn điều lệ ghi trên Giấy chứng nhận đăng ký doanh nghiệp dưới 10 tỷ đồng hoặc ngày doanh nghiệp có vốn điều lệ đã góp không đủ 10 tỷ đồng tính trên Báo cáo tài chính năm gần nhất có kiểm toán. Ngày doanh nghiệp cổ phần hóa đăng ký giao dịch không đáp ứng điều kiện về cổ đông là ngày doanh nghiệp có số lượng cổ đông thấp hơn 100 người theo xác nhận của Trung tâm Lưu ký Chứng khoán.
+
+e)[14] Doanh nghiệp cổ phần hóa đăng ký giao dịch trên hệ thống giao dịch Upcom và được cấp Giấy chứng nhận đăng ký doanh nghiệp trước ngày Thông tư này có hiệu lực, nếu không đáp ứng điều kiện về vốn hoặc cổ đông theo quy định tại điểm đ khoản 1 Điều 6 Thông tư này sẽ bị hủy đăng ký giao dịch trong vòng một (01) năm kể từ ngày Thông tư này có hiệu lực.
+
+2. Sở Giao dịch Chứng khoán Hà Nội ban hành Quyết định hủy đăng ký giao dịch và công bố thông tin ra thị trường.
+
+Điều 7. Điều khoản thi hành[15]
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2016 thay thế cho Thông tư số 01/2015/TT-BTC ngày 05 tháng 01 năm 2015 của Bộ trưởng Bộ Tài chính hướng dẫn đăng ký giao dịch chứng khoán của công ty đại chúng chưa niêm yết.
+
+2. Trong vòng một (01) năm kể từ ngày Thông tư có hiệu lực, công ty đã là công ty đại chúng và công ty đại chúng đã hủy niêm yết trước thời điểm Thông tư này có hiệu lực phải hoàn tất thủ tục đăng ký giao dịch trên hệ thống giao dịch Upcom.
+
+3. Trên cơ sở quy định tại Thông tư này, Sở Giao dịch chứng khoán Hà Nội ban hành quy chế nghiệp vụ sau khi được chấp thuận của Ủy ban Chứng khoán Nhà nước.
+
+4. Các Sở Giao dịch chứng khoán, Trung tâm Lưu ký Chứng khoán Việt Nam và các cơ quan, tổ chức, cá nhân liên quan có trách nhiệm thực hiện Thông tư này./.
+
+|  | XÁC THỰC VĂN BẢN HỢP NHẤT KT. BỘ TRƯỞNG THỨ TRƯỞNG Huỳnh Quang Hải |
+
+|--|--------------------------------------------------------------------|
+
+XÁC THỰC VĂN BẢN HỢP NHẤT
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Huỳnh Quang Hải
+
+PHỤ LỤC 01
+
+MẪU GIẤY ĐỀ NGHỊ ĐĂNG KÝ GIAO DỊCH (Ban hành kèm theo Thông tư số 180/2015/TT-BTC ngày 13 tháng 11 năm 2015 của Bộ Tài chính hướng dẫn về đăng ký giao dịch chứng khoán trên hệ thống giao dịch cho chứng khoán chưa niêm yết)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ----------------
+
+GIẤY ĐỀ NGHỊ ĐĂNG KÝ GIAO DỊCH
+
+Chứng khoán:........ (tên chứng khoán)
+
+Kính gửi: Sở Giao dịch Chứng khoán Hà Nội
+
+I. Giới thiệu về công ty đại chúng đề nghị đăng ký giao dịch:
+
+1. Tên tổ chức đề nghị đăng ký giao dịch (đầy đủ):.............................................
+
+2. Tên Tiếng Anh (nếu có):...................................................................................
+
+3. Tên viết tắt (nếu có):.........................................................................................
+
+4. Vốn điều lệ đăng ký:.........................................................................................
+
+5. Vốn điều lệ thực góp:........................................................................................
+
+6. Địa chỉ trụ sở chính:..........................................................................................
+
+7. Điện thoại:................................................... Fax:..............................................
+
+8. Nơi mở tài khoản:.................................. Số hiệu tài khoản:.............................
+
+9. Căn cứ pháp lý hoạt động kinh doanh:
+
+- Giấy chứng nhận đăng ký doanh nghiệp số:.......................... do................... cấp ngày............................ hoặc Giấy phép thành lập và hoạt động số:.......... do................ cấp ngày.............
+
+- Ngành nghề kinh doanh chủ yếu:................................ Mã số:...........................
+
+- Sản phẩm/dịch vụ chính:...................................................................................
+
+II. Chứng khoán đăng ký giao dịch:
+
+1. Tên chứng khoán:.............................................................................................
+
+2. Loại chứng khoán:............................................................................................
+
+3. Mã chứng khoán:..............................................................................................
+
+4. Mệnh giá chứng khoán:........................................................................... đồng
+
+5. Số lượng chứng khoán đăng ký giao dịch:.................................. chứng khoán
+
+6. Thời gian dự kiến giao dịch:.............................................................................
+
+7. Tỷ lệ số cổ phần đăng ký giao dịch trên tổng số cổ phần đã phát hành:............................................................................................................................
+
+III. Hồ sơ kèm theo:
+
+1. Bản sao Giấy chứng nhận đăng ký chứng khoán do Trung tâm Lưu ký Chứng khoán Việt Nam cấp.
+
+2. Thông tin tóm tắt (theo mẫu số 08 Phụ lục ban hành kèm theo Nghị định số 58/2012/NĐ-CP của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán).
+
+3. Các tài liệu khác (nếu có).
+
+|  | .........., ngày........ tháng...... năm..... ĐẠI DIỆN THEO PHÁP LUẬT CỦA TỔ CHỨC ĐKGD (Ký, ghi rõ họ tên và đóng dấu) |
+
+|--|------------------------------------------------------------------------------------------------------------------------|
+
+.........., ngày........ tháng...... năm..... ĐẠI DIỆN THEO PHÁP LUẬT CỦA TỔ CHỨC ĐKGD (Ký, ghi rõ họ tên và đóng dấu)
+
+PHỤ LỤC 02
+
+MẪU GIẤY ĐỀ NGHỊ THAY ĐỔI ĐĂNG KÝ GIAO DỊCH (Ban hành kèm theo Thông tư số 180/2015/TT-BTC ngày 13 tháng 11 năm 2015 của Bộ Tài chính hướng dẫn về đăng ký giao dịch chứng khoán trên hệ thống giao dịch cho chứng khoán chưa niêm yết)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+GIẤY ĐỀ NGHỊ THAY ĐỔI ĐĂNG KÝ GIAO DỊCH
+
+Chứng khoán:..........(tên chứng khoán)
+
+Kính gửi: Sở Giao dịch Chứng khoán Hà Nội
+
+I. Giới thiệu về tổ chức đăng ký giao dịch
+
+1. Tên tổ chức đăng ký giao dịch (đầy đủ):..........................................................
+
+2. Tên giao dịch:...................................................................................................
+
+3. Vốn điều lệ hiện tại:..........................................................................................
+
+4. Địa chỉ trụ sở chính:..........................................................................................
+
+5. Điện thoại:.................................................. Fax:...............................................
+
+6. Nơi mở tài khoản:................................ Số hiệu tài khoản:...............................
+
+7. Căn cứ pháp lý hoạt động kinh doanh
+
+- Giấy chứng nhận đăng ký doanh nghiệp số......................... ngày.............. tháng..... năm......... (sửa đổi lần thứ.............. ngày............)
+
+- Ngành nghề kinh doanh chủ yếu:...................................... Mã số:.....................
+
+- Sản phẩm/dịch vụ chính:....................................................................................
+
+II. Chứng khoán thay đổi đăng ký giao dịch:
+
+1. Tên chứng khoán:.............................................................................................
+
+2. Loại chứng khoán:............................................................................................
+
+3. Mã chứng khoán:..............................................................................................
+
+4. Mệnh giá chứng khoán:........................................................................... đồng
+
+5. Số lượng chứng khoán thay đổi đăng ký giao dịch:..........................................
+
+6. Số lượng chứng khoán đăng ký giao dịch sau khi thay đổi đăng ký giao dịch: ..................................................... chứng khoán.
+
+7. Lý do thay đổi đăng ký giao dịch:....................................................................
+
+8. Thời gian dự kiến đăng ký giao dịch:...............................................................
+
+III. Các bên liên quan (nếu có):
+
+1. Tổ chức tư vấn:.................................................................................................
+
+- Địa chỉ trụ sở chính:...........................................................................................
+
+- Điện thoại:....................................................... Fax:...........................................
+
+- Website:..............................................................................................................
+
+2. Công ty kiểm toán:............................................................................................
+
+- Địa chỉ trụ sở chính:...........................................................................................
+
+- Điện thoại:..................................................... Fax:.............................................
+
+- Website:.............................................................................................................
+
+3. Các bên liên quan khác:
+
+- Địa chỉ trụ sở chính:...........................................................................................
+
+- Điện thoại:..................................................... Fax:.............................................
+
+- Website:..............................................................................................................
+
+IV. Cam kết của tổ chức đăng ký giao dịch:
+
+Chúng tôi xin đảm bảo rằng những số liệu trong hồ sơ này là đầy đủ và đúng sự thật, không phải là số liệu giả hoặc thiếu có thể làm cho người mua chứng khoán chịu thiệt hại. Chúng tôi cam kết nghiên cứu đầy đủ và thực hiện nghiêm chỉnh các văn bản pháp luật về chứng khoán và thị trường chứng khoán và chịu mọi hình thức xử lý nếu vi phạm cam kết nêu trên.
+
+V. Hồ sơ kèm theo:
+
+1. Bản sao Giấy chứng nhận đăng ký chứng khoán điều chỉnh do Trung tâm Lưu ký Chứng khoán Việt Nam cấp;
+
+2. Quyết định về việc tách, sáp nhập tổ chức đăng ký giao dịch (trường hợp tổ chức đăng ký giao dịch tách hoặc nhận sáp nhập);
+
+3. Bản sao hợp lệ Giấy chứng nhận đăng ký doanh nghiệp của tổ chức đăng ký giao dịch sáp nhập (trường hợp nhận sáp nhập), tổ chức đăng ký giao dịch bị tách (trường hợp tách tổ chức đăng ký giao dịch);
+
+4. Các tài liệu khác liên quan đến việc thay đổi số lượng chứng khoán đăng ký giao dịch (nếu có).
+
+|  | .........., ngày........ tháng...... năm..... ĐẠI DIỆN THEO PHÁP LUẬT CỦA TỔ CHỨC ĐKGD (Ký, ghi rõ họ tên và đóng dấu) |
+
+|--|------------------------------------------------------------------------------------------------------------------------|
+
+.........., ngày........ tháng...... năm..... ĐẠI DIỆN THEO PHÁP LUẬT CỦA TỔ CHỨC ĐKGD (Ký, ghi rõ họ tên và đóng dấu)
+
+[1] Văn bản này hợp nhất từ 02 văn bản sau:
+
+- Thông tư số 180/2015/TT-BTC ngày 13 tháng 11 năm 2015 của Bộ trưởng Bộ Tài chính hướng dẫn về đăng ký giao dịch chứng khoán trên hệ thống giao dịch cho chứng khoán chưa niêm yết, có hiệu lực kể từ ngày 01 tháng 01 năm 2016.
+
+- Thông tư số 13/2019/TT-BTC ngày 15 tháng 3 năm 2019 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 180/2015/TT-BTC ngày 13/11/2015 hướng dẫn về đăng ký giao dịch chứng khoán trên hệ thống giao dịch cho chứng khoán chưa niêm yết, có hiệu lực kể từ ngày 01 tháng 5 năm 2019.
+
+Văn bản hợp nhất này không thay thế 02 văn bản nêu trên.
+
+[2] Thông tư số 13/2019/TT-BTC ngày 15 tháng 3 năm 2019 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 180/2015/TT-BTC ngày 13/11/2015 hướng dẫn về đăng ký giao dịch chứng khoán trên hệ thống giao dịch cho chứng khoán chưa niêm yết, có căn cứ ban hành như sau:
+
+“Căn cứ Luật Chứng khoán ngày 29 tháng 6 năm 2006;
+
+Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán ngày 24 tháng 11 năm 2010;
+
+Căn cứ Luật Doanh nghiệp ngày 26 tháng 11 năm 2014;
+
+Căn cứ Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán;
+
+Căn cứ Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán;
+
+Căn cứ Nghị định số 126/2017/NĐ-CP ngày 16 tháng 11 năm 2017 của Chính phủ về chuyển doanh nghiệp nhà nước và công ty trách nhiệm hữu hạn một thành viên do doanh nghiệp nhà nước đầu tư 100% vốn điều lệ thành công ty cổ phần;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Chủ tịch Ủy ban Chứng khoán Nhà nước;
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư sửa đổi, bổ sung một số điều của Thông tư số 180/2015/TT-BTC ngày 13 tháng 11 năm 2015 hướng dẫn về đăng ký giao dịch chứng khoán trên hệ thống giao dịch cho chứng khoán chưa niêm yết.”
+
+[3] Điều này được sửa đổi, bổ sung theo quy định tại khoản 1 Điều 1 Thông tư số 13/2019/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2019.
+
+[4] Điều này được sửa đổi theo quy định tại khoản 2 Điều 1 Thông tư 13/2019/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2019
+
+[5] Điểm này được sửa đổi theo quy định tại khoản 3 Điều 1 Thông tư số 13/2019/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2019.
+
+[6] Điểm này được sửa đổi theo quy định tại khoản 4 Điều 1 Thông tư số 13/2019/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2019.
+
+[7] Điểm này được bổ sung theo quy định tại khoản 5 Điều 1 Thông tư số 13/2019/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2019.
+
+[8] Tiết này được sửa đổi, bổ sung theo quy định tại khoản 6 Điều 1 Thông tư số 13/2019/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2019
+
+[9] Điểm này được sửa đổi, bổ sung theo quy định tại khoản 7 Điều 1 Thông tư số 13/2019/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2019.
+
+[10] Điểm này được sửa đổi, bổ sung theo quy định tại khoản 8 Điều 1 Thông tư số 13/2019/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2019.
+
+[11] Khoản này được sửa đổi, bổ sung theo quy định tại khoản 9 Điều 1 Thông tư số 13/2019/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2019.
+
+[12] Điều này được sửa đổi, bổ sung theo quy định tại khoản 10 Điều 1 Thông tư số 13/2019/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2019.
+
+[13] Điều này được bổ sung theo quy định tại khoản 11 Điều 1 Thông tư số 13/2019/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2019.
+
+[14] Điểm này được bổ sung theo quy định tại khoản 11 Điều 1 Thông tư số 13/2019/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2019.
+
+[15] Điều 2 Thông tư số 13/2019/TT-BTC ngày 15 tháng 3 năm 2019 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 180/2015/TT-BTC ngày 13 tháng 11 năm 2015 hướng dẫn về đăng ký giao dịch chứng khoán trên hệ thống giao dịch cho chứng khoán chưa niêm yết quy định như sau:
+
+“Điều 2. Điều khoản thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 5 năm 2019. Trường hợp các văn bản quy phạm pháp luật được dẫn chiếu để áp dụng tại Thông tư này được sửa đổi, bổ sung hoặc thay thế bằng văn bản mới thì thực hiện theo quy định tại văn bản sửa đổi, bổ sung, thay thế.
+
+2. Trên cơ sở quy định tại Thông tư này, Sở Giao dịch Chứng khoán Hà Nội, Trung tâm Lưu ký Chứng khoán Việt Nam có trách nhiệm ban hành quy chế hoạt động nghiệp vụ sau khi được sự chấp thuận của Ủy ban Chứng khoán Nhà nước
+
+3. Ủy ban Chứng khoán Nhà nước, Sở Giao dịch chứng khoán, Trung tâm Lưu ký Chứng khoán Việt Nam và các cơ quan, tổ chức, cá nhân liên quan có trách nhiệm thực hiện Thông tư này.”

@@ -1,0 +1,1707 @@
+| BỘ TÀI CHÍNH   | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|----------------|-----------------------------------------------------------------|
+
+| Số: 456/QĐ-BTC | Hà Nội, ngày 28 tháng 3 năm 2019                                |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 456/QĐ-BTC
+
+Hà Nội, ngày 28 tháng 3 năm 2019
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH QUY CHẾ TIẾP NHẬN, XỬ LÝ, PHÁT HÀNH VÀ QUẢN LÝ VĂN BẢN ĐIỆN TỬ TẠI BỘ TÀI CHÍNH
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về về ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 07 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Nghị định số 130/2018/NĐ-CP ngày 29 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số;
+
+Căn cứ Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 về giao dịch điện tử trong hoạt động tài chính;
+
+Căn cứ Quyết định số 28/QĐ-TTg ngày 12 tháng 07 năm 2018 của Thủ tướng Chính phủ về việc gửi, nhận văn bản điện tử giữa các cơ quan trong hệ thống hành chính nhà nước;
+
+Căn cứ Chỉ thị số 02/CT-TTg ngày 23 tháng 01 năm 2019 của Thủ tướng Chính phủ về việc tăng cường sử dụng chữ ký số chuyên dùng Chính phủ trong hoạt động của cơ quan nhà nước các cấp;
+
+Căn cứ Thông tư số 01/2019/TT-BNV ngày 24 tháng 01 năm 2019 của Bộ Nội vụ quy định quy trình trao đổi, lưu trữ, xử lý tài liệu điện tử trong công tác văn thư, các chức năng cơ bản của Hệ thống quản lý tài liệu điện tử trong quá trình xử lý công việc của các đơn vị;
+
+Căn cứ Thông tư số 02/2019/TT-BNV ngày 24 tháng 01 năm 2019 của Bộ Nội vụ quy định tiêu chuẩn dữ liệu thông tin đầu vào và yêu cầu bảo quản tài liệu lưu trữ điện tử;
+
+Căn cứ Quyết định số 1824/QĐ-BTC ngày 05 tháng 10 năm 2018 của Bộ trưởng Bộ Tài chính phê duyệt Kế hoạch thực hiện Quyết định số 28/2018/QĐ-TTg ngày 12 tháng 7 năm 2018 của Thủ tướng Chính phủ về việc gửi, nhận văn bản điện tử giữa các cơ quan trong hệ thống hành chính nhà nước;
+
+Theo đề nghị của Chánh Văn phòng Bộ, Cục trưởng Cục Tin học và Thống kê tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Quy chế tiếp nhận xử lý phát hành và quản lý văn bản điện tử tại Bộ Tài chính.
+
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký.
+
+Điều 3. Chánh Văn phòng Bộ, Cục trưởng Cục Tin học và Thống kê tài chính, Thủ trưởng các đơn vị thuộc và trực thuộc Bộ Tài chính các tổ chức cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+| Nơi nhận: - Như Điều 3; - Văn phòng Chính phủ; - Bộ Nội vụ; - Bộ trưởng và các Thứ trưởng; - Cổng Thông tin điện tử Bộ Tài chính; - Lưu: VT, VP. | BỘ TRƯỞNG Đinh Tiến Dũng |
+
+|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+
+Nơi nhận: - Như Điều 3; - Văn phòng Chính phủ; - Bộ Nội vụ; - Bộ trưởng và các Thứ trưởng; - Cổng Thông tin điện tử Bộ Tài chính; - Lưu: VT, VP.
+
+BỘ TRƯỞNG Đinh Tiến Dũng
+
+QUY CHẾ
+
+VỀ VIỆC TIẾP NHẬN, XỬ LÝ, PHÁT HÀNH VÀ QUẢN LÝ VĂN BẢN ĐIỆN TỬ TẠI BỘ TÀI CHÍNH (Ban hành theo Quyết định số 456/QĐ-BTC ngày 28 tháng 3 năm 2019 của Bộ trưởng Bộ Tài chính)
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+1. Quy chế này quy định việc tiếp nhận, xử lý, phát hành và quản lý văn bản điện tử thông qua kết nối, liên thông các hệ thống quản lý văn bản và điều hành giữa các các đơn vị thuộc Bộ Tài chính (sau đây gọi là Bộ), giữa Bộ Tài chính với các đơn vị khác có hoạt động gửi, nhận văn bản điện tử với Bộ Tài chính qua Trục liên thông văn bản Quốc gia.
+
+2. Các loại văn bản: Mật, Tối Mật, Tuyệt Mật hoặc cấm lưu hành theo quy định của pháp luật; văn bản mang tính chất nghiệp vụ không thuộc phạm vi điều chỉnh của Quy chế này.
+
+Điều 2. Đối tượng áp dụng
+
+1. Quy chế này áp dụng đối với các đơn vị thuộc Bộ (sau đây gọi là đơn vị) và cán bộ, công chức, viên chức, người lao động trong các đơn vị (sau đây gọi là cá nhân) có liên quan đến tiếp nhận, xử lý, phát hành và quản lý văn bản điện tử tại Bộ Tài chính.
+
+2. Khuyến khích các tổ chức, cá nhân có hoạt động gửi, nhận văn bản điện tử với Bộ Tài chính áp dụng các quy định tại Quy chế này.
+
+Điều 3. Giải thích từ ngữ
+
+Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Văn bản điện tử là những văn bản được tạo lập hoặc số hóa từ văn bản giấy và được gửi, nhận, lưu trữ bằng phương tiện điện tử (máy tính, các thiết bị điện tử, tin học...), theo thể thức định dạng do cơ quan nhà nước có thẩm quyền quy định.
+
+2. Văn bản mang tính chất nghiệp vụ là các tài liệu thể hiện các giao dịch trong hoạt động tài chính, bao gồm: chứng từ, báo cáo, hợp đồng, thỏa thuận, thông tin giao dịch, thông tin thực hiện thủ tục hành chính và các loại thông tin, dữ liệu khác theo quy định của pháp luật chuyên ngành.
+
+3. Hồ sơ điện tử là tập hợp các văn bản điện tử có nội dung liên quan đến một công việc, sự vụ.
+
+4. Bên gửi là đơn vị phát hành văn bản điện tử. Bên gửi không bao gồm đối tượng hoạt động với tư cách trung gian liên quan đến truyền đưa văn bản điện tử.
+
+5. Bên nhận là đơn vị tiếp nhận văn bản điện tử theo danh sách nơi nhận của bên gửi. Bên nhận không bao gồm đối tượng hoạt động với tư cách trung gian liên quan đến truyền đưa văn bản điện tử.
+
+6. Chữ ký số của đơn vị là chữ ký số được tạo lập bởi khóa bí mật tương ứng với chứng thư số được Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ (Ban Cơ yếu Chính phủ) cấp cho đơn vị theo quy định của pháp luật về giao dịch điện tử.
+
+7. Chữ ký số của người có thẩm quyền là chữ ký số được tạo lập bởi khóa bí mật tương ứng với chứng thư số được Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ (Ban Cơ yếu Chính phủ) cấp cho người có thẩm quyền theo quy định của pháp luật về giao dịch điện tử.
+
+8. Văn thư cơ quan là tổ chức hoặc bộ phận hoặc cá nhân được giao thực hiện nhiệm vụ của văn thư theo quy định của pháp luật.
+
+9. Trục liên thông văn bản quốc gia là giải pháp kỹ thuật, công nghệ được triển khai từ Văn phòng Chính phủ tới các bộ, ngành, địa phương để kết nối, liên thông gửi, nhận văn bản điện tử trong hệ thống hành chính nhà nước.
+
+10. Trục liên thông văn bản điện tử ngành Tài chính là giải pháp kỹ thuật, công nghệ được triển khai tại Bộ Tài chính để kết nối, liên thông gửi, nhận văn bản điện tử giữa: Bộ Tài chính với Trục liên thông văn bản quốc gia; các đơn vị trong ngành Tài chính; Bộ Tài chính với các đơn vị khác có hoạt động gửi, nhận văn bản điện tử với Bộ Tài chính (doanh nghiệp/tổ chức ngoài hệ thống chính trị).
+
+11. Hệ thống quản lý văn bản và điều hành là hệ thống thông tin được xây dựng với chức năng chính là hỗ trợ việc tin học hóa công tác quản lý, xử lý văn bản và hồ sơ công việc của các đơn vị thuộc Bộ Tài chính và theo dõi tình hình xử lý công việc trên môi trường mạng (sau đây gọi là Hệ thống).
+
+Điều 4. Nguyên tắc thực hiện
+
+Việc thực hiện tiếp nhận, xử lý, phát hành và quản lý văn bản điện tử tại Bộ Tài chính theo những nguyên tắc sau đây:
+
+1. Đơn vị, cá nhân phải thực hiện đúng nguyên tắc quy định tại Điều 5 của Luật Giao dịch điện tử và tuân theo các quy định khác của pháp luật về bảo vệ bí mật nhà nước, công nghệ thông tin, viễn thông, văn thư, lưu trữ.
+
+2. Văn bản điện tử đến và đi của Bộ và các đơn vị phải được tiếp nhận, xử lý, phát hành và quản lý qua hệ thống Quản lý văn bản và điều hành.
+
+3. Văn bản điện tử phải được bảo đảm tính xác thực về nguồn gốc, sự toàn vẹn, an toàn thông tin, dữ liệu trong quá trình gửi, nhận, xử lý và lưu trữ.
+
+4. Văn bản đến nếu là bản giấy, phải được số hóa theo quy định và tiến hành gửi, nhận trên hệ thống Quản lý văn bản và điều hành.
+
+5. Bên nhận có quyền từ chối nhận văn bản điện tử, nếu văn bản điện tử đó không bảo đảm các nguyên tắc, yêu cầu về gửi, nhận và phải chịu trách nhiệm về việc từ chối đó, đồng thời Bên nhận phản hồi cho Bên gửi được biết thông qua hệ thống Quản lý văn bản và điều hành để xử lý theo quy định.
+
+6. Việc xây dựng quy trình và triển khai gửi, nhận, xử lý, phát hành và quản lý văn bản điện tử cần bảo đảm hiệu quả, tiết kiệm, thống nhất và an toàn, an ninh thông tin.
+
+Chương II
+
+QUY ĐỊNH VỀ VĂN BẢN ĐIỆN TỬ
+
+Điều 5. Các loại văn bản
+
+1. Các loại văn bản điện tử có ký số thay thế cho văn bản giấy tại Bộ Tài chính, bao gồm:
+
+- Thư mời, giấy mời, giấy triệu tập họp.
+
+- Các văn bản báo cáo công tác: báo cáo tháng, quý, 6 tháng, báo cáo năm, báo cáo số liệu thống kê chuyên ngành và các báo cáo theo yêu cầu.
+
+- Văn bản gửi Lãnh đạo để báo cáo (các văn bản gửi báo cáo Lãnh đạo tại mục “Nơi nhận”).
+
+- Văn bản cung cấp thông tin, văn bản phục vụ chỉ đạo điều hành của Lãnh đạo Bộ và giữa các đơn vị với nhau.
+
+- Tài liệu phục vụ các cuộc họp, hội thảo.
+
+- Công văn trao đổi, đóng góp ý kiến.
+
+- Thông báo (giới thiệu con dấu, chữ ký, trụ sở làm việc, ý kiến kết luận của Lãnh đạo Bộ).
+
+- Giấy ủy quyền gửi báo cáo Lãnh đạo cấp trên khi vắng mặt ở cơ quan.
+
+- Giấy chứng nhận, Giấy ủy quyền, Phiếu gửi.
+
+- Các bản sao gửi văn bản để phối hợp xử lý.
+
+- Văn bản quy phạm pháp luật gửi chung để biết, các văn bản quy phạm pháp luật liên quan đến ngành.
+
+- Công điện, Thư công gửi để biết, không liên quan đến ngành.
+
+- Lịch công tác, lịch làm việc, văn bản đăng ký làm việc.
+
+- Đăng ký phòng họp, đăng ký xe.
+
+2. Các loại văn bản điện tử gửi kèm văn bản giấy:
+
+a) Văn bản gửi Chính phủ, Thủ tướng Chính phủ theo quy định tại Quy chế làm việc của Chính phủ.
+
+b) Văn bản có tính chất pháp lý liên quan tới đơn vị hoặc cá nhân (phạm vi ảnh hưởng lâu dài cho đối tượng áp dụng), bao gồm:
+
+- Quyết định về cơ cấu tổ chức, nhân sự.
+
+- Các hồ sơ trình Lãnh đạo Bộ để xin ý kiến chỉ đạo.
+
+- Hồ sơ tài liệu liên quan đến cấp giấy phép.
+
+- Các hồ sơ, tài liệu liên quan đến thi đua, khen thưởng.
+
+- Văn bản liên quan đến phân bổ ngân sách, vốn.
+
+- Văn bản mời dự các hội nghị quan trọng của ngành; mời dự các phiên họp đặc biệt, có phạm vi hẹp.
+
+Điều 6. Khuôn dạng của văn bản điện tử
+
+1. Thể thức và kỹ thuật trình bày văn bản điện tử: Tuân thủ đúng thể thức, kỹ thuật trình bày văn bản theo quy định hiện hành.
+
+2. Định dạng tệp dữ liệu của văn bản điện tử:
+
+Định dạng văn bản điện tử được thực hiện theo quy định tại Thông tư số 39/2017/TT-BTTTT ngày 15/12/2017 của Bộ trưởng Bộ Thông tin và Truyền thông ban hành Danh mục tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước. Cụ thể:
+
+a) Văn bản điện tử được tạo lập từ phần mềm máy tính sử dụng định dạng tệp dữ liệu theo tiêu chuẩn kỹ thuật (.txt), (.odt), (.rtf), (.doc), (.xls), (.ppt), (.docx), (.xlsx), (.pptx), (.pdf).
+
+b) Văn bản điện tử số hoá dạng ảnh quét, được số hóa từ bản gốc văn bản giấy sử dụng định dạng tệp dữ liệu theo tiêu chuẩn kỹ thuật (.pdf).
+
+c) Việc lựa chọn định dạng tệp dữ liệu của văn bản điện tử phải bảo đảm việc gửi, nhận, xử lý và lưu trữ văn bản một cách tự động trên các phương tiện điện tử, đồng thời cho phép việc thực hiện chuyển đổi sang văn bản giấy phản ánh toàn vẹn nội dung của văn bản điện tử được chuyển đổi.
+
+3. Bộ mã ký tự tiếng Việt
+
+Bộ mã ký tự tiếng Việt sử dụng trong văn bản điện tử dùng cho việc gửi, nhận văn bản điện tử phải là bộ mã ký tự tiếng Việt theo Tiêu chuẩn Việt Nam TCVN 6909:2001 (font chữ tiếng Việt Unicode).
+
+Điều 7. Giá trị pháp lý của văn bản điện tử
+
+1. Văn bản điện tử đã ký số theo quy định của pháp luật được gửi, nhận qua hệ thống quản lý văn bản và điều hành quy định tại Quy chế này có giá trị pháp lý tương đương văn bản giấy và thay cho việc gửi, nhận văn bản giấy.
+
+2. Văn bản điện tử không thuộc khoản 1 Điều này được gửi, nhận qua hệ thống quản lý văn bản và điều hành có giá trị để biết, tham khảo, không thay cho việc gửi, nhận văn bản giấy.
+
+Điều 8. Sử dụng chữ ký số
+
+1. Đơn vị và cá nhân sử dụng chứng thư số hợp lệ được Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng (Ban Cơ yếu Chính phủ) cung cấp để ký số xác nhận văn bản điện tử cuối cùng trước khi chính thức ban hành:
+
+a) Trường hợp văn bản điện tử hình thành từ việc số hóa từ văn bản giấy thì cần chữ ký số của đơn vị ban hành văn bản.
+
+b) Các trường hợp còn lại, văn bản điện tử cần chữ ký số hợp lệ của thủ trưởng và của cơ quan ban hành văn bản kèm theo con dấu thời gian.
+
+2. Kiểm tra chữ ký số trên văn bản điện tử theo quy định tại Điều 7 Thông tư số 41/2017/TT-BTTTT ngày 19/12/2017 của Bộ trưởng Bộ Thông tin và Truyền thông quy định sử dụng chữ ký số cho văn bản điện tử trong cơ quan nhà nước.
+
+3. Hình thức chữ ký số
+
+a) Hình thức chữ ký số của người có thẩm quyền ký ban hành văn bản
+
+- Vị trí: tại vị trí ký của người có thẩm quyền ký ban hành văn bản trên văn bản giấy.
+
+- Hình ảnh: chữ ký của người có thẩm quyền trên văn bản giấy, màu xanh, định dạng (.png).
+
+b) Hình thức chữ ký số của đơn vị ban hành văn bản
+
+- Vị trí: trùm lên khoảng 1/3 chữ ký của người có thẩm quyền về phía bên trái.
+
+- Hình ảnh: dấu của đơn vị ban hành văn bản, màu đỏ, kích thước bằng kích thước thực tế của dấu, định dạng .png.
+
+- Thông tin: Tên đơn vị, thời gian ký (ngày, tháng, năm; giờ, phút, giấy; múi giờ Việt Nam theo Tiêu chuẩn ISO 8601).
+
+Điều 9. Nội dung và yêu cầu thông tin của văn bản điện tử
+
+1. Nội dung thông tin của văn bản điện tử được gửi, nhận trên hệ thống quản lý văn bản và điều hành của các đơn vị ngành Tài chính bao gồm nội dung của văn bản điện tử đó và toàn bộ nội dung hồ sơ, tài liệu được gửi kèm theo.
+
+2. Hệ thống quản lý văn bản và điều hành của các đơn vị thuộc Bộ Tài chính phải thể hiện các thông tin theo quy định tại Điều 10 của Quyết định số 28/2018/QĐ-TTg; Thông tư số 01/2019/TT-BNV ; Thông tư số 02/2019/TT-BNV và Quy chế này.
+
+3. Mã định danh của đơn vị: Mã định danh của các đơn vị thuộc Bộ Tài chính được quy định tại Quyết định số 1642/QĐ-BTC ngày 17/9/2018 của Bộ trưởng Bộ Tài chính ban hành danh mục mã định danh các đơn vị thuộc, trực thuộc Bộ Tài chính phục vụ kết nối, trao đổi văn bản điện tử thông qua hệ thống quản lý văn bản và điều hành.
+
+4. Trạng thái xử lý văn bản được hệ thống tiếp nhận phản hồi tự động về cho hệ thống của đơn vị gửi theo quy định tại Điều 10 của Quyết định số 28/2018/QĐ-TTg được quy định thống nhất tại Bộ Tài chính như sau:
+
+- Đã đến: Văn bản điện tử của Bên gửi đã được tiếp nhận tại hệ thống Quản lý văn bản điện tử của Bên nhận.
+
+- Đã tiếp nhận: Văn thư của Bên nhận đã thực hiện các thao tác tiếp nhận văn bản (vào sổ văn bản điện tử).
+
+- Đã chuyển xử lý: Văn thư của Bên nhận đã luân chuyển xử lý văn bản điện tử trên hệ thống Quản lý văn bản điện tử của đơn vị.
+
+- Đang xử lý: Văn bản điện tử đang được cán bộ của đơn vị tiếp nhận xử lý.
+
+- Đã hoàn thành: Văn bản điện tử đã có kết quả xử lý, có tờ trình điện tử được Phê duyệt hoặc có văn bản đi điện tử được phát hành hoặc cá nhân chủ trì xử lý văn bản xác định “kết thúc” tiến trình xử lý văn bản trên hệ thống.
+
+- Từ chối nhận (Trả lại): Bên nhận từ chối nhận hoặc trả lại văn bản cho Bên gửi trên hệ thống.
+
+- Thu hồi: Là tình trạng Bên gửi thực hiện nghiệp vụ Thu hồi văn bản sau khi đã gửi văn bản điện tử cho Bên nhận.
+
+Điều 10. Hình thức gửi, nhận văn bản điện tử
+
+1. Thực hiện gửi, nhận văn bản điện tử thông qua hệ thống Quản lý văn bản và điều hành của đơn vị.
+
+2. Các đơn vị phải sử dụng hệ thống Quản lý văn bản và điều hành với đầy đủ các tính năng, chức năng để trao đổi, luân chuyển văn bản nội bộ và công tác chỉ đạo, điều hành của lãnh đạo đơn vị.
+
+3. Trường hợp các văn bản cần phổ biến rộng rãi thì được đăng tải, cập nhật trên Cổng/Trang thông tin điện tử của Bộ hoặc của các đơn vị.
+
+Điều 11. Thời điểm gửi, nhận văn bản điện tử
+
+1. Trừ trường hợp bên gửi và bên nhận đã thỏa thuận từ trước, thời điểm gửi, nhận văn bản điện tử được xác định như sau:
+
+a) Thời điểm gửi một văn bản điện tử tới bên nhận là thời điểm văn bản điện tử này nhập vào hệ thống Quản lý văn bản và điều hành của bên nhận và được hệ thống này xác nhận.
+
+b) Thời điểm nhận một văn bản điện tử là thời điểm văn bản điện tử được nhập vào hệ thống Quản lý văn bản và điều hành mà bên nhận có thể truy cập và sử dụng văn bản điện tử từ thời điểm đó hoặc được bên nhận xác nhận.
+
+2. Hệ thống Quản lý văn bản và điều hành phải được thiết lập tính năng xác định được thời điểm nhận, gửi đối với văn bản điện tử được gửi, nhận.
+
+Điều 12. Kiểm tra, bảo đảm và duy trì tính toàn vẹn của văn bản điện tử
+
+1. Tính toàn vẹn của văn bản điện tử là khi nội dung của văn bản điện tử chưa bị thay đổi, trừ những thay đổi về hình thức biểu hiện thông tin phát sinh trong quá trình gửi, lưu trữ hoặc hiển thị văn bản điện tử.
+
+2. Văn bản điện tử được kiểm tra tính toàn vẹn dựa trên các thông tin cơ bản sau đây:
+
+a) Thể thức văn bản bao gồm: Tên loại và trích yếu nội dung của văn bản; số, ký hiệu văn bản;
+
+b) Thông tin bên gửi và bên nhận văn bản điện tử;
+
+c) Thời gian văn bản điện tử được chính thức phát hành, hoặc thời gian gửi, nhận văn bản điện tử;
+
+d) Cấu trúc tệp dữ liệu chứa văn bản điện tử;
+
+đ) Chữ ký số của bên gửi trong trường hợp có sử dụng chữ ký số.
+
+Chương III
+
+TIẾP NHẬN, XỬ LÝ VĂN BẢN ĐIỆN TỬ (VĂN BẢN ĐẾN)
+
+Điều 13. Nguyên tắc và yêu cầu quản lý văn bản đến
+
+1. Trước khi tiếp nhận, Bên nhận phải kiểm tra tính đầy đủ, toàn vẹn, xác thực của văn bản điện tử. Xác nhận văn bản đến đúng địa chỉ. Xác định đúng chức năng, nhiệm vụ và thẩm quyền giải quyết văn bản đến của đơn vị tiếp nhận văn bản.
+
+Trường hợp không bảo đảm các nguyên tắc, yêu cầu về gửi, nhận văn bản điện tử, Bên nhận phải kịp thời phản hồi thông qua hệ thống quản lý văn bản và điều hành để Bên gửi biết, xử lý theo quy định.
+
+2. Tất cả văn bản đến đơn vị phải được đăng ký vào hệ thống Quản lý văn bản và điều hành.
+
+3. Số đến của một văn bản đến do hệ thống quản lý văn bản và điều hành tạo ra theo các quy định hiện hành về công tác văn thư và là duy nhất trong hệ thống Quản lý văn bản và điều hành của đơn vị.
+
+Điều 14. Tiếp nhận văn bản điện tử đến
+
+1. Kiểm tra chữ ký số theo quy định sử dụng chữ ký số cho văn bản điện tử trong cơ quan nhà nước tại Thông tư số 41/2017/TT-BTTTT ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông.
+
+2. Sau khi tiếp nhận, Bên nhận xử lý và phản hồi trạng thái xử lý văn bản điện tử trên hệ thống quản lý văn bản và điều hành. Giải quyết văn bản đến kịp thời, đúng thời hạn quy định.
+
+3. Trường hợp nhận được thông báo thu hồi văn bản điện tử, Bên nhận có trách nhiệm hủy bỏ văn bản điện tử được thu hồi đó trên hệ thống quản lý văn bản và điều hành, đồng thời thông báo việc đã xử lý văn bản điện tử được thu hồi thông qua hệ thống quản lý văn bản và điều hành để Bên gửi biết.
+
+Điều 15. Đăng ký, số hóa văn bản đến
+
+1. Đăng ký văn bản điện tử đến: Số đến, thời gian đến được lưu trong Hệ thống Quản lý văn bản và điều hành.
+
+2. Số hóa văn bản đến từ văn bản giấy
+
+a) Văn thư cơ quan thực hiện số hóa văn bản đến định dạng giấy, ký số của cơ quan tổ chức theo quy định tại Điểm c Khoản này; việc số hóa tài liệu gửi kèm văn bản có định dạng giấy căn cứ vào Danh mục văn bản phải số hóa và yêu cầu quản lý, thực tiễn hoạt động do đơn vị quy định;
+
+b) Tiêu chuẩn số hóa tài liệu:
+
+- Định dạng Portable Document Format (.pdf), phiên bản 1.4 trở lên;
+
+- Ảnh màu;
+
+- Độ phân giải tối thiểu: 200 dpi;
+
+- Tỷ lệ số hóa: 100%.
+
+c) Hình thức chữ ký số của đơn vị thực hiện số hóa trên văn bản số hóa để xử lý công việc trong hệ thống Quản lý văn bản và điều hành:
+
+- Vị trí: Góc trên, bên phải, trang đầu văn bản;
+
+- Hình ảnh: Dấu của đơn vị số hóa văn bản, màu đỏ, kích thước bằng kích thước thực tế của dấu, định dạng Portable Network Graphics (.png);
+
+- Thông tin: Tên đơn vị, thời gian ký (ngày, tháng, năm; giờ, phút, giây; múi giờ Việt Nam theo Tiêu chuẩn ISO 8601).
+
+Điều 16. Trình, luân chuyển xử lý và giải quyết văn bản đến trong Hệ thống Quản lý văn bản và điều hành
+
+Các đơn vị xây dựng và ban hành quy định chi tiết đảm bảo tuân thủ các quy định tại Phụ lục 01 ban hành kèm theo Quy chế này và yêu cầu quản lý của đơn vị.
+
+Chương IV
+
+PHÁT HÀNH, GỬI VĂN BẢN ĐIỆN TỬ (VĂN BẢN ĐI)
+
+Điều 17. Nguyên tắc và yêu cầu quản lý văn bản đi
+
+1. Tất cả văn bản đi của đơn vị phải được đăng ký vào Hệ thống Quản lý văn bản và điều hành.
+
+2. Số của một văn bản đi do hệ thống quản lý văn bản và điều hành tạo ra theo các quy định hiện hành về công tác văn thư và là duy nhất trong hệ thống của đơn vị.
+
+3. Xác nhận văn bản đi được gửi đến đúng địa chỉ của đơn vị, cá nhân có chức năng và thẩm quyền giải quyết.
+
+4. Bảo đảm văn bản được chuyển giao toàn vẹn, an toàn trong môi trường mạng.
+
+5. Thể thức và kỹ thuật trình bày văn bản điện tử thực hiện theo quy định tại Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật ban hành văn bản quy phạm pháp luật và Thông tư số 01/2011/TT-BNV ngày 19 tháng 01 năm 2011 của Bộ trưởng Bộ Nội vụ về hướng dẫn thể thức và kỹ thuật trình bày văn bản hành chính, trừ yếu tố thể thức về ký số của người có thẩm quyền và ký số của đơn vị quy định tại Điều 8 của Quy chế này.
+
+Điều 18. Soạn thảo, kiểm tra nội dung, thể thức, kỹ thuật trình bày văn bản
+
+1. Cá nhân được giao nhiệm vụ soạn thảo văn bản:
+
+a) Dự thảo văn bản; đưa dự thảo văn bản vào Hệ thống; dự kiến mức độ “khẩn” (nếu có); xin ý kiến đóng góp; tiếp thu và hoàn thiện dự thảo, trình lãnh đạo đơn vị xem xét;
+
+b) Cập nhật vào Hệ thống các Trường thông tin số 4, 9, 10, 12, 15, 17 Phụ lục V tại Quy chế này.
+
+2. Lãnh đạo đơn vị chủ trì soạn thảo văn bản xem xét, cho ý kiến và chịu trách nhiệm về nội dung dự thảo, chuyển dự thảo đến người được giao trách nhiệm kiểm tra thể thức và kỹ thuật trình bày văn bản.
+
+3. Người được giao trách nhiệm kiểm tra thể thức và kỹ thuật trình bày văn bản cho ý kiến và chịu trách nhiệm về nội dung kiểm tra, chuyển dự thảo để trình người có thẩm quyền ký ban hành văn bản.
+
+4. Văn thư cơ quan tiếp nhận bản dự thảo, kiểm tra lại thể thức và kỹ thuật trình bày văn bản; nếu phát hiện sai sót thì báo cáo người có trách nhiệm xem xét, giải quyết; chuyển dự thảo về định dạng .pdf (phiên bản 1.4 trở lên) trước khi trình người có thẩm quyền ký ban hành văn bản. Việc cập nhật số của văn bản; ngày, tháng, năm văn bản; tên đơn vị ban hành văn bản; số trang văn bản; mã định danh đơn vị nhận văn bản vào các Trường thông tin sô 5, 7, 8, 11, 14.1 Phụ lục V ban hành kèm theo Quy chế này được thực hiện bằng chức năng của Hệ thống Quản lý văn bản và điều hành.
+
+Điều 19. Ban hành và phát hành văn bản
+
+1. Ban hành văn bản điện tử
+
+a) Người có thẩm quyền ký ban hành văn bản ký số trên văn bản điện tử theo quy định tại Điều 12 Thông tư số 01/2019/TT-BNV, chuyển văn thư cơ quan để làm thủ tục phát hành văn bản.
+
+b) Văn thư cơ quan: cấp số, ngày, tháng, năm vào dự thảo văn bản bằng chức năng của Hệ thống; in và đóng dấu của đơn vị để lưu tại văn thư 01 bản và số lượng bản giấy phải phát hành đến các đối tượng quy định tại Khoản 2 Điều 5 của Quy chế này; ký số của đơn vị theo quy định tại Điều 8 của Quy chế này và phát hành văn bản điện tử.
+
+c) Văn thư cơ quan cập nhật vào Hệ thống các Trường thông tin số 6, 13, 14.2, 16 Phụ lục V ban hành kèm theo Quy chế này.
+
+2. Phát hành văn bản số hóa từ văn bản giấy
+
+Trường hợp đơn vị ban hành văn bản giấy, văn thư cơ quan thực hiện số hóa văn bản giấy theo quy định tại Khoản 2 Điều 15 của Quy chế này, ký số của đơn vị theo quy định tại Điều 8 của Quy chế này.
+
+3. Đối tượng nhận văn bản giấy
+
+a) Đơn vị, cá nhân không đáp ứng điều kiện hạ tầng kỹ thuật công nghệ để nhận văn bản điện tử;
+
+b) Đơn vị, cá nhân phải sử dụng văn bản giấy để thực hiện các giao dịch khác theo quy định tại Khoản 2, Điều 5 của Quy chế này.
+
+4. Lưu văn bản điện tử trong hệ thống Quản lý văn bản và điều hành của đơn vị.
+
+5. Lưu đồ ký ban hành, đăng ký và phát hành văn bản đơn vị xây dựng quy định chi tiết đáp ứng quy định tại Phụ lục III Ban hành kèm theo Quy chế này và yêu cầu quản lý của đơn vị.
+
+Chương V
+
+LẬP VÀ NỘP LƯU HỒ SƠ ĐIỆN TỬ VÀO LƯU TRỮ CƠ QUAN
+
+Điều 20. Yêu cầu tạo lập hồ sơ điện tử
+
+1. Bảo đảm yêu cầu chung của việc lập và quản lý hồ sơ.
+
+2. Bảo đảm tính xác thực của văn bản, tài liệu trong hồ sơ.
+
+3. Được bảo đảm an toàn trong hệ thống Quản lý văn bản và điều hành.
+
+Điều 21. Tạo lập hồ sơ điện tử
+
+1. Căn cứ vào Danh mục hồ sơ, cá nhân được giao nhiệm vụ giải quyết công việc xác định số và ký hiệu hồ sơ cho văn bản đi, văn bản đến và các tài liệu liên quan khác như: ý kiến chỉ đạo, ý kiến đóng góp, báo cáo giải trình và các nội dung khác liên quan trong quá trình giải quyết công việc; cập nhật vào Hệ thống Quản lý văn bản và điều hành các trường thông tin số 2.3 Phụ lục IV ban hành kèm theo Quy chế này và Trường thông tin số 2.3 Phụ lục V ban hành kèm theo Quy chế này. Trường hợp phát sinh hồ sơ không có trong Danh mục hồ sơ đã ban hành, cá nhân được giao nhiệm vụ giải quyết công việc cập nhật bổ sung hồ sơ vào Danh mục hồ sơ trong Hệ thống sau khi được phê duyệt.
+
+2. Cá nhân được giao nhiệm vụ lập hồ sơ có trách nhiệm cập nhật vào Hệ thống các Trường thông tin số 1.3, 2, 3, 4, 5, 6, 7 Phụ lục VI ban hành kèm theo Quy chế này.
+
+3. Mã hồ sơ gồm:
+
+a) Mã định danh của đơn vị lập danh mục hồ sơ
+
+Mã định danh của đơn vị của ngành Tài chính quy định tại Thông tư số 10/2016/TT-BTTTT ngày 01 tháng 4 năm 2016 của Bộ trưởng Bộ Thông tin và Truyền thông ban hành quy chuẩn kỹ thuật quốc gia về cấu trúc mã định danh và định dạng dữ liệu gói tin phục vụ kết nối các hệ thống quản lý văn bản và điều hành và Quyết định số 1642/QĐ-BTC ngày 17/9/2018 của Bộ trưởng Bộ Tài chính ban hành danh mục mã định danh các đơn vị thuộc, trực thuộc Bộ Tài chính. Mã định danh của đơn vị được mặc định trong Hệ thống Quản lý văn bản và điều hành.
+
+b) Năm hình thành hồ sơ
+
+c) Số và ký hiệu hồ sơ
+
+Năm hình thành hồ sơ, số và ký hiệu hồ sơ được xác định theo Danh mục hồ sơ. Các thành phần của mã hồ sơ được phân định bằng dấu chấm.
+
+Ví dụ: 000.00.30.G12.2019.01.CNTT, là Hồ sơ số 01 của phòng Quản lý công nghệ thông tin, năm 2019 của Cục Tin học và Thống kê tài chính, Bộ Tài chính.
+
+Trong đó: 000.00.30.G12 là mã định danh của Cục Tin học và Thống kê tài chính, Bộ Tài chính; 2019 là năm hình thành hồ sơ; 01.CNTT là số ký hiệu hồ sơ.
+
+4. Khi công việc hoàn thành, cá nhân được giao nhiệm vụ giải quyết công việc có trách nhiệm rà soát lại toàn bộ văn bản, tài liệu có trong hồ sơ, hoàn thiện, kết thúc hồ sơ và cập nhật vào Hệ thống Quản lý văn bản và điều hành các Trường thông tin số 8, 11 Phụ lục VI ban hành kèm theo Quy chế này.
+
+5. Việc cập nhật mã định danh của đơn vị lập hồ sơ, năm hình thành hồ sơ, tổng số văn bản trong hồ sơ, tổng số trang của hồ sơ vào các Trường thông tin số 1.1, 1.2, 9, 10 Phụ lục VI ban hành kèm theo Quy chế này được thực hiện bằng chức năng của Hệ thống Quản lý văn bản và điều hành.
+
+Điều 22. Nộp lưu và quản lý hồ sơ điện tử tại Lưu trữ cơ quan
+
+1. Việc nộp lưu, quản lý hồ sơ điện tử tại Lưu trữ cơ quan và hủy tài liệu điện tử hết giá trị được thực hiện theo quy định tại Chương II Nghị định số 01/2013/NĐ-CP ngày 03 tháng 01 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Lưu trữ.
+
+2. Cá nhân được giao nhiệm vụ giải quyết công việc căn cứ vào Danh mục hồ sơ của cơ quan, có trách nhiệm nộp lưu tài liệu điện tử và các tài liệu định dạng khác nếu có vào Lưu trữ cơ quan.
+
+3. Lưu trữ cơ quan có trách nhiệm kiểm tra, tiếp nhận hồ sơ, đưa hồ sơ về chế độ quản lý “Hồ sơ lưu trữ điện tử” trong Hệ thống.
+
+Chương VI
+
+CHỨC NĂNG HỆ THỐNG, HẠ TẦNG KỸ THUẬT, CÔNG NGHỆ
+
+Điều 23. Nguyên tắc xây dựng Hệ thống
+
+1. Bảo đảm quản lý văn bản và hồ sơ điện tử của cơ quan, tổ chức đúng quy định.
+
+2. Bảo đảm an toàn thông tin mạng, an ninh mạng theo quy định của pháp luật hiện hành.
+
+3. Bảo đảm phân quyền cho các cá nhân truy cập vào Hệ thống.
+
+Điều 24. Yêu cầu chung khi thiết kế Hệ thống
+
+1. Đáp ứng đầy đủ các quy trình và kỹ thuật về quản lý văn bản, hồ sơ điện tử và dữ liệu đặc tả.
+
+2. Có khả năng tích hợp, liên thông, chia sẻ thông tin, dữ liệu với các hệ thống khác.
+
+3. Có khả năng hệ thống hóa văn bản, hồ sơ, thống kê số lượt truy cập văn bản, hồ sơ, hệ thống.
+
+4. Bảo đảm dễ tiếp cận và sử dụng.
+
+5. Bảo đảm tính xác thực, tin cậy, toàn vẹn và khả năng truy cập, sử dụng văn bản, tài liệu.
+
+6. Bảo đảm lưu trữ hồ sơ theo thời hạn bảo quản.
+
+7. Bảo đảm phù hợp với Kiến trúc Chính phủ điện tử ngành Tài chính tại Quyết định số 2445/QĐ-BTC ngày 28/12/2018 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Chính phủ điện tử ngành Tài chính
+
+8. Cho phép ký số, kiểm tra chữ ký số theo quy định tại Thông tư số 41/2017/TT-BTTTT ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông quy định sử dụng chữ ký số cho văn bản điện tử trong cơ quan nhà nước.
+
+9. Trường hợp Hệ thống quản lý văn bản và điều hành hiện đang sử dụng chưa đáp ứng đầy đủ yêu cầu nghiệp vụ quản lý hồ sơ điện tử, các cơ quan, tổ chức có trách nhiệm nâng cấp, bổ sung các chức năng theo quy định tại Thông tư này.
+
+Điều 25. Yêu cầu chức năng của Hệ thống
+
+1. Đối với việc tạo lập và theo dõi văn bản
+
+a) Cho phép đính kèm các tệp tin;
+
+b) Cho phép tạo mã định danh văn bản đi;
+
+c) Cho phép tạo mã cho hồ sơ và số thứ tự văn bản trong hồ sơ;
+
+d) Hiển thị mức độ khẩn của văn bản;
+
+đ) Cho phép tự động cấp số, ngày, tháng, năm cho văn bản đi sau khi văn bản đã được người có thẩm quyền ký số và số đến, ngày, tháng, năm đến cho văn bản đến theo thứ tự và trình tự thời gian trong năm;
+
+e) Cho phép bên nhận tự động thông báo cho bên gửi đã nhận văn bản;
+
+g) Cho phép tự động cập nhật các Trường thông tin số 1, 2.1, 2.2, 3, 11, 13, 14 Phụ lục IV, Trường thông tin số 1, 2.1, 2.2, 3, 5, 7, 11, 14.1 Phụ lục V, Trường thông tin số 1.1, 1.2, 9, 10 Phụ lục VI Quy chế này;
+
+h) Thông báo cho văn thư cơ quan khi có sự trùng lặp mã định danh văn bản;
+
+i) Cho phép thống kê, theo dõi, đôn đốc việc giải quyết văn bản đến;
+
+k) Cho phép người có thẩm quyền phân phối văn bản đến, theo dõi, đôn đốc đơn vị, cá nhân giải quyết văn bản đúng thời hạn;
+
+l) Cho phép người có thẩm quyền truy cập, chỉnh sửa, chuyển lại dự thảo văn bản, tài liệu;
+
+m) Cho phép thông báo khi có văn bản mới;
+
+n) Cho phép cơ quan, tổ chức gửi văn bản biết được tình trạng nhận văn bản tại cơ quan, tổ chức nhận văn bản.
+
+2. Đối với việc kết nối, liên thông
+
+a) Bảo đảm kết nối, liên thông giữa các Hệ thống quản lý tài liệu điện tử và Hệ thống quản lý tài liệu lưu trữ điện tử của Lưu trữ lịch sử mà cơ quan, tổ chức là nguồn nộp lưu;
+
+b) Có khả năng hoạt động trên các thiết bị di động thông minh trong điều kiện bảo đảm an toàn thông tin;
+
+c) Có khả năng kết nối, liên thông và tích hợp với các hệ thống chuyên dụng khác đang được sử dụng tại cơ quan, tổ chức.
+
+3. Đối với an ninh thông tin
+
+a) Phân quyền truy cập đối với từng hồ sơ, văn bản;
+
+b) Cảnh báo sự thay đổi về quyền truy cập đối với từng hồ sơ, văn bản trong Hệ thống cho đến khi có xác nhận của người có thẩm quyền.
+
+4. Đối với việc bảo quản và lưu thông tin văn bản, hồ sơ
+
+a) Lưu văn bản và các thông tin về quá trình giải quyết công việc gồm: ý kiến chỉ đạo, phân phối văn bản đến của người có thẩm quyền; các dự thảo văn bản của công chức, viên chức được phân công soạn thảo; ý kiến góp ý của cá nhân, đơn vị có liên quan; ý kiến chỉ đạo của lãnh đạo; ý kiến phê duyệt, chịu trách nhiệm nội dung của lãnh đạo đơn vị chủ trì soạn thảo; ý kiến phê duyệt chịu trách nhiệm về thể thức, kỹ thuật trình bày văn bản của người có thẩm quyền; lịch sử truy cập và xem văn bản; các tác động khác vào văn bản;
+
+b) Liên kết các văn bản, tài liệu có cùng mã hồ sơ trong Hệ thống để tạo thành hồ sơ;
+
+c) Cho phép tự động thông báo hồ sơ đến hạn nộp lưu vào Lưu trữ cơ quan trước 30 ngày kể từ ngày Lưu trữ cơ quan thông báo danh mục hồ sơ nộp lưu cho đơn vị giao nộp tài liệu;
+
+d) Bảo đảm thực hiện nộp lưu hồ sơ vào Lưu trữ cơ quan;
+
+đ) Bảo đảm chuyển giao hồ sơ vào Hệ thống quản lý tài liệu lưu trữ điện tử của Lưu trữ lịch sử;
+
+e) Cho phép gán một văn bản, tài liệu cho nhiều hồ sơ mà không cần nhân bản;
+
+g) Bảo đảm sự toàn vẹn, tin cậy, không thay đổi của văn bản, hồ sơ;
+
+i) Bảo đảm khả năng di chuyển hồ sơ, tài liệu, dữ liệu đặc tả và thay đổi định dạng văn bản khi có sự thay đổi về công nghệ;
+
+k) Có khả năng sao lưu định kỳ, đột xuất và phục hồi dữ liệu khi gặp sự cố.
+
+5. Đối với thống kê, tìm kiếm và sử dụng văn bản, hồ sơ
+
+a) Cho phép thống kê số lượng hồ sơ, văn bản, tài liệu; số lượt truy cập vào từng hồ sơ, văn bản, tài liệu;
+
+b) Cho phép thống kê số lượt truy cập vào Hệ thống theo yêu cầu của người quản lý, quản trị;
+
+c) Cho phép tìm kiếm văn bản, hồ sơ đối với tất cả các trường thông tin đầu vào của văn bản, hồ sơ và nội dung của văn bản, tài liệu;
+
+d) Cho phép lựa chọn hiển thị các trường thông tin của văn bản, hồ sơ trong kết quả tìm kiếm;
+
+đ) Cho phép lưu và sử dụng lại các yêu cầu tìm kiếm;
+
+e) Cho phép hiển thị thứ tự kết quả tìm kiếm;
+
+i) Cho phép kết xuất kết quả tìm kiếm ra các định dạng tệp văn bản phổ biến: (.doc), (.docx), (.pdf);
+
+g) Cho phép tải hoặc in văn bản, tài liệu, dữ liệu đặc tả;
+
+h) Cho phép đánh dấu vào văn bản, tài liệu, dữ liệu đặc tả được in ra từ Hệ thống;
+
+i) Lưu lịch sử truy cập và sử dụng văn bản, tài liệu.
+
+Điều 26. Yêu cầu về quản trị Hệ thống
+
+1. Hệ thống cho phép người được giao quản trị Hệ thống thực hiện những nhiệm vụ sau:
+
+a) Tạo lập nhóm tài liệu, hồ sơ theo cấp độ thông tin khác nhau;
+
+b) Phân quyền cho người sử dụng theo quy định của cơ quan, tổ chức;
+
+c) Truy cập vào hồ sơ, văn bản theo quy định của cơ quan, tổ chức;
+
+d) Thay đổi quyền truy cập đối với hồ sơ, văn bản khi có sự thay đổi quy định của cơ quan, tổ chức;
+
+đ) Thay đổi quyền truy cập của các tài khoản cá nhân khi có những thay đổi về vị trí công tác của cá nhân đó;
+
+e) Phục hồi thông tin, dữ liệu trong trường hợp lỗi hệ thống và thông báo kết quả phục hồi;
+
+g) Khóa hoặc đóng băng các tập hợp (văn bản, hồ sơ, nhóm tài liệu) để ngăn chặn khả năng di chuyển, xóa hoặc sửa đổi khi có yêu cầu của người có thẩm quyền.
+
+2. Cảnh báo xung đột xảy ra trong hệ thống.
+
+3. Thiết lập kết nối liên thông.
+
+Điều 27. Thông tin đầu ra của Hệ thống
+
+Biểu mẫu thông tin đầu ra của Hệ thống quy định tại Phụ lục VII ban hành kèm theo Quy chế này, gồm:
+
+1. Sổ đăng ký văn bản đến.
+
+2. Báo cáo tình hình giải quyết văn bản đến.
+
+3. Sổ đăng ký văn bản đi.
+
+4. Báo cáo tình hình văn bản đi.
+
+5. Mục lục văn bản trong hồ sơ.
+
+6. Mục lục hồ sơ.
+
+Điều 28. Bảo đảm hạ tầng kỹ thuật, giải pháp kết nối, liên thông văn bản điện tử
+
+1. Trục liên thông văn bản điện tử ngành Tài chính được kết nối, liên thông với Trục liên thông văn bản quốc gia qua Mạng số liệu chuyên dùng của các cơ quan Đảng, Nhà nước (Mạng số liệu chuyên dùng cấp I); kết nối, liên thông với Hệ thống quản lý văn bản và điều hành của các đơn vị thuộc ngành Tài chính qua Hạ tầng truyền thông thống nhất ngành Tài chính. Các chức năng của hệ thống đáp ứng yêu cầu gửi, nhận văn bản điện tử theo quy định tại Quyết định số 28/2018/QĐ-TTg và Thông tư số 10/2016/TT-BTTTT .
+
+2. Hệ thống quản lý văn bản và điều hành của các đơn vị thuộc ngành Tài chính phải đảm bảo hạ tầng kỹ thuật kết nối với Trục liên thông văn bản điện tử ngành Tài chính sử dụng mã định danh và định dạng dữ liệu gói tin, phản hồi trạng thái xử lý văn bản theo quy định của Bộ Thông tin và Truyền thông và Bộ Tài chính. Các chức năng cơ bản của hệ thống theo quy định tại Quyết định số 28/2018/QĐ-TTg , Thông tư số 01/2019/TT-BNV , Thông tư số 02/2019/TT-BNV và Quy chế này.
+
+3. Các đơn vị phải đảm bảo giải pháp kết nối, liên thông hệ thống quản lý văn bản và điều hành của đơn vị với Trục liên thông văn bản điện tử ngành Tài chính; thực hiện kết nối theo hướng dẫn của Bộ Tài chính.
+
+Điều 29. Bảo đảm an toàn thông tin
+
+1. Chủ quản Trục liên thông văn bản điện tử ngành Tài chính, chủ quản hệ thống quản lý văn bản và điều hành các đơn vị thuộc ngành Tài chính phải xác định, phê duyệt cấp độ và tổ chức phương án bảo đảm an toàn thông tin theo cấp độ cho các hệ thống thông tin thuộc phạm vi quản lý theo Quyết định số 201/QĐ-BTC ngày 12/2/2018 của Bộ trưởng Bộ Tài chính ban hành Quy chế An toàn thông tin mạng Bộ Tài chính.
+
+2. Việc kết nối giữa hệ thống quản lý văn bản và điều hành của các đơn vị với Trục liên thông văn bản điện tử ngành Tài chính phải được mã hóa, xác thực theo tiêu chuẩn về an toàn thông tin theo Thông tư số 39/2017/TT-BTTTT ngày 25/12/2017 của Bộ Thông tin và Truyền thông ban hành Danh mục tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước và Quyết định số 316/QĐ-BTC của Bộ trưởng Bộ Tài chính ngày 13/2/2015 của Bộ trưởng Bộ Tài chính ban hành Quy định tiêu chuẩn về ứng dụng công nghệ thông tin trong các cơ quan hành chính, đơn vị sự nghiệp thuộc Bộ Tài chính.
+
+Chương VII
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 29. Trách nhiệm của Văn phòng Bộ
+
+1. Chủ trì, phối hợp với Cục Tin học và Thống kê tài chính xây dựng, trình Bộ ban hành quy trình Tiếp nhận, xử lý, phát hành và quản lý văn bản điện tử của cơ quan Bộ Tài chính.
+
+2. Phối hợp với Cục Tin học và Thống kê tài chính thực hiện nâng cấp Trục liên thông văn bản điện tử ngành Tài chính và Hệ thống quản lý văn bản và điều hành tại cơ quan Bộ phù hợp với Quyết định số 28/2018/QĐ-TTg , các quy định tại quy chế này và quy trình điều hành, xử lý văn bản điện tử tại cơ quan Bộ.
+
+Điều 30. Trách nhiệm của Cục Tin học và Thống kê tài chính
+
+1. Chủ trì, phối hợp với Văn phòng Bộ xây dựng, nâng cấp, quản lý, vận hành Trục liên thông văn bản điện tử ngành Tài chính và Hệ thống quản lý văn bản và điều hành tại cơ quan Bộ phù hợp với các quy định tại quy chế này và quy trình điều hành, xử lý văn bản điện tử tại cơ quan Bộ.
+
+2. Hướng dẫn các đơn vị thuộc Bộ về việc sử dụng mã định danh cơ quan, mã định danh văn bản và định dạng dữ liệu gói tin phục vụ kết nối các hệ thống quản lý văn bản và điều hành để gửi, nhận văn bản điện tử; quản lý thống nhất danh sách mã định danh của các đơn vị thuộc, trực thuộc Bộ phục vụ gửi, nhận văn bản điện tử; tổng hợp, cập nhật kịp thời mã định danh cơ quan khi có sự thay đổi về đơn vị hành chính, cơ cấu tổ chức của các đơn vị vào Cơ sở dữ liệu danh mục điện tử dùng chung ngành Tài chính.
+
+3. Bảo đảm hạ tầng kỹ thuật, thực hiện các biện pháp an toàn thông tin theo quy định hiện hành đối với Trục liên thông văn bản điện tử ngành Tài chính và hệ thống quản lý văn bản và điều hành tại cơ quan Bộ; hướng dẫn các đơn vị thực hiện kết nối hệ thống quản lý văn bản và điều hành của đơn vị với Trục liên thông văn bản điện tử ngành Tài chính.
+
+4. Tổ chức quản lý, định kỳ sao lưu văn bản điện tử và phải bảo đảm an ninh, an toàn thông tin trong quá trình thực hiện.
+
+5. Phối hợp với Ban cơ yếu Chính phủ thực hiện thủ tục cấp phát, gia hạn, thu hồi chứng thư số đối với các cơ quan, đơn vị thuộc cơ quan Bộ Tài chính.
+
+Điều 31. Trách nhiệm của các đơn vị cấp Tổng cục (Thuế, Hải quan, Kho bạc, Dự trữ, Chứng khoán), các đơn vị sự nghiệp thuộc Bộ Tài chính
+
+1. Các đơn vị cấp Tổng cục:
+
+a) Xây dựng, ban hành quy chế Tiếp nhận, xử lý, phát hành và quản lý văn bản điện tử tại đơn vị. Trong nội dung văn bản ban hành quy trình cần thể hiện rõ: danh mục các loại văn bản điện tử có ký số thay thế cho văn bản giấy, danh mục các loại văn bản điện tử gửi kèm văn bản giấy, danh mục các loại văn bản mang tính chất nghiệp vụ không được quản lý trên hệ thống quản lý văn bản và điều hành tại đơn vị.
+
+b) Tổ chức triển khai hệ thống quản lý văn bản và điều hành, thống nhất kết nối, liên thông các phần mềm quản lý văn bản của các đơn vị thuộc hệ thống (cấp Cục, Chi Cục) phục vụ gửi, nhận văn bản điện tử giữa các đơn vị trong hệ thống.
+
+c) Bảo đảm hạ tầng kỹ thuật, giải pháp kết nối, liên thông và thực hiện kết nối hệ thống quản lý văn bản và điều hành của đơn vị với Trục liên thông văn bản điện tử ngành Tài chính.
+
+d) Phối hợp với Ban cơ yếu Chính phủ thực hiện thủ tục cấp phát, gia hạn, thu hồi chứng thư số đối với các đơn vị thuộc Tổng cục.
+
+2. Các đơn vị sự nghiệp
+
+a) Tổ chức triển khai hệ thống quản lý văn bản và điều hành tại đơn vị; tiến hành kết nối, liên thông hệ thống quản lý văn bản và điều hành tại đơn vị với Trục liên thông văn bản điện tử ngành Tài chính.
+
+b) Xây dựng, ban hành quy trình Tiếp nhận, xử lý, phát hành và quản lý văn bản điện tử tại các đơn vị.
+
+c) Phối hợp với Ban cơ yếu Chính phủ thực hiện thủ tục cấp phát, gia hạn, thu hồi chứng thư số đối với đơn vị.
+
+Điều 32. Trách nhiệm của Vụ Thi đua - Khen thưởng
+
+Tham mưu, đề xuất với Hội đồng Thi đua - Khen thưởng của Bộ đưa tiêu chí đánh giá việc gửi, nhận văn bản điện tử của đơn vị, cá nhân vào bình xét thi đua, khen thưởng hàng năm.
+
+Điều 33. Điều khoản thi hành
+
+1. Khen thưởng
+
+Tập thể, cá nhân có thành tích xuất sắc trong việc thực hiện Quy chế này sẽ được Bộ trưởng xem xét khen thưởng theo quy định.
+
+2. Kỷ luật
+
+Tập thể, cá nhân vi phạm Quy chế này và các quy định hiện hành của Nhà nước trong gửi, nhận văn bản điện tử, tùy theo tính chất, mức độ vi phạm sẽ bị xử lý, kỷ luật hoặc truy cứu trách nhiệm theo các quy định hiện hành của pháp luật.
+
+3. Các đơn vị và cá nhân tham gia thực hiện gửi, nhận văn bản điện tử phải chấp hành nghiêm chỉnh Quy chế này và các quy định hiện hành của Nhà nước. Trong quá trình tổ chức thực hiện, nếu có khó khăn, vướng mắc các đơn vị, cá nhân phản ánh về Văn phòng Bộ, Cục Tin học và Thống kê tài chính để kịp thời xử lý./.
+
+PHỤ LỤC I
+
+LƯU ĐỒ QUẢN LÝ VĂN BẢN ĐẾN (Ban hành kèm theo Quyết định số 456/QĐ-BTC ngày 28 tháng 3 năm 2019 của Bộ trưởng Bộ Tài chính)
+
+PHỤ LỤC II
+
+LƯU ĐỒ SOẠN THẢO KIỂM TRA THỂ THỨC, KỸ THUẬT TRÌNH BÀY VĂN BẢN (Ban hành kèm theo Quyết định số 456/QĐ-BTC ngày 28 tháng 3 năm 2019 của Bộ trưởng Bộ Tài chính)
+
+PHỤ LỤC III
+
+LƯU ĐỒ KÝ BAN HÀNH, ĐĂNG KÝ, PHÁT HÀNH VĂN BẢN (Ban hành kèm theo Quyết định số 456/QĐ-BTC ngày 28 tháng 3 năm 2019 của Bộ trưởng Bộ Tài chính)
+
+PHỤ LỤC IV
+
+THÔNG TIN ĐẦU VÀO CỦA DỮ LIỆU QUẢN LÝ VĂN BẢN ĐẾN (Ban hành kèm theo Quyết định số 456/QĐ-BTC ngày 28 tháng 3 năm 2019 của Bộ trưởng Bộ Tài chính)
+
+| STT  | Trường thông tin                                     | Tên (viết tắt tiếng Anh) | Kiểu dữ liệu | Độ dài |
+
+|------|------------------------------------------------------|--------------------------|--------------|--------|
+
+| 1    | Mã định danh văn bản                                 | DocCode                  | String       | 25     |
+
+| 2    | Mã hồ sơ                                             | FileCode                 | String       | 40     |
+
+| 2.1  | Mã định danh của cơ quan, tổ chức lập danh mục hồ sơ | Organld                  | String       | 13     |
+
+| 2.2  | Năm hình thành hồ sơ                                 | FileCatalog              | Number       | 4      |
+
+| 2.3  | Số và ký hiệu hồ sơ                                  | FileNotation             | String       | 20     |
+
+| 3    | Số thứ tự văn bản trong hồ sơ                        | DocOrdinal               | Number       | 3      |
+
+| 4    | Tên loại văn bản                                     | TypeName                 | String       | 100    |
+
+| 5    | Số của văn bản                                       | CodeNumber               | String       | 11     |
+
+| 6    | Ký hiệu của văn bản                                  | CodeNotation             | String       | 30     |
+
+| 7    | Ngày, tháng, năm văn bản                             | IssuedDate               | Date         | 10     |
+
+| 8    | Tên cơ quan, tổ chức ban hành văn bản                | OrganName                | String       | 200    |
+
+| 9    | Trích yếu nội dung                                   | Subject                  | String       | 500    |
+
+| 10   | Ngôn ngữ                                             | Language                 | String       | 30     |
+
+| 11   | Số trang của văn bản                                 | PageAmount               | Number       | 3      |
+
+| 12   | Ghi chú                                              | Description              | String       | 500    |
+
+| 13   | Ngày, tháng, năm đến                                 | ArrivalDate              | Date         | 10     |
+
+| 14   | Số đến                                               | ArrivalNumber            | Number       | 10     |
+
+| 15   | Chức vụ, họ tên người ký                             | Signerlnfo               |              |        |
+
+| 15.1 | Chức vụ của người ký văn bản                         | Position                 | String       | 100    |
+
+| 15.2 | Họ và tên người ký văn bản                           | FullName                 | String       | 50     |
+
+| 16   | Mức độ khẩn                                          | Priority                 | Number       | 1      |
+
+| 17   | Đơn vị hoặc người nhận                               | ToPlaces                 | String       | 1000   |
+
+| 18   | Ý kiến phân phối, chỉ đạo, trạng thái xử lý văn bản  | TraceHeaderList          | LongText     |        |
+
+| 19   | Thời hạn giải quyết                                  | DueDate                  | Date         | 10     |
+
+STT
+
+Trường thông tin
+
+Tên
+
+(viết tắt tiếng Anh)
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã định danh văn bản
+
+DocCode
+
+String
+
+25
+
+2
+
+Mã hồ sơ
+
+FileCode
+
+String
+
+40
+
+2.1
+
+Mã định danh của cơ quan, tổ chức lập danh mục hồ sơ
+
+Organld
+
+String
+
+13
+
+2.2
+
+Năm hình thành hồ sơ
+
+FileCatalog
+
+Number
+
+4
+
+2.3
+
+Số và ký hiệu hồ sơ
+
+FileNotation
+
+String
+
+20
+
+3
+
+Số thứ tự văn bản trong hồ sơ
+
+DocOrdinal
+
+Number
+
+3
+
+4
+
+Tên loại văn bản
+
+TypeName
+
+String
+
+100
+
+5
+
+Số của văn bản
+
+CodeNumber
+
+String
+
+11
+
+6
+
+Ký hiệu của văn bản
+
+CodeNotation
+
+String
+
+30
+
+7
+
+Ngày, tháng, năm văn bản
+
+IssuedDate
+
+Date
+
+10
+
+8
+
+Tên cơ quan, tổ chức ban hành văn bản
+
+OrganName
+
+String
+
+200
+
+9
+
+Trích yếu nội dung
+
+Subject
+
+String
+
+500
+
+10
+
+Ngôn ngữ
+
+Language
+
+String
+
+30
+
+11
+
+Số trang của văn bản
+
+PageAmount
+
+Number
+
+3
+
+12
+
+Ghi chú
+
+Description
+
+String
+
+500
+
+13
+
+Ngày, tháng, năm đến
+
+ArrivalDate
+
+Date
+
+10
+
+14
+
+Số đến
+
+ArrivalNumber
+
+Number
+
+10
+
+15
+
+Chức vụ, họ tên người ký
+
+Signerlnfo
+
+15.1
+
+Chức vụ của người ký văn bản
+
+Position
+
+String
+
+100
+
+15.2
+
+Họ và tên người ký văn bản
+
+FullName
+
+String
+
+50
+
+16
+
+Mức độ khẩn
+
+Priority
+
+Number
+
+1
+
+17
+
+Đơn vị hoặc người nhận
+
+ToPlaces
+
+String
+
+1000
+
+18
+
+Ý kiến phân phối, chỉ đạo, trạng thái xử lý văn bản
+
+TraceHeaderList
+
+LongText
+
+19
+
+Thời hạn giải quyết
+
+DueDate
+
+Date
+
+10
+
+PHỤ LỤC V
+
+THÔNG TIN ĐẦU VÀO CỦA DỮ LIỆU QUẢN LÝ VĂN BẢN ĐI (Ban hành kèm theo Quyết định số 456/QĐ-BTC ngày 28 tháng 3 năm 2019 của Bộ trưởng Bộ Tài chính)
+
+| STT  | Trường thông tin                                     | Tên (viết tắt tiếng Anh) | Kiểu dữ liệu | Độ dài |
+
+|------|------------------------------------------------------|--------------------------|--------------|--------|
+
+| 1    | Mã định danh văn bản                                 | DocCode                  | String       | 25     |
+
+| 2    | Mã hồ sơ                                             | FileCode                 |              |        |
+
+| 2.1  | Mã định danh của cơ quan, tổ chức lập danh mục hồ sơ | Organld                  | String       | 13     |
+
+| 2.2  | Năm hình thành hồ sơ                                 | FileCatalog              | Number       | 4      |
+
+| 2.3  | Số và ký hiệu hồ sơ                                  | FileNotation             | String       | 20     |
+
+| 3    | Số thứ tự văn bản trong hồ sơ                        | DocOrdinal               | Number       | 3      |
+
+| 4    | Tên loại văn bản                                     | TypeName                 | String       | 100    |
+
+| 5    | Số của văn bản                                       | CodeNumber               | String       | 11     |
+
+| 6    | Ký hiệu của văn bản                                  | CodeNotation             | String       | 30     |
+
+| 7    | Ngày, tháng, năm văn bản                             | IssuedDate               | Date         | 10     |
+
+| 8    | Tên cơ quan, tổ chức ban hành văn bản                | OrganName                | String       | 200    |
+
+| 9    | Trích yếu nội dung                                   | Subject                  | String       | 500    |
+
+| 10   | Ngôn ngữ                                             | Language                 | String       | 30     |
+
+| 11   | Số trang của văn bản                                 | PageAmount               | Number       | 3      |
+
+| 12   | Ghi chú                                              | Description              | String       | 500    |
+
+| 13   | Chức vụ, họ tên người ký                             | Signerlnfo               |              |        |
+
+| 13.1 | Chức vụ của người ký văn bản                         | Position                 | String       | 100    |
+
+| 13.2 | Họ và tên người ký văn bản                           | FullName                 | String       | 50     |
+
+| 14   | Nơi nhận                                             | To                       |              |        |
+
+| 14.1 | Mã định danh của cơ quan, tổ chức nhận văn bản       | Organld                  | String       | 13     |
+
+| 14.2 | Tên cơ quan, tổ chức nhận văn bản                    | OrganName                | String       | 200    |
+
+| 15   | Mức độ khẩn                                          | Priority                 | Number       | 1      |
+
+| 16   | Số lượng bản phát hành                               | IssuedAmount             | Number       | 3      |
+
+| 17   | Hạn trả lời văn bản                                  | DueDate                  | Date         | 10     |
+
+STT
+
+Trường thông tin
+
+Tên
+
+(viết tắt tiếng Anh)
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã định danh văn bản
+
+DocCode
+
+String
+
+25
+
+2
+
+Mã hồ sơ
+
+FileCode
+
+2.1
+
+Mã định danh của cơ quan, tổ chức lập danh mục hồ sơ
+
+Organld
+
+String
+
+13
+
+2.2
+
+Năm hình thành hồ sơ
+
+FileCatalog
+
+Number
+
+4
+
+2.3
+
+Số và ký hiệu hồ sơ
+
+FileNotation
+
+String
+
+20
+
+3
+
+Số thứ tự văn bản trong hồ sơ
+
+DocOrdinal
+
+Number
+
+3
+
+4
+
+Tên loại văn bản
+
+TypeName
+
+String
+
+100
+
+5
+
+Số của văn bản
+
+CodeNumber
+
+String
+
+11
+
+6
+
+Ký hiệu của văn bản
+
+CodeNotation
+
+String
+
+30
+
+7
+
+Ngày, tháng, năm văn bản
+
+IssuedDate
+
+Date
+
+10
+
+8
+
+Tên cơ quan, tổ chức ban hành văn bản
+
+OrganName
+
+String
+
+200
+
+9
+
+Trích yếu nội dung
+
+Subject
+
+String
+
+500
+
+10
+
+Ngôn ngữ
+
+Language
+
+String
+
+30
+
+11
+
+Số trang của văn bản
+
+PageAmount
+
+Number
+
+3
+
+12
+
+Ghi chú
+
+Description
+
+String
+
+500
+
+13
+
+Chức vụ, họ tên người ký
+
+Signerlnfo
+
+13.1
+
+Chức vụ của người ký văn bản
+
+Position
+
+String
+
+100
+
+13.2
+
+Họ và tên người ký văn bản
+
+FullName
+
+String
+
+50
+
+14
+
+Nơi nhận
+
+To
+
+14.1
+
+Mã định danh của cơ quan, tổ chức nhận văn bản
+
+Organld
+
+String
+
+13
+
+14.2
+
+Tên cơ quan, tổ chức nhận văn bản
+
+OrganName
+
+String
+
+200
+
+15
+
+Mức độ khẩn
+
+Priority
+
+Number
+
+1
+
+16
+
+Số lượng bản phát hành
+
+IssuedAmount
+
+Number
+
+3
+
+17
+
+Hạn trả lời văn bản
+
+DueDate
+
+Date
+
+10
+
+PHỤ LỤC VI
+
+THÔNG TIN ĐẦU VÀO CỦA DỮ LIỆU QUẢN LÝ HỒ SƠ (Ban hành kèm theo Quyết định số 456/QĐ-BTC ngày 28 tháng 3 năm 2019 của Bộ trưởng Bộ Tài chính)
+
+| STT | Trường thông tin                                     | Tên (viết tắt tiếng Anh) | Kiểu dữ liệu | Độ dài |
+
+|-----|------------------------------------------------------|--------------------------|--------------|--------|
+
+| 1   | Mã hồ sơ                                             | FileCode                 |              |        |
+
+| 1.1 | Mã định danh của cơ quan, tổ chức lập danh mục hồ sơ | Organld                  | String       | 13     |
+
+| 1.2 | Năm hình thành hồ sơ                                 | FileCatalog              | Number       | 4      |
+
+| 1.3 | Số và ký hiệu hồ sơ                                  | FileNotation             | String       | 20     |
+
+| 2   | Tiêu đề hồ sơ                                        | Title                    | String       | 500    |
+
+| 3   | Thời hạn bảo quản                                    | Maintenance              | String       | 30     |
+
+| 4   | Chế độ sử dụng                                       | Rights                   | String       | 30     |
+
+| 5   | Người lập hồ sơ                                      | Creator                  | String       | 30     |
+
+| 6   | Ngôn ngữ                                             | Language                 | String       | 50     |
+
+| 7   | Thời gian bắt đầu                                    | StartDate                | Date         | 10     |
+
+| 8   | Thời gian kết thúc                                   | EndDate                  | Date         | 10     |
+
+| 9   | Tổng số văn bản trong hồ sơ                          | DocTotal                 | Number       | 4      |
+
+| 10  | Tổng số trang của hồ sơ                              | PageTotal                | Number       | 4      |
+
+| 11  | Ghi chú                                              | Description              | String       | 500    |
+
+STT
+
+Trường thông tin
+
+Tên
+
+(viết tắt tiếng Anh)
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã hồ sơ
+
+FileCode
+
+1.1
+
+Mã định danh của cơ quan, tổ chức lập danh mục hồ sơ
+
+Organld
+
+String
+
+13
+
+1.2
+
+Năm hình thành hồ sơ
+
+FileCatalog
+
+Number
+
+4
+
+1.3
+
+Số và ký hiệu hồ sơ
+
+FileNotation
+
+String
+
+20
+
+2
+
+Tiêu đề hồ sơ
+
+Title
+
+String
+
+500
+
+3
+
+Thời hạn bảo quản
+
+Maintenance
+
+String
+
+30
+
+4
+
+Chế độ sử dụng
+
+Rights
+
+String
+
+30
+
+5
+
+Người lập hồ sơ
+
+Creator
+
+String
+
+30
+
+6
+
+Ngôn ngữ
+
+Language
+
+String
+
+50
+
+7
+
+Thời gian bắt đầu
+
+StartDate
+
+Date
+
+10
+
+8
+
+Thời gian kết thúc
+
+EndDate
+
+Date
+
+10
+
+9
+
+Tổng số văn bản trong hồ sơ
+
+DocTotal
+
+Number
+
+4
+
+10
+
+Tổng số trang của hồ sơ
+
+PageTotal
+
+Number
+
+4
+
+11
+
+Ghi chú
+
+Description
+
+String
+
+500
+
+PHỤ LỤC VII
+
+THÔNG TIN ĐẦU RA CỦA HỆ THỐNG (Ban hành kèm theo Quyết định số 456/QĐ-BTC ngày 28 tháng 3 năm 2019 của Bộ trưởng Bộ Tài chính)
+
+1. Sổ đăng ký văn bản đến
+
+| Ngày đến | Số đến | Tác giả | Số, ký hiệu văn bản | Ngày tháng năm văn bản | Tên loại và trích yếu nội dung văn bản | Đơn vị hoặc người nhận | Ghi chú |
+
+|----------|--------|---------|---------------------|------------------------|----------------------------------------|------------------------|---------|
+
+| (1)      | (2)    | (3)     | (4)                 | (5)                    | (6)                                    | (7)                    | (8)     |
+
+|          |        |         |                     |                        |                                        |                        |         |
+
+Ngày đến
+
+Số đến
+
+Tác giả
+
+Số, ký hiệu văn bản
+
+Ngày tháng năm văn bản
+
+Tên loại và trích yếu nội dung văn bản
+
+Đơn vị hoặc người nhận
+
+Ghi chú
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+2. Báo cáo tình hình giải quyết văn bản đến
+
+Từ ngày tháng....năm.... đến ngày.... tháng....năm....
+
+Tổng số văn bản:
+
+Số lượng văn bản đã xử lý:
+
+Số lượng văn bản chưa xử lý:
+
+| STT | Số đến | Tên loại, số, ký hiệu, ngày, tháng, năm và tác giả văn bản | Đơn vị/ người nhận | Thời hạn giải quyết | Tình trạng giải quyết | Số, ký hiệu văn bản trả lời | Ghi chú |
+
+|-----|--------|------------------------------------------------------------|--------------------|---------------------|-----------------------|-----------------------------|---------|
+
+| (1) | (2)    | (3)                                                        | (4)                | (5)                 | (6)                   | (7)                         | (8)     |
+
+|     |        |                                                            |                    |                     |                       |                             |         |
+
+STT
+
+Số đến
+
+Tên loại, số, ký hiệu, ngày, tháng, năm và tác giả văn bản
+
+Đơn vị/ người nhận
+
+Thời hạn giải quyết
+
+Tình trạng giải quyết
+
+Số, ký hiệu văn bản trả lời
+
+Ghi chú
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+3. Sổ đăng ký văn bản đi
+
+| Số, ký hiệu văn bản | Ngày tháng năm văn bản | Tên loại và trích yếu nội dung văn bản | Người ký | Nơi nhận văn bản | Đơn vị, người soạn thảo | Số lượng bản | Ghi chú |
+
+|---------------------|------------------------|----------------------------------------|----------|------------------|-------------------------|--------------|---------|
+
+| (1)                 | (2)                    | (3)                                    | (4)      | (5)              | (6)                     | (7)          | (8)     |
+
+|                     |                        |                                        |          |                  |                         |              |         |
+
+Số, ký hiệu văn bản
+
+Ngày tháng năm văn bản
+
+Tên loại và trích yếu nội dung văn bản
+
+Người ký
+
+Nơi nhận văn bản
+
+Đơn vị, người soạn thảo
+
+Số lượng bản
+
+Ghi chú
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+4. Báo cáo tình hình văn bản đi
+
+Từ ngày …… tháng....năm.... đến ngày…. tháng....năm...
+
+Tổng số văn bản:
+
+| Số, ký hiệu văn bản | Ngày tháng năm văn bản | Tên loại và trích yếu nội dung văn bản | Người ký | Nơi nhận văn bản | Đơn vị, người soạn thảo | Số lượng bản | Ghi chú |
+
+|---------------------|------------------------|----------------------------------------|----------|------------------|-------------------------|--------------|---------|
+
+| (1)                 | (2)                    | (3)                                    | (4)      | (5)              | (6)                     | (7)          | (8)     |
+
+|                     |                        |                                        |          |                  |                         |              |         |
+
+Số, ký hiệu văn bản
+
+Ngày tháng năm văn bản
+
+Tên loại và trích yếu nội dung văn bản
+
+Người ký
+
+Nơi nhận văn bản
+
+Đơn vị, người soạn thảo
+
+Số lượng bản
+
+Ghi chú
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+5. Mục lục văn bản trong hồ sơ
+
+| STT | Số ký hiệu văn bản | Ngày tháng năm văn bản | Tên loại và trích yếu nội dung văn bản | Số lượng trang | Ghi chú |
+
+|-----|--------------------|------------------------|----------------------------------------|----------------|---------|
+
+| (1) | (2)                | (3)                    | (4)                                    | (5)            | (6)     |
+
+|     |                    |                        |                                        |                |         |
+
+STT
+
+Số ký hiệu văn bản
+
+Ngày tháng năm văn bản
+
+Tên loại và trích yếu nội dung văn bản
+
+Số lượng trang
+
+Ghi chú
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+6. Mục lục hồ sơ
+
+| Số, ký hiệu hồ sơ | Tiêu đề hồ sơ | Thời gian tài liệu | Thời hạn bảo quản | Số lượng trang | Ghi chú |
+
+|-------------------|---------------|--------------------|-------------------|----------------|---------|
+
+| (1)               | (2)           | (3)                | (4)               | (5)            | (6)     |
+
+|                   |               |                    |                   |                |         |
+
+Số, ký hiệu hồ sơ
+
+Tiêu đề hồ sơ
+
+Thời gian tài liệu
+
+Thời hạn bảo quản
+
+Số lượng trang
+
+Ghi chú
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)

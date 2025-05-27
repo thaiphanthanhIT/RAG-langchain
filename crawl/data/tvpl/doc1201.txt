@@ -1,0 +1,335 @@
+| BỘ TÀI CHÍNH   | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|----------------|-----------------------------------------------------------------|
+
+| Số: 675/QĐ-BTC | Hà Nội, ngày 27 tháng 4 năm 2020                                |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 675/QĐ-BTC
+
+Hà Nội, ngày 27 tháng 4 năm 2020
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, KHAI THÁC CƠ SỞ DỮ LIỆU DANH MỤC ĐIỆN TỬ DÙNG CHUNG NGÀNH TÀI CHÍNH
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Thông tư số 18/2017/TT-BTC ngày 28/02/2017 của Bộ Tài chính Quy định Hệ thống Danh mục điện tử dùng chung trong lĩnh vực Tài chính;
+
+Theo đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, vận hành, khai thác Cơ sở dữ liệu danh mục điện tử dùng chung ngành Tài chính,
+
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký, Cục trưởng Cục Tin học và Thống kê tài chính, Tổng giám đốc Kho bạc Nhà nước, Tổng cục trưởng Tổng cục Thuế, Tổng cục trưởng Tổng cục Hải quan, Tổng cục trưởng Tổng cục Dự trữ Nhà nước, Chủ tịch Ủy ban Chứng khoán Nhà nước và thủ trưởng các đơn vị thuộc, trực thuộc Bộ Tài chính chịu trách nhiệm thi hành quyết định này./.
+
+| Nơi nhận: - Như Điều 2; - Sở Tài chính các tỉnh, thành phố trực thuộc Trung ương - Cổng TTĐT BTC; - Lưu: VT, THTK (70b). | KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai |
+
+|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+
+Nơi nhận: - Như Điều 2; - Sở Tài chính các tỉnh, thành phố trực thuộc Trung ương - Cổng TTĐT BTC; - Lưu: VT, THTK (70b).
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai
+
+QUY CHẾ
+
+QUẢN LÝ, VẬN HÀNH, KHAI THÁC CƠ SỞ DỮ LIỆU DANH MỤC ĐIỆN TỬ DÙNG CHUNG NGÀNH TÀI CHÍNH (Kèm theo Quyết định số 675/QĐ-BTC ngày 27/4/2020 của Bộ Tài chính)
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Quy chế này quy định việc quản lý, vận hành, khai thác Cơ sở dữ liệu danh mục điện tử dùng chung ngành Tài chính (sau đây gọi tắt là CSDL DMDC).
+
+Điều 2. Đối tượng áp dụng
+
+Quy chế này áp dụng đối với các đơn vị như sau:
+
+1. Đơn vị kết nối, chia sẻ dữ liệu với CSDL DMDC bao gồm:
+
+- Các Tổng cục và tương đương gồm: Kho bạc Nhà nước, Tổng cục Hải quan, Tổng cục Thuế, Tổng cục Dự trữ Nhà nước, Ủy ban Chứng khoán Nhà nước.
+
+- Các Cục thuộc Bộ Tài chính,
+
+2. Đơn vị khai thác CSDL DMDC bao gồm: Các đơn vị thuộc, trực thuộc Bộ Tài chính, Sở Tài chính các tỉnh, thành phố trực thuộc. Trung ương, Phòng Tài chính - Kế hoạch các quận, huyện, thị xã, thành phố trực thuộc tỉnh, thành phố trực thuộc Trung ương.
+
+3. Đơn vị quản lý, quản trị, vận hành CSDL DMDC: Cục Tin học và Thống kê tài chính.
+
+Điều 3. Giải thích từ ngữ
+
+Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Cơ sở dữ liệu danh mục điện tử dùng chung ngành Tài chính là tập hợp các danh mục được phân loại, kiểm tra, đánh giá, xử lý, tích hợp, số hóa, chuẩn hóa và sắp xếp, lưu trữ một cách hệ thống trong lĩnh vực tài chính thông qua phương tiện điện tử,
+
+2. Danh mục là hệ thống bảng mã phân loại do cơ quan nhà nước có thẩm quyền ban hành và sử dụng thống nhất.
+
+3. Ứng dụng nguồn dữ liệu là hệ thống thông tin bao gồm phần mềm, cơ sở dữ liệu, kho dữ liệu do các đơn vị thuộc và trực thuộc Bộ Tài chính xây dựng, quản lý và cập nhật dữ liệu.
+
+4. Ứng dụng khai thác dữ liệu là những ứng dụng nhận chia sẻ dữ liệu điện tử từ CSDL DMDC.
+
+5. Gói tin là dữ liệu có cấu trúc được truyền nhận trong mỗi lần trao đổi dữ liệu,
+
+6. Đối soát dữ liệu là việc kiểm tra, so sánh dữ liệu từ nguồn đến CSDL DMDC và ngược lại.
+
+7. Hệ thống kết nối chia sẻ dữ liệu số ngành Tài chính (viết tắt là Hệ thống KCDTC) là một thành phần của nền tảng kết nối, chia sẻ dữ liệu ngành Tài chính phục vụ trao đổi thông tin giữa các hệ thống/ứng dụng của các đơn vị trong nội ngành Tài chính (trừ các thông tin được trao đổi qua Hệ thống trục liên thông văn bản điện tử và các hệ thống đặc thu khác).
+
+Điều 4. Điều kiện vận hành CSDL DMDC
+
+1. Địa chỉ truy cập, khai thác CSDL DMDC:
+
+a) Web biên tập: truy cập vào CSDL DMDC theo địa chỉ: https://bientap.dmdc.btc.
+
+b) Web khai thác: truy cập vào CSDL DMDC theo địa chỉ: https://khaithac.dmdc.btc.
+
+2. Thiết bị truy cập của người sử dụng phải được kết nối với mạng nội bộ của cơ quan Bộ Tài chính hoặc kết nối với hạ tầng truyền thông của ngành Tài chính.
+
+3. Thông tin nhập vào CSDL DMDC sử dụng phông chữ Unicode TCVN 6909 và gõ dấu tiếng Việt.
+
+Điều 5. Quản lý tài khoản trong CSDL DMDC
+
+1. Các loại tài khoản:
+
+1.1. Tài khoản quản trị:
+
+a) Tài khoản quản trị hệ thống: Là tài khoản dùng để quản trị vận hành máy chủ, hệ điều hành các máy chủ và cơ sở dữ liệu.
+
+b) Tài khoản quản trị ứng dụng: là tài khoản thực hiện tạo tài khoản biên tập cho người biên tập dữ liệu vào CSDL DMDC; tạo tài khoản đối soát dữ liệu và kiểm tra, tìm nguyên nhân khi có lỗi truyền nhận dữ liệu (nếu có).
+
+Cục Tin học và Thống kê tài chính (THTK) chịu trách nhiệm quản lý và sử dụng tài khoản quản trị hệ thống, quản trị ứng dụng, đảm bảo tuân thủ theo các quy định hiện hành về an toàn thông tin của ngành Tài chính và Bộ Thông tin và Truyền thông.
+
+1.2. Tài khoản biên tập: là tài khoản được phân quyền để biên tập dữ liệu trong CSDL DMDC
+
+1.3. Tài khoản đối soát dữ liệu: là tài khoản được phân quyền để xem thông tin đối soát dữ liệu của những danh mục mà đơn vị cung cấp cho CSDL DMDC.
+
+2. Quy tắc tạo tên tài khoản:
+
+[Tên người sử dụng] hoặc [Tên viết tắt của đơn vị]
+
+Đối với cán bộ tại cơ quan Bộ Tài chính, tài khoản được tạo theo tên người sử dụng.
+
+Đối với tài khoản biên tập và tài khoản đối soát dữ liệu của các đơn vị khuyến nghị đặt theo tên viết tắt của đơn vị.
+
+3. Quy trình cấp tài khoản
+
+Cục Tin học và Thống kê tài chính và các Tổng cục được cấp mặc định 01 tài khoản biên tập, 01 tài khoản đối soát dữ liệu và được cấp tối đa mỗi loại 02 tài khoản, Trong quá trình vận hành, đơn vị có nhu cầu cấp thêm tài khoản biên tập hoặc tài khoản đối soát dữ liệu cần thực hiện theo các bước sau:
+
+- Đơn vị có nhu cầu cấp tài khoản gửi yêu cầu tới Cục Tin học và Thống kê tài chính bằng văn bản theo mẫu tại Phụ lục 03 kèm theo quy chế này.
+
+- Thời gian Cục Tin học và Thống kê tài chính cấp tài khoản không quá 03 ngày làm việc kể từ ngày nhận được văn bản đề nghị. Tài khoản mới sẽ được gửi đến hòm thư điện tử của người sử dụng được đơn vị đề nghị cấp tài khoản. Người sử dụng tài khoản thực hiện đổi mật khẩu lần đầu tiên đăng nhập và chịu trách nhiệm toàn diện về tính bảo mật thông tin của tài khoản.
+
+Thời gian xử lý cấp tài khoản mới không quá 03 ngày làm việc tính theo dấu xác nhận công văn đến.
+
+Chương II
+
+QUY ĐỊNH CỤ THỂ
+
+Điều 6. Biên tập dữ liệu CSDL DMDC
+
+1. Đối với dữ liệu nhập từ văn bản: Đơn vị nhập dữ liệu (được quy định tại Thông tư số 18/2017/TT-BTC) chịu trách nhiệm nhập, biên tập dữ liệu vào CSDL DMDC chậm nhất sau 01 ngày làm việc kể từ khi nhận được văn bản.
+
+2. Đối với dữ liệu được truyền, nhận tự động: Đơn vị có ứng dụng nguồn dữ liệu (được quy định tại Thông tư số 18/2017/TT-BTC) thực hiện kết nối, chia sẻ dữ liệu tự động với CSDL DMDC theo Phụ lục 01 của Quy chế này.
+
+Điều 7. Khai thác dữ liệu trong CSDL DMDC
+
+1. Đối với người sử dụng: Các cán bộ trong ngành Tài chính đều có quyền khai thác, tra cứu dữ liệu trên CSDL DMDC mà không cần tài khoản đăng nhập.
+
+2. Đối với ứng dụng khai thác dữ liệu: Các đơn vị thực hiện theo Phụ lục 02 của Quy chế này.
+
+Điều 8. Kết nối, chia sẻ dữ liệu điện tử
+
+Các đơn vị kết nối, chia sẻ dữ liệu điện tử tự động với CSDL DMDC theo địa chỉ https://tttdtw.btc/ws_tttdtw và thực hiện theo Quy chế quản lý, vận hành và khai thác Hệ thống kết nối, chia sẻ dữ liệu số ngành Tài chính được ban hành tại Quyết định số 130/QĐ-BTC ngày 03/02/2020.
+
+Chương III
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 9. Trách nhiệm của Cục Tin học và Thống kê tài chính
+
+1. Quản lý, vận hành hệ thống hạ tầng kỹ thuật CNTT đảm bảo CSDL DMDC vận hành thông suốt, ổn định.
+
+2. Định kỳ sao lưu dữ liệu đảm bảo khả năng khôi phục lại dữ liệu khi xảy ra sự cố.
+
+3. Bảo đảm an toàn cho CSDL DMĐC theo quy định của Luật An toàn thông tin mạng và các quy định về an toàn thông tin của Bộ Tài chính.
+
+4. Đảm bảo dữ liệu điện tử được truyền, nhận tự động với CSDL DMDC qua hệ thống KCDTC đầy đủ, kịp thời.
+
+5. Chủ trì thực hiện đối soát dữ liệu điện tử truyền, nhận hàng ngày.
+
+6. Phối hợp với các Cục thuộc Bộ Tài chính, các Tổng cục và tương đương thuộc Bộ Tài chính khắc phục lỗi truyền, nhận dữ liệu điện tử giữa ứng dụng nguồn dữ liệu với CSDL DMDC và ngược lại.
+
+7. Quản lý tài khoản sử dụng CSDL DMDC theo quy định tại Điều 5 của Quy chế này.
+
+8. Tiếp nhận các yêu cầu từ đơn vị, thực hiện hỗ trợ người sử dụng.
+
+9. Cập nhập dữ liệu từ văn bản theo quy định tại Quy chế này.
+
+Điều 10. Trách nhiệm của đơn vị cung cấp dữ liệu
+
+1. Đảm bảo cập nhật dữ liệu vào các ứng dụng nguồn dữ liệu đầy đủ, kịp thời, chính xác.
+
+2. Kiểm tra, chuẩn hóa dữ liệu điện tử nhập vào ứng dụng nguồn dữ liệu khi có sai sót và cung cấp lại dữ liệu điện tử khi nhận được thông tin phản hồi về đối soát dữ liệu từ CSDL DMDC
+
+3. Quản lý đảm bảo an ninh, an toàn đối với tài khoản được cấp để truy cập vào CSDL DMDC.
+
+4. Phối hợp với Cục Tin học và Thống kê tài chính thực hiện đối soát dữ liệu điện tử truyền, nhận hàng ngày.
+
+5. Trường hợp CSDL DMDC trả lại gói tin chứa thông tin lỗi về ứng dụng nguồn dữ liệu, đơn vị cung cấp dữ liệu tim nguyên nhân, có phương án kỹ thuật xử lý muộn nhất sau 01 ngày làm việc, Trường hợp thời gian khắc phục lỗi kéo dài quá 05 ngày làm việc, đơn vị cung cấp dữ liệu có trách nhiệm nhập, biên tập dữ liệu vào CSDL DMDC và không truyền lại các danh mục sau khi khắc phục lỗi.
+
+Điều 11. Trách nhiệm của đơn vị khai thác dữ liệu
+
+1. Sử dụng thống nhất danh mục điện tử dùng chung ngành Tài chính trong các phần mềm, hệ thống thông tin quản lý, cơ sở dữ liệu chuyên ngành để thuận tiện trong việc tổng hợp, trao đổi dữ liệu giữa các phần mềm của các đơn vị trong ngành Tài chính.
+
+2. Khai thác dữ liệu theo quy định tại Thông tư số 18/2017/TT-BTC và các quy định liên quan của Bộ Tài chính.
+
+3. Đơn vị khai thác dữ liệu chịu trách nhiệm chia sẻ dữ liệu từ CSDL DMDC sử dụng trong nội bộ.
+
+4. Liên hệ ngay với Cục Tin học và Thống kê tài chính nếu có những vấn đề phát sinh trong quá trình khai thác CSDL DMDC.
+
+5. Đề xuất các Danh mục mới cần thiết hoặc thay đổi cấu trúc dữ liệu truyền, nhận đối với các Danh mục hiện có để Cục Tin học và Thống kê tài chính nghiên cứu, bổ sung.
+
+Điều 12. Tổ chức thực hiện
+
+Việc quản lý, vận hành, khai thác CSDL DMDC phải tuân thủ các quy định tại Quy chế này và các quy định về an toàn thông tin hiện hành của Bộ Tài chính.
+
+Trong quá trình thực hiện nếu phát sinh vướng mắc, các cơ quan, tổ chức, đơn vị phản ánh kịp thời về Bộ Tài chính (Cục Tin học và Thống kê tài chính) để phối hợp xử lý. Đầu mối tiếp nhận: hotrokythuat@mof.gov.vn: điện thoại: 024.22202888./.
+
+Phụ lục 01: Quy trình truyền, nhận dữ liệu điện tử vào CSDL DMDC
+
+Mô hình như sau:
+
+Giải thích quy trình
+
+- (1): Ứng dụng nguồn dữ liệu gửi gói dữ liệu, đồng thời gửi gói tin ghi log thông tin đến KCDTC. KCDTC nhận được gói tin và trả lời lại ứng dụng nguồn đã nhận được gói tin.
+
+- (2): KCDTC kiểm tra trường thông tin dấu hiệu nhận biết để xác định đích đến là CSDL DMDC. Trục truyền gói dữ liệu đã nhận được từ ứng dụng nguồn đến DMDC.
+
+- (3): CSDL DMDC nhận được gói dữ liệu sẽ kiểm tra cấu trúc và nội dung gói tin. Sau khi kiểm tra gửi lại KCDTC thông tin trả lời về số lượng bản ghi đã nhận được từ ứng dụng nguồn và thông tin nghiệp vụ (dữ liệu nhận được đã lưu trữ bao nhiêu, không đạt bao nhiêu).
+
+- (4): KCDTC nhận được trả lời của CSDL DMDC sẽ trả lời lại CSDL DMDC về việc nhận gói tin và truyền gói tin phản hồi của CSDL DMDC về cho Ứng dụng nguồn.
+
+Phụ lục 02: Quy trình truyền, nhận dữ liệu điện tử khai thác từ DMDC
+
+1. Quy trình ứng dụng khai thác chủ động nhận dữ liệu điện tử từ CSDL DMDC
+
+Mô hình như sau:
+
+Mô tả quy trình :
+
+- (1): Ứng dụng khai thác dữ liệu gửi yêu cầu khai thác dữ liệu từ CSDL DMDC đến KCDTC. KCDTC nhận được yêu cầu và trả lời ứng dụng khai thác đã nhận được thông tin.
+
+- (2): KCDTC kiểm tra các trường dấu hiệu nhận biết để truyền gói tin đến CSDL DMDC.
+
+- (3): CSDL DMDC kiểm tra yêu cầu:
+
++ (3.1) Nếu yêu cầu sai cấu trúc, CSDL DMDC trả lời lại KCDTC.
+
++ (3.2) Nếu yêu cầu đúng cấu trúc, CSDL DMDC sẽ cung cấp dữ liệu, đóng gói gói tin, đồng thời gửi gói tin ghi log thông tin đến KCDTC.
+
+- (4): KCDTC nhận được sẽ phản hồi cho CSDL DMDC đã nhận dữ liệu và xác định đích đến của gói tin dữ liệu từ CSDL DMDC và gửi về ứng dụng khai thác.
+
+2. Quy trình CSDL DMDC chủ động truyền dữ liệu đến nhiều ứng dụng khai thác
+
+Mô hình như sau:
+
+Mô tả quy trình:
+
+- (1): CSDL DMDC khi có phát sinh dữ liệu sẽ đóng gói gói tin, đồng thời gửi gói tin ghi log thông tin đến KCDTC. KCDTC nhận được sẽ trả lời CSDL DMDC đã nhận được dữ liệu.
+
+- (2): KCDTC dựa vào thông tin đã cấu hình trước đó sẽ xác định dữ liệu phát sinh do CSDL DMDC sẽ truyền đến những đầu khai thác;
+
++ (2.1) KCĐTC truyền thành công gói tin đến các ứng dụng khai thác, ứng dụng khai thác sẽ gửi gói tin phản hồi và đồng thời gửi gói tin ghi log đến KCDTC.
+
++ (2.2) KCDTC truyền dữ liệu để ứng dụng khai thác nhận dữ liệu không thành công, KCDTC sẽ đóng gói lại gói tin chứa thông tin thay đổi và truyền lại đầu khai thác. Nếu gói tin vẫn bị lỗi, KCDTC truyền gói tin yêu cầu CSDL DMDC truyền lại cho ứng dụng khai thác bị lỗi,
+
+- (3): KCDTC xác định thông tin của gói tin phản hồi và truyền về hệ thống DMDC.
+
+Phụ lục 03: Phiếu đăng ký tạo mới tài khoản CSDL DMDC
+
+| ĐƠN VỊ: ……….. ………………. | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------------|-----------------------------------------------------------------|
+
+|                       | ………., ngày ... tháng ... năm ..…...                             |
+
+ĐƠN VỊ: ………..
+
+……………….
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+………., ngày ... tháng ... năm ..…...
+
+PHIẾU ĐĂNG KÝ TẠO MỚI TÀI KHOẢN CƠ SỞ DỮ LIỆU DANH MỤC ĐIỆN TỬ DÙNG CHUNG NGÀNH TÀI CHÍNH
+
+Kính gửi: Cục Tin học và Thống kê tài chính
+
+Căn cứ Quyết định số /QĐ-BTC ngày / /2020 của Bộ Tài chính về việc ban hành Quản lý, vận hành, khai thác Cơ sở dữ liệu danh mục điện tử dùng chung ngành Tài chính, ……………(tên đơn vị) đăng ký tạo mới tài khoản trên phần mềm như sau:
+
+1. Loại yêu cầu:
+
+| □ Tạo mới tài khoản          | □ Thay đổi thông tin tài khoản     |
+
+|------------------------------|------------------------------------|
+
+| o Tài khoản biên tập         | o Mở khóa tài khoản                |
+
+| o Tài khoản đối soát dữ liệu | o Thiết lập lại mật khẩu tài khoản |
+
+|                              | o Khóa tài khoản                   |
+
+|                              |                                    |
+
+□ Tạo mới tài khoản
+
+□ Thay đổi thông tin tài khoản
+
+o Tài khoản biên tập
+
+o Mở khóa tài khoản
+
+o Tài khoản đối soát dữ liệu
+
+o Thiết lập lại mật khẩu tài khoản
+
+o Khóa tài khoản
+
+2. Thông tin về người sử dụng:
+
+- Họ và tên: ………………………………….... (ví dụ: Nguyễn Văn A)
+
+- Chức vụ: .................................................................................................
+
+- Tên Tài khoản: ……….. (Đối với trường hợp thay đổi thông tin tài khoản).
+
+- Số điện thoại cơ quan: .................................................................................................
+
+- Số điện thoại di động: .................................................................................................
+
+- Địa chỉ email công vụ: .................................................................................................
+
+- Đơn vị đang công tác (Ghi cụ thể đến tên phòng ban, số phòng):
+
+.............................................................................................................................................
+
+|  | THỦ TRƯỞNG CƠ QUAN, TỔ CHỨC, ĐƠN VỊ (Ký tên, đóng dấu) |
+
+|--|--------------------------------------------------------|
+
+THỦ TRƯỞNG CƠ QUAN, TỔ CHỨC, ĐƠN VỊ (Ký tên, đóng dấu)
+
+Ghi chú:
+
+- Trường hợp tạo mới tài khoản thì phải tích chọn loại tài khoản nào và điền đầy đủ thông tin tại phần II, ngoại trừ thông tin “Tên tài khoản”;
+
+- Trường hợp thay đổi thông tin tài khoản thì phải nhập thông tin “Tên tài khoản” và chọn ô “Thay đổi thông tin tài khoản”, đồng thời tích chọn cụ thể một trong ba nội dung thay đổi thông tin tài khoản bên dưới (Mở khóa tài khoản; Thiết lập lại mật khẩu tài khoản; Khóa tài khoản).

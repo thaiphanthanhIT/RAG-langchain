@@ -1,0 +1,673 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 1190/QĐ-BTC | Hà Nội, ngày 15 tháng 07 năm 2019                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 1190/QĐ-BTC
+
+Hà Nội, ngày 15 tháng 07 năm 2019
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, KHAI THÁC PHẦN MỀM QUẢN LÝ VÀ BÁO CÁO ĐẦU TƯ CÔNG NGHỆ THÔNG TIN
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Quyết định số 234/QĐ-BTC ngày 23/02/2018 của Bộ trưởng Bộ Tài chính quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Cục Tin học và Thống kê tài chính;
+
+Căn cứ Quyết định số 2699/QĐ-BTC ngày 10/11/2011 của Bộ trưởng Bộ Tài chính về ban hành Quy chế quản lý đầu tư ứng dụng công nghệ thông tin tại các cơ quan hành chính, đơn vị sự nghiệp thuộc Bộ Tài chính; Quyết định số 2738/QĐ-BTC ngày 22/12/2015 của Bộ trưởng Bộ Tài chính về việc sửa đổi, bổ sung Quyết định số 2699/QĐ-BTC ngày 10/11/2011;
+
+Căn cứ Quyết định số 302/QĐ-BTC ngày 15/2/2017 của Bộ trưởng Bộ Tài chính về việc ban hành quy chế báo cáo tình hình triển khai ứng dụng công nghệ thông tin tại các đơn vị thuộc Bộ Tài chính;
+
+Căn cứ Quyết định số 1206/QĐ-BTC ngày 26/07/2018 của Bộ trưởng Bộ Tài chính về việc phân cấp, ủy quyền quản lý tài chính, tài sản công, đầu tư xây dựng, ứng dụng công nghệ thông tin và kiểm tra, kiểm toán nội bộ trong các đơn vị dự toán Ngân sách thuộc Bộ Tài chính;
+
+Theo đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo quyết định này Quy chế quản lý, vận hành, khai thác phần mềm Quản lý và báo cáo đầu tư công nghệ thông tin.
+
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký. Cục trưởng Cục Tin học và Thống kê tài chính và Thủ trưởng các đơn vị thuộc phạm vi triển khai phần mềm Quản lý và báo cáo đầu tư công nghệ thông tin chịu trách nhiệm thi hành quyết định này./.
+
+| Nơi nhận: - Như Điều 2; - Lãnh đạo Bộ (để báo cáo); - Cổng TTĐT BTC; - Lưu: VT, THTK (6b). | KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai |
+
+|--------------------------------------------------------------------------------------------|-------------------------------------|
+
+Nơi nhận: - Như Điều 2; - Lãnh đạo Bộ (để báo cáo); - Cổng TTĐT BTC; - Lưu: VT, THTK (6b).
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai
+
+QUY CHẾ
+
+QUẢN LÝ, VẬN HÀNH, KHAI THÁC PHẦN MỀM QUẢN LÝ VÀ BÁO CÁO ĐẦU TƯ CÔNG NGHỆ THÔNG TIN (Ban hành kèm theo Quyết định số: 1190/QĐ-BTC ngày 15/07/2019 của Bộ trưởng Bộ Tài chính)
+
+Chương I.
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Quy chế này quy định việc quản lý, vận hành, khai thác phần mềm Quản lý và báo cáo đầu tư công nghệ thông tin cho các đơn vị, hệ thống thuộc Bộ Tài chính.
+
+Điều 2. Đối tượng áp dụng
+
+Quy chế này được áp dụng đối với: các đơn vị thuộc Bộ Tài chính được giao sử dụng dự toán chi triển khai ứng dụng công nghệ thông tin; các đơn vị tổng hợp, thẩm định, phân bổ dự toán chi ứng dụng công nghệ thông tin: Cục Tin học và Thống kê tài chính, Cục Kế hoạch Tài chính; Cán bộ, công chức, viên chức, người lao động được phân quyền sử dụng phần mềm quản lý và báo cáo đầu tư công nghệ thông tin.
+
+Điều 3. Giải thích từ ngữ, chữ viết tắt
+
+Trong quy chế này các từ ngữ dưới đây được hiểu như sau:
+
+1. Chữ viết tắt:
+
+- CNTT: Công nghệ thông tin
+
+- KH: Kế hoạch
+
+- DMDT: Danh mục dự toán
+
+- KH 5 năm: Kế hoạch 5 năm
+
+- THTK: Tin học và Thống kê tài chính
+
+- KHTC: Kế hoạch Tài chính
+
+- NSNN: Ngân sách Nhà nước
+
+- CSDL: Cơ sở dữ liệu
+
+2. Phần mềm Quản lý và báo cáo đầu tư công nghệ thông tin là phần mềm ứng dụng để thực hiện quản lý các quy trình CNTT như sau:
+
+- Quy trình quản lý, theo dõi kế hoạch 5 năm/chủ trương đầu tư dự án.
+
+- Quy trình xây dựng dự toán năm.
+
+- Quy trình phân bổ DMDT năm.
+
+- Quy trình điều chỉnh, bổ sung DMDT năm.
+
+- Quản lý, theo dõi kế hoạch triển khai DMDT năm.
+
+- Quy trình theo dõi thực hiện DMDT chi ứng dụng CNTT năm.
+
+3. Phân khai KH, DMDT năm: Xây dựng kế hoạch cụ thể tiến độ triển khai từng nội dung DMDT theo trình tự quản lý đầu tư ứng dụng CNTT để thực hiện các nội dung được phê duyệt trong DMDT năm.
+
+4. Báo cáo tiến độ thực hiện KH, DMDT năm: Cập nhật tình hình thực hiện triển khai, giải ngân của từng nội dung trong DMDT năm.
+
+5. Các đơn vị, hệ thống: Các đơn vị thuộc Bộ Tài chính được giao sử dụng dự toán chi triển khai ứng dụng công nghệ thông tin.
+
+6. Tờ trình Bộ: Là bộ Hồ sơ trình Lãnh đạo Bộ bao gồm Tờ trình và các văn bản liên quan đến Tờ trình.
+
+7. Tờ trình đơn vị: Là thuật ngữ để chỉ toàn bộ Hồ sơ trình Lãnh đạo đơn vị bao gồm Tờ trình và các văn bản liên quan đến Tờ trình.
+
+Điều 4. Địa chỉ truy cập sử dụng Phần mềm
+
+1. Địa chỉ truy cập vào phần mềm đối với các đơn vị sử dụng hạ tầng truyền thông thống nhất ngành Tài chính hoặc mạng nội bộ cơ quan Bộ Tài chính: truy cập vào phần mềm theo địa chỉ https://bcdt.mof.gov.vn.
+
+2. Thông tin nhập vào phần mềm sử dụng font chữ Unicode TCVN 6909.
+
+Điều 5. Quản lý tài khoản sử dụng phần mềm
+
+1. Tài khoản quản trị: Cục THTK là đơn vị quản trị hệ thống quản lý tài khoản quản trị. Tài khoản quản trị được sử dụng để cấp/thu hồi tài khoản người sử dụng cho các đơn vị, thực hiện nhiệm vụ hỗ trợ kỹ thuật và hỗ trợ người sử dụng.
+
+2. Tài khoản người sử dụng: Các đơn vị được cấp tài khoản truy cập vào phần mềm như sau:
+
+a. Cấp tài khoản người sử dụng:
+
+- Các đơn vị thuộc Bộ:
+
++ Được cấp tài khoản người sử dụng để cập nhật thông tin kế hoạch 5 năm và chủ trương đầu tư; Xây dựng, phân bổ, điều chỉnh và bổ sung DMDT năm; Báo cáo tháng về tiến độ và giải ngân.
+
++ Tài khoản đã cấp cho đơn vị nào thì chỉ được theo dõi, tổng hợp dữ liệu của đơn vị đó.
+
+- Cục THTK: Được cấp 03 loại tài khoản, cụ thể:
+
++ Tài khoản người sử dụng: Để cập nhật thông tin kế hoạch 5 năm và chủ trương đầu tư; Xây dựng, phân bổ, điều chỉnh và bổ sung DMDT năm; Báo cáo tháng về tiến độ và giải ngân.
+
++ Tài khoản tổng hợp: Thực hiện rà soát tổng hợp và xác nhận DMDT năm; Kế hoạch triển khai DMDT năm; Kết quả thực hiện báo cáo tháng về tiến độ và giải ngân của các đơn vị.
+
++ Tài khoản Lãnh đạo: Để xem thông tin kế hoạch 5 năm và chủ trương đầu tư; Xây dựng, phân bổ, điều chỉnh và bổ sung DMDT năm; Kết quả thực hiện báo cáo tháng về tiến độ và giải ngân của các đơn vị.
+
+- Cục KHTC: Được cấp 02 loại tài khoản, cụ thể:
+
++ Tài khoản người sử dụng: Để cập nhật thông tin kế hoạch 5 năm và chủ trương đầu tư; Xây dựng, phân bổ, điều chỉnh và bổ sung DMDT năm; Báo cáo tháng về tiến độ và giải ngân.
+
++ Tài khoản tổng hợp: Thực hiện rà soát thẩm định nội dung xây dựng dự toán năm và phân bổ dự toán năm của các đơn vị; Duyệt phân bổ nguồn kinh phí cho các đơn vị sau khi DMDT được duyệt; Duyệt chuyển số dư từ năm trước chuyển sang.
+
+b. Định dạng tài khoản:
+
+Tài khoản của người dùng các đơn vị cấp theo cấu trúc:
+
+[Mã hệ thống]-[Mã đơn vị]-[Mã vai trò] [Số thứ tự (nếu có)]
+
+Trong đó:
+
+- Mã hệ thống: Mặc định là BCDT.
+
+- Mã đơn vị: Tên viết tắt của đơn vị sử dụng phần mềm, theo phụ lục 01 đính kèm.
+
+- Mã vai trò: NSD: Người sử dụng; TH: Cán bộ tổng hợp cơ quan Bộ; LD: Lãnh đạo; QT: Quản trị hệ thống.
+
+- Số thứ tự (nếu có): Trong trường hợp có nhiều hơn một tài khoản có vai trò tương tự nhau tại một đơn vị sử dụng thì đặt số thứ tự là số nguyên tăng dần.
+
+c. Về thời gian cấp/thu hồi tài khoản: sau 1 ngày làm việc, khi Cục THTK nhận được văn bản yêu cầu chính thức từ đơn vị đề nghị, tài khoản và mật khẩu sẽ được cấp/thu hồi cho người sử dụng và gửi văn bản về đơn vị.
+
+d. Đảm bảo an toàn đối với tài khoản sử dụng: Đơn vị thực hiện tuân thủ theo đúng quy định tại Mục 3, Phụ lục 01 của Quyết định số 201/QĐ-BTC ngày 12/2/2018 của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế An toàn thông tin mạng Bộ Tài chính.
+
+Điều 6. Quy định về cập nhập/ duyệt dữ liệu trên phần mềm
+
+Để đảm bảo thống nhất dữ liệu đưa vào phần mềm, các đơn vị thực hiện theo nguyên tắc sau:
+
+1. Về cập nhật dữ liệu tại các đơn vị:
+
+- Thủ trưởng đơn vị có trách nhiệm: Phân công đơn vị đầu mối là đơn vị được giao sử dụng dự toán chi CNTT (Cục CNTT, Cục/Vụ Tài vụ quản trị các Tổng cục; Trung tâm/phòng CNTT, phòng tài chính các đơn vị sự nghiệp) cập nhật dữ liệu và chịu trách nhiệm về dữ liệu của đơn vị trên phần mềm.
+
+- Đơn vị được giao nhiệm vụ quản lý, cập nhật dữ liệu chịu trách nhiệm cập nhật dữ liệu (Kế hoạch 5 năm/ chủ trương đầu tư; Xây dựng KH, DMDT năm; Phân bổ KH, DMDT năm; Điều chỉnh, bổ sung DMDT năm; Kế hoạch triển khai DMDT năm; Tiến độ triển khai, giải ngân kinh phí hàng tháng từng nội dung danh mục dự toán) vào phần mềm sau khi các dữ liệu đã được Lãnh đạo đơn vị phê duyệt.
+
+2. Duyệt dữ liệu các đơn vị cập nhật:
+
+- Cục THTK có trách nhiệm giao bộ phận chuyên môn theo chức năng nhiệm vụ thực hiện rà soát duyệt nội dung và báo cáo cập nhật tiến độ triển khai kế hoạch, danh mục dự toán CNTT hàng năm của các đơn vị thuộc Bộ trên phần mềm ứng dụng.
+
+- Cục KHTC có trách nhiệm giao bộ phận chuyên môn theo chức năng nhiệm vụ thực hiện thẩm định kế hoạch, danh mục dự toán ứng dụng CNTT hàng năm của các đơn vị thuộc Bộ trên phần mềm ứng dụng.
+
+- Việc cập nhật dữ liệu kế hoạch, danh mục dự toán CNTT hàng năm theo Quyết định của Lãnh đạo Bộ vào phần mềm do Cục KHTC thực hiện.
+
+Chương II.
+
+QUY ĐỊNH CỤ THỂ
+
+Điều 7. Quản lý theo dõi lập kế hoạch
+
+1. Quản lý, theo dõi kế hoạch 5 năm/ chủ trương đầu tư
+
+Quy trình này áp dụng đối với việc xây dựng mới hoặc điều chỉnh, bổ sung các dự án, nhiệm vụ trong kế hoạch 5 năm/chủ trương đầu tư, thực hiện theo trình tự như sau:
+
+a. Nhập kế hoạch 5 năm/ chủ trương đầu tư dự án, nhiệm vụ:
+
+Sau khi có quyết định phê duyệt kế hoạch 5 năm/ chủ trương đầu tư dự án/ nhiệm vụ, đơn vị nhập thuyết minh các dự án, nhiệm vụ theo Quyết định đã được phê duyệt vào phần mềm, cụ thể gồm các nội dung: Tên dự án/nhiệm vụ; Địa điểm đầu tư; Chủ đầu tư; Sự cần thiết phải đầu tư; Loại dự án; Cơ sở pháp lý; Mục tiêu đầu tư; Phạm vi dự án/ nhiệm vụ; Nội dung quy mô đầu tư; Dự kiến tổng mức đầu tư; Nguồn vốn đầu tư; Dự kiến thời gian thực hiện.
+
+b. Về duyệt thông tin kế hoạch 5 năm/chủ trương đầu tư dự án, nhiệm vụ:
+
+Cục THTK thực hiện rà soát đảm bảo nội dung thuyết minh dự án, nhiệm vụ đúng với Quyết định kế hoạch 5 năm/chủ trương đầu tư dự án, nhiệm vụ được duyệt, Cục THTK thực hiện xác nhận và duyệt dữ liệu trên phần mềm (dữ liệu sau khi đã duyệt không sửa đổi).
+
+2. Xây dựng KH, DMDT năm
+
+Quy trình này áp dụng đối với việc xây dựng KH, DMDT năm, thực hiện theo trình tự như sau:
+
+a. Nhập dự thảo xây dựng KH, DMDT:
+
+- Đơn vị thực hiện nhập dự thảo thuyết minh từng nội dung DMDT và bảng DMDT chi ứng dụng CNTT năm kế hoạch, trong đó thực hiện nhập thông tin bảng DMDT với các nội dung: Tên nội dung, tổng mức đầu tư, dự toán đã bố trí đến hết năm thực hiện, dự toán năm thực hiện, dự toán bố trí các năm tiếp theo.
+
+- Về thời gian cập nhật: Hoàn thành nhập dữ liệu KH, DMDT năm kế hoạch trước ngày 15/6 hàng năm, trường hợp Cục THTK có ý kiến trên phần mềm, đơn vị cập nhật và hoàn thành trong 5 ngày nhận được ý kiến, đảm bảo hoàn thành trước ngày 25/6 hàng năm.
+
+b. Tổng hợp xây dựng KH, DMDT năm:
+
+Cục THTK thực hiện rà soát, tổng hợp dự toán của từng đơn vị, tham gia ý kiến về nội dung thuyết minh và dự toán kinh phí của từng nội dung, cụ thể:
+
+- Đối với mỗi nội dung, Cục THTK thực hiện rà soát và chọn một trong các trạng thái (Duyệt; Không duyệt; Yêu cầu sửa), như sau:
+
++ Trường hợp “Duyệt”: Cục THTK thống nhất với nội dung thuyết minh và dự toán kinh phí.
+
++ Trường hợp “Không duyệt”: Nội dung dự toán không có trong kế hoạch 5 năm hoặc chưa được phê duyệt chủ trương đầu tư hoặc nội dung thực hiện chưa đảm bảo quy định của nhà nước và của ngành Tài chính.
+
++ Trường hợp “Yêu cầu sửa”: Cục THTK có ý kiến cụ thể đề nghị đơn vị bổ sung thuyết minh, dự toán kinh phí.
+
+- Về quy định thời gian:
+
++ Trường hợp có ý kiến để đơn vị cập nhật, Cục THTK có ý kiến trong thời gian 5 ngày làm việc (kể từ ngày đơn vị cập nhật đủ hồ sơ vào phần mềm).
+
++ Sau khi hoàn thành tham gia ý kiến đối với các nội dung DMDT theo đề nghị của đơn vị, Cục THTK xác nhận về bảng dự toán kinh phí và ý kiến tham gia trên phần mềm trước ngày 30/6 hàng năm.
+
+c. Thẩm định xây dựng KH, DMDT năm:
+
+Cục KHTC thẩm định, tổng hợp dự toán dự kiến của từng đơn vị trên cơ sở ý kiến của Cục THTK, tham gia trực tiếp ý kiến về nội dung thuyết minh và dự toán kinh phí của từng nội dung, cụ thể:
+
+- Đối với mỗi nội dung Cục KHTC thực hiện rà soát và chọn một trong các trạng thái (Duyệt; Không duyệt; Yêu cầu sửa):
+
++ Trường hợp “Duyệt”: Cục KHTC thống nhất với nội dung thuyết minh và dự toán kinh phí.
+
++ Trường hợp “Không duyệt”: Cục KHTC có ý kiến cụ thể để đơn vị được biết.
+
++ Trường hợp “Yêu cầu sửa”: Cục THTK phối hợp với đơn vị cần bổ sung thuyết minh, dự toán kinh phí theo như ý kiến đề nghị của Cục KHTC.
+
+- Về quy định thời gian:
+
++ Trường hợp Cục KHTC có ý kiến để đơn vị hoàn thiện, Cục KHTC có ý kiến trong 5 ngày làm việc (kể từ ngày Cục THTK hoàn thành cập nhật ý kiến về DMDT của đơn vị vào phần mềm).
+
++ Sau khi hoàn thành tham gia ý kiến đối với các nội dung DMDT theo đề nghị của Cục THTK và đơn vị, Cục KHTC xác nhận về bảng dự toán kinh phí và ý kiến tham gia trên phần mềm trước ngày 20/7.
+
+d. Phê duyệt xây dựng KH, DMDT năm:
+
+Sau khi thực hiện thao tác duyệt DMDT năm của các đơn vị trên phần mềm. Cục KHTC kết xuất bảng tổng hợp dự toán và gửi cơ quan quản lý Nhà nước theo quy định.
+
+3. Phân bổ KH, DMDT năm
+
+Quy trình này áp dụng đối với việc phân bổ dự toán năm, thực hiện theo trình tự như sau:
+
+a. Nhập dự thảo phân bổ KH, DMDT năm:
+
+- Đơn vị rà soát lại về nội dung thuyết minh đã nhập tại thời điểm nhập xây dựng KH, DMDT dự kiến (tháng 6 hàng năm). Cập nhật lại thuyết minh, kinh phí dự toán phân bổ đảm bảo đầy đủ các thông tin bảng DMDT với các nội dung: Tên nội dung, tổng mức đầu tư, dự toán đã bố trí đến hết năm thực hiện, dự toán năm thực hiện, dự toán bố trí các năm tiếp theo.
+
+- Về thời gian cập nhật vào phần mềm: Hoàn thành nhập dữ liệu KH, DMDT năm kế hoạch trước 15/10 hàng năm, trường hợp khi nhận được ý kiến của Cục THTK trên phần mềm, đơn vị cập nhật và hoàn thành trong 5 ngày nhận được ý kiến, đảm bảo hoàn thành trước ngày 25/10.
+
+b. Tổng hợp phân bổ KH, DMDT năm:
+
+Cục THTK rà soát, tổng hợp dự toán của từng đơn vị, tham gia ý kiến về nội dung thuyết minh và dự toán kinh phí của từng nội dung, cụ thể:
+
+- Đối với mỗi nội dung Cục THTK thực hiện rà soát và chọn một trong các trạng thái (Duyệt; Không duyệt; Yêu cầu sửa):
+
++ Trường hợp “Duyệt”: Cục THTK thống nhất với nội dung thuyết minh và dự toán kinh phí.
+
++ Trường hợp “Không duyệt”: Nội dung dự toán không có trong kế hoạch 5 năm hoặc chưa được phê duyệt chủ trương đầu tư hoặc nội dung thực hiện chưa đảm bảo quy định của nhà nước và của ngành Tài chính.
+
++ Trường hợp “Yêu cầu sửa”: Đơn vị cần bổ sung thuyết minh, dự toán kinh phí theo như ý kiến đề nghị của Cục THTK.
+
+- Về quy định thời gian:
+
++ Trường hợp có ý kiến để đơn vị cập nhật, Cục THTK có ý kiến trong thời gian 5 ngày làm việc (kể từ ngày đơn vị cập nhật đủ hồ sơ vào phần mềm).
+
++ Sau khi hoàn thành tham gia ý kiến đối với các nội dung DMDT theo đề nghị của đơn vị, Cục THTK xác nhận về bảng dự toán kinh phí và ý kiến tham gia trên phần mềm trước ngày 30/10.
+
+c. Thẩm định phân bổ KH, DMDT năm:
+
+Cục KHTC thẩm định, tổng hợp phân bổ DMDT từng đơn vị trên cơ sở ý kiến của Cục THTK, tham gia trực tiếp ý kiến về nội dung thuyết minh và dự toán kinh phí của từng nội dung, cụ thể:
+
+- Đối với mỗi nội dung Cục KHTC thực hiện rà soát và chọn một trong các trạng thái (Duyệt; Không duyệt; Yêu cầu sửa):
+
++ Trường hợp “Duyệt”: Cục KHTC thống nhất với nội dung thuyết minh và dự toán kinh phí.
+
++ Trường hợp “Không duyệt”: Cục KHTC sẽ có ý kiến cụ thể để đơn vị được biết.
+
++ Trường hợp “Yêu cầu sửa”: Cục THTK phối hợp với đơn vị cần bổ sung thuyết minh, dự toán kinh phí theo như ý kiến đề nghị của Cục KHTC.
+
+- Về quy định thời gian:
+
++ Trường hợp Cục KHTC có ý kiến để đơn vị hoàn thiện, Cục KHTC có ý kiến trong 5 ngày làm việc (kể từ ngày Cục THTK hoàn thành cập nhật ý kiến về DMDT của đơn vị vào phần mềm).
+
++ Sau khi hoàn thành tham gia ý kiến đối với các nội dung DMDT theo đề nghị của Cục THTK và đơn vị, Cục KHTC xác nhận về bảng dự toán kinh phí và ý kiến tham gia trên phần mềm trước ngày 15/11.
+
+d. Phê duyệt phân bổ KH, DMDT năm:
+
+Sau khi KH, DMDT năm của các đơn vị được Bộ phê duyệt, Cục KHTC thực hiện cập nhật thông tin nội dung phê duyệt có đính kèm bản Quyết định (tệp pdf) để các đơn vị theo dõi thực hiện, bao gồm thuyết minh chi tiết từng nội dung và bảng dự toán kinh phí.
+
+4. Điều chỉnh, bổ sung DMDT năm
+
+Quy trình này áp dụng đối với việc điều chỉnh, bổ sung DMDT năm, thực hiện theo trình tự như sau:
+
+a. Nhập điều chỉnh, bổ sung KH, DMDT năm:
+
+- Đơn vị nhập các nội dung điều chỉnh, bổ sung vào bảng DMDT và thuyết minh chi tiết. Cập nhật lại thuyết minh, kinh phí dự toán bổ sung đảm bảo đầy đủ các thông tin: Tên nội dung; Loại hình thức thực hiện; Tổng mức đầu tư; dự toán năm thực hiện và các năm tiếp theo.
+
+- Về thời gian cập nhật vào phần mềm: Hoàn thành nhập dữ liệu điều chỉnh, bổ sung DMDT (lần 1 trước ngày 10/5, lần 2 trước ngày 10/9), trường hợp nội dung DMDT điều chỉnh, bổ sung có ý kiến Cục THTK trên phần mềm, đơn vị cập nhật và hoàn thành trong 5 ngày kể từ ngày nhận được ý kiến (đảm bảo lần 1 hoàn thành trước ngày 20/5, lần 2 trước ngày 20/9).
+
+b. Tổng hợp điều chỉnh, bổ sung DMDT năm:
+
+Cục THTK rà soát, tổng hợp dự toán của từng đơn vị, tham gia ý kiến về nội dung thuyết minh và dự toán kinh phí của từng nội dung, cụ thể:
+
+- Đối với mỗi nội dung, Cục THTK thực hiện rà soát và chọn một trong các trạng thái (Duyệt; Không duyệt; Yêu cầu sửa):
+
++ Trường hợp “Duyệt”: Cục THTK thống nhất với nội dung thuyết minh và dự toán kinh phí.
+
++ Trường hợp “Không duyệt”: Nội dung dự toán không có trong kế hoạch 5 năm hoặc chưa được phê duyệt chủ trương đầu tư hoặc nội dung thực hiện chưa đảm bảo quy định của nhà nước và của ngành Tài chính.
+
++ Trường hợp “Yêu cầu sửa”: Đơn vị cần bổ sung thuyết minh, dự toán kinh phí theo như ý kiến đề nghị của Cục THTK.
+
+- Về quy định thời gian:
+
++ Trường hợp có ý kiến để đơn vị cập nhật, Cục THTK có ý kiến trong thời gian 5 ngày làm việc (kể từ ngày đơn vị cập nhật đủ hồ sơ vào phần mềm).
+
++ Sau khi hoàn thành tham gia ý kiến đối với các nội dung DMDT theo đề nghị của đơn vị, Cục THTK xác nhận về bảng dự toán kinh phí và ý kiến tham gia trên phần mềm lần 1 trước ngày 30/5, lần 2 trước ngày 30/9.
+
+c. Thẩm định điều chỉnh, bổ sung DMDT năm:
+
+Cục KHTC thẩm định, tổng hợp điều chỉnh, bổ sung DMDT năm của từng đơn vị trên cơ sở ý kiến của Cục THTK, tham gia ý kiến trực tiếp về nội dung thuyết minh và dự toán kinh phí của từng nội dung, cụ thể:
+
+- Cục KHTC thực hiện chọn đơn vị thẩm định, đối với mỗi nội dung thực hiện rà soát và chọn một trong các trạng thái (Duyệt; Không duyệt; Yêu cầu sửa):
+
++ Trường hợp “Duyệt”: Cục KHTC thống nhất với nội dung thuyết minh và dự toán kinh phí.
+
++ Trường hợp “Không duyệt”: Cục KHTC có ý kiến cụ thể để đơn vị được biết.
+
++ Trường hợp “Yêu cầu sửa”: Cục THTK phối hợp với đơn vị cần bổ sung thuyết minh, dự toán kinh phí theo như ý kiến đề nghị của Cục KHTC.
+
+- Về quy định thời gian:
+
++ Trường hợp Cục KHTC có ý kiến để đơn vị hoàn thiện, Cục KHTC có ý kiến trong 5 ngày làm việc (kể từ ngày Cục THTK hoàn thành cập nhật ý kiến về DMDT của đơn vị vào phần mềm).
+
++ Sau khi hoàn thành tham gia ý kiến đối với các nội dung DMDT theo đề nghị của Cục THTK và đơn vị, Cục KHTC xác nhận về bảng dự toán kinh phí và ý kiến tham gia trên phần mềm lần 1 trước ngày 15/6, lần 2 trước ngày 15/10.
+
+d. Phê duyệt điều chỉnh, bổ sung DMDT năm:
+
+Sau khi dự toán điều chỉnh, bổ sung năm của các đơn vị được Bộ phê duyệt, Cục KHTC thực hiện cập nhật thông tin nội dung phê duyệt có đính kèm bản Quyết định (tệp pdf) để các đơn vị theo dõi thực hiện, bao gồm thuyết minh chi tiết từng nội dung và bảng dự toán kinh phí.
+
+Điều 8. Phân bổ nguồn kinh phí
+
+1. Phân bổ nguồn kinh phí:
+
+Sau khi kế hoạch, DMDT và Quyết định phân bổ nguồn kinh phí của các đơn vị được Bộ phê duyệt, Cục KHTC thực hiện nhập nguồn kinh phí trên phần mềm, cụ thể: Chọn đơn vị cần phân bổ nguồn, nhập nguồn kinh phí theo Quyết định được duyệt để các đơn vị theo dõi thực hiện.
+
+2. Đề xuất chuyển số dư:
+
+Căn cứ theo văn bản chuyển số dư của Kho bạc Nhà nước nơi giao dịch xác nhận giao dịch chuyển nguồn, đơn vị thực hiện nhập trên phần mềm đảm bảo thống nhất với báo cáo gửi Bộ Tài chính về hướng dẫn lập dự toán tài chính, Ngân sách Nhà nước, với các nội dung: Chọn nội dung cần chuyển nguồn, kinh phí và nguồn kinh phí.
+
+3. Phê duyệt chuyển số dư:
+
+Cục KHTC căn cứ đề xuất của đơn vị về nội dung, số dư (nguồn Ngân sách Nhà nước) đã được Kho bạc Nhà nước nơi giao dịch xác nhận chuyển nguồn (theo mẫu biểu số 5 kèm theo Thông tư số 342/2016/TT-BTC ngày 30/12/2016 của Bộ Tài chính) để phê duyệt chuyển số dư nguồn kinh phí Ngân sách Nhà nước trên phần mềm và phê duyệt chuyển số dư nguồn kinh phí khác trên phần mềm theo đúng đề xuất của các đơn vị (các đơn vị chịu trách nhiệm về số liệu đề xuất báo cáo).
+
+Điều 9. Quản lý tiến độ thực hiện
+
+1. Quản lý, theo dõi kế hoạch triển khai DMDT năm
+
+a. Nhập kế hoạch triển khai DMDT năm:
+
+Sau khi có Quyết định phê duyệt KH, DMDT năm, các đơn vị nhập kế hoạch triển khai từng nội dung DMDT, theo từng tháng đến cuối năm (phân khai dự toán) đảm bảo theo trình tự quy định quản lý đầu tư CNTT vào phần mềm, cụ thể: Chọn các nội dung đã phê duyệt trong DMDT cần thực hiện phân khai; Chọn nội dung cần phân khai; Nhập tiến độ dự kiến theo tháng đối với từng bước thực hiện theo quy định quản lý đầu tư CNTT.
+
+b. Phê duyệt kế hoạch triển khai DMDT năm:
+
+Cục THTK thực hiện rà soát kế hoạch triển khai DMDT của đơn vị đến cuối năm đảm bảo thống nhất về tiến độ thực hiện và dự toán kinh phí, cụ thể:
+
+- Chọn đơn vị cần xác nhận phân khai; Rà soát tiến độ công việc đảm bảo phù hợp với thời gian triển khai thực tế, trường hợp Cục THTK có ý kiến khác so với đề nghị của đơn vị, Cục THTK điều chỉnh thời gian triển khai đảm bảo yêu cầu thực tế.
+
+- Sau khi thống nhất kế hoạch về tiến độ và thời gian triển khai của đơn vị, Cục THTK thực hiện thao tác duyệt kế hoạch triển khai thực hiện trên phần mềm.
+
+2. Quản lý báo cáo tiến độ thực hiện KH, DMDT năm
+
+a. Nhập báo cáo tiến độ tháng:
+
+- Để thực hiện báo cáo kết quả triển khai thực hiện trong tháng và kế hoạch triển khai của tháng tiếp theo, đơn vị thực hiện cập nhật tiến độ trong tháng vào ngày 20 của tháng báo cáo.
+
+- Đơn vị thực hiện nhập tiến độ triển khai và giải ngân trong tháng của từng nội dung và kế hoạch triển khai của tháng tiếp theo, đảm bảo việc nhập phản ánh được tiến độ triển khai và giải ngân thực tế, cụ thể: Chọn nội dung cần báo cáo; Thực hiện cập nhật tiến độ thực tế và kinh phí giải ngân thực tế.
+
+b. Duyệt báo cáo tháng của đơn vị:
+
+Cục THTK rà soát tiến độ, giải ngân của từng dự án, nhiệm vụ. Sau khi nhận được báo cáo của đơn vị trên phần mềm, sau 1 ngày làm việc Cục THTK hoàn thành rà soát báo cáo tháng của đơn vị và thực hiện xác nhận, duyệt báo cáo trên phần mềm, để các đơn vị theo dõi thực hiện.
+
+Điều 10. Báo cáo, thống kê
+
+Thông tin, dữ liệu trên phần mềm quản lý và báo cáo đầu tư CNTT được sử dụng để hỗ trợ các đơn vị tìm kiếm, thống kê, tổng hợp báo cáo nhanh về KH, DMDT và tình hình tiến độ triển khai DMDT, cụ thể:
+
+1. Về kế hoạch 5 năm: Hỗ trợ các đơn vị xem thông tin các dự án, nhiệm vụ đã được phê duyệt theo các giai đoạn thực hiện.
+
+2. Về tổng hợp dự toán năm: Phân nhóm, phân loại mảng công việc theo DMDT được duyệt; Tra cứu DMDT được duyệt; Xem kế hoạch triển khai DMDT năm.
+
+3. Về theo dõi tiến độ: Để thực hiện xem, tra cứu tiến độ và giải ngân kết quả triển khai trong tháng và kế hoạch thực hiện tháng tiếp theo.
+
+Chương III.
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 11. Trách nhiệm của Cục Tin học và Thống kê tài chính
+
+1. Quản lý, vận hành hệ thống hạ tầng kỹ thuật CNTT đảm bảo phần mềm vận hành thông suốt.
+
+2. Tổ chức thực hiện việc sao lưu dữ liệu được tạo ra từ phần mềm, đảm bảo khả năng khôi phục lại dữ liệu khi xảy ra sự cố.
+
+3. Ngăn chặn các tấn công từ bên ngoài, bảo mật hệ thống thông tin, bảo mật tài khoản truy nhập, thông tin dữ liệu của người sử dụng.
+
+4. Quản lý tài khoản sử dụng Phần mềm theo quy định tại Điều 5 của Quy chế này.
+
+5. Tiếp nhận các yêu cầu từ đơn vị, thực hiện hỗ trợ người sử dụng phần mềm.
+
+6. Theo dõi, đôn đốc các đơn vị liên quan trong việc cập nhật dữ liệu trên phần mềm.
+
+7. Khắc phục khi gặp sự cố:
+
+- Khi không truy cập được vào phần mềm hoặc khi phần mềm gặp sự cố các đơn vị liên hệ với Cục Tin học và Thống kê tài chính để được hướng dẫn xử lý, mọi thông tin yêu cầu gửi về địa chỉ email baocaocntt@mof.gov.vn hoặc liên hệ trực tiếp số điện thoại 024.22202828, số máy lẻ 2006.
+
+- Trong vòng 24 giờ sau khi nhận được thông tin sự cố, cán bộ được giao phụ trách trực tiếp nhận hướng dẫn người sử dụng khắc phục sự cố hoặc lỗi truy cập phần mềm, hoặc liên hệ với đơn vị cung cấp phần mềm để phối hợp xử lý sự cố kịp thời.
+
+Điều 12. Trách nhiệm của các đơn vị thuộc Bộ
+
+1. Tổ chức sử dụng, cập nhật thông tin đầy đủ, chính xác và đúng thời gian quy định vào Phần mềm quản lý và báo cáo đầu tư CNTT.
+
+2. Phân công công chức được giao nhiệm vụ quản lý công tác triển khai KH, DMDT ứng dụng CNTT sử dụng phần mềm theo đúng các văn bản hướng dẫn.
+
+3. Thực hiện các hoạt động về nghiệp vụ quản lý và báo cáo đầu tư CNTT theo quy định hiện hành của phần mềm.
+
+4. Khai thác thông tin, báo cáo theo phân quyền trên hệ thống.
+
+5. Phản ánh kịp thời những vấn đề phát sinh trong quá trình sử dụng phần mềm cho các đơn vị liên quan.
+
+6. Quản lý đảm bảo an ninh, an toàn đối với tài khoản truy cập vào phần mềm được cấp theo quy định tại Điều 31 Quyết định số 201/QĐ-BTC ngày 12/2/2018 của Bộ trưởng Bộ tài chính về việc Ban hành Quy chế An toàn thông tin mạng Bộ Tài chính.
+
+7. Lập văn bản đăng ký/thu hồi tài khoản người sử dụng gửi về Bộ Tài chính (Cục THTK) theo hướng dẫn tại phụ lục 02 kèm theo Quy chế này.
+
+Điều 13. Tổ chức thực hiện
+
+1. Việc quản lý, vận hành, khai thác Phần mềm quản lý và báo cáo đầu tư CNTT phải tuân thủ các quy định của Quy chế này và các quy định về an toàn thông tin hiện hành của Bộ Tài chính.
+
+2. Trong quá trình thực hiện nếu phát sinh các vướng mắc, các đơn vị phản ánh kịp thời về Cục THTK để phối hợp xử lý./.
+
+Phụ lục 01. Ký hiệu mã viết tắt các đơn vị hệ thống
+
+| STT | Đơn vị                                       | Viết tắt |
+
+|-----|----------------------------------------------|----------|
+
+| 1   | Cục Tin học Thống kê Tài chính               | THTK     |
+
+| 2   | Cục Kế hoạch Tài chính                       | KHTC     |
+
+| 3   | Cục Quản lý, Giám sát bảo hiểm               | GSBH     |
+
+| 4   | Cục Quản lý Nợ và Tài chính đối ngoại        | QLN      |
+
+| 5   | Cục Quản lý Công sản                         | QLCS     |
+
+| 6   | Cục Tài chính Doanh nghiệp                   | TCDN     |
+
+| 7   | Cục Quản lý giá                              | QLG      |
+
+| 8   | Cục Quản lý và giám sát kế toán, kiểm toán   | KTKT     |
+
+| 9   | Tổng cục Thuế                                | TCT      |
+
+| 10  | Kho bạc Nhà nước                             | KBNN     |
+
+| 11  | Tổng cục Hải quan                            | TCHQ     |
+
+| 12  | Tổng cục Dự trữ Nhà nước                     | DTNN     |
+
+| 13  | Ủy ban Chứng khoán Nhà nước                  | UBCK     |
+
+| 14  | Học viện Tài chính                           | HVTC     |
+
+| 15  | Trường Đại học Tài chính - Marketing         | ĐHMT     |
+
+| 16  | Trường Đại học Tài chính Quản trị kinh doanh | QTKD     |
+
+| 17  | Trường Đại học Tài chính - Kế toán           | TCKT     |
+
+| 18  | Trường Bồi dưỡng cán bộ Tài chính            | BDCB     |
+
+| 19  | Viện Chiến lược và Chính sách Tài chính      | CSTC     |
+
+| 20  | Ban Chỉ đạo 389 Quốc gia                     | B389     |
+
+| 21  | Tạp chí Tài chính                            | TCTC     |
+
+| 22  | Nhà xuất bản Tài chính                       | NXB      |
+
+| 23  | Thời báo Tài chính Việt Nam                  | TBTC     |
+
+STT
+
+Đơn vị
+
+Viết tắt
+
+1
+
+Cục Tin học Thống kê Tài chính
+
+THTK
+
+2
+
+Cục Kế hoạch Tài chính
+
+KHTC
+
+3
+
+Cục Quản lý, Giám sát bảo hiểm
+
+GSBH
+
+4
+
+Cục Quản lý Nợ và Tài chính đối ngoại
+
+QLN
+
+5
+
+Cục Quản lý Công sản
+
+QLCS
+
+6
+
+Cục Tài chính Doanh nghiệp
+
+TCDN
+
+7
+
+Cục Quản lý giá
+
+QLG
+
+8
+
+Cục Quản lý và giám sát kế toán, kiểm toán
+
+KTKT
+
+9
+
+Tổng cục Thuế
+
+TCT
+
+10
+
+Kho bạc Nhà nước
+
+KBNN
+
+11
+
+Tổng cục Hải quan
+
+TCHQ
+
+12
+
+Tổng cục Dự trữ Nhà nước
+
+DTNN
+
+13
+
+Ủy ban Chứng khoán Nhà nước
+
+UBCK
+
+14
+
+Học viện Tài chính
+
+HVTC
+
+15
+
+Trường Đại học Tài chính - Marketing
+
+ĐHMT
+
+16
+
+Trường Đại học Tài chính Quản trị kinh doanh
+
+QTKD
+
+17
+
+Trường Đại học Tài chính - Kế toán
+
+TCKT
+
+18
+
+Trường Bồi dưỡng cán bộ Tài chính
+
+BDCB
+
+19
+
+Viện Chiến lược và Chính sách Tài chính
+
+CSTC
+
+20
+
+Ban Chỉ đạo 389 Quốc gia
+
+B389
+
+21
+
+Tạp chí Tài chính
+
+TCTC
+
+22
+
+Nhà xuất bản Tài chính
+
+NXB
+
+23
+
+Thời báo Tài chính Việt Nam
+
+TBTC
+
+Phụ lục 02
+
+Đăng ký tài khoản sử dụng phần mềm Quản lý và báo cáo đầu tư CNTT
+
+Kính gửi: Cục Tin học và Thống kê tài chính
+
+Tên đơn vị: …………………………
+
+Đề nghị Cục Tin học và Thống kê tài chính bổ sung/thu hồi tài khoản sử dụng chương trình Quản lý và báo cáo đầu tư CNTT cho các cán bộ sau:
+
+| TT | Họ tên | Chức vụ | Lý do bổ sung/thu hồi |
+
+|----|--------|---------|-----------------------|
+
+|    |        |         |                       |
+
+|    |        |         |                       |
+
+TT
+
+Họ tên
+
+Chức vụ
+
+Lý do bổ sung/thu hồi
+
+|  | ……….., ngày …. tháng .... năm….. Đại diện đơn vị (Ghi rõ họ tên, chức danh, ký tên) |
+
+|--|-------------------------------------------------------------------------------------|
+
+……….., ngày …. tháng .... năm….. Đại diện đơn vị (Ghi rõ họ tên, chức danh, ký tên)

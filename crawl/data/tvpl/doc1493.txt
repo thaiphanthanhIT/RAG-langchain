@@ -1,0 +1,1727 @@
+| BỘ TÀI CHÍNH   | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|----------------|-----------------------------------------------------------------|
+
+| Số: 359/QĐ-BTC | Hà Nội, ngày 11 tháng 3 năm 2019                                |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 359/QĐ-BTC
+
+Hà Nội, ngày 11 tháng 3 năm 2019
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH CHẾ ĐỘ BÁO CÁO SỐ LIỆU THU, CHI NGÂN SÁCH NHÀ NƯỚC CỦA HỆ THỐNG KHO BẠC NHÀ NƯỚC
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Luật Ngân sách nhà nước số 83/2015/QH13 ngày 25 tháng 6 năm 2015;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Quyết định số 26/2015/QĐ-TTg ngày 08 tháng 7 năm 2015 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Kho bạc Nhà nước trực thuộc Bộ Tài chính;
+
+Theo đề nghị của Tổng Giám đốc Kho bạc Nhà nước,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành Chế độ báo cáo số liệu thu, chi ngân sách nhà nước của hệ thống Kho bạc Nhà nước.
+
+Điều 2. Quyết định này có hiệu lực kể từ ngày 01/4/2019. Tổng Giám đốc Kho bạc Nhà nước; Giám đốc Kho bạc Nhà nước tỉnh, thành phố trực thuộc trung ương; Giám đốc Kho bạc Nhà nước huyện, quận, thị xã và thành phố thuộc tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Quyết định này./.
+
+| Nơi nhận: - Văn phòng trung ương Đảng; - Ủy ban Tài chính, Ngân sách; - Văn phòng Chính phủ; - Bộ Kế hoạch và Đầu tư; - Tỉnh ủy; HĐND; UBND các tỉnh, thành phố trực thuộc TW; - Huyện ủy; HĐND; UBND huyện, quận, thị xã, thành phố thuộc tỉnh; - Các đơn vị thuộc Bộ Tài chính; - Như Điều 2; - Lưu: VT, KBNN (3.000 bản). | KT. BỘ TRƯỞNG PHÓ CHỦ TỊCH Đỗ Hoàng Anh Tuấn |
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+
+Nơi nhận: - Văn phòng trung ương Đảng; - Ủy ban Tài chính, Ngân sách; - Văn phòng Chính phủ; - Bộ Kế hoạch và Đầu tư; - Tỉnh ủy; HĐND; UBND các tỉnh, thành phố trực thuộc TW; - Huyện ủy; HĐND; UBND huyện, quận, thị xã, thành phố thuộc tỉnh; - Các đơn vị thuộc Bộ Tài chính; - Như Điều 2; - Lưu: VT, KBNN (3.000 bản).
+
+KT. BỘ TRƯỞNG PHÓ CHỦ TỊCH Đỗ Hoàng Anh Tuấn
+
+CHẾ ĐỘ
+
+BÁO CÁO SỐ LIỆU THU, CHI NGÂN SÁCH NHÀ NƯỚC CỦA HỆ THỐNG KHO BẠC NHÀ NƯỚC (Ban hành kèm theo Quyết định số 359/QĐ-BTC ngày 11 tháng 3 năm 2019 của Bộ trưởng Bộ Tài chính)
+
+Điều 1. Mục đích
+
+Báo cáo số liệu thu, chi ngân sách nhà nước (NSNN) hàng ngày phục vụ yêu cầu quản lý, điều hành của cấp ủy, chính quyền và các cơ quan quản lý tài chính ở trung ương và địa phương.
+
+Điều 2. Phạm vi và đối tượng áp dụng
+
+1. Phạm vi: Số liệu thu, chi NSNN trên phạm vi toàn quốc; trên địa bàn tỉnh, thành phố trực thuộc trung ương (gọi tắt là cấp tỉnh) và trên địa bàn huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố trực thuộc trung ương (gọi tắt là cấp huyện).
+
+2. Đối tượng: Kho bạc Nhà nước (KBNN); KBNN cấp tỉnh; KBNN cấp huyện.
+
+Điều 3. Nội dung, mẫu biểu báo cáo
+
+1. Nội dung báo cáo bao gồm: Số liệu thực hiện về thu, chi NSNN; tỷ lệ phần trăm (%) so với dự toán được Thủ tướng Chính phủ hoặc Hội đồng nhân dân giao.
+
+2. Biểu mẫu báo cáo, bao gồm:
+
+a) Báo cáo số liệu tổng thư và vay NSNN đến ngày.... (mẫu số 01 đính kèm).
+
+b) Báo cáo số liệu tổng thu NSNN của các tỉnh, thành phố đến ngày.... (mẫu số 02 đính kèm).
+
+c) Báo cáo số liệu tổng thu và vay ngân sách địa phương đến ngày ….. (mẫu số 03 đính kèm).
+
+d) Báo cáo số liệu chi NSNN đến ngày.... (mẫu số 04 đính kèm).
+
+đ) Báo cáo số liệu chi đầu tư xây dựng cơ bản đến ngày ... (mẫu số 05 đính kèm).
+
+Điều 4. Kỳ, thời hạn và phương thức báo cáo
+
+1. Kỳ báo cáo: Thực hiện hàng ngày.
+
+2. Thời hạn gửi báo cáo: Các đơn vị KBNN (KBNN; KBNN cấp tỉnh, Cấp huyện) thực hiện gửi báo cáo:
+
+a) Chậm nhất trước 11 giờ sáng ngày làm việc tiếp theo của ngày báo cáo.
+
+b) Trường hợp ngày quy định cuối cùng của thời hạn gửi báo cáo trùng với ngày nghỉ theo quy định của pháp luật, thì ngày gửi báo cáo là ngày làm việc tiếp theo ngay sau ngày nghỉ đó.
+
+3. Phương thức báo cáo: Các đơn vị KBNN gửi báo cáo theo một trong các phương thức sau:
+
+a) Thư điện tử: Các đơn vị KBNN gửi báo cáo theo địa chỉ hòm thư điện tử của đơn vị nhận báo cáo đã cung cấp cho KBNN.
+
+b) Qua Cổng thông tin điện tử của KBNN: KBNN nơi gửi báo cáo cung cấp tài khoản đăng nhập (tên và mật khẩu truy cập) cho đơn vị nhận báo cáo để khai thác thông tin báo cáo qua Cổng thông tin điện tử của KBNN.
+
+Trường hợp KBNN đã xây dựng và triển khai việc cung cấp báo cáo qua Cổng thông tin điện tử của KBNN, thì thực hiện theo phương thức nêu tại Điểm b Khoản 3 Điều này.
+
+Điều 5. Đơn vị cung cấp và nhận báo cáo
+
+1. Tại cấp Trung ương:
+
+1.1. Đơn vị cung cấp báo cáo: KBNN (trung ương) cung cấp báo cáo theo mẫu số 01, mẫu số 02, mẫu số 04 và mẫu số 05 đính kèm Quyết định này.
+
+1.2. Đơn vị nhận báo cáo:
+
+a) Văn phòng Trung ương Đảng.
+
+b) Văn phòng Chính phủ.
+
+c) Ủy ban Tài chính, Ngân sách.
+
+đ) Bộ Kế hoạch và Đầu tư (nhận báo cáo số liệu chi đầu tư xây dựng cơ bản).
+
+đ) Bộ Tài chính: Lãnh đạo Bộ Tài chính và các đơn vị thuộc Bộ Tài chính (Vụ Ngân sách nhà nước, Vụ Đầu tư, Vụ Hành chính sự nghiệp và Vụ Tài chính quốc phòng, an ninh, đặc biệt, Tổng cục Thuế, Tổng cục Hải quan, Cục Quản lý nợ và Tài chính đối ngoại).
+
+2. Tại cấp tỉnh:
+
+2.1. Đơn vị cung cấp báo cáo: KBNN cấp tỉnh cung cấp báo cáo theo mẫu số 03, mẫu số 04 và mẫu số 05 đính kèm Quyết định này.
+
+2.2. Đơn vị nhận báo cáo:
+
+a) Văn phòng tỉnh ủy, thành ủy.
+
+b) Văn phòng Hội đồng nhân dân cấp tỉnh.
+
+c) Văn phòng Ủy ban nhân dân cấp tỉnh.
+
+d) Sở Tài chính.
+
+đ) Cục thuế.
+
+3. Tại cấp huyện:
+
+3.1. Đơn vị cung cấp báo cáo; KBNN cấp huyện cung cấp báo cáo theo mẫu số 03, mẫu số 04 và mẫu số 05 đính kèm Quyết định này.
+
+3.2. Đơn vị nhận báo cáo:
+
+a) Văn phòng huyện ủy, quận ủy, thị ủy, thành ủy.
+
+b) Văn phòng Hội đồng nhân dân cấp huyện.
+
+c) Văn phòng Ủy ban nhân dân cấp huyện.
+
+d) Phòng Tài chính - Kế hoạch.
+
+đ) Chi cục thuế.
+
+Điều 6. Trách nhiệm của KBNN
+
+1. Đối với KBNN:
+
+a) Chỉ đạo các đơn vị thuộc và trực thuộc KBNN thực hiện nghiêm túc, đầy đủ và kịp thời các báo cáo theo quy định hiện hành và chế độ báo cáo quy định tại Quyết định này.
+
+b) Hướng dẫn các đơn vị KBNN cấp tỉnh, cấp huyện cách thức tổng hợp các chỉ tiêu của các báo cáo quy định tại Điều 3 Quyết định này.
+
+c) Chuẩn bị đầy đủ các điều kiện cần thiết để triển khai phương thức gửi báo cáo cáo quy định tại Điểm b Khoản 3 Điều 4 Quyết định này từ tháng 9 năm 2019.
+
+d) Chỉ đạo các đơn vị thuộc và trực thuộc KBNN liên hệ với các đơn vị nhận báo cáo để trao đổi thông tin hòm thư điện tử của đơn vị nhận báo cáo, cung cấp tên truy cập và mật khẩu truy cập vào Cổng thông tin điện tử của KBNN để thực hiện việc cung cấp báo cáo theo quy định tại Khoản 3 Điều 4 và Điều 5 quy định này.
+
+a) Tổ chức chỉ đạo, quán triệt tới từng đơn vị, cán bộ công chức có liên quan thực hiện nghiêm túc, đầy đủ và kịp thời các báo cáo theo quy định hiện hành và chế độ báo cáo quy định tại Quyết định này.
+
+b) Chủ động phối hợp với các đơn vị liên quan thực hiện rà soát, đối chiếu và đề xuất giải pháp xử lý các vướng mắc trong quá trình thực hiện báo cáo số liệu thu, chi NSNN trên địa bàn./.
+
+Mẫu số 01
+
+| BỘ TÀI CHÍNH KHO BẠC NHÀ NƯỚC  |  |
+
+|--------------------------------|--|
+
+BỘ TÀI CHÍNH KHO BẠC NHÀ NƯỚC --------
+
+BÁO CÁO SỐ LIỆU TỔNG THU VÀ VAY NGÂN SÁCH NHÀ NƯỚC ĐẾN NGÀY …………………
+
+Đơn vị: Tỷ đồng
+
+| STT     | CHỈ TIÊU                                                                                                                  | Dự toán Thủ tướng Chính phủ giao | Lũy kế thực hiện | So sánh dự toán/thực hiện (%) |         |   |   |   |    |    |
+
+|---------|---------------------------------------------------------------------------------------------------------------------------|----------------------------------|------------------|-------------------------------|---------|---|---|---|----|----|
+
+| Tổng số | Trong đó                                                                                                                  | Tổng số                          | Trong đó         | Tổng số                       | Bao gồm |   |   |   |    |    |
+
+| NSTW    | NSĐP                                                                                                                      | NSTW                             | NSĐP             | NSTW                          | NSĐP    |   |   |   |    |    |
+
+| 1       | 2                                                                                                                         | 3                                | 4                | 5                             | 6       | 7 | 8 | 9 | 10 | 11 |
+
+| A       | TỔNG THU NGÂN SÁCH NHÀ NƯỚC                                                                                               |                                  |                  |                               |         |   |   |   |    |    |
+
+| I       | Thu nội đ|a                                                                                                               |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | Thu nội địa không kể tiền sử dụng đất, xổ số kiến thiết                                                                   |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | Thu nội địa không kể tiền sử dụng đất, xổ số kiến thiết, cổ tức lợi nhuận sau thuế, chênh lệch thu chi Ngân hàng Nhà nước |                                  |                  |                               |         |   |   |   |    |    |
+
+| 1       | Thu từ khu vực doanh nghiệp Nhà nước                                                                                      |                                  |                  |                               |         |   |   |   |    |    |
+
+| 2       | Thu từ khu vực doanh nghiệp có vốn đầu tư nước ngoài                                                                      |                                  |                  |                               |         |   |   |   |    |    |
+
+| 3       | Thu từ khu vực kinh tế ngoài quốc doanh                                                                                   |                                  |                  |                               |         |   |   |   |    |    |
+
+| 4       | Thuế thu nhập cá nhân                                                                                                     |                                  |                  |                               |         |   |   |   |    |    |
+
+| 5       | Thuế bảo vệ môi trường                                                                                                    |                                  |                  |                               |         |   |   |   |    |    |
+
+| 6       | Các loại phí, lệ phí                                                                                                      |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | Trong đó: Lệ phí trước bạ                                                                                                 |                                  |                  |                               |         |   |   |   |    |    |
+
+| 7       | Các khoản thu về nhà, đất                                                                                                 |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | - Thuế sử dụng đất nông nghiệp                                                                                            |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | - Thuế sử dụng đất phi nông nghiệp                                                                                        |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | - Thu tiền cho thuê đất, thuê mặt nước                                                                                    |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | - Thu tiền sử dụng đất                                                                                                    |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | - Thu tiền cho thuê và tiền bán nhà ở thuộc sở hữu nhà nước                                                               |                                  |                  |                               |         |   |   |   |    |    |
+
+| 8       | Thu từ hoạt động xổ số kiến thiết                                                                                         |                                  |                  |                               |         |   |   |   |    |    |
+
+| 9       | Thu tiền cấp quyền khai thác khoáng sản                                                                                   |                                  |                  |                               |         |   |   |   |    |    |
+
+| 10      | Thu khác ngân sách                                                                                                        |                                  |                  |                               |         |   |   |   |    |    |
+
+| 11      | Thu từ quỹ đất công ích và thu hoa lợi công sản khác                                                                      |                                  |                  |                               |         |   |   |   |    |    |
+
+| 12      | Thu hồi vốn, thu cổ tức, lợi nhuận, lợi nhuận sau thuế, chênh lệch thu, chi của Ngân hàng Nhà nước                        |                                  |                  |                               |         |   |   |   |    |    |
+
+| II      | Thu từ dầu thô                                                                                                            |                                  |                  |                               |         |   |   |   |    |    |
+
+| III     | Thu cân đối từ hoạt động xuất nhập khẩu                                                                                   |                                  |                  |                               |         |   |   |   |    |    |
+
+| 1       | Tổng số thu từ hoạt động xuất nhập khẩu                                                                                   |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | - Thuế giá trị gia tăng thu từ hàng hóa nhập khẩu                                                                         |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | - Thuế xuất khẩu                                                                                                          |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | - Thuế nhập khẩu                                                                                                          |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | - Thuế tiêu thụ đặc biệt thu từ hàng hóa nhập khẩu                                                                        |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | - Thuế bảo vệ môi trường thu từ hàng hóa nhập khẩu                                                                        |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | - Thu khác                                                                                                                |                                  |                  |                               |         |   |   |   |    |    |
+
+| 2       | Hoàn thuế giá trị gia tăng                                                                                                |                                  |                  |                               |         |   |   |   |    |    |
+
+| IV      | Thu viện trợ                                                                                                              |                                  |                  |                               |         |   |   |   |    |    |
+
+| B       | VAY CỦA NGÂN SÁCH TRUNG ƯƠNG                                                                                              |                                  |                  |                               |         |   |   |   |    |    |
+
+| I       | Vay trong nước                                                                                                            |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | Trong đó: Tổng số huy động vốn thông qua phát hành trái phiếu Chính phủ                                                   |                                  |                  |                               |         |   |   |   |    |    |
+
+| 1       | Trái phiếu bằng VNĐ                                                                                                       |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | - Kỳ hạn dưới 5 năm                                                                                                       |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | - Kỳ hạn từ 5 năm trở lên                                                                                                 |                                  |                  |                               |         |   |   |   |    |    |
+
+| 2       | Trái phiếu bằng ngoại lệ                                                                                                  |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | - Kỳ hạn dưới 5 năm                                                                                                       |                                  |                  |                               |         |   |   |   |    |    |
+
+|         | - Kỳ hạn từ 5 năm trở lên                                                                                                 |                                  |                  |                               |         |   |   |   |    |    |
+
+| II      | Vay ngoài nước                                                                                                            |                                  |                  |                               |         |   |   |   |    |    |
+
+| C       | TỒN QUỸ NSTW                                                                                                              |                                  |                  |                               |         |   |   |   |    |    |
+
+STT
+
+CHỈ TIÊU
+
+Dự toán Thủ tướng Chính phủ giao
+
+Lũy kế thực hiện
+
+So sánh dự toán/thực hiện (%)
+
+Tổng số
+
+Trong đó
+
+Tổng số
+
+Trong đó
+
+Tổng số
+
+Bao gồm
+
+NSTW
+
+NSĐP
+
+NSTW
+
+NSĐP
+
+NSTW
+
+NSĐP
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+A
+
+TỔNG THU NGÂN SÁCH NHÀ NƯỚC
+
+I
+
+Thu nội đ|a
+
+Thu nội địa không kể tiền sử dụng đất, xổ số kiến thiết
+
+Thu nội địa không kể tiền sử dụng đất, xổ số kiến thiết, cổ tức lợi nhuận sau thuế, chênh lệch thu chi Ngân hàng Nhà nước
+
+1
+
+Thu từ khu vực doanh nghiệp Nhà nước
+
+2
+
+Thu từ khu vực doanh nghiệp có vốn đầu tư nước ngoài
+
+3
+
+Thu từ khu vực kinh tế ngoài quốc doanh
+
+4
+
+Thuế thu nhập cá nhân
+
+5
+
+Thuế bảo vệ môi trường
+
+6
+
+Các loại phí, lệ phí
+
+Trong đó: Lệ phí trước bạ
+
+7
+
+Các khoản thu về nhà, đất
+
+- Thuế sử dụng đất nông nghiệp
+
+- Thuế sử dụng đất phi nông nghiệp
+
+- Thu tiền cho thuê đất, thuê mặt nước
+
+- Thu tiền sử dụng đất
+
+- Thu tiền cho thuê và tiền bán nhà ở thuộc sở hữu nhà nước
+
+8
+
+Thu từ hoạt động xổ số kiến thiết
+
+9
+
+Thu tiền cấp quyền khai thác khoáng sản
+
+10
+
+Thu khác ngân sách
+
+11
+
+Thu từ quỹ đất công ích và thu hoa lợi công sản khác
+
+12
+
+Thu hồi vốn, thu cổ tức, lợi nhuận, lợi nhuận sau thuế, chênh lệch thu, chi của Ngân hàng Nhà nước
+
+II
+
+Thu từ dầu thô
+
+III
+
+Thu cân đối từ hoạt động xuất nhập khẩu
+
+1
+
+Tổng số thu từ hoạt động xuất nhập khẩu
+
+- Thuế giá trị gia tăng thu từ hàng hóa nhập khẩu
+
+- Thuế xuất khẩu
+
+- Thuế nhập khẩu
+
+- Thuế tiêu thụ đặc biệt thu từ hàng hóa nhập khẩu
+
+- Thuế bảo vệ môi trường thu từ hàng hóa nhập khẩu
+
+- Thu khác
+
+2
+
+Hoàn thuế giá trị gia tăng
+
+IV
+
+Thu viện trợ
+
+B
+
+VAY CỦA NGÂN SÁCH TRUNG ƯƠNG
+
+I
+
+Vay trong nước
+
+Trong đó: Tổng số huy động vốn thông qua phát hành trái phiếu Chính phủ
+
+1
+
+Trái phiếu bằng VNĐ
+
+- Kỳ hạn dưới 5 năm
+
+- Kỳ hạn từ 5 năm trở lên
+
+2
+
+Trái phiếu bằng ngoại lệ
+
+- Kỳ hạn dưới 5 năm
+
+- Kỳ hạn từ 5 năm trở lên
+
+II
+
+Vay ngoài nước
+
+C
+
+TỒN QUỸ NSTW
+
+Mẫu số 02
+
+| BỘ TÀI CHÍNH KHO BẠC NHÀ NƯỚC  |  |
+
+|--------------------------------|--|
+
+BỘ TÀI CHÍNH KHO BẠC NHÀ NƯỚC ----------------
+
+BÁO CÁO SỐ LIỆU TỔNG THU NGÂN SÁCH NHÀ NƯỚC CỦA CÁC TỈNH, THÀNH PHỐ ĐẾN NGÀY ………………….
+
+Đơn vị: Tỷ đồng
+
+| STT      | TỈNH THÀNH PHỐ          | Dự toán thu NSNN năm 2018 | Lũy kế thực hiện | So sánh %               |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+|----------|-------------------------|---------------------------|------------------|-------------------------|----------|----------------|----------|----------------|-------------------------|---------|----------------|----------|----------------|-------------------------|----|----|----|----|----|
+
+| Tổng số  | 1. Thu nội địa          | Bao gồm                   | 2. Thu Dầu thô   | 3. Thu từ hoạt động XNK | Tổng số  | 1. Thu nội địa | Bao gồm: | 2. Thu Dầu thô | 3. Thu từ hoạt động XNK | Tổng số | 1. Thu nội địa | Bao gồm: | 2. Thu Dầu thô | 3. Thu từ hoạt động XNK |    |    |    |    |    |
+
+| Thu NSTW | Thu NSĐP                | Thu NSTVV                 | Thu NSĐP         | Thu NSTW                | Thu NSĐP |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 1        | 2                       | 3                         | 4                | 5                       | 6        | 7              | 8        | 9              | 10                      | 11      | 12             | 13       | 14             | 15                      | 16 | 17 | 18 | 19 | 20 |
+
+|          | TỔNG SỐ (A + B)         |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| A        | ĐỊA PHƯƠNG              |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| I        | MIỀN NÚI PHÍA BẮC       |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 1        | HÀ GIANG                |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 2        | TUYÊN QUANG             |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 3        | CAO BẰNG                |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 4        | LẠNG SƠN                |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 5        | LÀO CAI                 |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 6        | YÊN BÁI                 |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 7        | THÁI NGUYÊN             |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 8        | BẮC KẠN                 |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 9        | PHÚ THỌ                 |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 10       | BẮC GIANG               |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 11       | HÒA BÌNH                |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 12       | SƠN LA                  |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 13       | LAI CHÂU                |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 14       | ĐIỆN BIÊN               |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| II       | ĐỒNG BẰNG SÔNG HỒNG     |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 15       | HÀ NỘI                  |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 16       | HẢI PHÒNG               |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 17       | QUẢNG NINH              |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 18       | HẢI DƯƠNG               |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 19       | HƯNG YÊN                |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 20       | VĨNH PHÚC               |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 21       | BẮC NINH                |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 22       | HÀ NAM                  |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 23       | NAM ĐỊNH                |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 24       | NINH BÌNH               |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 25       | THÁI BÌNH               |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| III      | BẮC TRUNG BỘ VÀ DHMT    |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 26       | THANH HÓA               |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 27       | NGHỆ AN                 |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 28       | HÀ TĨNH                 |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 29       | QUẢNG BÌNH              |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 30       | QUẢNG TRỊ               |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 31       | THỪA THIÊN HUẾ          |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 32       | ĐÀ NẴNG                 |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 33       | QUẢNG NAM               |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 34       | QUẢNG NGÃI              |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 35       | BÌNH ĐỊNH               |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 36       | PHÚ YÊN                 |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 37       | KHÁNH HÒA               |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 38       | NINH THUẬN              |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 39       | BÌNH THUẬN              |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| IV       | TÂY NGUYÊN              |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 40       | ĐẮK LẮK                 |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 41       | ĐẮK NÔNG                |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 42       | GIA LAI                 |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 43       | KON TUM                 |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 44       | LÂM ĐỒNG                |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| V        | ĐÔNG NAM BỘ             |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 45       | TP. HỒ CHÍ MINH         |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 46       | ĐỒNG NAI                |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 47       | BÌNH DƯƠNG              |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 4S       | BÌNH PHƯỚC              |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 49       | TÂY NINH                |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 50       | BÀ RỊA VŨNG TÀU         |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| VI       | ĐỒNG BẰNG SÔNG CỬU LONG |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 51       | LONG AN                 |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 52       | TIỀN GIANG              |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 53       | BẾN TRE                 |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 54       | TRÀ VINH                |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 55       | VĨNH LONG               |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 56       | CẦN THƠ                 |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 57       | HẬU GIANG               |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 58       | SÓC TRĂNG               |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 59       | AN GIANG                |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 60       | ĐỒNG THÁP               |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 61       | KIÊN GIANG              |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 62       | BẠC LIÊU                |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| 63       | CÀ MAU                  |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+| B        | NGÂN SÁCH TRUNG ƯƠNG    |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+|          |                         |                           |                  |                         |          |                |          |                |                         |         |                |          |                |                         |    |    |    |    |    |
+
+STT
+
+TỈNH THÀNH PHỐ
+
+Dự toán thu NSNN năm 2018
+
+Lũy kế thực hiện
+
+So sánh %
+
+Tổng số
+
+1. Thu nội địa
+
+Bao gồm
+
+2. Thu Dầu thô
+
+3. Thu từ hoạt động XNK
+
+Tổng số
+
+1. Thu nội địa
+
+Bao gồm:
+
+2. Thu Dầu thô
+
+3. Thu từ hoạt động XNK
+
+Tổng số
+
+1. Thu nội địa
+
+Bao gồm:
+
+2. Thu Dầu thô
+
+3. Thu từ hoạt động XNK
+
+Thu NSTW
+
+Thu NSĐP
+
+Thu NSTVV
+
+Thu NSĐP
+
+Thu NSTW
+
+Thu NSĐP
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+TỔNG SỐ (A + B)
+
+A
+
+ĐỊA PHƯƠNG
+
+I
+
+MIỀN NÚI PHÍA BẮC
+
+1
+
+HÀ GIANG
+
+2
+
+TUYÊN QUANG
+
+3
+
+CAO BẰNG
+
+4
+
+LẠNG SƠN
+
+5
+
+LÀO CAI
+
+6
+
+YÊN BÁI
+
+7
+
+THÁI NGUYÊN
+
+8
+
+BẮC KẠN
+
+9
+
+PHÚ THỌ
+
+10
+
+BẮC GIANG
+
+11
+
+HÒA BÌNH
+
+12
+
+SƠN LA
+
+13
+
+LAI CHÂU
+
+14
+
+ĐIỆN BIÊN
+
+II
+
+ĐỒNG BẰNG SÔNG HỒNG
+
+15
+
+HÀ NỘI
+
+16
+
+HẢI PHÒNG
+
+17
+
+QUẢNG NINH
+
+18
+
+HẢI DƯƠNG
+
+19
+
+HƯNG YÊN
+
+20
+
+VĨNH PHÚC
+
+21
+
+BẮC NINH
+
+22
+
+HÀ NAM
+
+23
+
+NAM ĐỊNH
+
+24
+
+NINH BÌNH
+
+25
+
+THÁI BÌNH
+
+III
+
+BẮC TRUNG BỘ VÀ DHMT
+
+26
+
+THANH HÓA
+
+27
+
+NGHỆ AN
+
+28
+
+HÀ TĨNH
+
+29
+
+QUẢNG BÌNH
+
+30
+
+QUẢNG TRỊ
+
+31
+
+THỪA THIÊN HUẾ
+
+32
+
+ĐÀ NẴNG
+
+33
+
+QUẢNG NAM
+
+34
+
+QUẢNG NGÃI
+
+35
+
+BÌNH ĐỊNH
+
+36
+
+PHÚ YÊN
+
+37
+
+KHÁNH HÒA
+
+38
+
+NINH THUẬN
+
+39
+
+BÌNH THUẬN
+
+IV
+
+TÂY NGUYÊN
+
+40
+
+ĐẮK LẮK
+
+41
+
+ĐẮK NÔNG
+
+42
+
+GIA LAI
+
+43
+
+KON TUM
+
+44
+
+LÂM ĐỒNG
+
+V
+
+ĐÔNG NAM BỘ
+
+45
+
+TP. HỒ CHÍ MINH
+
+46
+
+ĐỒNG NAI
+
+47
+
+BÌNH DƯƠNG
+
+4S
+
+BÌNH PHƯỚC
+
+49
+
+TÂY NINH
+
+50
+
+BÀ RỊA VŨNG TÀU
+
+VI
+
+ĐỒNG BẰNG SÔNG CỬU LONG
+
+51
+
+LONG AN
+
+52
+
+TIỀN GIANG
+
+53
+
+BẾN TRE
+
+54
+
+TRÀ VINH
+
+55
+
+VĨNH LONG
+
+56
+
+CẦN THƠ
+
+57
+
+HẬU GIANG
+
+58
+
+SÓC TRĂNG
+
+59
+
+AN GIANG
+
+60
+
+ĐỒNG THÁP
+
+61
+
+KIÊN GIANG
+
+62
+
+BẠC LIÊU
+
+63
+
+CÀ MAU
+
+B
+
+NGÂN SÁCH TRUNG ƯƠNG
+
+Ghi chú: Thu NSNN không bao gồm thu viện trợ và hoàn thuế GTGT
+
+Mẫu số 03
+
+| KHO BẠC NHÀ NƯỚC …….. KHO BẠC NHÀ NƯỚC TỈNH/HUYỆN …………………  |  |
+
+|------------------------------------------------------------|--|
+
+KHO BẠC NHÀ NƯỚC …….. KHO BẠC NHÀ NƯỚC TỈNH/HUYỆN ………………… --------
+
+BÁO CÁO SỐ LIỆU TỔNG THU VÀ VAY NGÂN SÁCH ĐỊA PHƯƠNG ĐẾN NGÀY ……………….
+
+Đơn vị: Tỷ đồng
+
+| STT            | NỘI DUNG THU                                                | Dự toán Hội đồng nhân dân cấp tỉnh/huyện giao | Lũy kế thực hiện | So sánh dự toán/thực hiện (%) |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+|----------------|-------------------------------------------------------------|-----------------------------------------------|------------------|-------------------------------|--------------|----------------|-----------------|--------------|----|----|----|----|----|----|----|----|----|----|----|
+
+| Tổng số        | Bao gồm:                                                    | Tổng số                                       | Bao gồm:         | Tổng số                       | Bao gồm;     |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| NSTW           | NSĐP                                                        | NSTW                                          | NSĐP             | NSTW                          | NSĐP         |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| Tổng số        | Bao gồm:                                                    | Tổng số                                       | Bao gồm:         | Tổng số                       | Bao gồm:     |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| Ngân sách tỉnh | Ngân sách huyện                                             | Ngân sách xã                                  | Ngân sách tỉnh   | Ngân sách huyện               | Ngân sách xã | Ngân sách tỉnh | Ngân sách huyện | Ngân sách xã |    |    |    |    |    |    |    |    |    |    |    |
+
+| 1              | 2                                                           | 3                                             | 4                | 5                             | 6            | 7              | 8               | 9            | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+
+| A              | TỔNG THU NGÂN SÁCH ĐỊA PHƯƠNG                               |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| 1              | Thu từ khu vực doanh nghiệp Nhà nước                        |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| 2              | Thu từ khu vực doanh nghiệp có vốn đầu tư nước ngoài        |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| 3              | Thu từ khu vực kinh tế ngoài quốc doanh                     |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| 4              | Thuế thu nhập cá nhân                                       |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| 5              | Thuế bảo vệ môi trường                                      |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| 6              | Các loại phí, lệ phí                                        |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+|                | Trong đó: Lệ phí trước bạ                                   |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| 7              | Các khoản thu về nhà, đất                                   |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+|                | - Thuế sử dụng đất nông nghiệp                              |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+|                | - Thuế sử dụng đất phi nông nghiệp                          |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+|                | - Thu tiền cho thuê đất, thuê mặt nước                      |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+|                | - Thu tiền sử dụng đất                                      |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+|                | - Thu tiền cho thuê và tiền bán nhà ở thuộc sở hữu nhà nước |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| 8              | Thu từ hoạt động xổ số kiến thiết                           |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| 9              | Thu tiền cấp quyền khai thác khoáng sản, tài nguyên nước    |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| 10             | Thu khác ngân sách                                          |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| 11             | Thu từ quỹ đất công ích và thu hoa lợi công sàn khác        |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| 12             | Thu hồi vốn, thu cổ tức, lợi nhuận, lợi nhuận sau thuế      |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| B              | VAY CỦA CHÍNH QUYỀN CẤP TỈNH                                |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| 1              | Vay từ phát hành trái phiếu chính quyền địa phương          |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| 2              | Vay từ nguồn vốn cho vay lại của Chính phủ                  |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| 3              | Vay ngân quỹ nhà nước                                       |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| 4              | Vay từ quỹ dự trữ tài chính                                 |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| 5              | Vay từ các tổ chức tài chính, tổ chức tín dụng              |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+| C              | TỒN QUỸ NGÂN SÁCH CẤP TỈNH/HUYỆN                            |                                               |                  |                               |              |                |                 |              |    |    |    |    |    |    |    |    |    |    |    |
+
+STT
+
+NỘI DUNG THU
+
+Dự toán Hội đồng nhân dân cấp tỉnh/huyện giao
+
+Lũy kế thực hiện
+
+So sánh dự toán/thực hiện (%)
+
+Tổng số
+
+Bao gồm:
+
+Tổng số
+
+Bao gồm:
+
+Tổng số
+
+Bao gồm;
+
+NSTW
+
+NSĐP
+
+NSTW
+
+NSĐP
+
+NSTW
+
+NSĐP
+
+Tổng số
+
+Bao gồm:
+
+Tổng số
+
+Bao gồm:
+
+Tổng số
+
+Bao gồm:
+
+Ngân sách tỉnh
+
+Ngân sách huyện
+
+Ngân sách xã
+
+Ngân sách tỉnh
+
+Ngân sách huyện
+
+Ngân sách xã
+
+Ngân sách tỉnh
+
+Ngân sách huyện
+
+Ngân sách xã
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+A
+
+TỔNG THU NGÂN SÁCH ĐỊA PHƯƠNG
+
+1
+
+Thu từ khu vực doanh nghiệp Nhà nước
+
+2
+
+Thu từ khu vực doanh nghiệp có vốn đầu tư nước ngoài
+
+3
+
+Thu từ khu vực kinh tế ngoài quốc doanh
+
+4
+
+Thuế thu nhập cá nhân
+
+5
+
+Thuế bảo vệ môi trường
+
+6
+
+Các loại phí, lệ phí
+
+Trong đó: Lệ phí trước bạ
+
+7
+
+Các khoản thu về nhà, đất
+
+- Thuế sử dụng đất nông nghiệp
+
+- Thuế sử dụng đất phi nông nghiệp
+
+- Thu tiền cho thuê đất, thuê mặt nước
+
+- Thu tiền sử dụng đất
+
+- Thu tiền cho thuê và tiền bán nhà ở thuộc sở hữu nhà nước
+
+8
+
+Thu từ hoạt động xổ số kiến thiết
+
+9
+
+Thu tiền cấp quyền khai thác khoáng sản, tài nguyên nước
+
+10
+
+Thu khác ngân sách
+
+11
+
+Thu từ quỹ đất công ích và thu hoa lợi công sàn khác
+
+12
+
+Thu hồi vốn, thu cổ tức, lợi nhuận, lợi nhuận sau thuế
+
+B
+
+VAY CỦA CHÍNH QUYỀN CẤP TỈNH
+
+1
+
+Vay từ phát hành trái phiếu chính quyền địa phương
+
+2
+
+Vay từ nguồn vốn cho vay lại của Chính phủ
+
+3
+
+Vay ngân quỹ nhà nước
+
+4
+
+Vay từ quỹ dự trữ tài chính
+
+5
+
+Vay từ các tổ chức tài chính, tổ chức tín dụng
+
+C
+
+TỒN QUỸ NGÂN SÁCH CẤP TỈNH/HUYỆN
+
+Ghi chú: KBNN huyện không báo cáo mục B
+
+Mẫu số 04
+
+| KHO BẠC NHÀ NƯỚC ……..  |  |
+
+|------------------------|--|
+
+KHO BẠC NHÀ NƯỚC …….. ----------------
+
+BÁO CÁO SỐ LIỆU CHI NGÂN SÁCH NHÀ NƯỚC ĐẾN NGÀY……………..
+
+Đơn vị tính: tỷ đồng
+
+| STT             | CHỈ TIÊU                                                               | NSNN                   | NSTW            | NSĐP         | Trong đó:              |                 |              |                        |                   |               |                        |                   |                |                        |      |                |
+
+|-----------------|------------------------------------------------------------------------|------------------------|-----------------|--------------|------------------------|-----------------|--------------|------------------------|-------------------|---------------|------------------------|-------------------|----------------|------------------------|------|----------------|
+
+| NS cấp tỉnh     | NS cấp huyện                                                           |                        |                 |              |                        |                 |              |                        |                   |               |                        |                   |                |                        |      |                |
+
+| Dự toán QH giao | Số thực hiện                                                           | Tỷ lệ % so với dự toán | Dự toán QH giao | Số thực hiện | Tỷ lệ % so với dự toán | Dự toán QH giao | Số thực hiện | Tỷ lệ % so với dự toán | Dự toán HĐND giao | Số thực hiện  | Tỷ lệ % so với dự toán | Dự toán HĐND giao | Số thực hiện   | Tỷ lệ % so với dự toán |      |                |
+
+| (1)             | (2)                                                                    | (3)                    | (4)             | (5)=(4)/(3)  | (6)                    | (7)             | (8)          | (9)                    | (10)              | (11)=(10)/(9) | (12)                   | (13)              | (14)=(13)/(12) | (15)                   | (16) | (17)=(16)/(15) |
+
+| A               | CHI NSNN                                                               |                        |                 |              |                        |                 |              |                        |                   |               |                        |                   |                |                        |      |                |
+
+| 1               | Chi đầu tư phát triển                                                  |                        |                 |              |                        |                 |              |                        |                   |               |                        |                   |                |                        |      |                |
+
+| 2               | Chi dự trữ quốc gia                                                    |                        |                 |              |                        |                 |              |                        |                   |               |                        |                   |                |                        |      |                |
+
+| 3               | Chi trả nợ lãi                                                         |                        |                 |              |                        |                 |              |                        |                   |               |                        |                   |                |                        |      |                |
+
+| 4               | Chi viện trợ                                                           |                        |                 |              |                        |                 |              |                        |                   |               |                        |                   |                |                        |      |                |
+
+| 5               | Chi thường xuyên (bao gồm chi cải cách tiền lương, tinh giản biên chế) |                        |                 |              |                        |                 |              |                        |                   |               |                        |                   |                |                        |      |                |
+
+|                 | Trong đó:                                                              |                        |                 |              |                        |                 |              |                        |                   |               |                        |                   |                |                        |      |                |
+
+| -               | Chi giáo dục đào tạo và dạy nghề                                       |                        |                 |              |                        |                 |              |                        |                   |               |                        |                   |                |                        |      |                |
+
+| -               | Chi khoa học và công nghệ                                              |                        |                 |              |                        |                 |              |                        |                   |               |                        |                   |                |                        |      |                |
+
+| 6               | Chi bổ sung quỹ dự trữ tài chính                                       |                        |                 |              |                        |                 |              |                        |                   |               |                        |                   |                |                        |      |                |
+
+| 7               | Dự phòng NSNN                                                          |                        |                 |              |                        |                 |              |                        |                   |               |                        |                   |                |                        |      |                |
+
+| B               | CHI TRẢ NỢ GỐC                                                         |                        |                 |              |                        |                 |              |                        |                   |               |                        |                   |                |                        |      |                |
+
+| C               | CHI CHUYỂN GIAO NSNN                                                   |                        |                 |              |                        |                 |              |                        |                   |               |                        |                   |                |                        |      |                |
+
+| Đ               | CHI CHUYỂN NGUỒN                                                       |                        |                 |              |                        |                 |              |                        |                   |               |                        |                   |                |                        |      |                |
+
+STT
+
+CHỈ TIÊU
+
+NSNN
+
+NSTW
+
+NSĐP
+
+Trong đó:
+
+NS cấp tỉnh
+
+NS cấp huyện
+
+Dự toán QH giao
+
+Số thực hiện
+
+Tỷ lệ % so với dự toán
+
+Dự toán QH giao
+
+Số thực hiện
+
+Tỷ lệ % so với dự toán
+
+Dự toán QH giao
+
+Số thực hiện
+
+Tỷ lệ % so với dự toán
+
+Dự toán HĐND giao
+
+Số thực hiện
+
+Tỷ lệ % so với dự toán
+
+Dự toán HĐND giao
+
+Số thực hiện
+
+Tỷ lệ % so với dự toán
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)=(4)/(3)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)=(10)/(9)
+
+(12)
+
+(13)
+
+(14)=(13)/(12)
+
+(15)
+
+(16)
+
+(17)=(16)/(15)
+
+A
+
+CHI NSNN
+
+1
+
+Chi đầu tư phát triển
+
+2
+
+Chi dự trữ quốc gia
+
+3
+
+Chi trả nợ lãi
+
+4
+
+Chi viện trợ
+
+5
+
+Chi thường xuyên (bao gồm chi cải cách tiền lương, tinh giản biên chế)
+
+Trong đó:
+
+-
+
+Chi giáo dục đào tạo và dạy nghề
+
+-
+
+Chi khoa học và công nghệ
+
+6
+
+Chi bổ sung quỹ dự trữ tài chính
+
+7
+
+Dự phòng NSNN
+
+B
+
+CHI TRẢ NỢ GỐC
+
+C
+
+CHI CHUYỂN GIAO NSNN
+
+Đ
+
+CHI CHUYỂN NGUỒN
+
+Ghi chú:
+
+1. Tại cấp trung ương: KBNN báo cáo từ cột (3) đến cột (11),
+
+2. Tại cấp tỉnh: KBNN cấp tỉnh báo cáo tại các cột (9), (10), (11), (12), (13), (14),
+
+3. Tại cấp huyện: KBNN cấp huyện báo cáo tại các cột (9), (10), (11), (15), (16), (17).
+
+Mẫu số 05
+
+| KHO BẠC NHÀ NƯỚC ……..  |  |
+
+|------------------------|--|
+
+KHO BẠC NHÀ NƯỚC …….. --------
+
+BÁO CÁO SỐ LIỆU CHI ĐẦU TƯ XÂY DỰNG CƠ BẢN ĐẾN NGÀY ……………
+
+Đơn vị: Tỷ đồng
+
+| STT                            | Nội dung                                                                                              | Dự toán/Kế hoạch vốn Chính phủ giao năm... | Kế hoạch vốn KBNN nhận | Lũy kế vốn đã thanh toán từ đầu năm đến thời điểm báo cáo | So sánh số thực hiện so với dự toán/kế hoạch (%) |                                     |                                             |                                     |        |        |        |
+
+|--------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------|------------------------|-----------------------------------------------------------|--------------------------------------------------|-------------------------------------|---------------------------------------------|-------------------------------------|--------|--------|--------|
+
+| Kế hoạch vốn được phép kéo dài | Kế hoạch giao trong năm                                                                               |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| Tổng số                        | Kế hoạch vốn được phép kéo dài                                                                        | Kế hoạch vốn giao trong năm                | Tổng số                | Kế hoạch vốn được phép kéo dài                            | Kế hoạch vốn giao trong năm                      | Tỷ lệ so với kế hoạch vốn KBNN nhận | Tỷ lệ so với số kế hoạch vốn Chính Phủ giao | Tỷ lệ so với kế hoạch vốn KBNN nhận |        |        |        |
+
+| 1                              | 2                                                                                                     | 3                                          | 4                      | 5                                                         | 6                                                | 7                                   | 8                                           | 9                                   | 10=8/5 | 11=9/3 | 12=9/6 |
+
+|                                | CHI ĐẦU TƯ XDCB (A+B)                                                                                 |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| A                              | VỐN DO BỘ, NGÀNH QUẢN LÝ                                                                              |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+|                                | BỘ ...                                                                                                |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 1                              | Vốn NSNN                                                                                              |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 1.1                            | Vốn đầu tư theo ngành, lĩnh vực                                                                       |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+|                                | Vốn trong nước                                                                                        |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+|                                | Vốn ngoài nước                                                                                        |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 1.2                            | Vốn đầu tư theo các CTMT                                                                              |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 1.3                            | Vốn đầu tư từ nguồn thu tiền SD đất                                                                   |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 2                              | Vốn trái phiếu Chính phủ                                                                              |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 3                              | Vốn công trái Quốc gia                                                                                |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 4                              | Vốn bổ sung ngoài kế hoạch được giao (nếu có)                                                         |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 5                              | Vốn NSNN khác (nếu có)                                                                                |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| B                              | VỐN DO ĐỊA PHƯƠNG QUẢN LÝ                                                                             |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| *                              | TỈNH....                                                                                              |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+|                                | Vốn trong nước                                                                                        |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+|                                | Vốn ngoài nước                                                                                        |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 1                              | Vốn đầu tư từ ngân sách địa phương                                                                    |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 1.1                            | Vốn đầu tư trong cân đối NSĐP (bao gồm cả vốn đầu tư từ nguồn thu tiền sử dụng đất, xổ số kiến thiết) |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| (1)                            | Cấp tỉnh quản lý                                                                                      |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| (2)                            | Cấp huyện quản lý                                                                                     |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| (3)                            | Cấp xã quản lý                                                                                        |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 1.2                            | Vốn đầu tư từ nguồn bội chi NSĐP                                                                      |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 2                              | Nguồn vốn NSTW hỗ trợ địa phương                                                                      |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 2.1                            | Vốn Chương trình mục tiêu quốc gia                                                                    |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 2.2                            | Vốn đầu tư theo các chương trình mục tiêu                                                             |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 2.3                            | Vốn trái phiếu Chính phủ                                                                              |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 2.4                            | Vốn công trái Quốc gia                                                                                |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 2.5                            | Vốn nước ngoài                                                                                        |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+| 2.6                            | Vốn bổ sung ngoài KH được giao (nếu có)                                                               |                                            |                        |                                                           |                                                  |                                     |                                             |                                     |        |        |        |
+
+STT
+
+Nội dung
+
+Dự toán/Kế hoạch vốn Chính phủ giao năm...
+
+Kế hoạch vốn KBNN nhận
+
+Lũy kế vốn đã thanh toán từ đầu năm đến thời điểm báo cáo
+
+So sánh số thực hiện so với dự toán/kế hoạch (%)
+
+Kế hoạch vốn được phép kéo dài
+
+Kế hoạch giao trong năm
+
+Tổng số
+
+Kế hoạch vốn được phép kéo dài
+
+Kế hoạch vốn giao trong năm
+
+Tổng số
+
+Kế hoạch vốn được phép kéo dài
+
+Kế hoạch vốn giao trong năm
+
+Tỷ lệ so với kế hoạch vốn KBNN nhận
+
+Tỷ lệ so với số kế hoạch vốn Chính Phủ giao
+
+Tỷ lệ so với kế hoạch vốn KBNN nhận
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10=8/5
+
+11=9/3
+
+12=9/6
+
+CHI ĐẦU TƯ XDCB (A+B)
+
+A
+
+VỐN DO BỘ, NGÀNH QUẢN LÝ
+
+BỘ ...
+
+1
+
+Vốn NSNN
+
+1.1
+
+Vốn đầu tư theo ngành, lĩnh vực
+
+Vốn trong nước
+
+Vốn ngoài nước
+
+1.2
+
+Vốn đầu tư theo các CTMT
+
+1.3
+
+Vốn đầu tư từ nguồn thu tiền SD đất
+
+2
+
+Vốn trái phiếu Chính phủ
+
+3
+
+Vốn công trái Quốc gia
+
+4
+
+Vốn bổ sung ngoài kế hoạch được giao (nếu có)
+
+5
+
+Vốn NSNN khác (nếu có)
+
+B
+
+VỐN DO ĐỊA PHƯƠNG QUẢN LÝ
+
+*
+
+TỈNH....
+
+Vốn trong nước
+
+Vốn ngoài nước
+
+1
+
+Vốn đầu tư từ ngân sách địa phương
+
+1.1
+
+Vốn đầu tư trong cân đối NSĐP (bao gồm cả vốn đầu tư từ nguồn thu tiền sử dụng đất, xổ số kiến thiết)
+
+(1)
+
+Cấp tỉnh quản lý
+
+(2)
+
+Cấp huyện quản lý
+
+(3)
+
+Cấp xã quản lý
+
+1.2
+
+Vốn đầu tư từ nguồn bội chi NSĐP
+
+2
+
+Nguồn vốn NSTW hỗ trợ địa phương
+
+2.1
+
+Vốn Chương trình mục tiêu quốc gia
+
+2.2
+
+Vốn đầu tư theo các chương trình mục tiêu
+
+2.3
+
+Vốn trái phiếu Chính phủ
+
+2.4
+
+Vốn công trái Quốc gia
+
+2.5
+
+Vốn nước ngoài
+
+2.6
+
+Vốn bổ sung ngoài KH được giao (nếu có)
+
+Ghi chú: - Số liệu thanh toán vốn nước ngoài là số vốn KBNN xác nhận, thanh toán.
+
+- Vốn NSTW bổ sung ngoài kế hoạch được giao (nếu có): là nguồn vốn NSTW bổ sung cho các Bộ, ngành và địa phương từ các nguồn vượt thu, dự phòng NSTW,...
