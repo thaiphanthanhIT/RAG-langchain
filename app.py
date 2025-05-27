@@ -1,6 +1,9 @@
 import streamlit as st
 import logging
 from typing import TypedDict, Optional, List, Tuple
+from config import set_environment_variables
+
+set_environment_variables("evaluators")
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")

@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 
 def validate_path(path: str) -> bool:
     if not os.path.exists(path):
-        logger.error(f"❌ Thư mục không tồn tại: {path}")
+        logger.error(f"Thư mục không tồn tại: {path}")
         return False
     return True
 
@@ -24,7 +24,7 @@ def process_text_files(text_path: str):
     if not validate_path(text_path):
         return []
 
-    logger.info(f"📄 Đang xử lý các file văn bản trong: {text_path}")
+    logger.info(f"Đang xử lý các file văn bản trong: {text_path}")
     loader = DirectoryLoader(
         text_path,
         glob="*.txt",
@@ -33,30 +33,31 @@ def process_text_files(text_path: str):
     )
     documents = loader.load()
     if not documents:
-        logger.warning("⚠ Không tìm thấy file văn bản nào.")
+        logger.warning("Không tìm thấy file văn bản nào.")
         return []
 
-    splitter = RecursiveCharacterTextSplitter(chunk_size=4096, chunk_overlap=1024)
-    chunks = splitter.split_documents(documents)
-    logger.info(f"✅ Đã chia nhỏ thành {len(chunks)} đoạn văn bản.")
-    return chunks
+    # splitter = RecursiveCharacterTextSplitter(chunk_size=4096, chunk_overlap=1024)
+    # chunks = splitter.split_documents(documents)
+    # logger.info(f"Đã chia nhỏ thành {len(chunks)} đoạn văn bản.")
+    return documents, len(documents)
 
 def create_db_from_text(text_path: str = TEXT_DATA_PATH, db_path: str = VECTOR_DB_TEXT_PATH):
     try:
-        logger.info("🚀 Bắt đầu tạo vector DB từ văn bản...")
-        chunks = process_text_files(text_path)
+        logger.info("Bắt đầu tạo vector DB từ văn bản...")
+        chunks, num_doc = process_text_files(text_path)
+        print(num_doc)
         if not chunks:
-            logger.warning("⚠ Không có dữ liệu để tạo vector DB.")
+            logger.warning("Không có dữ liệu để tạo vector DB.")
             return None
 
         embedding_model = GPT4AllEmbeddings(model_file=EMBEDDING_MODEL_FILE)
         db = FAISS.from_documents(chunks, embedding_model)
         os.makedirs(db_path, exist_ok=True)
         db.save_local(db_path)
-        logger.info(f"[✔] Vector DB đã lưu tại: {db_path}")
+        logger.info(f"Vector DB đã lưu tại: {db_path}")
         return db
     except Exception as e:
-        logger.error(f"❌ Lỗi khi tạo vector DB: {e}")
+        logger.error(f"Lỗi khi tạo vector DB: {e}")
         raise
 
 # Thực thi trực tiếp

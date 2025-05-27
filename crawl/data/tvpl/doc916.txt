@@ -1,0 +1,1123 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 1529/QĐ-BTC | Hà Nội, ngày 09 tháng 8 năm 2021                                |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 1529/QĐ-BTC
+
+Hà Nội, ngày 09 tháng 8 năm 2021
+
+QUYẾT ĐỊNH
+
+BAN HÀNH QUY CHẾ ĐÁNH GIÁ ĐỐI VỚI KẾ TOÁN VIÊN CHUYÊN NGHIỆP TIÊU CHUẨN ASEAN
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Thỏa thuận thừa nhận lẫn nhau về dịch vụ kế toán, kiểm toán trong ASEAN ngày 13/11/2014;
+
+Căn cứ Luật Kế toán số 88/2015/QH13 ngày 20/11/2015;
+
+Căn cứ Luật Kiểm toán độc lập số 67/2011/QH12 ngày 29/3/2011;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Cục trưởng Cục Quản lý, giám sát kế toán, kiểm toán.
+
+QUYẾT ĐỊNH
+
+Điều 1. Ban hành kèm theo Quyết định này Quy chế đánh giá đối với kế toán viên chuyên nghiệp tiêu chuẩn ASEAN.
+
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+
+Điều 3. Cục trưởng Cục Quản lý, giám sát kế toán, kiểm toán, Vụ trưởng Vụ hợp tác quốc tế, Chủ tịch Ủy ban giám sát của Việt Nam thực hiện Thỏa thuận thừa nhận lẫn nhau về dịch vụ kế toán, kiểm toán trong ASEAN và các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+| Nơi nhận: - Như điều 3; - Thủ tướng Chính phủ (để b/c); - Văn phòng Quốc hội; - Văn phòng Tổng bí thư; - Văn phòng Chủ tịch nước; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - UBND tỉnh, thành phố trực thuộc Trung ương; - Hội kiểm toán viên hành nghề Việt Nam; - Hội kế toán và kiểm toán Việt Nam; - Các doanh nghiệp kế toán, kiểm toán; - Công báo; - Cục Kiểm tra văn bản (Bộ Tư pháp); - Các đơn vị thuộc Bộ Tài chính; - Website Bộ Tài chính; - Lưu: VT, Cục QLKT (50). | BỘ TRƯỞNG Hồ Đức Phớc |
+
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+
+Nơi nhận: - Như điều 3; - Thủ tướng Chính phủ (để b/c); - Văn phòng Quốc hội; - Văn phòng Tổng bí thư; - Văn phòng Chủ tịch nước; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - UBND tỉnh, thành phố trực thuộc Trung ương; - Hội kiểm toán viên hành nghề Việt Nam; - Hội kế toán và kiểm toán Việt Nam; - Các doanh nghiệp kế toán, kiểm toán; - Công báo; - Cục Kiểm tra văn bản (Bộ Tư pháp); - Các đơn vị thuộc Bộ Tài chính; - Website Bộ Tài chính; - Lưu: VT, Cục QLKT (50).
+
+BỘ TRƯỞNG Hồ Đức Phớc
+
+QUY CHẾ
+
+ĐÁNH GIÁ ĐỐI VỚI KẾ TOÁN VIÊN CHUYÊN NGHIỆP TIÊU CHUẨN ASEAN (Kèm theo Quyết định số 1529/QĐ-BTC ngày 09/8/2021 của Bộ Tài chính)
+
+Chương I
+
+GIỚI THIỆU VỀ QUY CHẾ
+
+Điều 1. Giới thiệu về Thỏa thuận thừa nhận lẫn nhau về dịch vụ kế toán, kiểm toán trong ASEAN
+
+1. Chính phủ của các nước Brunei Darussalam, Vương quốc Campuchia, Cộng hòa Indonesia, Cộng hòa dân chủ nhân dân Lào, Malaysia, Liên bang Myanmar, Cộng hòa Philippines, Cộng hòa Singapore, Vương quốc Thái Lan và Cộng hòa xã hội chủ nghĩa Việt Nam, là các quốc gia thành viên của Hiệp hội các Quốc gia Đông Nam Á (sau đây được gọi chung là "ASEAN" hoặc "Các nước thành viên ASEAN" hoặc "Nước thành viên ASEAN") cùng nhất trí về Thỏa thuận Thừa nhận lẫn nhau trong ASEAN về dịch vụ kế toán, kiểm toán (sau đây được gọi tắt là "Thỏa thuận") nhằm:
+
+a) Tạo thuận lợi cho việc di chuyển của các chuyên gia cung cấp dịch vụ kế toán, kiểm toán giữa các nước thành viên ASEAN;
+
+b) Tăng cường các cơ chế hiện hành của từng nước thành viên ASEAN trong việc cung cấp dịch vụ kế toán, kiểm toán; và
+
+c) Trao đổi thông tin để xúc tiến việc chấp thuận các thông lệ tốt nhất về các chuẩn mực và trình độ chuyên môn về kế toán, kiểm toán.
+
+2. Văn bản Thỏa thuận thừa nhận lẫn nhau về dịch vụ kế toán, kiểm toán trong ASEAN được ký kết vào ngày 13/11/2014 được đăng tải trên trang web của ASEAN tại địa chỉ: http://www.asean.org/communities/asean-economic-community/category/services.
+
+Điều 2. Quy chế đánh giá đối với kế toán viên chuyên nghiệp tiêu chuẩn ASEAN
+
+Quy chế đánh giá đối với kế toán viên chuyên nghiệp tiêu chuẩn ASEAN được xây dựng dựa trên các cam kết của Việt Nam tại thỏa thuận thừa nhận lẫn nhau về dịch vụ kế toán, kiểm toán trong ASEAN.
+
+Điều 3. Kế toán viên chuyên nghiệp tiêu chuẩn ASEAN
+
+1. Theo quy định tại Thỏa thuận: một người có quốc tịch của một nước thành viên ASEAN có đủ tiêu chuẩn, trình độ chuyên môn và đáp ứng các yêu cầu quy định của Quy chế này có thể đăng ký để được ghi tên vào Đăng bạ Kế toán viên chuyên nghiệp tiêu chuẩn ASEAN (ACPAR) và nhận danh hiệu ASEAN CPA.
+
+2. Cơ quan nhà nước có thẩm quyền quản lý nghề nghiệp tại mỗi quốc gia thành viên ASEAN (ở Việt Nam là Bộ Tài chính) sẽ ủy quyền cho Ủy ban Giám sát của nước mình (ở Việt Nam là Ủy ban Giám sát của Việt Nam) tiếp nhận hồ sơ, thực hiện quy trình đăng ký của các ASEAN CPA để trình Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN xem xét phê duyệt và duy trì Đăng bạ ASEAN CPA của quốc gia mình theo quy định của Thỏa thuận thừa nhận lẫn nhau về dịch vụ kế toán, kiểm toán trong ASEAN.
+
+Điều 4. Kế toán viên chuyên nghiệp nước ngoài có đăng ký (RFPA)
+
+1. Một ASEAN CPA có nguyện vọng cung cấp dịch vụ kế toán, kiểm toán tại một quốc gia thành viên ASEAN khác phải đủ tư cách để đăng ký với Cơ quan nhà nước có thẩm quyền quản lý nghề nghiệp của nước sở tại để trở thành Kế toán viên chuyên nghiệp nước ngoài có đăng ký.
+
+2. Một Kế toán viên chuyên nghiệp nước ngoài có đăng ký sẽ chỉ cung cấp dịch vụ kế toán, kiểm toán trong phạm vi năng lực của mình khi được công nhận và chấp thuận bởi Cơ quan nhà nước có thẩm quyền quản lý nghề nghiệp của nước sở tại là thành viên ASEAN và chỉ thực hiện các công việc theo các quy định cụ thể đã đăng ký. Đồng thời Kế toán viên chuyên nghiệp nước ngoài có đăng ký đó phải tuân thủ:
+
+a) Chuẩn mực đạo đức nghề nghiệp phù hợp với các chính sách về đạo đức được thiết lập và ban hành bởi nước xuất xứ nơi Kế toán viên chuyên nghiệp nước ngoài có đăng ký đăng ký là ASEAN CPA;
+
+b) Pháp luật và quy định về hành nghề của nước sở tại là thành viên ASEAN nơi mà người đăng ký được phép làm việc như một Kế toán viên chuyên nghiệp nước ngoài có đăng ký;
+
+c) Làm việc trong sự hợp tác với các kế toán viên, kiểm toán viên của nước sở tại là thành viên ASEAN tuân theo pháp luật và các quy định của nước sở tại.
+
+Điều 5. Mục tiêu và hoạt động của Quy chế đánh giá
+
+1. Quy chế này đưa ra khuôn khổ để đánh giá Kế toán viên chuyên nghiệp để được ghi tên vào ACPAR bởi Ủy ban giám sát của Việt Nam.
+
+2. Quy chế này cần phải được Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN xem xét và công nhận trước khi Ủy ban giám sát của Việt Nam được ủy quyền tiếp nhận hồ sơ, thực hiện quy trình đăng ký của các ASEAN CPA để trình Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN phê duyệt theo quy định của Thỏa thuận.
+
+Chương II
+
+ỦY BAN GIÁM SÁT CỦA VIỆT NAM THỰC HIỆN THỎA THUẬN THỪA NHẬN LẪN NHAU VỀ DỊCH VỤ KẾ TOÁN, KIỂM TOÁN TRONG ASEAN, CƠ CHẾ CÔNG NHẬN
+
+Điều 6. Tổ chức nghề nghiệp, cơ quan nhà nước có thẩm quyền quản lý nghề nghiệp
+
+1. Tổ chức nghề nghiệp và cơ quan nhà nước có thẩm quyền quản lý nghề nghiệp kế toán, kiểm toán tại Việt Nam
+
+a) Bộ Tài chính là cơ quan nhà nước có thẩm quyền quản lý nghề nghiệp kế toán, kiểm toán tại Việt Nam. Bộ Tài chính thực hiện việc cấp Giấy chứng nhận đăng ký hành nghề kế toán, Giấy chứng nhận đăng ký hành nghề kiểm toán, Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán, Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
+
+b) Hội kiểm toán viên hành nghề Việt Nam (VACPA) và Hội kế toán và kiểm toán Việt Nam (VAA) là hai tổ chức nghề nghiệp về kế toán, kiểm toán của Việt Nam.
+
+2. Tổ chức nghề nghiệp và cơ quan nhà nước có thẩm quyền quản lý nghề nghiệp kế toán, kiểm toán tại Việt Nam sẽ chịu trách nhiệm thực hiện những công việc theo quy định tại Điều 5 của Thỏa thuận.
+
+Điều 7. Ủy ban giám sát của Việt Nam thực hiện Thỏa thuận thừa nhận lẫn nhau về dịch vụ kế toán, kiểm toán trong ASEAN
+
+1. Ủy ban giám sát của Việt Nam thực hiện Thỏa thuận thừa nhận lẫn nhau về dịch vụ kế toán, kiểm toán trong ASEAN (Sau đây gọi tắt là Ủy ban giám sát của Việt Nam) do Bộ Tài chính quyết định thành lập. Ủy ban giám sát của Việt Nam thực hiện các nhiệm vụ quy định tại Điều 6 của Thỏa thuận.
+
+2. Bộ trưởng Bộ Tài chính ban hành Quyết định thành lập Ủy ban giám sát của Việt Nam. Ủy ban giám sát của Việt Nam bao gồm: Chủ tịch, Phó Chủ tịch, Thư ký và các thành viên. Thành viên Ủy ban giám sát của Việt Nam hiện hành được thể hiện tại Phụ lục số 1.
+
+3. Địa chỉ liên hệ:
+
+Ủy ban Giám sát của Việt Nam
+
+Bộ Tài chính Việt Nam
+
+28 Trần Hưng Đạo, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+
+Điện thoại: + 84 024 22202828
+
+Fax: + 84 024 22208020
+
+Website: http://www.mof.gov.vn
+
+Email: uybangiamsataseancpa@mof.gov.vn
+
+4. Chức năng, nhiệm vụ của Ủy ban giám sát của Việt Nam
+
+4.1. Triển khai và duy trì quá trình đệ trình các hồ sơ đăng ký của các ứng viên tại Việt Nam đủ điều kiện để được công nhận là ASEAN CPA và được ghi tên vào Đăng bạ Kế toán viên chuyên nghiệp tiêu chuẩn ASEAN, Ủy ban Giám sát của Việt Nam sẽ tuân thủ các tiêu chí và các thủ tục theo quy định của Thỏa thuận.
+
+4.2. Ủy ban giám sát của Việt Nam phải thực hiện theo quy định của Thỏa thuận để đảm bảo các ứng viên của Việt Nam được ghi tên vào Đăng bạ Kế toán viên chuyên nghiệp tiêu chuẩn ASEAN:
+
+a) Tuân thủ đầy đủ các yêu cầu của Thỏa thuận;
+
+b) Cung cấp bằng chứng khi nộp hồ sơ đăng ký công nhận là ASEAN CPA hoặc hồ sơ gia hạn và bằng chứng về việc tuân thủ đầy đủ chương trình cập nhật kiến thức (CPD) được quy định tại Quy chế này.
+
+4.3. Ủy ban Giám sát của Việt Nam thu hồi chức danh ASEAN CPA và hủy bỏ khỏi Đăng bạ ASEAN CPA khi các ASEAN CPA:
+
+a) Vi phạm các quy định tại Thỏa thuận khi là Kế toán viên chuyên nghiệp nước ngoài có đăng ký ở nước sở tại; hoặc
+
+b) Không tuân thủ đầy đủ chương trình cập nhật kiến thức (CPD); hoặc
+
+c) Vi phạm nghiêm trọng các quy định về chuyên môn và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán của Việt Nam hoặc nước sở tại dẫn đến việc hủy đăng ký hoặc đình chỉ hành nghề hoặc thu hồi giấy chứng nhận/giấy phép.
+
+Điều 8. Cấp phép để được làm việc với tư cách kế toán viên chuyên nghiệp nước ngoài có đăng ký (RFPA)
+
+1. Một ASEAN CPA đến từ một nước thành viên ASEAN tham gia Thỏa thuận phải đăng ký với Bộ Tài chính Việt Nam để được làm việc với tư cách là Kế toán viên chuyên nghiệp nước ngoài có đăng ký tại Việt Nam. Sau khi được chấp thuận, Kế toán viên chuyên nghiệp nước ngoài có đăng ký không được hành nghề độc lập mà phải làm việc trong doanh nghiệp dịch vụ kế toán; doanh nghiệp kiểm toán; chi nhánh doanh nghiệp kế toán, kiểm toán nước ngoài tại Việt Nam hoặc các doanh nghiệp, tổ chức khác có chấp nhận RFPA; không được ký báo cáo kiểm toán, báo cáo về dịch vụ đảm bảo khác và các dịch vụ liên quan (dịch vụ phi đảm bảo) và các dịch vụ kế toán đòi hỏi phải có Giấy phép hành nghề trừ khi người đó đã được cấp Giấy phép hành nghề bởi Bộ Tài chính Việt Nam theo quy định của Luật Kế toán hoặc Luật Kiểm toán độc lập.
+
+2. Bộ Tài chính Việt Nam sẽ giám sát và đánh giá hoạt động thực tiễn chuyên môn của Kế toán viên chuyên nghiệp nước ngoài có đăng ký để đảm bảo tuân thủ Thỏa thuận. Bộ Tài chính Việt Nam có thể ban hành những quy định mà không đi ngược lại hoặc làm thay đổi bất cứ điều khoản nào của Thỏa thuận nhằm mục tiêu duy trì các tiêu chuẩn cao về hành nghề và đạo đức trong lĩnh vực kế toán, kiểm toán.
+
+Điều 9. Cơ chế công nhận
+
+1. Các yêu cầu để được đăng ký công nhận là kế toán viên chuyên nghiệp tiêu chuẩn ASEAN
+
+1.1. Ứng viên đáp ứng được tất cả các tiêu chuẩn sau đây có thể đăng ký công nhận là ASEAN CPA:
+
+a) Có chứng chỉ kiểm toán viên Việt Nam hoặc chứng chỉ kế toán viên Việt Nam;
+
+b) Có thời gian công tác thực tế về kế toán, kiểm toán, tài chính ít nhất ba (3) năm trong giai đoạn năm (5) năm liên tục kể từ khi được cấp bằng tốt nghiệp đại học tới thời điểm nộp đơn đăng ký công nhận là ASEAN CPA quy định tại Khoản 2 Điều 9 của Quy chế này;
+
+c) Tuân thủ và đảm bảo chương trình cập nhật kiến thức (CPD) quy định tại Khoản 3 Điều 9 của Quy chế này;
+
+d) Không vi phạm nghiêm trọng các quy định về chuyên môn và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán của Việt Nam và quốc tế.
+
+1.2. Đơn đăng ký công nhận là ASEAN CPA được lập theo mẫu quy định tại Phụ lục 3/ASEAN CPA ban hành kèm theo Quy chế này.
+
+2. Yêu cầu về thời gian công tác thực tế
+
+2.1. Để chứng minh về thời gian thực tế làm kế toán, kiểm toán, tài chính quy định tại điểm b đoạn 1.1 khoản 1 Điều 9 ứng viên phải có Giấy xác nhận thời gian công tác thực tế do người đại diện theo pháp luật hoặc người được ủy quyền của người đại diện theo pháp luật của cơ quan, đơn vị nơi ứng viên đã thực tế làm việc ký xác nhận (Phụ lục 4/ASEAN CPA).
+
+2.2. Trường hợp cần làm rõ các thông tin trong hồ sơ đăng ký công nhận là ASEAN CPA, Ủy ban giám sát Việt Nam có quyền yêu cầu ứng viên giải trình hoặc cung cấp tài liệu (sổ bảo hiểm xã hội, tài liệu khác) phục vụ cho việc kiểm tra, đối chiếu, xác minh quá trình làm việc và các thông tin khác trong hồ sơ đăng ký công nhận là ASEAN CPA.
+
+3. Yêu cầu về giờ cập nhật kiến thức (CPD)
+
+3.1. Mục tiêu của chương trình cập nhật kiến thức là tăng cường nhu cầu học tập lâu dài và cung cấp nền tảng kiến thức qua đó kế toán viên chuyên nghiệp có thể duy trì và nâng cao trình độ chuyên môn trong việc thực hiện công việc.
+
+3.2. Mỗi ứng viên khi nộp hồ sơ đăng ký công nhận là ASEAN CPA phải đảm bảo các quy định hiện hành về yêu cầu giờ cập nhật kiến thức như áp dụng đối với người đăng ký hành nghề kế toán, người đăng ký hành nghề kiểm toán tại Việt Nam.
+
+3.3. Chậm nhất là ngày 31/8 hàng năm, để duy trì chức danh ASEAN CPA thì mỗi ASEAN CPA phải đảm bảo quy định hiện hành về giờ cập nhật kiến thức tương tự như áp dụng đối với kế toán viên hành nghề, kiểm toán viên hành nghề tại Việt Nam và nộp báo cáo duy trì chức danh ASEAN CPA hàng năm cho Bộ Tài chính theo mẫu quy định tại Phụ lục số 7/ASEAN CPA ban hành kèm theo Quy chế này.
+
+3.4. Giấy chứng nhận chức danh ASEAN CPA sẽ không còn hiệu lực nếu một trong các quy định sau đây không thỏa mãn:
+
+a) ASEAN CPA không đảm bảo quy định hiện hành về giờ cập nhật kiến thức áp dụng đối với kế toán viên hành nghề, kiểm toán viên hành nghề tại Việt Nam; hoặc
+
+b) ASEAN CPA không nộp báo cáo duy trì chức danh ASEAN CPA hàng năm cho Bộ Tài chính theo mẫu quy định tại Phụ lục số 7/ASEAN CPA ban hành kèm theo Quy chế này theo quy định tại điểm 3.3 khoản 3 Điều 9 Quy chế này.
+
+3.5. Ứng viên khi nộp hồ sơ để được công nhận là ASEAN CPA và ASEAN CPA khi nộp báo cáo duy trì chức danh ASEAN CPA hàng năm phải cung cấp bằng chứng về việc tuân thủ các quy định về cập nhật kiến thức.
+
+4. Yêu cầu về chuyên môn và đạo đức nghề nghiệp
+
+4.1. Tất cả các ứng viên đăng ký công nhận là ASEAN CPA và các ASEAN CPA đều phải tuân thủ chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán của Việt Nam và quốc tế; tuân thủ các quy định về đạo đức, hành vi do Việt Nam và các nước khác nơi ASEAN CPA hành nghề đã lập ra và có hiệu lực.
+
+4.2. ASEAN CPA sẽ phải chịu trách nhiệm cá nhân đối với các hoạt động trong quá trình hành nghề kế toán, kiểm toán. Trong quá trình hành nghề kế toán, kiểm toán, ứng viên không được vi phạm nghiêm trọng các quy định về chuyên môn và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán ở Việt Nam hoặc ở nước khác.
+
+5. Lưu trữ hồ sơ để duy trì giám sát
+
+5.1. Nhằm hỗ trợ quá trình giám sát, xác minh quy trình hoạt động hành nghề của các nước thành viên ASEAN và trao đổi thông tin, Ủy ban giám sát của Việt Nam sẽ lưu một bộ hồ sơ đầy đủ sau khi ứng viên đã trở thành ASEAN CPA và có tên trong Đăng bạ Kế toán viên chuyên nghiệp tiêu chuẩn ASEAN.
+
+5.2. Ủy ban Giám sát của Việt Nam có thể lựa chọn các ASEAN CPA có tên trong Đăng bạ Kế toán viên chuyên nghiệp tiêu chuẩn ASEAN để kiểm tra việc:
+
+a) Tuân thủ yêu cầu về cập nhật kiến thức;
+
+b) Tiếp tục đáp ứng các điều kiện của ASEAN CPA.
+
+Điều 10. Quy trình đăng ký
+
+1. Hướng dẫn nộp hồ sơ đăng ký công nhận là ASEAN CPA
+
+1.1. Giới thiệu chung
+
+Phần này hướng dẫn cụ thể các nội dung theo quy định tại điểm 4.2 và Phụ lục II của Thỏa thuận khi ứng viên nộp hồ sơ đăng ký công nhận là ASEAN CPA hoặc gia hạn công nhận là ASEAN CPA.
+
+1.2. Quy trình nộp hồ sơ
+
+a) Hồ sơ đăng ký được lập theo hướng dẫn quy định tại Thỏa thuận và mẫu tại Phụ lục của quy chế này và nộp cho Ủy ban giám sát của Việt Nam.
+
+b) Ủy ban giám sát của Việt Nam thay mặt Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN tiến hành tiếp nhận hồ sơ và thực hiện quy trình đăng ký theo quy định của Thỏa thuận.
+
+c) Ứng viên sẽ được thông báo bằng văn bản về kết quả chấp thuận của Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN.
+
+d) Giấy chứng nhận ASEAN CPA sẽ được ACPACC cấp cho ứng viên có đầy đủ và đảm bảo tiêu chuẩn, điều kiện theo quy định.
+
+e) Để tiếp tục được công nhận chức danh ASEAN CPA, ứng viên phải luôn đáp ứng điều kiện của ASEAN CPA, bao gồm cả điều kiện về cập nhật kiến thức quy định tại khoản 3 Điều 9 của Quy chế này.
+
+1.3. Hồ sơ đăng ký công nhận là ASEAN CPA gồm:
+
+a) Đơn đăng ký công nhận là kế toán viên chuyên nghiệp tiêu chuẩn ASEAN;
+
+b) Bản sao chứng chỉ kiểm toán viên Việt Nam hoặc bản sao chứng chỉ kế toán viên Việt Nam;
+
+c) Giấy xác nhận thời gian công tác thực tế về kế toán, kiểm toán, tài chính;
+
+d) Tài liệu chứng minh giờ cập nhật kiến thức;
+
+e) 2 ảnh màu cỡ 3x4cm được chụp trên nền trắng trong thời hạn không quá sáu (06) tháng tính đến ngày nộp hồ sơ đăng ký công nhận là ASEAN CPA.
+
+2. Đánh giá về chuyên môn:
+
+Ủy ban Giám sát của Việt Nam thay mặt Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN thực hiện quy trình đăng ký theo quy định của Thỏa thuận về việc đánh giá kinh nghiệm thực tế làm kế toán, kiểm toán, tài chính của ứng viên.
+
+Ủy ban Giám sát của Việt Nam phải đảm bảo rằng các tài liệu có liên quan đến việc đánh giá ứng viên để trở thành ASEAN CPA được cung cấp khi có yêu cầu của Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN.
+
+3. Phí đăng ký lần đầu, phí duy trì hàng năm
+
+Đối với những ứng viên được Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN chấp thuận cấp Giấy chứng nhận ASEAN CPA hoặc gia hạn giấy chứng nhận ASEAN CPA thì phải nộp phí đăng ký lần đầu hoặc phí duy trì hàng năm (phí gia hạn) (nếu có) khi có thông báo từ Ủy ban giám sát của Việt Nam.
+
+PHỤ LỤC SỐ 1/ASEAN CPA
+
+CÁC THÀNH VIÊN ỦY BAN GIÁM SÁT CỦA VIỆT NAM (Kèm theo Quyết định số 1529/QĐ-BTC ngày 09/8/2021 của Bộ Tài chính)
+
+| Số TT | Thành phần                                                         | Chức vụ      | Cơ quan công tác                      |
+
+|-------|--------------------------------------------------------------------|--------------|---------------------------------------|
+
+| 1     | Đại diện Lãnh đạo Cục quản lý, giám sát kế toán, kiểm toán         | Chủ tịch     | Bộ Tài chính Việt Nam                 |
+
+| 2     | Đại diện Lãnh đạo Phòng - Cục quản lý, giám sát kế toán, kiểm toán | Phó chủ tịch | Bộ Tài chính Việt Nam                 |
+
+| 3     | Đại diện của Cục quản lý, giám sát kế toán, kiểm toán              | Thư ký       | Bộ Tài chính Việt Nam                 |
+
+| 4     | Đại diện của Vụ Hợp tác quốc tế                                    | Thành viên   | Bộ Tài chính Việt Nam                 |
+
+| 5     | Đại diện của Cục quản lý, giám sát kế toán, kiểm toán              | Thành viên   | Bộ Tài chính Việt Nam                 |
+
+| 6     | Đại diện của Vụ Pháp chế                                           | Thành viên   | Bộ Tài chính Việt Nam                 |
+
+| 7     | Đại diện của VACPA                                                 | Thành viên   | Hội kiểm toán viên hành nghề Việt Nam |
+
+| 8     | Đại diện của VAA                                                   | Thành viên   | Hội kế toán và kiểm toán Việt Nam     |
+
+| 9     | Đại diện của Cục quản lý, giám sát kế toán, kiểm toán              | Thành viên   | Bộ Tài chính Việt Nam                 |
+
+Số TT
+
+Thành phần
+
+Chức vụ
+
+Cơ quan công tác
+
+1
+
+Đại diện Lãnh đạo Cục quản lý, giám sát kế toán, kiểm toán
+
+Chủ tịch
+
+Bộ Tài chính Việt Nam
+
+2
+
+Đại diện Lãnh đạo Phòng - Cục quản lý, giám sát kế toán, kiểm toán
+
+Phó chủ tịch
+
+Bộ Tài chính Việt Nam
+
+3
+
+Đại diện của Cục quản lý, giám sát kế toán, kiểm toán
+
+Thư ký
+
+Bộ Tài chính Việt Nam
+
+4
+
+Đại diện của Vụ Hợp tác quốc tế
+
+Thành viên
+
+Bộ Tài chính Việt Nam
+
+5
+
+Đại diện của Cục quản lý, giám sát kế toán, kiểm toán
+
+Thành viên
+
+Bộ Tài chính Việt Nam
+
+6
+
+Đại diện của Vụ Pháp chế
+
+Thành viên
+
+Bộ Tài chính Việt Nam
+
+7
+
+Đại diện của VACPA
+
+Thành viên
+
+Hội kiểm toán viên hành nghề Việt Nam
+
+8
+
+Đại diện của VAA
+
+Thành viên
+
+Hội kế toán và kiểm toán Việt Nam
+
+9
+
+Đại diện của Cục quản lý, giám sát kế toán, kiểm toán
+
+Thành viên
+
+Bộ Tài chính Việt Nam
+
+Địa chỉ liên lạc:
+
+Ủy ban Giám sát của Việt Nam
+
+Bộ Tài chính Việt Nam
+
+28 Trần Hưng Đạo, quận Hoàn Kiếm, Hà Nội, Việt Nam
+
+Điện thoại: + 84 024 22202828
+
+Fax: + 84 024 22208020
+
+Website: http://www.mof.gov.vn
+
+Email: uybangiamsataseancpa@mof.gov.vn
+
+PHỤ LỤC SỐ 2/ASEAN CPA
+
+TRÌNH TỰ XỬ LÝ HỒ SƠ (Kèm theo Quyết định số 1529/QĐ-BTC ngày 09/8/2021 của Bộ Tài chính)
+
+1. Mục tiêu
+
+Trình tự này quy định các nội dung được Ủy ban Giám sát Việt Nam thực hiện theo quy định của Thỏa thuận trong việc xem xét hồ sơ đăng ký của các ứng viên trình Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN công nhận là ASEAN CPA.
+
+2. Phạm vi áp dụng
+
+Áp dụng cho quá trình đăng ký và xem xét hồ sơ của các ứng viên đăng ký để được công nhận là ASEAN CPA.
+
+3. Tài liệu tham khảo
+
+Thỏa thuận thừa nhận lẫn nhau về dịch vụ kế toán, kiểm toán trong ASEAN.
+
+4. Trách nhiệm
+
+Trách nhiệm thực hiện, đảm bảo duy trì các nội dung này thuộc về Ủy ban Giám sát của Việt Nam, các thành viên thuộc Ủy ban Giám sát của Việt Nam và Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN.
+
+5. Sơ đồ cấp chứng nhận ASEAN CPA (Flow Chart)
+
+|     | Chi tiết                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Chịu trách nhiệm       |
+
+|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+
+| (1) | Kiểm tra hồ sơ Nhận hồ sơ và kiểm tra các giấy tờ từ Ứng viên dựa vào các tiêu chuẩn và thủ tục hướng dẫn để trở thành ASEAN CPA và đảm bảo rằng hồ sơ được hoàn chỉnh, đầy đủ: (i) Đơn đăng ký công nhận là ASEAN CPA; (ii) Bản sao chứng chỉ kiểm toán viên Việt Nam hoặc bản sao chứng chỉ kế toán viên Việt Nam; (iii) Giấy xác nhận thời gian công tác thực tế về kế toán, kiểm toán, tài chính; (iv) Tài liệu chứng minh giờ cập nhật kiến thức; (v) 2 ảnh màu cỡ 3x4cm. Nếu hồ sơ không đầy đủ, chuyển sang bước (2). Nếu hồ sơ đầy đủ, chuyển sang bước (3). | CB                     |
+
+| (2) | Hồ sơ chưa đầy đủ i) Thông báo cho ứng viên về việc hồ sơ chưa đầy đủ (ii) Bổ sung tài liệu để hoàn thiện hồ sơ, chuyển sang bước (3)                                                                                                                                                                                                                                                                                                                                                                                                                                | CB                     |
+
+| (3) | Ủy ban Giám sát (MC) của Việt Nam xem xét hồ sơ (i) Cán bộ tiếp nhận chuyển hồ sơ đăng ký cho MC. (ii) MC xem xét hồ sơ của ứng viên theo quy định của Thỏa thuận.                                                                                                                                                                                                                                                                                                                                                                                                   | CB MC của Việt Nam     |
+
+| (4) | Xem xét thông tin về chuyên môn MC của Việt Nam tiến hành xem xét thông tin của ứng viên về chuyên môn                                                                                                                                                                                                                                                                                                                                                                                                                                                               | MC của Việt Nam        |
+
+| (5) | Lập danh sách ứng viên MC Việt Nam lập danh sách ứng viên.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | MC của Việt Nam        |
+
+| (6) | MC của Việt Nam trình cho Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN MC của Việt Nam trình danh sách cho Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN để xem xét và phê duyệt                                                                                                                                                                                                                                                                                                                                                      | MC của Việt Nam        |
+
+| (7) | Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN chấp thuận Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN phê chuẩn, chấp thuận                                                                                                                                                                                                                                                                                                                                                                                                           | ASEAN CPACC            |
+
+| (8) | Cấp giấy chứng nhận Cấp giấy chứng nhận ASEAN CPA cho ứng viên đủ điều kiện. Ứng viên phải nộp phí đầy đủ theo thông báo của MC của Việt Nam (nếu có)                                                                                                                                                                                                                                                                                                                                                                                                                | ACPACC                 |
+
+| (9) | Thông báo cho ứng viên Trên cơ sở kết quả nhận được từ Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN, MC Việt Nam được ủy quyền thông báo tới ứng viên về việc ứng viên được cấp/không được cấp Giấy chứng nhận ASEAN CPA                                                                                                                                                                                                                                                                                                                             | ACPACC/MC của Việt Nam |
+
+Chi tiết
+
+Chịu trách nhiệm
+
+(1)
+
+Kiểm tra hồ sơ
+
+Nhận hồ sơ và kiểm tra các giấy tờ từ Ứng viên dựa vào các tiêu chuẩn và thủ tục hướng dẫn để trở thành ASEAN CPA và đảm bảo rằng hồ sơ được hoàn chỉnh, đầy đủ:
+
+(i) Đơn đăng ký công nhận là ASEAN CPA;
+
+(ii) Bản sao chứng chỉ kiểm toán viên Việt Nam hoặc bản sao chứng chỉ kế toán viên Việt Nam;
+
+(iii) Giấy xác nhận thời gian công tác thực tế về kế toán, kiểm toán, tài chính;
+
+(iv) Tài liệu chứng minh giờ cập nhật kiến thức;
+
+(v) 2 ảnh màu cỡ 3x4cm.
+
+Nếu hồ sơ không đầy đủ, chuyển sang bước (2).
+
+Nếu hồ sơ đầy đủ, chuyển sang bước (3).
+
+CB
+
+(2)
+
+Hồ sơ chưa đầy đủ
+
+i) Thông báo cho ứng viên về việc hồ sơ chưa đầy đủ
+
+(ii) Bổ sung tài liệu để hoàn thiện hồ sơ, chuyển sang bước (3)
+
+CB
+
+(3)
+
+Ủy ban Giám sát (MC) của Việt Nam xem xét hồ sơ
+
+(i) Cán bộ tiếp nhận chuyển hồ sơ đăng ký cho MC.
+
+(ii) MC xem xét hồ sơ của ứng viên theo quy định của Thỏa thuận.
+
+CB
+
+MC của Việt Nam
+
+(4)
+
+Xem xét thông tin về chuyên môn
+
+MC của Việt Nam tiến hành xem xét thông tin của ứng viên về chuyên môn
+
+MC của Việt Nam
+
+(5)
+
+Lập danh sách ứng viên
+
+MC Việt Nam lập danh sách ứng viên.
+
+MC của Việt Nam
+
+(6)
+
+MC của Việt Nam trình cho Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN
+
+MC của Việt Nam trình danh sách cho Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN để xem xét và phê duyệt
+
+MC của Việt Nam
+
+(7)
+
+Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN chấp thuận
+
+Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN phê chuẩn, chấp thuận
+
+ASEAN CPACC
+
+(8)
+
+Cấp giấy chứng nhận
+
+Cấp giấy chứng nhận ASEAN CPA cho ứng viên đủ điều kiện. Ứng viên phải nộp phí đầy đủ theo thông báo của MC của Việt Nam (nếu có)
+
+ACPACC
+
+(9)
+
+Thông báo cho ứng viên
+
+Trên cơ sở kết quả nhận được từ Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN, MC Việt Nam được ủy quyền thông báo tới ứng viên về việc ứng viên được cấp/không được cấp Giấy chứng nhận ASEAN CPA
+
+ACPACC/MC của Việt Nam
+
+PHỤ LỤC SỐ 3/ASEAN CPA
+
+ĐƠN ĐĂNG KÝ CÔNG NHẬN LÀ KẾ TOÁN VIÊN CHUYÊN NGHIỆP TIÊU CHUẨN ASEAN PHẦN 1 (Kèm theo Quyết định số 1529/QĐ-BTC ngày 09/8/2021 của Bộ Tài chính)
+
+Tên của ứng viên (như trong hộ chiếu) (in hoa): ..................................................................
+
+Ngày, tháng, năm sinh: ......................................................................................................
+
+Tên nước xuất xứ: .............................................................................................................
+
+Số chứng chỉ kế toán viên hoặc chứng chỉ kiểm toán viên Việt Nam: …….. Ngày cấp ...........
+
+ĐĂNG BẠ KẾ TOÁN VIÊN CHUYÊN NGHIỆP TIÊU CHUẨN ASEAN (ACPAR)
+
+| Tuân thủ các tiêu chuẩn để trở thành ASEAN CPA                                                                                                                                                                          | Tích dấu (x) nếu có |
+
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
+
+| Có chứng chỉ kế toán viên hoặc chứng chỉ kiểm toán viên Việt Nam                                                                                                                                                        |                     |
+
+| Có thời gian công tác thực tế về kế toán, kiểm toán, tài chính ít nhất ba (3) năm trong giai đoạn năm (5) năm liên tục kể từ khi được cấp bằng tốt nghiệp đại học tới thời điểm nộp đơn đăng ký công nhận là ASEAN CPA; |                     |
+
+| Tuân thủ và đảm bảo chương trình cập nhật kiến thức (CPD) quy định tại khoản 3 Điều 9 của Quy chế đánh giá ASEAN CPA.                                                                                                   |                     |
+
+| Không vi phạm nghiêm trọng các quy định về chuyên môn và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán của Việt Nam và quốc tế.                                                                                      |                     |
+
+Tuân thủ các tiêu chuẩn để trở thành ASEAN CPA
+
+Tích dấu (x) nếu có
+
+Có chứng chỉ kế toán viên hoặc chứng chỉ kiểm toán viên Việt Nam
+
+Có thời gian công tác thực tế về kế toán, kiểm toán, tài chính ít nhất ba (3) năm trong giai đoạn năm (5) năm liên tục kể từ khi được cấp bằng tốt nghiệp đại học tới thời điểm nộp đơn đăng ký công nhận là ASEAN CPA;
+
+Tuân thủ và đảm bảo chương trình cập nhật kiến thức (CPD) quy định tại khoản 3 Điều 9 của Quy chế đánh giá ASEAN CPA.
+
+Không vi phạm nghiêm trọng các quy định về chuyên môn và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán của Việt Nam và quốc tế.
+
+Ngày: ……………………………………….
+
+Chữ ký của ứng viên:………………………
+
+| Chỉ dùng cho nhân viên của Ủy ban giám sát Ủy ban giám sát: ………………………………………… Ngày họp: ………………………………. Kết quả: …………………………………………………… Ngày phê duyệt: ………………………. Số chứng nhận ASEAN CPA: ………………………….. Lệ phí đăng ký: ………………………… |
+
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Chỉ dùng cho nhân viên của Ủy ban giám sát
+
+Ủy ban giám sát: ………………………………………… Ngày họp: ……………………………….
+
+Kết quả: …………………………………………………… Ngày phê duyệt: ……………………….
+
+Số chứng nhận ASEAN CPA: ………………………….. Lệ phí đăng ký: …………………………
+
+ĐƠN ĐĂNG KÝ CÔNG NHẬN LÀ KẾ TOÁN VIÊN CHUYÊN NGHIỆP TIÊU CHUẨN ASEAN PHẦN 2 (Kèm theo Quyết định số 1529/QĐ-BTC ngày 09/8/2021 của Bộ Tài chính)
+
+| Ảnh màu 3x4cm nền trắng | 1. Họ và tên (in hoa): ………………………………………………………….. 2. Nam/Nữ: …………………………………………………………………….. 3. Ngày, tháng, năm sinh: ……………………………………………………. 4. Quốc tịch: ……………………………………………………………………. |
+
+|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+|                         | 5. Giấy CMND/Căn cước/Hộ chiếu số: ………………. cấp ngày: ……….. Nơi cấp: …………………………………………………………………………. 6. Đăng ký hộ khẩu thường trú tại: ……………………………………………                            |
+
+Ảnh màu 3x4cm nền trắng
+
+1. Họ và tên (in hoa): …………………………………………………………..
+
+2. Nam/Nữ: ……………………………………………………………………..
+
+3. Ngày, tháng, năm sinh: …………………………………………………….
+
+4. Quốc tịch: …………………………………………………………………….
+
+5. Giấy CMND/Căn cước/Hộ chiếu số: ………………. cấp ngày: ………..
+
+Nơi cấp: ………………………………………………………………………….
+
+6. Đăng ký hộ khẩu thường trú tại: ……………………………………………
+
+(ghi chi tiết số nhà, khối/thôn/xóm, phường/xã; quận/huyện, tỉnh/thành phố)
+
+7. Nơi ở hiện nay: ..............................................................................................................
+
+8. Số điện thoại liên hệ: .....................................................................................................
+
+9. E.mail: ..........................................................................................................................
+
+10. Trình độ chuyên môn: ..................................................................................................
+
+| Tốt nghiệp: | Đại học: ………………………… chuyên ngành: …………. Năm: ……………… |
+
+|-------------|-----------------------------------------------------|
+
+|             | Đại học: ………………………… chuyên ngành: …………. Năm: ……………… |
+
+Tốt nghiệp:
+
+Đại học: ………………………… chuyên ngành: …………. Năm: ………………
+
+Đại học: ………………………… chuyên ngành: …………. Năm: ………………
+
+Học vị (kê khai học vị cao nhất): .........................................................................................
+
+Học hàm: ..........................................................................................................................
+
+11. Số Chứng chỉ kiểm toán viên hoặc kế toán viên Việt Nam: …………. ngày cấp: ...............
+
+12. Đơn vị đang công tác: ..................................................................................................
+
+Chức vụ: ...........................................................................................................................
+
+13. Địa chỉ đơn vị công tác: ................................................................................................
+
+14. Quá trình làm việc (Kê khai liên tục quá trình làm việc kể từ thời điểm tốt nghiệp đại học cho đến thời điểm nộp hồ sơ đăng ký):
+
+| Quá trình làm việc từ ….. đến ….. (tháng/năm) | Chức danh, vị trí đảm nhiệm | Tên đơn vị công tác |
+
+|-----------------------------------------------|-----------------------------|---------------------|
+
+|                                               |                             |                     |
+
+|                                               |                             |                     |
+
+Quá trình làm việc từ ….. đến ….. (tháng/năm)
+
+Chức danh, vị trí đảm nhiệm
+
+Tên đơn vị công tác
+
+15. Thời gian thực tế làm kế toán, kiểm toán, tài chính của ứng viên (kèm theo tài liệu chứng minh nếu được yêu cầu):
+
+| Từ tháng/năm đến tháng/năm | Tên cơ quan, đơn vị công tác | Vị trí đảm nhiệm/chức danh | Số tháng thực tế làm kế toán, kiểm toán, tài chính (toàn thời gian) |
+
+|----------------------------|------------------------------|----------------------------|---------------------------------------------------------------------|
+
+|                            |                              |                            |                                                                     |
+
+|                            |                              |                            |                                                                     |
+
+|                            |                              |                            |                                                                     |
+
+| Tổng cộng                  | x                            | x                          | x                                                                   |
+
+Từ tháng/năm đến tháng/năm
+
+Tên cơ quan, đơn vị công tác
+
+Vị trí đảm nhiệm/chức danh
+
+Số tháng thực tế làm kế toán, kiểm toán, tài chính (toàn thời gian)
+
+Tổng cộng
+
+x
+
+x
+
+x
+
+Tôi đã có …….. tháng kinh nghiệm làm kế toán, kiểm toán, tài chính (kể từ khi tốt nghiệp đại học đến thời điểm nộp hồ sơ đăng ký).
+
+16. Số giờ cập nhật kiến thức theo quy định (kèm theo tài liệu chứng minh về số giờ cập nhật kiến thức). Gạch chéo nếu ứng viên không phải thực hiện cập nhật kiến thức theo quy định.
+
+| STT | Tên chuyên đề/môn CNKT | Thời gian CNKT | Số giờ CNKT | Cơ sở CNKT | Ghi chú |
+
+|-----|------------------------|----------------|-------------|------------|---------|
+
+|     |                        |                |             |            |         |
+
+|     |                        |                |             |            |         |
+
+|     |                        |                |             |            |         |
+
+|     | Tổng cộng              | x              | x           | x          | x       |
+
+STT
+
+Tên chuyên đề/môn CNKT
+
+Thời gian CNKT
+
+Số giờ CNKT
+
+Cơ sở CNKT
+
+Ghi chú
+
+Tổng cộng
+
+x
+
+x
+
+x
+
+x
+
+17. Các hình thức đã bị xử lý kỷ luật, vi phạm các quy định về chuyên môn và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán của Việt Nam và quốc tế (ghi rõ hình thức bị xử lý kỷ luật, số Quyết định kỷ luật, cơ quan ra Quyết định xử lý kỷ luật, thời gian bị kỷ luật, nếu không có thì ghi KHÔNG)
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+18. Đề nghị xem xét, đánh giá và công nhận chức danh ASEAN CPA cho tôi.
+
+Tôi xin cam kết: (Tích X vào ô phù hợp)
+
+| Nội dung                                                                                                                                                                                                               | Có | Không |
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|-------|
+
+| Có chứng chỉ kế toán viên Việt Nam hoặc chứng chỉ kiểm toán viên Việt Nam                                                                                                                                              |    |       |
+
+| Có thời gian công tác thực tế về kế toán, kiểm toán, tài chính ít nhất ba (3) năm trong giai đoạn năm (5) năm liên tục kể từ khi được cấp bằng tốt nghiệp đại học tới thời điểm nộp đơn đăng ký công nhận là ASEAN CPA |    |       |
+
+| Tuân thủ và đảm bảo chương trình cập nhật kiến thức (CPD) theo quy định tại khoản 3 Điều 9 của Quy chế đánh giá ASEAN CPA.                                                                                             |    |       |
+
+| Không vi phạm nghiêm trọng các quy định về chuyên môn và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán của Việt Nam và quốc tế.                                                                                     |    |       |
+
+Nội dung
+
+Có
+
+Không
+
+Có chứng chỉ kế toán viên Việt Nam hoặc chứng chỉ kiểm toán viên Việt Nam
+
+Có thời gian công tác thực tế về kế toán, kiểm toán, tài chính ít nhất ba (3) năm trong giai đoạn năm (5) năm liên tục kể từ khi được cấp bằng tốt nghiệp đại học tới thời điểm nộp đơn đăng ký công nhận là ASEAN CPA
+
+Tuân thủ và đảm bảo chương trình cập nhật kiến thức (CPD) theo quy định tại khoản 3 Điều 9 của Quy chế đánh giá ASEAN CPA.
+
+Không vi phạm nghiêm trọng các quy định về chuyên môn và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán của Việt Nam và quốc tế.
+
+19. Hồ sơ đăng ký bao gồm:
+
+□ Bản sao chứng chỉ kiểm toán viên Việt Nam hoặc bản sao chứng chỉ kế toán viên Việt Nam
+
+□ Giấy xác nhận thời gian thực tế làm kế toán, kiểm toán, tài chính
+
+□ Tài liệu chứng minh giờ cập nhật kiến thức
+
+□ 2 ảnh màu cỡ 3x4cm được chụp trên nền trắng trong thời hạn không quá sáu (06) tháng tính đến ngày nộp hồ sơ đăng ký trở thành ASEAN CPA
+
+□ Các hồ sơ khác (ví dụ bản sao sổ bảo hiểm xã hội,...).
+
+20. Tôi xin xác nhận rằng tất cả các nội dung được kê khai ở trên và các tài liệu kèm theo đơn này là hoàn toàn chính xác. Tôi xin chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của những nội dung kê khai trên đây và các tài liệu trong hồ sơ gửi kèm theo Đơn này.
+
+|  | Ngày … tháng …. năm …. Người làm đơn (Ký, ghi rõ họ tên) |
+
+|--|----------------------------------------------------------|
+
+Ngày … tháng …. năm …. Người làm đơn (Ký, ghi rõ họ tên)
+
+PHỤ LỤC SỐ 4/ASEAN CPA
+
+GIẤY XÁC NHẬN VỀ THỜI GIAN THỰC TẾ LÀM KẾ TOÁN, KIỂM TOÁN, TÀI CHÍNH (Kèm theo Quyết định số 1529/QĐ-BTC ngày 09/8/2021 của Bộ Tài chính)
+
+Kính gửi: (Tên cơ quan, đơn vị nơi ứng viên đã công tác)
+
+1. Họ và tên (chữ in hoa): ……………………………………………………………..; Nam/Nữ : ...
+
+2. Năm sinh: .....................................................................................................................
+
+3. Giấy CMND/Căn cước/Hộ chiếu số:……………. cấp ngày: …/…./…. tại: ...........................
+
+4. Đăng ký hộ khẩu thường trú tại: .....................................................................................
+
+5. Nơi ở hiện nay: ..............................................................................................................
+
+Đề nghị cơ quan, đơn vị …………………………………………… xác nhận quá trình thực tế làm kế toán, kiểm toán, tài chính tại cơ quan, đơn vị như sau:
+
+| Số TT | Từ tháng …/… đến tháng …/… | Tên cơ quan, đơn vị công tác | Vị trí đảm nhiệm/ chức danh | Số tháng thực tế làm kế toán, kiểm toán, tài chính toàn thời gian |
+
+|-------|----------------------------|------------------------------|-----------------------------|-------------------------------------------------------------------|
+
+|       |                            |                              |                             |                                                                   |
+
+|       |                            |                              |                             |                                                                   |
+
+|       | Tổng cộng                  |                              |                             |                                                                   |
+
+Số TT
+
+Từ tháng …/… đến tháng …/…
+
+Tên cơ quan, đơn vị công tác
+
+Vị trí đảm nhiệm/ chức danh
+
+Số tháng thực tế làm kế toán, kiểm toán, tài chính toàn thời gian
+
+Tổng cộng
+
+Tôi cam kết chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của những nội dung đã kê khai trên đây.
+
+| Xác nhận của người đại diện theo pháp luật của cơ quan, đơn vị (Họ và tên, chữ ký, đóng dấu) | …, ngày... tháng... năm ... Người đề nghị (Họ và tên, chữ ký) |
+
+|----------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+
+Xác nhận của người đại diện theo pháp luật của cơ quan, đơn vị (Họ và tên, chữ ký, đóng dấu)
+
+…, ngày... tháng... năm ... Người đề nghị (Họ và tên, chữ ký)
+
+Ghi chú:
+
+- Mỗi cơ quan, đơn vị chỉ có thẩm quyền xác nhận thông tin của cá nhân trong thời gian làm việc tại cơ quan, đơn vị đó.
+
+- Người ký xác nhận phải là người đại diện theo pháp luật (hoặc người được ủy quyền) của cơ quan, đơn vị nơi ứng viên làm việc.
+
+PHỤ LỤC SỐ 5/ASEAN CPA
+
+BÁO CÁO ĐÁNH GIÁ (Kèm theo Quyết định số 1529/QĐ-BTC ngày 09/8/2021 của Bộ Tài chính)
+
+Ngày xem xét, đánh giá: ....................................................................................................
+
+Tên ứng viên: ....................................................................................................................
+
+Ngày, tháng, năm sinh của ứng viên: ..................................................................................
+
+NỘI DUNG
+
+1. Về bằng cấp chuyên môn:
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+2. Về cập nhật kiến thức:
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+3. Về kinh nghiệm thực tế về kế toán, kiểm toán, tài chính
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+4. Nội dung khác (nếu có)
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+5. Nhận xét của người đánh giá:
+
+□ ĐẠT YÊU CẦU
+
+□ KHÔNG ĐẠT YÊU CẦU
+
+(i) Nếu ứng viên không đạt yêu cầu, điểm nào của ứng viên không đạt yêu cầu:
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+Làm rõ lý do ứng viên không đạt yêu cầu:
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+.........................................................................................................................................
+
+NGƯỜI ĐÁNH GIÁ:
+
+| Chữ ký: ………………………       | Chữ ký: ………………………       | Chữ ký: ………………………       |
+
+|-------------------------|-------------------------|-------------------------|
+
+| Ghi rõ họ tên: ……………….. | Ghi rõ họ tên: ……………….. | Ghi rõ họ tên: ……………….. |
+
+Chữ ký: ………………………
+
+Chữ ký: ………………………
+
+Chữ ký: ………………………
+
+Ghi rõ họ tên: ………………..
+
+Ghi rõ họ tên: ………………..
+
+Ghi rõ họ tên: ………………..
+
+PHỤ LỤC SỐ 6/ASEAN CPA
+
+BÁO CÁO ĐÁNH GIÁ THÔNG TIN CỦA ỦY BAN GIÁM SÁT VIỆT NAM VỀ VIỆC ĐĂNG KÝ LÀ ASEAN CPA (Kèm theo Quyết định số 1529/QĐ-BTC ngày 09/8/2021 của Bộ Tài chính)
+
+1. Họ và tên người đăng ký (chữ in hoa): ............................................................................
+
+2. Ngày, tháng, năm sinh: ……………………………. Nam/Nữ: .............................................
+
+3. Giấy CMND/Căn cước/Hộ chiếu số: ………..……… cấp ngày: …/…/… tại: .......................
+
+4. Quốc tịch: .....................................................................................................................
+
+5. Chứng chỉ kế toán viên Việt Nam /Chứng chỉ kiểm toán viên Việt Nam: Số………………….; Ngày cấp ……………………
+
+6. Các tiêu chuẩn để trở thành ASEAN CPA:
+
+| Nội dung                                                                                                                                                                                                     | Có Tích (x) | Không Tích (x) |
+
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|----------------|
+
+| a) Có chứng chỉ kiểm toán viên Việt Nam hoặc có chứng chỉ kế toán viên Việt Nam;                                                                                                                             |             |                |
+
+| b) Có thời gian công tác thực tế về kế toán, kiểm toán, tài chính ít nhất ba (3) năm trong giai đoạn năm (5) năm liên tục kể từ khi tốt nghiệp đại học tới thời điểm nộp đơn đăng ký công nhận là ASEAN CPA; |             |                |
+
+| c) Tuân thủ chương trình cập nhật kiến thức (CPD) quy định tại khoản 3 Điều 9 của Quy chế đánh giá ASEAN CPA;                                                                                                |             |                |
+
+| d) Ứng viên đã xác nhận về việc không vi phạm nghiêm trọng các quy định về chuyên môn và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán của Việt Nam và quốc tế.                                           |             |                |
+
+Nội dung
+
+Có
+
+Tích (x)
+
+Không
+
+Tích (x)
+
+a) Có chứng chỉ kiểm toán viên Việt Nam hoặc có chứng chỉ kế toán viên Việt Nam;
+
+b) Có thời gian công tác thực tế về kế toán, kiểm toán, tài chính ít nhất ba (3) năm trong giai đoạn năm (5) năm liên tục kể từ khi tốt nghiệp đại học tới thời điểm nộp đơn đăng ký công nhận là ASEAN CPA;
+
+c) Tuân thủ chương trình cập nhật kiến thức (CPD) quy định tại khoản 3 Điều 9 của Quy chế đánh giá ASEAN CPA;
+
+d) Ứng viên đã xác nhận về việc không vi phạm nghiêm trọng các quy định về chuyên môn và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán của Việt Nam và quốc tế.
+
+| Ủy ban giám sát của Việt Nam |        |                  |
+
+|------------------------------|--------|------------------|
+
+| Tên                          | Chữ ký | Ngày, tháng, năm |
+
+Ủy ban giám sát của Việt Nam
+
+Tên
+
+Chữ ký
+
+Ngày, tháng, năm
+
+PHỤ LỤC SỐ 7/ASEAN CPA
+
+BÁO CÁO DUY TRÌ CHỨC DANH KẾ TOÁN VIÊN CHUYÊN NGHIỆP TIÊU CHUẨN ASEAN HÀNG NĂM (Kèm theo Quyết định số 1529/QĐ-BTC ngày 09/8/2021 của Bộ Tài chính)
+
+1. Tên tôi là: ……………………………………………………..; Nam/Nữ ..................................
+
+2. Năm sinh: …………………………………………….; Quê quán/ Quốc tịch ..........................
+
+3. Chứng chỉ Kiểm toán viên/Kế toán viên số: ……………………….. cấp ngày …/…./………..
+
+4. Giấy chứng nhận ASEAN CPA số: ………………… cấp ngày …./…./…..,
+
+5. Số giờ cập nhật kiến thức trong khoảng thời gian 12 tháng kể từ ngày ………. đến ngày ………… (kèm theo tài liệu chứng minh về số giờ cập nhật kiến thức):
+
+| STT | Tên chuyên đề/môn CNKT | Thời gian CNKT | Số giờ CNKT | Cơ sở CNKT | Ghi chú |
+
+|-----|------------------------|----------------|-------------|------------|---------|
+
+|     |                        |                |             |            |         |
+
+|     |                        |                |             |            |         |
+
+|     | Tổng cộng              | x              | x           | x          | x       |
+
+STT
+
+Tên chuyên đề/môn CNKT
+
+Thời gian CNKT
+
+Số giờ CNKT
+
+Cơ sở CNKT
+
+Ghi chú
+
+Tổng cộng
+
+x
+
+x
+
+x
+
+x
+
+6. Tình hình chấp hành các quy định về chuyên môn và chuẩn mực đạo đức nghề nghiệp kế toán, kiểm toán của Việt Nam và quốc tế.
+
+□ Không vi phạm
+
+□ Có vi phạm (Kê khai cụ thể từng lần vi phạm)
+
+Tôi cam kết chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của những nội dung đã kê khai trên đây và các tài liệu gửi kèm theo Báo cáo này.
+
+|  | Ngày … tháng … năm … Người báo cáo (Ký, ghi rõ họ tên) |
+
+|--|--------------------------------------------------------|
+
+Ngày … tháng … năm … Người báo cáo (Ký, ghi rõ họ tên)
+
+PHỤ LỤC SỐ 8/ASEAN CPA
+
+DANH MỤC CÁC THUẬT NGỮ VIẾT TẮT (Kèm theo Quyết định số 1529/QĐ-BTC ngày 09/8/2021 của Bộ Tài chính)
+
+| ASEAN CPA       | Kế toán viên chuyên nghiệp tiêu chuẩn ASEAN                                                                    |
+
+|-----------------|----------------------------------------------------------------------------------------------------------------|
+
+| ACPAR           | Đăng bạ Kế toán viên chuyên nghiệp tiêu chuẩn ASEAN                                                            |
+
+| ACPACC          | Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN                                                   |
+
+| CPD             | Chương trình cập nhật kiến thức                                                                                |
+
+| CB              | Cán bộ thụ lý hồ sơ                                                                                            |
+
+| MC              | Ủy ban Giám sát                                                                                                |
+
+| MC của Việt Nam | Ủy ban Giám sát của Việt Nam thực hiện Thỏa thuận thừa nhận lẫn nhau về dịch vụ kế toán, kiểm toán trong ASEAN |
+
+| Thỏa thuận      | Thỏa thuận thừa nhận lẫn nhau về dịch vụ kế toán, kiểm toán trong ASEAN                                        |
+
+| PRA             | Cơ quan nhà nước có thẩm quyền quản lý nghề nghiệp                                                             |
+
+| RFPA            | Kế toán viên chuyên nghiệp nước ngoài có đăng ký                                                               |
+
+| Quy chế         | Quy chế đánh giá kế toán viên chuyên nghiệp tiêu chuẩn ASEAN                                                   |
+
+| VACPA           | Hội kiểm toán viên hành nghề Việt Nam                                                                          |
+
+| VAA             | Hội kế toán và kiểm toán Việt Nam                                                                              |
+
+ASEAN CPA
+
+Kế toán viên chuyên nghiệp tiêu chuẩn ASEAN
+
+ACPAR
+
+Đăng bạ Kế toán viên chuyên nghiệp tiêu chuẩn ASEAN
+
+ACPACC
+
+Ủy ban điều phối kế toán viên chuyên nghiệp tiêu chuẩn ASEAN
+
+CPD
+
+Chương trình cập nhật kiến thức
+
+CB
+
+Cán bộ thụ lý hồ sơ
+
+MC
+
+Ủy ban Giám sát
+
+MC của Việt Nam
+
+Ủy ban Giám sát của Việt Nam thực hiện Thỏa thuận thừa nhận lẫn nhau về dịch vụ kế toán, kiểm toán trong ASEAN
+
+Thỏa thuận
+
+Thỏa thuận thừa nhận lẫn nhau về dịch vụ kế toán, kiểm toán trong ASEAN
+
+PRA
+
+Cơ quan nhà nước có thẩm quyền quản lý nghề nghiệp
+
+RFPA
+
+Kế toán viên chuyên nghiệp nước ngoài có đăng ký
+
+Quy chế
+
+Quy chế đánh giá kế toán viên chuyên nghiệp tiêu chuẩn ASEAN
+
+VACPA
+
+Hội kiểm toán viên hành nghề Việt Nam
+
+VAA
+
+Hội kế toán và kiểm toán Việt Nam

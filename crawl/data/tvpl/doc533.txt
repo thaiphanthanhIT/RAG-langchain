@@ -1,0 +1,423 @@
+| BỘ TÀI CHÍNH   | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|----------------|-----------------------------------------------------------------|
+
+| Số: 777/QĐ-BTC | Hà Nội, ngày 12 tháng 4 năm 2023                                |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 777/QĐ-BTC
+
+Hà Nội, ngày 12 tháng 4 năm 2023
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH KẾ HOẠCH HOẠT ĐỘNG CỦA BAN CHỈ ĐẠO CHUYỂN ĐỔI SỐ BỘ TÀI CHÍNH NĂM 2023
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Quyết định của Ủy ban quốc gia về chuyển đổi số về việc ban hành kế hoạch hoạt động của Ủy ban quốc gia về chuyển đổi số năm 2023;
+
+Quyết định số 130/QĐ-BTC ngày 10/2/2022 của Bộ trưởng Bộ Tài chính về việc kiện toàn ban chỉ đạo chuyển đổi số của Bộ Tài chính;
+
+Quyết định số 131/QĐ-BTC ngày 10/2/2022 của Bộ trưởng Bộ Tài chính về việc kiện toàn Tổ công tác giúp việc Ủy viên Ủy ban Quốc gia về Chuyển đổi số của Bộ Tài chính và Ban chỉ đạo Chuyển đổi số của Bộ Tài chính;
+
+Quyết định số 1484/QĐ-BTC ngày 27/7/2022 về việc ban hành Kế hoạch chuyển đổi số đến năm 2025, định hướng đến năm 2030.
+
+Theo đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này là Kế hoạch hoạt động của Ban chỉ đạo Chuyển đổi số Bộ Tài chính năm 2023.
+
+Điều 2. Quyết định này cụ thể hóa một số nhiệm vụ được giao tại Quyết định của Ủy ban quốc gia về chuyển đổi số về việc ban hành kế hoạch hoạt động của Ủy ban quốc gia về chuyển đổi số năm 2023; Quyết định số 1484/QĐ-BTC ngày 27/7/2022 về việc ban hành Kế hoạch chuyển đổi số đến năm 2025, định hướng đến năm 2030.
+
+Điều 3. Tổ chức thực hiện:
+
+Ban chỉ đạo chuyển đổi số Bộ Tài chính, Cục trưởng Cục Tin học và Thống kê tài chính, Chánh Văn phòng Bộ, Thủ trưởng các đơn vị thuộc và trực thuộc Bộ có liên quan, tổ giúp việc ban chỉ đạo Chuyển đổi số của Bộ Tài chính chịu trách nhiệm thực hiện Quyết định này
+
+Điều 4. Quyết định này có hiệu lực kể từ ngày ký ./.
+
+| Nơi nhận: - Như Điều 3 (để thực hiện); - Các Thứ trưởng (để theo dõi); - Ủy ban quốc gia về chuyển đổi số (để b/c); - Các Thứ trưởng (để chỉ đạo); - Lưu: VT, THTK. | BỘ TRƯỞNG Hồ Đức Phớc |
+
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+
+Nơi nhận: - Như Điều 3 (để thực hiện); - Các Thứ trưởng (để theo dõi); - Ủy ban quốc gia về chuyển đổi số (để b/c); - Các Thứ trưởng (để chỉ đạo); - Lưu: VT, THTK.
+
+BỘ TRƯỞNG Hồ Đức Phớc
+
+KẾ HOẠCH HOẠT ĐỘNG CỦA BAN CHỈ ĐẠO CHUYỂN ĐỔI SỐ BỘ TÀI CHÍNH NĂM 2023
+
+(Kèm theo Quyết định số 777/QĐ-BTC ngày 12 tháng 4 năm 2023 của Bộ Tài chính)
+
+I. Căn cứ pháp lý:
+
+Quyết định của Ủy ban guốc gia về chuyển đổi số về việc ban hành kế hoạch hoạt động của Ủy ban quốc gia về chuyển đổi số năm 2023
+
+Căn cứ Quyết định số 1484/QĐ-BTC ngày 27/7/2022 của Bộ Tài chính về việc phê duyệt Kế hoạch chuyển đổi số của Bộ Tài chính đến năm 2025, định hướng đến năm 2030.
+
+II. Mục tiêu:
+
+Trong năm 2023, Ban chỉ đạo chuyển đổi số Bộ Tài chính tập trung chỉ đạo, điều phối các đơn vị thuộc và trực thuộc Bộ đẩy mạnh chuyển đổi số, phát triển Chính phủ số và xã hội số, ưu tiên nguồn lực để đạt được các chỉ tiêu quan trọng của Chính phủ nói chung và Bộ Tài chính nói riêng, cụ thể:
+
+1. Dữ liệu số:
+
+Ứng dụng ngành Tài chính được chia sẻ dữ liệu trên nền tảng tích hợp, chia sẻ dữ liệu (NDXP/FDXP).
+
+Cơ sở dữ liệu quốc gia về tài chính được xây dựng bảo đảm cập nhật, kết nối, chia sẻ với các cơ sở dữ liệu quy mô quốc gia theo yêu cầu của Chính phủ, sử dụng công nghệ trí tuệ nhân tạo/học máy để cung cấp đầu ra là các dạng báo cáo, Dashboard, KPIs về các nghiệp vụ quản lý của ngành nhằm nâng cao hiệu quả quản lý nhà nước trong ngành Tài chính.
+
+2. Phát triển Chính phủ số:
+
+100% thủ tục hành chính đủ điều kiện theo quy định của pháp luật được cung cấp dưới hình thức dịch vụ công trực tuyến toàn trình.
+
+Hoàn thành triển khai hệ thống thông tin giải quyết thủ tục hành chính cấp bộ, cấp tỉnh trên cơ sở hợp nhất cổng dịch vụ công và hệ thống một cửa điện tử
+
+3. An toàn, an ninh mạng:
+
+Tỷ lệ hệ thống thông tin của Bộ Tài chính thành phê duyệt cấp độ an toàn hệ thống thông tin trên 80%.
+
+Tỷ lệ hệ thống thông tin của Bộ Tài chính đáp ứng yêu cầu bảo vệ an toàn thông tin mạng theo cấp độ trên 30%.
+
+III. Các nhiệm vụ trọng tâm:
+
+Chỉ đạo thúc đẩy phát triển dữ liệu lớn về tài chính, cơ sở dữ liệu quốc gia về tài chính, nền tảng hóa đơn điện tử, nền tảng thuế điện tử; rà soát, chỉnh sửa, bổ sung cơ chế, chính sách, văn bản pháp luật để chống các hình thức chuyển giá, chuyển thuế, đảm bảo thu đúng, thu đủ thuế các nền tảng số, dịch vụ số, dịch vụ trực tuyến nước ngoài, cung cấp xuyên biên giới.
+
+Chủ trì tổng hợp, hướng dẫn, bố trí kinh phí cho các bộ, ngành triển khai các nhiệm vụ chuyển đổi số, phát triển kinh tế số và xã hội số năm 2023, hỗ trợ các địa phương triển khai mô hình chuyển đổi số toàn diện điển hình cấp tỉnh, cấp huyện, cấp xã theo quy định của Luật Ngân sách nhà nước.
+
+Triển khai Nền tảng hóa đơn điện tử quốc gia kết nối, liên thông với toàn bộ các cơ quan thuế, cho phép mỗi cá nhân, hộ kinh doanh cá thể, doanh nghiệp dễ dàng gửi nhận hóa đơn điện tử với cơ quan thuế
+
+IV. Tổ chức thực hiện
+
+1. Ban chỉ đạo chuyển đổi số của Bộ Tài chính
+
+- Chịu trách nhiệm điều phối, đôn đốc, theo dõi, giám sát, kiểm tra tiến độ, chỉ đạo các tổ chức, đơn vị thực hiện các nhiệm vụ, giải pháp được quy định tại Quyết định này. Thành viên ban chỉ đạo lồng ghép báo cáo về chuyển đổi số thành một nội dung trong báo cáo của đơn vị để phục vụ báo cáo trưởng ban chỉ đạo chuyển đổi số tại các cuộc họp giao ban hàng tháng.
+
+- Về chế độ báo cáo: Các đơn vị thực hiện báo cáo theo chế độ báo cáo đã được Quy định tại Quyết định số 1484/QĐ-BTC ngày 27/7/2022 của Bộ Tài chính về việc ban hành Kế hoạch Chuyển đổi số của Bộ Tài chính đến năm 2025, định hướng đến năm 2030 và các chế độ báo cáo đột xuất theo yêu cầu của Chính phủ, Trưởng ban chỉ đạo chuyển đổi số của Bộ Tài chính.
+
+2. Tổ giúp việc ban chỉ đạo chuyển đổi số của Bộ Tài chính
+
+Chịu trách nhiệm theo dõi, tổng hợp các thông tin, báo cáo ban chỉ đạo chuyển đổi số của Bộ Tài chính về kết quả triển khai các nhiệm vụ được giao.
+
+Phụ lục
+
+KẾ HOẠCH TRIỂN KHAI CÁC NHIỆM VỤ CHUYỂN ĐỔI SỐ CỦA BỘ TÀI CHÍNH NĂM 2023
+
+(Kèm theo Quyết định số 777/QĐ-BTC ngày 12 tháng 4 năm 2023 của Bộ Tài chính )
+
+| STT | Tên nhiệm vụ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Đơn vị chủ trì                    |
+
+|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
+
+| A   | Các nhiệm vụ chuyển tiếp                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                   |
+
+| I   | Hoàn thiện cơ chế chính sách                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                   |
+
+| 1   | Nghiên cứu, xây dựng Đề án đổi mới quy trình, nghiệp vụ ngành tài chính phù hợp với mô hình kinh tế số.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Viện CL&CSTC                      |
+
+| II  | Triển khai các nhiệm vụ trọng tâm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                   |
+
+| 1   | Về phát triển hạ tầng số                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                   |
+
+|     | Triển khai hệ thống đám mây tại Bộ Tài chính và các đơn vị Tổng cục phục vụ cho các ứng dụng của Bộ, đơn vị Tổng cục (trừ các ứng dụng đặc thù)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Cục THTK                          |
+
+| 2   | Về phát triển các nền tảng, hệ thống                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                   |
+
+|     | Triển khai nền tảng kết nối, chia sẻ dữ liệu ngành Tài chính (FDXP) đảm bảo kết nối các hệ thống thông tin, cơ sở dữ liệu trong nội bộ, kết nối với Nền tảng tích hợp, chia sẻ dữ liệu quốc gia (NDXP).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Cục THTK                          |
+
+| 3   | Phát triển dữ liệu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                   |
+
+|     | Xây dựng Cơ sở dữ liệu quốc gia về tài chính. Tiếp tục triển khai và hoàn thiện các CSDL chuyên ngành theo Quyết định số 2575/QĐ-BTC ngày 15/12/2017 về việc Ban hành Danh mục cơ sở dữ liệu chuyên ngành của Bộ Tài chính                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Cục THTK                          |
+
+| 4   | Phát triển các ứng dụng, dịch vụ số                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                   |
+
+| -   | Xây dựng hệ thống thông tin báo cáo Bộ Tài chính                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Cục THTK                          |
+
+| -   | Xây dựng đề án Hệ thống thông tin Ngân sách và Kế toán nhà nước số (VDBAS) phiên bản 1.0 theo các cải tiến về chính sách mức ban hành Nghị định, Thông tư (giai đoạn 2023-2026).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | KBNN                              |
+
+| -   | Xây dựng và triển khai hệ thống CNTT thực hiện hải quan số đáp ứng nghiệp vụ thông quan                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | TCHQ                              |
+
+| 5   | Bảo đảm an toàn, an ninh thông tin mạng                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                   |
+
+|     | Xây dựng và triển khai hệ thống giám sát an toàn thông tin mạng cho UBCKNN, TCDTNN, KBNN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | UBCKNN, KBNN                      |
+
+| B   | Các nhiệm vụ mới                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                   |
+
+| I   | Về tuyên truyền phổ biến quán triệt các hoạt động của Ủy ban quốc gia về chuyển đổi số                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                   |
+
+| 1   | Tổ chức tuyên truyền, phổ biến nội dung, chính sách pháp luật để nâng cao nhận thức cho người dân và toàn xã hội về Chính phủ điện tử, Chính phủ số, chuyển đổi số nói chung và Bộ Tài chính số nói riêng, các hoạt động của Ủy ban quốc gia chuyển đổi số và ban chỉ đạo chuyển đổi số của Bộ Tài chính (có thể thông qua nhiều hình thức như đăng tải trên cổng thông tin điện tử, trang mạng xã hội, tổ chức các hội thảo hội nghị chuyên đề với người dân doanh nghiệp để phổ biến kiến thức, kỹ năng về chuyển đổi số hoặc thông qua nhiều hoạt động xã hội hóa khác). Triển khai bộ nhận diện ngày chuyển đổi số hàng năm, Tăng cường truyền thông toàn xã hội về lợi ích của chuyển đổi số theo yêu cầu của Chính phủ tại Quyết định số 146/QĐ-TTg | VPB                               |
+
+| II  | Hoàn thiện cơ chế chính sách                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                   |
+
+|     | Xây dựng Nghị định về kết nối và chia sẻ thông tin trong lĩnh vực xuất khẩu, nhập khẩu, quá cảnh hàng hóa, xuất cảnh, nhập cảnh, quá cảnh người và phương tiện vận tải theo cơ chế một cửa quốc gia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | TCHQ                              |
+
+|     | Nghiên cứu, đề xuất giải pháp chính sách tập trung phát triển các ngành ưu tiên có mức độ sẵn sàng cao (theo phạm vi chức năng và nhiệm vụ của Bộ Tài chính) như: Công nghiệp công nghệ thông tin, điện tử - viễn thông; an toàn thông tin, an ninh mạng; công nghiệp chế tạo thông minh; tài chính - ngân hàng; thương mại điện tử; nông nghiệp số; du lịch số; công nghiệp văn hóa số; y tế; giáo dục và đào tạo.                                                                                                                                                                                                                                                                                                                                       | Vụ CST                            |
+
+|     | Ban hành Kế hoạch thúc đẩy người dân, doanh nghiệp sử dụng dịch vụ công trực tuyến mức độ cao hiệu quả, trong đó đặc biệt chú trọng tới việc rà soát, tham mưu cho cấp có thẩm quyền ban hành chính sách giảm lệ phí nếu thực hiện thủ tục hành chính theo hình thức trực tuyến; giao chỉ tiêu về tỷ lệ dịch vụ công trực tuyến phát sinh hồ sơ và tỷ lệ hồ sơ giải quyết trực tuyến đến từng đơn vị thuộc Bộ Tài chính.                                                                                                                                                                                                                                                                                                                                  | Cục THTK                          |
+
+|     | Nghiên cứu chính sách, quy định cụ thể về thuế, phí để khuyến khích người dân, doanh nghiệp sử dụng, cung cấp các dịch vụ số                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Vụ CST                            |
+
+|     | Thúc đẩy hoạt động bảo hiểm rủi ro cho chuyển đổi số, an toàn, an ninh và giao dịch trên không gian mạng                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Cục QLBH                          |
+
+|     | Rà soát, sửa đổi quy định, chính sách về tài chính, phí lệ phí đối với hoạt động cung cấp, kết nối chia sẻ dữ liệu của cơ quan Nhà nước với tổ chức, doanh nghiệp và người dân, tạo nguồn thu hợp pháp để duy trì, phát triển dữ liệu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Vụ CST                            |
+
+|     | Nghiên cứu xây dựng phát triển thị trường bảo hiểm an toàn thông tin mạng nhằm giúp các doanh nghiệp, tổ chức phục hồi tài chính khi xảy ra sự cố an ninh mạng                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Cục QLBH                          |
+
+|     | Rà soát, sửa đổi quy định, chính sách để khuyến khích các doanh nghiệp trích lập Quỹ khoa học công nghệ và sử dụng Quỹ này để thực hiện nhiệm vụ chuyển đổi số doanh nghiệp. Nới lỏng và đơn giản hóa các quy định về trích lập và chi tiêu Quỹ khoa học công nghệ cho mục tiêu chuyển đổi số doanh nghiệp                                                                                                                                                                                                                                                                                                                                                                                                                                                | Cục TCDN                          |
+
+|     | Báo cáo đánh giá đề xuất việc liên thông các hệ thống thông tin nghiệp vụ quản lý chuyên ngành và quản lý nội bộ tại Tổng cục DTNN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | TCDTNN                            |
+
+|     | Số hóa hồ sơ, kết quả giải quyết thủ tục hành chính theo quy định của Chính phủ tại Nghị định số 45/2020/NĐ-CP và Nghị định số 107/2021/NĐ-CP, đáp ứng yêu cầu kết nối, chia sẻ dữ liệu phục vụ giải quyết thủ tục hành chính, cung cấp dịch vụ công.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | THTK, VPB                         |
+
+|     | Chuẩn hóa chế độ báo cáo, xây dựng Hệ thống thông tin báo cáo theo yêu cầu của Chính phủ tại Nghị định số 09/2019/NĐ-CP và tích hợp, chia sẻ dữ liệu với Hệ thống thông tin báo cáo Chính phủ.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | THTK                              |
+
+|     | Hợp nhất và nâng cấp Cổng dịch vụ công và Hệ thống thông tin Một cửa điện tử Bộ Tài chính, đảm bảo thực hiện kết nối, tích hợp chia sẻ dữ liệu với Cổng dịch vụ công quốc gia qua cơ chế đăng nhập một lần từ Cổng dịch vụ công quốc gia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | THTK                              |
+
+|     | Hoàn thiện thể chế chính sách phục vụ triển khai đề án 06 của Thủ tướng Chính phủ về CSDL quốc gia về dân cư                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | THTK                              |
+
+| III | Triển khai các nhiệm vụ trọng tâm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                   |
+
+| 1   | Về phát triển hạ tầng số                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                   |
+
+|     | Chuyển đổi từ Ipv4 sang Ipv6: Thuê đơn vị tư vấn, triển khai IPv6 cho hệ thống công nghệ thông tin. Thử nghiệm công nghệ Ipv6. Thực hiện chuyển đổi từ IPV4 sang IPV6 cho các ứng dụng, dịch vụ công nghệ thông tin kết nối ra internet và ứng dụng nội bộ của các đơn vị ngành Tài chính.                                                                                                                                                                                                                                                                                                                                                                                                                                                                | THTK                              |
+
+| 2   | Về phát triển các nền tảng, hệ thống                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                   |
+
+|     | Triển khai nền tảng Mobile App ngành tài chính                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | THTK                              |
+
+| 4   | Phát triển các ứng dụng, dịch vụ số                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                   |
+
+|     | Xây dựng và triển khai hệ thống ứng dụng phân tích dữ liệu và quản lý rủi ro                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | TCT                               |
+
+|     | Thay thế hệ thống quản lý Thuế tập trung đáp ứng thái thiết kế quy trình nghiệp vụ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | TCT                               |
+
+|     | Phát triển nền tảng hóa đơn điện tử quốc gia kết nối, liên thông với toàn bộ các cơ quan thuế, cho phép mỗi cá nhân, hộ kinh doanh cá thể, doanh nghiệp dễ dàng gửi nhận hóa đơn điện tử với cơ quan thuế                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | TCT                               |
+
+|     | Trang bị bản quyền hệ thống phần mềm trợ lý ảo (Chatbot) và dịch vụ triển khai                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | THTK                              |
+
+|     | Ứng dụng các công nghệ mới của cuộc CMCN 4.0 trong triển khai xây dựng nghiệp vụ DTQG đáp ứng yêu cầu kết nối, cung cấp, khai thác dữ liệu chính xác, kịp thời                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | TCDTNN                            |
+
+| 6   | Tập huấn, bồi dưỡng kỹ năng số và một số nhiệm vụ khác                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                   |
+
+| 1   | Tiếp tục triển khai các khóa đào tạo, bồi dưỡng kiến thức, kỹ năng cơ bản về chuyển đổi số cho toàn bộ các cán bộ trong ngành Tài chính theo Quyết định 146/QĐ-TTg                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Trường Bồi dưỡng cán bộ Tài chính |
+
+| 2   | Triển khai các nhiệm vụ cụ thể trong năm 2023 theo yêu cầu của Chính phủ, Bộ Công An để thực hiện có hiệu quả đề án 06 của Thủ tướng Chính phủ về CSDL quốc gia về dân cư                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Cục THTK                          |
+
+| 3   | Bố trí kinh phí cho các hoạt động phát triển Chính phủ số, kinh tế số, xã hội số                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Vụ NSNN, Vụ HCSN                  |
+
+STT
+
+Tên nhiệm vụ
+
+Đơn vị chủ trì
+
+A
+
+Các nhiệm vụ chuyển tiếp
+
+I
+
+Hoàn thiện cơ chế chính sách
+
+1
+
+Nghiên cứu, xây dựng Đề án đổi mới quy trình, nghiệp vụ ngành tài chính phù hợp với mô hình kinh tế số.
+
+Viện CL&CSTC
+
+II
+
+Triển khai các nhiệm vụ trọng tâm
+
+1
+
+Về phát triển hạ tầng số
+
+Triển khai hệ thống đám mây tại Bộ Tài chính và các đơn vị Tổng cục phục vụ cho các ứng dụng của Bộ, đơn vị Tổng cục (trừ các ứng dụng đặc thù)
+
+Cục THTK
+
+2
+
+Về phát triển các nền tảng, hệ thống
+
+Triển khai nền tảng kết nối, chia sẻ dữ liệu ngành Tài chính (FDXP) đảm bảo kết nối các hệ thống thông tin, cơ sở dữ liệu trong nội bộ, kết nối với Nền tảng tích hợp, chia sẻ dữ liệu quốc gia (NDXP).
+
+Cục THTK
+
+3
+
+Phát triển dữ liệu
+
+Xây dựng Cơ sở dữ liệu quốc gia về tài chính. Tiếp tục triển khai và hoàn thiện các CSDL chuyên ngành theo Quyết định số 2575/QĐ-BTC ngày 15/12/2017 về việc Ban hành Danh mục cơ sở dữ liệu chuyên ngành của Bộ Tài chính
+
+Cục THTK
+
+4
+
+Phát triển các ứng dụng, dịch vụ số
+
+-
+
+Xây dựng hệ thống thông tin báo cáo Bộ Tài chính
+
+Cục THTK
+
+-
+
+Xây dựng đề án Hệ thống thông tin Ngân sách và Kế toán nhà nước số (VDBAS) phiên bản 1.0 theo các cải tiến về chính sách mức ban hành Nghị định, Thông tư (giai đoạn 2023-2026).
+
+KBNN
+
+-
+
+Xây dựng và triển khai hệ thống CNTT thực hiện hải quan số đáp ứng nghiệp vụ thông quan
+
+TCHQ
+
+5
+
+Bảo đảm an toàn, an ninh thông tin mạng
+
+Xây dựng và triển khai hệ thống giám sát an toàn thông tin mạng cho UBCKNN, TCDTNN, KBNN
+
+UBCKNN, KBNN
+
+B
+
+Các nhiệm vụ mới
+
+I
+
+Về tuyên truyền phổ biến quán triệt các hoạt động của Ủy ban quốc gia về chuyển đổi số
+
+1
+
+Tổ chức tuyên truyền, phổ biến nội dung, chính sách pháp luật để nâng cao nhận thức cho người dân và toàn xã hội về Chính phủ điện tử, Chính phủ số, chuyển đổi số nói chung và Bộ Tài chính số nói riêng, các hoạt động của Ủy ban quốc gia chuyển đổi số và ban chỉ đạo chuyển đổi số của Bộ Tài chính (có thể thông qua nhiều hình thức như đăng tải trên cổng thông tin điện tử, trang mạng xã hội, tổ chức các hội thảo hội nghị chuyên đề với người dân doanh nghiệp để phổ biến kiến thức, kỹ năng về chuyển đổi số hoặc thông qua nhiều hoạt động xã hội hóa khác). Triển khai bộ nhận diện ngày chuyển đổi số hàng năm, Tăng cường truyền thông toàn xã hội về lợi ích của chuyển đổi số theo yêu cầu của Chính phủ tại Quyết định số 146/QĐ-TTg
+
+VPB
+
+II
+
+Hoàn thiện cơ chế chính sách
+
+Xây dựng Nghị định về kết nối và chia sẻ thông tin trong lĩnh vực xuất khẩu, nhập khẩu, quá cảnh hàng hóa, xuất cảnh, nhập cảnh, quá cảnh người và phương tiện vận tải theo cơ chế một cửa quốc gia
+
+TCHQ
+
+Nghiên cứu, đề xuất giải pháp chính sách tập trung phát triển các ngành ưu tiên có mức độ sẵn sàng cao (theo phạm vi chức năng và nhiệm vụ của Bộ Tài chính) như: Công nghiệp công nghệ thông tin, điện tử - viễn thông; an toàn thông tin, an ninh mạng; công nghiệp chế tạo thông minh; tài chính - ngân hàng; thương mại điện tử; nông nghiệp số; du lịch số; công nghiệp văn hóa số; y tế; giáo dục và đào tạo.
+
+Vụ CST
+
+Ban hành Kế hoạch thúc đẩy người dân, doanh nghiệp sử dụng dịch vụ công trực tuyến mức độ cao hiệu quả, trong đó đặc biệt chú trọng tới việc rà soát, tham mưu cho cấp có thẩm quyền ban hành chính sách giảm lệ phí nếu thực hiện thủ tục hành chính theo hình thức trực tuyến; giao chỉ tiêu về tỷ lệ dịch vụ công trực tuyến phát sinh hồ sơ và tỷ lệ hồ sơ giải quyết trực tuyến đến từng đơn vị thuộc Bộ Tài chính.
+
+Cục THTK
+
+Nghiên cứu chính sách, quy định cụ thể về thuế, phí để khuyến khích người dân, doanh nghiệp sử dụng, cung cấp các dịch vụ số
+
+Vụ CST
+
+Thúc đẩy hoạt động bảo hiểm rủi ro cho chuyển đổi số, an toàn, an ninh và giao dịch trên không gian mạng
+
+Cục QLBH
+
+Rà soát, sửa đổi quy định, chính sách về tài chính, phí lệ phí đối với hoạt động cung cấp, kết nối chia sẻ dữ liệu của cơ quan Nhà nước với tổ chức, doanh nghiệp và người dân, tạo nguồn thu hợp pháp để duy trì, phát triển dữ liệu
+
+Vụ CST
+
+Nghiên cứu xây dựng phát triển thị trường bảo hiểm an toàn thông tin mạng nhằm giúp các doanh nghiệp, tổ chức phục hồi tài chính khi xảy ra sự cố an ninh mạng
+
+Cục QLBH
+
+Rà soát, sửa đổi quy định, chính sách để khuyến khích các doanh nghiệp trích lập Quỹ khoa học công nghệ và sử dụng Quỹ này để thực hiện nhiệm vụ chuyển đổi số doanh nghiệp. Nới lỏng và đơn giản hóa các quy định về trích lập và chi tiêu Quỹ khoa học công nghệ cho mục tiêu chuyển đổi số doanh nghiệp
+
+Cục TCDN
+
+Báo cáo đánh giá đề xuất việc liên thông các hệ thống thông tin nghiệp vụ quản lý chuyên ngành và quản lý nội bộ tại Tổng cục DTNN
+
+TCDTNN
+
+Số hóa hồ sơ, kết quả giải quyết thủ tục hành chính theo quy định của Chính phủ tại Nghị định số 45/2020/NĐ-CP và Nghị định số 107/2021/NĐ-CP, đáp ứng yêu cầu kết nối, chia sẻ dữ liệu phục vụ giải quyết thủ tục hành chính, cung cấp dịch vụ công.
+
+THTK, VPB
+
+Chuẩn hóa chế độ báo cáo, xây dựng Hệ thống thông tin báo cáo theo yêu cầu của Chính phủ tại Nghị định số 09/2019/NĐ-CP và tích hợp, chia sẻ dữ liệu với Hệ thống thông tin báo cáo Chính phủ.
+
+THTK
+
+Hợp nhất và nâng cấp Cổng dịch vụ công và Hệ thống thông tin Một cửa điện tử Bộ Tài chính, đảm bảo thực hiện kết nối, tích hợp chia sẻ dữ liệu với Cổng dịch vụ công quốc gia qua cơ chế đăng nhập một lần từ Cổng dịch vụ công quốc gia
+
+THTK
+
+Hoàn thiện thể chế chính sách phục vụ triển khai đề án 06 của Thủ tướng Chính phủ về CSDL quốc gia về dân cư
+
+THTK
+
+III
+
+Triển khai các nhiệm vụ trọng tâm
+
+1
+
+Về phát triển hạ tầng số
+
+Chuyển đổi từ Ipv4 sang Ipv6: Thuê đơn vị tư vấn, triển khai IPv6 cho hệ thống công nghệ thông tin. Thử nghiệm công nghệ Ipv6. Thực hiện chuyển đổi từ IPV4 sang IPV6 cho các ứng dụng, dịch vụ công nghệ thông tin kết nối ra internet và ứng dụng nội bộ của các đơn vị ngành Tài chính.
+
+THTK
+
+2
+
+Về phát triển các nền tảng, hệ thống
+
+Triển khai nền tảng Mobile App ngành tài chính
+
+THTK
+
+4
+
+Phát triển các ứng dụng, dịch vụ số
+
+Xây dựng và triển khai hệ thống ứng dụng phân tích dữ liệu và quản lý rủi ro
+
+TCT
+
+Thay thế hệ thống quản lý Thuế tập trung đáp ứng thái thiết kế quy trình nghiệp vụ
+
+TCT
+
+Phát triển nền tảng hóa đơn điện tử quốc gia kết nối, liên thông với toàn bộ các cơ quan thuế, cho phép mỗi cá nhân, hộ kinh doanh cá thể, doanh nghiệp dễ dàng gửi nhận hóa đơn điện tử với cơ quan thuế
+
+TCT
+
+Trang bị bản quyền hệ thống phần mềm trợ lý ảo (Chatbot) và dịch vụ triển khai
+
+THTK
+
+Ứng dụng các công nghệ mới của cuộc CMCN 4.0 trong triển khai xây dựng nghiệp vụ DTQG đáp ứng yêu cầu kết nối, cung cấp, khai thác dữ liệu chính xác, kịp thời
+
+TCDTNN
+
+6
+
+Tập huấn, bồi dưỡng kỹ năng số và một số nhiệm vụ khác
+
+1
+
+Tiếp tục triển khai các khóa đào tạo, bồi dưỡng kiến thức, kỹ năng cơ bản về chuyển đổi số cho toàn bộ các cán bộ trong ngành Tài chính theo Quyết định 146/QĐ-TTg
+
+Trường Bồi dưỡng cán bộ Tài chính
+
+2
+
+Triển khai các nhiệm vụ cụ thể trong năm 2023 theo yêu cầu của Chính phủ, Bộ Công An để thực hiện có hiệu quả đề án 06 của Thủ tướng Chính phủ về CSDL quốc gia về dân cư
+
+Cục THTK
+
+3
+
+Bố trí kinh phí cho các hoạt động phát triển Chính phủ số, kinh tế số, xã hội số
+
+Vụ NSNN, Vụ HCSN
