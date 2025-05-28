@@ -228,6 +228,7 @@ if __name__ == "__main__":
     # home_page.save_links("crawl/data/tvpl/links.json")
     home_page.load('crawl/data/links.json')
     doc_count = len(home_page.data)
-    for i in range(100, 1000, 20):
+    for i in range(140, 1000, 20):
         home_page.crawl_docs(start=i, end=i+20)
         home_page.save_docs("crawl/data/tvpl_new/html/doc", "crawl/data/tvpl_new/docs/doc", start=i)
+        home_page.docs = []
