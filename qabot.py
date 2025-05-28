@@ -38,6 +38,8 @@ class QAState(TypedDict):
     history: List[Tuple[str, str]]  # Lưu lịch sử dưới dạng [(query, result), ...]
 
 # Tool 1: Truy vấn từ dữ liệu Bộ Tài chính (FAISS)
+embedding_model = GPT4AllEmbeddings(model_file="data/models/all-MiniLM-L6-v2-f16.gguf")
+db = FAISS.load_local(VECTOR_DB_PATH, embedding_model, allow_dangerous_deserialization=True)
 def search_ministry(state: QAState) -> Dict[str, Any]:
     logger.info(">>> Running Tool: search_ministry (FAISS)")
     query = state.get("query")
@@ -48,10 +50,8 @@ def search_ministry(state: QAState) -> Dict[str, Any]:
         return {"result": "Lỗi: Không tìm thấy câu hỏi trong state."}
 
     try:
-        embedding_model = GPT4AllEmbeddings(model_file="data/models/all-MiniLM-L6-v2-f16.gguf")
-        db = FAISS.load_local(VECTOR_DB_PATH, embedding_model, allow_dangerous_deserialization=True)
         logger.info(f"Searching FAISS for: {query}")
-        docs = db.similarity_search(query, k=15)
+        docs = db.similarity_search(query, k=3)
         context = "\n".join([doc.page_content for doc in docs])
 
         if not context.strip():
@@ -173,7 +173,7 @@ Trả lời:
         return {"result": "Đã xảy ra lỗi khi tìm kiếm trên web hoặc xử lý kết quả."}
 
 # Node định tuyến
-def route(state: QAState) -> Literal["ministry", "search", "__error__"]:
+def route(state: QAState) -> Literal["vectorstores", "search", "__error__"]:
     logger.info(">>> Running Router Node...")
     query = state.get("query")
     history = state.get("history", [])
@@ -187,7 +187,7 @@ def route(state: QAState) -> Literal["ministry", "search", "__error__"]:
     routing_prompt = f"""
 Câu hỏi sau đây liên quan đến lĩnh vực nào?
 1. Thông tin chung cần tìm trên web ('search')
-2. Thông tin chuyên sâu về Bộ Tài chính Việt Nam, văn bản, quy định ('ministry')
+2. Thông tin chuyên sâu về Bộ Tài chính Việt Nam, văn bản, quy định ('vectorstores')
 
 Lịch sử trò chuyện (nếu có):
 ---
@@ -196,7 +196,7 @@ Lịch sử trò chuyện (nếu có):
 
 Câu hỏi: "{query}"
 
-Trả lời CHÍNH XÁC bằng một trong hai từ: 'search' hoặc 'ministry'.
+Trả lời CHÍNH XÁC bằng một trong hai từ: 'search' hoặc 'vectorstores'.
 """
     logger.info("Router: Asking routing_model...")
     try:
@@ -204,9 +204,9 @@ Trả lời CHÍNH XÁC bằng một trong hai từ: 'search' hoặc 'ministry'.
         choice = response.text.strip().lower()
         logger.info(f"Router: LLM raw response: '{choice}'")
 
-        if "ministry" in choice:
-            logger.info("Router: Decision -> ministry")
-            return "ministry"
+        if "vectorstores" in choice:
+            logger.info("Router: Decision -> vectorstores")
+            return "vectorstores"
         elif "search" in choice:
             logger.info("Router: Decision -> search")
             return "search"
@@ -283,11 +283,11 @@ if __name__ == "__main__":
 
             # In kết quả
             print("-" * 20)
-            print(f"📍 Trả lời: {result}")
+            print(f"Trả lời: {result}")
             print("-" * 20 + "\n")
 
         except Exception as e:
             logger.exception("An error occurred during the main execution loop:")
-            print(f"\n💥 Đã có lỗi xảy ra: {e}")
+            print(f"\n Đã có lỗi xảy ra: {e}")
 
     logger.info("Q&A Bot stopped.")

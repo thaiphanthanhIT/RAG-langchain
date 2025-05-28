@@ -1,0 +1,533 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 1914/QĐ-BTC | Hà Nội, ngày 16 tháng 9 năm 2022                                |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 1914/QĐ-BTC
+
+Hà Nội, ngày 16 tháng 9 năm 2022
+
+QUYẾT ĐỊNH
+
+BAN HÀNH PHƯƠNG ÁN KIỂM TRA THỰC HIỆN THÔNG TƯ SỐ 19/2003/TT-BTC NGÀY 20/3/2003 CỦA BỘ TRƯỞNG BỘ TÀI CHÍNH HƯỚNG DẪN ĐIỀU CHỈNH TĂNG, GIẢM VỐN ĐIỀU LỆ VÀ QUẢN LÝ CỔ PHIẾU QUỸ TRONG CÔNG TY CỔ PHẦN
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Nghị định số 34/2016/NĐ-CP ngày 14/5/2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật;
+
+Căn cứ Nghị định số 154/2020/NĐ-CP ngày 31/12/2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 34/2016/NĐ-CP ngày 14/5/2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật;
+
+Căn cứ Nghị định số 99/2006/NĐ-CP ngày 15/9/2006 của Chính phủ quy định về công tác kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch;
+
+Căn cứ Quyết định số 2475/QĐ-BTC ngày 23/12/2021 của Bộ trưởng Bộ Tài chính về việc phê duyệt Kế hoạch kiểm tra văn bản và Danh mục văn bản quy phạm pháp luật kiểm tra thực hiện trong năm 2022;
+
+Theo đề nghị của Cục trưởng Cục Tài chính doanh nghiệp.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Phương án kiểm tra thực hiện Thông tư số 19/2003/TT-BTC ngày 20/3/2003 của Bộ trưởng Bộ Tài chính hướng dẫn điều chỉnh tăng, giảm vốn điều lệ và quản lý cổ phiếu quỹ trong công ty cổ phần.
+
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.
+
+Điều 3. Chánh Văn phòng Bộ, Cục trưởng Cục Tài chính doanh nghiệp, và Thủ trưởng các đơn vị liên quan có trách nhiệm thi hành Quyết định này./.
+
+| Nơi nhận: - Như Điều 3; - Bộ trưởng Hồ Đức Phớc (để báo cáo); - Vụ Pháp chế; - Ủy ban Chứng khoán Nhà nước; - Cục Quản lý, giám sát kế toán, kiểm toán; - Cổng TTĐTBTC; - Lưu: VT, TCDN (4 bản). | KT. BỘ TRƯỞNG THỨ TRƯỞNG Nguyễn Đức Chi |
+
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+
+Nơi nhận: - Như Điều 3; - Bộ trưởng Hồ Đức Phớc (để báo cáo); - Vụ Pháp chế; - Ủy ban Chứng khoán Nhà nước; - Cục Quản lý, giám sát kế toán, kiểm toán; - Cổng TTĐTBTC; - Lưu: VT, TCDN (4 bản).
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Nguyễn Đức Chi
+
+PHƯƠNG ÁN
+
+KIỂM TRA THỰC HIỆN THÔNG TƯ SỐ 19/2003/TT-BTC NGÀY 20/3/2003 CỦA BỘ TRƯỞNG BỘ TÀI CHÍNH HƯỚNG DẪN ĐIỀU CHỈNH TĂNG, GIẢM VỐN ĐIỀU LỆ VÀ QUẢN LÝ CỔ PHIẾU QUỸ TRONG CÔNG TY CỔ PHẦN (Kèm theo Quyết định số 1914/QĐ-BTC ngày 16/9/2022 của Bộ Tài chính)
+
+1. Mục đích kiểm tra.
+
+Rà soát việc áp dụng các quy định của Thông tư số 19/2003/TT-BTC ngày 20/3/2003 của Bộ trưởng Bộ Tài chính hướng dẫn điều chỉnh tăng, giảm vốn điều lệ và quản lý cổ phiếu quỹ trong công ty cổ phần (Thông tư số 19/2003/TT-BTC) trong bối cảnh đã ban hành Luật Doanh nghiệp số 59/2020/QH14 ngày 17/6/2020 của Quốc hội và Luật Chứng khoán số 54/2019/QH14 ngày 26/11/2019 của Quốc hội cũng như các văn bản pháp luật có liên quan hiện nay, làm rõ những vấn đề vướng mắc trong quá trình thực hiện, hạn chế, tồn tại, và tính tuân thủ quy định tại Thông tư này. Trên cơ sở đó đề xuất và triển khai các phương án xử lý đối với Thông tư số 19/2003/TT-BTC theo đúng pháp luật.
+
+2. Phạm vi, đối tượng kiểm tra.
+
+- Phạm vi kiểm tra: Thông tư số 19/2003/TT-BTC.
+
+- Đối tượng thực hiện kiểm tra: các công ty cổ phần (các công ty đại chúng và công ty không phải đại chúng).
+
+3. Nội dung kiểm tra.
+
+Kiểm tra việc thực hiện đối với các quy định tại Thông tư số 19/2003/TT-BTC:
+
+- Các thuật ngữ.
+
+- Việc điều chỉnh tăng vốn điều lệ:
+
++ Các trường hợp điều chỉnh tăng vốn điều lệ.
+
++ Điều kiện kết chuyển thặng dư vốn để bổ sung vốn điều lệ.
+
++ Xác định số lượng cổ phần dự kiến phát hành thêm khi điều chỉnh tăng vốn điều lệ thông qua thực hiện trả cổ tức bằng cổ phiếu hoặc kết chuyển nguồn thặng dư vốn để bổ sung vốn điều lệ.
+
++ Việc sử dụng các khoản chênh lệch giá từ việc tự đánh giá lại tài sản để tăng vốn điều lệ (khi có chủ trương của nhà nước).
+
+- Việc điều chỉnh giảm vốn điều lệ:
+
++ Các trường hợp điều chỉnh giảm vốn điều lệ.
+
++ Việc thanh toán tiền cho các cổ đông.
+
+- Quản lý cổ phiếu quỹ tại công ty cổ phần:
+
++ Các trường hợp công ty cổ phần mua lại cổ phần.
+
++ Điều kiện để thực hiện phương án mua lại cổ phần.
+
++ Xử lý cổ phiếu quỹ đã mua vào nhưng sau 3 năm doanh nghiệp không sử dụng và vốn của các cổ đông nhỏ hơn vốn điều lệ.
+
++ Việc mua, bán cổ phiếu quỹ đối với các công ty cổ phần đã đăng ký niêm yết.
+
++ Các trường hợp công ty cổ phần không được phép mua lại cổ phần.
+
++ Các đối tượng công ty cổ phần không được phép mua lại cổ phần.
+
++ Quản lý và hạch toán cổ phiếu quỹ.
+
+- Xử lý, hạch toán chênh lệch tăng do mua, bán cổ phiếu quỹ, chênh lệch do giá phát hành thêm cổ phiếu mới lớn hơn so với mệnh giá; trường hợp giá bán cổ phiếu quỹ nhỏ hơn giá mua vào, giá bán cổ phiếu mới phát hành thêm thấp hơn mệnh giá.
+
+4. Thời kỳ kiểm tra.
+
+Từ ngày 01/1/2021 (Luật Doanh nghiệp năm 2020, Luật Chứng khoán năm 2019 có hiệu lực thi hành) đến nay.
+
+5. Phương thức kiểm tra.
+
+Các đơn vị thực hiện kiểm tra thông qua báo cáo tự kiểm tra sau khi phương án kiểm tra được ban hành.
+
+6. Tiến độ kiểm tra.
+
+- Tháng 9, 10, 11/2022: Cục Tài chính doanh nghiệp gửi công văn yêu cầu các đơn vị thực hiện tự kiểm tra, tổng hợp báo cáo tự kiểm tra của các đơn vị, xây dựng dự thảo báo cáo kết quả kiểm tra và lấy ý kiến các đơn vị liên quan.
+
+- Tháng 12/2022: Báo cáo Bộ kết quả kiểm tra.
+
+7. Trách nhiệm tổ chức thực hiện.
+
+- Cục Tài chính doanh nghiệp có trách nhiệm:
+
++ Hướng dẫn và yêu cầu, đôn đốc các đơn vị tự tổ chức kiểm tra theo phương án kiểm tra đã được phê duyệt.
+
++ Chủ trì, phối hợp với Vụ Pháp chế, Ủy ban Chứng khoán Nhà nước, Cục Quản lý, giám sát Kế toán, Kiểm toán tổng hợp, báo cáo Bộ kết quả kiểm tra, đề xuất xử lý các vấn đề phát sinh.
+
+- Vụ Pháp chế, Ủy ban Chứng khoán Nhà nước, Cục Quản lý, giám sát Kế toán, Kiểm toán có trách nhiệm phối hợp với Cục Tài chính doanh nghiệp thực hiện phương án kiểm tra được phê duyệt.
+
+- Các đơn vị thuộc đối tượng kiểm tra có trách nhiệm tổ chức tự kiểm tra trong đơn vị theo nội dung hướng dẫn, tổng hợp và gửi báo cáo kết quả tự kiểm tra về Bộ Tài chính (qua Cục Tài chính doanh nghiệp).
+
+Phiếu kiểm tra Thông tư số 19/2003/TT-BTC
+
+HƯỚNG DẪN ĐIỀN PHIẾU KIỂM TRA
+
+1. Giới thiệu chung
+
+Cục Tài chính Doanh nghiệp, Bộ Tài chính (Cục TCDN) đang được giao tổ chức kiểm tra tình hình thực hiện Thông tư số 19/2003/TT-BTC ngày 20/3/2003 của Bộ Tài chính hướng dẫn điều chỉnh tăng, giảm vốn điều lệ và quản lý cổ phiếu quỹ trong công ty cổ phần (Thông tư số 19/2003/TT-BTC).
+
+Để thực hiện nhiệm vụ này, Cục TCDN tiến hành kiểm tra một số công ty cổ phần (sau đây gọi chung là “Các đơn vị tham gia kiểm tra”) nhằm tìm hiểu về thực tiễn triển khai, áp dụng Thông tư số 19/2003/TT-BTC khi các công ty cổ phần điều chỉnh tăng, giảm vốn điều lệ và quản lý cổ phiếu quỹ.
+
+2. Hướng dẫn tham gia kiểm tra
+
+► Các đơn vị tham gia điền thông tin về đơn vị của mình trong Mục 1. Thông tin về đơn vị tham gia kiểm tra.
+
+► Các đơn vị tham gia kiểm tra trả lời các câu hỏi trong Mục 2. Nội dung kiểm tra.
+
+► Cho bất kỳ ý kiến bổ sung/tham gia khác, các đơn vị liệt kê vào Mục 3. Các ý kiến bổ sung khác.
+
+► Thời kỳ kiểm tra: Từ năm 2021 đến nay.
+
+Sau khi hoàn thành phiếu kiểm tra, các đơn vị gửi về Cục Tài chính doanh nghiệp theo đầu mối sau:
+
+► Ông/Bà Đỗ Thị Hiền - điện thoại: 0941924158 (bản mềm xin gửi về địa chỉ mail: dothihien@mof.gov.vn; bản giấy gửi về Cục Tài chính doanh nghiệp - Bộ Tài chính (địa chỉ số 28 Trần Hưng Đạo, Hoàn Kiếm, Hà Nội)).
+
+Thời hạn gửi phiếu kiểm tra: Chậm nhất ngày tháng năm 2022.
+
+Lãnh đạo Cục Tài chính doanh nghiệp - Bộ Tài chính trân trọng cảm ơn.
+
+MỤC 1 - THÔNG TIN VỀ ĐƠN VỊ THAM GIA KIỂM TRA
+
+| Đơn vị công tác: ………………………………………………………………………………….. Địa chỉ: ……………………………………………………………………………………………… Thông tin liên lạc: ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… |
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Đơn vị công tác: …………………………………………………………………………………..
+
+Địa chỉ: ………………………………………………………………………………………………
+
+Thông tin liên lạc:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+MỤC 2 - NỘI DUNG KIỂM TRA
+
+A. Thông tin chung
+
+Bộ câu hỏi kiểm tra bao gồm 5 phần chính như sau:
+
+I. Các thuật ngữ.
+
+II. Các vấn đề liên quan đến điều chỉnh tăng vốn điều lệ.
+
+III. Các vấn đề liên quan đến điều chỉnh giảm vốn điều lệ.
+
+IV. Các vấn đề liên quan đến quản lý cổ phiếu quỹ.
+
+V. Các vấn đề khác.
+
+B. Nội dung kiểm tra chi tiết như sau:
+
+I. Các vấn đề liên quan đến thuật ngữ (áp dụng định nghĩa thuật ngữ).
+
+Câu hỏi cho doanh nghiệp: Doanh nghiệp lựa chọn bằng cách tích vào một trong các điểm ở dưới?
+
+a. Thuật ngữ: “Vốn của các cổ đông tại một thời điểm”.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+b. Thuật ngữ: “Cổ phiếu quỹ”.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+c. Thuật ngữ: “Người quản lý doanh nghiệp”.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+d. Thuật ngữ: “Trái phiếu chuyển đổi thành cổ phần”.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+đ. Thuật ngữ: “Trả cổ tức bằng cổ phiếu”.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+Ý kiến bổ sung/tham gia khác:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+II. Các vấn đề liên quan đến điều chỉnh tăng vốn điều lệ.
+
+Câu hỏi cho doanh nghiệp: Doanh nghiệp lựa chọn bằng cách tích vào một trong các điểm ở dưới?
+
+a. Các trường hợp điều chỉnh tăng vốn điều lệ.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+Ví dụ thực tiễn:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+b. Điều kiện kết chuyển thặng dư vốn để bổ sung vốn điều lệ.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+Ví dụ thực tiễn:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+c. Xác định số lượng cổ phần dự kiến phát hành thêm khi điều chỉnh tăng vốn điều lệ thông qua thực hiện trả cổ tức bằng cổ phiếu hoặc kết chuyển nguồn thặng dư vốn để bổ sung vốn điều lệ.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+Ví dụ thực tiễn:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+d. Việc sử dụng các khoản chênh lệch giá từ việc tự đánh giá lại tài sản để tăng vốn điều lệ (khi có chủ trương của Nhà nước).
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+Ví dụ thực tiễn:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+III. Các vấn đề liên quan đến điều chỉnh giảm vốn điều lệ.
+
+Câu hỏi cho doanh nghiệp: Doanh nghiệp lựa chọn bằng cách tích vào một trong các điểm ở dưới?
+
+a. Các trường hợp điều chỉnh giảm vốn điều lệ.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+Ví dụ thực tiễn:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+b. Việc thanh toán tiền cho các cổ đông khi giảm vốn điều lệ.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+Ví dụ thực tiễn:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+IV. Các vấn đề liên quan đến quản lý cổ phiếu quỹ.
+
+Câu hỏi cho doanh nghiệp: Doanh nghiệp lựa chọn bằng cách tích vào một trong các điểm ở dưới?
+
+a. Các trường hợp công ty cổ phần mua lại cổ phần.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+Ví dụ thực tiễn:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+b. Điều kiện để thực hiện phương án mua lại cổ phần.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+Ví dụ thực tiễn:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+c. Xử lý cổ phiếu quỹ đã mua vào nhưng sau 3 năm doanh nghiệp không sử dụng và vốn của các cổ đông nhỏ hơn vốn điều lệ.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+Ví dụ thực tiễn:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+d. Việc mua, bán cổ phiếu quỹ đối với các công ty cổ phần đã đăng ký niêm yết.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+Ví dụ thực tiễn:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+đ. Các trường hợp công ty cổ phần không được phép mua lại cổ phần.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+Ví dụ thực tiễn:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+e. Các đối tượng công ty cổ phần không được phép mua lại cổ phần.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+Ví dụ thực tiễn:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+f. Quản lý và hạch toán cổ phiếu quỹ.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+Ví dụ thực tiễn:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+V. Các vấn đề khác.
+
+a. Xử lý, hạch toán chênh lệch tăng do mua, bán cổ phiếu quỹ; chênh lệch do giá phát hành thêm cổ phiếu mới lớn hơn so với mệnh giá.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+Ví dụ thực tiễn:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+b. Xử lý, hạch toán trường hợp giá bán cổ phiếu quỹ nhỏ hơn giá mua vào, giá bán cổ phiếu mới phát hành thêm thấp hơn mệnh giá.
+
+□ Thực hiện theo quy định tại Thông tư số 19/2003/TT-BTC.
+
+□ Thực hiện theo quy định tại các văn bản khác (nêu cụ thể văn bản quy phạm pháp luật áp dụng?).
+
+…………………………………………………………………………………………………………
+
+Ví dụ thực tiễn:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+MỤC 3 - CÁC Ý KIẾN BỔ SUNG KHÁC
+
+Đơn vị đưa ra các ý kiến về vấn đề khác chưa được đề cập tại Mục 2 - Nội dung kiểm tra tại đây.
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+Ý KIẾN CHUNG:
+
+□ Bãi bỏ Thông tư số 19/2003/TT-BTC vì các nội dung đã được quy định tại các văn bản quy phạm pháp luật khác.
+
+Nêu cụ thể văn bản pháp luật:
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+□ Ý kiến khác
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………
+
+…………………………………………………………………………………………………………

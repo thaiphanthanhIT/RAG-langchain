@@ -1,0 +1,6075 @@
+| BỘ TÀI CHÍNH - BỘ KẾ HOẠCH VÀ ĐẦU TƯ  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|---------------------------------------|-----------------------------------------------------------------|
+
+| Số: 01/2022/QCLT-BTC-BKHĐT            | Hà Nội, ngày 13 tháng 01 năm 2022                               |
+
+BỘ TÀI CHÍNH - BỘ KẾ HOẠCH VÀ ĐẦU TƯ -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 01/2022/QCLT-BTC-BKHĐT
+
+Hà Nội, ngày 13 tháng 01 năm 2022
+
+QUY CHẾ
+
+TRAO ĐỔI THÔNG TIN VỀ HỢP TÁC XÃ GIỮA HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ HỢP TÁC XÃ VÀ HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ
+
+Căn cứ Luật Hợp tác xã số 23/2012/QH13 ngày 20 tháng 11 năm 2012;
+
+Căn cứ Luật Quản lý thuế số 38/2019/QH14 ngày 13 tháng 6 năm 2019;
+
+Căn cứ Nghị định số 193/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ quy định chi tiết một số điều của Luật Hợp tác xã;
+
+Căn cứ Nghị định số 107/2017/NĐ-CP ngày 15 tháng 9 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 193/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ quy định chi tiết một số điều của Luật Hợp tác xã;
+
+Căn cứ Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế;
+
+Căn cứ Nghị định số 86/2017/NĐ-CP ngày 25 tháng 07 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Kế hoạch và Đầu tư;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Thông tư số 03/2014/TT-BKHĐT ngày 26 tháng 5 năm 2014 của Bộ trưởng Bộ Kế hoạch và Đầu tư hướng dẫn về đăng ký hợp tác xã về chế độ báo cáo tình hình hoạt động của hợp tác xã: Thông tư số 07/2019/TT-BKHĐT ngày 08 tháng 4 năm 2019 sửa đổi, bổ sung một số điều của Thông tư số 03/2014/TT-BKHĐT ngày 26 tháng 5 năm 2014 của Bộ trưởng Bộ Kế hoạch và Đầu tư;
+
+Căn cứ Thông tư số 105/2020/TT-BTC ngày 03 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn về đăng ký thuế;
+
+Bộ Tài chính và Bộ Kế hoạch và Đầu tư thống nhất ban hành Quy chế trao đổi thông tin về hợp tác xã giữa Hệ thống thông tin quốc gia về đăng ký hợp tác xã và Hệ thống ứng dụng đăng ký thuế như sau:
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Quy chế này hướng dẫn chi tiết về việc trao đổi thông tin về hợp tác xã, liên hiệp hợp tác xã, quỹ tín dụng nhân dân (sau đây gọi chung là hợp tác xã) giữa Hệ thống thông tin quốc gia về đăng ký hợp tác xã và Hệ thống ứng dụng đăng ký thuế, bao gồm thông tin về đăng ký hợp tác xã, tình hình hoạt động của hợp tác xã.
+
+Điều 2. Đối tượng áp dụng
+
+Quy chế này áp dụng cho các đối tượng sau:
+
+1. Tổng cục Thuế thuộc Bộ Tài chính;
+
+2. Cục Quản lý đăng ký kinh doanh thuộc Bộ Kế hoạch và Đầu tư;
+
+3. Cục Thuế, Chi cục Thuế, Chi cục Thuế khu vực;
+
+4. Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư cấp tỉnh và Phòng Tài chính - Kế hoạch thuộc Ủy ban nhân dân cấp huyện;
+
+5. Các tổ chức, cá nhân có liên quan.
+
+Điều 3. Giải thích từ ngữ
+
+Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Đăng ký hợp tác xã bao gồm đăng ký thành lập hợp tác xã, đăng ký thay đổi nội dung đăng ký hợp tác xã, thông báo thay đổi nội dung đăng ký hợp tác xã và các nghĩa vụ đăng ký, thông báo khác theo quy định tại Thông tư số 07/2019/TT-BKHĐT ngày 08 tháng 4 năm 2019 của Bộ trưởng Bộ Kế hoạch và Đầu tư và Thông tư số 105/2020/TT-BTC ngày 03 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn về đăng ký thuế.
+
+2. Đơn vị chủ quản là hợp tác xã có đơn vị phụ thuộc.
+
+3. Đơn vị phụ thuộc của hợp tác xã là chi nhánh, văn phòng đại diện của hợp tác xã theo quy định pháp luật về đăng ký hợp tác xã.
+
+4. Địa điểm kinh doanh của hợp tác xã được thực hiện theo quy định của pháp luật về đăng ký hợp tác xã.
+
+5. Hệ thống ứng dụng đăng ký thuế là một cấu phần của Hệ thống ứng dụng quản lý thuế tập trung do Tổng cục Thuế xây dựng, quản lý, sử dụng thống nhất trong toàn ngành thuế để thực hiện công tác quản lý thuế về đăng ký thuế.
+
+6. Hệ thống thông tin quốc gia về đăng ký hợp tác xã là hệ thống thông tin nghiệp vụ chuyên môn về đăng ký hợp tác xã quy định tại điểm 6 khoản 1 Điều 1 Thông tư số 07/2019/TT-BKHĐT ngày 08 tháng 4 năm 2019 của Bộ trưởng Bộ Kế hoạch và Đầu tư.
+
+Điều 4. Nguyên tắc phối hợp và trao đổi thông tin
+
+1. Việc trao đổi thông tin, phối hợp công tác phải đảm bảo kịp thời, chính xác và đầy đủ theo quy định tại Quy chế này và các quy định khác của pháp luật.
+
+2. Việc phối hợp giữa các đơn vị được thực hiện dựa trên chức năng, nhiệm vụ theo quy định của pháp luật và không làm ảnh hưởng đến hoạt động chuyên môn của các cơ quan có liên quan.
+
+3. Thông tin trao đổi giữa hai cơ quan là thông tin chính thức để sử dụng trong công tác đăng ký thuế và đăng ký hợp tác xã. Bên cung cấp thông tin chịu trách nhiệm về độ tin cậy, chính xác của thông tin đã cung cấp.
+
+4. Thông tin trao đổi giữa Hệ thống thông tin quốc gia về đăng ký hợp tác xã và Hệ thống ứng dụng đăng ký thuế có giá trị pháp lý như thông tin trao đổi bằng văn bản.
+
+Điều 5. Phương thức phối hợp
+
+1. Hình thức trao đổi thông tin
+
+Việc trao đổi thông tin hợp tác xã được thực hiện thông qua mạng điện tử kết nối giữa Hệ thống thông tin quốc gia về đăng ký hợp tác xã và Hệ thống ứng dụng đăng ký thuế.
+
+Trong trường hợp cần thiết theo nhu cầu quản lý và sử dụng thông tin hoặc do yếu tố kỹ thuật, các bên có thể trao đổi thông tin qua thư điện tử (email), truyền tập tin (file) dữ liệu điện tử hoặc các hình thức khác.
+
+2. Tần suất trao đổi thông tin
+
+a) Việc trao đổi thông tin được thực hiện tự động theo thời gian thực;
+
+b) Trong các trường hợp cụ thể, để phục vụ công tác quản lý nhà nước, Tổng cục Thuế và Cục Quản lý đăng ký kinh doanh có thể thỏa thuận để thống nhất về thời gian và tần suất trao đổi thông tin.
+
+3. Đầu mối trao đổi thông tin
+
+Các đơn vị đầu mối trao đổi thông tin bao gồm:
+
+3.1. Cấp Trung ương
+
+a) Tổng cục Thuế.
+
+b) Cục Quản lý đăng ký kinh doanh.
+
+3.2. Cấp địa phương
+
+a) Cục Thuế, Chi cục Thuế, Chi cục Thuế khu vực.
+
+b) Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư cấp tỉnh và Phòng Tài chính - Kế hoạch thuộc Ủy ban nhân dân cấp huyện.
+
+Chương II
+
+QUY ĐỊNH CỤ THỂ
+
+Điều 6. Các thông tin trao đổi giữa Hệ thống thông tin quốc gia về đăng ký hợp tác xã và Hệ thống ứng dụng đăng ký thuế
+
+1. Các thông tin trao đổi bao gồm:
+
+a) Hệ thống danh mục dùng chung;
+
+b) Thông tin về đăng ký thành lập hợp tác xã, đăng ký hoạt động đơn vị phụ thuộc, địa điểm kinh doanh của hợp tác xã;
+
+c) Thông tin về đăng ký thay đổi nội dung đăng ký hợp tác xã, nội dung đăng ký hoạt động đơn vị phụ thuộc, địa điểm kinh doanh của hợp tác xã;
+
+d) Thông tin về tình hình hoạt động của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh của hợp tác xã;
+
+đ) Thông tin về đăng ký tạm ngừng kinh doanh của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh của hợp tác xã;
+
+e) Thông tin về đăng ký giải thể hợp tác xã, hợp tác xã phá sản, chấm dứt hoạt động đơn vị phụ thuộc, địa điểm kinh doanh của hợp tác xã;
+
+g) Thông tin về thông báo vi phạm thuộc trường hợp thu hồi Giấy chứng nhận đăng ký hợp tác xã và thông tin về quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã;
+
+h) Thông tin về hợp tác xã, đơn vị trực thuộc, địa điểm kinh doanh hợp tác xã không còn hoạt động tại địa chỉ đã đăng ký;
+
+i) Thông tin về việc vi phạm pháp luật về thuế của người nộp thuế là hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh.
+
+2. Căn cứ nhu cầu cụ thể, Tổng cục Thuế và Cục Quản lý đăng ký kinh doanh thỏa thuận về việc sửa đổi, bổ sung danh mục thông tin trao đổi phù hợp với quy định pháp luật và công việc thực hiện của hai cơ quan.
+
+Điều 7. Trao đổi thông tin về hệ thống danh mục dùng chung
+
+1. Hệ thống danh mục dùng chung là các danh mục được Tổng cục Thuế và Cục Quản lý đăng ký kinh doanh thống nhất sử dụng nhằm đảm bảo đồng bộ cơ sở dữ liệu phục vụ việc trao đổi thông tin giữa hai Hệ thống.
+
+2. Hệ thống danh mục dùng chung bao gồm:
+
+a) Danh mục Quốc gia, Danh mục tỉnh/thành phố, Danh mục quận/huyện, Danh mục phường/xã, Danh mục tiền tệ, Danh mục loại hình hợp tác xã, Danh mục cơ quan thuế (theo danh mục đang sử dụng trên Hệ thống ứng dụng đăng ký thuế).
+
+b) Danh mục giao dịch: giao dịch dùng chung trong quá trình thực hiện trao đổi thông tin giữa 2 Hệ thống theo từng quy trình, quy định chi tiết tại Phụ lục 2 ban hành kèm theo Quy chế này.
+
+c) Danh mục kết quả trả về từ Hệ thống ứng dụng đăng ký thuế, quy định chi tiết tại Phụ lục 3 ban hành kèm theo Quy chế này.
+
+d) Danh mục kết quả trả về từ Hệ thống thông tin quốc gia về đăng ký hợp tác xã, quy định chi tiết tại Phụ lục 4 ban hành kèm theo Quy chế này.
+
+đ) Danh mục ngành, nghề kinh doanh theo Hệ thống ngành kinh tế Việt Nam.
+
+3. Trách nhiệm cập nhật danh mục khi có thay đổi:
+
+a) Cục Quản lý đăng ký kinh doanh có trách nhiệm cung cấp, cập nhật khi có thay đổi và truyền thông tin sang Tổng cục Thuế đối với những danh mục sau: Danh mục loại hình hợp tác xã; Danh mục ngành, nghề kinh doanh.
+
+b) Tổng cục Thuế có trách nhiệm cung cấp, cập nhật khi có thay đổi và truyền thông tin sang Cục Quản lý đăng ký kinh doanh đối với những danh mục sau: Danh mục Quốc gia; Danh mục tỉnh/thành phố; Danh mục quận/huyện; Danh mục phường/xã; Danh mục cơ quan thuế; Danh mục tiền tệ.
+
+c) Tổng cục Thuế và Cục Quản lý đăng ký kinh doanh có trách nhiệm phối hợp để cập nhật các thông tin thay đổi, đảm bảo đồng bộ thông tin giữa hai Hệ thống.
+
+d) Đối với các danh mục dùng chung khác, Tổng cục Thuế và Cục Quản lý đăng ký kinh doanh có trách nhiệm phối hợp đề cập nhật các thông tin thay đổi khi có phát sinh.
+
+Điều 8. Trình tự thực hiện trao đổi thông tin đăng ký thành lập hợp tác xã, đăng ký hoạt động đơn vị phụ thuộc, địa điểm kinh doanh
+
+1. Mã số hợp tác xã, mã số đơn vị phụ thuộc, mã số địa điểm kinh doanh của hợp tác xã được thực hiện theo quy định tại khoản 9 Điều 1 Thông tư số 07/2019/TT-BKHĐT ngày 08 tháng 4 năm 2019 của Bộ trưởng Bộ Kế hoạch và Đầu tư.
+
+2. Việc tạo và cấp mã số hợp tác xã, mã số đơn vị phụ thuộc, mã số địa điểm kinh doanh được thực hiện theo quy trình sau:
+
+a) Khi hồ sơ đăng ký thành lập hợp tác xã, đăng ký hoạt động đơn vị phụ thuộc, địa điểm kinh doanh đủ điều kiện để được cấp Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động đơn vị phụ thuộc, Giấy chứng nhận đăng ký hoạt động địa điểm kinh doanh, Hệ thống thông tin quốc gia về đăng ký hợp tác xã truyền thông tin đăng ký thành lập hợp tác xã, đăng ký hoạt động đơn vị phụ thuộc, địa điểm kinh doanh sang Hệ thống ứng dụng đăng ký thuế theo danh mục thông tin tại Phụ lục 5, Phụ lục 6 ban hành kèm theo Quy chế này.
+
+b) Hệ thống ứng dụng đăng ký thuế nhận thông tin đăng ký thành lập hợp tác xã, đăng ký hoạt động đơn vị phụ thuộc, đăng ký địa điểm kinh doanh từ Hệ thống thông tin quốc gia về đăng ký hợp tác xã truyền sang, tự động kiểm tra sự phù hợp của thông tin và gửi kết quả phản hồi sang Hệ thống thông tin quốc gia về đăng ký hợp tác xã trong thời hạn 02 ngày làm việc kể từ ngày nhận được thông tin.
+
+Trường hợp thông tin phù hợp, Hệ thống ứng dụng đăng ký thuế tự động tạo mã số hợp tác xã, mã số đơn vị phụ thuộc, mã số địa điểm kinh doanh và thực hiện phân cấp cơ quan thuế quản lý đối với hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh; đồng thời truyền thông tin về mã số hợp tác xã, mã số đơn vị phụ thuộc, mã số địa điểm kinh doanh, thông tin cơ quan thuế quản lý đối với hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh sang Hệ thống thông tin quốc gia về đăng ký hợp tác xã.
+
+Trường hợp thông tin không phù hợp, Hệ thống ứng dụng đăng ký thuế tự động phản hồi về việc thông tin không phù hợp và truyền sang Hệ thống thông tin quốc gia về đăng ký hợp tác xã theo danh mục tại Phụ lục 7 ban hành kèm theo Quy chế này.
+
+c) Trên cơ sở thông tin do Hệ thống ứng dụng đăng ký thuế cung cấp, cơ quan đăng ký hợp tác xã có trách nhiệm xử lý như sau:
+
+Trường hợp nhận được mã số do Hệ thống ứng dụng đăng ký thuế truyền sang và hồ sơ đăng ký thành lập hợp tác xã, hồ sơ đăng ký hoạt động đơn vị phụ thuộc, địa điểm kinh doanh đầy đủ, hợp lệ, cơ quan đăng ký hợp tác cấp Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động đơn vị phụ thuộc, Giấy chứng nhận đăng ký hoạt động địa điểm kinh doanh, Thông báo về cơ quan thuế quản lý đến hợp tác xã.
+
+Trường hợp Hệ thống thông tin quốc gia về đăng ký hợp tác xã nhận được mã số từ Hệ thống ứng dụng đăng ký thuế nhưng hồ sơ đăng ký hợp tác xã chưa đầy đủ, hợp lệ và cơ quan đăng ký hợp tác xã không cấp Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động đơn vị phụ thuộc, Giấy chứng nhận đăng ký hoạt động địa điểm kinh doanh thì Hệ thống thông tin quốc gia về đăng ký hợp tác xã truyền thông tin sang Hệ thống ứng dụng đăng ký thuế để hủy mã số đã tạo.
+
+Trường hợp nhận được phản hồi của Hệ thống ứng dụng đăng ký thuế về việc thông tin không phù hợp, không đủ điều kiện cấp mã số hợp tác xã, mã số đơn vị phụ thuộc, mã số địa điểm kinh doanh, cơ quan đăng ký hợp tác xã kiểm tra lại dữ liệu so với hồ sơ đăng ký của hợp tác xã, gửi thông báo đề nghị hợp tác xã sửa đổi, bổ sung hồ sơ theo quy định.
+
+Hệ thống thông tin quốc gia về đăng ký hợp tác xã truyền thông tin sang Hệ thống ứng dụng đăng ký thuế theo danh mục tại Phụ lục 8 ban hành kèm theo Quy chế này. Hệ thống ứng dụng đăng ký thuế thực hiện cập nhật các thông tin vào hệ thống.
+
+Điều 9. Trình tự thực hiện trao đổi thông tin đăng ký thay đổi nội dung đăng ký hợp tác xã, đăng ký hoạt động đơn vị phụ thuộc và địa điểm kinh doanh
+
+1. Trường hợp hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh đăng ký chuyển trụ sở sang địa bàn cấp huyện, cấp tỉnh khác liên quan đến thay đổi cơ quan thuế quản lý.
+
+a) Khi hồ sơ đăng ký chuyển trụ sở của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh đủ điều kiện để được cấp Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động đơn vị phụ thuộc, Giấy chứng nhận đăng ký địa điểm kinh doanh, Hệ thống thông tin quốc gia về đăng ký hợp tác xã truyền thông tin đăng ký thay đổi sang Hệ thống ứng dụng đăng ký thuế. Thông tin truyền sang bao gồm các thông tin đăng ký thay đổi địa chỉ trụ sở của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh đã được cơ quan đăng ký hợp tác xã cập nhật trên Hệ thống thông tin quốc gia về đăng ký hợp tác xã theo danh mục tại Phụ lục 9 ban hành kèm theo Quy chế này.
+
+b) Hệ thống ứng dụng đăng ký thuế tự động kiểm tra, đối chiếu thông tin thay đổi về địa chỉ trụ sở nhận được từ Hệ thống thông tin quốc gia về đăng ký hợp tác xã theo quy định tại điểm a khoản này và kiểm tra thông tin hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh đã hoàn thành thủ tục thuế với cơ quan thuế nơi đi theo quy định tại Điều 11 Thông tư số 105/2020/TT-BTC ngày 03 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn về đăng ký thuế để trả kết quả cho Hệ thống thông tin quốc gia về đăng ký hợp tác xã, cụ thể:
+
+- Trường hợp các thông tin thay đổi không đầy đủ, không hợp lệ hoặc hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh chưa hoàn thành thủ tục thuế tại cơ quan thuế nơi đi thì Hệ thống ứng dụng đăng ký thuế trả kết quả thông tin lỗi theo Phụ lục 3 ban hành kèm theo Quy chế này sang Hệ thống thông tin quốc gia về đăng ký hợp tác xã.
+
+- Trường hợp các thông tin thay đổi đầy đủ, hợp lệ và hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh đã hoàn thành thủ tục thuế tại cơ quan thuế nơi đi Hệ thống ứng dụng đăng ký thuế thực hiện phân cấp cơ quan thuế quản lý nơi đến, truyền thông tin sang Hệ thống thông tin quốc gia về đăng ký hợp tác xã. Danh mục kết quả trả về từ Hệ thống ứng dụng đăng ký thuế quy định chi tiết tại Phụ lục 3 ban hành kèm theo Quy chế này.
+
+c) Trên cơ sở thông tin do Hệ thống ứng dụng đăng ký thuế cung cấp, cơ quan đăng ký hợp tác xã cấp Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động đơn vị phụ thuộc, Giấy chứng nhận đăng ký địa điểm kinh doanh và gửi Thông báo về cơ quan thuế quản lý hợp tác xã.
+
+d) Hệ thống thông tin quốc gia về đăng ký hợp tác xã truyền thông tin về việc cấp Giấy chứng nhận đăng ký hợp tác xã, Giấy chứng nhận đăng ký hoạt động đơn vị phụ thuộc, Giấy chứng nhận đăng ký địa điểm kinh doanh sang Hệ thống ứng dụng đăng ký thuế.
+
+2. Đăng ký thay đổi nội dung đăng ký hợp tác xã, nội dung đăng ký hoạt động đơn vị phụ thuộc, địa điểm kinh doanh trong các trường hợp khác.
+
+Cơ quan đăng ký hợp tác xã tiếp nhận, kiểm tra tính hợp lệ của hồ sơ đăng ký thay đổi của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh, cập nhật vào Hệ thống thông tin quốc gia về đăng ký hợp tác xã và truyền thông tin sang Hệ thống ứng dụng đăng ký thuế theo danh mục tại Phụ lục 10 ban hành kèm theo Quy chế này.
+
+Sau khi nhận được dữ liệu Hệ thống ứng dụng đăng ký thuế tự động kiểm tra sự phù hợp của thông tin thay đổi và thực hiện cập nhật thông tin vào cơ sở dữ liệu.
+
+Điều 10. Trình tự thực hiện trao đổi thông tin đăng ký tạm ngừng kinh doanh
+
+1. Cơ quan đăng ký hợp tác xã tiếp nhận, kiểm tra tính hợp lệ của hồ sơ đăng ký tạm ngừng kinh doanh của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh cập nhật vào Hệ thống thông tin quốc gia về đăng ký hợp tác xã và truyền thông tin sang Hệ thống ứng dụng đăng ký thuế theo danh mục tại Phụ lục 12 ban hành kèm theo Quy chế này.
+
+2. Hệ thống ứng dụng đăng ký thuế nhận thông tin đăng ký tạm ngừng kinh doanh của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh tử Hệ thống thông tin quốc gia về đăng ký hợp tác xã truyền sang, tự động cập nhật trạng thái tạm ngừng kinh doanh của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh.
+
+3. Khi hết thời hạn tạm ngừng kinh doanh do hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh đã đăng ký, Hệ thống thông tin quốc gia về đăng ký hợp tác xã tự động cập nhật tình trạng tạm ngừng kinh doanh của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh về tình trạng đang hoạt động và truyền thông tin sang Hệ thống ứng dụng đăng ký thuế theo danh mục tại Phụ lục 13 ban hành kèm theo Quy chế này.
+
+Hệ thống ứng dụng đăng ký thuế nhận thông tin tiếp tục hoạt động từ Hệ thống thông tin quốc gia về đăng ký hợp tác xã truyền sang và tự động cập nhật tình trạng hoạt động của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh.
+
+Điều 11. Trình tự thực hiện trao đổi thông tin đăng ký giải thể hợp tác xã, hợp tác xã phá sản, chấm dứt hoạt động đơn vị phụ thuộc, địa điểm kinh doanh của hợp tác xã
+
+1. Trường hợp hợp tác xã nộp thông báo về việc giải thể đến cơ quan đăng ký hợp tác xã hoặc Ủy ban nhân dân cùng cấp với cơ quan nhà nước cấp giấy chứng nhận đăng ký hợp tác xã ra quyết định giải thể bắt buộc theo quy định tại khoản 2 Điều 54 Luật Hợp tác xã, cơ quan đăng ký hợp tác xã tiếp nhận, kiểm tra tính hợp lệ của hồ sơ, cập nhật thông tin vào Hệ thống thông tin quốc gia về đăng ký hợp tác xã và truyền thông tin sang Hệ thống ứng dụng đăng ký thuế theo danh mục tại Phụ lục 14 ban hành kèm theo Quy chế này.
+
+Trên cơ sở thông tin từ Hệ thống thông tin quốc gia về đăng ký hợp tác xã truyền sang, cơ quan thuế thực hiện các thủ tục về thuế theo quy định.
+
+2. Trường hợp hợp tác xã nộp hồ sơ giải thể hợp tác xã, thông báo chấm dứt hoạt động của đơn vị phụ thuộc, hợp tác xã bị chấm dứt tồn tại do bị chia, bị hợp nhất, bị sáp nhập hoặc hội đồng giải thể nộp hồ sơ giải thể của hợp tác xã trong trường hợp giải thể bắt buộc, cơ quan đăng ký hợp tác xã tiếp nhận, kiểm tra tính hợp lệ của hồ sơ, nhập thông tin vào Hệ thống thông tin quốc gia về đăng ký hợp tác xã và truyền thông tin sang Hệ thống ứng dụng đăng ký thuế theo danh mục tại Phụ lục 14 ban hành kèm theo Quy chế này.
+
+3. Trường hợp cơ quan đăng ký hợp tác xã nhận được quyết định mở thủ tục phá sản, quyết định tuyên bố hợp tác xã phá sản của Tòa án, cơ quan đăng ký hợp tác xã cập nhật tình trạng của hợp tác xã trên Hệ thống thông tin quốc gia về đăng ký hợp tác xã và truyền thông tin sang Hệ thống ứng dụng đăng ký thuế. Hệ thống ứng dụng đăng ký thuế thực hiện cập nhật thông tin về hợp tác xã vào Hệ thống.
+
+4. Trên cơ sở thông tin từ Hệ thống thông tin quốc gia về đăng ký hợp tác xã truyền sang quy định tại khoản 2, 3 Điều này, Hệ thống ứng dụng đăng ký thuế kiểm tra thông tin về tình trạng hoàn thành các nghĩa vụ thuế của hợp tác xã, đơn vị phụ thuộc theo quy định của pháp luật về thuế và gửi kết quả phản hồi sang Hệ thống thông tin quốc gia về đăng ký hợp tác xã trong thời hạn 02 ngày làm việc kể từ ngày nhận được thông tin.
+
+a) Trường hợp hợp tác xã, đơn vị phụ thuộc đã hoàn thành các nghĩa vụ thuế theo quy định:
+
+- Hệ thống ứng dụng đăng ký thuế trả thông tin về tình trạng hợp tác xã, đơn vị phụ thuộc đã hoàn thành nghĩa vụ thuế sang Hệ thống thông tin quốc gia về đăng ký hợp tác xã.
+
+- Cơ quan đăng ký hợp tác xã chuyển tình trạng của hợp tác xã, đơn vị phụ thuộc sang tình trạng đã giải thể hoặc chấm dứt tồn tại của hợp tác xã hoặc chấm dứt hoạt động của đơn vị phụ thuộc và truyền thông tin sang Hệ thống ứng dụng đăng ký thuế.
+
+- Hệ thống ứng dụng đăng ký thuế thực hiện chấm dứt hiệu lực mã số thuế của hợp tác xã, đơn vị phụ thuộc sau khi nhận được thông tin do Hệ thống thông tin quốc gia về đăng ký hợp tác xã truyền sang.
+
+b) Trường hợp hợp tác xã, đơn vị phụ thuộc chưa hoàn thành các nghĩa vụ thuế theo quy định, Hệ thống ứng dụng đăng ký thuế gửi phản hồi thông tin về hợp tác xã, đơn vị phụ thuộc chưa hoàn thành các nghĩa vụ thuế tại cơ quan thuế sang Hệ thống thông tin quốc gia về đăng ký hợp tác xã.
+
+Trên cơ sở thông tin do Hệ thống ứng dụng đăng ký thuế truyền sang, cơ quan đăng ký hợp tác xã hướng dẫn hợp tác xã, đơn vị phụ thuộc liên hệ với cơ quan thuế để hoàn thành các nghĩa vụ thuế trước khi đăng ký giải thể, chấm dứt hoạt động, chấm dứt tồn tại.
+
+c) Trường hợp quá thời hạn 02 ngày làm việc kể từ ngày Hệ thống thông tin quốc gia về đăng ký hợp tác xã truyền thông tin sang nhưng Hệ thống ứng dụng đăng ký thuế không gửi phản hồi thì cơ quan đăng ký hợp tác xã tiếp tục xử lý theo quy định để trả kết quả cho hợp tác xã, đơn vị phụ thuộc.
+
+5. Trường hợp hợp tác xã nộp hồ sơ chấm dứt hoạt động địa điểm kinh doanh, cơ quan đăng ký hợp tác xã tiếp nhận, kiểm tra tính hợp lệ của hồ sơ, cập nhật tình trạng của địa điểm kinh doanh trên Hệ thống thông tin quốc gia về đăng ký hợp tác xã và truyền thông tin sang Hệ thống ứng dụng đăng ký thuế. Hệ thống ứng dụng đăng ký thuế thực hiện chấm dứt hoạt động của địa điểm kinh doanh trên cơ sở thông tin nhận được từ Hệ thống thông tin quốc gia về đăng ký hợp tác xã.
+
+Điều 12. Trình tự thực hiện trao đổi thông tin thông báo vi phạm thuộc trường hợp thu hồi và quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã
+
+1. Trường hợp cơ quan đăng ký hợp tác xã ban hành thông báo vi phạm của hợp tác xã thuộc trường hợp thu hồi Giấy chứng nhận đăng ký hợp tác xã, trường hợp hợp tác xã bị thu hồi Giấy chứng nhận đăng ký hợp tác xã do cường chế nợ thuế theo văn bản đề nghị thu hồi của cơ quan quản lý thuế quy định tại Luật quản lý thuế, cơ quan đăng ký hợp tác xã cập nhật thông tin vào Hệ thống thông tin quốc gia về đăng ký hợp tác xã và truyền thông tin thông báo vi phạm của hợp tác xã sang Hệ thống ứng dụng đăng ký thuế để cơ quan thuế phối hợp theo dõi, xử lý trong việc thu hồi Giấy chứng nhận đăng ký hợp tác xã theo quy định của pháp luật.
+
+2. Sau khi cơ quan đăng ký hợp tác xã ban hành quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã, cơ quan đăng ký hợp tác xã cập nhật thông tin vào Hệ thống thông tin quốc gia về đăng ký hợp tác xã và truyền thông tin quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã sang Hệ thống ứng dụng đăng ký thuế trong thời hạn 01 ngày làm việc kể từ ngày ra quyết định thu hồi theo danh mục tại Phụ lục 15 ban hành kèm theo Quy chế này.
+
+3. Trường hợp cơ quan đăng ký hợp tác xã khôi phục tình trạng hoạt động của hợp tác xã, đơn vị phụ thuộc của hợp tác xã theo văn bản đề nghị của cơ quan quản lý thuế đối với trường hợp hợp tác xã bị thu hồi Giấy chứng nhận đăng ký hợp tác xã do cưỡng chế nợ thuế, cơ quan đăng ký hợp tác xã cập nhật thông tin vào Hệ thống thông tin quốc gia về đăng ký hợp tác xã và truyền thông tin về việc khôi phục tình trạng hoạt động của hợp tác xã, đơn vị phụ thuộc của hợp tác xã sang Hệ thống ứng dụng đăng ký thuế trong thời hạn 01 ngày làm việc kể từ ngày ra quyết định hủy bỏ quyết định thu hồi theo danh mục tại Phụ lục 16 ban hành kèm theo Quy chế này.
+
+4. Hệ thống ứng dụng đăng ký thuế cập nhật thông tin thông báo vi phạm và quyết định thu hồi Giấy chứng nhận đăng ký hợp tác xã do Hệ thống thông tin quốc gia về đăng ký hợp tác xã truyền sang để cơ quan thuế theo dõi, xử lý theo quy định.
+
+Điều 13. Trình tự thực hiện trao đổi thông tin về việc hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh không hoạt động tại địa chỉ đã đăng ký
+
+Trường hợp hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh bị cơ quan thuế ban hành Thông báo về việc người nộp thuế không hoạt động tại địa chỉ đã đăng ký theo quy định của pháp luật về thuế, cơ quan thuế cập nhật thông tin vào Hệ thống ứng dụng đăng ký thuế và truyền thông tin sang Hệ thống thông tin quốc gia về đăng ký hợp tác xã ngay trong ngày chuyển trạng thái mã số thuế của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh Hệ thống thông tin quốc gia về đăng ký hợp tác xã thực hiện cập nhật thông tin và - công khai thông tin cảnh báo ngay trong ngày nhận được thông tin từ Hệ thống ứng dụng đăng ký thuế theo danh mục tại Phụ lục 11 ban hành kèm theo Quy chế này.
+
+Trường hợp cơ quan thuế ban hành Thông báo về việc khôi phục trạng thái mã số thuế hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh cơ quan thuế cập nhật thông tin vào Hệ thống ứng dụng đăng ký thuế, Hệ thống ứng dụng đăng ký thuế truyền thông tin sang Hệ thống thông tin quốc gia về đăng ký hợp tác xã ngay trong ngày chuyển trạng thái mã số thuế của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh. Hệ thống thông tin quốc gia về đăng ký hợp tác xã thực hiện cập nhật thông tin và gỡ bỏ thông tin cảnh báo ngay trong ngày làm việc kể từ ngày nhận được thông tin từ Hệ thống ứng dụng đăng ký thuế.
+
+Điều 14. Trình tự thực hiện trao đổi thông tin về việc vi phạm pháp luật về thuế của người nộp thuế là hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh
+
+1. Cơ quan thuế cập nhật thông tin người nộp thuế là hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh có vi phạm pháp luật về thuế đã chuyển cơ quan điều tra vào Hệ thống ứng dụng đăng ký thuế. Hệ thống ứng dụng đăng ký thuế truyền thông tin sang Hệ thống thông tin quốc gia về đăng ký hợp tác xã ngay trong ngày cập nhật thông tin theo danh mục tại Phụ lục 17 ban hành kèm theo Quy chế này.
+
+2. Khi tiếp nhận hồ sơ đăng ký thành lập, đăng ký tạm ngừng, đăng ký thay đổi nội dung đăng ký hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh cơ quan đăng ký hợp tác xã có trách nhiệm kiểm tra, rà soát các trường hợp vi phạm pháp luật về thuế nêu tại khoản 1 Điều này đế xử lý theo quy định.
+
+Điều 15. Trình tự trao đổi thông tin về tình hình hoạt động của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh
+
+1. Tổng cục Thuế và Cục Quản lý đăng ký kinh doanh thực hiện việc trao đổi thông tin về tình hình hoạt động của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh nhằm rà soát, đối chiếu thông tin phục vụ công tác quản lý nhà nước của từng cơ quan.
+
+2. Tình hình hoạt động của hợp tác xã, đơn vị phụ thuộc thực hiện trao đổi theo quy định tại Điều này là các trạng thái mã số thuế của hợp tác xã, đơn vị phụ thuộc được cơ quan thuế và cơ quan đăng ký hợp tác xã quản lý, theo dõi trên hệ thống ứng dụng nhằm phục vụ các yêu cầu quản lý thuế, quản lý nhà nước khác.
+
+a) Các trạng thái của hợp tác xã, đơn vị phụ thuộc sử dụng chung giữa hai hệ thống bao gồm:
+
+- Trạng thái 00 “NNT đã được cấp MST”: là trạng thái áp dụng đối với các hợp tác xã, đơn vị phụ thuộc đã được cấp mã số thuế.
+
+- Trạng thái 01 “NNT ngừng hoạt động và đã hoàn thành thủ tục chấm dứt hiệu lực mã số thuế” là trạng thái hợp tác xã, đơn vị phụ thuộc, đã giải thể, đã phá sản, chấm dứt hoạt động, chấm dứt tồn tại trong trường hợp hợp tác xã bị chia, sáp nhập, hợp nhất và hoàn thành nghĩa vụ nộp thuế theo quy định.
+
+- Trạng thái 02 “NNT đã chuyển cơ quan thuế quản lý” là trạng thái hợp tác xã, đơn vị phụ thuộc đã hoàn thành thủ tục thuế tại cơ quan thuế nơi đi nhưng chưa đăng ký với cơ quan đăng ký hợp tác xã nơi chuyển đến.
+
+- Trạng thái 03 “NNT ngừng hoạt động nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực MST”: là trạng thái hợp tác xã đang làm thủ tục chấm dứt hiệu lực MST khi giải thể, chấm dứt tồn tại do tổ chức lại (chia, sáp nhập, hợp nhất) hợp tác xã; đơn vị phụ thuộc chấm dứt hoạt động đang làm thủ tục chấm dứt hiệu lực mã số thuế; hợp tác xã đã bị Tòa án có Quyết định tuyên bố phá sản nhưng chưa hoàn thành nghĩa vụ nộp thuế; hợp tác xã bị cơ quan có thẩm quyền thu hồi giấy phép hoạt động do vi phạm pháp luật nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực MST; hợp tác xã bị áp dụng biện pháp cưỡng chế nợ thuế theo quy định của Luật Quản lý thuế; đơn vị phụ thuộc chấm dứt hoạt động theo đơn vị chủ quản do đơn vị chủ quản đang làm thủ tục chấm dứt hiệu lực mã số thuế.
+
+- Trạng thái 05 “NNT tạm ngừng hoạt động, kinh doanh”: là trạng thái hợp tác xã, đơn vị phụ thuộc được cơ quan thuế hoặc cơ quan có thẩm quyền chấp thuận tạm ngừng hoạt động, kinh doanh trong thời gian cụ thể.
+
+- Trạng thái 06 “NNT không hoạt động tại địa chỉ đã đăng ký” là trạng thái cơ quan thuế ban hành Thông báo người nộp thuế không hoạt động tại địa chỉ kinh doanh đã đăng ký sau khi phối hợp với cơ quan nhà nước có thẩm quyền xác minh tại địa chỉ trụ sở của NNT.
+
+- Trạng thái 07 “NNT chờ làm thủ tục phá sản” là trạng thái Tòa án ban hành Quyết định mở thủ tục phá sản đối với hợp tác xã gửi cơ quan thuế.
+
+b) Các trạng thái mã số của hợp tác xã, đơn vị phụ thuộc quy định tại điểm a khoản 2 Điều này là căn cứ để các bên thống nhất số liệu thống kê và báo cáo về tình trạng hoạt động của hợp tác xã, đơn vị phụ thuộc.
+
+Các trạng thái mã số của hợp tác xã, đơn vị phụ thuộc chi tiết phục vụ yêu cầu quản lý của từng cơ quan thực hiện trao đổi giữa hai Hệ thống được quy định tại Phụ lục 1 ban hành kèm theo Quy chế này.
+
+3. Tình hình hoạt động địa điểm kinh doanh trao đổi theo quy định tại Điều này là các trạng thái hoạt động của địa điểm kinh doanh, bao gồm: Trạng thái 00 “NNT đang hoạt động”, trạng thái 01 “NNT giải thể/chấm dứt hoạt động”, trạng thái 03 “NNT ngừng hoạt động nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực MST”, trạng thái 05 "NNT tạm ngừng kinh doanh”, trạng thái 06 “NNT không hoạt động tại địa chỉ đã đăng ký”.
+
+4. Trình tự trao đổi thông tin về tình hình hoạt động của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh thực hiện như sau:
+
+Trường hợp có sự thay đổi về tình hình hoạt động của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh theo quy định tại khoản 2 và khoản 3 Điều này, Hệ thống ứng dụng đăng ký thuế truyền thông tin sang Hệ thống thông tin quốc gia về đăng ký hợp tác xã. Danh mục thông tin trao đổi quy định chi tiết tại Phụ lục 11 ban hành kèm theo Quy chế này.
+
+Điều 16. Các trường hợp không thực hiện trao đổi thông tin giữa Hệ thống thông tin quốc gia về đăng ký hợp tác xã và Hệ thống ứng dụng đăng ký thuế
+
+Các trường hợp không thực hiện trao đổi thông tin giữa hai Hệ thống bao gồm:
+
+1. Trường hợp cấp đăng ký hợp tác xã theo quy trình dự phòng quy định tại điểm 6d khoản 7 Điều 1 Thông tư số 07/2019/TT-BKHĐT.
+
+2. Các trường hợp đặc thù khác không quy định tại Quy chế này.
+
+Điều 17. Chuyển đổi dữ liệu lịch sử và đồng bộ thông tin về hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh
+
+1. Đối với dữ liệu lịch sử trước khi chuyển đổi phải rà soát và chuẩn hóa dữ liệu. Trong quá trình trao đổi, rà soát dữ liệu lịch sử hai bên phải có báo cáo đối chiếu để đảm bảo tình trạng đồng bộ thông tin giữa hai bên trước khi đưa vào Hệ thống.
+
+2. Định kỳ hàng tháng, quý, năm cơ quan thuế và cơ quan đăng ký hợp tác xã có trách nhiệm rà soát, chuẩn hóa dữ liệu để đồng bộ thông tin về hợp tác xã giữa hai Hệ thống.
+
+3. Các đơn vị đầu mối thông tin theo phân cấp, phân công cán bộ đầu mối phối hợp thực hiện quản trị và theo dõi, đối chiếu trên Hệ thống.
+
+Chương III
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 18. Trách nhiệm của các cơ quan liên quan
+
+1. Các cơ quan quy định tại Điều 2 Quy chế này có trách nhiệm như sau:
+
+a) Chịu trách nhiệm về tính chính xác của thông tin cung cấp so với thông tin trong Hệ thống do mình quản lý;
+
+b) Chịu trách nhiệm thực hiện việc trao đổi thông tin kịp thời, chính xác theo yêu cầu; đảm bảo tính đồng bộ, thống nhất dữ liệu giữa hai Hệ thống;
+
+c) Chịu trách nhiệm quản lý, sử dụng thông tin được cung cấp theo đúng quy định của pháp luật.
+
+2. Tổng cục Thuế và Cục Quản lý đăng ký kinh doanh chịu trách nhiệm chỉ đạo, hướng dẫn, đôn đốc các đơn vị thuộc, trực thuộc Tổng cục Thuế, Cục Quản lý đăng ký kinh doanh thực hiện tốt Quy chế và phối hợp, tổ chức phát triển, vận hành Hệ thống ứng dụng đăng ký thuế và Hệ thống thông tin quốc gia về đăng ký hợp tác xã để thực hiện quy trình trao đổi thông tin đăng ký hợp tác xã, thông tin về tình hình hoạt động của hợp tác xã theo quy định tại Quy chế này.
+
+3. Trong trường hợp cần thiết theo nhu cầu quản lý nhà nước hoặc do điều kiện kỹ thuật, Tổng cục Thuế và Cục Quản lý đăng ký kinh doanh trao đổi, thống nhất sửa đổi, bổ sung hoặc ban hành mới Danh mục thông tin trao đổi giữa Hệ thống thông tin quốc gia về đăng ký hợp tác xã và Hệ thống ứng dụng đăng ký thuế.
+
+Điều 19. Điều kiện bảo đảm về cơ sở vật chất kỹ thuật
+
+Tổng cục Thuế, Cục Quản lý đăng ký kinh doanh chịu trách nhiệm chuẩn bị, nâng cấp cơ sở vật chất kỹ thuật phục vụ việc trao đổi thông tin giữa hai Hệ thống theo quy định tại Quy chế này.
+
+Điều 20. Phối hợp kiểm tra, xử lý lỗi hệ thống
+
+Khi phát hiện sự cố truyền gửi dữ liệu giữa hai Hệ thống, các bên kiểm tra hạ tầng hệ thống mạng, phần cứng và phần mềm để khắc phục lỗi (nếu có). Nếu lỗi xác định không do hệ thống thuộc trách nhiệm quản lý, các bên thông báo kịp thời cho bên kia để phối hợp kiểm tra, xử lý và khắc phục sự cố.
+
+Điều 21. Điều khoản thi hành
+
+1. Quy chế này có hiệu lực thi hành kể từ ngày tháng năm 2022.
+
+2. Tổng cục Thuế, Cục Quản lý đăng ký kinh doanh, Phòng Đăng ký kinh doanh, Cục Thuế, Chi cục Thuế, Chi cục Thuế khu vực, Phòng Tài chính - Kế hoạch thuộc Ủy ban nhân nhân cấp huyện và các tổ chức, cá nhân có liên quan chịu trách nhiệm thực hiện Quy chế này.
+
+3. Trong quá trình thực hiện, nếu có vướng mắc đề nghị các tổ chức, cá nhân có liên quan phản ánh về Bộ Kế hoạch và Đầu tư, Bộ Tài chính để nghiên cứu, giải quyết./.
+
+| KT. BỘ TRƯỞNG BỘ TÀI CHÍNH THỨ TRƯỞNG Trần Xuân Hà                                                                                                                                                                                                                                                                 | KT. BỘ TRƯỞNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ THỨ TRƯỞNG Trần Duy Đông |
+
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+
+| Nơi nhận: - Văn phòng Chính phủ; - Bộ trưởng Bộ Tài chính (để b/cáo); - Bộ trưởng Bộ Kế hoạch & Đầu tư (để b/cáo); - UBND các tỉnh, TP trực thuộc TW; - Sở KH&ĐT các tỉnh, TP trực thuộc TW; - Cục Thuế các tỉnh, TP trực thuộc TW; - Các đơn vị thuộc Bộ KH&ĐT và Bộ TC; - Lưu; VT BKHĐT và BTC, Cục QLĐKKD, TCT. |                                                              |
+
+KT. BỘ TRƯỞNG BỘ TÀI CHÍNH THỨ TRƯỞNG Trần Xuân Hà
+
+KT. BỘ TRƯỞNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ THỨ TRƯỞNG Trần Duy Đông
+
+Nơi nhận: - Văn phòng Chính phủ; - Bộ trưởng Bộ Tài chính (để b/cáo); - Bộ trưởng Bộ Kế hoạch & Đầu tư (để b/cáo); - UBND các tỉnh, TP trực thuộc TW; - Sở KH&ĐT các tỉnh, TP trực thuộc TW; - Cục Thuế các tỉnh, TP trực thuộc TW; - Các đơn vị thuộc Bộ KH&ĐT và Bộ TC; - Lưu; VT BKHĐT và BTC, Cục QLĐKKD, TCT.
+
+PHỤ LỤC 1
+
+DANH MỤC TÌNH TRẠNG HOẠT ĐỘNG CỦA HỢP TÁC XÃ, ĐƠN VỊ PHỤ THUỘC, ĐỊA ĐIỂM KINH DOANH (Kèm theo Quy chế liên thông số 01/2022/QCLT-BTC-BKHĐT ngày 13 tháng 01 năm 2022 của Bộ Tài chính và Bộ Kế hoạch và Đầu tư)
+
+| TT                                                                                                                | Tên trạng thái                                                                                 | Danh mục tình trạng hoạt động của HTX, đơn vị phụ thuộc, địa điểm kinh doanh trên Hệ thống thông tin quốc gia về đăng ký HTX | Danh mục trạng thái mã số thuế của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh trên Hệ thống ứng dụng đăng ký thuế                  |    |    |
+
+|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|----|----|
+
+| Tên tình trạng                                                                                                    | Tên trạng thái                                                                                 | Mã trạng thái                                                                                                                | Mã lý do                                                                                                                                  |    |    |
+
+| 1                                                                                                                 | NNT đã được cấp MST                                                                            | HTX đang hoạt động                                                                                                           | HTX chưa đi vào hoạt động                                                                                                                 | 00 | 01 |
+
+| HTX đang hoạt động                                                                                                | 00                                                                                             | 02                                                                                                                           |                                                                                                                                           |    |    |
+
+| 2                                                                                                                 | NNT ngừng hoạt động và đã hoàn thành thủ tục chấm dứt hiệu lực MST                             | HTX đã giải thể, phá sản (bao gồm cả HTX chấm dứt tồn tại do chia, hợp nhất, sáp nhập)                                       | Tổ chức lại HTX (chia, sáp nhập, hợp nhất)                                                                                                | 01 | 03 |
+
+| Giải thể/chấm dứt hoạt động đối với hợp tác xã (bao gồm đơn vị phụ thuộc, địa điểm kinh doanh)                    | 01                                                                                             | 07                                                                                                                           |                                                                                                                                           |    |    |
+
+| HTX đã phá sản                                                                                                    | 01                                                                                             | 08                                                                                                                           |                                                                                                                                           |    |    |
+
+| 3                                                                                                                 | NNT đã chuyển cơ quan thuế quản lý                                                             |                                                                                                                              | NNT đã hoàn thành thủ tục thuế tại cơ quan thuế nơi đi nhưng chưa đăng ký với cơ quan thuế hoặc cơ quan đăng ký hợp tác xã nơi chuyển đến | 02 | 01 |
+
+| 4                                                                                                                 | NNT ngừng hoạt động nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực MST                        | HTX đang làm thủ tục giải thể (bao gồm cả HTX đang làm thủ tục chia, hợp nhất, sáp nhập), chấm dứt hoạt động.                | HTX đã có quyết định giải thể và đang làm thủ tục về thuế với CQT                                                                         | 03 | 11 |
+
+| Tổ chức lại doanh nghiệp, tổ chức khác; (chia, sáp nhập, hợp nhất)                                                | 03                                                                                             | 03                                                                                                                           |                                                                                                                                           |    |    |
+
+| HTX bị thu hồi Giấy phép hoạt động                                                                                | Bị thu hồi Giấy phép hoạt động do vi phạm pháp luật                                            | 03                                                                                                                           | 13                                                                                                                                        |    |    |
+
+| Bị thu hồi Giấy phép hoạt động do cưỡng  chế nợ thuế                                                              | 03                                                                                             | 15                                                                                                                           |                                                                                                                                           |    |    |
+
+| HTX đã phá sản nhưng chưa hoàn thành nghĩa vụ nộp thuế                                                            | HTX đã có QĐ tuyên bố phá sản của tòa án                                                       | 03                                                                                                                           | 08                                                                                                                                        |    |    |
+
+| Đơn vị phụ thuộc, địa điểm kinh doanh của HTX ngừng hoạt động nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực MST | Chờ làm thủ tục chấm dứt hoạt động đối với HTX (bao gồm đơn vị phụ thuộc, địa điểm kinh doanh) | 03                                                                                                                           | 19                                                                                                                                        |    |    |
+
+| Đơn vị phụ thuộc của HTX bị chấm dứt theo đơn vị chủ quản                                                         | Là đơn vị phụ thuộc bị chấm dứt hiệu lực MST theo đơn vị chủ quản                              | 03                                                                                                                           | 17                                                                                                                                        |    |    |
+
+| 5                                                                                                                 | NNT tạm ngừng hoạt động, kinh doanh                                                            | HTX, đơn vị phụ thuộc tạm ngừng kinh doanh                                                                                   | CQT chuyển trạng thái mã số thuế của NNT về tạm ngừng hoạt động, kinh doanh trong thời hạn cụ thể                                         | 05 | 01 |
+
+| 6                                                                                                                 | NNT không hoạt dụng tại địa chỉ đã đăng                                                        | HTX không còn hoạt động tại địa chỉ đã đăng ký                                                                               | CQT ban hành Thông báo NNT không hoạt động tại địa chỉ kinh doanh đã đăng ký                                                              | 06 | 09 |
+
+| 7                                                                                                                 | NNT chờ làm thủ tục phá sản                                                                    |                                                                                                                              | Tòa án ban hành Quyết định mở thủ tục phá sản                                                                                             | 07 | 01 |
+
+TT
+
+Tên trạng thái
+
+Danh mục tình trạng hoạt động của HTX, đơn vị phụ thuộc, địa điểm kinh doanh trên Hệ thống thông tin quốc gia về đăng ký HTX
+
+Danh mục trạng thái mã số thuế của hợp tác xã, đơn vị phụ thuộc, địa điểm kinh doanh trên Hệ thống ứng dụng đăng ký thuế
+
+Tên tình trạng
+
+Tên trạng thái
+
+Mã trạng thái
+
+Mã lý do
+
+1
+
+NNT đã được cấp MST
+
+HTX đang hoạt động
+
+HTX chưa đi vào hoạt động
+
+00
+
+01
+
+HTX đang hoạt động
+
+00
+
+02
+
+2
+
+NNT ngừng hoạt động và đã hoàn thành thủ tục chấm dứt hiệu lực MST
+
+HTX đã giải thể, phá sản (bao gồm cả HTX chấm dứt tồn tại do chia, hợp nhất, sáp nhập)
+
+Tổ chức lại HTX (chia, sáp nhập, hợp nhất)
+
+01
+
+03
+
+Giải thể/chấm dứt hoạt động đối với hợp tác xã (bao gồm đơn vị phụ thuộc, địa điểm kinh doanh)
+
+01
+
+07
+
+HTX đã phá sản
+
+01
+
+08
+
+3
+
+NNT đã chuyển cơ quan thuế quản lý
+
+NNT đã hoàn thành thủ tục thuế tại cơ quan thuế nơi đi nhưng chưa đăng ký với cơ quan thuế hoặc cơ quan đăng ký hợp tác xã nơi chuyển đến
+
+02
+
+01
+
+4
+
+NNT ngừng hoạt động nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực MST
+
+HTX đang làm thủ tục giải thể (bao gồm cả HTX đang làm thủ tục chia, hợp nhất, sáp nhập), chấm dứt hoạt động.
+
+HTX đã có quyết định giải thể và đang làm thủ tục về thuế với CQT
+
+03
+
+11
+
+Tổ chức lại doanh nghiệp, tổ chức khác; (chia, sáp nhập, hợp nhất)
+
+03
+
+03
+
+HTX bị thu hồi Giấy phép hoạt động
+
+Bị thu hồi Giấy phép hoạt động do vi phạm pháp luật
+
+03
+
+13
+
+Bị thu hồi Giấy phép hoạt động do cưỡng chế nợ thuế
+
+03
+
+15
+
+HTX đã phá sản nhưng chưa hoàn thành nghĩa vụ nộp thuế
+
+HTX đã có QĐ tuyên bố phá sản của tòa án
+
+03
+
+08
+
+Đơn vị phụ thuộc, địa điểm kinh doanh của HTX ngừng hoạt động nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực MST
+
+Chờ làm thủ tục chấm dứt hoạt động đối với HTX (bao gồm đơn vị phụ thuộc, địa điểm kinh doanh)
+
+03
+
+19
+
+Đơn vị phụ thuộc của HTX bị chấm dứt theo đơn vị chủ quản
+
+Là đơn vị phụ thuộc bị chấm dứt hiệu lực MST theo đơn vị chủ quản
+
+03
+
+17
+
+5
+
+NNT tạm ngừng hoạt động, kinh doanh
+
+HTX, đơn vị phụ thuộc tạm ngừng kinh doanh
+
+CQT chuyển trạng thái mã số thuế của NNT về tạm ngừng hoạt động, kinh doanh trong thời hạn cụ thể
+
+05
+
+01
+
+6
+
+NNT không hoạt dụng tại địa chỉ đã đăng
+
+HTX không còn hoạt động tại địa chỉ đã đăng ký
+
+CQT ban hành Thông báo NNT không hoạt động tại địa chỉ kinh doanh đã đăng ký
+
+06
+
+09
+
+7
+
+NNT chờ làm thủ tục phá sản
+
+Tòa án ban hành Quyết định mở thủ tục phá sản
+
+07
+
+01
+
+PHỤ LỤC 2
+
+DANH MỤC GIAO DỊCH (Kèm theo Quy chế liên thông số 01/2022/QCLT-BTC-BKHĐT ngày 13 tháng 01 năm 2022 của Bộ Tài chính và Bộ Kế hoạch và Đầu tư)
+
+| Mã giao dịch | Mô tả giao dịch                                                                                                  |
+
+|--------------|------------------------------------------------------------------------------------------------------------------|
+
+| 01           | Đăng ký mới cho hợp tác xã                                                                                       |
+
+| 02           | Đăng ký mới cho chi nhánh, văn phòng đại diện, địa điểm kinh doanh                                               |
+
+| 03           | Đăng ký thay đổi thông tin                                                                                       |
+
+| 04           | Đăng ký thay đổi địa chỉ trụ sở làm thay đổi CQT quản lý                                                         |
+
+| 05           | Đăng ký tạm ngừng kinh doanh                                                                                     |
+
+| 06           | Giải thể, chấm dứt tồn tại hợp tác xã, chấm dứt hoạt động đơn vị phụ thuộc, địa điểm kinh doanh                  |
+
+| 07           | Khôi phục tạm ngừng kinh doanh                                                                                   |
+
+| 08           | Thu hồi GCN ĐKHTX (kèm theo lý do thu hồi)                                                                       |
+
+| 09           | Thông báo vi phạm thuộc trường hợp thu hồi GCN ĐKHTX                                                             |
+
+| 10           | Thông báo vi phạm về thuế                                                                                        |
+
+| 11           | Quyết định giải thể                                                                                              |
+
+| 12           | Xác nhận hoàn thành nghĩa vụ thuế khi giải thể, chấm dứt tồn tại hợp tác xã, chấm dứt hoạt động đơn vị phụ thuộc |
+
+Mã giao dịch
+
+Mô tả giao dịch
+
+01
+
+Đăng ký mới cho hợp tác xã
+
+02
+
+Đăng ký mới cho chi nhánh, văn phòng đại diện, địa điểm kinh doanh
+
+03
+
+Đăng ký thay đổi thông tin
+
+04
+
+Đăng ký thay đổi địa chỉ trụ sở làm thay đổi CQT quản lý
+
+05
+
+Đăng ký tạm ngừng kinh doanh
+
+06
+
+Giải thể, chấm dứt tồn tại hợp tác xã, chấm dứt hoạt động đơn vị phụ thuộc, địa điểm kinh doanh
+
+07
+
+Khôi phục tạm ngừng kinh doanh
+
+08
+
+Thu hồi GCN ĐKHTX (kèm theo lý do thu hồi)
+
+09
+
+Thông báo vi phạm thuộc trường hợp thu hồi GCN ĐKHTX
+
+10
+
+Thông báo vi phạm về thuế
+
+11
+
+Quyết định giải thể
+
+12
+
+Xác nhận hoàn thành nghĩa vụ thuế khi giải thể, chấm dứt tồn tại hợp tác xã, chấm dứt hoạt động đơn vị phụ thuộc
+
+PHỤ LỤC 3
+
+DANH MỤC KẾT QUẢ TRẢ VỀ TỪ HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ (Kèm theo Quy chế liên thông số 01/2022/QCLT-BTC-BKHĐT ngày 13 tháng 01 năm 2022 của Bộ Tài chính và Bộ Kế hoạch và Đầu tư)
+
+| Mã Lỗi | Nội dung xác nhận/lỗi                                                                                                                                                                                             | Hướng xử lý                                                                                                                                                                                                                                                                  |
+
+|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| 00     | Xác nhận giao dịch thành công                                                                                                                                                                                     |                                                                                                                                                                                                                                                                              |
+
+| 01     | MST không tồn tại trên hệ thống thuế                                                                                                                                                                              | Thông tin của NNT chưa được CQT ghi nhận. Đề nghị CQ ĐKHTX hoàn thiện và truyền lại cho CQT để cập nhật thông tin cho NNT.                                                                                                                                                   |
+
+| 02     | NNT chưa hoàn thành nghĩa vụ thuế tại cơ quan thuế trước khi chuyển địa điểm/giải thể/chấm dứt hoạt động                                                                                                          | Thông tin của NNT chưa được CQT ghi nhận. Đề nghị CQ ĐKHTX hướng dẫn NNT đến CQT quản lý để làm thủ tục hoàn thành NVT theo quy định của pháp luật thuế.                                                                                                                     |
+
+| 03     | Thiếu thông tin bắt buộc <ghi cụ thể tên thông tin thiếu>                                                                                                                                                         | Thông tin của NNT chưa được CQT ghi nhận. Đề nghị CQ ĐKHTX hoàn thiện và truyền lại cho CQT để cập nhật thông tin cho NNT.                                                                                                                                                   |
+
+| 04     | MST đơn vị chủ quản của mã số thuế 13 số hoặc mã địa điểm kinh doanh không tồn tại trong hệ thống thuế                                                                                                            | Thông tin của NNT chưa được CQT ghi nhận. Đề nghị CQ ĐKHTX hoàn thiện và truyền lại cho CQT để cập nhật thông tin cho NNT.                                                                                                                                                   |
+
+| 05     | Mã số thuế của đơn vị chủ quản của mã số thuế 13 số hoặc mã địa điểm kinh doanh đã chấm dứt hiệu lực tại CQT (trạng thái 01)                                                                                      | Thông tin của NNT chưa được CQT ghi nhận. Đề nghị CQ ĐKHTX hướng dẫn NNT làm thủ tục chấm dứt hoạt động của đơn vị phụ thuộc hoặc địa điểm kinh doanh do đã chấm dứt hiệu lực MST tại CQT.                                                                                   |
+
+| 06     | Địa chỉ trụ sở NNT đăng ký với cơ quan đăng ký HTX không khớp với địa chỉ NNT đã đăng ký với CQT nơi chuyển đi. Địa chỉ của NNT tại CQT là <ghi đầy đủ địa chỉ của NNT>. Thông tin của NNT chưa được CQT ghi nhận | Địa chỉ của NNT tại CQT là <ghi đầy đủ địa chỉ của NNT>. Thông tin của NNT chưa được CQT ghi nhận. Đề nghị CQ ĐKHTX hoàn thiện và truyền lại cho CQT để cập nhật thông tin cho NNT.                                                                                          |
+
+| 07     | MST tại cơ quan thuế đang ở trạng thái <tên trạng thái>                                                                                                                                                           | Thông tin của NNT chưa được CQT ghi nhận. Nếu trạng thái MST là 01 thì ghi thêm: “Đề nghị CQ ĐKHTX hướng dẫn NNT làm thủ tục giải thể/chấm dứt tồn tại/chấm dứt hoạt động do đã chấm dứt hiệu lực MST tại CQT”.                                                              |
+
+| 08     | MST chưa được tạm ngừng kinh doanh tại cơ quan thuế. Giao dịch khôi phục tạm ngừng kinh doanh của NNT không được cơ quan thuế ghi nhận                                                                            | Đề nghị CQ ĐKHTX kiểm tra giao dịch khôi phục đảm bảo tính hợp lệ của giao dịch này. Trường hợp giao dịch khôi phục hợp lệ thì gửi lại giao dịch tạm ngừng kinh doanh và giao dịch khôi phục cho CQT để cập nhật thông tin cho NNT.                                          |
+
+| 09     | Địa chỉ trụ sở (tỉnh/TP) trên hồ sơ chuyển địa điểm tại CQT khác với nơi nộp hồ sơ đăng ký HTX                                                                                                                    | Thông tin của NNT không được CQT ghi nhận. Đề nghị CQ ĐKHTX kiểm tra thông tin 1 địa chỉ trụ sở và gửi lại giao 1 dịch có thông tin “Địa chỉ trụ sở (tỉnh/TP) của NNT trùng với tỉnh/TP nơi nộp hồ sơ ĐKHTX” để cập nhật thông tin cho NNT.                                  |
+
+| 10     | 10 ký tự đầu của MST đơn vị phụ 1 thuộc không trùng với MST đơn vị chủ quản                                                                                                                                       | Thông tin của NNT không được CQT ghi nhận. Đề nghị CQ ĐKHTX kiểm tra thông tin MST đơn vị chủ quản hoặc MST đơn vị trực thuộc (10 ký tự đầu của MST đơn vị trực thuộc phải trùng với MST đơn vị chủ quản) và gửi lại giao dịch hợp lệ cho CQT để cập nhật thông tin cho NNT. |
+
+| 11     | Địa chỉ trụ sở của đơn vị chủ quản trên giao dịch của đơn vị phụ thuộc không trùng với địa chỉ trụ sở của đơn vị chủ quản tại hệ thống thuế. Địa chỉ trụ sở của đơn vị chủ quản tại CQT là <ghi đầy đủ địa chỉ>   | Thông tin của NNT không được CQT ghi nhận. Đề nghị CQ ĐKHTX kiểm tra lại thông tin và gửi lại giao dịch hợp lệ cho CQT để cập nhật thông tin cho NNT.                                                                                                                        |
+
+| 12     | NNT đã hoàn thành nghĩa vụ thuế tại CQT                                                                                                                                                                           | Giao dịch chuyển địa điểm/giải thể (NNT có hồ sơ giải thể, tổ 1 chức lại hợp tác xã)                                                                                                                                                                                         |
+
+| 13     | NNT có trạng thái <tên trạng thái> tại cơ quan thuế. Cơ quan thuế đã cập nhật thông tin của NNT vào hệ thống. CQT gửi CQ ĐKHTX biết và xử lý theo quy định                                                        | CQT gửi CQ ĐKHTX biết để yêu cầu NNT gửi hồ sơ đối với giao dịch 03 (Thay đổi thông tin): Trạng thái MST là 02, 03, 06. Giao dịch 05 (tạm ngừng kinh doanh): Trạng thái MST là 02, 03, 06.                                                                                   |
+
+| 14     | Trùng GCN đầu tư với NNT khác <tên NNT, MST NNT>. CQT đã ghi nhận thông tin của NNT vào hệ thống. CQT gửi CQ ĐKHTX biết và xử lý theo quy định                                                                    | Đề nghị CQ ĐKMTX kiểm tra giao dịch Đăng ký mới/thay đổi thông tin. Chỉ kiểm tra đối với DN có trạng thái khác trạng thái 01.                                                                                                                                                |
+
+| 15     | Cơ quan thực không ghi nhận thông tin của NNT (ghi rõ lý do không ghi nhận)                                                                                                                                       | Đề nghị CQ ĐKHTX kiểm tra và hoàn thiện thông tin có sai sót <ghi cụ thể thông tin có sai sót ngoài các thông tin hệ thống đã kiểm tra> gửi lại CQT để cập nhật thông tin cho NNT.                                                                                           |
+
+| 16     | MST tại CQT không phải là HTX, đơn vị phụ thuộc của HTX. CQT không ghi nhận thông tin của NNT                                                                                                                     | Đề nghị CQ ĐKHTX kiểm tra thông tin mã số thuế phải là mã số thuế của HTX, đơn vị phụ thuộc.                                                                                                                                                                                 |
+
+| 17     | Thông tin của NNT bị lỗi: <ghi rõ thông tin lỗi>                                                                                                                                                                  | Đề nghị CQ ĐKHTX kiểm tra và điều chỉnh thông tin đảm bảo thông tin hợp lệ.                                                                                                                                                                                                  |
+
+| 18     | Thông tin &1 không hợp lệ do không có trong danh mục của hệ thống thuế                                                                                                                                            | Đề nghị CQ ĐKHTX kiểm tra và điều chỉnh thông tin đảm bảo thông tin hợp lệ.                                                                                                                                                                                                  |
+
+| 19     | Thông tin phường/xã không thuộc quận/huyện và/hoặc quận/huyện không thuộc tỉnh/thành phố                                                                                                                          | Đề nghị CQ ĐKHTX kiểm tra và điều chỉnh thông tin đảm bảo thông tin hợp lệ.                                                                                                                                                                                                  |
+
+| 20     | Địa chỉ <tên bộ địa chỉ> thiếu thông tin <ghi rõ thông tin thiếu>                                                                                                                                                 | Đề nghị CQ ĐKHTX bổ sung thông tin còn thiếu đảm bảo thông tin hợp lệ.                                                                                                                                                                                                       |
+
+| 21     | Thiếu thông tin <ghi rõ thông tin thiếu> tại danh sách <thành viên hợp tác xã; hoặc danh sách Hội đồng quản trị, Giám đốc (Tổng giám đốc), Ban kiểm soát, (kiểm soát viên) của hợp tác xã>                        | Đề nghị CQ ĐKHTX bổ sung thông tin còn thiếu đảm bảo thông tin hợp lệ.                                                                                                                                                                                                       |
+
+| 22     | Bắt buộc kê khai tối thiểu 7 thành viên trên danh sách thành viên hợp tác xã                                                                                                                                      | Đề nghị CQ ĐKHTX kiểm tra và điều chỉnh thông tin đảm bảo thông tin hợp lệ.                                                                                                                                                                                                  |
+
+| 23     | Bắt buộc kê khai tối thiểu 4 hợp tác xã trên danh sách thành viên Liên hiệp hợp tác xã.                                                                                                                           | Đề nghị CQ ĐKHTX kiểm tra và điều chỉnh thông tin đảm bảo thông tin hợp lệ.                                                                                                                                                                                                  |
+
+| 24     | Bắt buộc kê khai tối thiểu 3 cá nhân, 1 tối đa là 15 cá nhân trên danh sách Hội đồng quản trị                                                                                                                     | Đề nghị CQ ĐKHTX kiểm tra và điều chỉnh thông tin đảm bảo thông tin hợp lệ.                                                                                                                                                                                                  |
+
+| 25     | Cá nhân là thành viên Hội đồng quản trị phải là thành viên HTX nhưng không được là thành viên Ban kiểm soát                                                                                                       | Đề nghị CQ ĐKHTX kiểm tra và điều chỉnh thông tin đảm bảo thông tin hợp lệ.                                                                                                                                                                                                  |
+
+| 26     | Chỉ được phép kê khai tối đa là 7 người trên danh sách Ban kiểm soát (kiểm soát viên)                                                                                                                             | Đề nghị CQ ĐKHTX kiểm tra và điều chỉnh thông tin đảm bảo thông tin hợp lệ.                                                                                                                                                                                                  |
+
+| 27     | Người đại diện theo pháp luật của HTX này là giám đốc của HTX bỏ địa điểm kinh doanh tại CQT <tên, MST>. CQT đã ghi nhận thông tin của NNT vào hệ thống. CQT gửi CQ ĐKKD biết và xử lý theo quy định              | Đề nghị CQ ĐKHTX kiểm tra thông tin tại giao dịch đăng ký mới/thay đổi thông tin/chuyển địa điểm.                                                                                                                                                                            |
+
+Mã Lỗi
+
+Nội dung xác nhận/lỗi
+
+Hướng xử lý
+
+00
+
+Xác nhận giao dịch thành công
+
+01
+
+MST không tồn tại trên hệ thống thuế
+
+Thông tin của NNT chưa được CQT ghi nhận. Đề nghị CQ ĐKHTX hoàn thiện và truyền lại cho CQT để cập nhật thông tin cho NNT.
+
+02
+
+NNT chưa hoàn thành nghĩa vụ thuế tại cơ quan thuế trước khi chuyển địa điểm/giải thể/chấm dứt hoạt động
+
+Thông tin của NNT chưa được CQT ghi nhận. Đề nghị CQ ĐKHTX hướng dẫn NNT đến CQT quản lý để làm thủ tục hoàn thành NVT theo quy định của pháp luật thuế.
+
+03
+
+Thiếu thông tin bắt buộc <ghi cụ thể tên thông tin thiếu>
+
+Thông tin của NNT chưa được CQT ghi nhận. Đề nghị CQ ĐKHTX hoàn thiện và truyền lại cho CQT để cập nhật thông tin cho NNT.
+
+04
+
+MST đơn vị chủ quản của mã số thuế 13 số hoặc mã địa điểm kinh doanh không tồn tại trong hệ thống thuế
+
+Thông tin của NNT chưa được CQT ghi nhận. Đề nghị CQ ĐKHTX hoàn thiện và truyền lại cho CQT để cập nhật thông tin cho NNT.
+
+05
+
+Mã số thuế của đơn vị chủ quản của mã số thuế 13 số hoặc mã địa điểm kinh doanh đã chấm dứt hiệu lực tại CQT (trạng thái 01)
+
+Thông tin của NNT chưa được CQT ghi nhận. Đề nghị CQ ĐKHTX hướng dẫn NNT làm thủ tục chấm dứt hoạt động của đơn vị phụ thuộc hoặc địa điểm kinh doanh do đã chấm dứt hiệu lực MST tại CQT.
+
+06
+
+Địa chỉ trụ sở NNT đăng ký với cơ quan đăng ký HTX không khớp với địa chỉ NNT đã đăng ký với CQT nơi chuyển đi. Địa chỉ của NNT tại CQT là <ghi đầy đủ địa chỉ của NNT>. Thông tin của NNT chưa được CQT ghi nhận
+
+Địa chỉ của NNT tại CQT là <ghi đầy đủ địa chỉ của NNT>. Thông tin của NNT chưa được CQT ghi nhận. Đề nghị CQ ĐKHTX hoàn thiện và truyền lại cho CQT để cập nhật thông tin cho NNT.
+
+07
+
+MST tại cơ quan thuế đang ở trạng thái <tên trạng thái>
+
+Thông tin của NNT chưa được CQT ghi nhận. Nếu trạng thái MST là 01 thì ghi thêm: “Đề nghị CQ ĐKHTX hướng dẫn NNT làm thủ tục giải thể/chấm dứt tồn tại/chấm dứt hoạt động do đã chấm dứt hiệu lực MST tại CQT”.
+
+08
+
+MST chưa được tạm ngừng kinh doanh tại cơ quan thuế. Giao dịch khôi phục tạm ngừng kinh doanh của NNT không được cơ quan thuế ghi nhận
+
+Đề nghị CQ ĐKHTX kiểm tra giao dịch khôi phục đảm bảo tính hợp lệ của giao dịch này. Trường hợp giao dịch khôi phục hợp lệ thì gửi lại giao dịch tạm ngừng kinh doanh và giao dịch khôi phục cho CQT để cập nhật thông tin cho NNT.
+
+09
+
+Địa chỉ trụ sở (tỉnh/TP) trên hồ sơ chuyển địa điểm tại CQT khác với nơi nộp hồ sơ đăng ký HTX
+
+Thông tin của NNT không được CQT ghi nhận. Đề nghị CQ ĐKHTX kiểm tra thông tin 1 địa chỉ trụ sở và gửi lại giao 1 dịch có thông tin “Địa chỉ trụ sở (tỉnh/TP) của NNT trùng với tỉnh/TP nơi nộp hồ sơ ĐKHTX” để cập nhật thông tin cho NNT.
+
+10
+
+10 ký tự đầu của MST đơn vị phụ 1 thuộc không trùng với MST đơn vị chủ quản
+
+Thông tin của NNT không được CQT ghi nhận. Đề nghị CQ ĐKHTX kiểm tra thông tin MST đơn vị chủ quản hoặc MST đơn vị trực thuộc (10 ký tự đầu của MST đơn vị trực thuộc phải trùng với MST đơn vị chủ quản) và gửi lại giao dịch hợp lệ cho CQT để cập nhật thông tin cho NNT.
+
+11
+
+Địa chỉ trụ sở của đơn vị chủ quản trên giao dịch của đơn vị phụ thuộc không trùng với địa chỉ trụ sở của đơn vị chủ quản tại hệ thống thuế. Địa chỉ trụ sở của đơn vị chủ quản tại CQT là <ghi đầy đủ địa chỉ>
+
+Thông tin của NNT không được CQT ghi nhận. Đề nghị CQ ĐKHTX kiểm tra lại thông tin và gửi lại giao dịch hợp lệ cho CQT để cập nhật thông tin cho NNT.
+
+12
+
+NNT đã hoàn thành nghĩa vụ thuế tại CQT
+
+Giao dịch chuyển địa điểm/giải thể (NNT có hồ sơ giải thể, tổ 1 chức lại hợp tác xã)
+
+13
+
+NNT có trạng thái <tên trạng thái> tại cơ quan thuế. Cơ quan thuế đã cập nhật thông tin của NNT vào hệ thống. CQT gửi CQ ĐKHTX biết và xử lý theo quy định
+
+CQT gửi CQ ĐKHTX biết để yêu cầu NNT gửi hồ sơ đối với giao dịch 03 (Thay đổi thông tin): Trạng thái MST là 02, 03, 06.
+
+Giao dịch 05 (tạm ngừng kinh doanh): Trạng thái MST là 02, 03, 06.
+
+14
+
+Trùng GCN đầu tư với NNT khác <tên NNT, MST NNT>. CQT đã ghi nhận thông tin của NNT vào hệ thống. CQT gửi CQ ĐKHTX biết và xử lý theo quy định
+
+Đề nghị CQ ĐKMTX kiểm tra giao dịch Đăng ký mới/thay đổi thông tin. Chỉ kiểm tra đối với DN có trạng thái khác trạng thái 01.
+
+15
+
+Cơ quan thực không ghi nhận thông tin của NNT (ghi rõ lý do không ghi nhận)
+
+Đề nghị CQ ĐKHTX kiểm tra và hoàn thiện thông tin có sai sót <ghi cụ thể thông tin có sai sót ngoài các thông tin hệ thống đã kiểm tra> gửi lại CQT để cập nhật thông tin cho NNT.
+
+16
+
+MST tại CQT không phải là HTX, đơn vị phụ thuộc của HTX. CQT không ghi nhận thông tin của NNT
+
+Đề nghị CQ ĐKHTX kiểm tra thông tin mã số thuế phải là mã số thuế của HTX, đơn vị phụ thuộc.
+
+17
+
+Thông tin của NNT bị lỗi: <ghi rõ thông tin lỗi>
+
+Đề nghị CQ ĐKHTX kiểm tra và điều chỉnh thông tin đảm bảo thông tin hợp lệ.
+
+18
+
+Thông tin &1 không hợp lệ do không có trong danh mục của hệ thống thuế
+
+Đề nghị CQ ĐKHTX kiểm tra và điều chỉnh thông tin đảm bảo thông tin hợp lệ.
+
+19
+
+Thông tin phường/xã không thuộc quận/huyện và/hoặc quận/huyện không thuộc tỉnh/thành phố
+
+Đề nghị CQ ĐKHTX kiểm tra và điều chỉnh thông tin đảm bảo thông tin hợp lệ.
+
+20
+
+Địa chỉ <tên bộ địa chỉ> thiếu thông tin <ghi rõ thông tin thiếu>
+
+Đề nghị CQ ĐKHTX bổ sung thông tin còn thiếu đảm bảo thông tin hợp lệ.
+
+21
+
+Thiếu thông tin <ghi rõ thông tin thiếu> tại danh sách <thành viên hợp tác xã; hoặc danh sách Hội đồng quản trị, Giám đốc (Tổng giám đốc), Ban kiểm soát, (kiểm soát viên) của hợp tác xã>
+
+Đề nghị CQ ĐKHTX bổ sung thông tin còn thiếu đảm bảo thông tin hợp lệ.
+
+22
+
+Bắt buộc kê khai tối thiểu 7 thành viên trên danh sách thành viên hợp tác xã
+
+Đề nghị CQ ĐKHTX kiểm tra và điều chỉnh thông tin đảm bảo thông tin hợp lệ.
+
+23
+
+Bắt buộc kê khai tối thiểu 4 hợp tác xã trên danh sách thành viên Liên hiệp hợp tác xã.
+
+Đề nghị CQ ĐKHTX kiểm tra và điều chỉnh thông tin đảm bảo thông tin hợp lệ.
+
+24
+
+Bắt buộc kê khai tối thiểu 3 cá nhân, 1 tối đa là 15 cá nhân trên danh sách Hội đồng quản trị
+
+Đề nghị CQ ĐKHTX kiểm tra và điều chỉnh thông tin đảm bảo thông tin hợp lệ.
+
+25
+
+Cá nhân là thành viên Hội đồng quản trị phải là thành viên HTX nhưng không được là thành viên Ban kiểm soát
+
+Đề nghị CQ ĐKHTX kiểm tra và điều chỉnh thông tin đảm bảo thông tin hợp lệ.
+
+26
+
+Chỉ được phép kê khai tối đa là 7 người trên danh sách Ban kiểm soát (kiểm soát viên)
+
+Đề nghị CQ ĐKHTX kiểm tra và điều chỉnh thông tin đảm bảo thông tin hợp lệ.
+
+27
+
+Người đại diện theo pháp luật của HTX này là giám đốc của HTX bỏ địa điểm kinh doanh tại CQT <tên, MST>. CQT đã ghi nhận thông tin của NNT vào hệ thống. CQT gửi CQ ĐKKD biết và xử lý theo quy định
+
+Đề nghị CQ ĐKHTX kiểm tra thông tin tại giao dịch đăng ký mới/thay đổi thông tin/chuyển địa điểm.
+
+PHỤ LỤC 4
+
+DANH MỤC KẾT QUẢ TRẢ VỀ TỪ HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ HỢP TÁC XÃ (Kèm theo Quy chế liên thông số 01/2022/QCLT-BTC-BKHĐT ngày 13 tháng 01 năm 2022 của Bộ Tài chính và Bộ Kế hoạch và Đầu tư)
+
+| Mã kết quả | Tên kết quả                                               |
+
+|------------|-----------------------------------------------------------|
+
+| 79         | Chờ xác nhận                                              |
+
+| 80         | Xác nhận cấp Giấy chứng nhận đăng ký hợp tác xã           |
+
+| 81         | Không đủ điều kiện cấp Giấy chứng nhận đăng ký hợp tác xã |
+
+Mã kết quả
+
+Tên kết quả
+
+79
+
+Chờ xác nhận
+
+80
+
+Xác nhận cấp Giấy chứng nhận đăng ký hợp tác xã
+
+81
+
+Không đủ điều kiện cấp Giấy chứng nhận đăng ký hợp tác xã
+
+PHỤ LỤC 5
+
+DANH MỤC THÔNG TIN TRUYỀN TỪ HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ HỢP TÁC XÃ SANG HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ TRONG TRƯỜNG HỢP ĐĂNG KÝ THÀNH LẬP HỢP TÁC XÃ (Kèm theo Quy chế liên thông số 01/2022/QCLT-BTC-BKHĐT ngày 13 tháng 01 năm 2022 của Bộ Tài chính và Bộ Kế hoạch và Đầu tư)
+
+| STT  | Thông tin NNT                                                                                                                                                                                     | Bắt buộc | Kiểu dữ liệu   | Độ dài |
+
+|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|----------------|--------|
+
+| 1    | Mã giao dịch                                                                                                                                                                                      | Y        | Ký tự          | 2      |
+
+| 2    | Mã Tỉnh                                                                                                                                                                                           | Y        | Ký tự          | 3      |
+
+| 3    | Mã hợp tác xã (enterpriseld)                                                                                                                                                                      | Y        | Ký tự          | 50     |
+
+| 4    | Mã xử lý (process ID)                                                                                                                                                                             | Y        | Ký tự          | 20     |
+
+| 5    | Tên hợp tác xã bằng tiếng việt                                                                                                                                                                    | Y        | Ký tự          | 500    |
+
+| 6    | Tên Hợp tác xã bằng tiếng nước ngoài (nếu có)                                                                                                                                                     |          | Ký tự          | 200    |
+
+| 7    | Tên Hợp tác xã viết tắt (nếu có)                                                                                                                                                                  |          | Ký tự          | 60     |
+
+| 8    | Địa chỉ trụ sở chính                                                                                                                                                                              |          |                |        |
+
+| 8.1  | Số nhà, đường phố                                                                                                                                                                                 | Y        | Ký tự          | 200    |
+
+| 8.2  | Mã Phường/Xã                                                                                                                                                                                      | Y        | Ký tự          | 7      |
+
+| 8.3  | Mã Quận/Huyện                                                                                                                                                                                     | Y        | Ký tự          | 5      |
+
+| 8.4  | Mã Tỉnh/Thành phố                                                                                                                                                                                 | Y        | Ký tự          | 3      |
+
+| 8.5  | Quốc gia                                                                                                                                                                                          | Y        | Ký tự          | 20     |
+
+| 8.6  | Điện thoại liên hệ                                                                                                                                                                                |          | Ký tự          | 20     |
+
+| 8.7  | Fax                                                                                                                                                                                               |          |                | 20     |
+
+| 8.8  | Email                                                                                                                                                                                             |          |                |        |
+
+| 8.9  | Website                                                                                                                                                                                           |          |                |        |
+
+| 9    | Địa chỉ nhận thông báo thuế                                                                                                                                                                       |          |                |        |
+
+| 9.1  | Số nhà, đường phố                                                                                                                                                                                 |          | Ký tự          | 200    |
+
+| 9.2  | Mã Phường/Xã                                                                                                                                                                                      |          | Ký tự          | 7      |
+
+| 9.3  | Mã Quận/Huyện                                                                                                                                                                                     |          | Ký tự          | 5      |
+
+| 9.4  | Mã Tỉnh/Thành phố                                                                                                                                                                                 |          | Ký tự          | 3      |
+
+| 9.5  | Quốc gia                                                                                                                                                                                          |          | Ký tự          | 20     |
+
+| 9.6  | Điện thoại liên hệ                                                                                                                                                                                |          | Ký tự          | 20     |
+
+| 9.7  | Fax                                                                                                                                                                                               |          | Ký tự          | 20     |
+
+| 9.8  | Email                                                                                                                                                                                             |          | Ký tự          |        |
+
+| 10   | Ngành nghề kinh doanh                                                                                                                                                                             |          | Ký tự          | 200    |
+
+| 10.1 | Mã ngành                                                                                                                                                                                          |          | Ký tự          | 6      |
+
+| 10.2 | Ngành nghề (free text)                                                                                                                                                                            |          | Ký tự          | 500    |
+
+| 11   | Mã Ngành nghề kinh doanh chính (cơ quan ĐKKD phải chọn ngành chính)                                                                                                                               | Y        | Ký tự          | 10     |
+
+| 12   | Ngày bắt đầu hoạt động                                                                                                                                                                            | Y        | Ngày tháng năm | 10     |
+
+| 13   | Tổng số lao động                                                                                                                                                                                  | Y        | Số             | 10     |
+
+| 14   | Tổng vốn điều lệ (Trường hợp ngoại tệ thì thông tin tổng vốn điều lệ gồm VNĐ và ngoại tệ)                                                                                                         | Y        | Kiểu số        | 22,3   |
+
+| 15   | Vốn NSNN                                                                                                                                                                                          | Y        | Kiểu số        | 22,3   |
+
+| 16   | Tỷ trọng vốn NSNN                                                                                                                                                                                 | Y        | Kiểu số        | 5,3    |
+
+| 17   | Vốn tư nhân                                                                                                                                                                                       | Y        | Kiểu số        | 22,3   |
+
+| 18   | Tỷ trọng vốn tư nhân                                                                                                                                                                              | Y        | Kiểu số        | 5,3    |
+
+| 19   | Vốn nước ngoài                                                                                                                                                                                    | Y        | Kiểu số        | 22,3   |
+
+| 20   | Tỷ trọng vốn nước ngoài                                                                                                                                                                           | Y        | Kiểu số        | 5,3    |
+
+| 21   | Vốn khác                                                                                                                                                                                          | Y        | Kiểu số        | 22,3   |
+
+| 22   | Tỷ trọng vốn khác                                                                                                                                                                                 | Y        | Kiểu số        | 5,3    |
+
+| 23   | Số lượng thành viên                                                                                                                                                                               |          |                |        |
+
+| 24   | Mã loại hình hợp tác xã (HTX, liên hiệp HTX, quỹ tín dụng nhân dân)                                                                                                                               | Y        | Ký tự          | 2      |
+
+| 25   | Hình thức hạch toán (Y- Độc lập, N- Phụ thuộc)                                                                                                                                                    | Y        | Ký tự          | 1      |
+
+| 26   | Năm tài chính                                                                                                                                                                                     |          |                |        |
+
+| 26.1 | Ngày bắt đầu năm tài chính                                                                                                                                                                        | Y        | Ngày tháng     | 10     |
+
+| 26.2 | Ngày kết thúc năm tài chính                                                                                                                                                                       | Y        | Ngày tháng     | 10     |
+
+| 27   | Thông tin về người đại diện pháp luật                                                                                                                                                             |          |                |        |
+
+| 27.1 | Tên                                                                                                                                                                                               | Y        | Ký tự          | 200    |
+
+| 27.2 | Chức danh - Nếu có                                                                                                                                                                                |          |                |        |
+
+| 27.3 | Loại giấy tờ (CMT, CCCD, Hộ chiếu, khác)                                                                                                                                                          | Y        | Ký tự          | 60     |
+
+| 27.4 | Ngày cấp                                                                                                                                                                                          | Y        | Ngày tháng năm | 10     |
+
+| 27.5 | Số                                                                                                                                                                                                | Y        | Ký tự          | 60     |
+
+| 27.6 | Nơi cấp                                                                                                                                                                                           | Y        | Ký tự          | 200    |
+
+| 27.7 | Điện thoại liên hệ                                                                                                                                                                                |          | Ký tự          | 20     |
+
+| 27.8 | Địa chỉ thường trú                                                                                                                                                                                |          |                |        |
+
+| a    | Số nhà, đường phố                                                                                                                                                                                 | Y        | Ký tự          | 200    |
+
+| b    | Mã Phường/Xã                                                                                                                                                                                      | Y        | Ký tự          | 7      |
+
+| c    | Mã Quận/Huyện                                                                                                                                                                                     | Y        | Ký tự          | 5      |
+
+| d    | Mã Tỉnh/Thành phố                                                                                                                                                                                 | Y        | Ký tự          | 3      |
+
+| e    | Quốc gia                                                                                                                                                                                          | Y        | Ký tự          | 3      |
+
+| 27.9 | Địa chỉ hiện tại (nếu khác địa chỉ thường trú)                                                                                                                                                    |          |                |        |
+
+| a    | Số nhà, đường phố                                                                                                                                                                                 | Y        | Ký tự          | 200    |
+
+| b    | Mã Phường/Xã                                                                                                                                                                                      | Y        | Ký tự          | 7      |
+
+| c    | Mã Quận/Huyện                                                                                                                                                                                     | Y        | Ký tự          | 5      |
+
+| d    | Mã Tỉnh/Thành phố                                                                                                                                                                                 | Y        | Ký tự          | 3      |
+
+| e    | Quốc gia                                                                                                                                                                                          | Y        | Ký tự          | 3      |
+
+| 28   | Điện thoại                                                                                                                                                                                        |          |                | 20     |
+
+| 29   | Fax                                                                                                                                                                                               |          |                |        |
+
+| 30   | Email                                                                                                                                                                                             |          |                |        |
+
+| 31   | Giám đốc (Tổng giám đốc) - nếu có                                                                                                                                                                 |          |                |        |
+
+| 32   | Tên                                                                                                                                                                                               |          | Ký tự          | 200    |
+
+| 33   | Điện thoại                                                                                                                                                                                        |          | Ký tự          | 30     |
+
+| 34   | Kế toán trưởng/phụ trách kế toán - nếu có                                                                                                                                                         |          | Ký tự          | 30     |
+
+| 35   | Tên                                                                                                                                                                                               |          | Ký tự          | 200    |
+
+| 36   | Điện thoại                                                                                                                                                                                        |          | Ký tự          | 30     |
+
+| 37   | Phương pháp tính thuế GTGT (1 trong 4: khấu trừ, trực tiếp trên GTGT, trực tiếp trên doanh số, không chịu thuế)                                                                                   | Y        | Ký tự          | 2      |
+
+| 38   | Tình trạng trước khi tổ chức sắp xếp lại hợp tác xã (chia, sáp nhập, hợp nhất) - nếu có                                                                                                           |          | Ký tự          | 2      |
+
+| 39   | Ngày nhận giao dịch                                                                                                                                                                               | Y        | Ngày tháng năm | 10     |
+
+| 40   | Giấy chứng nhận đầu tư                                                                                                                                                                            |          |                |        |
+
+| 40.1 | Số GCNĐT                                                                                                                                                                                          |          | Ký tự          | 14     |
+
+| 40.2 | Ngày cấp GCNĐT                                                                                                                                                                                    |          | Ký tự          | 200    |
+
+| 40.3 | Nơi cấp                                                                                                                                                                                           |          | Ký tự          | 200    |
+
+| 41   | Thông tin về thành viên hợp tác xã, hội đồng quản trị:                                                                                                                                            |          |                |        |
+
+| 42   | Thành viên hợp tác xã                                                                                                                                                                             |          |                |        |
+
+| 42.1 | Thành viên hợp tác xã là cá nhân                                                                                                                                                                  |          |                |        |
+
+| a    | Họ và Tên                                                                                                                                                                                         |          | Ký tự          | 200    |
+
+| b    | Ngày sinh                                                                                                                                                                                         |          | Ngày tháng năm | 10     |
+
+| c    | Giới tính                                                                                                                                                                                         |          | Ký tự          | 10     |
+
+| d    | Loại giấy tờ (CMT/CCCD/Hộ chiếu/khác)                                                                                                                                                             |          | Ký tự          | 60     |
+
+| e    | Số                                                                                                                                                                                                |          | Ký tự          | 60     |
+
+| f    | Ngày cấp                                                                                                                                                                                          |          |                |        |
+
+| g    | Nơi cấp                                                                                                                                                                                           |          |                | 200    |
+
+| h    | Điện thoại liên lạc                                                                                                                                                                               |          | Ký tự          | 20     |
+
+| i    | Địa chỉ thường trú                                                                                                                                                                                |          | Ký tự          | 60     |
+
+| k    | Số nhà, đường phố                                                                                                                                                                                 |          | Ký tự          | 200    |
+
+| l    | Mã Phường/Xã                                                                                                                                                                                      |          | Ký tự          | 7      |
+
+| m    | Mã Quận/Huyện                                                                                                                                                                                     |          | Ký tự          | 5      |
+
+| n    | Tỉnh/Thành phố                                                                                                                                                                                    |          | Ký tự          | 3      |
+
+| o    | Quốc gia                                                                                                                                                                                          |          |                |        |
+
+| 42.2 | Thành viên hợp tác xã là tổ chức                                                                                                                                                                  |          |                |        |
+
+| a    | Tên tổ chức                                                                                                                                                                                       |          | Ký tự          | 500    |
+
+| b    | MSHTX (nếu có)                                                                                                                                                                                    |          | Ký tự          | 50     |
+
+| c    | Quyết định thành lập (nếu có)                                                                                                                                                                     |          | Ký tự          | 20     |
+
+| d    | Số                                                                                                                                                                                                |          | Ký tự          | 20     |
+
+| e    | Ngày cấp                                                                                                                                                                                          |          |                |        |
+
+| f    | Cơ quan cấp                                                                                                                                                                                       |          |                |        |
+
+| g    | Địa chỉ trụ sở chính                                                                                                                                                                              |          |                |        |
+
+| h    | Số nhà, đường phố                                                                                                                                                                                 |          | Ký tự          | 200    |
+
+| i    | Mã Phường/Xã                                                                                                                                                                                      |          | Ký tự          | 7      |
+
+| k    | Mã Quận/Huyện                                                                                                                                                                                     |          | Ký tự          | 5      |
+
+| l    | Mã Tỉnh/Thành phố                                                                                                                                                                                 |          | Ký tự          | 3      |
+
+| m    | Quốc gia                                                                                                                                                                                          |          |                |        |
+
+| n    | Điện thoại liên hệ                                                                                                                                                                                |          | Ký tự          | 30     |
+
+| o    | Fax                                                                                                                                                                                               |          |                |        |
+
+| p    | Email                                                                                                                                                                                             |          |                |        |
+
+| q    | Website                                                                                                                                                                                           |          |                |        |
+
+| 42.3 | Hội đồng quản trị hợp tác xã                                                                                                                                                                      |          |                |        |
+
+| a    | Họ và tên                                                                                                                                                                                         | Y        | Ký tự          | 200    |
+
+| b    | Ngày sinh                                                                                                                                                                                         | Y        | Ngày tháng năm | 10     |
+
+| c    | Giới tính                                                                                                                                                                                         | Y        | Ký tự          | 10     |
+
+| d    | Quốc tịch                                                                                                                                                                                         | Y        | Ký tự          | 20     |
+
+| e    | Loại giấy tờ (CMT/CCCD/Hộ chiếu, khác)                                                                                                                                                            | Y        | Ký tự          | 60     |
+
+| f    | Số                                                                                                                                                                                                | Y        | Ký tự          | 60     |
+
+| g    | Ngày cấp                                                                                                                                                                                          | Y        | Ký tự          | 10     |
+
+| h    | Nơi cấp                                                                                                                                                                                           | Y        | Ký tự          | 40     |
+
+| i    | Điện thoại liên lạc                                                                                                                                                                               |          |                |        |
+
+| k    | Địa chỉ thường trú                                                                                                                                                                                |          |                |        |
+
+| l    | Số nhà, đường phố                                                                                                                                                                                 | Y        | Ký tự          | 200    |
+
+| m    | Mã Phường/Xã                                                                                                                                                                                      | Y        | Ký tự          | 7      |
+
+| n    | Mã Quận/Huyện                                                                                                                                                                                     | Y        | Ký tự          | 5      |
+
+| o    | Mã Tỉnh/Thành phố                                                                                                                                                                                 | Y        | Ký tự          | 3      |
+
+| p    | Quốc gia                                                                                                                                                                                          | Y        | Ký tự          | 3      |
+
+| q    | Địa chỉ hiện tại (nếu khác địa chỉ thường trú)                                                                                                                                                    |          |                |        |
+
+| r    | Số nhà, đường phố                                                                                                                                                                                 | Y        | Ký tự          | 200    |
+
+| s    | Mã Phường/Xã                                                                                                                                                                                      | Y        | Ký tự          | 7      |
+
+| t    | Mã Quận/Huyện                                                                                                                                                                                     | Y        | Ký tự          | 5      |
+
+| u    | Mã Tỉnh/Thành phố                                                                                                                                                                                 | Y        | Ký tự          | 3      |
+
+| v    | Quốc gia                                                                                                                                                                                          | Y        | Ký tự          | 3      |
+
+| 43   | Danh sách Giám đốc/Tổng Giám đốc và Ban kiểm soát/kiểm soát viên                                                                                                                                  |          |                |        |
+
+| 43.1 | Giám đốc (Tổng Giám đốc)                                                                                                                                                                          |          |                |        |
+
+| a    | Họ và tên                                                                                                                                                                                         | Y        | Ký tự          | 200    |
+
+| b    | Ngày sinh                                                                                                                                                                                         | Y        | Ngày tháng năm | 10     |
+
+| c    | Giới tính                                                                                                                                                                                         | Y        | Ký tự          | 10     |
+
+| d    | Quốc tịch                                                                                                                                                                                         | Y        | Ký tự          | 20     |
+
+| e    | Loại giấy tờ (CMT/CCCD/Hộ chiếu, khác)                                                                                                                                                            | Y        | Ký tự          | 60     |
+
+| f    | Số                                                                                                                                                                                                | Y        | Ký tự          | 60     |
+
+| g    | Ngày cấp                                                                                                                                                                                          | Y        | Ký tự          | 10     |
+
+| h    | Nơi cấp                                                                                                                                                                                           | Y        | Ký tự          | 40     |
+
+| i    | Điện thoại liên lạc                                                                                                                                                                               |          |                |        |
+
+| k    | Địa chỉ thường trú                                                                                                                                                                                |          |                |        |
+
+| l    | Số nhà, đường phố                                                                                                                                                                                 | Y        | Ký tự          | 200    |
+
+| m    | Mã Phường/Xã                                                                                                                                                                                      | Y        | Ký tự          | 7      |
+
+| n    | Mã Quận/Huyện                                                                                                                                                                                     | Y        | Ký tự          | 5      |
+
+| o    | Mã Tỉnh/Thành phố                                                                                                                                                                                 | Y        | Ký tự          | 3      |
+
+| p    | Quốc gia                                                                                                                                                                                          | Y        | Ký tự          | 3      |
+
+| q    | Địa chỉ hiện tại (nếu khác địa chỉ thường trú)                                                                                                                                                    |          |                |        |
+
+| r    | Số nhà, đường phố                                                                                                                                                                                 | Y        | Ký tự          | 20     |
+
+| s    | Mã Phường/Xã                                                                                                                                                                                      | Y        | Ký tự          | 7      |
+
+| t    | Mã Quận/Huyện                                                                                                                                                                                     | Y        | Ký tự          | 5      |
+
+| u    | Mã Tỉnh/Thành phố                                                                                                                                                                                 | Y        | Ký tự          | 3      |
+
+| v    | Quốc gia                                                                                                                                                                                          | Y        | Ký tự          | 3      |
+
+| 43.2 | Danh sách ban kiểm soát (Kiểm soát viên)                                                                                                                                                          |          |                |        |
+
+| a    | Họ và tên                                                                                                                                                                                         |          | Ký tự          | 200    |
+
+| b    | Ngày tháng năm sinh                                                                                                                                                                               |          | Ngày tháng năm | 10     |
+
+| c    | Giới tính                                                                                                                                                                                         |          | Ký tự          | 10     |
+
+| d    | Quốc tịch                                                                                                                                                                                         |          | Ký tự          | 20     |
+
+| c    | Dân tộc                                                                                                                                                                                           |          | Ký tự          | 20     |
+
+| f    | Chỗ ở hiện tại                                                                                                                                                                                    |          |                |        |
+
+| g    | Số nhà, đường phố                                                                                                                                                                                 |          | Ký tự          | 200    |
+
+| h    | Mã Phường/Xã                                                                                                                                                                                      |          | Ký tự          | 7      |
+
+| i    | Mã Quận/Huyện                                                                                                                                                                                     |          | Ký tự          | 5      |
+
+| k    | Mã Tỉnh/Thành phố                                                                                                                                                                                 |          | Ký tự          | 3      |
+
+| l    | Quốc gia                                                                                                                                                                                          |          | Ký tự          | 3      |
+
+| m    | Nơi đăng ký hộ khẩu thường trú                                                                                                                                                                    |          |                |        |
+
+| n    | Số nhà, đường phố                                                                                                                                                                                 |          | Ký tự          | 200    |
+
+| o    | Mã Phường/Xã                                                                                                                                                                                      |          | Ký tự          | 7      |
+
+| p    | Mã Quận/Huyện                                                                                                                                                                                     |          | Ký tự          | 5      |
+
+| q    | Mã Tỉnh/Thành phố                                                                                                                                                                                 |          | Ký tự          | 3      |
+
+| r    | Quốc gia                                                                                                                                                                                          |          | Ký tự          | 3      |
+
+| s    | Loại giấy tờ (CMT/CCCD/Hộ chiếu, khác)                                                                                                                                                            |          | Ký tự          | 60     |
+
+| t    | Số                                                                                                                                                                                                |          | Ký tự          | 60     |
+
+| u    | Ngày cấp                                                                                                                                                                                          |          | Ký tự          | 10     |
+
+| v    | Nơi cấp                                                                                                                                                                                           |          | Ký tự          | 40     |
+
+| w    | Chức danh                                                                                                                                                                                         |          | Ký tự          | 60     |
+
+| 44   | Thông tin về các hợp tác xã bị chia, bị hợp nhất, bị sáp nhập, được chuyển đổi (chỉ kê khai trong trường hợp thành lập HTX trên cơ sở chia, hợp nhất, sáp nhập, chuyển đổi loại hình hợp tác xã): |          |                |        |
+
+| 44.1 | Tên hợp tác xã A                                                                                                                                                                                  |          | Ký tự          | 500    |
+
+| a    | MSHTX/MST                                                                                                                                                                                         |          | Ký tự          | 50     |
+
+| b    | Số GCN ĐKHTX (nếu không có MSHTX/ MST)                                                                                                                                                            |          |                |        |
+
+| 44.2 | Tên hợp tác xã B                                                                                                                                                                                  |          | Ký tự          | 500    |
+
+| a    | MSHTX/MST                                                                                                                                                                                         |          | Ký tự          | 50     |
+
+| b    | Số GCN ĐKHTX (nếu không có MSHTX/ MST)                                                                                                                                                            |          |                |        |
+
+| …    | …                                                                                                                                                                                                 |          |                |        |
+
+| 45   | Hoạt động theo dự án BOT/BTO/BT/BOO, BLT, BTL, O&M (Có: Y, Không: N)                                                                                                                              |          |                |        |
+
+| 46   | Ngày nhận giao dịch                                                                                                                                                                               | Y        | Ký tự          | 10     |
+
+STT
+
+Thông tin NNT
+
+Bắt buộc
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã giao dịch
+
+Y
+
+Ký tự
+
+2
+
+2
+
+Mã Tỉnh
+
+Y
+
+Ký tự
+
+3
+
+3
+
+Mã hợp tác xã (enterpriseld)
+
+Y
+
+Ký tự
+
+50
+
+4
+
+Mã xử lý (process ID)
+
+Y
+
+Ký tự
+
+20
+
+5
+
+Tên hợp tác xã bằng tiếng việt
+
+Y
+
+Ký tự
+
+500
+
+6
+
+Tên Hợp tác xã bằng tiếng nước ngoài (nếu có)
+
+Ký tự
+
+200
+
+7
+
+Tên Hợp tác xã viết tắt (nếu có)
+
+Ký tự
+
+60
+
+8
+
+Địa chỉ trụ sở chính
+
+8.1
+
+Số nhà, đường phố
+
+Y
+
+Ký tự
+
+200
+
+8.2
+
+Mã Phường/Xã
+
+Y
+
+Ký tự
+
+7
+
+8.3
+
+Mã Quận/Huyện
+
+Y
+
+Ký tự
+
+5
+
+8.4
+
+Mã Tỉnh/Thành phố
+
+Y
+
+Ký tự
+
+3
+
+8.5
+
+Quốc gia
+
+Y
+
+Ký tự
+
+20
+
+8.6
+
+Điện thoại liên hệ
+
+Ký tự
+
+20
+
+8.7
+
+Fax
+
+20
+
+8.8
+
+Email
+
+8.9
+
+Website
+
+9
+
+Địa chỉ nhận thông báo thuế
+
+9.1
+
+Số nhà, đường phố
+
+Ký tự
+
+200
+
+9.2
+
+Mã Phường/Xã
+
+Ký tự
+
+7
+
+9.3
+
+Mã Quận/Huyện
+
+Ký tự
+
+5
+
+9.4
+
+Mã Tỉnh/Thành phố
+
+Ký tự
+
+3
+
+9.5
+
+Quốc gia
+
+Ký tự
+
+20
+
+9.6
+
+Điện thoại liên hệ
+
+Ký tự
+
+20
+
+9.7
+
+Fax
+
+Ký tự
+
+20
+
+9.8
+
+Email
+
+Ký tự
+
+10
+
+Ngành nghề kinh doanh
+
+Ký tự
+
+200
+
+10.1
+
+Mã ngành
+
+Ký tự
+
+6
+
+10.2
+
+Ngành nghề (free text)
+
+Ký tự
+
+500
+
+11
+
+Mã Ngành nghề kinh doanh chính (cơ quan ĐKKD phải chọn ngành chính)
+
+Y
+
+Ký tự
+
+10
+
+12
+
+Ngày bắt đầu hoạt động
+
+Y
+
+Ngày tháng năm
+
+10
+
+13
+
+Tổng số lao động
+
+Y
+
+Số
+
+10
+
+14
+
+Tổng vốn điều lệ (Trường hợp ngoại tệ thì thông tin tổng vốn điều lệ gồm VNĐ và ngoại tệ)
+
+Y
+
+Kiểu số
+
+22,3
+
+15
+
+Vốn NSNN
+
+Y
+
+Kiểu số
+
+22,3
+
+16
+
+Tỷ trọng vốn NSNN
+
+Y
+
+Kiểu số
+
+5,3
+
+17
+
+Vốn tư nhân
+
+Y
+
+Kiểu số
+
+22,3
+
+18
+
+Tỷ trọng vốn tư nhân
+
+Y
+
+Kiểu số
+
+5,3
+
+19
+
+Vốn nước ngoài
+
+Y
+
+Kiểu số
+
+22,3
+
+20
+
+Tỷ trọng vốn nước ngoài
+
+Y
+
+Kiểu số
+
+5,3
+
+21
+
+Vốn khác
+
+Y
+
+Kiểu số
+
+22,3
+
+22
+
+Tỷ trọng vốn khác
+
+Y
+
+Kiểu số
+
+5,3
+
+23
+
+Số lượng thành viên
+
+24
+
+Mã loại hình hợp tác xã (HTX, liên hiệp HTX, quỹ tín dụng nhân dân)
+
+Y
+
+Ký tự
+
+2
+
+25
+
+Hình thức hạch toán (Y- Độc lập, N- Phụ thuộc)
+
+Y
+
+Ký tự
+
+1
+
+26
+
+Năm tài chính
+
+26.1
+
+Ngày bắt đầu năm tài chính
+
+Y
+
+Ngày tháng
+
+10
+
+26.2
+
+Ngày kết thúc năm tài chính
+
+Y
+
+Ngày tháng
+
+10
+
+27
+
+Thông tin về người đại diện pháp luật
+
+27.1
+
+Tên
+
+Y
+
+Ký tự
+
+200
+
+27.2
+
+Chức danh - Nếu có
+
+27.3
+
+Loại giấy tờ (CMT, CCCD, Hộ chiếu, khác)
+
+Y
+
+Ký tự
+
+60
+
+27.4
+
+Ngày cấp
+
+Y
+
+Ngày tháng năm
+
+10
+
+27.5
+
+Số
+
+Y
+
+Ký tự
+
+60
+
+27.6
+
+Nơi cấp
+
+Y
+
+Ký tự
+
+200
+
+27.7
+
+Điện thoại liên hệ
+
+Ký tự
+
+20
+
+27.8
+
+Địa chỉ thường trú
+
+a
+
+Số nhà, đường phố
+
+Y
+
+Ký tự
+
+200
+
+b
+
+Mã Phường/Xã
+
+Y
+
+Ký tự
+
+7
+
+c
+
+Mã Quận/Huyện
+
+Y
+
+Ký tự
+
+5
+
+d
+
+Mã Tỉnh/Thành phố
+
+Y
+
+Ký tự
+
+3
+
+e
+
+Quốc gia
+
+Y
+
+Ký tự
+
+3
+
+27.9
+
+Địa chỉ hiện tại (nếu khác địa chỉ thường trú)
+
+a
+
+Số nhà, đường phố
+
+Y
+
+Ký tự
+
+200
+
+b
+
+Mã Phường/Xã
+
+Y
+
+Ký tự
+
+7
+
+c
+
+Mã Quận/Huyện
+
+Y
+
+Ký tự
+
+5
+
+d
+
+Mã Tỉnh/Thành phố
+
+Y
+
+Ký tự
+
+3
+
+e
+
+Quốc gia
+
+Y
+
+Ký tự
+
+3
+
+28
+
+Điện thoại
+
+20
+
+29
+
+Fax
+
+30
+
+Email
+
+31
+
+Giám đốc (Tổng giám đốc) - nếu có
+
+32
+
+Tên
+
+Ký tự
+
+200
+
+33
+
+Điện thoại
+
+Ký tự
+
+30
+
+34
+
+Kế toán trưởng/phụ trách kế toán - nếu có
+
+Ký tự
+
+30
+
+35
+
+Tên
+
+Ký tự
+
+200
+
+36
+
+Điện thoại
+
+Ký tự
+
+30
+
+37
+
+Phương pháp tính thuế GTGT (1 trong 4: khấu trừ, trực tiếp trên GTGT, trực tiếp trên doanh số, không chịu thuế)
+
+Y
+
+Ký tự
+
+2
+
+38
+
+Tình trạng trước khi tổ chức sắp xếp lại hợp tác xã (chia, sáp nhập, hợp nhất) - nếu có
+
+Ký tự
+
+2
+
+39
+
+Ngày nhận giao dịch
+
+Y
+
+Ngày tháng năm
+
+10
+
+40
+
+Giấy chứng nhận đầu tư
+
+40.1
+
+Số GCNĐT
+
+Ký tự
+
+14
+
+40.2
+
+Ngày cấp GCNĐT
+
+Ký tự
+
+200
+
+40.3
+
+Nơi cấp
+
+Ký tự
+
+200
+
+41
+
+Thông tin về thành viên hợp tác xã, hội đồng quản trị:
+
+42
+
+Thành viên hợp tác xã
+
+42.1
+
+Thành viên hợp tác xã là cá nhân
+
+a
+
+Họ và Tên
+
+Ký tự
+
+200
+
+b
+
+Ngày sinh
+
+Ngày tháng năm
+
+10
+
+c
+
+Giới tính
+
+Ký tự
+
+10
+
+d
+
+Loại giấy tờ (CMT/CCCD/Hộ chiếu/khác)
+
+Ký tự
+
+60
+
+e
+
+Số
+
+Ký tự
+
+60
+
+f
+
+Ngày cấp
+
+g
+
+Nơi cấp
+
+200
+
+h
+
+Điện thoại liên lạc
+
+Ký tự
+
+20
+
+i
+
+Địa chỉ thường trú
+
+Ký tự
+
+60
+
+k
+
+Số nhà, đường phố
+
+Ký tự
+
+200
+
+l
+
+Mã Phường/Xã
+
+Ký tự
+
+7
+
+m
+
+Mã Quận/Huyện
+
+Ký tự
+
+5
+
+n
+
+Tỉnh/Thành phố
+
+Ký tự
+
+3
+
+o
+
+Quốc gia
+
+42.2
+
+Thành viên hợp tác xã là tổ chức
+
+a
+
+Tên tổ chức
+
+Ký tự
+
+500
+
+b
+
+MSHTX (nếu có)
+
+Ký tự
+
+50
+
+c
+
+Quyết định thành lập (nếu có)
+
+Ký tự
+
+20
+
+d
+
+Số
+
+Ký tự
+
+20
+
+e
+
+Ngày cấp
+
+f
+
+Cơ quan cấp
+
+g
+
+Địa chỉ trụ sở chính
+
+h
+
+Số nhà, đường phố
+
+Ký tự
+
+200
+
+i
+
+Mã Phường/Xã
+
+Ký tự
+
+7
+
+k
+
+Mã Quận/Huyện
+
+Ký tự
+
+5
+
+l
+
+Mã Tỉnh/Thành phố
+
+Ký tự
+
+3
+
+m
+
+Quốc gia
+
+n
+
+Điện thoại liên hệ
+
+Ký tự
+
+30
+
+o
+
+Fax
+
+p
+
+Email
+
+q
+
+Website
+
+42.3
+
+Hội đồng quản trị hợp tác xã
+
+a
+
+Họ và tên
+
+Y
+
+Ký tự
+
+200
+
+b
+
+Ngày sinh
+
+Y
+
+Ngày tháng năm
+
+10
+
+c
+
+Giới tính
+
+Y
+
+Ký tự
+
+10
+
+d
+
+Quốc tịch
+
+Y
+
+Ký tự
+
+20
+
+e
+
+Loại giấy tờ (CMT/CCCD/Hộ chiếu, khác)
+
+Y
+
+Ký tự
+
+60
+
+f
+
+Số
+
+Y
+
+Ký tự
+
+60
+
+g
+
+Ngày cấp
+
+Y
+
+Ký tự
+
+10
+
+h
+
+Nơi cấp
+
+Y
+
+Ký tự
+
+40
+
+i
+
+Điện thoại liên lạc
+
+k
+
+Địa chỉ thường trú
+
+l
+
+Số nhà, đường phố
+
+Y
+
+Ký tự
+
+200
+
+m
+
+Mã Phường/Xã
+
+Y
+
+Ký tự
+
+7
+
+n
+
+Mã Quận/Huyện
+
+Y
+
+Ký tự
+
+5
+
+o
+
+Mã Tỉnh/Thành phố
+
+Y
+
+Ký tự
+
+3
+
+p
+
+Quốc gia
+
+Y
+
+Ký tự
+
+3
+
+q
+
+Địa chỉ hiện tại (nếu khác địa chỉ thường trú)
+
+r
+
+Số nhà, đường phố
+
+Y
+
+Ký tự
+
+200
+
+s
+
+Mã Phường/Xã
+
+Y
+
+Ký tự
+
+7
+
+t
+
+Mã Quận/Huyện
+
+Y
+
+Ký tự
+
+5
+
+u
+
+Mã Tỉnh/Thành phố
+
+Y
+
+Ký tự
+
+3
+
+v
+
+Quốc gia
+
+Y
+
+Ký tự
+
+3
+
+43
+
+Danh sách Giám đốc/Tổng Giám đốc và Ban kiểm soát/kiểm soát viên
+
+43.1
+
+Giám đốc (Tổng Giám đốc)
+
+a
+
+Họ và tên
+
+Y
+
+Ký tự
+
+200
+
+b
+
+Ngày sinh
+
+Y
+
+Ngày tháng năm
+
+10
+
+c
+
+Giới tính
+
+Y
+
+Ký tự
+
+10
+
+d
+
+Quốc tịch
+
+Y
+
+Ký tự
+
+20
+
+e
+
+Loại giấy tờ (CMT/CCCD/Hộ chiếu, khác)
+
+Y
+
+Ký tự
+
+60
+
+f
+
+Số
+
+Y
+
+Ký tự
+
+60
+
+g
+
+Ngày cấp
+
+Y
+
+Ký tự
+
+10
+
+h
+
+Nơi cấp
+
+Y
+
+Ký tự
+
+40
+
+i
+
+Điện thoại liên lạc
+
+k
+
+Địa chỉ thường trú
+
+l
+
+Số nhà, đường phố
+
+Y
+
+Ký tự
+
+200
+
+m
+
+Mã Phường/Xã
+
+Y
+
+Ký tự
+
+7
+
+n
+
+Mã Quận/Huyện
+
+Y
+
+Ký tự
+
+5
+
+o
+
+Mã Tỉnh/Thành phố
+
+Y
+
+Ký tự
+
+3
+
+p
+
+Quốc gia
+
+Y
+
+Ký tự
+
+3
+
+q
+
+Địa chỉ hiện tại (nếu khác địa chỉ thường trú)
+
+r
+
+Số nhà, đường phố
+
+Y
+
+Ký tự
+
+20
+
+s
+
+Mã Phường/Xã
+
+Y
+
+Ký tự
+
+7
+
+t
+
+Mã Quận/Huyện
+
+Y
+
+Ký tự
+
+5
+
+u
+
+Mã Tỉnh/Thành phố
+
+Y
+
+Ký tự
+
+3
+
+v
+
+Quốc gia
+
+Y
+
+Ký tự
+
+3
+
+43.2
+
+Danh sách ban kiểm soát (Kiểm soát viên)
+
+a
+
+Họ và tên
+
+Ký tự
+
+200
+
+b
+
+Ngày tháng năm sinh
+
+Ngày tháng năm
+
+10
+
+c
+
+Giới tính
+
+Ký tự
+
+10
+
+d
+
+Quốc tịch
+
+Ký tự
+
+20
+
+c
+
+Dân tộc
+
+Ký tự
+
+20
+
+f
+
+Chỗ ở hiện tại
+
+g
+
+Số nhà, đường phố
+
+Ký tự
+
+200
+
+h
+
+Mã Phường/Xã
+
+Ký tự
+
+7
+
+i
+
+Mã Quận/Huyện
+
+Ký tự
+
+5
+
+k
+
+Mã Tỉnh/Thành phố
+
+Ký tự
+
+3
+
+l
+
+Quốc gia
+
+Ký tự
+
+3
+
+m
+
+Nơi đăng ký hộ khẩu thường trú
+
+n
+
+Số nhà, đường phố
+
+Ký tự
+
+200
+
+o
+
+Mã Phường/Xã
+
+Ký tự
+
+7
+
+p
+
+Mã Quận/Huyện
+
+Ký tự
+
+5
+
+q
+
+Mã Tỉnh/Thành phố
+
+Ký tự
+
+3
+
+r
+
+Quốc gia
+
+Ký tự
+
+3
+
+s
+
+Loại giấy tờ (CMT/CCCD/Hộ chiếu, khác)
+
+Ký tự
+
+60
+
+t
+
+Số
+
+Ký tự
+
+60
+
+u
+
+Ngày cấp
+
+Ký tự
+
+10
+
+v
+
+Nơi cấp
+
+Ký tự
+
+40
+
+w
+
+Chức danh
+
+Ký tự
+
+60
+
+44
+
+Thông tin về các hợp tác xã bị chia, bị hợp nhất, bị sáp nhập, được chuyển đổi (chỉ kê khai trong trường hợp thành lập HTX trên cơ sở chia, hợp nhất, sáp nhập, chuyển đổi loại hình hợp tác xã):
+
+44.1
+
+Tên hợp tác xã A
+
+Ký tự
+
+500
+
+a
+
+MSHTX/MST
+
+Ký tự
+
+50
+
+b
+
+Số GCN ĐKHTX (nếu không có MSHTX/ MST)
+
+44.2
+
+Tên hợp tác xã B
+
+Ký tự
+
+500
+
+a
+
+MSHTX/MST
+
+Ký tự
+
+50
+
+b
+
+Số GCN ĐKHTX (nếu không có MSHTX/ MST)
+
+…
+
+…
+
+45
+
+Hoạt động theo dự án BOT/BTO/BT/BOO, BLT, BTL, O&M (Có: Y, Không: N)
+
+46
+
+Ngày nhận giao dịch
+
+Y
+
+Ký tự
+
+10
+
+PHỤ LỤC 6
+
+DANH MỤC THÔNG TIN TRUYỀN TỪ HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ, HỢP TÁC XÃ SANG HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ TRONG TRƯỜNG HỢP THÀNH LẬP ĐƠN VỊ PHỤ THUỘC, ĐỊA ĐIỂM KINH DOANH (Kèm theo Quy chế liên thông số /2022/QCLT-BTC-BKHĐT ngày tháng năm 2022 của Bộ Tài chính và Bộ Kế hoạch và Đầu tư)
+
+| STT  | Thông tin NNT                                                                                                               | Bắt  buộc | Kiểu dữ liệu   | Độ dài |
+
+|------|-----------------------------------------------------------------------------------------------------------------------------|-----------|----------------|--------|
+
+| 1    | Mã giao dịch                                                                                                                | Y         | Ký tự          | 2      |
+
+| 2    | Mã Tỉnh                                                                                                                     | Y         | Ký tự          | 3      |
+
+| 3    | Mã hợp tác xã (enterpriseId)                                                                                                |           | Ký tự          | 50     |
+
+| 4    | Mã xử lý (process ID)                                                                                                       | Y         | Ký tự          | 20     |
+
+| 5    | Tên chính thức                                                                                                              | Y         | Ký tự          | 500    |
+
+| 6    | Tên bằng tiếng nước ngoài                                                                                                   |           | Ký tự          | 200    |
+
+| 7    | Tên viết tắt                                                                                                                |           | Ký tự          | 60     |
+
+| 8    | Mã loại hình đơn vị phụ thuộc, địa điểm kinh doanh (Chi nhánh/Văn phòng đại diện/địa điểm kinh doanh)                       | Y         | Ký tự          | 2      |
+
+| 9    | Địa chỉ tại sở chính                                                                                                        | Y         |                |        |
+
+| 9.1  | Số nhà, đường phố                                                                                                           | Y         | Ký tự          | 200    |
+
+| 9.2  | Mã Phường/Xã                                                                                                                | Y         | Ký tự          | 7      |
+
+| 9.3  | Mã Quận/Huyện                                                                                                               | Y         | Ký tự          | 5      |
+
+| 9.4  | Mã Tỉnh/Thành phố                                                                                                           | Y         | Ký tự          | 3      |
+
+| 9.5  | Quốc gia                                                                                                                    |           |                |        |
+
+| 9.6  | Điện thoại liên hệ                                                                                                          |           | Ký tự          | 20     |
+
+| 9.7  | Fax                                                                                                                         |           | Ký tự          | 20     |
+
+| 9.8  | Email                                                                                                                       |           |                |        |
+
+| 9.9  | Website                                                                                                                     |           |                |        |
+
+| 10   | Địa chỉ nhận thông báo thuế                                                                                                 |           |                |        |
+
+| 10.1 | Số nhà, đường phố                                                                                                           |           | Ký tự          | 200    |
+
+| 10.2 | Mã Phường/Xã                                                                                                                |           | Ký tự          | 7      |
+
+| 10.3 | Mã Quận/Huyện                                                                                                               |           | Ký tự          | 5      |
+
+| 10.4 | Mã Tỉnh/Thành phố                                                                                                           |           | Ký tự          | 3      |
+
+| 10.5 | Quốc gia                                                                                                                    |           | Ký tự          |        |
+
+| 10.6 | Điện thoại                                                                                                                  |           | Ký tự          | 20     |
+
+| 10.7 | Fax                                                                                                                         |           | Ký tự          | 20     |
+
+| 10.8 | Email                                                                                                                       |           |                |        |
+
+| 11   | Ngành nghề kinh doanh                                                                                                       |           | Ký tự          | 500    |
+
+| 11.1 | Mã ngành                                                                                                                    |           | Ký tự          | 6      |
+
+| 11.2 | Tên ngành                                                                                                                   |           | Ký tự          | 500    |
+
+| 11.3 | Ngành nghề (text)                                                                                                           |           | Ký tự          |        |
+
+| 12   | Ngành nghề kinh doanh chính (cơ quan ĐKHTX phải chọn ngành chính)                                                           |           |                |        |
+
+| 12.1 | Mã                                                                                                                          | Y         | Ký tự          | 10     |
+
+| 12.2 | Tên                                                                                                                         |           | Ký tự          | 500    |
+
+| 13   | Ngày bắt đầu hoạt động kinh doanh                                                                                           | Y         | Ngày tháng năm | 10     |
+
+| 14   | Tổng số lao động                                                                                                            | Y         | Số             | 10     |
+
+| 15   | Mã loại hình hợp tác xã (HTX, liên hiệp HTX, quỹ tín dụng nhân dân)                                                         | Y         | Ký tự          | 2      |
+
+| 16   | Hình thức hạch toán (Y-Độc lập, N-Phụ thuộc)                                                                                | Y         | Ký tự          | 1      |
+
+| 17   | Năm tài chính                                                                                                               |           |                |        |
+
+| 17.1 | Ngày bắt đầu năm tài chính                                                                                                  | Y         | Ngày tháng     | 10     |
+
+| 17.2 | Ngày kết thúc năm tài chính                                                                                                 | Y         | Ngày tháng     | 10     |
+
+| 18   | Thông tin về đơn vị chủ quản                                                                                                |           |                |        |
+
+| 18.1 | Mã đơn vị chủ quản                                                                                                          | Y         | Ký tự          | 20     |
+
+| 18.2 | Tên đơn vị chủ quản                                                                                                         | Y         | Ký tự          | 500    |
+
+| 18.3 | Địa chỉ đơn vị chủ quản                                                                                                     |           | Ký tự          | 200    |
+
+| 18.4 | Số nhà, đường phố                                                                                                           | Y         | Ký tự          | 200    |
+
+| 18.5 | Mã Phường/Xã                                                                                                                | Y         | Ký tự          | 7      |
+
+| 18.6 | Mã Quận/ Huyện                                                                                                              | Y         | Ký tự          | 5      |
+
+| 18.7 | Mã Tỉnh/Thành phố                                                                                                           | Y         | Ký tự          | 3      |
+
+| 18.8 | Quốc gia                                                                                                                    | Y         | Ký tự          | 3      |
+
+| 19   | Thông tin người đứng đầu chi nhánh/VPĐD/địa điểm kinh doanh                                                                 |           |                |        |
+
+| 19.1 | Tên người đứng đầu ĐVTT                                                                                                     | Y         | Ký tự          | 200    |
+
+| 19.2 | Chức danh - nếu có                                                                                                          |           |                |        |
+
+| 19.3 | Loại giấy tờ (CMT/ CCCD /Hộ chiếu/Khác)                                                                                     | Y         | Ký tự          | 60     |
+
+| 19.4 | Ngày cấp                                                                                                                    | Y         | Ngày tháng năm | 10     |
+
+| 19.5 | Nơi cấp                                                                                                                     | Y         | Ký tự          | 60     |
+
+| 19.6 | Số                                                                                                                          | Y         | Ký tự          | 40     |
+
+| 19.7 | Điện thoại liên lạc                                                                                                         |           |                |        |
+
+| 19.8 | Địa chỉ thường trú                                                                                                          |           |                |        |
+
+| a    | Số nhà, đường phố                                                                                                           | Y         | Ký tự          | 200    |
+
+| b    | Mã Phường/Xã                                                                                                                | Y         | Ký tự          | 7      |
+
+| c    | Mã Quận/Huyện                                                                                                               | Y         | Ký tự          | 5      |
+
+| d    | Mã Tỉnh/Thành phố                                                                                                           | Y         | Ký tự          | 3      |
+
+| e    | Quốc gia                                                                                                                    | Y         | Ký tự          | 3      |
+
+| 19.9 | Địa chỉ hiện tại (nếu khác địa chỉ thường trú)                                                                              |           |                |        |
+
+| a    | Số nhà, đường phố                                                                                                           | Y         | Ký tự          | 200    |
+
+| b    | Mã Phường/Xã                                                                                                                | Y         | Ký tự          | 7      |
+
+| c    | Mã Quận/Huyện                                                                                                               | Y         | Ký tự          | 5      |
+
+| d    | Mã Tỉnh/Thành phố                                                                                                           | Y         | Ký tự          | 3      |
+
+| e    | Quốc gia                                                                                                                    | Y         | Ký lự          | 3      |
+
+| 20   | Giám đốc (Tổng giám đốc) - nếu có                                                                                           |           | Ký tự          | 30     |
+
+| 20.1 | Tên                                                                                                                         |           | Ký tự          | 200    |
+
+| 20.2 | Điện thoại                                                                                                                  |           | Ký tự          | 20     |
+
+| 21   | Kế toán trưởng/phụ trách kế toán - nếu có                                                                                   |           |                |        |
+
+| 21.1 | Tên                                                                                                                         |           | Ký tự          | 200    |
+
+| 21.2 | Điện thoại                                                                                                                  |           | Ký tự          | 20     |
+
+| 22   | Hoạt động theo dự án BOT/BTO/ BT/ BOO, BLT, BTL, O&M (Có: Y, Không: N)                                                      |           |                |        |
+
+| 23   | Phương pháp tính thuế GTGT (1 trong 4 phương pháp: khấu trừ, trực tiếp trên GTGT, trực tiếp trên doanh số, không chịu thuế) | Y         | Ký tự          | 2      |
+
+| 24   | Ngày nhận giao dịch                                                                                                         | Y         | Ngày tháng năm | 10     |
+
+STT
+
+Thông tin NNT
+
+Bắt buộc
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã giao dịch
+
+Y
+
+Ký tự
+
+2
+
+2
+
+Mã Tỉnh
+
+Y
+
+Ký tự
+
+3
+
+3
+
+Mã hợp tác xã (enterpriseId)
+
+Ký tự
+
+50
+
+4
+
+Mã xử lý (process ID)
+
+Y
+
+Ký tự
+
+20
+
+5
+
+Tên chính thức
+
+Y
+
+Ký tự
+
+500
+
+6
+
+Tên bằng tiếng nước ngoài
+
+Ký tự
+
+200
+
+7
+
+Tên viết tắt
+
+Ký tự
+
+60
+
+8
+
+Mã loại hình đơn vị phụ thuộc, địa điểm kinh doanh (Chi nhánh/Văn phòng đại diện/địa điểm kinh doanh)
+
+Y
+
+Ký tự
+
+2
+
+9
+
+Địa chỉ tại sở chính
+
+Y
+
+9.1
+
+Số nhà, đường phố
+
+Y
+
+Ký tự
+
+200
+
+9.2
+
+Mã Phường/Xã
+
+Y
+
+Ký tự
+
+7
+
+9.3
+
+Mã Quận/Huyện
+
+Y
+
+Ký tự
+
+5
+
+9.4
+
+Mã Tỉnh/Thành phố
+
+Y
+
+Ký tự
+
+3
+
+9.5
+
+Quốc gia
+
+9.6
+
+Điện thoại liên hệ
+
+Ký tự
+
+20
+
+9.7
+
+Fax
+
+Ký tự
+
+20
+
+9.8
+
+Email
+
+9.9
+
+Website
+
+10
+
+Địa chỉ nhận thông báo thuế
+
+10.1
+
+Số nhà, đường phố
+
+Ký tự
+
+200
+
+10.2
+
+Mã Phường/Xã
+
+Ký tự
+
+7
+
+10.3
+
+Mã Quận/Huyện
+
+Ký tự
+
+5
+
+10.4
+
+Mã Tỉnh/Thành phố
+
+Ký tự
+
+3
+
+10.5
+
+Quốc gia
+
+Ký tự
+
+10.6
+
+Điện thoại
+
+Ký tự
+
+20
+
+10.7
+
+Fax
+
+Ký tự
+
+20
+
+10.8
+
+Email
+
+11
+
+Ngành nghề kinh doanh
+
+Ký tự
+
+500
+
+11.1
+
+Mã ngành
+
+Ký tự
+
+6
+
+11.2
+
+Tên ngành
+
+Ký tự
+
+500
+
+11.3
+
+Ngành nghề (text)
+
+Ký tự
+
+12
+
+Ngành nghề kinh doanh chính (cơ quan ĐKHTX phải chọn ngành chính)
+
+12.1
+
+Mã
+
+Y
+
+Ký tự
+
+10
+
+12.2
+
+Tên
+
+Ký tự
+
+500
+
+13
+
+Ngày bắt đầu hoạt động kinh doanh
+
+Y
+
+Ngày tháng năm
+
+10
+
+14
+
+Tổng số lao động
+
+Y
+
+Số
+
+10
+
+15
+
+Mã loại hình hợp tác xã (HTX, liên hiệp HTX, quỹ tín dụng nhân dân)
+
+Y
+
+Ký tự
+
+2
+
+16
+
+Hình thức hạch toán (Y-Độc lập, N-Phụ thuộc)
+
+Y
+
+Ký tự
+
+1
+
+17
+
+Năm tài chính
+
+17.1
+
+Ngày bắt đầu năm tài chính
+
+Y
+
+Ngày tháng
+
+10
+
+17.2
+
+Ngày kết thúc năm tài chính
+
+Y
+
+Ngày tháng
+
+10
+
+18
+
+Thông tin về đơn vị chủ quản
+
+18.1
+
+Mã đơn vị chủ quản
+
+Y
+
+Ký tự
+
+20
+
+18.2
+
+Tên đơn vị chủ quản
+
+Y
+
+Ký tự
+
+500
+
+18.3
+
+Địa chỉ đơn vị chủ quản
+
+Ký tự
+
+200
+
+18.4
+
+Số nhà, đường phố
+
+Y
+
+Ký tự
+
+200
+
+18.5
+
+Mã Phường/Xã
+
+Y
+
+Ký tự
+
+7
+
+18.6
+
+Mã Quận/ Huyện
+
+Y
+
+Ký tự
+
+5
+
+18.7
+
+Mã Tỉnh/Thành phố
+
+Y
+
+Ký tự
+
+3
+
+18.8
+
+Quốc gia
+
+Y
+
+Ký tự
+
+3
+
+19
+
+Thông tin người đứng đầu chi nhánh/VPĐD/địa điểm kinh doanh
+
+19.1
+
+Tên người đứng đầu ĐVTT
+
+Y
+
+Ký tự
+
+200
+
+19.2
+
+Chức danh - nếu có
+
+19.3
+
+Loại giấy tờ (CMT/ CCCD /Hộ chiếu/Khác)
+
+Y
+
+Ký tự
+
+60
+
+19.4
+
+Ngày cấp
+
+Y
+
+Ngày tháng năm
+
+10
+
+19.5
+
+Nơi cấp
+
+Y
+
+Ký tự
+
+60
+
+19.6
+
+Số
+
+Y
+
+Ký tự
+
+40
+
+19.7
+
+Điện thoại liên lạc
+
+19.8
+
+Địa chỉ thường trú
+
+a
+
+Số nhà, đường phố
+
+Y
+
+Ký tự
+
+200
+
+b
+
+Mã Phường/Xã
+
+Y
+
+Ký tự
+
+7
+
+c
+
+Mã Quận/Huyện
+
+Y
+
+Ký tự
+
+5
+
+d
+
+Mã Tỉnh/Thành phố
+
+Y
+
+Ký tự
+
+3
+
+e
+
+Quốc gia
+
+Y
+
+Ký tự
+
+3
+
+19.9
+
+Địa chỉ hiện tại (nếu khác địa chỉ thường trú)
+
+a
+
+Số nhà, đường phố
+
+Y
+
+Ký tự
+
+200
+
+b
+
+Mã Phường/Xã
+
+Y
+
+Ký tự
+
+7
+
+c
+
+Mã Quận/Huyện
+
+Y
+
+Ký tự
+
+5
+
+d
+
+Mã Tỉnh/Thành phố
+
+Y
+
+Ký tự
+
+3
+
+e
+
+Quốc gia
+
+Y
+
+Ký lự
+
+3
+
+20
+
+Giám đốc (Tổng giám đốc) - nếu có
+
+Ký tự
+
+30
+
+20.1
+
+Tên
+
+Ký tự
+
+200
+
+20.2
+
+Điện thoại
+
+Ký tự
+
+20
+
+21
+
+Kế toán trưởng/phụ trách kế toán - nếu có
+
+21.1
+
+Tên
+
+Ký tự
+
+200
+
+21.2
+
+Điện thoại
+
+Ký tự
+
+20
+
+22
+
+Hoạt động theo dự án BOT/BTO/ BT/ BOO, BLT, BTL, O&M (Có: Y, Không: N)
+
+23
+
+Phương pháp tính thuế GTGT (1 trong 4 phương pháp: khấu trừ, trực tiếp trên GTGT, trực tiếp trên doanh số, không chịu thuế)
+
+Y
+
+Ký tự
+
+2
+
+24
+
+Ngày nhận giao dịch
+
+Y
+
+Ngày tháng năm
+
+10
+
+PHỤ LỤC 7
+
+DANH MỤC THÔNG TIN PHẢN HỒI TỪ HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ SANG HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ HỢP TÁC XÃ VỀ VIỆC TẠO MÃ SỐ HỢP TÁC XÃ/ĐƠN VỊ PHỤ THUỘC/ĐỊA ĐIỂM KINH DOANH (Kèm theo Quy chế liên thông số 01/2022/QCLT-BTC-BKHĐT ngày 13 tháng 01 năm 2022 của Bộ Tài chính và Bộ Kế hoạch và Đầu tư)
+
+| STT | Thông tin truyền nhận                                 | Bắt buộc | Kiểu dữ liệu | Độ dài |
+
+|-----|-------------------------------------------------------|----------|--------------|--------|
+
+| 1   | Mã giao dịch                                          | Y        | Ký tự        | 2      |
+
+| 2   | Mã kết quả trả về                                     | Y        | Ký tự        | 2      |
+
+| 3   | Chi tiết lỗi (Text)                                   | Y        | Ký tự        | 255    |
+
+| 4   | Mã xử lý (process ID)                                 | Y        | Ký tự        | 20     |
+
+| 5   | Mã số hợp tác xã/đơn vị phụ thuộc/Địa điểm kinh doanh | Y        | Ký tự        | 20     |
+
+| 6   | Mã cơ quan thuế quản lý                               | Y        | Ký tự        | 4      |
+
+| 7   | Tên cơ quan thuế quản lý                              | Y        | Ký tự        | 250    |
+
+STT
+
+Thông tin truyền nhận
+
+Bắt buộc
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã giao dịch
+
+Y
+
+Ký tự
+
+2
+
+2
+
+Mã kết quả trả về
+
+Y
+
+Ký tự
+
+2
+
+3
+
+Chi tiết lỗi (Text)
+
+Y
+
+Ký tự
+
+255
+
+4
+
+Mã xử lý (process ID)
+
+Y
+
+Ký tự
+
+20
+
+5
+
+Mã số hợp tác xã/đơn vị phụ thuộc/Địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+20
+
+6
+
+Mã cơ quan thuế quản lý
+
+Y
+
+Ký tự
+
+4
+
+7
+
+Tên cơ quan thuế quản lý
+
+Y
+
+Ký tự
+
+250
+
+PHỤ LỤC 8
+
+DANH MỤC THÔNG TIN KẾT QUẢ CẤP ĐĂNG KÝ CỦA HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ HỢP TÁC XÃ SANG HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ (Kèm theo Quy chế liên thông số 01/2022/QCLT-BTC-BKHĐT ngày 13 tháng 01 năm 2022 của Bộ Tài chính và Bộ Kế hoạch và Đầu tư)
+
+| STT | Thông tin NNT                                                      | Bắt buộc | Kiểu dữ liệu   | Độ dài |
+
+|-----|--------------------------------------------------------------------|----------|----------------|--------|
+
+| 1   | Mã giao dịch                                                       | Y        | Ký tự          | 2      |
+
+| 2   | Mã xử lý (process ID)                                              | Y        | Ký tự          | 20     |
+
+| 3   | Ngày cấp chấp thuận/từ chối                                        | Y        | Ngày tháng năm | 10     |
+
+| 4   | Cơ quan đăng ký hợp tác xã                                         | Y        | Ký tự          | 60     |
+
+| 5   | Ghi chú                                                            |          |                |        |
+
+| 6   | Mã hợp tác xã/đơn vị phụ thuộc/Mã địa điểm kinh doanh              | Y        | Ký tự          | 50     |
+
+| 7   | Tên hợp tác xã/đơn vị phụ thuộc/mã địa điểm kinh doanh             |          | Ký tự          | 500    |
+
+| 8   | Mã số thuế của đơn vị chủ quản (đối với ĐVPT, địa điểm kinh doanh) | Y        | Ký tự          | 14     |
+
+| 9   | Tên đơn vị chủ quản (nếu có)                                       |          | Ký tự          | 500    |
+
+STT
+
+Thông tin NNT
+
+Bắt buộc
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã giao dịch
+
+Y
+
+Ký tự
+
+2
+
+2
+
+Mã xử lý (process ID)
+
+Y
+
+Ký tự
+
+20
+
+3
+
+Ngày cấp chấp thuận/từ chối
+
+Y
+
+Ngày tháng năm
+
+10
+
+4
+
+Cơ quan đăng ký hợp tác xã
+
+Y
+
+Ký tự
+
+60
+
+5
+
+Ghi chú
+
+6
+
+Mã hợp tác xã/đơn vị phụ thuộc/Mã địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+50
+
+7
+
+Tên hợp tác xã/đơn vị phụ thuộc/mã địa điểm kinh doanh
+
+Ký tự
+
+500
+
+8
+
+Mã số thuế của đơn vị chủ quản (đối với ĐVPT, địa điểm kinh doanh)
+
+Y
+
+Ký tự
+
+14
+
+9
+
+Tên đơn vị chủ quản (nếu có)
+
+Ký tự
+
+500
+
+PHỤ LỤC 9
+
+DANH MỤC THÔNG TIN TRUYỀN TỪ HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ HỢP TÁC XÃ SANG HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ TRONG TRƯỜNG HỢP HỢP TÁC XÃ, ĐƠN VỊ PHỤ THUỘC, ĐỊA ĐIỂM KINH DOANH ĐĂNG KÝ CHUYỂN ĐỊA CHỈ TRỤ SỞ LÀM THAY ĐỔI CƠ QUAN THUẾ QUẢN LÝ (Kèm theo Quy chế liên thông số 01/2022/QCLT-BTC-BKHĐT ngày 13 tháng 01 năm 2022 của Bộ Tài chính và Bộ Kế hoạch và Đầu tư)
+
+| STT  | Thông tin NNT                                                                  | Bắt buộc | Kiểu dữ liệu   | Độ dài |
+
+|------|--------------------------------------------------------------------------------|----------|----------------|--------|
+
+| 1    | Mã giao dịch                                                                   | Y        | Ký tự          | 2      |
+
+| 2    | Mã Tỉnh chuyển đi                                                              | Y        | Ký tự          | 3      |
+
+| 3    | Mã Tỉnh chuyển đến                                                             | Y        | Ký tự          | 3      |
+
+| 4    | Mã hợp tác xã hoặc Mã đơn vị phụ thuộc (enterpriseId)                          | Y        | Ký tự          | 50     |
+
+| 5    | Mã xử lý (process ID)                                                          | Y        | Ký tự          | 20     |
+
+| 6    | Mã hợp tác xã /đơn vị phụ thuộc/Mã địa điểm kinh doanh                         | Y        | Ký tự          | 50     |
+
+| 7    | Tên hợp tác xã /đơn vị phụ thuộc/mã địa điểm kinh doanh                        |          | Ký lự          | 500    |
+
+| 8    | Mã số thuế của đơn vị chủ quản (đối với đơn vị phụ thuộc, địa điểm kinh doanh) | Y        | Ký tự          | 50     |
+
+| 9    | Tên đơn vị chủ quản (nếu có)                                                   |          | Ký tự          | 500    |
+
+| 10   | Địa chỉ trụ sở                                                                 |          |                |        |
+
+| 10.1 | Số nhà, đường phố                                                              | Y        | Ký tự          | 200    |
+
+| 10.2 | Mã Phường/Xã                                                                   | Y        | Ký tự          | 7      |
+
+| 10.3 | Mã Quận/Huyện                                                                  | Y        | Ký tự          | 5      |
+
+| 10.4 | Mã Tỉnh/Thành phố                                                              | Y        | Ký tự          | 3      |
+
+| 10.5 | Quốc gia                                                                       | Y        | Ký tự          | 3      |
+
+| 10.6 | Ngày nhận giao dịch                                                            | Y        | Ngày tháng năm | 10     |
+
+STT
+
+Thông tin NNT
+
+Bắt buộc
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã giao dịch
+
+Y
+
+Ký tự
+
+2
+
+2
+
+Mã Tỉnh chuyển đi
+
+Y
+
+Ký tự
+
+3
+
+3
+
+Mã Tỉnh chuyển đến
+
+Y
+
+Ký tự
+
+3
+
+4
+
+Mã hợp tác xã hoặc Mã đơn vị phụ thuộc (enterpriseId)
+
+Y
+
+Ký tự
+
+50
+
+5
+
+Mã xử lý (process ID)
+
+Y
+
+Ký tự
+
+20
+
+6
+
+Mã hợp tác xã /đơn vị phụ thuộc/Mã địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+50
+
+7
+
+Tên hợp tác xã /đơn vị phụ thuộc/mã địa điểm kinh doanh
+
+Ký lự
+
+500
+
+8
+
+Mã số thuế của đơn vị chủ quản (đối với đơn vị phụ thuộc, địa điểm kinh doanh)
+
+Y
+
+Ký tự
+
+50
+
+9
+
+Tên đơn vị chủ quản (nếu có)
+
+Ký tự
+
+500
+
+10
+
+Địa chỉ trụ sở
+
+10.1
+
+Số nhà, đường phố
+
+Y
+
+Ký tự
+
+200
+
+10.2
+
+Mã Phường/Xã
+
+Y
+
+Ký tự
+
+7
+
+10.3
+
+Mã Quận/Huyện
+
+Y
+
+Ký tự
+
+5
+
+10.4
+
+Mã Tỉnh/Thành phố
+
+Y
+
+Ký tự
+
+3
+
+10.5
+
+Quốc gia
+
+Y
+
+Ký tự
+
+3
+
+10.6
+
+Ngày nhận giao dịch
+
+Y
+
+Ngày tháng năm
+
+10
+
+PHỤ LỤC 10
+
+DANH MỤC THÔNG TIN TRUYỀN TỪ HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ HỢP TÁC XÃ SANG HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ TRONG TRƯỜNG HỢP HỢP TÁC XÃ ĐĂNG KÝ THAY ĐỔI NỘI DUNG ĐĂNG KÝ HỢP TÁC XÃ (Kèm theo Quy chế liên thông số 01/2022/QCLT-BTC-BKHĐT ngày 13 tháng 01 năm 2022 của Bộ Tài chính và Bộ Kế hoạch và Đầu tư)
+
+| STT | Thông tin NNT                                                                                                  | Bắt buộc | Kiểu dữ liệu   | Độ dài |
+
+|-----|----------------------------------------------------------------------------------------------------------------|----------|----------------|--------|
+
+| 1   | Mã giao dịch                                                                                                   | Y        | Ký tự          | 2      |
+
+| 2   | Mã tỉnh                                                                                                        | Y        | Ký tự          | 20     |
+
+| 3   | Mã hợp tác xã (enterpriseld) hoặc Mã đơn vị phụ thuộc, địa điểm kinh doanh                                     | Y        | Ký tự          | 50     |
+
+| 4   | Mã xử lý (process ID)                                                                                          | Y        | Ký tự          | 20     |
+
+| 5   | Mã hợp tác xã/ đơn vị phụ thuộc/ mã địa điểm kinh doanh                                                        | Y        | Ký tự          | 50     |
+
+| 6   | Tên hợp tác xã/ đơn vị phụ thuộc/tên địa điểm kinh doanh                                                       | Y        | Ký tự          | 500    |
+
+| 7   | Mã loại hình đơn vị phụ thuộc, địa điểm kinh doanh (Chi nhánh/văn phòng đại diện/địa điểm kinh doanh)          | Y        | Ký tự          | 2      |
+
+| 8   | Mã số thuế đơn vị chủ quản (đối với ĐV phụ thuộc, địa điểm kinh doanh)                                         | Y        | Ký tự          | 50     |
+
+| 9   | Tên đơn vị chủ quan (nếu có)                                                                                   |          | Ký tự          | 500    |
+
+| 10  | Các thông tin có thay đổi (liệt kê theo từng thông tin thay đổi theo đúng chỉ tiêu nêu tại Phụ lục 05 hoặc 06) | Y        |                |        |
+
+| 11  | Ngày nhận giao dịch                                                                                            | Y        | Ngày tháng năm | 10     |
+
+STT
+
+Thông tin NNT
+
+Bắt buộc
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã giao dịch
+
+Y
+
+Ký tự
+
+2
+
+2
+
+Mã tỉnh
+
+Y
+
+Ký tự
+
+20
+
+3
+
+Mã hợp tác xã (enterpriseld) hoặc Mã đơn vị phụ thuộc, địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+50
+
+4
+
+Mã xử lý (process ID)
+
+Y
+
+Ký tự
+
+20
+
+5
+
+Mã hợp tác xã/ đơn vị phụ thuộc/ mã địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+50
+
+6
+
+Tên hợp tác xã/ đơn vị phụ thuộc/tên địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+500
+
+7
+
+Mã loại hình đơn vị phụ thuộc, địa điểm kinh doanh (Chi nhánh/văn phòng đại diện/địa điểm kinh doanh)
+
+Y
+
+Ký tự
+
+2
+
+8
+
+Mã số thuế đơn vị chủ quản (đối với ĐV phụ thuộc, địa điểm kinh doanh)
+
+Y
+
+Ký tự
+
+50
+
+9
+
+Tên đơn vị chủ quan (nếu có)
+
+Ký tự
+
+500
+
+10
+
+Các thông tin có thay đổi (liệt kê theo từng thông tin thay đổi theo đúng chỉ tiêu nêu tại Phụ lục 05 hoặc 06)
+
+Y
+
+11
+
+Ngày nhận giao dịch
+
+Y
+
+Ngày tháng năm
+
+10
+
+PHỤ LỤC 11
+
+DANH MỤC THÔNG TIN TRUYỀN TỪ HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ SANG HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ HỢP TÁC XÃ ĐỂ RÀ SOÁT VỀ TÌNH HÌNH HOẠT ĐỘNG CỦA HỢP TÁC XÃ (Kèm theo Quy chế liên thông số 01/2022/QCLT-BTC-BKHĐT ngày 13 tháng 01 năm 2022 của Bộ Tài chính và Bộ Kế hoạch và Đầu tư)
+
+| STT | Tên trường thông tin                                                                   | Bắt buộc | Kiểu dữ liệu   | Độ dài |
+
+|-----|----------------------------------------------------------------------------------------|----------|----------------|--------|
+
+| 1   | Mã số thuế/Mã địa điểm kinh doanh                                                      | Y        | Ký tự          | 50     |
+
+| 2   | Tên HTX/đơn vị phụ thuộc/Địa điểm kinh doanh                                           | Y        | Ký tự          | 500    |
+
+| 3   | Ngày cấp giấy Giấy chứng nhận đăng ký hợp tác xã/đơn vị phụ thuộc/ địa điểm kinh doanh | Y        | Ngày tháng năm | 10     |
+
+| 4   | Mã số thuế đơn vị chủ quản (đối với đơn vị phụ thuộc, địa điểm KD)                     | Y        | Ký tự          | 50     |
+
+| 5   | Tên đơn vị chủ quản                                                                    | Y        | Ký tự          | 500    |
+
+| 6   | Trạng thái MST/mã địa điểm kinh doanh (Mã trạng thái)                                  | Y        | Ký tự          | 2      |
+
+| 7   | Tên trạng thái MST                                                                     | Y        | Ký tự          | 100    |
+
+| 8   | Ngày cập nhập tình trạng hoạt động                                                     | Y        | Ngày tháng năm | 10     |
+
+| 9   | Lý do kèm theo tình trạng hoạt động (nếu có)                                           | Y        | Ký tự          | 100    |
+
+| 10  | Địa chỉ trụ sở chính                                                                   | Y        | Ký tự          | 200    |
+
+| 11  | Mã tỉnh của địa chỉ trụ sở chính                                                       | Y        | Ký tự          | 3      |
+
+| 12  | Mã huyện của địa chỉ trụ sở chính                                                      | Y        | Ký tự          | 5      |
+
+| 13  | Mã xã của địa chỉ trụ sở chính                                                         | Y        | Ký tự          | 7      |
+
+| 14  | Điện thoại liên hệ                                                                     |          | Ký tự          | 20     |
+
+| 15  | Email                                                                                  |          |                |        |
+
+| 16  | Mã tỉnh của địa chỉ thông báo Thuế                                                     |          | Ký tự          | 3      |
+
+| 17  | Mã huyện của địa chỉ thông báo Thuế                                                    |          | Ký tự          | 5      |
+
+| 18  | Mã xã của địa chỉ thông báo Thuế                                                       |          | Ký tự          | 7      |
+
+| 19  | Điện thoại của địa chỉ thông báo Thuế                                                  |          | Ký tự          |        |
+
+| 20  | Email thông báo Thuế                                                                   |          |                |        |
+
+| 21  | Tổng số lao động                                                                       | Y        | Số             | 10     |
+
+| 22  | Ngày bắt đầu hoạt động kinh doanh                                                      | Y        | Ngày tháng năm | 10     |
+
+| 23  | Mã loại hình hợp tác xã                                                                | Y        | Ký tự          | 2      |
+
+| 24  | Đại diện pháp luật                                                                     | Y        | Ký tự          | 200    |
+
+| 25  | Số CMT, CCCD, Hộ chiếu, khác                                                           | Y        | Ký tự          | 60     |
+
+| 26  | Ngày cấp CMT, CCCD, Hộ chiếu, khác                                                     | Y        | Ký tự          | 10     |
+
+| 27  | Nơi cấp CMT, CCCD, Hộ chiếu, khác                                                      | Y        | Ký tự          | 200    |
+
+| 28  | Địa chỉ cư trú                                                                         | Y        | Ký tự          | 200    |
+
+| 29  | Điện thoại của đại diện pháp luật                                                      |          | Ký tự          | 20     |
+
+| 30  | Mã ngành nghề kinh doanh chính                                                         |          | Ký tự          | 6      |
+
+| 31  | Ngày giải thể                                                                          |          | Ngày tháng năm | 14     |
+
+| 32  | Lý do giải thể                                                                         | Y        | Ký tự          | 100    |
+
+| 33  | Ngày bắt đầu hoạt động kinh doanh                                                      | Y        | Ký tự          | 10     |
+
+| 34  | Ngày kết thúc hoạt động kinh doanh                                                     | Y        | Ký tự          | 10     |
+
+| 35  | Hình thức hạch toán                                                                    | Y        | Ký tự          | 1      |
+
+| 36  | Năm tài chính                                                                          |          | Ký tự          | 200    |
+
+| 37  | Kế toán trưởng                                                                         |          | Ký tự          | 200    |
+
+| 38  | Vốn NSNN                                                                               | Y        | Kiểu số        | 22,3   |
+
+| 39  | Vốn nước ngoài                                                                         | Y        | Kiểu số        | 22,3   |
+
+| 40  | Vốn tư nhân                                                                            | Y        | Kiểu số        | 22,3   |
+
+| 41  | Vốn khác                                                                               | Y        | Kiểu số        | 22,3   |
+
+| 42  | Tổng vốn điều lệ                                                                       | Y        | Kiểu số        | 22,3   |
+
+STT
+
+Tên trường thông tin
+
+Bắt buộc
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã số thuế/Mã địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+50
+
+2
+
+Tên HTX/đơn vị phụ thuộc/Địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+500
+
+3
+
+Ngày cấp giấy Giấy chứng nhận đăng ký hợp tác xã/đơn vị phụ thuộc/ địa điểm kinh doanh
+
+Y
+
+Ngày tháng năm
+
+10
+
+4
+
+Mã số thuế đơn vị chủ quản (đối với đơn vị phụ thuộc, địa điểm KD)
+
+Y
+
+Ký tự
+
+50
+
+5
+
+Tên đơn vị chủ quản
+
+Y
+
+Ký tự
+
+500
+
+6
+
+Trạng thái MST/mã địa điểm kinh doanh (Mã trạng thái)
+
+Y
+
+Ký tự
+
+2
+
+7
+
+Tên trạng thái MST
+
+Y
+
+Ký tự
+
+100
+
+8
+
+Ngày cập nhập tình trạng hoạt động
+
+Y
+
+Ngày tháng năm
+
+10
+
+9
+
+Lý do kèm theo tình trạng hoạt động (nếu có)
+
+Y
+
+Ký tự
+
+100
+
+10
+
+Địa chỉ trụ sở chính
+
+Y
+
+Ký tự
+
+200
+
+11
+
+Mã tỉnh của địa chỉ trụ sở chính
+
+Y
+
+Ký tự
+
+3
+
+12
+
+Mã huyện của địa chỉ trụ sở chính
+
+Y
+
+Ký tự
+
+5
+
+13
+
+Mã xã của địa chỉ trụ sở chính
+
+Y
+
+Ký tự
+
+7
+
+14
+
+Điện thoại liên hệ
+
+Ký tự
+
+20
+
+15
+
+Email
+
+16
+
+Mã tỉnh của địa chỉ thông báo Thuế
+
+Ký tự
+
+3
+
+17
+
+Mã huyện của địa chỉ thông báo Thuế
+
+Ký tự
+
+5
+
+18
+
+Mã xã của địa chỉ thông báo Thuế
+
+Ký tự
+
+7
+
+19
+
+Điện thoại của địa chỉ thông báo Thuế
+
+Ký tự
+
+20
+
+Email thông báo Thuế
+
+21
+
+Tổng số lao động
+
+Y
+
+Số
+
+10
+
+22
+
+Ngày bắt đầu hoạt động kinh doanh
+
+Y
+
+Ngày tháng năm
+
+10
+
+23
+
+Mã loại hình hợp tác xã
+
+Y
+
+Ký tự
+
+2
+
+24
+
+Đại diện pháp luật
+
+Y
+
+Ký tự
+
+200
+
+25
+
+Số CMT, CCCD, Hộ chiếu, khác
+
+Y
+
+Ký tự
+
+60
+
+26
+
+Ngày cấp CMT, CCCD, Hộ chiếu, khác
+
+Y
+
+Ký tự
+
+10
+
+27
+
+Nơi cấp CMT, CCCD, Hộ chiếu, khác
+
+Y
+
+Ký tự
+
+200
+
+28
+
+Địa chỉ cư trú
+
+Y
+
+Ký tự
+
+200
+
+29
+
+Điện thoại của đại diện pháp luật
+
+Ký tự
+
+20
+
+30
+
+Mã ngành nghề kinh doanh chính
+
+Ký tự
+
+6
+
+31
+
+Ngày giải thể
+
+Ngày tháng năm
+
+14
+
+32
+
+Lý do giải thể
+
+Y
+
+Ký tự
+
+100
+
+33
+
+Ngày bắt đầu hoạt động kinh doanh
+
+Y
+
+Ký tự
+
+10
+
+34
+
+Ngày kết thúc hoạt động kinh doanh
+
+Y
+
+Ký tự
+
+10
+
+35
+
+Hình thức hạch toán
+
+Y
+
+Ký tự
+
+1
+
+36
+
+Năm tài chính
+
+Ký tự
+
+200
+
+37
+
+Kế toán trưởng
+
+Ký tự
+
+200
+
+38
+
+Vốn NSNN
+
+Y
+
+Kiểu số
+
+22,3
+
+39
+
+Vốn nước ngoài
+
+Y
+
+Kiểu số
+
+22,3
+
+40
+
+Vốn tư nhân
+
+Y
+
+Kiểu số
+
+22,3
+
+41
+
+Vốn khác
+
+Y
+
+Kiểu số
+
+22,3
+
+42
+
+Tổng vốn điều lệ
+
+Y
+
+Kiểu số
+
+22,3
+
+PHỤ LỤC 12
+
+DANH MỤC THÔNG TIN TRUYỀN TỪ HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ HỢP TÁC XÃ SANG HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ TRONG TRƯỜNG HỢP HỢP TÁC XÃ ĐĂNG KÝ TẠM NGỪNG KINH DOANH (Kèm theo Quy chế liên thông số 01/2022/QCLT-BTC-BKHĐT ngày 13 tháng 01 năm 2022 của Bộ Tài chính và Bộ Kế hoạch & Đầu tư)
+
+| STT | Thông tin NNT                                                             | Bắt buộc | Kiểu dữ liệu   | Độ dài |
+
+|-----|---------------------------------------------------------------------------|----------|----------------|--------|
+
+| 1   | Mã giao dịch                                                              | Y        | Ký tự          | 2      |
+
+| 2   | Mã Tỉnh                                                                   | Y        | Ký tự          | 3      |
+
+| 3   | Mã kết quả                                                                |          | Ký tự          | 2      |
+
+| 4   | Mã hợp tác xã (enterpriseld)                                              | Y        | Ký tự          | 50     |
+
+| 5   | Mã xử lý (process ID)                                                     | Y        | Ký tự          | 20     |
+
+| 6   | Mã số hợp tác xã/Đơn vị phụ thuộc/Địa điểm kinh doanh                     | Y        | Ký tự          | 50     |
+
+| 7   | Tên hợp tác xã/Đơn vị phụ thuộc/Địa điểm kinh doanh                       | Y        | Ký tự          | 500    |
+
+| 8   | Mã số thuế đơn vị chủ quản (đối với Đơn vị phụ thuộc/Địa điểm kinh doanh) | Y        | Ký tự          | 50     |
+
+| 9   | Tên đơn vị chủ quản (nếu có)                                              |          | Ký tự          | 500    |
+
+| 10  | Tạm ngừng từ ngày                                                         | Y        | Ngày tháng năm | 10     |
+
+| 11  | Tạm ngừng tới ngày                                                        | Y        | Ngày tháng năm | 10     |
+
+| 12  | Lý do tạm ngừng                                                           | Y        | Ký tự          | 100    |
+
+| 13  | Ngày nhận giao dịch                                                       | Y        | Ngày tháng năm | 14     |
+
+STT
+
+Thông tin NNT
+
+Bắt buộc
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã giao dịch
+
+Y
+
+Ký tự
+
+2
+
+2
+
+Mã Tỉnh
+
+Y
+
+Ký tự
+
+3
+
+3
+
+Mã kết quả
+
+Ký tự
+
+2
+
+4
+
+Mã hợp tác xã (enterpriseld)
+
+Y
+
+Ký tự
+
+50
+
+5
+
+Mã xử lý (process ID)
+
+Y
+
+Ký tự
+
+20
+
+6
+
+Mã số hợp tác xã/Đơn vị phụ thuộc/Địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+50
+
+7
+
+Tên hợp tác xã/Đơn vị phụ thuộc/Địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+500
+
+8
+
+Mã số thuế đơn vị chủ quản (đối với Đơn vị phụ thuộc/Địa điểm kinh doanh)
+
+Y
+
+Ký tự
+
+50
+
+9
+
+Tên đơn vị chủ quản (nếu có)
+
+Ký tự
+
+500
+
+10
+
+Tạm ngừng từ ngày
+
+Y
+
+Ngày tháng năm
+
+10
+
+11
+
+Tạm ngừng tới ngày
+
+Y
+
+Ngày tháng năm
+
+10
+
+12
+
+Lý do tạm ngừng
+
+Y
+
+Ký tự
+
+100
+
+13
+
+Ngày nhận giao dịch
+
+Y
+
+Ngày tháng năm
+
+14
+
+PHỤ LỤC 13
+
+DANH MỤC THÔNG TIN TRUYỀN TỪ HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ HỢP TÁC XÃ SANG HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ TRONG TRƯỜNG HỢP HỢP TÁC XÃ KHÔI PHỤC TÌNH TRẠNG HOẠT ĐỘNG SAU KHI HẾT THỜI HẠN ĐÃ ĐĂNG KÝ TẠM NGỪNG (Kèm theo Quy chế liên thông số 01/2022/QCLT-BTC-BKHĐT ngày 13 tháng 01 năm 2022 của Bộ Tài chính và Bộ Kế hoạch và Đầu tư)
+
+| STT | Thông tin NNT                                                             | Bắt buộc | Kiểu dữ liệu   | Độ dài |
+
+|-----|---------------------------------------------------------------------------|----------|----------------|--------|
+
+| 1   | Mã giao dịch                                                              | Y        | Ký tự          | 2      |
+
+| 2   | Mã Tỉnh                                                                   | Y        | Ký tự          | 3      |
+
+| 3   | Mã kết quả                                                                |          | Ký tự          | 2      |
+
+| 4   | Mã hợp tác xã (enterpriseld)                                              | Y        | Ký tự          | 50     |
+
+| 5   | Mã xử lý (process ID)                                                     | Y        | Ký tự          | 20     |
+
+| 6   | Mã số hợp tác xã/Đơn vị phụ thuộc/địa điểm kinh doanh                     | Y        | Ký tự          | 50     |
+
+| 7   | Tên hợp tác xã/Tên Đơn vị phụ thuộc/địa điểm kinh doanh                   | Y        | Ký tự          | 500    |
+
+| 8   | Mã số thuế đơn vị chủ quản (đối với Đơn vị phụ thuộc/Địa điểm kinh doanh) | Y        | Ký tự          | 50     |
+
+| 9   | Tên đơn vị chủ quản (nếu có)                                              |          | Ký tự          | 500    |
+
+| 10  | Ngày tiếp tục hoạt động sau khi tạm ngưng kinh doanh (dd/mm/yyyy)         | Y        | Ngày tháng năm | 10     |
+
+| 11  | Ngày nhận giao dịch                                                       | Y        | Ngày tháng năm | 10     |
+
+STT
+
+Thông tin NNT
+
+Bắt buộc
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã giao dịch
+
+Y
+
+Ký tự
+
+2
+
+2
+
+Mã Tỉnh
+
+Y
+
+Ký tự
+
+3
+
+3
+
+Mã kết quả
+
+Ký tự
+
+2
+
+4
+
+Mã hợp tác xã (enterpriseld)
+
+Y
+
+Ký tự
+
+50
+
+5
+
+Mã xử lý (process ID)
+
+Y
+
+Ký tự
+
+20
+
+6
+
+Mã số hợp tác xã/Đơn vị phụ thuộc/địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+50
+
+7
+
+Tên hợp tác xã/Tên Đơn vị phụ thuộc/địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+500
+
+8
+
+Mã số thuế đơn vị chủ quản (đối với Đơn vị phụ thuộc/Địa điểm kinh doanh)
+
+Y
+
+Ký tự
+
+50
+
+9
+
+Tên đơn vị chủ quản (nếu có)
+
+Ký tự
+
+500
+
+10
+
+Ngày tiếp tục hoạt động sau khi tạm ngưng kinh doanh (dd/mm/yyyy)
+
+Y
+
+Ngày tháng năm
+
+10
+
+11
+
+Ngày nhận giao dịch
+
+Y
+
+Ngày tháng năm
+
+10
+
+PHỤ LỤC 14
+
+DANH MỤC THÔNG TIN TRUYỀN TỪ HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ HỢP TÁC XÃ SANG HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ TRONG TRƯỜNG HỢP GIẢI THỂ HỢP TÁC XÃ (Kèm theo Quy chế liên thông số 01/2022/QCLT-BTC-BKHĐT ngày 13 tháng 01 năm 2022 của Bộ Tài chính và Bộ Kế hoạch và Đầu tư)
+
+I. DANH MỤC THÔNG TIN TRUYỀN TỪ HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ HỢP TÁC XÃ SANG HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ VỀ QUYẾT ĐỊNH GIẢI THỂ/QUYẾT ĐỊNH MỞ THỦ TỤC PHÁ SẢN/QUYẾT ĐỊNH TUYÊN BỐ PHÁ SẢN
+
+| STT | Thông tin NNT                                                              | Bắt buộc | Kiểu dữ liệu   | Độ dài |
+
+|-----|----------------------------------------------------------------------------|----------|----------------|--------|
+
+| 1   | Mã giao dịch                                                               | Y        | Ký tự          | 2      |
+
+| 2   | Mã Tỉnh                                                                    | Y        | Ký tự          | 3      |
+
+| 3   | Mã kết quả                                                                 |          | Ký tự          | 2      |
+
+| 4   | Mã hợp tác xã (enterpriseld)                                               | Y        | Ký tự          | 50     |
+
+| 5   | Mã xử lý (process ID)                                                      | Y        | Ký tự          | 20     |
+
+| 6   | Mã số hợp tác xã/Đơn vị phụ thuộc/Địa điểm kinh doanh                      | Y        | Ký tự          | 50     |
+
+| 7   | Tên hợp tác xã/Đơn vị phụ thuộc/Địa điểm kinh doanh                        | Y        | Ký tự          | 500    |
+
+| 8   | Mã số thuế đơn vị chủ quản (đối với đơn vị phụ thuộc/Địa điểm kinh doanh)  | Y        | Ký tự          | 50     |
+
+| 9   | Tên đơn vị chủ quản (nếu có)                                               |          | Ký tự          | 500    |
+
+| 10  | Ngày nhận quyết định giải thể (InJournalDate)                              |          | Ngày tháng năm | 14     |
+
+| 11  | Ngày công khai Quyết định giải thể trên Cổng thông tin QG về đăng ký HTX   |          | Ngày tháng năm | 14     |
+
+| 12  | Ngày quyết định giải thể                                                   |          | Ngày tháng năm | 14     |
+
+| 13  | Số quyết định giải thể                                                     |          |                |        |
+
+| 14  | Lý do giải thể                                                             | Y        | Ký tự          | 100    |
+
+| 15  | Ngày quyết định mở thủ tục phá sản, quyết định tuyên bố hợp tác xã phá sản |          | Ngày tháng năm | 14     |
+
+| 16  | Lý do phá sản                                                              | Y        | Ký tự          | 100    |
+
+| 15  | Ngày nhận giao dịch                                                        | Y        | Ngày tháng năm | 10     |
+
+STT
+
+Thông tin NNT
+
+Bắt buộc
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã giao dịch
+
+Y
+
+Ký tự
+
+2
+
+2
+
+Mã Tỉnh
+
+Y
+
+Ký tự
+
+3
+
+3
+
+Mã kết quả
+
+Ký tự
+
+2
+
+4
+
+Mã hợp tác xã (enterpriseld)
+
+Y
+
+Ký tự
+
+50
+
+5
+
+Mã xử lý (process ID)
+
+Y
+
+Ký tự
+
+20
+
+6
+
+Mã số hợp tác xã/Đơn vị phụ thuộc/Địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+50
+
+7
+
+Tên hợp tác xã/Đơn vị phụ thuộc/Địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+500
+
+8
+
+Mã số thuế đơn vị chủ quản (đối với đơn vị phụ thuộc/Địa điểm kinh doanh)
+
+Y
+
+Ký tự
+
+50
+
+9
+
+Tên đơn vị chủ quản (nếu có)
+
+Ký tự
+
+500
+
+10
+
+Ngày nhận quyết định giải thể (InJournalDate)
+
+Ngày tháng năm
+
+14
+
+11
+
+Ngày công khai Quyết định giải thể trên Cổng thông tin QG về đăng ký HTX
+
+Ngày tháng năm
+
+14
+
+12
+
+Ngày quyết định giải thể
+
+Ngày tháng năm
+
+14
+
+13
+
+Số quyết định giải thể
+
+14
+
+Lý do giải thể
+
+Y
+
+Ký tự
+
+100
+
+15
+
+Ngày quyết định mở thủ tục phá sản, quyết định tuyên bố hợp tác xã phá sản
+
+Ngày tháng năm
+
+14
+
+16
+
+Lý do phá sản
+
+Y
+
+Ký tự
+
+100
+
+15
+
+Ngày nhận giao dịch
+
+Y
+
+Ngày tháng năm
+
+10
+
+II. DANH MỤC THÔNG TIN TRUYỀN TỪ HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ HỢP TÁC XÃ SANG HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ TRONG TRƯỜNG HỢP XÁC NHẬN NGHĨA VỤ THUẾ ĐỐI VỚI HỒ SƠ GIẢI THỂ HỢP TÁC XÃ/CHẤM DỨT HOẠT ĐỘNG ĐVPT (TRỪ PHÁ SẢN)
+
+| STT | Thông tin NNT                                                                        | Bắt buộc | Kiểu dữ liệu   | Độ dài |
+
+|-----|--------------------------------------------------------------------------------------|----------|----------------|--------|
+
+| 1   | Mã giao dịch                                                                         | Y        | Ký tự          | 2      |
+
+| 2   | Mã Tỉnh                                                                              | Y        | Ký tự          | 3      |
+
+| 3   | Mã kết quả                                                                           |          | Ký tự          | 2      |
+
+| 4   | Mã hợp tác xã (enterpriseld)                                                         | Y        | Ký tự          | 50     |
+
+| 5   | Mã xử lý (process ID)                                                                | Y        | Ký tự          | 20     |
+
+| 6   | Mã số hợp tác xã/Đơn vị phụ thuộc/địa điểm kinh doanh                                | Y        | Ký tự          | 50     |
+
+| 7   | Tên hợp tác xã/Tên đơn vị phụ thuộc/địa điểm kinh doanh                              | Y        | Ký tự          | 500    |
+
+| 8   | Mã số thuế đơn vị chủ quan (đối với đơn vị phụ thuộc/Địa điểm kinh doanh)            | Y        | Ký tự          | 50     |
+
+| 9   | Tên đơn vị chủ quản (nếu có)                                                         | Y        | Ký tự          | 500    |
+
+| 10  | Ngày CQ ĐKKD nhận hồ sơ giải thể/chấm dứt tồn tại/chấm dứt hoạt động (InJournalDate) | Y        | Ngày tháng năm | 10     |
+
+| 11  | Lý do giải thể/chấm dứt tồn tại/chấm dứt hoạt động                                   | Y        | Ký tự          | 100    |
+
+| 12  | Ngày nhận giao dịch                                                                  | Y        | Ngày tháng năm | 10     |
+
+STT
+
+Thông tin NNT
+
+Bắt buộc
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã giao dịch
+
+Y
+
+Ký tự
+
+2
+
+2
+
+Mã Tỉnh
+
+Y
+
+Ký tự
+
+3
+
+3
+
+Mã kết quả
+
+Ký tự
+
+2
+
+4
+
+Mã hợp tác xã (enterpriseld)
+
+Y
+
+Ký tự
+
+50
+
+5
+
+Mã xử lý (process ID)
+
+Y
+
+Ký tự
+
+20
+
+6
+
+Mã số hợp tác xã/Đơn vị phụ thuộc/địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+50
+
+7
+
+Tên hợp tác xã/Tên đơn vị phụ thuộc/địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+500
+
+8
+
+Mã số thuế đơn vị chủ quan (đối với đơn vị phụ thuộc/Địa điểm kinh doanh)
+
+Y
+
+Ký tự
+
+50
+
+9
+
+Tên đơn vị chủ quản (nếu có)
+
+Y
+
+Ký tự
+
+500
+
+10
+
+Ngày CQ ĐKKD nhận hồ sơ giải thể/chấm dứt tồn tại/chấm dứt hoạt động (InJournalDate)
+
+Y
+
+Ngày tháng năm
+
+10
+
+11
+
+Lý do giải thể/chấm dứt tồn tại/chấm dứt hoạt động
+
+Y
+
+Ký tự
+
+100
+
+12
+
+Ngày nhận giao dịch
+
+Y
+
+Ngày tháng năm
+
+10
+
+III. DANH MỤC THÔNG TIN TRUYỀN TỪ HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ HỢP TÁC XÃ SANG HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ TRONG TRƯỜNG HỢP ĐÃ GIẢI THỂ HỢP TÁC XÃ/CHẤM DỨT HOẠT ĐỘNG ĐVPT
+
+| STT | Thông tin NNT                                                                             | Bắt buộc | Kiểu dữ liệu   | Độ dài |
+
+|-----|-------------------------------------------------------------------------------------------|----------|----------------|--------|
+
+| 1   | Mã giao dịch                                                                              | Y        | Ký tự          | 2      |
+
+| 2   | Mã Tỉnh                                                                                   | Y        | Ký tự          | 3      |
+
+| 3   | Mã kết quả                                                                                |          | Ký tự          | 2      |
+
+| 4   | Mã hợp tác xã (enterpriseld)                                                              | Y        | Ký tự          | 50     |
+
+| 5   | Mã xử lý (process ID)                                                                     | Y        | Ký tự          | 20     |
+
+| 6   | Mã số hợp tác xã/Đơn vị phụ thuộc/Địa điểm kinh doanh                                     | Y        | Ký tự          | 50     |
+
+| 7   | Tên hợp tác xã/Tên đơn vị phụ thuộc/Địa điểm kinh doanh                                   | Y        | Ký tự          | 500    |
+
+| 8   | Mã số thuế đơn vị chủ quản (đối với đơn vị phụ thuộc/Địa điểm kinh doanh)                 | Y        | Ký tự          | 50     |
+
+| 9   | Tên đơn vị chủ quản (nếu có)                                                              |          | Ký tự          | 500    |
+
+| 10  | Ngày cơ quan đăng ký kinh doanh xóa tên HTX, đơn vị phụ thuộc trên Hệ thống TTQG về ĐKHTX | Y        | Ngày tháng năm | 10     |
+
+| 11  | Lý do giải thể/chấm dứt hoạt động                                                         | Y        | Ký tự          | 100    |
+
+| 12  | Ngày nhận giao dịch                                                                       | Y        | Ngày tháng năm | 10     |
+
+STT
+
+Thông tin NNT
+
+Bắt buộc
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã giao dịch
+
+Y
+
+Ký tự
+
+2
+
+2
+
+Mã Tỉnh
+
+Y
+
+Ký tự
+
+3
+
+3
+
+Mã kết quả
+
+Ký tự
+
+2
+
+4
+
+Mã hợp tác xã (enterpriseld)
+
+Y
+
+Ký tự
+
+50
+
+5
+
+Mã xử lý (process ID)
+
+Y
+
+Ký tự
+
+20
+
+6
+
+Mã số hợp tác xã/Đơn vị phụ thuộc/Địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+50
+
+7
+
+Tên hợp tác xã/Tên đơn vị phụ thuộc/Địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+500
+
+8
+
+Mã số thuế đơn vị chủ quản (đối với đơn vị phụ thuộc/Địa điểm kinh doanh)
+
+Y
+
+Ký tự
+
+50
+
+9
+
+Tên đơn vị chủ quản (nếu có)
+
+Ký tự
+
+500
+
+10
+
+Ngày cơ quan đăng ký kinh doanh xóa tên HTX, đơn vị phụ thuộc trên Hệ thống TTQG về ĐKHTX
+
+Y
+
+Ngày tháng năm
+
+10
+
+11
+
+Lý do giải thể/chấm dứt hoạt động
+
+Y
+
+Ký tự
+
+100
+
+12
+
+Ngày nhận giao dịch
+
+Y
+
+Ngày tháng năm
+
+10
+
+PHỤ LỤC 15
+
+DANH MỤC THÔNG TIN TRUYỀN TỪ HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ HỢP TÁC XÃ SANG HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ TRONG TRƯỜNG HỢP CƠ QUAN ĐĂNG KÝ HỢP TÁC XÃ RA THÔNG BÁO VI PHẠM THUỘC TRƯỜNG HỢP THU HỒI VÀ QUYẾT ĐỊNH THU HỒI GIẤY CHỨNG NHẬN ĐĂNG KÝ HỢP TÁC XÃ (Kèm theo Quy chế liên thông số 01/2022/QCLT-BTC-BKHĐT ngày 13 tháng 01 năm 2022 của Bộ Tài chính và Bộ Kế hoạch và Đầu tư)
+
+| STT | Thông tin NNT                                                             | Bắt buộc | Kiểu dữ liệu   | Độ dài |
+
+|-----|---------------------------------------------------------------------------|----------|----------------|--------|
+
+| 1   | Mã giao dịch                                                              | Y        | Ký tự          | 2      |
+
+| 2   | Mã Tỉnh                                                                   | Y        | Ký tự          | 3      |
+
+| 3   | Mã kết quả                                                                |          | Ký tự          | 2      |
+
+| 4   | Mã hợp tác xã (enterpriseld)                                              | Y        | Ký tự          | 50     |
+
+| 5   | Mã xử lý (process ID)                                                     | Y        | Ký tự          | 20     |
+
+| 6   | Mã số hợp tác xã/Đơn vị phụ thuộc/Địa điểm kinh doanh                     | Y        | Ký tự          | 50     |
+
+| 7   | Tên hợp tác xã/Tên Đơn vị phụ thuộc/Địa điểm kinh doanh                   | Y        | Ký tự          | 500    |
+
+| 8   | Mã số thuế đơn vị chủ quản (đối với đơn vị phụ thuộc/Địa điểm kinh doanh) | Y        | Ký tự          | 50     |
+
+| 9   | Tên đơn vị chủ quản (nếu có)                                              |          | Ký tự          | 500    |
+
+| 10  | Ngày quyết định thu hồi/thông báo vi phạm                                 | Y        | Ngày tháng năm | 14     |
+
+| 11  | Số quyết định thu hồi/thông báo vi phạm                                   | Y        | Ký tự          | 30     |
+
+| 12  | Ngày hiệu lực của QĐ thu hồi                                              | Y        | Ngày tháng năm | 10     |
+
+| 13  | Lý do thu hồi/hành vi vi phạm                                             | Y        | Ký tự          | 100    |
+
+| 14  | Ngày nhận giao dịch                                                       | Y        | Ngày tháng năm | 10     |
+
+STT
+
+Thông tin NNT
+
+Bắt buộc
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã giao dịch
+
+Y
+
+Ký tự
+
+2
+
+2
+
+Mã Tỉnh
+
+Y
+
+Ký tự
+
+3
+
+3
+
+Mã kết quả
+
+Ký tự
+
+2
+
+4
+
+Mã hợp tác xã (enterpriseld)
+
+Y
+
+Ký tự
+
+50
+
+5
+
+Mã xử lý (process ID)
+
+Y
+
+Ký tự
+
+20
+
+6
+
+Mã số hợp tác xã/Đơn vị phụ thuộc/Địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+50
+
+7
+
+Tên hợp tác xã/Tên Đơn vị phụ thuộc/Địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+500
+
+8
+
+Mã số thuế đơn vị chủ quản (đối với đơn vị phụ thuộc/Địa điểm kinh doanh)
+
+Y
+
+Ký tự
+
+50
+
+9
+
+Tên đơn vị chủ quản (nếu có)
+
+Ký tự
+
+500
+
+10
+
+Ngày quyết định thu hồi/thông báo vi phạm
+
+Y
+
+Ngày tháng năm
+
+14
+
+11
+
+Số quyết định thu hồi/thông báo vi phạm
+
+Y
+
+Ký tự
+
+30
+
+12
+
+Ngày hiệu lực của QĐ thu hồi
+
+Y
+
+Ngày tháng năm
+
+10
+
+13
+
+Lý do thu hồi/hành vi vi phạm
+
+Y
+
+Ký tự
+
+100
+
+14
+
+Ngày nhận giao dịch
+
+Y
+
+Ngày tháng năm
+
+10
+
+PHỤ LỤC 16
+
+DANH MỤC THÔNG TIN TRUYỀN TỪ HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ HỢP TÁC SANG HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ TRONG TRƯỜNG HỢP CƠ QUAN ĐĂNG KÝ HỢP TÁC XÃ KHÔI PHỤC TÌNH TRẠNG HOẠT ĐỘNG CỦA HỢP TÁC XÃ, ĐƠN VỊ PHỤ THUỘC SAU KHI BỊ THU HỒI GIẤY CHỨNG NHẬN ĐĂNG KÝ HỢP TÁC XÃ, GIẤY CHỨNG NHẬN ĐĂNG KÝ HOẠT ĐỘNG ĐƠN VỊ PHỤ THUỘC (Kèm theo Quy chế liên thông số 01/2022/QCLT-BTC-BKHĐT ngày 13 tháng 01 năm 2022 của Bộ Tài chính và Bộ Kế hoạch và Đầu tư)
+
+| STT | Thông tin NNT                           | Bắt buộc | Kiểu dữ liệu   | Độ dài |
+
+|-----|-----------------------------------------|----------|----------------|--------|
+
+| 1   | Mã giao dịch                            | Y        | Ký tự          | 2      |
+
+| 2   | Mã Tỉnh                                 | Y        | Ký tự          | 3      |
+
+| 3   | Mã kết quả                              |          | Ký tự          | 2      |
+
+| 4   | Mã hợp tác xã (enterpriseld)            | Y        | Ký tự          | 50     |
+
+| 5   | Mã xử lý (process ID)                   | Y        | Ký tự          | 20     |
+
+| 6   | Mã số hợp tác xã/ĐVPT                   | Y        | Ký tự          | 50     |
+
+| 7   | Tên hợp tác xã/Tên ĐVPT                 | Y        | Ký tự          | 500    |
+
+| 8   | Mã số thuế đơn vị chủ quản (đối với PT) | Y        | Ký tự          | 50     |
+
+| 9   | Tên đơn vị chủ quản (nếu có)            |          | Ký tự          | 500    |
+
+| 10  | Số QĐ khôi phục                         |          | Ký tự          | 30     |
+
+| 11  | Ngày khôi phục (dd/mm/yyyy)             | Y        | Ngày tháng năm | 10     |
+
+| 12  | Ngày nhận giao dịch                     |          |                |        |
+
+STT
+
+Thông tin NNT
+
+Bắt buộc
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã giao dịch
+
+Y
+
+Ký tự
+
+2
+
+2
+
+Mã Tỉnh
+
+Y
+
+Ký tự
+
+3
+
+3
+
+Mã kết quả
+
+Ký tự
+
+2
+
+4
+
+Mã hợp tác xã (enterpriseld)
+
+Y
+
+Ký tự
+
+50
+
+5
+
+Mã xử lý (process ID)
+
+Y
+
+Ký tự
+
+20
+
+6
+
+Mã số hợp tác xã/ĐVPT
+
+Y
+
+Ký tự
+
+50
+
+7
+
+Tên hợp tác xã/Tên ĐVPT
+
+Y
+
+Ký tự
+
+500
+
+8
+
+Mã số thuế đơn vị chủ quản (đối với PT)
+
+Y
+
+Ký tự
+
+50
+
+9
+
+Tên đơn vị chủ quản (nếu có)
+
+Ký tự
+
+500
+
+10
+
+Số QĐ khôi phục
+
+Ký tự
+
+30
+
+11
+
+Ngày khôi phục (dd/mm/yyyy)
+
+Y
+
+Ngày tháng năm
+
+10
+
+12
+
+Ngày nhận giao dịch
+
+PHỤ LỤC 17
+
+DANH MỤC THÔNG TIN TRUYỀN TỪ HỆ THỐNG ỨNG DỤNG ĐĂNG KÝ THUẾ SANG HỆ THỐNG THÔNG TIN QUỐC GIA VỀ ĐĂNG KÝ HỢP TÁC XÃ TRONG TRƯỜNG HỢP HỢP TÁC XÃ, ĐƠN VỊ PHỤ THUỘC VI PHẠM PHÁP LUẬT THUẾ (Kèm theo Quy chế liên thông số 01/2022/QCLT-BTC-BKHĐT ngày 13 tháng 01 năm 2022 của Bộ Tài chính và Bộ Kế hoạch và Đầu tư)
+
+| STT | Thông tin NNT                                                              | Bắt buộc | Kiểu dữ liệu   | Độ dài |
+
+|-----|----------------------------------------------------------------------------|----------|----------------|--------|
+
+| 1   | Mã giao dịch                                                               | Y        | Ký tự          | 2      |
+
+| 2   | Mã Tỉnh                                                                    | Y        | Ký tự          | 3      |
+
+| 3   | Mã kết quả                                                                 |          | Ký tự          | 2      |
+
+| 4   | Mã hợp tác xã (enterpriseld)                                               | Y        | Ký tự          | 50     |
+
+| 5   | Mã xử lý (process ID)                                                      | Y        | Ký tự          | 20     |
+
+| 6   | Mã số hợp tác xã/ĐVPT/Địa điểm kinh doanh                                  | Y        | Ký tự          | 50     |
+
+| 7   | Tên hợp tác xã/ĐVPT/Địa điểm kinh doanh                                    | Y        | Ký tự          | 500    |
+
+| 8   | Mã số thuế đơn vị chủ quản (đối với đơn vị phụ thuộc, địa điểm kinh doanh) | Y        | Ký tự          | 14     |
+
+| 9   | Tên đơn vị chủ quản (nếu có)                                               |          | Ký tự          | 500    |
+
+| 10  | Số QĐ/văn bản                                                              | Y        | Ký tự          | 30     |
+
+| 11  | Ngày QĐ/văn bản                                                            | Y        | Ngày tháng năm | 10     |
+
+| 12  | Hành vi vi phạm (vi phạm pháp luật về thuế chuyển cơ quan điều tra)        | Y        | Ký tự          | 200    |
+
+| 13  | Ngày nhận giao dịch                                                        | Y        | Ngày tháng năm | 10     |
+
+STT
+
+Thông tin NNT
+
+Bắt buộc
+
+Kiểu dữ liệu
+
+Độ dài
+
+1
+
+Mã giao dịch
+
+Y
+
+Ký tự
+
+2
+
+2
+
+Mã Tỉnh
+
+Y
+
+Ký tự
+
+3
+
+3
+
+Mã kết quả
+
+Ký tự
+
+2
+
+4
+
+Mã hợp tác xã (enterpriseld)
+
+Y
+
+Ký tự
+
+50
+
+5
+
+Mã xử lý (process ID)
+
+Y
+
+Ký tự
+
+20
+
+6
+
+Mã số hợp tác xã/ĐVPT/Địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+50
+
+7
+
+Tên hợp tác xã/ĐVPT/Địa điểm kinh doanh
+
+Y
+
+Ký tự
+
+500
+
+8
+
+Mã số thuế đơn vị chủ quản (đối với đơn vị phụ thuộc, địa điểm kinh doanh)
+
+Y
+
+Ký tự
+
+14
+
+9
+
+Tên đơn vị chủ quản (nếu có)
+
+Ký tự
+
+500
+
+10
+
+Số QĐ/văn bản
+
+Y
+
+Ký tự
+
+30
+
+11
+
+Ngày QĐ/văn bản
+
+Y
+
+Ngày tháng năm
+
+10
+
+12
+
+Hành vi vi phạm (vi phạm pháp luật về thuế chuyển cơ quan điều tra)
+
+Y
+
+Ký tự
+
+200
+
+13
+
+Ngày nhận giao dịch
+
+Y
+
+Ngày tháng năm
+
+10

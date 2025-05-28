@@ -74,7 +74,7 @@ class URL:
             )
             html = element.get_attribute('outerHTML')
             text = self.parser.parse(html)
-            return text
+            return text, html
 
         except WebDriverException as e: 
             print(e) 
@@ -88,8 +88,8 @@ class URL:
             element = sub_data[i]
             name = element['name']
             link = element['link']
-            text = self.crawl_content(link)
-            doc = {'name': name, 'content': text}
+            text, doc_src = self.crawl_content(link)
+            doc = {'name': name, 'content': text, 'src': doc_src}
             self.docs.append(doc)
             if i%20 == 0:
                 print(f"Get 20 documents from {start} to {end}!")
@@ -103,10 +103,13 @@ class URL:
         for i, element in enumerate(self.docs):
             name = element['name']
             content = element['content']
-            with open(file_title, 'a', encoding='utf-8') as f:
-                f.write(name + '\n')
+            src = element['src']
+            # with open(file_title, 'a', encoding='utf-8') as f:
+            #     f.write(name + '\n')
             with open(file_content+f'{i}.txt', 'w', encoding='utf-8') as f:
                 f.write(content)
+            with open(file_content+f"{i}.html", "w", encoding="utf-8") as f: 
+                f.write(src)
         print("Save documents sucessfully")
 
     def load(self, file_name):
@@ -225,6 +228,6 @@ if __name__ == "__main__":
     # home_page.save_links("crawl/data/tvpl/links.json")
     home_page.load('crawl/data/tvpl/links.json')
     doc_count = len(home_page.data)
-    for i in range(1000, 2000, 20):
+    for i in range(0, 20, 20):
         home_page.crawl_docs(start=i, end=i+20)
-        home_page.save_docs("crawl/data/title.txt", "crawl/data/tvpl/doc")
+        home_page.save_docs("crawl/data/tvpl_new/title.txt", "crawl/data/tvpl_new/doc")

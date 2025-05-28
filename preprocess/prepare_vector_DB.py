@@ -5,6 +5,8 @@ from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import GPT4AllEmbeddings
 import sys
+import glob
+import json
 # Thêm thư mục gốc của dự án vào sys.path
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 sys.path.append(PROJECT_ROOT)
@@ -25,13 +27,14 @@ def process_text_files(text_path: str):
         return []
 
     logger.info(f"Đang xử lý các file văn bản trong: {text_path}")
-    loader = DirectoryLoader(
-        text_path,
-        glob="*.txt",
-        loader_cls=TextLoader,
-        loader_kwargs={"encoding": "utf-8"}
-    )
-    documents = loader.load()
+    # Lấy danh sách 200 file .txt đầu tiên
+    file_list = sorted(glob.glob(os.path.join(text_path, "*.txt")))
+    if len(file_list) > 50: 
+        file_list = file_list[:50]
+    documents = []
+    for file_path in file_list:
+        loader = TextLoader(file_path, encoding="utf-8")
+        documents.extend(loader.load())
     if not documents:
         logger.warning("Không tìm thấy file văn bản nào.")
         return []
@@ -62,4 +65,12 @@ def create_db_from_text(text_path: str = TEXT_DATA_PATH, db_path: str = VECTOR_D
 
 # Thực thi trực tiếp
 if __name__ == "__main__":
-    create_db_from_text()
+    #create_db_from_text()
+    with  open("crawl/data/domains.json", "r", encoding="utf-8") as f: 
+        domains = json.load(f)
+    for domain in domains: 
+        text_domain_path = "crawl/data/domains/" + domain 
+        text_db_path = "data/vectorstores/domains/" + domain
+        os.makedirs(text_db_path, exist_ok=True)
+        print(f"Create vectorDB about domains: {domain}")
+        create_db_from_text(text_path=text_domain_path, db_path=text_db_path) 
