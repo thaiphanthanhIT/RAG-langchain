@@ -29,8 +29,8 @@ def process_text_files(text_path: str):
     logger.info(f"Đang xử lý các file văn bản trong: {text_path}")
     # Lấy danh sách 200 file .txt đầu tiên
     file_list = sorted(glob.glob(os.path.join(text_path, "*.txt")))
-    if len(file_list) > 50: 
-        file_list = file_list[:50]
+    # if len(file_list) > 10: 
+    #     file_list = file_list[:10]
     documents = []
     for file_path in file_list:
         loader = TextLoader(file_path, encoding="utf-8")
@@ -65,12 +65,12 @@ def create_db_from_text(text_path: str = TEXT_DATA_PATH, db_path: str = VECTOR_D
 
 # Thực thi trực tiếp
 if __name__ == "__main__":
-    #create_db_from_text()
-    with  open("crawl/data/domains.json", "r", encoding="utf-8") as f: 
-        domains = json.load(f)
-    for domain in domains: 
-        text_domain_path = "crawl/data/domains/" + domain 
-        text_db_path = "data/vectorstores/domains/" + domain
-        os.makedirs(text_db_path, exist_ok=True)
-        print(f"Create vectorDB about domains: {domain}")
-        create_db_from_text(text_path=text_domain_path, db_path=text_db_path) 
+    create_db_from_text()
+    # with  open("crawl/data/domains.json", "r", encoding="utf-8") as f: 
+    #     domains = json.load(f)
+    # for domain in domains: 
+    #     text_domain_path = "crawl/data/domains/" + domain 
+    #     text_db_path = "data/vectorstores/domains/" + domain
+    #     os.makedirs(text_db_path, exist_ok=True)
+    #     print(f"Create vectorDB about domains: {domain}")
+    #     create_db_from_text(text_path=text_domain_path, db_path=text_db_path) 

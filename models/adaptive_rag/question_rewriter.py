@@ -6,14 +6,14 @@ from langchain_core.output_parsers import StrOutputParser
 llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0)
 
 # Prompt
-system = """You a question re-writer that converts an input question to a better version that is optimized \n 
-     for vectorstore retrieval. Look at the input and try to reason about the underlying semantic intent / meaning."""
+system = """Bạn là một trình viết lại câu hỏi, có nhiệm vụ chuyển đổi câu hỏi đầu vào thành phiên bản tốt hơn, được tối ưu cho việc truy xuất từ kho vector (vectorstore).
+Hãy xem xét câu hỏi đầu vào và cố gắng suy luận về ý định hay ý nghĩa ngữ nghĩa ẩn bên dưới."""
 re_write_prompt = ChatPromptTemplate.from_messages(
     [
         ("system", system),
         (
             "human",
-            "Here is the initial question: \n\n {question} \n Formulate an improved question.",
+            "Đây là câu hỏi ban đầu: {question}. Hãy diễn đạt lại thành một câu hỏi được cải thiện.",
         ),
     ]
 )

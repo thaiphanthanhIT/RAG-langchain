@@ -14,7 +14,7 @@ PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 API_URL_LAWNET = os.getenv("API_URL_LAWNET")
 
 # Đường dẫn đễn dữ liệu được RAG sử dụng
-TEXT_DATA_PATH = os.path.join(PROJECT_ROOT, "data/tvpl_doc")
+TEXT_DATA_PATH = os.path.join(PROJECT_ROOT, "crawl/data/tvpl_new/docs")
 # Đường dẫn lưu vectorstore
 VECTOR_DB_TEXT_PATH = os.path.join(PROJECT_ROOT, "data/vectorstores/db_text")
 # Embedding Model

@@ -1,18 +1,10 @@
 from langgraph.graph import StateGraph
-from langchain_community.embeddings import GPT4AllEmbeddings
-from langchain_community.vectorstores import FAISS
 from langchain.schema import Document
-from langchain_core.prompts import ChatPromptTemplate
-from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain import hub
-from langchain_core.output_parsers import StrOutputParser
-from typing import TypedDict, Literal, Dict, Any, List, Tuple, Literal
-from pydantic import BaseModel, Field
+from typing import TypedDict, List
 from dotenv import load_dotenv
 import logging
 import os
 from pprint import pprint
-
 from route_query import question_router
 from retrieve_grader import retrieval_grader, retriever
 from generate import rag_chain
@@ -20,6 +12,22 @@ from answer_grader import answer_grader
 from question_rewriter import question_rewriter
 from hallucination_grader import hallucination_grader
 from search import web_search_tool
+import re 
+
+from config import set_environment_variables
+
+set_environment_variables("evaluators")
+
+
+code_pattern = r"\d{1,4}/(?:\d{4}/)?[A-ZĐ]{1,5}(?:-[A-Z0-9]{1,5})*"
+def extract_main_code(docs):
+    all_codes = []
+    for doc in docs: 
+        text = doc.page_content if hasattr(doc, "page_content") else str(doc)
+        codes = re.findall(code_pattern, text)
+        if codes:    
+            all_codes.append(codes[0])
+    return all_codes
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
@@ -54,53 +62,85 @@ class GraphState(TypedDict):
     question: str
     generation: str
     documents: List[str]
+    retry_count: int
 
 def retrieve(state):
     """
-    Retrieve documents
+    Truy xuất tài liệu
 
-    Args:
-        state (dict): The current graph state
+    Tham số:
+        state (dict): Trạng thái hiện tại của đồ thị
 
-    Returns:
-        state (dict): New key added to state, documents, that contains retrieved documents
+    Trả về:
+        state (dict): Thêm khóa mới vào state, tên là "documents", chứa các tài liệu đã được truy xuất
+
     """
     print("---RETRIEVE---")
     question = state["question"]
 
     # Retrieval
-    documents = retriever.invoke(question)
-    return {"documents": documents, "question": question}
+    documents = retriever.invoke(question) 
+    state["documents"] = documents
+    # id_documents = extract_main_code(documents)
+    return state
 
 
 def generate(state):
     """
-    Generate answer
+    Tạo câu trả lời
 
-    Args:
-        state (dict): The current graph state
+    Tham số:
+        state (dict): Trạng thái hiện tại của đồ thị
 
-    Returns:
-        state (dict): New key added to state, generation, that contains LLM generation
+    Trả về:
+        state (dict): Thêm khóa mới vào state, tên là "generation", chứa kết quả sinh ra từ mô hình ngôn ngữ (LLM)
+
     """
+    state["retry_count"] = state.get("retry_count", 0) + 1
+    print(f"retry_count: {state["retry_count"]}")
+    if state["retry_count"] > 5:
+        print("---DECISION: QUÁ SỐ LẦN THỬ, CHUYỂN SANG TÌM KIẾM TRÊN WEB---")
+        state["route"] = "reach_limit"
+        return state
     print("---GENERATE---")
     question = state["question"]
     documents = state["documents"]
 
     # RAG generation
     generation = rag_chain.invoke({"context": documents, "question": question})
-    return {"documents": documents, "question": question, "generation": generation}
+    state["generation"] = generation
+    return state
 
+def web_generate(state):
+    """
+    Tạo câu trả lời
+
+    Tham số:
+        state (dict): Trạng thái hiện tại của đồ thị
+
+    Trả về:
+        state (dict): Thêm khóa mới vào state, tên là "generation", chứa kết quả sinh ra từ mô hình ngôn ngữ (LLM)
+
+    """
+    print("---GENERATE FROM WEB---")
+    question = state["question"]
+    documents = state["documents"]
+
+    # content generation
+    generation = rag_chain.invoke({"context": documents, "question": question})
+    state["generation"] = generation
+    return state
 
 def grade_documents(state):
     """
-    Determines whether the retrieved documents are relevant to the question.
+    Xác định liệu các tài liệu được truy xuất có liên quan đến câu hỏi hay không.
 
-    Args:
-        state (dict): The current graph state
+    Tham số:
+        state (dict): Trạng thái hiện tại của đồ thị
 
-    Returns:
-        state (dict): Updates documents key with only filtered relevant documents
+    Trả về:
+        state (dict): Cập nhật khóa "documents" chỉ với các tài liệu liên quan đã được lọc
+
     """
 
     print("---CHECK DOCUMENT RELEVANCE TO QUESTION---")
@@ -109,9 +149,10 @@ def grade_documents(state):
 
     # Score each doc
     filtered_docs = []
-    for d in documents:
+    for i, d in enumerate(documents):
+        id_doc = extract_main_code(d)
         score = retrieval_grader.invoke(
-            {"question": question, "document": d.page_content}
+            {"question": question, "document": d.page_content, "id_document": id_doc}
         )
         grade = score.binary_score
         if grade == "yes":
@@ -120,38 +161,47 @@ def grade_documents(state):
         else:
             print("---GRADE: DOCUMENT NOT RELEVANT---")
             continue
-    return {"documents": filtered_docs, "question": question}
+    state["documents"] = filtered_docs 
+    return state
+    #return {"documents": filtered_docs, "question": question}
 
 
 def transform_query(state):
     """
-    Transform the query to produce a better question.
+    Chuyển câu hỏi thành 1 câu hỏi khác (bằng tiếng việt) dễ tìm kiếm thông tin hơn.
+    Tham số:
+        state (dict): Trạng thái hiện tại của đồ thị
 
-    Args:
-        state (dict): The current graph state
-
-    Returns:
-        state (dict): Updates question key with a re-phrased question
+    Trả về:
+        state (dict): Cập nhật khóa "question" với câu hỏi đã được diễn đạt lại
     """
-
+    state["retry_count"] = state.get("retry_count", 0) + 1
+    print(f"retry_count: {state["retry_count"]}")
+    if state["retry_count"] > 5:
+        print("---DECISION: QUÁ SỐ LẦN THỬ, CHUYỂN SANG TÌM KIẾM TRÊN WEB---")
+        state["route"] = "reach_limit"
+        return state
     print("---TRANSFORM QUERY---")
     question = state["question"]
     documents = state["documents"]
 
     # Re-write question
     better_question = question_rewriter.invoke({"question": question})
-    return {"documents": documents, "question": better_question}
+    state["question"] = better_question
+    return state
+    #return {"documents": documents, "question": better_question}
 
 
 def web_search(state):
     """
-    Web search based on the re-phrased question.
+    Tìm kiếm web dựa trên câu hỏi đã được diễn đạt lại.
 
-    Args:
-        state (dict): The current graph state
+    Tham số:
+        state (dict): Trạng thái hiện tại của đồ thị
 
-    Returns:
-        state (dict): Updates documents key with appended web results
+    Trả về:
+        state (dict): Cập nhật khóa "documents" bằng cách nối thêm các kết quả từ web
+
     """
 
     print("---WEB SEARCH---")
@@ -161,8 +211,9 @@ def web_search(state):
     docs = web_search_tool.invoke({"query": question})
     web_results = "\n".join([d["content"] for d in docs])
     web_results = Document(page_content=web_results)
-
-    return {"documents": web_results, "question": question}
+    state["documents"] = web_results
+    return state
+    #return {"documents": web_results, "question": question}
 
 
 ### Edges ###
@@ -170,19 +221,20 @@ def web_search(state):
 
 def route_question(state):
     """
-    Route question to web search or RAG.
+    Điều hướng câu hỏi đến tìm kiếm web hoặc RAG.
 
-    Args:
-        state (dict): The current graph state
+    Tham số:
+        state (dict): Trạng thái hiện tại của đồ thị
 
-    Returns:
-        str: Next node to call
+    Trả về:
+        str: Nút tiếp theo cần gọi
+
     """
 
     print("---ROUTE QUESTION---")
     question = state["question"]
     source = question_router.invoke({"question": question})
-    if source.datasource == "web_search":
+    if source.datasource == "search":
         print("---ROUTE QUESTION TO WEB SEARCH---")
         return "web_search"
     elif source.datasource == "vectorstore":
@@ -192,13 +244,13 @@ def route_question(state):
 
 def decide_to_generate(state):
     """
-    Determines whether to generate an answer, or re-generate a question.
+    Xác định xem có nên tạo câu trả lời hay tạo lại câu hỏi hay không.
 
-    Args:
-        state (dict): The current graph state
+    Tham số:
+        state (dict): Trạng thái hiện tại của đồ thị
 
-    Returns:
-        str: Binary decision for next node to call
+    Trả về:
+        str: Quyết định nhị phân cho nút tiếp theo cần gọi
     """
 
     print("---ASSESS GRADED DOCUMENTS---")
@@ -220,19 +272,26 @@ def decide_to_generate(state):
 
 def grade_generation_v_documents_and_question(state):
     """
-    Determines whether the generation is grounded in the document and answers question.
+    Xác định xem phần sinh ra có dựa trên tài liệu và trả lời câu hỏi hay không.
 
-    Args:
-        state (dict): The current graph state
+    Tham số:
+        state (dict): Trạng thái hiện tại của đồ thị
 
-    Returns:
-        str: Decision for next node to call
+    Trả về:
+        str: Quyết định nút tiếp theo cần gọi
+
     """
+    state["retry_count"] = state.get("retry_count", 0) + 1
+    if state["retry_count"] > 5:
+        print("---DECISION: QUÁ SỐ LẦN THỬ, CHUYỂN SANG TÌM KIẾM TRÊN WEB---")
+        state["route"] = "reach_limit"
+        return "reach_limit"
 
     print("---CHECK HALLUCINATIONS---")
     question = state["question"]
     documents = state["documents"]
     generation = state["generation"]
+
 
     score = hallucination_grader.invoke(
         {"documents": documents, "generation": generation}
@@ -256,6 +315,10 @@ def grade_generation_v_documents_and_question(state):
         print("---DECISION: GENERATION IS NOT GROUNDED IN DOCUMENTS, RE-TRY---")
         return "not supported"
 
+def not_found_node(state):
+    print("Không tìm thấy thông tin.")
+    return state
+
 from langgraph.graph import END, StateGraph, START
 
 workflow = StateGraph(GraphState)
@@ -266,6 +329,7 @@ workflow.add_node("retrieve", retrieve)  # retrieve
 workflow.add_node("grade_documents", grade_documents)  # grade documents
 workflow.add_node("generate", generate)  # generate
 workflow.add_node("transform_query", transform_query)  # transform_query
+workflow.add_node("web_generate", web_generate)
 
 # Build graph
 workflow.add_conditional_edges(
@@ -276,7 +340,7 @@ workflow.add_conditional_edges(
         "vectorstore": "retrieve",
     },
 )
-workflow.add_edge("web_search", "generate")
+workflow.add_edge("web_search", "web_generate")
 workflow.add_edge("retrieve", "grade_documents")
 workflow.add_conditional_edges(
     "grade_documents",
@@ -286,7 +350,14 @@ workflow.add_conditional_edges(
         "generate": "generate",
     },
 )
-workflow.add_edge("transform_query", "retrieve")
+workflow.add_conditional_edges(
+    "transform_query",
+    lambda state: state.get("route", "default"),
+    {
+        "reach_limit": "web_search",
+        "default": "retrieve"
+    },
+)
 workflow.add_conditional_edges(
     "generate",
     grade_generation_v_documents_and_question,
@@ -294,8 +365,21 @@ workflow.add_conditional_edges(
         "not supported": "generate",
         "useful": END,
         "not useful": "transform_query",
+        "reach_limit": "web_search"
     },
 )
+#workflow.add_edge("web_search", END)
 
 # Compile
 adaptive_rag_graph = workflow.compile()
+# Run
+inputs = {"question": "CHỨC NĂNG, NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA TẠP CHÍ KINH TẾ - TÀI CHÍNH"}
+for output in adaptive_rag_graph.stream(inputs):
+    for key, value in output.items():
+        # Node
+        pprint(f"Node '{key}':")
+        # Optional: print full state at each node
+        # pprint.pprint(value["keys"], indent=2, width=80, depth=None)
+    pprint("\n---\n")
+
+pprint(value["generation"])

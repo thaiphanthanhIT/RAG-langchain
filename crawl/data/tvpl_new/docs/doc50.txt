@@ -1,0 +1,66 @@
+BỘ TÀI CHÍNH
+-------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1066/QĐ-BTC
+Hà Nội, ngày 24 tháng 3 năm 2025
+QUYẾT ĐỊNH
+QUY ĐỊNH CHỨC NĂNG, NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA TRUNG TÂM CHUYỂN GIAO CÔNG NGHỆ VÀ HỖ TRỢ KỸ THUẬT THUỘC CỤC CÔNG NGHỆ THÔNG TIN VÀ CHUYỂN ĐỔI SỐ
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+Căn cứ Nghị định số 29/2025/NĐ-CP ngày 24 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+Căn cứ Quyết định số 380/QĐ-BTC ngày 26 tháng 02 năm 2025 của Bộ Tài chính quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Cục Công nghệ thông tin và chuyển đổi số;
+Theo đề nghị của Cục trưởng Cục Công nghệ thông tin và chuyển đổi số, Vụ trưởng Vụ Tổ chức cán bộ.
+QUYẾT ĐỊNH:
+Điều 1. Vị trí, chức năng
+1. Trung tâm Chuyển giao công nghệ và Hỗ trợ kỹ thuật (sau đây gọi tắt là Trung tâm) là đơn vị sự nghiệp công lập thuộc Cục Công nghệ thông tin và chuyển đổi số, có chức năng giúp Cục trưởng tổ chức thực hiện các hoạt động xây dựng, chuyển giao, đào tạo, hỗ trợ ứng dụng và hạ tầng kỹ thuật công nghệ thông tin, chuyển đổi số cho các tổ chức, đơn vị thuộc Bộ Tài chính, các cơ quan Tài chính địa phương và cung cấp các dịch vụ trong lĩnh vực công nghệ thông tin, chuyển đổi số trong phạm vi nhiệm vụ, quyền hạn được giao cho các tổ chức, đơn vị trong và ngoài ngành tài chính.
+2. Trung tâm có tư cách pháp nhân, có con dấu riêng, được mở tài khoản tại Kho bạc Nhà nước và Ngân hàng Thương mại theo quy định của pháp luật.
+Tên giao dịch: Trung tâm Chuyển giao công nghệ và Hỗ trợ kỹ thuật.
+Tên tiếng Anh: Technological Transfer and Technical Support Center.
+Tên viết tắt: TSC.
+3. Trung tâm có trụ sở chính tại thành phố Hà Nội.
+Điều 2. Nhiệm vụ, quyền hạn
+1. Triển khai các dịch vụ ứng dụng công nghệ thông tin dùng chung, tích hợp hệ thống cho các đơn vị thuộc, trực thuộc Bộ Tài chính và các cơ quan Tài chính cấp tỉnh, huyện.
+2. Cung cấp các dịch vụ công nghệ thông tin (trừ dịch vụ chứng thực chữ ký điện tử) cho các tổ chức, đơn vị trong và ngoài ngành tài chính theo quy định của pháp luật.
+3. Cung cấp và thực hiện lắp đặt, cài đặt, bảo trì, sửa chữa các thiết bị công nghệ thông tin; hỗ trợ phần mềm, trang thiết bị, hạ tầng và kỹ thuật công nghệ thông tin cho các tổ chức, đơn vị trong và ngoài ngành tài chính theo quy định của pháp luật.
+4. Cung cấp các dịch vụ tư vấn đầu tư, giám sát dự án, đầu tư thuê dịch vụ công nghệ thông tin; tư vấn về giải pháp, thiết bị, phần mềm; xây dựng, nâng cấp, mở rộng, kiểm thử, triển khai và bồi dưỡng kiến thức về phần mềm ứng dụng công nghệ thông tin cho các tổ chức, đơn vị trong và ngoài ngành tài chính theo quy định của pháp luật.
+5. Cung cấp dịch vụ sao lưu dự phòng dữ liệu và các dịch vụ giá trị gia tăng của hệ thống cơ sở dữ liệu ngành tài chính.
+6. Xây dựng, quản lý, vận hành hệ thống dự phòng cho hệ thống cơ sở dữ liệu quốc gia ngành tài chính tại thành phố Hồ Chí Minh. Thực hiện các hoạt động sao lưu, lưu trữ cơ sở dữ liệu.
+7. Tổ chức quản lý, vận hành “Trung tâm miền Nam” của hệ thống hạ tầng truyền thông ngành tài chính; hỗ trợ vận hành đối với các Trung tâm hạ tầng truyền thông ngành tài chính tại các tỉnh, thành phố phía Nam.
+8. Chủ trì hoặc phối hợp tổ chức đào tạo, chuyển giao, bồi dưỡng, cập nhật kiến thức công nghệ thông tin cho cán bộ, công chức, viên chức của các đơn vị trong và ngoài ngành tài chính theo quy định của pháp luật.
+9. Tổ chức nghiên cứu khoa học; thử nghiệm công nghệ mới trong lĩnh vực ứng dụng công nghệ thông tin, truyền thông phục vụ cho yêu cầu quản lý của ngành tài chính theo kế hoạch và nội dung được cấp có thẩm quyền phê duyệt.
+10. Quản lý, sử dụng viên chức, quản lý tài chính, tài sản theo quy định của pháp luật và phân cấp quản lý của Bộ Tài chính.
+11. Thực hiện quyền tự chủ của đơn vị sự nghiệp công lập theo quy định của pháp luật và của Bộ Tài chính.
+12. Thực hiện chế độ thông tin, báo cáo theo quy định của pháp luật, của Bộ Tài chính và hướng dẫn của Cục Công nghệ thông tin và chuyển đổi số.
+13. Thực hiện các nhiệm vụ khác phù hợp với chức năng của Trung tâm và theo phân công của Cục trưởng Cục Công nghệ thông tin và chuyển đổi số.
+Điều 3. Cơ cấu tổ chức
+1. Trung tâm Chuyển giao công nghệ và Hỗ trợ kỹ thuật có các phòng:
+a) Phòng Đảm bảo hệ thống;
+b) Phòng Triển khai hỗ trợ;
+c) Phòng Kế hoạch - Tài vụ;
+d) Chi nhánh Trung tâm Chuyển giao công nghệ và Hỗ trợ kỹ thuật tại Thành phố Hồ Chí Minh.
+Nhiệm vụ cụ thể của các phòng và Chi nhánh do Cục trưởng Cục Công nghệ thông tin và chuyển đổi số quy định.
+2. Số lượng người làm việc tại Trung tâm thuộc biên chế sự nghiệp của Cục Công nghệ thông tin và chuyển đổi số do Bộ trưởng Bộ Tài chính giao. Giám đốc Trung tâm chịu trách nhiệm quản lý và sử dụng người làm việc theo quy định của pháp luật, phân cấp quản lý cán bộ của Bộ Tài chính và Cục Công nghệ thông tin và chuyển đổi số.
+3. Trung tâm được bố trí kế toán trưởng theo quy định hiện hành của pháp luật và của Bộ Tài chính.
+Điều 4 . Lãnh đạo Trung tâm
+1. Trung tâm có Giám đốc và một số Phó Giám đốc.
+Giám đốc chịu trách nhiệm trước Cục trưởng Cục Công nghệ thông tin và chuyển đổi số và trước pháp luật về toàn bộ hoạt động của Trung tâm. Phó Giám đốc chịu trách nhiệm trước Giám đốc và trước pháp luật về nhiệm vụ được phân công phụ trách.
+2. Việc bổ nhiệm, miễn nhiệm, cách chức Giám đốc, Phó Giám đốc và các chức danh lãnh đạo khác của Trung tâm thực hiện theo quy định của pháp luật và phân cấp quản lý cán bộ của Bộ Tài chính.
+Điều 5. Hiệu lực và trách nhiệm thi hành
+1. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+2. Các Quyết định sau hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành:
+a) Quyết định số 1189/QĐ-BTC ngày 15/7/2019 của Bộ trưởng Bộ Tài chính về Quy chế tổ chức và hoạt động của Trung tâm Chuyển giao công nghệ và Hỗ trợ kỹ thuật thuộc Cục Tin học và Thống kê tài chính;
+b) Quyết định số 1188/QĐ-BTC ngày 15/7/2019 của Bộ trưởng Bộ Tài chính về Quy chế tổ chức và hoạt động của Trung tâm Dữ liệu và triển khai công nghệ thông tin tài chính tại thành phố Hồ Chí Minh thuộc Cục Tin học và Thống kê tài chính.
+3. Cục trưởng Cục Công nghệ thông tin và chuyển đổi số, Vụ trưởng Vụ Tổ chức cán bộ, Chánh Văn phòng Bộ Tài chính và Thủ trưởng các tổ chức, đơn vị thuộc và trực thuộc Bộ Tài chính chịu trách nhiệm thi hành Quyết định này./.
+
+Nơi nhận:
+- Như Điều 5;
+- Cổng TTĐT Bộ Tài chính;
+- Lưu: VT, TCCB.
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+
+
+
+
+Bùi Văn Khắng
