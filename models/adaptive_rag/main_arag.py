@@ -1,17 +1,18 @@
 from langgraph.graph import StateGraph
 from langchain.schema import Document
-from typing import TypedDict, List
+from typing import TypedDict, List, Tuple
 from dotenv import load_dotenv
 import logging
 import os
-from pprint import pprint
-from route_query import question_router
-from retrieve_grader import retrieval_grader, retriever
-from generate import rag_chain
-from answer_grader import answer_grader
-from question_rewriter import question_rewriter
-from hallucination_grader import hallucination_grader
-from search import web_search_tool
+from .route_query import question_router
+from .retrieve_grader import retrieval_grader, retriever
+from .generate import rag_chain
+from .answer_grader import answer_grader
+from .question_rewriter import question_rewriter
+from .hallucination_grader import hallucination_grader
+from .search import web_search_tool
+from .config import set_environment_variables
+
 import re 
 
 from config import set_environment_variables
@@ -63,6 +64,7 @@ class GraphState(TypedDict):
     generation: str
     documents: List[str]
     retry_count: int
+    history: List[Tuple[str, str, List[str]]] 
 
 def retrieve(state):
     """
@@ -98,7 +100,7 @@ def generate(state):
     """
     state["retry_count"] = state.get("retry_count", 0) + 1
     print(f"retry_count: {state["retry_count"]}")
-    if state["retry_count"] > 5:
+    if state["retry_count"] > 4:
         print("---DECISION: QUÁ SỐ LẦN THỬ, CHUYỂN SANG TÌM KIẾM TRÊN WEB---")
         state["route"] = "reach_limit"
         return state
@@ -282,7 +284,7 @@ def grade_generation_v_documents_and_question(state):
 
     """
     state["retry_count"] = state.get("retry_count", 0) + 1
-    if state["retry_count"] > 5:
+    if state["retry_count"] > 4:
         print("---DECISION: QUÁ SỐ LẦN THỬ, CHUYỂN SANG TÌM KIẾM TRÊN WEB---")
         state["route"] = "reach_limit"
         return "reach_limit"
@@ -315,6 +317,16 @@ def grade_generation_v_documents_and_question(state):
         print("---DECISION: GENERATION IS NOT GROUNDED IN DOCUMENTS, RE-TRY---")
         return "not supported"
 
+def final_answer(state):
+    docs = state["documents"]
+    sources = ["Internet"]
+    if isinstance(docs, list):
+        sources = docs[0].metadata['source']
+    if not isinstance(sources, list):
+        sources = list(sources)
+    if "history" not in state:
+        state["history"] = []
+    state['history'].append((state['question'], state['generation'], sources))
 def not_found_node(state):
     print("Không tìm thấy thông tin.")
     return state
@@ -330,6 +342,7 @@ workflow.add_node("grade_documents", grade_documents)  # grade documents
 workflow.add_node("generate", generate)  # generate
 workflow.add_node("transform_query", transform_query)  # transform_query
 workflow.add_node("web_generate", web_generate)
+workflow.add_node("final_answer", final_answer)
 
 # Build graph
 workflow.add_conditional_edges(
@@ -341,6 +354,8 @@ workflow.add_conditional_edges(
     },
 )
 workflow.add_edge("web_search", "web_generate")
+workflow.add_edge("web_generate", "final_answer")
+workflow.add_edge("final_answer", END)
 workflow.add_edge("retrieve", "grade_documents")
 workflow.add_conditional_edges(
     "grade_documents",
@@ -363,23 +378,28 @@ workflow.add_conditional_edges(
     grade_generation_v_documents_and_question,
     {
         "not supported": "generate",
-        "useful": END,
+        "useful": "final_answer",
         "not useful": "transform_query",
         "reach_limit": "web_search"
     },
 )
-#workflow.add_edge("web_search", END)
 
 # Compile
 adaptive_rag_graph = workflow.compile()
-# Run
-inputs = {"question": "CHỨC NĂNG, NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA TẠP CHÍ KINH TẾ - TÀI CHÍNH"}
-for output in adaptive_rag_graph.stream(inputs):
-    for key, value in output.items():
-        # Node
-        pprint(f"Node '{key}':")
-        # Optional: print full state at each node
-        # pprint.pprint(value["keys"], indent=2, width=80, depth=None)
-    pprint("\n---\n")
 
-pprint(value["generation"])
+if __name__ == "__main__":
+    # Run
+    inputs = {"question": "ĐIỀU CHỈNH DỰ TOÁN CHI NG`ÂN SÁCH NHÀ NƯỚC NĂM 2025"}
+
+    output = adaptive_rag_graph.invoke(inputs)
+    question = output["question"]
+    result = output["generation"]
+    docs= output["documents"]
+    source = "Internet"
+    if isinstance(docs, list):
+        source = docs[0].metadata['source']
+    print(question)
+    print("-----------------------")
+    print(result)
+    print("-----------------------")
+    print(source)

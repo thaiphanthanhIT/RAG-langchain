@@ -1,17 +1,24 @@
 import streamlit as st
 import logging
 from typing import TypedDict, Optional, List, Tuple
-from config import set_environment_variables
+from models.adaptive_rag import *
+import streamlit.components.v1 as components
 
-set_environment_variables("evaluators")
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
 
+# Configure Streamlit page
+st.set_page_config(
+    page_title="Chatbot AI - Bộ Tài Chính",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
+
 # Attempt to import the compiled app and state from the backend
 try:
-    from qabot import app as compiled_app, QAState
+    from models.adaptive_rag.main_arag import adaptive_rag_graph as compiled_app, GraphState
     BACKEND_AVAILABLE = compiled_app is not None
 except ImportError as e:
     logger.error(f"Failed to import backend 'qabot': {e}", exc_info=True)
@@ -33,12 +40,7 @@ except Exception as e:
         result: Optional[str]
         history: List[Tuple[str, str]]
 
-# Configure Streamlit page
-st.set_page_config(
-    page_title="Chatbot AI - Bộ Tài Chính",
-    layout="wide",
-    initial_sidebar_state="expanded"
-)
+
 
 # Sidebar for additional information
 with st.sidebar:
@@ -96,20 +98,53 @@ if prompt := st.chat_input("Nhập câu hỏi của bạn (ví dụ: 'Quy địn
                             history.append((msg["content"], next_msg["content"]))
 
                 # Initialize state with query and history
-                initial_state = QAState(query=prompt.strip(), result=None, history=history[-3:])  # Chỉ lấy 3 lượt gần nhất để tránh vượt giới hạn
+                initial_state = GraphState(question=prompt.strip(), generation=None,retry_count=0, history=history[-3:])  # Chỉ lấy 3 lượt gần nhất để tránh vượt giới hạn
                 logger.info(f"Processing query: {prompt} with history: {history}")
 
                 # Invoke backend
                 final_state = compiled_app.invoke(initial_state)
 
                 # Process response
-                response_content = final_state.get("result", "Không nhận được phản hồi hợp lệ.")
-                if not final_state.get("result"):
+                result = final_state.get("generation","Không nhận được phản hồi hợp lệ.") 
+                docs = final_state["documents"]
+                print(type(docs))
+                sources = "Internet"
+                html_srcs = []
+                if isinstance(docs, list):
+                    sources = docs[0].metadata['source']
+                    print(sources)
+                    if not isinstance(sources, list):
+                        sources = [sources]
+                    for src in sources: 
+                        doc_name = src.split('\\')[-1]
+                        print(f"doc_name: {doc_name} ")
+                        html_name = doc_name.replace('.txt', '.html')
+                        html_src = "crawl/data/tvpl_new/html/" + html_name
+                        print(html_src)
+                        html_srcs.append(html_src)
+                print(html_srcs)
+                if not final_state.get("generation"):
                     logger.warning(f"No valid result for query: {prompt}")
-                    message_placeholder.warning(response_content)
+                    message_placeholder.warning(result)
                 else:
-                    logger.info(f"Response generated: {response_content[:100]}...")
-                    message_placeholder.markdown(response_content)
+                    logger.info(f"Response generated: {result}...")
+                    message_placeholder.markdown(result)
+                    if len(html_srcs) > 0 : 
+                        all_html = ""
+                        for src in html_srcs:
+                            logger.info(f"source: {src}")
+                            with open(src, "r", encoding="utf-8") as f: 
+                                all_html += f.read()
+                                all_html += "<hr>"  # Thêm đường kẻ giữa các file (tùy chọn)
+                        centered_html = f"""
+                        <div style="display: flex; justify-content: center;">
+                            <div style="width: 600px;">
+                                {all_html}
+                            </div>
+                        </div>
+                        """
+                        components.html(centered_html,height=1500, width = 900 ,scrolling=True)
+                    
 
             except Exception as e:
                 logger.error(f"Error during query processing: {e}", exc_info=True)
@@ -117,4 +152,4 @@ if prompt := st.chat_input("Nhập câu hỏi của bạn (ví dụ: 'Quy địn
                 message_placeholder.error(response_content)
 
             # Add assistant response to history
-            st.session_state.messages.append({"role": "assistant", "content": response_content})
+            st.session_state.messages.append({"role": "assistant", "content": result})

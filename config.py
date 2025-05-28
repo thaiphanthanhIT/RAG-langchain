@@ -30,7 +30,7 @@ def set_environment_variables(project_name):
     filepath = "D:/AI_intern/API.json"
     with open(filepath, 'r', encoding = 'utf-8') as f:
         APIs = json.load(f)
-    os.environ['GOOGLE_API_KEY'] = APIs['GOOGLE_API_PVT']
+    os.environ['GOOGLE_API_KEY'] = APIs['GOOGLE_API_KEY']
     os.environ['FIREWORKS_API_KEY'] = APIs['FIREWORKS_API_KEY']
     os.environ['GROQ_API_KEY'] = APIs['GROQ_API_KEY']
     os.environ['TAVILY_API_KEY'] = APIs['TAVILY_API_KEY']
