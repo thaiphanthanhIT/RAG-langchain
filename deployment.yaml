@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: finance-chatbot
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: finance-chatbot
+  template:
+    metadata:
+      labels:
+        app: finance-chatbot
+    spec:
+      containers:
+        - name: chatbot
+          image: nguyennam2017/finance-chatbot:latest
+          ports:
+            - containerPort: 8501
