@@ -63,8 +63,8 @@ def create_db_from_text(text_path: str = TEXT_DATA_PATH, db_path: str = VECTOR_D
         logger.error(f"Lỗi khi tạo vector DB: {e}")
         raise
 
-# Thực thi trực tiếp
 if __name__ == "__main__":
+<<<<<<< HEAD
     create_db_from_text(text_path="demo/crawl/data/tvpl/docs", db_path="demo/data")
     with  open("demo/crawl/data/domains.json", "r", encoding="utf-8") as f: 
         domains = json.load(f)
@@ -74,3 +74,13 @@ if __name__ == "__main__":
         os.makedirs(text_db_path, exist_ok=True)
         print(f"Create vectorDB about domains: {domain}")
         create_db_from_text(text_path=text_domain_path, db_path=text_db_path) 
+=======
+    with open(r"F:\TinHoc\BinningMini\RAG + langchain\RAG-langchain\crawl\data\domains.json", "r", encoding="utf-8") as f:
+        domains = json.load(f)
+    for domain in domains:
+        text_domain_path = os.path.join(r"F:\TinHoc\BinningMini\RAG + langchain\RAG-langchain\crawl\domain_split_new", domain)
+        text_db_path = os.path.join(r"F:\TinHoc\BinningMini\RAG + langchain\RAG-langchain\data\vectorstores\domains_new", domain)
+        os.makedirs(text_db_path, exist_ok=True)
+        print(f"Create vectorDB about domains: {domain}")
+        create_db_from_text(text_path=text_domain_path, db_path=text_db_path)
+>>>>>>> 950159bc90c515f7c9aacf56d057baecda80fe12

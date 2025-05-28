@@ -1,0 +1,96 @@
+BỘ TÀI CHÍNH
+-------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 618/QĐ-BTC
+Hà Nội, ngày 31 tháng 3 năm 2021
+QUYẾT ĐỊNH
+BAN HÀNH QUY ĐỊNH CHI TIẾT MỘT SỐ NỘI DUNG VỀ QUYẾT TOÁN DỰ ÁN ỨNG DỤNG CÔNG NGHỆ THÔNG TIN HOÀN THÀNH TẠI CÁC CƠ QUAN HÀNH CHÍNH, ĐƠN VỊ SỰ NGHIỆP THUỘC BỘ TÀI CHÍNH
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+Căn cứ Luật Công nghệ thông tin số 67/2006/QH11 ngày 29/6/2006;
+Căn cứ Luật Ngân sách nhà nước số 83/2015/QH13 ngày 25/6/2015;
+Căn cứ Luật Quản lý, sử dụng tài sản công số 15/2017/QH14 ngày 21/6/2017;
+Căn cứ Luật Đầu tư công số 39/2019/QH14 ngày 13/6/2019;
+Căn cứ Nghị định số 151/2017/NĐ-CP ngày 26/12/2017 của Chính phủ quy định chi tiết một số điều của Luật Quản lý, sử dụng tài sản công;
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+Căn cứ Nghị định số 73/2019/NĐ-CP ngày 05/9/2019 của Chính phủ quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước;
+Căn cứ Thông tư số 10/2020/TT-BTC ngày 20/02/2020 của Bộ trưởng Bộ Tài chính quy định về quyết toán dự án hoàn thành sử dụng nguồn vốn nhà nước;
+Theo đề nghị của Cục trưởng Cục Kế hoạch - Tài chính, Thủ trưởng các đơn vị thuộc Bộ Tài chính.
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này quy định chi tiết một số nội dung về quyết toán dự án ứng dụng công nghệ thông tin hoàn thành tại các cơ quan hành chính, đơn vị sự nghiệp thuộc Bộ Tài chính.
+Điều 2. Tổ chức thực hiện
+1. Cục Kế hoạch - Tài chính:
+1.1. Hướng dẫn, kiểm tra, giám sát việc thực hiện quy định tại Quyết định này của các đơn vị thuộc Bộ Tài chính.
+1.2. Tổng hợp, đề xuất báo cáo Bộ trưởng xem xét điều chỉnh, bổ sung quy định về quyết toán dự án ứng dụng công nghệ thông tin hoàn thành đảm bảo phù hợp quy định của pháp luật.
+2. Thủ trưởng các đơn vị thuộc Bộ: Chịu trách nhiệm toàn diện trước pháp luật và Bộ trưởng trong tổ chức thực hiện các nhiệm vụ được giao theo quy định tại Quyết định này, kịp thời đề xuất báo cáo Bộ Tài chính (qua Cục Kế hoạch - Tài chính) xem xét, điều chỉnh, bổ sung quy định về quyết toán dự án công nghệ thông tin hoàn thành cho phù hợp quy định của pháp luật.
+Điều 3. Hiệu lực thi hành
+1. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+2. Bãi bỏ Công văn số 6163/BTC-KHTC ngày 19/5/2017 của Bộ Tài chính về việc hướng dẫn quyết toán dự án hoàn thành thuộc lĩnh vực công nghệ thông tin.
+3. Trường hợp các văn bản quy phạm pháp luật làm căn cứ, được dẫn chiếu trong Quyết định này có sửa đổi, bổ sung hoặc thay thế thì áp dụng theo các văn bản quy phạm pháp luật đã sửa đổi, bổ sung hoặc thay thế.
+4. Cục trưởng Cục Kế hoạch - Tài chính, Chánh Văn phòng Bộ, Thủ trưởng các đơn vị, hệ thống thuộc Bộ và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+Nơi nhận:
+- Như Điều 3;
+- Cổng TTĐT BTC;
+- Lưu VT, KHTC.
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+
+
+
+
+Tạ Anh Tuấn
+QUY ĐỊNH
+CHI TIẾT MỘT SỐ NỘI DUNG VỀ QUYẾT TOÁN DỰ ÁN ỨNG DỤNG CÔNG NGHỆ THÔNG TIN HOÀN THÀNH TẠI CÁC CƠ QUAN HÀNH CHÍNH, ĐƠN VỊ SỰ NGHIỆP THUỘC BỘ TÀI CHÍNH
+Điều 1. Đối tượng và phạm vi áp dụng:
+Các dự án ứng dụng công nghệ thông tin của các cơ quan hành chính, đơn vị sự nghiệp thuộc Bộ Tài chính (sau đây gọi tắt là các đơn vị thuộc Bộ) sử dụng nguồn vốn ngân sách nhà nước (kinh phí chi đầu tư phát triển, kinh phí chi thường xuyên) và các nguồn kinh phí hợp pháp khác được cấp có thẩm quyền phê duyệt sau khi hoàn thành hoặc dừng thực hiện vĩnh viễn theo văn bản cho phép dừng hoặc cho phép chấm dứt thực hiện dự án của người có thẩm quyền quyết định phê duyệt dự án phải thực hiện quyết toán dự án theo quy định tại Thông tư số 10/2020/TT-BTC ngày 20/02/2020 của Bộ Tài chính.
+Điều 2. Lập, thẩm tra, phê duyệt báo cáo quyết toán dự án hoàn thành:
+1. Yêu cầu:
+1.1. Báo cáo quyết toán dự án hoàn thành:
+Thực hiện khoản 1 Điều 6 Thông tư số 10/2020/TT-BTC, Báo cáo quyết toán dự án hoàn thành phải xác định đầy đủ, chính xác các nội dung:
+a) Nguồn vốn đầu tư thực hiện dự án, chi tiết theo từng nguồn vốn;
+b) Tổng chi phí đầu tư đề nghị quyết toán, chi tiết theo cơ cấu (chi phí xây lắp, thiết bị, quản lý dự án, tư vấn và các khoản chi phí khác) là toàn bộ chi phí hợp pháp thực hiện trong quá trình đầu tư để đưa dự án vào khai thác, sử dụng; nằm trong phạm vi dự án, dự toán được duyệt, và hợp đồng đã ký kết phù hợp với quy định của pháp luật (đối với những công việc thực hiện theo hợp đồng) kể cả phần điều chỉnh, bổ sung được duyệt theo quy định và đúng thẩm quyền.
+c) Chi phí thiệt hại trong quá trình đầu tư;
+d) Chi phí được phép không tính vào giá trị tài sản;
+e) Giá trị tài sản hình thành sau đầu tư.
+1.2. Biểu mẫu báo cáo quyết toán: thực hiện theo khoản 2 Điều 6 Thông tư số 10/2020/TT-BTC.
+2. Hồ sơ trình thẩm tra, phê duyệt quyết toán:
+Chủ đầu tư gửi 01 bộ hồ sơ đến người có thẩm quyền quyết định phê duyệt quyết toán và 01 bộ hồ sơ đến cơ quan chủ trì thẩm tra quyết toán chi tiết theo quy định tại Điều 7 Thông tư số 10/2020/TT-BTC.
+3. Hồ sơ trình phê duyệt quyết toán dự án hoàn thành:
+Cơ quan chủ trì thẩm tra quyết toán lập hồ sơ trình duyệt quyết toán dự án hoàn thành để trình người có thẩm quyền phê duyệt quyết toán sau khi đã thẩm tra xong quyết toán. Hồ sơ trình phê duyệt quyết toán theo quy định tại khoản 1 Điều 19 Thông tư số 10/2020/TT-BTC.
+4. Thời gian quyết toán:
+a) Thời gian chủ đầu tư lập hồ sơ quyết toán trình phê duyệt được tính từ ngày dự án được ký biên bản nghiệm thu hoàn thành, bàn giao đưa vào khai thác, sử dụng đến ngày chủ đầu tư nộp đầy đủ hồ sơ quyết toán đến cơ quan chủ trì thẩm tra quyết toán.
+b) Thời gian thẩm tra quyết toán tính từ ngày cơ quan chủ trì thẩm tra quyết toán nhận đủ hồ sơ quyết toán theo quy định đến ngày trình người có thẩm quyền phê duyệt quyết toán.
+c) Thời gian phê duyệt quyết toán tính từ ngày người có thẩm quyền phê duyệt quyết toán nhận đủ hồ sơ trình duyệt quyết toán dự án hoàn thành của cơ quan chủ trì thẩm tra theo quy định đến ngày ban hành quyết định phê duyệt quyết toán dự án hoàn thành.
+Thời gian tối đa lập hồ sơ quyết toán, thẩm tra, phê duyệt quyết toán dự án hoàn thành quy định cụ thể tại Điều 21 Thông tư số 10/2020/TT-BTC.
+Điều 3. Thẩm quyền phê duyệt và đơn vị chủ trì thẩm tra quyết toán:
+1. Đối với dự án quan trọng quốc gia và các dự án quan trọng khác do Thủ tướng Chính phủ quyết định đầu tư: Theo điểm a khoản 1 Điều 8 Thông tư số 10/2020/TT-BTC, thẩm quyền phê duyệt quyết toán hoàn thành dự án ứng dụng công nghệ thông tin thực hiện như sau:
+a) Đối với dự án hoặc dự án thành phần sử dụng vốn ngân sách nhà nước: Bộ trưởng Bộ Tài chính phê duyệt quyết toán đối với dự án hoặc dự án thành phần thuộc Bộ.
+b) Chủ đầu tư phê duyệt quyết toán dự án hoặc dự án thành phần không sử dụng vốn ngân sách nhà nước.
+2. Đối với các dự án còn lại:
+Thẩm quyền phê duyệt quyết toán hoàn thành dự án ứng dụng công nghệ thông tin tại các đơn vị thuộc Bộ Tài chính thực hiện như sau:
+a) Bộ trưởng Bộ Tài chính: Phê duyệt quyết toán hoàn thành (hoặc ủy quyền cho người đứng đầu cơ quan cấp dưới trực tiếp) đối với các dự án ứng dụng công nghệ thông tin do Bộ trưởng Bộ Tài chính quyết định đầu tư, các dự án không phân cấp hoặc ủy quyền quyết định đầu tư cho Thủ trưởng các đơn vị thuộc Bộ. Cục Kế hoạch - Tài chính chủ trì thẩm tra (trường hợp cần thiết báo cáo Bộ thành lập Tổ thẩm tra quyết toán) trình Bộ trưởng xem xét, quyết định.
+b) Thủ trưởng các đơn vị thuộc Bộ:
+Thủ trưởng các đơn vị cấp Tổng cục, Giám đốc Học viện Tài chính, Hiệu trưởng Trường Đại học Tài chính kế toán, Hiệu trưởng Trường Đại học Tài chính Quản trị kinh doanh: Quyết định phê duyệt quyết toán hoàn thành đối với các dự án ứng dụng công nghệ thông tin có tổng mức đầu tư từ 100 tỷ đồng trở xuống trong phạm vi quản lý nghiệp vụ của đơn vị, các dự án do Bộ trưởng ủy quyền quyết định đầu tư. Cục/Vụ Tài vụ quản trị thuộc các đơn vị cấp Tổng cục chủ trì thẩm tra trình Thủ trưởng các đơn vị cấp Tổng cục xem xét, quyết định. Đơn vị chuyên môn về tài chính - kế toán thuộc các trường là đơn vị chủ trì thẩm tra trình Thủ trưởng đơn vị xem xét, quyết định.
+Trường hợp thành lập Tổ công tác thẩm tra quyết toán, người thẩm tra báo cáo Tổ thẩm tra quyết toán kết quả thẩm tra; Tổ thẩm tra quyết toán tham gia hoàn chỉnh, thông qua báo cáo thẩm tra quyết toán của người thẩm tra để trình cấp có thẩm quyền phê duyệt. Cục/Vụ Tài vụ quản trị thuộc các đơn vị cấp Tổng cục; đơn vị chuyên môn về tài chính - kế toán thuộc các trường thực hiện chủ trì hoạt động của Tổ thẩm tra.
+Điều 4. Quản lý và sử dụng chi phí thẩm tra, phê duyệt quyết toán:
+Việc quản lý, sử dụng chi phí thẩm tra, phê duyệt quyết toán được thực hiện theo đúng quy định tại khoản 2 Điều 20 Thông tư số 10/2020/TT-BTC. Một số nội dung được quy định cụ thể như sau:
+1. Nguyên tắc chi cho công tác thẩm tra và phê duyệt quyết toán:
+a) Chi phí thẩm tra quyết toán, phê duyệt quyết toán thuộc nội dung chi phí khác trong tổng mức đầu tư đã được phê duyệt hoặc điều chỉnh tại dự án hoặc dự toán (nếu có).
+b) Cơ quan chủ trì thẩm tra quyết toán xây dựng quy chế chi tiêu cho công tác thẩm tra và phê duyệt quyết toán trình thủ trưởng cơ quan quản lý cấp trên trực tiếp xem xét, quyết định phê duyệt làm cơ sở thực hiện hoặc xây dựng cùng Quy chế chi tiêu nội bộ của đơn vị.
+c) Nguồn thu chi phí thẩm tra, phê duyệt quyết toán không phải thực hiện trích nguồn cải cách tiền lương; không hạch toán chung và không quyết toán chung với nguồn kinh phí quản lý hành chính hàng năm của cơ quan chủ trì thẩm tra quyết toán. Chi phí thẩm tra, phê duyệt quyết toán nếu chưa sử dụng hết trong năm, được phép chuyển năm sau sử dụng chung cho nhiệm vụ thẩm tra, phê duyệt quyết toán của cơ quan chủ trì thẩm tra quyết toán. Trường hợp cơ quan chủ trì thẩm tra quyết toán xác định không còn nhiệm vụ thẩm tra, phê duyệt quyết toán dự án công nghệ thông tin hoàn thành thì thực hiện nộp phần kinh phí còn dư vào NSNN.
+2. Nội dung chi cho công tác thẩm tra và phê duyệt quyết toán:
+a) Chi hỗ trợ trực tiếp cho công tác thẩm tra quyết toán, phê duyệt quyết toán: thanh toán cho người trực tiếp tham gia thẩm tra quyết toán, phê duyệt quyết toán theo phân công công việc, Quyết định thành lập Tổ thẩm tra hoặc văn bản giao việc.
+b) Chi trả cho các chuyên gia hoặc tổ chức tư vấn thực hiện thẩm tra quyết toán dự án trong trường hợp cơ quan chủ trì thẩm tra quyết toán ký hợp đồng theo thời gian với các chuyên gia hoặc thuê tổ chức tư vấn kèm bảng chấm công, báo cáo công việc hay biên bản nghiệm thu.
+c) Chi công tác phí, văn phòng phẩm, dịch thuật, in ấn, hội nghị, hội thảo phục vụ công tác thẩm tra và phê duyệt quyết toán theo thực tế phát sinh kèm chứng từ, hóa đơn thanh toán hợp pháp.
+d) Mua sắm máy tính hoặc trang thiết bị cần thiết theo định mức phục vụ công tác thẩm tra và phê duyệt quyết toán.
+e) Các khoản chi phí hợp lý khác có liên quan đến công tác thẩm tra quyết toán, phê duyệt quyết toán.
+3. Sau khi nhận được hồ sơ trình duyệt quyết toán do chủ đầu tư gửi tới, cơ quan chủ trì thẩm tra quyết toán có văn bản đề nghị chủ đầu tư thanh toán chi phí thẩm tra, phê duyệt quyết toán theo quy định. Căn cứ nguồn thu và nội dung chi, cơ quan chủ trì thẩm tra quyết toán lập ủy nhiệm chi kèm bảng kê (khi các khoản chi không kê hết nội dung chi trên ủy nhiệm chi) gửi đến Kho bạc Nhà nước để thanh toán theo mẫu ban hành kèm theo Nghị định số 11/2020/NĐ-CP ngày 20/01/2020 của Chính phủ về thủ tục hành chính thuộc lĩnh vực Kho bạc Nhà nước (và các văn bản hướng dẫn, sửa đổi nếu có).
+Điều 5. Chế độ báo cáo:
+1. Các đơn vị thực hiện báo cáo năm với số liệu tổng hợp từ ngày 01/01 đến hết ngày 31/12 năm dương lịch.
+2. Trước ngày 20/01 hàng năm, cơ quan chủ trì thẩm tra quyết toán báo cáo tình hình quyết toán dự án hoàn thành sử dụng nguồn vốn nhà nước năm báo cáo (theo mẫu số 12/QTDA đính kèm Thông tư số 10/2020/TT-BTC).
+Hình thức báo cáo: Các đơn vị gửi tệp (file) dữ liệu điện tử định dạng excel và bản scan báo cáo của đơn vị đã ký, đóng dấu theo đúng mẫu về địa chỉ thư điện tử (email): qldacntt-khtc@mof.gov.vn và chịu trách nhiệm về tính đầy đủ, đúng đắn của tệp (file) dữ liệu; đồng thời gửi kèm (bản scan) Quyết định phê duyệt quyết toán dự án công nghệ thông tin hoàn thành trong năm của đơn vị.
+Toàn bộ hồ sơ dự án phải được lưu trữ theo quy định của pháp luật về lưu trữ và các văn bản hướng dẫn hiện hành.
+Điều 6. Các nội dung khác thực hiện theo quy định chi tiết tại Thông tư số 10/2020/TT-BTC .
+Trong quá trình thực hiện, trường hợp có vướng mắc, đề nghị các đơn vị phản ảnh kịp thời để Bộ Tài chính nghiên cứu sửa đổi, bổ sung cho phù hợp./.

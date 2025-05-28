@@ -178,10 +178,22 @@ search = DocumentHandler(domain_root, data_path)
 
 # ================================ SỬ DỤNG ================================
 if __name__ == "__main__":
+<<<<<<< HEAD:models/manual_query/manual_search.py
     handler = DocumentHandler(domain_root, data_path)
 
     # Ví dụ câu hỏi
     question = "Ai là người ký 1736/QĐ-BTC"
     query = {"question": question, "generation": "", "documents": []}
     print(handler.invoke(query))
+=======
+    domain_root = r"F:\TinHoc\BinningMini\RAG + langchain\RAG-langchain\crawl\domain_split"
+    data_path = r"F:\TinHoc\BinningMini\RAG + langchain\RAG-langchain\crawl\data\tvpl"
+
+    handler = DocumentHandler(domain_root, data_path)
+
+    # Ví dụ câu hỏi
+    questions = [
+        "ai là người kí nghị định 1524/QĐ-BTC"
+    ]
+>>>>>>> 950159bc90c515f7c9aacf56d057baecda80fe12:query domain.py
 
