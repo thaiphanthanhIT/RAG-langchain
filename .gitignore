@@ -3,3 +3,4 @@ data/models/all-MiniLM-L6-v2-f16.gguf
 .env
 /__pycache__
 *.__pycache__
+API.json

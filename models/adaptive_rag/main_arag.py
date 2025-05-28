@@ -99,7 +99,7 @@ def generate(state):
 
     """
     state["retry_count"] = state.get("retry_count", 0) + 1
-    print(f"retry_count: {state["retry_count"]}")
+    print(f"retry_count: {state['retry_count']}")
     if state["retry_count"] > 4:
         print("---DECISION: QUÁ SỐ LẦN THỬ, CHUYỂN SANG TÌM KIẾM TRÊN WEB---")
         state["route"] = "reach_limit"
@@ -178,7 +178,7 @@ def transform_query(state):
         state (dict): Cập nhật khóa "question" với câu hỏi đã được diễn đạt lại
     """
     state["retry_count"] = state.get("retry_count", 0) + 1
-    print(f"retry_count: {state["retry_count"]}")
+    print(f'''retry_count: {state["retry_count"]}''')
     if state["retry_count"] > 5:
         print("---DECISION: QUÁ SỐ LẦN THỬ, CHUYỂN SANG TÌM KIẾM TRÊN WEB---")
         state["route"] = "reach_limit"
@@ -211,7 +211,8 @@ def web_search(state):
 
     # Web search
     docs = web_search_tool.invoke({"query": question})
-    web_results = "\n".join([d["content"] for d in docs])
+    #print(docs)
+    web_results = "\n".join([d.get("content", "") for d in docs])
     web_results = Document(page_content=web_results)
     state["documents"] = web_results
     return state

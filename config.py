@@ -23,11 +23,9 @@ EMBEDDING_MODEL_FILE = os.path.join(PROJECT_ROOT, "data/models/all-MiniLM-L6-v2-
 # OUPUT_DIR của crawlers
 DEFAULT_OUTPUT_DIR = os.path.join(PROJECT_ROOT, "data/documents/crawled_texts")
 
-
-
 def set_environment_variables(project_name):
     #filepath = "/app/API.json" # with docker, if you don't use docker, replace by your own filepath to API_key
-    filepath = "D:/AI_intern/API.json"
+    filepath = "API.json"
     with open(filepath, 'r', encoding = 'utf-8') as f:
         APIs = json.load(f)
     os.environ['GOOGLE_API_KEY'] = APIs['GOOGLE_API_KEY']

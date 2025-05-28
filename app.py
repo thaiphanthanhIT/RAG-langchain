@@ -103,7 +103,13 @@ if prompt := st.chat_input("Nhập câu hỏi của bạn (ví dụ: 'Quy địn
 
                 # Invoke backend
                 final_state = compiled_app.invoke(initial_state)
-
+                # for final_state in compiled_app.stream(initial_state):
+                #     for key, value in final_state.items():
+                #         #print(f"Node: {key}")
+                #         logger.info(key)
+                #         logger.info(value)
+                #         #print(value["keys"])
+                #     print("\n--\n")
                 # Process response
                 result = final_state.get("generation","Không nhận được phản hồi hợp lệ.") 
                 docs = final_state["documents"]

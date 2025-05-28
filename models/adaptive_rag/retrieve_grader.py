@@ -44,7 +44,7 @@ grade_prompt = ChatPromptTemplate.from_messages(
 )
 embedding_model = GPT4AllEmbeddings(model_file="data/models/all-MiniLM-L6-v2-f16.gguf")
 db = FAISS.load_local(VECTOR_DB_PATH, embedding_model, allow_dangerous_deserialization=True)
-retriever = db.as_retriever()
+retriever = db.as_retriever(search_kwargs={"k":3})
 retrieval_grader = grade_prompt | structured_llm_grader
 if __name__ == "__main__":
     doc0 = """
