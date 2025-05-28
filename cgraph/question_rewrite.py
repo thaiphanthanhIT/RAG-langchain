@@ -2,7 +2,6 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import ChatPromptTemplate
 import config
-from grader_doc import question
 
 llm = ChatGoogleGenerativeAI(
     model="gemini-2.0-flash",
@@ -24,5 +23,3 @@ re_write_prompt = ChatPromptTemplate.from_messages(
 )
 
 question_rewriter = re_write_prompt | llm | StrOutputParser()
-result = question_rewriter.invoke({"question": question})
-print(result)
