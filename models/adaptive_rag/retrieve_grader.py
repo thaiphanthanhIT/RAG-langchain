@@ -1,6 +1,4 @@
 ### Retrieval Grader
-from langchain_community.embeddings import GPT4AllEmbeddings
-from langchain_community.vectorstores import FAISS
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_google_genai import ChatGoogleGenerativeAI
 from pydantic import BaseModel, Field
@@ -8,8 +6,6 @@ from config import set_environment_variables
 import re
 
 set_environment_variables("evaluators")
-VECTOR_DB_PATH = "data/vectorstores/db_text"
-
 
 
 # Data model
@@ -42,9 +38,7 @@ grade_prompt = ChatPromptTemplate.from_messages(
         ("human", "Retrieved document: \n\n {document} \n\n id_document: {id_document} \n\n User question: {question}"),
     ]
 )
-embedding_model = GPT4AllEmbeddings(model_file="data/models/all-MiniLM-L6-v2-f16.gguf")
-db = FAISS.load_local(VECTOR_DB_PATH, embedding_model, allow_dangerous_deserialization=True)
-retriever = db.as_retriever()
+
 retrieval_grader = grade_prompt | structured_llm_grader
 if __name__ == "__main__":
     doc0 = """

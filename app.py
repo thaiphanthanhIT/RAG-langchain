@@ -3,7 +3,8 @@ import logging
 from typing import TypedDict, Optional, List, Tuple
 from models.adaptive_rag import *
 import streamlit.components.v1 as components
-
+from models.adaptive_rag.main_arag import adaptive_rag_graph as compiled_app, GraphState
+from models.manual_query.manual_search import search
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
@@ -16,32 +17,6 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Attempt to import the compiled app and state from the backend
-try:
-    from models.adaptive_rag.main_arag import adaptive_rag_graph as compiled_app, GraphState
-    BACKEND_AVAILABLE = compiled_app is not None
-except ImportError as e:
-    logger.error(f"Failed to import backend 'qabot': {e}", exc_info=True)
-    st.error("Lỗi: Không thể kết nối đến hệ thống xử lý. Vui lòng thử lại sau.")
-    compiled_app = None
-    BACKEND_AVAILABLE = False
-    # Define QAState minimally if import fails
-    class QAState(TypedDict):
-        query: str
-        result: Optional[str]
-        history: List[Tuple[str, str]]
-except Exception as e:
-    logger.error(f"General error during backend initialization: {e}", exc_info=True)
-    st.error("Lỗi: Hệ thống xử lý gặp sự cố khi khởi tạo. Vui lòng thử lại sau.")
-    compiled_app = None
-    BACKEND_AVAILABLE = False
-    class QAState(TypedDict):
-        query: str
-        result: Optional[str]
-        history: List[Tuple[str, str]]
-
-
-
 # Sidebar for additional information
 with st.sidebar:
     st.header("ℹ️ Thông tin")
@@ -51,11 +26,44 @@ with st.sidebar:
     - Để có kết quả tốt nhất, hãy đặt câu hỏi rõ ràng và cụ thể.
     """)
     st.markdown("---")
+    option = st.radio(
+        "Lựa chọn chức năng:",
+        ["Hỏi đáp chung", "Hỏi đáp theo chuyên ngành", "Tìm kiếm văn bản chính xác"],
+        index=0
+    )
+    if option == "Hỏi đáp theo chuyên ngành":
+        chuyen_nganh = st.selectbox(
+            "Chọn chuyên ngành:",
+            ["Bảo hiểm", "Bất động sản", "Bộ máy hành chính", 
+             "Chứng khoán", "Công nghệ thông tin", "Đầu tư", "Dịch vụ pháp lý"]
+        )
+    st.markdown("---")
     st.caption("Powered by Team 4 - Phạm Văn Thanh, Nguyễn Nam, Phan Thanh Thái, Phạm Công Chiến")
+
+# Attempt to import the compiled app and state from the backend
+try:
+    if option != "Tìm kiếm văn bản chính xác":
+        compiled_app = adaptive_rag_graph
+    else:
+        compiled_app = search
+    BACKEND_AVAILABLE = compiled_app is not None
+except ImportError as e:
+    logger.error(f"Failed to import backend 'qabot': {e}", exc_info=True)
+    st.error("Lỗi: Không thể kết nối đến hệ thống xử lý. Vui lòng thử lại sau.")
+    compiled_app = None
+    BACKEND_AVAILABLE = False
+except Exception as e:
+    logger.error(f"General error during backend initialization: {e}", exc_info=True)
+    st.error("Lỗi: Hệ thống xử lý gặp sự cố khi khởi tạo. Vui lòng thử lại sau.")
+    compiled_app = None
+    BACKEND_AVAILABLE = False
+
 
 # Main UI
 st.title("🤖 Chatbot AI - Bộ Tài Chính")
 st.caption("Trợ lý ảo hỗ trợ giải đáp các thắc mắc về quy định tài chính hoặc thông tin chung.")
+if option == "Tìm kiếm văn bản chính xác":
+    st.caption("Bạn đang chọn chế độ tìm kiếm chính xác từ văn bản. Các tính năng khả dụng: Tìm kiếm nội dung văn bản, người ký, ngày ban hành, các văn bản liên quan,...")
 
 # Initialize chat history
 if "messages" not in st.session_state:
@@ -86,7 +94,7 @@ if prompt := st.chat_input("Nhập câu hỏi của bạn (ví dụ: 'Quy địn
         with st.chat_message("assistant"):
             message_placeholder = st.empty()
             message_placeholder.markdown("⚙️ Đang xử lý câu hỏi của bạn...")
-
+            result = ""
             try:
                 # Chuẩn bị lịch sử trò chuyện từ st.session_state.messages
                 history = []

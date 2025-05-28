@@ -1,11 +1,13 @@
 from langgraph.graph import StateGraph
 from langchain.schema import Document
+from langchain_community.embeddings import GPT4AllEmbeddings
+from langchain_community.vectorstores import FAISS
 from typing import TypedDict, List, Tuple
 from dotenv import load_dotenv
 import logging
 import os
 from .route_query import question_router
-from .retrieve_grader import retrieval_grader, retriever
+from .retrieve_grader import retrieval_grader
 from .generate import rag_chain
 from .answer_grader import answer_grader
 from .question_rewriter import question_rewriter
@@ -19,6 +21,11 @@ from config import set_environment_variables
 
 set_environment_variables("evaluators")
 
+VECTOR_DB_PATH = "data/vectorstores/db_text"
+
+embedding_model = GPT4AllEmbeddings(model_file="data/models/all-MiniLM-L6-v2-f16.gguf")
+db = FAISS.load_local(VECTOR_DB_PATH, embedding_model, allow_dangerous_deserialization=True)
+retriever = db.as_retriever()
 
 code_pattern = r"\d{1,4}/(?:\d{4}/)?[A-ZĐ]{1,5}(?:-[A-Z0-9]{1,5})*"
 def extract_main_code(docs):
@@ -389,7 +396,7 @@ adaptive_rag_graph = workflow.compile()
 
 if __name__ == "__main__":
     # Run
-    inputs = {"question": "ĐIỀU CHỈNH DỰ TOÁN CHI NG`ÂN SÁCH NHÀ NƯỚC NĂM 2025"}
+    inputs = {"question": "ĐIỀU CHỈNH DỰ TOÁN CHI NGÂN SÁCH NHÀ NƯỚC NĂM 2025"}
 
     output = adaptive_rag_graph.invoke(inputs)
     question = output["question"]

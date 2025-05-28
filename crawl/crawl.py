@@ -9,12 +9,15 @@ from typing import Callable, Dict, Optional
 import requests
 import re
 import json
+import os
 
 class URL:
     def __init__(self, homepage = "https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=&area=0&type=0&status=0&lan=1&org=15&signer=0&match=True&sort=2&bdate=01/01/2000&edate=26/05/2025"):
         self.homepage = homepage
         options = Options()
         options.add_argument('--headless')
+        options.add_argument('--log-level=3')  # Chỉ hiện lỗi nghiêm trọng
+        options.add_experimental_option('excludeSwitches', ['enable-logging'])  # Ẩn log Chromium
         driver  = webdriver.Edge(options = options)
         self.driver = driver
         self.data = []
@@ -46,14 +49,14 @@ class URL:
             self.data.extend(data)
             return 200
         except WebDriverException as e:
-            print(e)
+            #print(e)
             return 404
     def crawl_links(self, limit = 100000):
         try:
             self.driver.get(self.homepage)
             status = 200
             numPage = 1
-            while(status == 200 and len(self.data) < limit ):
+            while(status == 200 and len(self.data) + 20 < limit ):
                 print(f"crawl page {numPage}")
                 page = self.homepage + f'&page={numPage}'
                 numPage +=1
@@ -77,7 +80,7 @@ class URL:
             return text, html
 
         except WebDriverException as e:
-            print(e)
+            #print(e)
             return None, None
     def crawl_docs(self, start = 0, end = 100000):
         if start >= len(self.data):
@@ -94,21 +97,25 @@ class URL:
             if i%20 == 0:
                 print(f"Get 20 documents from {start} to {end}!")
 
-    def save_links(self, file_name):
+    def save_links(self, path,  file_name):
+        os.makedirs(path, exist_ok=True)
+        file_name = path + file_name
         with open(file_name, "w", encoding="utf-8") as f:
             json.dump(self.data, f, indent=4)
         print("Finish saving data!")
 
-    def save_docs(self, file_html, file_content, start = 0 ):
+    def save_docs(self, path_html, path_content, start = 0 ):
+        os.makedirs(path_html, exist_ok=True)
+        os.makedirs(path_content, exist_ok=True)
         for i, element in enumerate(self.docs):
             #name = element['name']
             content = element['content']
             src = element['src']
             # with open(file_title, 'a', encoding='utf-8') as f:
             #     f.write(name + '\n')
-            with open(file_content+f'{start + i}.txt', 'w', encoding='utf-8') as f:
+            with open(path_content+ 'doc' + f'{start + i}.txt', 'w', encoding='utf-8') as f:
                 f.write(content)
-            with open(file_html+f"{start + i}.html", "w", encoding="utf-8") as f:
+            with open(path_html+ 'html' + f"{start + i}.html", "w", encoding="utf-8") as f:
                 f.write(src)
         print("Save documents sucessfully")
 
@@ -224,31 +231,12 @@ class Parser:
 
 if __name__ == "__main__":
     home_page = URL()
-    # home_page.crawl_links()
-    # home_page.save_links("crawl/data/tvpl/links.json")
-    home_page.load(r'F:\TinHoc\BinningMini\RAG + langchain\crawl\data\links.json')
+    home_page.crawl_links(limit=40)
+    home_page.save_links("demo/crawl/data/tvpl/", "links.json")
+    home_page.load('demo/crawl/data/tvpl/links.json')
     doc_count = len(home_page.data)
 
-    for i in range(573, 600, 27):
-        home_page.crawl_docs(start=i, end=i + 27)
-        home_page.save_docs("crawl/data/tvpl_new/html/doc", "crawl/data/tvpl_new/docs/doc", start=i)
+    for i in range(0, 20, 20):
+        home_page.crawl_docs(start=i, end=i + 20)
+        home_page.save_docs("demo/crawl/data/tvpl/html/", "demo/crawl/data/tvpl/docs/", start=i)
         home_page.docs = []
-
-# import os
-#
-# html_dir = r"F:\TinHoc\BinningMini\RAG + langchain\crawl\data\tvpl_new\html"
-# txt_dir  = r"F:\TinHoc\BinningMini\RAG + langchain\crawl\data\tvpl_new\docs"
-# # Tạo thư mục nếu chưa tồn tại
-# os.makedirs(html_dir, exist_ok=True)
-# os.makedirs(txt_dir, exist_ok=True)
-#
-# # Tạo file từ 140 đến 1000, bước 20
-# for i in range(140, 1000, 1):
-#     html_path = os.path.join(html_dir, f'doc{i}.html')
-#     txt_path = os.path.join(txt_dir, f'doc{i}.txt')
-#
-#     with open(html_path, 'w', encoding='utf-8') as f:
-#         f.write(f'<!-- Empty HTML file doc{i} -->\n')
-#
-#     with open(txt_path, 'w', encoding='utf-8') as f:
-#         f.write(f'# Empty TXT file doc{i}\n')

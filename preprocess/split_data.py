@@ -4,7 +4,7 @@ import json
 import shutil
 
 # ======== Bước 1: Nạp JSON và ánh xạ main_code -> domain ========
-json_path = r'crawl/data/tvpl/links.json'
+json_path = r'demo/crawl/data/tvpl/links.json'
 with open(json_path, 'r', encoding='utf-8') as f:
     json_data = json.load(f)
 
@@ -26,9 +26,9 @@ def extract_main_code(file_path):
         all_codes = re.findall(code_pattern, content)
         return all_codes[0] if all_codes else None
 
-# ======== Bước 3: Di chuyển file txt vào thư mục theo domain ========
-txt_folder = r"crawl/data/tvpl"
-output_root = r"crawl/data/domains"
+# # ======== Bước 3: Di chuyển file txt vào thư mục theo domain ========
+txt_folder = r"demo/crawl/data/tvpl/docs"
+output_root = r"demo/crawl/data/domains"
 set_domains = set()
 for filename in os.listdir(txt_folder):
     if filename.endswith(".txt"):
@@ -46,6 +46,6 @@ for filename in os.listdir(txt_folder):
         else:
             print(f"✗ Không tìm thấy domain cho: {filename} (code: {main_code})")
 
-with open('crawl/data/domains.json', 'w', encoding='utf=8') as f: 
+with open('demo/crawl/data/domains.json', 'w', encoding='utf=8') as f: 
     json.dump(list(set_domains), f)
     print("Save list of domains successfully")

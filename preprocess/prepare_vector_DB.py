@@ -10,7 +10,7 @@ import json
 # Thêm thư mục gốc của dự án vào sys.path
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 sys.path.append(PROJECT_ROOT)
-from config import TEXT_DATA_PATH, VECTOR_DB_TEXT_PATH, EMBEDDING_MODEL_FILE
+from config import TEXT_DATA_PATH, VECTOR_DB_PATH, EMBEDDING_MODEL_FILE
 
 # Cấu hình logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
@@ -29,22 +29,22 @@ def process_text_files(text_path: str):
     logger.info(f"Đang xử lý các file văn bản trong: {text_path}")
     # Lấy danh sách 200 file .txt đầu tiên
     file_list = sorted(glob.glob(os.path.join(text_path, "*.txt")))
-    # if len(file_list) > 10: 
-    #     file_list = file_list[:10]
+    if len(file_list) > 10: 
+        file_list = file_list[:10]
     documents = []
     for file_path in file_list:
         loader = TextLoader(file_path, encoding="utf-8")
         documents.extend(loader.load())
     if not documents:
         logger.warning("Không tìm thấy file văn bản nào.")
-        return []
+        return [], 0
 
     # splitter = RecursiveCharacterTextSplitter(chunk_size=4096, chunk_overlap=1024)
     # chunks = splitter.split_documents(documents)
     # logger.info(f"Đã chia nhỏ thành {len(chunks)} đoạn văn bản.")
     return documents, len(documents)
 
-def create_db_from_text(text_path: str = TEXT_DATA_PATH, db_path: str = VECTOR_DB_TEXT_PATH):
+def create_db_from_text(text_path: str = TEXT_DATA_PATH, db_path: str = VECTOR_DB_PATH):
     try:
         logger.info("Bắt đầu tạo vector DB từ văn bản...")
         chunks, num_doc = process_text_files(text_path)
@@ -65,12 +65,12 @@ def create_db_from_text(text_path: str = TEXT_DATA_PATH, db_path: str = VECTOR_D
 
 # Thực thi trực tiếp
 if __name__ == "__main__":
-    create_db_from_text()
-    # with  open("crawl/data/domains.json", "r", encoding="utf-8") as f: 
-    #     domains = json.load(f)
-    # for domain in domains: 
-    #     text_domain_path = "crawl/data/domains/" + domain 
-    #     text_db_path = "data/vectorstores/domains/" + domain
-    #     os.makedirs(text_db_path, exist_ok=True)
-    #     print(f"Create vectorDB about domains: {domain}")
-    #     create_db_from_text(text_path=text_domain_path, db_path=text_db_path) 
+    create_db_from_text(text_path="demo/crawl/data/tvpl/docs", db_path="demo/data")
+    with  open("demo/crawl/data/domains.json", "r", encoding="utf-8") as f: 
+        domains = json.load(f)
+    for domain in domains: 
+        text_domain_path = "demo/crawl/data/domains/" + domain 
+        text_db_path = "demo/data/vectorstores/domains/" + domain
+        os.makedirs(text_db_path, exist_ok=True)
+        print(f"Create vectorDB about domains: {domain}")
+        create_db_from_text(text_path=text_domain_path, db_path=text_db_path) 

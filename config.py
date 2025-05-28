@@ -16,7 +16,7 @@ API_URL_LAWNET = os.getenv("API_URL_LAWNET")
 # Đường dẫn đễn dữ liệu được RAG sử dụng
 TEXT_DATA_PATH = os.path.join(PROJECT_ROOT, "crawl/data/tvpl_new/docs")
 # Đường dẫn lưu vectorstore
-VECTOR_DB_TEXT_PATH = os.path.join(PROJECT_ROOT, "data/vectorstores/db_text")
+VECTOR_DB_PATH = os.path.join(PROJECT_ROOT, "data/vectorstores/db_text")
 # Embedding Model
 EMBEDDING_MODEL_FILE = os.path.join(PROJECT_ROOT, "data/models/all-MiniLM-L6-v2-f16.gguf")
 
