@@ -1,0 +1,1285 @@
+| BỘ TÀI CHÍNH   | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|----------------|-----------------------------------------------------------------|
+
+| Số: 844/QĐ-BTC | Hà Nội, ngày 21 tháng 05 năm 2019                               |
+
+BỘ TÀI CHÍNH -----------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 844/QĐ-BTC
+
+Hà Nội, ngày 21 tháng 05 năm 2019
+
+QUYẾT ĐỊNH
+
+BAN HÀNH KẾ HOẠCH HÀNH ĐỘNG CỦA BỘ TÀI CHÍNH TRIỂN KHAI MỘT SỐ NHIỆM VỤ, GIẢI PHÁP TRỌNG TÂM PHÁT TRIỂN CHÍNH PHỦ ĐIỆN TỬ GIAI ĐOẠN 2019-2020, ĐỊNH HƯỚNG 2025
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Nghị quyết số 17/NQ-CP ngày 07 tháng 03 năm 2019 của Chính phủ về một số nhiệm vụ, giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn 2019-2020, định hướng 2025;
+
+Căn cứ Quyết định số 274/QĐ-TTg ngày 12 tháng 3 năm 2019 của Thủ tướng Chính phủ ban hành phê duyệt đề án cổng dịch vụ công quốc gia.
+
+Căn cứ Quyết định số 2445/QĐ-BTC ngày 28 tháng 12 năm 2018 của Bộ trưởng Bộ Tài chính ban hành phê duyệt kiến trúc Chính phủ điện tử ngành Tài chính.
+
+Căn cứ Quyết định số 585/QĐ-BTC ngày 03 tháng 4 năm 2019 của Bộ trưởng Bộ Tài chính ban hành phê duyệt Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.
+
+Xét đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính, Chánh Văn phòng Bộ Tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Kế hoạch hành động của Bộ Tài chính triển khai một số nhiệm vụ, giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn 2019-2020, định hướng 2025.
+
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký.
+
+Điều 3. Cục trưởng Cục Tin học và Thống kê tài chính, Chánh Văn phòng Bộ, Thủ trưởng các đơn vị thuộc Bộ có liên quan chịu trách nhiệm thực hiện Quyết định này./.
+
+| Nơi nhận: - Như Điều 3 (để thực hiện); - Thủ tướng Chính phủ (để b/c); - Văn phòng Chính phủ (để b/c); - Bộ Thông tin và Truyền thông (để b/c); - Các Thứ trưởng (để chỉ đạo); - Cục THTK; - Lưu: VT, VP. | BỘ TRƯỞNG Đinh Tiến Dũng |
+
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+
+Nơi nhận: - Như Điều 3 (để thực hiện); - Thủ tướng Chính phủ (để b/c); - Văn phòng Chính phủ (để b/c); - Bộ Thông tin và Truyền thông (để b/c); - Các Thứ trưởng (để chỉ đạo); - Cục THTK; - Lưu: VT, VP.
+
+BỘ TRƯỞNG Đinh Tiến Dũng
+
+KẾ HOẠCH HÀNH ĐỘNG
+
+CỦA BỘ TÀI CHÍNH TRIỂN KHAI MỘT SỐ NHIỆM VỤ, GIẢI PHÁP TRỌNG TÂM PHÁT TRIỂN CHÍNH PHỦ ĐIỆN TỬ GIAI ĐOẠN 2019-2020, ĐỊNH HƯỚNG 2025 (Kèm theo Quyết định số 844/QĐ-BTC ngày 21/05/2019 của Bộ Tài chính)
+
+I. Mục tiêu, yêu cầu
+
+1. Mục tiêu tổng quát:
+
+Hoàn thiện nền tảng Chính phủ điện tử của Bộ Tài chính nhằm nâng cao ứng dụng công nghệ thông tin trong công tác quản lý, công khai minh bạch hoạt động quản lý nhà nước của Bộ Tài chính trên môi trường mạng, bảo đảm an toàn thông tin và an ninh mạng, đẩy mạnh phát triển Chính phủ điện tử, nâng cao chất lượng, hiệu quả cung cấp dịch vụ công của Bộ Tài chính, đảm bảo phục vụ người dân và doanh nghiệp ngày càng tốt hơn; phát triển Tài chính điện tử dựa trên dữ liệu và dữ liệu mở hướng tới Tài chính số.
+
+2. Mục tiêu cụ thể:
+
+a) Giai đoạn 2019 - 2020
+
+- Hoàn thiện khung pháp lý đầu tư ứng dụng công nghệ thông tin nhằm tăng cường thuê dịch vụ công nghệ thông tin tại Bộ Tài chính; ban hành các văn bản quản lý, kết nối, chia sẻ dữ liệu trong ngành Tài chính, các quy định, quy chế về quản lý, vận hành các hệ thống CNTT ngành Tài chính.
+
+- Tỷ lệ hồ sơ giải quyết trực tuyến trên tổng số hồ sơ giải quyết thủ tục hành chính của Bộ Tài chính đạt từ 20% trở lên; tích hợp 30% các dịch vụ công trực tuyến mức độ 3, 4 của Bộ Tài chính với Cổng Dịch vụ công quốc gia; 100% hồ sơ giải quyết thủ tục hành chính được thực hiện thông qua Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử Bộ Tài chính.
+
+- Tối thiểu 30% dịch vụ công trực tuyến thực hiện ở mức độ 4; 100% dịch vụ công được hỗ trợ giải đáp thắc mắc cho người dân, doanh nghiệp; công khai mức độ hài lòng của người dân khi sử dụng dịch vụ công trực tuyến; 20% dịch vụ công trực tuyến sử dụng chữ ký số trên nền tảng di động để thực hiện thủ tục hành chính; 50% dịch vụ công trực tuyến xử lý bằng hồ sơ điện tử; 20% thông tin của người dân được tự động nhập vào biểu mẫu trực tuyến; 50% dịch vụ công trực tuyến sử dụng dữ liệu từ Cơ sở dữ liệu quốc gia về Đăng ký doanh nghiệp.
+
+- Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử Bộ Tài chính cung cấp giao diện cho các thiết bị di động; Cổng Thông tin điện tử của ngành Tài chính công khai thông tin đầy đủ theo quy định tại Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ.
+
+- Phần mềm quản lý văn bản và điều hành của Bộ Tài chính được kết nối, liên thông qua Trục liên thông văn bản quốc gia phục vụ gửi, nhận văn bản điện tử; 90% văn bản trao đổi giữa các cơ quan nhà nước (trừ văn bản mật theo quy định của pháp luật) dưới dạng điện tử; tối thiểu 80% hồ sơ công việc tại Bộ Tài chính được xử lý trên môi trường mạng (không bao gồm hồ sơ xử lý công việc có nội dung mật).
+
+- Tối thiểu 30% báo cáo định kỳ (không bao gồm nội dung mật) được gửi, nhận qua Hệ thống thông tin báo cáo quốc gia.
+
+- Rút ngắn từ 30% - 50% thời gian họp, giảm tối đa việc sử dụng tài liệu giấy thông qua Hệ thống thông tin phục vụ họp và xử lý công việc, văn phòng điện tử.
+
+- Có kết nối hệ thống mạng của Bộ Tài chính với Mạng truyền số liệu chuyên dùng của các cơ quan Đảng, Nhà nước.
+
+b) Giai đoạn 2021 - 2025
+
+- Tiếp tục phát triển các hệ thống nền tảng phát triển Chính phủ điện tử, nghiên cứu, phát triển các giải pháp kết nối với các hệ thống thông tin của các nước trong khu vực ASEAN cũng như một số nước trên thế giới theo quy định, thông lệ quốc tế; hoàn thành triển khai Cơ sở dữ liệu quốc gia về Tài chính.
+
+- Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử Bộ Tài chính được kết nối, chia sẻ dữ liệu với Cổng Dịch vụ công quốc gia; 100% giao dịch trên Cổng Dịch vụ công quốc gia, Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử của Bộ Tài chính được xác thực điện tử.
+
+- Tích hợp 50% các dịch vụ công trực tuyến mức độ 3, 4 của Bộ Tài chính với Cổng Dịch vụ công quốc gia (trong đó, 100% dịch vụ công trực tuyến mức độ 3, 4 phổ biến, liên quan tới nhiều người dân, doanh nghiệp được tích hợp lên Cổng Dịch vụ công quốc gia);
+
+- Tỷ lệ hồ sơ giải quyết theo dịch vụ công trực tuyến mức độ 3, 4 trên tổng số hồ sơ đạt từ 50% trở lên; 80% thủ tục hành chính đáp ứng yêu cầu được triển khai dịch vụ công trực tuyến mức độ 3, 4; tối thiểu 90% người dân và doanh nghiệp hài lòng về việc giải quyết thủ tục hành chính.
+
+- 60% các hệ thống thông tin của Bộ Tài chính có liên quan đến người dân, doanh nghiệp đã đưa vào vận hành, khai thác được kết nối, liên thông qua nền tảng tích hợp, chia sẻ dữ liệu; thông tin của người dân, doanh nghiệp đã được số hóa và lưu trữ tại các cơ sở dữ liệu quốc gia không phải cung cấp lại.
+
+- 90% hồ sơ công việc tại Bộ Tài chính được xử lý trên môi trường mạng (không bao gồm hồ sơ xử lý công việc có nội dung mật).
+
+- 80% báo cáo định kỳ (không bao gồm nội dung mật) của Bộ Tài chính được cập nhật, chia sẻ trên Hệ thống thông tin báo cáo quốc gia, phục vụ hiệu quả hoạt động quản lý, chỉ đạo, điều hành.
+
+II. Nhiệm vụ
+
+1. Xây dựng, hoàn thiện thể chế tạo cơ sở pháp lý đầy đủ, toàn diện cho việc triển khai xây dựng, phát triển Chính phủ điện tử
+
+- Tham gia ý kiến với Bộ Thông tin và Truyền thông về dự thảo Nghị định thay thế Nghị định số 102/2009/NĐ-CP ngày 06/11/2009 của Chính phủ về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước, Quyết định số 80/2014/QĐ-TTg ngày 30/12/2014 của Thủ tướng Chính phủ quy định thí điểm về thuê dịch vụ công nghệ thông tin trong cơ quan nhà nước.
+
+- Nghiên cứu, xây dựng Đề án đổi mới quy trình, nghiệp vụ ngành tài Chính phù hợp với mô hình kinh tế số.
+
+- Phối hợp với Bộ Kế hoạch và Đầu tư, Bộ Thông tin và Truyền thông trình Quốc hội thông qua Luật sửa đổi Luật Đầu tư công để tháo gỡ các khó khăn, vướng mắc trong việc sử dụng vốn đầu tư công trong lập, triển khai dự án, hoạt động ứng dụng công nghệ thông tin thực hiện theo hình thức thuê dịch vụ.
+
+- Xây dựng các văn bản hướng dẫn trong ngành Tài chính về: thuê dịch vụ công nghệ thông tin trên cơ sở quy định của Chính phủ và hướng dẫn của Bộ Thông tin và Truyền thông; quản lý, kết nối, chia sẻ dữ liệu trong ngành Tài chính; hướng dẫn về báo cáo, tổng hợp dữ liệu phục vụ chỉ đạo, điều hành; hướng dẫn thực hiện thủ tục hành chính trên môi trường điện tử ngành Tài chính; hướng dẫn tuân thủ Kiến trúc Chính phủ điện tử ngành Tài chính và Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính; hướng dẫn về định danh và xác thực điện tử cho cá nhân, tổ chức trong lĩnh vực Tài chính; quy định về sử dụng dịch vụ điện toán đám mây ngành tài chính; hướng dẫn Nghị định số 165/2018/NĐ-CP ngày 24/12/2018 về giao dịch điện tử trong lĩnh vực thuế, chứng khoán; xây dựng quy trình điện tử về việc tiếp nhận, giải quyết từng thủ tục hành chính qua dịch vụ công trực tuyến cấp độ 3, 4 trên hệ thống dịch vụ công trực tuyến của Bộ Tài chính.
+
+- Ban hành các quy chế: quy chế về sử dụng quản lý, vận hành khai thác CSDL quốc gia về Tài chính; quy chế tiếp nhận, xử lý, phát hành và quản lý văn bản điện tử tại Bộ Tài chính; quy chế về triển khai, thực hiện cơ chế một cửa, một cửa liên thông tại Bộ Tài chính; quy chế quản lý và sử dụng chữ ký số, chứng thư số tại Bộ Tài chính.
+
+- Rà soát, cập nhật, sửa đổi các quy định tiêu chuẩn về ứng dụng công nghệ thông tin trong các cơ quan hành chính, đơn vị sự nghiệp thuộc Bộ Tài chính; quy chế an toàn thông tin mạng phù hợp với môi trường ứng dụng tài chính số; quy trình nội bộ đối với việc giải quyết thủ tục hành chính trong từng lĩnh vực; các văn bản quy phạm pháp luật có liên quan để đảm bảo cơ sở pháp lý triển khai cung cấp dịch vụ công trực tuyến mức độ 3, 4.
+
+- Xây dựng Kế hoạch ứng dụng chữ ký số và lộ trình sử dụng văn bản điện tử tiến tới thay thế cho văn bản giấy trong điều hành, xử lý công việc.
+
+2. Xây dựng nền tảng công nghệ phát triển Chính phủ điện tử phù hợp với xu thế phát triển Chính phủ điện tử trên thế giới
+
+- Xây dựng, cập nhật và tổ chức triển khai Kiến trúc Chính phủ điện tử ngành Tài chính.
+
+- Kết nối, liên thông các hệ thống thông tin, cơ sở dữ liệu của Bộ Tài chính trong việc gửi, nhận văn bản điện tử, dịch vụ công trực tuyến, thông tin báo cáo, dữ liệu phục vụ chỉ đạo, điều hành, thủ tục hành chính, công báo điện tử...với Văn phòng Chính phủ và Bộ Thông tin và Truyền thông.
+
+- Xây dựng Cơ sở dữ liệu quốc gia về Tài chính, các cơ sở dữ liệu chuyên ngành quan trọng của ngành tài chính về thuế, hải quan, kho bạc và các cơ sở dữ liệu chuyên ngành khác.
+
+- Kết nối liên thông, chia sẻ với Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử, Cổng Dịch vụ công quốc gia phục vụ người dân và doanh nghiệp.
+
+- Hoàn thiện hạ tầng công nghệ thông tin của Bộ Tài chính theo hướng kết hợp giữa mô hình tập trung và mô hình phân tán dựa trên công nghệ điện toán đám mây, nhằm khai thác sử dụng hiệu quả hạ tầng hiện có, đồng thời tăng cường khả năng bảo mật, sao lưu, phòng chống thảm họa, bảo đảm vận hành ổn định, an toàn, an ninh của các hệ thống thông tin, cơ sở dữ liệu.
+
+3. Xây dựng, phát triển Chính phủ điện tử bảo đảm gắn kết chặt chẽ giữa ứng dụng công nghệ thông tin với cải cách hành chính, đổi mới lề lối, phương thức làm việc phục vụ người dân và doanh nghiệp, thực hiện chuyển đổi số quốc gia hướng tới Chính phủ số, nền kinh tế số và xã hội số
+
+- Triển khai hệ thống thông tin phục vụ họp và xử lý công việc của Chính phủ tại Bộ Tài chính.
+
+- Xây dựng Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử Bộ Tài chính, tổ chức thực hiện kết nối, tích hợp chia sẻ dữ liệu với Cổng Dịch vụ công quốc gia thông qua cơ chế đăng nhập một lần từ Cổng Dịch vụ công quốc gia.
+
+- Xây dựng hệ thống báo cáo điện tử tích hợp toàn ngành Tài chính
+
+- Nghiên cứu, đề xuất, xây dựng và triển khai Hệ thống thông tin Ngân sách và Kế toán nhà nước số.
+
+- Hoàn thiện, chuẩn hóa, tích hợp các dịch vụ công trực tuyến mức độ 3, 4 (Kê khai hóa đơn qua mạng, Khai thuế qua mạng)
+
+- Xây dựng Bộ câu hỏi/trả lời về những vấn đề thường gặp trong quá trình giải quyết các thủ tục hành chính và công khai trên Cổng Dịch vụ công của Bộ Tài chính và tích hợp trên Cổng Dịch vụ công quốc gia.
+
+- Tiếp nhận và trả lời ý kiến trên Hệ thống thông tin tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức và đăng tải công khai trên Cổng Dịch vụ công quốc gia.
+
+- Triển khai phần mềm quản lý hồ sơ lưu trữ phục vụ công tác quản lý hồ sơ điện tử tại các đơn vị trong toàn ngành Tài chính và thực hiện số hóa các hồ sơ tài liệu có giá trị vĩnh viễn đã được chỉnh lý; kết nối với chương trình quản lý văn bản điều hành để tiếp nhận các hồ sơ công việc điện tử.
+
+4. Xây dựng Chính phủ điện tử bảo đảm gắn kết chặt chẽ với bảo đảm an toàn thông tin, an ninh mạng, an ninh quốc gia, bảo vệ thông tin cá nhân
+
+- Thiết lập hệ thống quản trị an toàn thông tin toàn diện, thống nhất, tuân thủ các quy định của Việt Nam và tiêu chuẩn quốc tế về an toàn thông tin (xây dựng và triển khai hệ thống giám sát an toàn thông tin mạng).
+
+5. Bảo đảm các nguồn lực triển khai xây dựng Chính phủ điện tử
+
+- Cân đối, ưu tiên bố trí kinh phí xây dựng Chính phủ điện tử theo hình thức thuê dịch vụ công nghệ thông tin trọn gói do các doanh nghiệp công nghệ thông tin cung cấp, sử dụng nguồn vốn ngân sách nhà nước theo quy định hiện hành, không sử dụng nguồn vốn vay ODA có điều kiện ràng buộc để triển khai xây dựng hệ thống Chính phủ điện tử.
+
+- Nghiên cứu, đề xuất giải pháp huy động nguồn lực (doanh nghiệp đầu tư, nhà nước thuê dịch vụ; hợp tác công tư (PPP); kinh phí sự nghiệp;...) để triển khai các dự án xây dựng Chính phủ điện tử, báo cáo cấp có thẩm quyền xem xét, quyết định.
+
+- Trình cấp có thẩm quyền bố trí hỗ trợ kinh phí thường xuyên để thực hiện các nhiệm vụ của các bộ, ngành, địa phương trong Đề án Cổng Dịch vụ công quốc gia.
+
+- Phối hợp với Bộ Thông tin và Truyền thông, Bộ Tư pháp trình Chính phủ về việc sử dụng một phần kinh phí từ Quỹ Dịch vụ viễn thông công ích Việt Nam cho việc phát triển Chính phủ điện tử.
+
+- Xây dựng Chương trình, tổ chức đào tạo, tập huấn cho các cán bộ, công chức, viên chức về Chính phủ điện tử, khai thác sử dụng các hệ thống thông tin, dịch vụ công trực tuyến mức độ 3, 4 và làm việc trên môi trường mạng.
+
+- Triển khai chương trình truyền thông để nâng cao nhận thức, thay đổi thói quen hành vi, tạo sự đồng thuận của người dân, doanh nghiệp về phát triển Chính phủ điện tử.
+
+6. Thiết lập cơ chế bảo đảm thực thi
+
+- Hàng năm rà soát, kiện toàn Ban Chỉ đạo xây dựng Chính phủ điện tử của Bộ Tài chính và Tổ công tác giúp việc Ủy viên Ủy ban Quốc gia về Chính phủ điện tử của Bộ Tài chính.
+
+- Xây dựng cơ chế theo dõi, đánh giá, giám sát, đôn đốc thực hiện và kịp thời báo cáo, xử lý các vướng mắc về thể chế, nguồn lực tài chính, giải pháp công nghệ và con người để đảm bảo thực thi hiệu quả mục tiêu xây dựng Chính phủ điện tử tại Bộ Tài chính
+
+III. Tổ chức thực hiện
+
+1. Thủ trưởng các đơn vị thuộc Bộ
+
+- Các đơn vị triển khai thực hiện các nhiệm vụ theo phân công tại Kế hoạch hành động. Trường hợp cần thiết, Thủ trưởng các đơn vị xem xét, Quyết định việc ban hành Kế hoạch hành động của đơn vị đảm bảo cụ thể hóa các nhiệm vụ thành các giải pháp, đề án, công việc, kết quả đầu ra và tiến độ hoàn thành các nhiệm vụ được giao.
+
+- Định kỳ hàng quý (trước ngày 20 của tháng cuối quý) và năm (trước ngày 15 tháng 12) báo cáo kết quả thực hiện nhiệm vụ được giao tại Kế hoạch hành động gửi Cục Tin học và Thống kê Tài chính, Văn phòng Bộ để tổng hợp trình Bộ báo cáo Chính phủ, Thủ tướng Chính phủ theo đúng quy định tại Nghị quyết số 17/NQ-CP .
+
+2. Văn phòng Bộ
+
+Theo dõi, đôn đốc, kiểm tra các đơn vị thuộc Bộ thực hiện các nhiệm vụ được giao tại Kế hoạch hành động, kịp thời báo cáo Bộ những khó khăn, vướng mắc trong quá trình thực hiện, đảm bảo hoàn thành các nhiệm vụ triển khai Chính phủ điện tử của Bộ Tài chính.
+
+3. Cục Tin học và Thống kê Tài chính
+
+Định kỳ hàng quý và năm tổng hợp báo cáo đánh giá tình hình triển khai và kết quả thực hiện Kế hoạch hành động của Bộ Tài chính triển khai một số nhiệm vụ, giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn 2019-2020, định hướng 2025 của Bộ Tài chính, trình Bộ phê duyệt gửi Văn phòng Chính phủ và Bộ Thông tin và Truyền thông để tổng hợp, báo cáo Thủ tướng Chính phủ.
+
+4. Cục Kế hoạch - Tài chính
+
+Chủ trì, phối hợp với các đơn vị thuộc Bộ cân đối, đảm bảo nguồn kinh phí thực hiện các mục tiêu, nhiệm vụ, giải pháp triển khai Kế hoạch hành động của Bộ Tài chính.
+
+5. Cổng Thông tin điện tử Bộ Tài chính, Thời báo Tài chính, Tạp chí Tài chính, các báo, tạp chí trong toàn ngành: có trách nhiệm thông tin tuyên truyền kịp thời các hoạt động của ngành về việc triển khai, thực hiện Kế hoạch hành động của Bộ Tài chính triển khai một số nhiệm vụ, giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn 2019-2020, định hướng 2025 của Bộ Tài chính./.
+
+PHỤ LỤC 01
+
+DANH MỤC NHIỆM VỤ BỘ TÀI CHÍNH CHỦ TRÌ TRIỂN KHAI MỘT SỐ NHIỆM VỤ, GIẢI PHÁP TRỌNG TÂM PHÁT TRIỂN CHÍNH PHỦ ĐIỆN TỬ GIAI ĐOẠN 2019-2020, ĐỊNH HƯỚNG 2025 (Ban hành kèm theo Quyết định số 844/QĐ-BTC ngày 21/05/2019 của Bộ trưởng Bộ Tài chính)
+
+| TT        | Nhiệm vụ, giải pháp                                                                                                                                                                                                                                                                                                                                                                   | Đơn vị chủ trì                                                                            | Đơn vị phối hợp                                                                                                   | Thời gian thực hiện, hoàn thành       | Ghi chú   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| 2019-2020 | 2021-2025                                                                                                                                                                                                                                                                                                                                                                             |                                                                                           |                                                                                                                   |                                       |           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| I         | XÂY DỰNG, HOÀN THIỆN THỂ CHẾ TẠO CƠ SỞ PHÁP LÝ ĐẦY ĐỦ, TOÀN DIỆN CHO VIỆC TRIỂN KHAI XÂY DỰNG, PHÁT TRIỂN CHÍNH PHỦ ĐIỆN TỬ                                                                                                                                                                                                                                                          |                                                                                           |                                                                                                                   |                                       |           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| 1         | Xây dựng Quyết định thay thế Quyết định số 2699/QĐ-BTC  ngày 10/11/2011 ban hành Quy chế quản lý đầu tư ứng dụng CNTT tại các cơ quan hành chính, đơn vị sự nghiệp thuộc Bộ Tài chính, Quyết định số 2738/QĐ-BTC ngày 22/12/2015 sửa đổi bổ sung Quyết định số 2699/QĐ-BTC  ngày 10/11/2011, đảm bảo hướng dẫn thống nhất về quản lý đầu tư ứng dụng CNTT theo quy định của Chính phủ | Cục THTK                                                                                  | Cục KHTC TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan                                                   | 2019                                  |           | Phụ thuộc tiến độ ban hành Nghị định thay thế Nghị định số 102/2009/NĐ-CP  ngày 06/11/2009 của Chính phủ về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước, Quyết định số 80/2014/QĐ-TTg  ngày 30/12/2014 của Thủ tướng Chính phủ quy định thí điểm về thuê dịch vụ công nghệ thông tin trong cơ quan nhà nước và các văn bản hướng dẫn (Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019)                                                                                                                   |
+
+| 2         | Văn bản hướng dẫn về quản lý, kết nối, chia sẻ dữ liệu trong ngành Tài chính (theo hướng dẫn Nghị định về quản lý, kết nối, chia sẻ dữ liệu, các văn bản hướng dẫn)                                                                                                                                                                                                                   | Cục THTK                                                                                  | Các đơn vị liên quan                                                                                              | Tháng 3/2020                          |           | Thực hiện theo hướng dẫn về Nghị định quản lý, kết nối, chia sẻ dữ liệu và các văn bản hướng dẫn (Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019)                                                                                                                                                                                                                                                                                                                                                                                            |
+
+| 3         | Triển khai Nghị định số 09/2019/NĐ-CP  ngày 24/01/2019 về chế độ báo cáo của cơ quan hành chính nhà nước (rà soát, cập nhật Quyết định số 171/QĐ-BTC; xây dựng chế độ báo cáo và tổ chức tập huấn)                                                                                                                                                                                    | Văn phòng Bộ                                                                              | Các đơn vị liên quan                                                                                              | 2019-2020                             | 2021-2025 | - Rà soát, cập nhật Quyết định 171/QĐ-BTC ngày 06/02/2018 phê duyệt danh mục chế độ báo cáo định kỳ thuộc phạm vi, chức năng quản lý của Bộ Tài chính - Xây dựng chế độ báo cáo tại Bộ Tài chính - Tổ chức tập huấn, triển khai cho các đối tượng thực hiện báo cáo (Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019)                                                                                                                                                                                                                         |
+
+| 4         | Văn bản hướng dẫn về thực hiện thủ tục hành chính trên môi trường điện tử trong ngành Tài chính                                                                                                                                                                                                                                                                                       | Văn phòng Bộ                                                                              | Cục THTK và các đơn vị liên quan                                                                                  | Tháng 6/2020                          |           | Thực hiện theo Nghị định về thực hiện thủ tục hành chính trên môi trường điện tử và các văn bản hướng dẫn (Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019)                                                                                                                                                                                                                                                                                                                                                                                   |
+
+| 5         | Văn bản hướng dẫn thực hiện tuân thủ Kiến trúc Chính phủ điện tử ngành Tài chính được ban hành tại Quyết định số 2445/QĐ-BTC  ngày 28/12/2018 và Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính được ban hành tại Quyết định số 585/QĐ-BTC ngày 03/4/2019                                                                                                                              | Cục THTK                                                                                  | Các đơn vị liên quan                                                                                              | Tháng 6/2019                          | 2021-2025 | Nhiệm vụ tại QĐ số 2445/QĐ-BTC  ngày 28/12/2018 và QĐ số 585/QĐ-BTC ngày 03/4/2019                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+| 6         | Xây dựng các văn bản hướng dẫn về định danh và xác thực điện tử cho cá nhân, tổ chức trong lĩnh vực Tài chính                                                                                                                                                                                                                                                                         | Cục THTK                                                                                  | Các đơn vị liên quan                                                                                              | 2020                                  | 2021-2025 | Thực hiện theo Nghị định và các văn bản hướng dẫn của Chính phủ về mã định danh điện tử của các cơ quan, tổ chức thống nhất theo tiêu chuẩn quốc tế phục vụ kết nối, chia sẻ dữ liệu của tất cả các hệ thống thông tin, cơ sở dữ liệu của các bộ, ngành, địa phương (Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019)                                                                                                                                                                                                                         |
+
+| 7         | Quy chế về sử dụng quản lý, vận hành khai thác CSDL quốc gia về Tài chính (CSDL tổng hợp về tài chính)                                                                                                                                                                                                                                                                                | Cục THTK                                                                                  | Các đơn vị liên quan                                                                                              |                                       | 2022-2025 | Thực hiện theo Đề án Cơ sở dữ liệu quốc gia về Tài chính                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+| 8         | Cập nhật, sửa đổi bổ sung quy định tiêu chuẩn về ứng dụng công nghệ thông tin trong các cơ quan hành chính, đơn vị sự nghiệp thuộc Bộ Tài chính                                                                                                                                                                                                                                       | Cục THTK                                                                                  | Các đơn vị liên quan                                                                                              | 2019                                  | 2021-2025 | Thực hiện 3 năm /1 lần Đảm bảo tuân thủ các quy định của Kiến trúc CTĐT, Kiến trúc CSDL và các quy định của Bộ TTTT (Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019)                                                                                                                                                                                                                                                                                                                                                                         |
+
+| 9         | Quy định về việc sử dụng dịch vụ điện toán đám mây ngành Tài chính                                                                                                                                                                                                                                                                                                                    | Cục THTK                                                                                  | Các đơn vị liên quan                                                                                              |                                       | 2021-2025 | Sau khi môi trường điện toán đám mây ngành Tài chính đi vào hoạt động. (Nhiệm vụ tại QĐ số 2445/QĐ-BTC ngày 28/12/2018)                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
+| 10        | Nghiên cứu, xây dựng Đề án đổi mới quy trình, nghiệp vụ ngành tài chính phù hợp với mô hình kinh tế số                                                                                                                                                                                                                                                                                | Viện Chiến lược và Chính sách tài chính                                                   | TCT, TCHQ KBNN, UBCKNN, Vụ TCCB, Văn phòng Bộ và các đơn vị liên quan                                             |                                       | 2021-2025 | Thực hiện trong giai đoạn 2021-2025 khi có Nghị định thay thế nghị định số 87/2017/NĐ-CP  của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính (Nhiệm vụ tại QĐ số 2445/QĐ-BTC  ngày 28/12/2018)                                                                                                                                                                                                                                                                                                     |
+
+| 11        | Văn bản hướng dẫn Nghị định số 165/2018/NĐ-CP  về giao dịch điện tử trong Lĩnh vực tài chính trong lĩnh vực thuế và chứng khoán                                                                                                                                                                                                                                                       | TCT, UBCKNN                                                                               | Các đơn vị liên quan                                                                                              | 2019                                  |           | Nhiệm vụ tại QĐ số 2445/QĐ-BTC  ngày 28/12/2018                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| 11.1      | Văn bản hướng dẫn Nghị định số 165/2018/NĐ-CP  về giao dịch điện tử trong Lĩnh vực Thuế                                                                                                                                                                                                                                                                                               | TCT                                                                                       | Các đơn vị liên quan                                                                                              | 2019                                  |           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| 11.2      | Văn bản hướng dẫn Nghị định số 165/2018/NĐ-CP  về giao dịch điện tử trong Lĩnh vực chứng khoán                                                                                                                                                                                                                                                                                        | UBCKNN                                                                                    | Các đơn vị liên quan                                                                                              | 2019                                  |           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| 12        | Rà soát, cập nhật quy chế an toàn thông tin mạng phù hợp với môi trường ứng dụng tài chính số                                                                                                                                                                                                                                                                                         | Cục THTK                                                                                  | Các đơn vị liên quan                                                                                              | Hàng năm                              |           | Nhiệm vụ tại QĐ số 2445/QĐ-BTC  ngày 28/12/2018                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| 13        | Quy chế tiếp nhận, xử lý, phát hành và quản lý văn bản điện tử tại Bộ Tài chính                                                                                                                                                                                                                                                                                                       | Văn phòng Bộ                                                                              | Cục THTK và các đơn vị liên quan                                                                                  | 2019                                  |           | Hoàn thành đã ban hành tại Quyết định số 456/QĐ-BTC ngày 02/4/2019 ban hành Quy chế tiếp nhận, xử lý, phát hành và quản lý văn bản điện tử tại Bộ Tài chính                                                                                                                                                                                                                                                                                                                                                                              |
+
+| 14        | Rà soát, ban hành quy trình nội bộ đối với việc giải quyết thủ tục hành chính trong từng lĩnh vực                                                                                                                                                                                                                                                                                     | Các đơn vị thuộc Bộ Tài chính                                                             | Cục THTK                                                                                                          | Tháng 6/2019 và cập nhật thường xuyên |           | Nhiệm vụ tại QĐ số 274/QĐ-TTg  ngày 12/3/2019 và tách thành 2 nhiệm vụ theo như QĐ số 1720/QĐ-BTC ngày 01/10/2018                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+| 15        | Xây dựng ban hành quy trình điện tử về việc tiếp nhận, giải quyết từng thủ tục hành chính qua dịch vụ công trực tuyến cấp độ 3, 4 trên hệ thống dịch vụ công trực tuyến của Bộ Tài chính                                                                                                                                                                                              | Cục THTK                                                                                  | TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan                                                            | Tháng 6/2019                          |           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| 16        | Xây dựng quy chế về triển khai, thực hiện cơ chế một cửa, một cửa liên thông tại Bộ Tài chính                                                                                                                                                                                                                                                                                         | Vãn phòng Bộ                                                                              | TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan                                                            | 2019                                  |           | Hoàn thành đã ban hành tại Quyết định số 2460/QĐ-BTC ngày 28/12/2018 ban hành Quy chế thực hiện cơ chế một cửa trong giải quyết TTHC tại Bộ Tài chính                                                                                                                                                                                                                                                                                                                                                                                    |
+
+| 17        | Sửa đổi, bổ sung các văn bản QPPL có liên quan để đảm bảo cơ sở pháp lý triển khai cung cấp DVCTT mức độ 3, 4 trong từng lĩnh vực theo QĐ số 2204/QĐ-BTC  ngày 21/11/2018                                                                                                                                                                                                             | Các đơn vị thuộc Bộ Tài chính                                                             | Cục THTK                                                                                                          | Năm 2019 và cập nhật thường xuyên     |           | Nhiệm vụ tại Quyết định số 2204/QĐ-BTC  ngày 21/11/2018                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
+| 18        | Quy chế quản lý và sử dụng chữ ký số, chứng thư số tại Bộ Tài chính                                                                                                                                                                                                                                                                                                                   | Văn phòng Bộ                                                                              | Cục THTK                                                                                                          | Quý III/2019                          |           | Nhiệm vụ tại QĐ số 2445/QĐ-BTC  ngày 28/12/2018                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| 19        | Xây dựng Kế hoạch ứng dụng chữ ký số và lộ trình sử dụng văn bản điện tử tiến tới thay thế cho văn bản giấy trong điều hành, xử lý công việc                                                                                                                                                                                                                                          | Văn phòng Bộ                                                                              | Cục THTK                                                                                                          | Quý II/2019                           |           | Nhiệm vụ tại QĐ số 2445/QĐ-BTC  ngày 28/12/2018                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| II        | XÂY DỰNG NỀN TẢNG CÔNG NGHỆ PHÁT TRIỂN CHÍNH PHỦ ĐIỆN TỬ                                                                                                                                                                                                                                                                                                                              |                                                                                           |                                                                                                                   |                                       |           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| 1         | Cập nhật và tổ chức triển khai Kiến trúc Chính phủ điện tử ngành Tài chính phù hợp với Khung Kiến trúc Chính phủ điện tử Việt Nam (phiên bản 2.0) và Kiến trúc Tổng thể Chính phủ điện tử giai đoạn 2019-2025                                                                                                                                                                         | Cục THTK                                                                                  | TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan                                                            | 2019-2020                             | 2021-2025 | Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| 2         | Kết nối, liên thông các hệ thống thông tin, cơ sở dữ liệu của bộ trong việc gửi, nhận văn bản điện tử, dịch vụ công trực tuyến, thông tin báo cáo, dữ liệu phục vụ chỉ đạo, điều hành, thủ tục hành chính, công báo điện tử... với nền tảng tích hợp, chia sẻ dữ liệu quốc gia                                                                                                        | Cục THTK                                                                                  | Các đơn vị liên quan                                                                                              | 2019-2020                             | 2021-2025 | Thực hiện theo hướng dẫn của Chính phủ (Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019)                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+| 2.1       | Nâng cấp trục tích hợp liên thông văn bản điện tử ngành Tài chính làm nền tảng tích hợp, chia sẻ dữ liệu giữa ngành Tài chính với các đơn vị ngoài ngành Tài chính                                                                                                                                                                                                                    | Cục THTK                                                                                  | Các đơn vị liên quan                                                                                              | 2019-2020                             | 2021-2025 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| 2.2       | Duy trì, nâng cấp các hệ thống liên thông, trao đổi dữ liệu hiện có làm nền tảng tích hợp, trao đổi thông tin, dữ liệu giữa các đơn vị trong nội bộ ngành Tài chính                                                                                                                                                                                                                   | Cục THTK                                                                                  | TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan                                                            | 2019-2020                             | 2021-2025 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| 3         | Xây dựng Cơ sở dữ liệu quốc gia về Tài chính                                                                                                                                                                                                                                                                                                                                          | Ban chỉ đạo thực hiện Đề án Cơ sở dữ liệu quốc gia về tài chính                           | Cục THTK, TCT, KBNN, TCHQ, TCDTNN, UBCKNN, Cục QLCS, Cục GSBH, Cục QLG, Cục QLN, Cục TCDN và các đơn vị liên quan | 2016-2022                             | 2023-2025 | Hoàn thành các mục tiêu, nhiệm vụ, giải pháp và Kế hoạch triển khai Đề án Xây dựng Cơ sở dữ liệu quốc gia về Tài chính được Bộ trưởng Bộ Tài chính phê duyệt tại Quyết định số 2376/QĐ-BTC ngày 01/11/2016; Quyết định số 2575/QĐ-BTC  ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.                                                                                                                  |
+
+| 3.1       | Ban hành Kiến trúc cơ sở dữ liệu quốc gia về tài chính                                                                                                                                                                                                                                                                                                                                | Cục THTK                                                                                  | TCT, KBNN, TCHQ, TCDTNN, UBCKNN, Cục QLCS, Cục GSBH, Cục QLG, Cục QLN, Cục TCDN và các đơn vị có liên quan        | Hoàn thành                            |           | Quyết định số 585/QĐ-BTC ngày 03/4/2019 ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| 3.2       | Triển khai thực hiện dự án xây dựng cơ sở dữ liệu tổng hợp về Tài chính                                                                                                                                                                                                                                                                                                               | Cục THTK                                                                                  | TCT, KBNN, TCHQ, TCDTNN, UBCKNN, Cục QLCS, Cục GSBH, Cục QLG, Cục QLN, Cục TCDN và các đơn vị liên quan           | 2019-2022                             | 2023-2025 | Triển khai thực hiện dự án xây dựng CSDL tổng hợp về Tài chính theo các nội dung đã được phê duyệt trong Đề án Xây dựng Cơ sở dữ liệu quốc gia về Tài chính được Bộ trưởng Bộ Tài chính phê duyệt tại Quyết định số 2376/QĐ-BTC ngày 01/11/2016; Quyết định số 2575/QĐ-BTC  ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính được Lãnh đạo Bộ phê duyệt và Quyết định số 585/QĐ-BTC ngày 03/4/2019 ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính. |
+
+| 3.3       | Hoàn thiện xây dựng các Cơ sở dữ liệu chuyên ngành của Bộ Tài chính                                                                                                                                                                                                                                                                                                                   |                                                                                           |                                                                                                                   |                                       |           | Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| 3.3.1     | Xây dựng cơ sở dữ liệu chuyên ngành quản lý Thuế (nâng cấp kiến trúc kho cơ sở dữ liệu ngành Thuế và hệ thống khai thác dữ liệu, tổng hợp báo cáo phục vụ công tác quản lý thuế).                                                                                                                                                                                                     | TCT                                                                                       | Cục THTK và Các đơn vị có liên quan                                                                               | Tháng 12/2019                         |           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| 3.3.2     | Xây dựng cơ sở dữ liệu chuyên ngành quản lý Hải quan (xây dựng hệ thống thông tin hỗ trợ ra quyết định nghiệp vụ hải quan).                                                                                                                                                                                                                                                           | TCHQ                                                                                      | Cục THTK và Các đơn vị có liên quan                                                                               | Tháng 12/2019                         |           | Đã hoàn thành và tiếp tục rà soát, đề xuất nâng cấp, cập nhật để hoàn thiện theo quy định của Chính phủ                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
+| 3.3.3     | Xây dựng cơ sở dữ liệu chuyên ngành quản lý Kho bạc (nâng cấp và triển khai kho dữ liệu và công cụ thống kê, phân tích nghiệp vụ).                                                                                                                                                                                                                                                    | KBNN                                                                                      | Cục THTK và Các đơn vị có liên quan                                                                               | Tháng 12/2019                         |           | Đã hoàn thành và tiếp tục rà soát, đề xuất nâng cấp, cập nhật để hoàn thiện theo quy định của Chính phủ                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
+| 3.3.4     | Xây dựng CSDL chuyên ngành quản lý thu-chi NSNN (Nâng cấp kho dữ liệu thu-chi NSNN)                                                                                                                                                                                                                                                                                                   | Cục THTK                                                                                  | Các đơn vị liên quan                                                                                              |                                       |           | Đã hoàn thành và tiếp tục rà soát, đề xuất nâng cấp, cập nhật để hoàn thiện theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.                                                                                                                                                    |
+
+| 3.3.5     | Xây dựng cơ sở dữ liệu chuyên ngành quản lý Chứng khoán (xây dựng hệ thống trao đổi và tích hợp các cơ sở dữ liệu của Ủy ban chứng khoán Nhà nước).                                                                                                                                                                                                                                   | UBCKNN                                                                                    | Cục THTK và các đơn vị liên quan.                                                                                 |                                       |           | Đã hoàn thành và tiếp tục rà soát, đề xuất nâng cấp, cập nhật để hoàn thiện theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC  ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.                                                                                                                                                   |
+
+| 3.3.6     | Xây dựng cơ sở dữ liệu chuyên ngành quản lý Dự trữ nhà nước                                                                                                                                                                                                                                                                                                                           | TCDTNN                                                                                    | Cục THTK và các đơn vị liên quan.                                                                                 | 2019-2021                             |           | Hoàn thiện theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC  ngày 15/12/2017 bàn hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính được Lãnh đạo Bộ phê duyệt và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.                                                                                                                                        |
+
+| 3.3.7     | Xây dựng cơ sở dữ liệu chuyên ngành quản lý Giá (cơ sở dữ liệu quốc gia về Giá giai đoạn 2).                                                                                                                                                                                                                                                                                          | Cục THTK                                                                                  | Cục QLG (chủ trì về mặt nghiệp vụ) và các đơn vị liên quan.                                                       | 2019-2022                             |           | Đã hoàn thành CSDL quốc gia về giá giai đoạn 1 và tiếp tục nâng cấp xây dựng CSDL quốc gia về giá giai đoạn 2 theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC  ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.                                                                                                                 |
+
+| 3.3.8     | Xây dựng cơ sở dữ liệu chuyên ngành quản lý Bảo hiểm (hệ thống thông tin quản lý và giám sát hoạt động kinh doanh bảo hiểm).                                                                                                                                                                                                                                                          | Cục QLGSBH                                                                                | Cục THTK và các đơn vị liên quan.                                                                                 | 2018-2020                             |           | Hoàn thiện CSDL chuyên ngành quản lý Bảo hiểm theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC  ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.                                                                                                                                                                                 |
+
+| 3.3.9     | Xây dựng cơ sở dữ liệu chuyên ngành quản lý Nợ công (triển khai Hệ thống phân tích tài chính và quản lý nợ phiên bản 6.0- DMFAS 6.0).                                                                                                                                                                                                                                                 | Cục QLN                                                                                   | Cục THTK và các đơn vị liên quan.                                                                                 | 2019-2021                             |           | Thực hiện nội dung nhiệm vụ nâng cấp Hệ thống phân tích tài chính và quản lý nợ lên phiên bản 6.0-DMFAS 6.0 theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC  ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.                                                                                                                   |
+
+| 3.3.10    | Xây dựng cơ sở dữ liệu chuyên ngành quản lý Tài sản công (nâng cấp cơ sở dữ liệu quốc gia về tài sản công).                                                                                                                                                                                                                                                                           | Cục QLCS                                                                                  | Cục THTK và các đơn vị liên quan.                                                                                 | 2018-2020                             |           | Thực hiện nội dung nâng cấp, hoàn thiện Cơ sở dữ liệu quốc gia về công sản theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.                                                                                                                                                     |
+
+| 3.3.11    | Xây dựng cơ sở dữ liệu chuyên ngành quản lý, giám sát vốn nhà nước tại doanh nghiệp (Hệ thống thông tin quản lý, giám sát vốn nhà nước tại doanh nghiệp).                                                                                                                                                                                                                             | Cục TCDN                                                                                  | Cục THTK và các đơn vị liên quan.                                                                                 | 2017-2020                             |           | Xây dựng cơ sở dữ liệu chuyên ngành quản lý, giám sát vốn nhà nước tại doanh nghiệp (Hệ thống thông tin quản lý, giám sát vốn nhà nước tại doanh nghiệp) theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC  ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.                                                                      |
+
+| 3.3.12    | Xây dựng cơ sở dữ liệu danh mục điện tử dùng chung ngành Tài chính.                                                                                                                                                                                                                                                                                                                   | Cục THTK                                                                                  | TCT, KBNN, TCHQ, TCDTNN, UBCKNN, Cục QLCS, Cục GSBH, Cục QLG, Cục QLN, Cục TCDN và các đơn vị liên quan           | 2018-2021                             |           | Thực hiện nội dung nâng cấp, hoàn thiện Hệ thống danh mục điện tử dùng chung trong lĩnh vực tài chính theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC  ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.                                                                                                                         |
+
+| 3.4       | Hoàn thành xây dựng các cơ sở dữ liệu chuyên ngành thuộc cơ sở dữ liệu quốc gia về Tài chính, chia sẻ dữ liệu với các hệ thống thông tin, cơ sở dữ liệu của các bộ, ngành, địa phương                                                                                                                                                                                                 | Cục THTK, TCT, KBNN, TCHQ, TCDTNN, UBCKNN, Cục QLCS, Cục GSBH, Cục QLG, Cục QLN, Cục TCDN | Các đơn vị liên quan                                                                                              |                                       | 2021-2025 | Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| 3.5       | Kết nối Cổng thông tin một cửa quốc gia với Cổng Dịch vụ công quốc gia                                                                                                                                                                                                                                                                                                                | TCHQ                                                                                      | Các đơn vị liên quan                                                                                              | 2019-2020                             |           | Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| 4         | Nghiên cứu xây dựng, triển khai đám mây ngành Tài chính (MoF Cloud) ở mức hạ tầng đảm bảo tính hiệu quả và an toàn thông tin toàn diện.                                                                                                                                                                                                                                               | Cục THTK                                                                                  | Các đơn vị liên quan                                                                                              | 2019                                  | 2021-2025 | Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| 5         | Xây dựng Hệ thống quản lý định danh ngành Tài chính                                                                                                                                                                                                                                                                                                                                   | Cục THTK                                                                                  | TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan                                                            | 2020                                  | 2021-2025 | Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| III       | XÂY DỰNG, PHÁT TRIỂN CHÍNH PHỦ ĐIỆN TỬ ĐẢM BẢO GẮN KẾT CHẶT CHẼ GIỮA ỨNG DỤNG CÔNG NGHỆ THÔNG TIN VỚI CẢI CÁCH HÀNH CHÍNH, ĐỔI MỚI LỀ LỐI, PHƯƠNG THỨC LÀM VIỆC PHỤC VỤ NGƯỜI DÂN VÀ DOANH NGHIỆP, THỰC HIỆN CHUYỂN ĐỔI SỐ QUỐC GIA HƯỚNG TỚI CHÍNH PHỦ SỐ, NỀN KINH TẾ SỐ VÀ XÃ HỘI SỐ                                                                                               |                                                                                           |                                                                                                                   |                                       |           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| 1         | Nâng cấp Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử Bộ Tài chính                                                                                                                                                                                                                                                                                                         | Cục THTK                                                                                  | Văn phòng Bộ và Các đơn vị liên quan                                                                              | 2019-2020                             | 2021-2025 | Nhiệm vụ tại QĐ 1720/QĐ-BTC; Quyết định số 274/QĐ-TTg                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+| 2         | Xây dựng hệ thống báo cáo điện tử tích hợp toàn ngành Tài chính kết nối với Hệ thống thông tin báo cáo Chính phủ                                                                                                                                                                                                                                                                      | Cục THTK                                                                                  | Văn phòng Bộ và Các đơn vị liên quan                                                                              | 2019-2020                             | 2021-2025 | Theo hướng dẫn của Văn phòng Chính phủ (Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019)                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+| 3         | Nghiên cứu, đề xuất, xây dựng và triển khai Hệ thống thông tin Ngân sách và Kế toán nhà nước số                                                                                                                                                                                                                                                                                       | KBNN                                                                                      | Các đơn vị liên quan                                                                                              | 2019-2020                             | 2021-2025 | Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| 4         | Triển khai phần mềm quản lý hồ sơ lưu trữ phục vụ công tác quản lý hồ sơ điện tử tại các đơn vị trong toàn ngành Tài chính và thực hiện số hóa các hồ sơ tài liệu có giá trị vĩnh viễn đã được chỉnh lý; kết nối với chương trình quản lý văn bản điều hành để tiếp nhận các hồ sơ công việc điện tử                                                                                  | Các đơn vị thuộc Bộ Tài chính                                                             | Các đơn vị liên quan                                                                                              | 2019-2020                             | 2021-2025 | (Nhiệm vụ tại Quyết định số 1824/QĐ-BTC  ngày 05/10/2018)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+
+| 5         | Hoàn thiện, chuẩn hóa, tích hợp các dịch vụ công trực tuyến mức độ 3, 4 (Kê khai hóa đơn qua mạng, Khai thuế qua mạng)                                                                                                                                                                                                                                                                | TCT, TCHQ                                                                                 | Cục THTK và các đơn vị liên quan                                                                                  | 2019-2020                             |           | Nhiệm vụ tại QĐ số 274/QĐ-TTg  ngày 12/3/2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+
+| 6         | Xây dựng Bộ câu hỏi/trả lời về những vấn đề thường gặp trong quá trình giải quyết các thủ tục hành chính trong từng lĩnh vực và công khai trên Cổng Dịch vụ công của bộ, ngành, địa phương và tích hợp trên Cổng Dịch vụ công quốc gia.                                                                                                                                               | Cục THTK, TCT, TCHQ KBNN, UBCKNN, TCDTNN                                                  | Các đơn vị liên quan                                                                                              | 2019                                  |           | Nhiệm vụ tại QĐ số 274/QĐ-TTg  ngày 12/3/2019. Bộ câu hỏi/trả lời của Bộ Tài chính gồm tối thiểu 500 câu hỏi/trả lời.                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+| 7         | Triển khai cung cấp dịch vụ công trực tuyến mức độ 3, 4 theo Quyết định số 2204/QĐ-BTC  ngày 21/11/2018                                                                                                                                                                                                                                                                               | Cục THTK, TCT, TCHQ KBNN, UBCKNN, TCDTNN                                                  | Các đơn vị liên quan                                                                                              | 2019-2020                             |           | Nhiệm vụ tại QĐ số 2204/QĐ-BTC  ngày 21/11/2018                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| IV        | XÂY DỰNG CHÍNH PHỦ ĐIỆN TỬ ĐẢM BẢO GẮN KẾT CHẶT CHẼ VỚI ĐẢM BẢO AN TOÀN THÔNG TIN, AN NINH MẠNG, AN NINH QUỐC GIA, BẢO VỆ THÔNG TIN CÁ NHÂN                                                                                                                                                                                                                                           |                                                                                           |                                                                                                                   |                                       |           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| 1         | Xây dựng và triển khai hệ thống giám sát an toàn thông tin mạng                                                                                                                                                                                                                                                                                                                       | Cục THTK TCT, TCHQ KBNN, UBCKNN, TCDTNN                                                   | Các đơn vị liên quan                                                                                              | 2018-2020                             | 2021-2025 | Từng đơn vị chủ động rà soát, nâng cấp đảm bảo an toàn thông tin phù hợp với từng giai đoạn phát triển (Nhiệm vụ tại QĐ số 2445/QĐ-BTC  ngày 28/12/2018)                                                                                                                                                                                                                                                                                                                                                                                 |
+
+| V         | BẢO ĐẢM CÁC NGUỒN LỰC TRIỂN KHAI XÂY DỰNG CHÍNH PHỦ ĐIỆN TỬ                                                                                                                                                                                                                                                                                                                           |                                                                                           |                                                                                                                   |                                       |           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| 1         | Cân đối ưu tiên bố trí kinh phí xây dựng Chính phủ điện tử theo hình thức thuê dịch vụ công nghệ thông tin trọn gói do các doanh nghiệp công nghệ thông tin cung cấp, sử dụng nguồn vốn ngân sách nhà nước theo quy định hiện hành, không sử dụng nguồn vốn vay ODA có điều kiện ràng buộc để triển khai xây dựng hệ thống Chính phủ điện tử.                                         | Cục KHTC                                                                                  | Cục THTK, TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan                                                  | Hàng năm                              |           | Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| 2         | Nghiên cứu, đề xuất giải pháp huy động nguồn lực (doanh nghiệp đầu tư, nhà nước thuê dịch vụ; hợp tác công tư (PPP); kinh phí sự nghiệp;...) để triển khai các dự án xây dựng Chính phủ điện tử, báo cáo Thủ tướng Chính phủ xem xét, quyết định.                                                                                                                                     | Vụ HCSN                                                                                   | Vụ NSNN Vụ Đầu tư và các đơn vị liên quan                                                                         | Tháng 6/2019                          |           | Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| 3         | Trình cấp có thẩm quyền bố trí hỗ trợ kinh phí thường xuyên để thực hiện các nhiệm vụ của các bộ, ngành, địa phương trong Đề án Cổng Dịch vụ công quốc gia                                                                                                                                                                                                                            | Vụ HCSN                                                                                   | Vụ NSNN Vụ Đầu tư và các đơn vị liên quan                                                                         | 2019-2020                             |           | Nhiệm vụ tại QĐ số 274/QĐ-TTg  ngày 12/3/2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+
+| 4         | Xây dựng Chương trình, tổ chức đào tạo, tập huấn cho các cán bộ, công chức, viên chức về Chính phủ điện tử, khai thác sử dụng các hệ thống thông tin, quản trị dữ liệu, dịch vụ công trực tuyến mức độ 3, 4 và làm việc trên môi trường mạng                                                                                                                                          | Cục THTK                                                                                  | Vụ TCCB và các cơ quan, đơn vị thuộc Bộ Tài chính                                                                 | Hàng năm                              |           | Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| 5         | Triển khai chương trình truyền thông để nâng cao nhận thức, thay đổi thói quen hành vi, tạo sự đồng thuận của người dân, doanh nghiệp về phát triển Chính phủ điện tử                                                                                                                                                                                                                 | Văn phòng Bộ                                                                              | Cục THTK và các cơ quan, đơn vị thuộc Bộ Tài chính                                                                | Hàng năm                              |           | Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| VI        | THIẾT LẬP CƠ CHẾ ĐẢM BẢO THỰC THI                                                                                                                                                                                                                                                                                                                                                     |                                                                                           |                                                                                                                   |                                       |           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| 1         | Thành lập Ban Chỉ đạo xây dựng Chính phủ điện tử của Bộ Tài chính và thành lập Tổ công tác giúp việc Ủy viên Ủy ban Quốc gia về Chính phủ điện tử của Bộ Tài chính                                                                                                                                                                                                                    | Vụ TCCB, Cục THTK                                                                         | Các đơn vị liên quan                                                                                              |                                       |           | Bộ Tài chính đã thành lập Ban Chỉ đạo xây dựng Chính phủ điện tử của Bộ Tài chính và thành lập Tổ công tác giúp việc Ủy viên Ủy ban Quốc gia về Chính phủ điện tử của Bộ Tài chính tại Quyết định số 2064/QĐ-BTC  và Quyết định số 2065/QĐ-BTC  ngày 12/11/2018                                                                                                                                                                                                                                                                          |
+
+| 2         | Rà soát, kiện toàn Ban Chỉ đạo xây dựng Chính phủ điện tử của Bộ Tài chính và thành lập Tổ công tác giúp việc Ủy viên Ủy ban Quốc gia về Chính phủ điện tử của Bộ Tài chính                                                                                                                                                                                                           | Vụ TCCB, Cục THTK                                                                         | Các đơn vị liên quan                                                                                              | Tháng 5/2019                          | 2021-2025 | Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| 3         | Xây dựng cơ chế theo dõi, đánh giá, giám sát, đôn đốc thực hiện và kịp thời báo cáo, xử lý các vướng mắc về thể chế, nguồn lực tài chính, giải pháp công nghệ và con người để đảm bảo thực thi hiệu quả mục tiêu xây dựng Chính phủ điện tử tại Bộ Tài chính                                                                                                                          | Văn phòng Bộ                                                                              | Cục THTK và các cơ quan, đơn vị thuộc Bộ Tài chính                                                                | 2019                                  | 2021-2025 | Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+TT
+
+Nhiệm vụ, giải pháp
+
+Đơn vị chủ trì
+
+Đơn vị phối hợp
+
+Thời gian thực hiện, hoàn thành
+
+Ghi chú
+
+2019-2020
+
+2021-2025
+
+I
+
+XÂY DỰNG, HOÀN THIỆN THỂ CHẾ TẠO CƠ SỞ PHÁP LÝ ĐẦY ĐỦ, TOÀN DIỆN CHO VIỆC TRIỂN KHAI XÂY DỰNG, PHÁT TRIỂN CHÍNH PHỦ ĐIỆN TỬ
+
+1
+
+Xây dựng Quyết định thay thế Quyết định số 2699/QĐ-BTC ngày 10/11/2011 ban hành Quy chế quản lý đầu tư ứng dụng CNTT tại các cơ quan hành chính, đơn vị sự nghiệp thuộc Bộ Tài chính, Quyết định số 2738/QĐ-BTC ngày 22/12/2015 sửa đổi bổ sung Quyết định số 2699/QĐ-BTC ngày 10/11/2011, đảm bảo hướng dẫn thống nhất về quản lý đầu tư ứng dụng CNTT theo quy định của Chính phủ
+
+Cục THTK
+
+Cục KHTC TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan
+
+2019
+
+Phụ thuộc tiến độ ban hành Nghị định thay thế Nghị định số 102/2009/NĐ-CP ngày 06/11/2009 của Chính phủ về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước, Quyết định số 80/2014/QĐ-TTg ngày 30/12/2014 của Thủ tướng Chính phủ quy định thí điểm về thuê dịch vụ công nghệ thông tin trong cơ quan nhà nước và các văn bản hướng dẫn
+
+(Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019)
+
+2
+
+Văn bản hướng dẫn về quản lý, kết nối, chia sẻ dữ liệu trong ngành Tài chính (theo hướng dẫn Nghị định về quản lý, kết nối, chia sẻ dữ liệu, các văn bản hướng dẫn)
+
+Cục THTK
+
+Các đơn vị liên quan
+
+Tháng 3/2020
+
+Thực hiện theo hướng dẫn về Nghị định quản lý, kết nối, chia sẻ dữ liệu và các văn bản hướng dẫn
+
+(Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019)
+
+3
+
+Triển khai Nghị định số 09/2019/NĐ-CP ngày 24/01/2019 về chế độ báo cáo của cơ quan hành chính nhà nước (rà soát, cập nhật Quyết định số 171/QĐ-BTC; xây dựng chế độ báo cáo và tổ chức tập huấn)
+
+Văn phòng Bộ
+
+Các đơn vị liên quan
+
+2019-2020
+
+2021-2025
+
+- Rà soát, cập nhật Quyết định 171/QĐ-BTC ngày 06/02/2018 phê duyệt danh mục chế độ báo cáo định kỳ thuộc phạm vi, chức năng quản lý của Bộ Tài chính
+
+- Xây dựng chế độ báo cáo tại Bộ Tài chính
+
+- Tổ chức tập huấn, triển khai cho các đối tượng thực hiện báo cáo
+
+(Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019)
+
+4
+
+Văn bản hướng dẫn về thực hiện thủ tục hành chính trên môi trường điện tử trong ngành Tài chính
+
+Văn phòng Bộ
+
+Cục THTK và các đơn vị liên quan
+
+Tháng 6/2020
+
+Thực hiện theo Nghị định về thực hiện thủ tục hành chính trên môi trường điện tử và các văn bản hướng dẫn
+
+(Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019)
+
+5
+
+Văn bản hướng dẫn thực hiện tuân thủ Kiến trúc Chính phủ điện tử ngành Tài chính được ban hành tại Quyết định số 2445/QĐ-BTC ngày 28/12/2018 và Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính được ban hành tại Quyết định số 585/QĐ-BTC ngày 03/4/2019
+
+Cục THTK
+
+Các đơn vị liên quan
+
+Tháng 6/2019
+
+2021-2025
+
+Nhiệm vụ tại QĐ số 2445/QĐ-BTC ngày 28/12/2018 và QĐ số 585/QĐ-BTC ngày 03/4/2019
+
+6
+
+Xây dựng các văn bản hướng dẫn về định danh và xác thực điện tử cho cá nhân, tổ chức trong lĩnh vực Tài chính
+
+Cục THTK
+
+Các đơn vị liên quan
+
+2020
+
+2021-2025
+
+Thực hiện theo Nghị định và các văn bản hướng dẫn của Chính phủ về mã định danh điện tử của các cơ quan, tổ chức thống nhất theo tiêu chuẩn quốc tế phục vụ kết nối, chia sẻ dữ liệu của tất cả các hệ thống thông tin, cơ sở dữ liệu của các bộ, ngành, địa phương
+
+(Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019)
+
+7
+
+Quy chế về sử dụng quản lý, vận hành khai thác CSDL quốc gia về Tài chính (CSDL tổng hợp về tài chính)
+
+Cục THTK
+
+Các đơn vị liên quan
+
+2022-2025
+
+Thực hiện theo Đề án Cơ sở dữ liệu quốc gia về Tài chính
+
+8
+
+Cập nhật, sửa đổi bổ sung quy định tiêu chuẩn về ứng dụng công nghệ thông tin trong các cơ quan hành chính, đơn vị sự nghiệp thuộc Bộ Tài chính
+
+Cục THTK
+
+Các đơn vị liên quan
+
+2019
+
+2021-2025
+
+Thực hiện 3 năm /1 lần
+
+Đảm bảo tuân thủ các quy định của Kiến trúc CTĐT, Kiến trúc CSDL và các quy định của Bộ TTTT
+
+(Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019)
+
+9
+
+Quy định về việc sử dụng dịch vụ điện toán đám mây ngành Tài chính
+
+Cục THTK
+
+Các đơn vị liên quan
+
+2021-2025
+
+Sau khi môi trường điện toán đám mây ngành Tài chính đi vào hoạt động.
+
+(Nhiệm vụ tại QĐ số 2445/QĐ-BTC ngày 28/12/2018)
+
+10
+
+Nghiên cứu, xây dựng Đề án đổi mới quy trình, nghiệp vụ ngành tài chính phù hợp với mô hình kinh tế số
+
+Viện Chiến lược và Chính sách tài chính
+
+TCT, TCHQ KBNN, UBCKNN, Vụ TCCB, Văn phòng Bộ và các đơn vị liên quan
+
+2021-2025
+
+Thực hiện trong giai đoạn 2021-2025 khi có Nghị định thay thế nghị định số 87/2017/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính (Nhiệm vụ tại QĐ số 2445/QĐ-BTC ngày 28/12/2018)
+
+11
+
+Văn bản hướng dẫn Nghị định số 165/2018/NĐ-CP về giao dịch điện tử trong Lĩnh vực tài chính trong lĩnh vực thuế và chứng khoán
+
+TCT, UBCKNN
+
+Các đơn vị liên quan
+
+2019
+
+Nhiệm vụ tại QĐ số 2445/QĐ-BTC ngày 28/12/2018
+
+11.1
+
+Văn bản hướng dẫn Nghị định số 165/2018/NĐ-CP về giao dịch điện tử trong Lĩnh vực Thuế
+
+TCT
+
+Các đơn vị liên quan
+
+2019
+
+11.2
+
+Văn bản hướng dẫn Nghị định số 165/2018/NĐ-CP về giao dịch điện tử trong Lĩnh vực chứng khoán
+
+UBCKNN
+
+Các đơn vị liên quan
+
+2019
+
+12
+
+Rà soát, cập nhật quy chế an toàn thông tin mạng phù hợp với môi trường ứng dụng tài chính số
+
+Cục THTK
+
+Các đơn vị liên quan
+
+Hàng năm
+
+Nhiệm vụ tại QĐ số 2445/QĐ-BTC ngày 28/12/2018
+
+13
+
+Quy chế tiếp nhận, xử lý, phát hành và quản lý văn bản điện tử tại Bộ Tài chính
+
+Văn phòng Bộ
+
+Cục THTK và các đơn vị liên quan
+
+2019
+
+Hoàn thành đã ban hành tại Quyết định số 456/QĐ-BTC ngày 02/4/2019 ban hành Quy chế tiếp nhận, xử lý, phát hành và quản lý văn bản điện tử tại Bộ Tài chính
+
+14
+
+Rà soát, ban hành quy trình nội bộ đối với việc giải quyết thủ tục hành chính trong từng lĩnh vực
+
+Các đơn vị thuộc Bộ Tài chính
+
+Cục THTK
+
+Tháng 6/2019 và cập nhật thường xuyên
+
+Nhiệm vụ tại QĐ số 274/QĐ-TTg ngày 12/3/2019 và tách thành 2 nhiệm vụ theo như QĐ số 1720/QĐ-BTC ngày 01/10/2018
+
+15
+
+Xây dựng ban hành quy trình điện tử về việc tiếp nhận, giải quyết từng thủ tục hành chính qua dịch vụ công trực tuyến cấp độ 3, 4 trên hệ thống dịch vụ công trực tuyến của Bộ Tài chính
+
+Cục THTK
+
+TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan
+
+Tháng 6/2019
+
+16
+
+Xây dựng quy chế về triển khai, thực hiện cơ chế một cửa, một cửa liên thông tại Bộ Tài chính
+
+Vãn phòng Bộ
+
+TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan
+
+2019
+
+Hoàn thành đã ban hành tại Quyết định số 2460/QĐ-BTC ngày 28/12/2018 ban hành Quy chế thực hiện cơ chế một cửa trong giải quyết TTHC tại Bộ Tài chính
+
+17
+
+Sửa đổi, bổ sung các văn bản QPPL có liên quan để đảm bảo cơ sở pháp lý triển khai cung cấp DVCTT mức độ 3, 4 trong từng lĩnh vực theo QĐ số 2204/QĐ-BTC ngày 21/11/2018
+
+Các đơn vị thuộc Bộ Tài chính
+
+Cục THTK
+
+Năm 2019 và cập nhật thường xuyên
+
+Nhiệm vụ tại Quyết định số 2204/QĐ-BTC ngày 21/11/2018
+
+18
+
+Quy chế quản lý và sử dụng chữ ký số, chứng thư số tại Bộ Tài chính
+
+Văn phòng Bộ
+
+Cục THTK
+
+Quý III/2019
+
+Nhiệm vụ tại QĐ số 2445/QĐ-BTC ngày 28/12/2018
+
+19
+
+Xây dựng Kế hoạch ứng dụng chữ ký số và lộ trình sử dụng văn bản điện tử tiến tới thay thế cho văn bản giấy trong điều hành, xử lý công việc
+
+Văn phòng Bộ
+
+Cục THTK
+
+Quý II/2019
+
+Nhiệm vụ tại QĐ số 2445/QĐ-BTC ngày 28/12/2018
+
+II
+
+XÂY DỰNG NỀN TẢNG CÔNG NGHỆ PHÁT TRIỂN CHÍNH PHỦ ĐIỆN TỬ
+
+1
+
+Cập nhật và tổ chức triển khai Kiến trúc Chính phủ điện tử ngành Tài chính phù hợp với Khung Kiến trúc Chính phủ điện tử Việt Nam (phiên bản 2.0) và Kiến trúc Tổng thể Chính phủ điện tử giai đoạn 2019-2025
+
+Cục THTK
+
+TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan
+
+2019-2020
+
+2021-2025
+
+Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019
+
+2
+
+Kết nối, liên thông các hệ thống thông tin, cơ sở dữ liệu của bộ trong việc gửi, nhận văn bản điện tử, dịch vụ công trực tuyến, thông tin báo cáo, dữ liệu phục vụ chỉ đạo, điều hành, thủ tục hành chính, công báo điện tử... với nền tảng tích hợp, chia sẻ dữ liệu quốc gia
+
+Cục THTK
+
+Các đơn vị liên quan
+
+2019-2020
+
+2021-2025
+
+Thực hiện theo hướng dẫn của Chính phủ
+
+(Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019)
+
+2.1
+
+Nâng cấp trục tích hợp liên thông văn bản điện tử ngành Tài chính làm nền tảng tích hợp, chia sẻ dữ liệu giữa ngành Tài chính với các đơn vị ngoài ngành Tài chính
+
+Cục THTK
+
+Các đơn vị liên quan
+
+2019-2020
+
+2021-2025
+
+2.2
+
+Duy trì, nâng cấp các hệ thống liên thông, trao đổi dữ liệu hiện có làm nền tảng tích hợp, trao đổi thông tin, dữ liệu giữa các đơn vị trong nội bộ ngành Tài chính
+
+Cục THTK
+
+TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan
+
+2019-2020
+
+2021-2025
+
+3
+
+Xây dựng Cơ sở dữ liệu quốc gia về Tài chính
+
+Ban chỉ đạo thực hiện Đề án Cơ sở dữ liệu quốc gia về tài chính
+
+Cục THTK, TCT, KBNN, TCHQ, TCDTNN, UBCKNN, Cục QLCS, Cục GSBH, Cục QLG, Cục QLN, Cục TCDN và các đơn vị liên quan
+
+2016-2022
+
+2023-2025
+
+Hoàn thành các mục tiêu, nhiệm vụ, giải pháp và Kế hoạch triển khai Đề án Xây dựng Cơ sở dữ liệu quốc gia về Tài chính được Bộ trưởng Bộ Tài chính phê duyệt tại Quyết định số 2376/QĐ-BTC ngày 01/11/2016; Quyết định số 2575/QĐ-BTC ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.
+
+3.1
+
+Ban hành Kiến trúc cơ sở dữ liệu quốc gia về tài chính
+
+Cục THTK
+
+TCT, KBNN, TCHQ, TCDTNN, UBCKNN, Cục QLCS, Cục GSBH, Cục QLG, Cục QLN, Cục TCDN và các đơn vị có liên quan
+
+Hoàn thành
+
+Quyết định số 585/QĐ-BTC ngày 03/4/2019 ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.
+
+3.2
+
+Triển khai thực hiện dự án xây dựng cơ sở dữ liệu tổng hợp về Tài chính
+
+Cục THTK
+
+TCT, KBNN, TCHQ, TCDTNN, UBCKNN, Cục QLCS, Cục GSBH, Cục QLG, Cục QLN, Cục TCDN và các đơn vị liên quan
+
+2019-2022
+
+2023-2025
+
+Triển khai thực hiện dự án xây dựng CSDL tổng hợp về Tài chính theo các nội dung đã được phê duyệt trong Đề án Xây dựng Cơ sở dữ liệu quốc gia về Tài chính được Bộ trưởng Bộ Tài chính phê duyệt tại Quyết định số 2376/QĐ-BTC ngày 01/11/2016; Quyết định số 2575/QĐ-BTC ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính được Lãnh đạo Bộ phê duyệt và Quyết định số 585/QĐ-BTC ngày 03/4/2019 ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.
+
+3.3
+
+Hoàn thiện xây dựng các Cơ sở dữ liệu chuyên ngành của Bộ Tài chính
+
+Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019
+
+3.3.1
+
+Xây dựng cơ sở dữ liệu chuyên ngành quản lý Thuế (nâng cấp kiến trúc kho cơ sở dữ liệu ngành Thuế và hệ thống khai thác dữ liệu, tổng hợp báo cáo phục vụ công tác quản lý thuế).
+
+TCT
+
+Cục THTK và Các đơn vị có liên quan
+
+Tháng 12/2019
+
+3.3.2
+
+Xây dựng cơ sở dữ liệu chuyên ngành quản lý Hải quan (xây dựng hệ thống thông tin hỗ trợ ra quyết định nghiệp vụ hải quan).
+
+TCHQ
+
+Cục THTK và Các đơn vị có liên quan
+
+Tháng 12/2019
+
+Đã hoàn thành và tiếp tục rà soát, đề xuất nâng cấp, cập nhật để hoàn thiện theo quy định của Chính phủ
+
+3.3.3
+
+Xây dựng cơ sở dữ liệu chuyên ngành quản lý Kho bạc (nâng cấp và triển khai kho dữ liệu và công cụ thống kê, phân tích nghiệp vụ).
+
+KBNN
+
+Cục THTK và Các đơn vị có liên quan
+
+Tháng 12/2019
+
+Đã hoàn thành và tiếp tục rà soát, đề xuất nâng cấp, cập nhật để hoàn thiện theo quy định của Chính phủ
+
+3.3.4
+
+Xây dựng CSDL chuyên ngành quản lý thu-chi NSNN (Nâng cấp kho dữ liệu thu-chi NSNN)
+
+Cục THTK
+
+Các đơn vị liên quan
+
+Đã hoàn thành và tiếp tục rà soát, đề xuất nâng cấp, cập nhật để hoàn thiện theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.
+
+3.3.5
+
+Xây dựng cơ sở dữ liệu chuyên ngành quản lý Chứng khoán (xây dựng hệ thống trao đổi và tích hợp các cơ sở dữ liệu của Ủy ban chứng khoán Nhà nước).
+
+UBCKNN
+
+Cục THTK và các đơn vị liên quan.
+
+Đã hoàn thành và tiếp tục rà soát, đề xuất nâng cấp, cập nhật để hoàn thiện theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.
+
+3.3.6
+
+Xây dựng cơ sở dữ liệu chuyên ngành quản lý Dự trữ nhà nước
+
+TCDTNN
+
+Cục THTK và các đơn vị liên quan.
+
+2019-2021
+
+Hoàn thiện theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC ngày 15/12/2017 bàn hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính được Lãnh đạo Bộ phê duyệt và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.
+
+3.3.7
+
+Xây dựng cơ sở dữ liệu chuyên ngành quản lý Giá (cơ sở dữ liệu quốc gia về Giá giai đoạn 2).
+
+Cục THTK
+
+Cục QLG (chủ trì về mặt nghiệp vụ) và các đơn vị liên quan.
+
+2019-2022
+
+Đã hoàn thành CSDL quốc gia về giá giai đoạn 1 và tiếp tục nâng cấp xây dựng CSDL quốc gia về giá giai đoạn 2 theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.
+
+3.3.8
+
+Xây dựng cơ sở dữ liệu chuyên ngành quản lý Bảo hiểm (hệ thống thông tin quản lý và giám sát hoạt động kinh doanh bảo hiểm).
+
+Cục QLGSBH
+
+Cục THTK và các đơn vị liên quan.
+
+2018-2020
+
+Hoàn thiện CSDL chuyên ngành quản lý Bảo hiểm theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.
+
+3.3.9
+
+Xây dựng cơ sở dữ liệu chuyên ngành quản lý Nợ công (triển khai Hệ thống phân tích tài chính và quản lý nợ phiên bản 6.0- DMFAS 6.0).
+
+Cục QLN
+
+Cục THTK và các đơn vị liên quan.
+
+2019-2021
+
+Thực hiện nội dung nhiệm vụ nâng cấp Hệ thống phân tích tài chính và quản lý nợ lên phiên bản 6.0-DMFAS 6.0 theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.
+
+3.3.10
+
+Xây dựng cơ sở dữ liệu chuyên ngành quản lý Tài sản công (nâng cấp cơ sở dữ liệu quốc gia về tài sản công).
+
+Cục QLCS
+
+Cục THTK và các đơn vị liên quan.
+
+2018-2020
+
+Thực hiện nội dung nâng cấp, hoàn thiện Cơ sở dữ liệu quốc gia về công sản theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.
+
+3.3.11
+
+Xây dựng cơ sở dữ liệu chuyên ngành quản lý, giám sát vốn nhà nước tại doanh nghiệp (Hệ thống thông tin quản lý, giám sát vốn nhà nước tại doanh nghiệp).
+
+Cục TCDN
+
+Cục THTK và các đơn vị liên quan.
+
+2017-2020
+
+Xây dựng cơ sở dữ liệu chuyên ngành quản lý, giám sát vốn nhà nước tại doanh nghiệp (Hệ thống thông tin quản lý, giám sát vốn nhà nước tại doanh nghiệp) theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.
+
+3.3.12
+
+Xây dựng cơ sở dữ liệu danh mục điện tử dùng chung ngành Tài chính.
+
+Cục THTK
+
+TCT, KBNN, TCHQ, TCDTNN, UBCKNN, Cục QLCS, Cục GSBH, Cục QLG, Cục QLN, Cục TCDN và các đơn vị liên quan
+
+2018-2021
+
+Thực hiện nội dung nâng cấp, hoàn thiện Hệ thống danh mục điện tử dùng chung trong lĩnh vực tài chính theo quy định của Chính phủ, đáp ứng các nội dung theo quy định tại Quyết định số 2575/QĐ-BTC ngày 15/12/2017 ban hành danh mục Cơ sở dữ liệu chuyên ngành của Bộ Tài chính và Quyết định số 585/QĐ-BTC ngày 03/4/2019 của Bộ trưởng Bộ Tài chính ban hành Kiến trúc Cơ sở dữ liệu quốc gia về Tài chính.
+
+3.4
+
+Hoàn thành xây dựng các cơ sở dữ liệu chuyên ngành thuộc cơ sở dữ liệu quốc gia về Tài chính, chia sẻ dữ liệu với các hệ thống thông tin, cơ sở dữ liệu của các bộ, ngành, địa phương
+
+Cục THTK, TCT, KBNN, TCHQ, TCDTNN, UBCKNN, Cục QLCS, Cục GSBH, Cục QLG, Cục QLN, Cục TCDN
+
+Các đơn vị liên quan
+
+2021-2025
+
+Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019
+
+3.5
+
+Kết nối Cổng thông tin một cửa quốc gia với Cổng Dịch vụ công quốc gia
+
+TCHQ
+
+Các đơn vị liên quan
+
+2019-2020
+
+Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019
+
+4
+
+Nghiên cứu xây dựng, triển khai đám mây ngành Tài chính (MoF Cloud) ở mức hạ tầng đảm bảo tính hiệu quả và an toàn thông tin toàn diện.
+
+Cục THTK
+
+Các đơn vị liên quan
+
+2019
+
+2021-2025
+
+Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019
+
+5
+
+Xây dựng Hệ thống quản lý định danh ngành Tài chính
+
+Cục THTK
+
+TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan
+
+2020
+
+2021-2025
+
+Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019
+
+III
+
+XÂY DỰNG, PHÁT TRIỂN CHÍNH PHỦ ĐIỆN TỬ ĐẢM BẢO GẮN KẾT CHẶT CHẼ GIỮA ỨNG DỤNG CÔNG NGHỆ THÔNG TIN VỚI CẢI CÁCH HÀNH CHÍNH, ĐỔI MỚI LỀ LỐI, PHƯƠNG THỨC LÀM VIỆC PHỤC VỤ NGƯỜI DÂN VÀ DOANH NGHIỆP, THỰC HIỆN CHUYỂN ĐỔI SỐ QUỐC GIA HƯỚNG TỚI CHÍNH PHỦ SỐ, NỀN KINH TẾ SỐ VÀ XÃ HỘI SỐ
+
+1
+
+Nâng cấp Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử Bộ Tài chính
+
+Cục THTK
+
+Văn phòng Bộ và Các đơn vị liên quan
+
+2019-2020
+
+2021-2025
+
+Nhiệm vụ tại QĐ 1720/QĐ-BTC; Quyết định số 274/QĐ-TTg
+
+2
+
+Xây dựng hệ thống báo cáo điện tử tích hợp toàn ngành Tài chính kết nối với Hệ thống thông tin báo cáo Chính phủ
+
+Cục THTK
+
+Văn phòng Bộ và Các đơn vị liên quan
+
+2019-2020
+
+2021-2025
+
+Theo hướng dẫn của Văn phòng Chính phủ (Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019)
+
+3
+
+Nghiên cứu, đề xuất, xây dựng và triển khai Hệ thống thông tin Ngân sách và Kế toán nhà nước số
+
+KBNN
+
+Các đơn vị liên quan
+
+2019-2020
+
+2021-2025
+
+Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019
+
+4
+
+Triển khai phần mềm quản lý hồ sơ lưu trữ phục vụ công tác quản lý hồ sơ điện tử tại các đơn vị trong toàn ngành Tài chính và thực hiện số hóa các hồ sơ tài liệu có giá trị vĩnh viễn đã được chỉnh lý; kết nối với chương trình quản lý văn bản điều hành để tiếp nhận các hồ sơ công việc điện tử
+
+Các đơn vị thuộc Bộ Tài chính
+
+Các đơn vị liên quan
+
+2019-2020
+
+2021-2025
+
+(Nhiệm vụ tại Quyết định số 1824/QĐ-BTC ngày 05/10/2018)
+
+5
+
+Hoàn thiện, chuẩn hóa, tích hợp các dịch vụ công trực tuyến mức độ 3, 4 (Kê khai hóa đơn qua mạng, Khai thuế qua mạng)
+
+TCT, TCHQ
+
+Cục THTK và các đơn vị liên quan
+
+2019-2020
+
+Nhiệm vụ tại QĐ số 274/QĐ-TTg ngày 12/3/2019
+
+6
+
+Xây dựng Bộ câu hỏi/trả lời về những vấn đề thường gặp trong quá trình giải quyết các thủ tục hành chính trong từng lĩnh vực và công khai trên Cổng Dịch vụ công của bộ, ngành, địa phương và tích hợp trên Cổng Dịch vụ công quốc gia.
+
+Cục THTK, TCT, TCHQ KBNN, UBCKNN, TCDTNN
+
+Các đơn vị liên quan
+
+2019
+
+Nhiệm vụ tại QĐ số 274/QĐ-TTg ngày 12/3/2019. Bộ câu hỏi/trả lời của Bộ Tài chính gồm tối thiểu 500 câu hỏi/trả lời.
+
+7
+
+Triển khai cung cấp dịch vụ công trực tuyến mức độ 3, 4 theo Quyết định số 2204/QĐ-BTC ngày 21/11/2018
+
+Cục THTK, TCT, TCHQ KBNN, UBCKNN, TCDTNN
+
+Các đơn vị liên quan
+
+2019-2020
+
+Nhiệm vụ tại QĐ số 2204/QĐ-BTC ngày 21/11/2018
+
+IV
+
+XÂY DỰNG CHÍNH PHỦ ĐIỆN TỬ ĐẢM BẢO GẮN KẾT CHẶT CHẼ VỚI ĐẢM BẢO AN TOÀN THÔNG TIN, AN NINH MẠNG, AN NINH QUỐC GIA, BẢO VỆ THÔNG TIN CÁ NHÂN
+
+1
+
+Xây dựng và triển khai hệ thống giám sát an toàn thông tin mạng
+
+Cục THTK TCT, TCHQ KBNN, UBCKNN, TCDTNN
+
+Các đơn vị liên quan
+
+2018-2020
+
+2021-2025
+
+Từng đơn vị chủ động rà soát, nâng cấp đảm bảo an toàn thông tin phù hợp với từng giai đoạn phát triển (Nhiệm vụ tại QĐ số 2445/QĐ-BTC ngày 28/12/2018)
+
+V
+
+BẢO ĐẢM CÁC NGUỒN LỰC TRIỂN KHAI XÂY DỰNG CHÍNH PHỦ ĐIỆN TỬ
+
+1
+
+Cân đối ưu tiên bố trí kinh phí xây dựng Chính phủ điện tử theo hình thức thuê dịch vụ công nghệ thông tin trọn gói do các doanh nghiệp công nghệ thông tin cung cấp, sử dụng nguồn vốn ngân sách nhà nước theo quy định hiện hành, không sử dụng nguồn vốn vay ODA có điều kiện ràng buộc để triển khai xây dựng hệ thống Chính phủ điện tử.
+
+Cục KHTC
+
+Cục THTK, TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan
+
+Hàng năm
+
+Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019
+
+2
+
+Nghiên cứu, đề xuất giải pháp huy động nguồn lực (doanh nghiệp đầu tư, nhà nước thuê dịch vụ; hợp tác công tư (PPP); kinh phí sự nghiệp;...) để triển khai các dự án xây dựng Chính phủ điện tử, báo cáo Thủ tướng Chính phủ xem xét, quyết định.
+
+Vụ HCSN
+
+Vụ NSNN
+
+Vụ Đầu tư và các đơn vị liên quan
+
+Tháng 6/2019
+
+Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019
+
+3
+
+Trình cấp có thẩm quyền bố trí hỗ trợ kinh phí thường xuyên để thực hiện các nhiệm vụ của các bộ, ngành, địa phương trong Đề án Cổng Dịch vụ công quốc gia
+
+Vụ HCSN
+
+Vụ NSNN
+
+Vụ Đầu tư và các đơn vị liên quan
+
+2019-2020
+
+Nhiệm vụ tại QĐ số 274/QĐ-TTg ngày 12/3/2019
+
+4
+
+Xây dựng Chương trình, tổ chức đào tạo, tập huấn cho các cán bộ, công chức, viên chức về Chính phủ điện tử, khai thác sử dụng các hệ thống thông tin, quản trị dữ liệu, dịch vụ công trực tuyến mức độ 3, 4 và làm việc trên môi trường mạng
+
+Cục THTK
+
+Vụ TCCB và các cơ quan, đơn vị thuộc Bộ Tài chính
+
+Hàng năm
+
+Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019
+
+5
+
+Triển khai chương trình truyền thông để nâng cao nhận thức, thay đổi thói quen hành vi, tạo sự đồng thuận của người dân, doanh nghiệp về phát triển Chính phủ điện tử
+
+Văn phòng Bộ
+
+Cục THTK và các cơ quan, đơn vị thuộc Bộ Tài chính
+
+Hàng năm
+
+Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019
+
+VI
+
+THIẾT LẬP CƠ CHẾ ĐẢM BẢO THỰC THI
+
+1
+
+Thành lập Ban Chỉ đạo xây dựng Chính phủ điện tử của Bộ Tài chính và thành lập Tổ công tác giúp việc Ủy viên Ủy ban Quốc gia về Chính phủ điện tử của Bộ Tài chính
+
+Vụ TCCB, Cục THTK
+
+Các đơn vị liên quan
+
+Bộ Tài chính đã thành lập Ban Chỉ đạo xây dựng Chính phủ điện tử của Bộ Tài chính và thành lập Tổ công tác giúp việc Ủy viên Ủy ban Quốc gia về Chính phủ điện tử của Bộ Tài chính tại Quyết định số 2064/QĐ-BTC và Quyết định số 2065/QĐ-BTC ngày 12/11/2018
+
+2
+
+Rà soát, kiện toàn Ban Chỉ đạo xây dựng Chính phủ điện tử của Bộ Tài chính và thành lập Tổ công tác giúp việc Ủy viên Ủy ban Quốc gia về Chính phủ điện tử của Bộ Tài chính
+
+Vụ TCCB, Cục THTK
+
+Các đơn vị liên quan
+
+Tháng 5/2019
+
+2021-2025
+
+Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019
+
+3
+
+Xây dựng cơ chế theo dõi, đánh giá, giám sát, đôn đốc thực hiện và kịp thời báo cáo, xử lý các vướng mắc về thể chế, nguồn lực tài chính, giải pháp công nghệ và con người để đảm bảo thực thi hiệu quả mục tiêu xây dựng Chính phủ điện tử tại Bộ Tài chính
+
+Văn phòng Bộ
+
+Cục THTK và các cơ quan, đơn vị thuộc Bộ Tài chính
+
+2019
+
+2021-2025
+
+Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019
+
+PHỤ LỤC 02
+
+DANH MỤC NHIỆM VỤ BỘ TÀI CHÍNH PHỐI HỢP VỚI CÁC BỘ, NGÀNH TRIỂN KHAI MỘT SỐ NHIỆM VỤ, GIẢI PHÁP TRỌNG TÂM PHÁT TRIỂN CHÍNH PHỦ ĐIỆN TỬ GIAI ĐOẠN 2019-2020, ĐỊNH HƯỚNG 2025 (Ban hành kèm theo Quyết định số 844/QĐ-BTC ngày 21/05/2019 của Bộ trưởng Bộ Tài chính)
+
+| TT | Nhiệm vụ, giải pháp                                                                                                                                                                                                                                                                                                            | Bộ ngành chủ trì             | Đơn vị đầu mối phối hợp                  | Đơn vị phối hợp                                                                                       | Thời gian thực hiện | Ghi chú                                       |
+
+|----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------|-----------------------------------------------|
+
+| 1  | Xây dựng Nghị định thay thế Nghị định số 102/2009/NĐ-CP  ngày 06/11/2009 của Chính phủ về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước, Quyết định số 80/2014/QĐ-TTg  ngày 30/12/2014 của Thủ tướng Chính phủ quy định thí điểm về thuê dịch vụ công nghệ thông tin trong cơ quan nhà nước | Bộ Thông tin và Truyền thông | Cục THTK                                 | Vụ HCSN Vụ NSNN Vụ Đầu tư Vụ Pháp chế Cục KHTC TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan | Tháng 3/2019        | Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019    |
+
+| 2  | Nghiên cứu, xây dựng bộ mã định danh điện tử của các cơ quan, tổ chức thống nhất theo tiêu chuẩn quốc tế phục vụ kết nối, chia sẻ dữ liệu của tất cả các hệ thống thông tin, cơ sở dữ liệu của bộ, ngành, địa phương                                                                                                           | Bộ Thông tin và Truyền thông | Cục THTK                                 | Vụ Pháp chế TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan                                    | Tháng 3/2020        | Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019    |
+
+| 3  | Nghiên cứu, đề xuất sửa đổi Luật Đầu tư công để tháo gỡ các khó khăn, vướng mắc trong việc sử dụng vốn đầu tư công trong lập, triển khai dự án, hoạt động ứng dụng công nghệ thông tin thực hiện theo hình thức thuê dịch vụ                                                                                                   | Bộ Kế hoạch và Đầu tư        | Vụ Đầu tư                                | Vụ HCSN Vụ NSNN Cục KHTC Vụ Pháp chế TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan           | 2019-2020           | Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019    |
+
+| 4  | Nghiên cứu, trình Chính phủ về việc sử dụng một phần kinh phí từ Quỹ Dịch vụ viễn thông công ích Việt Nam cho việc phát triển Chính phủ điện tử                                                                                                                                                                                | Bộ Thông tin và Truyền thông | Vụ HCSN                                  | Vụ NSNN Cục TCDN Vụ Pháp chế Vụ Đầu tư và các đơn vị liên quan                                        | Tháng 6/2019        | Nhiệm vụ tại NQ số 17/NQ-CP  ngày 7/3/2019    |
+
+| 5  | Phối hợp với Văn phòng Chính phủ tích hợp, kết nối Cổng thông tin một cửa quốc gia với Cổng Dịch vụ công Quốc gia về Hệ thống xác thực; thông tin các thủ tục được cung cấp, thông tin tổng hợp về tình hình tiếp nhận, xử lý hồ sơ,…                                                                                          | Văn phòng Chính phủ          | Cục THTK, TCT, TCHQ KBNN, UBCKNN, TCDTNN | Các đơn vị liên quan                                                                                  | 2019-2020           | Nhiệm vụ tại QĐ số 274/QĐ-TTg  ngày 12/3/2019 |
+
+| 6  | Tích hợp CSDL mã số thuế với Hệ thống xác thực của Cổng DVC quốc gia                                                                                                                                                                                                                                                           | Văn phòng Chính phủ          | TCT                                      | Các đơn vị liên quan                                                                                  | 2019-2020           | Nhiệm vụ tại QĐ số 274/QĐ-TTg  ngày 12/3/2019 |
+
+TT
+
+Nhiệm vụ, giải pháp
+
+Bộ ngành chủ trì
+
+Đơn vị đầu mối phối hợp
+
+Đơn vị phối hợp
+
+Thời gian thực hiện
+
+Ghi chú
+
+1
+
+Xây dựng Nghị định thay thế Nghị định số 102/2009/NĐ-CP ngày 06/11/2009 của Chính phủ về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước, Quyết định số 80/2014/QĐ-TTg ngày 30/12/2014 của Thủ tướng Chính phủ quy định thí điểm về thuê dịch vụ công nghệ thông tin trong cơ quan nhà nước
+
+Bộ Thông tin và Truyền thông
+
+Cục THTK
+
+Vụ HCSN
+
+Vụ NSNN
+
+Vụ Đầu tư
+
+Vụ Pháp chế
+
+Cục KHTC
+
+TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan
+
+Tháng 3/2019
+
+Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019
+
+2
+
+Nghiên cứu, xây dựng bộ mã định danh điện tử của các cơ quan, tổ chức thống nhất theo tiêu chuẩn quốc tế phục vụ kết nối, chia sẻ dữ liệu của tất cả các hệ thống thông tin, cơ sở dữ liệu của bộ, ngành, địa phương
+
+Bộ Thông tin và Truyền thông
+
+Cục THTK
+
+Vụ Pháp chế TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan
+
+Tháng 3/2020
+
+Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019
+
+3
+
+Nghiên cứu, đề xuất sửa đổi Luật Đầu tư công để tháo gỡ các khó khăn, vướng mắc trong việc sử dụng vốn đầu tư công trong lập, triển khai dự án, hoạt động ứng dụng công nghệ thông tin thực hiện theo hình thức thuê dịch vụ
+
+Bộ Kế hoạch và Đầu tư
+
+Vụ Đầu tư
+
+Vụ HCSN
+
+Vụ NSNN
+
+Cục KHTC
+
+Vụ Pháp chế
+
+TCT, TCHQ KBNN, UBCKNN, TCDTNN và các đơn vị liên quan
+
+2019-2020
+
+Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019
+
+4
+
+Nghiên cứu, trình Chính phủ về việc sử dụng một phần kinh phí từ Quỹ Dịch vụ viễn thông công ích Việt Nam cho việc phát triển Chính phủ điện tử
+
+Bộ Thông tin và Truyền thông
+
+Vụ HCSN
+
+Vụ NSNN
+
+Cục TCDN
+
+Vụ Pháp chế
+
+Vụ Đầu tư và các đơn vị liên quan
+
+Tháng 6/2019
+
+Nhiệm vụ tại NQ số 17/NQ-CP ngày 7/3/2019
+
+5
+
+Phối hợp với Văn phòng Chính phủ tích hợp, kết nối Cổng thông tin một cửa quốc gia với Cổng Dịch vụ công Quốc gia về Hệ thống xác thực; thông tin các thủ tục được cung cấp, thông tin tổng hợp về tình hình tiếp nhận, xử lý hồ sơ,…
+
+Văn phòng Chính phủ
+
+Cục THTK, TCT, TCHQ KBNN, UBCKNN, TCDTNN
+
+Các đơn vị liên quan
+
+2019-2020
+
+Nhiệm vụ tại QĐ số 274/QĐ-TTg ngày 12/3/2019
+
+6
+
+Tích hợp CSDL mã số thuế với Hệ thống xác thực của Cổng DVC quốc gia
+
+Văn phòng Chính phủ
+
+TCT
+
+Các đơn vị liên quan
+
+2019-2020
+
+Nhiệm vụ tại QĐ số 274/QĐ-TTg ngày 12/3/2019

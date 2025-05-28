@@ -1,0 +1,425 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 1824/QĐ-BTC | Hà Nội, ngày 05 tháng 10 năm 2018                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 1824/QĐ-BTC
+
+Hà Nội, ngày 05 tháng 10 năm 2018
+
+QUYẾT ĐỊNH
+
+PHÊ DUYỆT KẾ HOẠCH THỰC HIỆN QUYẾT ĐỊNH SỐ 28/2018/QĐ-TTG NGÀY 12 THÁNG 7 NĂM 2018 CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ VIỆC GỬI, NHẬN VĂN BẢN ĐIỆN TỬ GIỮA CÁC CƠ QUAN TRONG HỆ THỐNG HÀNH CHÍNH NHÀ NƯỚC
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/07/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Quyết định số 28/2018/QĐ-TTg ngày 12/7/2018 của Thủ tướng Chính phủ về việc gửi, nhận văn bản điện tử giữa các cơ quan trong hệ thống hành chính nhà nước;
+
+Căn cứ Quyết định số 676/QĐ-VPCP ngày 27/7/2018 của Văn phòng Chính phủ về việc phê duyệt kế hoạch thực hiện Quyết định số 28/2018/QĐ-TTg;
+
+Căn cứ Công văn số 7688/VPCP-KSTT ngày 14/8/2018 của Văn phòng Chính phủ về việc thúc đẩy ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+
+Xét đề nghị của Chánh văn phòng Bộ, Cục trưởng Cục Tin học và Thống kê tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Kế hoạch thực hiện Quyết định số 28/2018/QĐ-TTg ngày 12 tháng 7 năm 2018 của Thủ tướng Chính phủ về việc gửi, nhận văn bản điện tử giữa các cơ quan trong hệ thống hành chính nhà nước.
+
+Điều 2. Kinh phí thực hiện Kế hoạch này được bố trí từ nguồn kinh phí ngân sách nhà nước cấp và các nguồn kinh phí hợp pháp khác theo quy định của pháp luật hiện hành.
+
+Điều 3. Thủ trưởng các đơn vị thuộc Bộ căn cứ nội dung của Quyết định số 28/2018/QĐ-TTg và Quyết định này tập trung chỉ đạo đơn vị mình tổ chức triển khai và chịu trách nhiệm trước Bộ trưởng về tiến độ, kết quả thực hiện nhiệm vụ được giao.
+
+Điều 4. Quyết định này có hiệu lực kể từ ngày ban hành. Cục trưởng Cục Tin học và Thống kê Tài chính, Chánh Văn phòng Bộ, Thủ trưởng các đơn vị thuộc thuộc Bộ chịu trách nhiệm thi hành Quyết định này./.
+
+| Nơi nhận: - Thủ tướng Chính phủ (để b/c); - Văn phòng Chính phủ (để b/c); - Bộ trưởng (để b/c); - Các Thứ trưởng (để chỉ đạo); - Như Điều 4 (để thực hiện); - Cổng TTĐT Bộ Tài chính; - Lưu: VT, THTK. | KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai |
+
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+
+Nơi nhận: - Thủ tướng Chính phủ (để b/c); - Văn phòng Chính phủ (để b/c); - Bộ trưởng (để b/c); - Các Thứ trưởng (để chỉ đạo); - Như Điều 4 (để thực hiện); - Cổng TTĐT Bộ Tài chính; - Lưu: VT, THTK.
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai
+
+KẾ HOẠCH
+
+THỰC HIỆN QUYẾT ĐỊNH SỐ 28/2018/QĐ-TTG NGÀY 12 THÁNG 7 NĂM 2018 CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ VIỆC GỬI, NHẬN VĂN BẢN ĐIỆN TỬ GIỮA CÁC CƠ QUAN TRONG HỆ THỐNG HÀNH CHÍNH NHÀ NƯỚC (Ban hành kèm theo Quyết định số 1824/QĐ-BTC ngày 5/10/2018 của Bộ trưởng Bộ Tài chính)
+
+| STT   | Nội dung công việc                                                                                                                                                                                                                                                                                                                                                                       | Đơn vị chủ trì                                                        | Đơn vị phối hợp                                    | Thời gian hoàn thành                                                                                                                                                                                     | Sản phẩm dự kiến hoàn thành                                                                                                                                                             | Tham chiếu nhiệm vụ tại Quyết định 28/2018/QĐ- TTg                                                                                                |
+
+|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| I.    | XÂY DỰNG, BAN HÀNH CÁC VĂN BẢN CHỈ ĐẠO ĐIỀU HÀNH                                                                                                                                                                                                                                                                                                                                         |                                                                       |                                                    |                                                                                                                                                                                                          |                                                                                                                                                                                         |                                                                                                                                                   |
+
+| 1.    | Xây dựng, ban hành quy chế tiếp nhận, xử lý, phát hành và quản lý văn bản theo Quy định tại Quyết định số 28/2018/QĐ-TTg và các văn bản pháp luật khác liên quan                                                                                                                                                                                                                         | VPB, Cục THTK                                                         | Các đơn vị thuộc Bộ                                | Trước 01/01/2019                                                                                                                                                                                         | Quyết định của Bộ Tài chính áp dụng chung cho toàn ngành                                                                                                                                | Điểm a, Khoản 1 Điều 19 Điểm b, Khoản 2, Điều 7                                                                                                   |
+
+| 2.    | Xây dựng, ban hành quy trình điều hành, xử lý văn bản điện tử tại cơ quan Bộ                                                                                                                                                                                                                                                                                                             | VPB, Cục THTK                                                         | Các Vụ/Cục tại cơ quan Bộ                          | Quý I/2019                                                                                                                                                                                               | Văn bản ban hành quy trình tại cơ quan Bộ                                                                                                                                               | Quy trình chi tiết để thực hiện Quy chế ban hành tại Mục I.1                                                                                      |
+
+| 3.    | Xây dựng, ban hành quy trình điều hành, xử lý văn bản điện tử tại các đơn vị thuộc Bộ                                                                                                                                                                                                                                                                                                    | Các đơn vị cấp Tổng cục, đơn vị sự nghiệp thuộc Bộ                    | VPB, Cục THTK                                      | Quý I/2019                                                                                                                                                                                               | Văn bản ban hành quy trình tại từng đơn vị                                                                                                                                              | Quy trình chi tiết để thực hiện Quy chế ban hành tại Mục I.1                                                                                      |
+
+| 4.    | Xây dựng, ban hành và cập nhật kịp thời mã định danh cho các cơ quan đơn vị trực thuộc Bộ gửi về Bộ Thông tin và Truyền thông để thống nhất quản lý và công khai trên phạm vi toàn quốc                                                                                                                                                                                                  | Cục THTK                                                              | Các đơn vị thuộc Bộ                                | Đã ban hành tại Quyết định số 1642/QĐ- BTC ngày 17/9/2018; văn bản số 11240/BTC- THTK ngày 17/9 gửi Văn phòng Chính phủ, Bộ TTTT về danh mục mã định danh cho các cơ quan đơn vị trực thuộc Bộ Tài chính | Quyết định của Bộ Tài chính và văn bản gửi Văn phòng Chính phủ, Bộ TTTT                                                                                                                 | Điểm c, Khoản 1 Điều 19                                                                                                                           |
+
+| 5.    | Xây dựng kế hoạch ứng dụng chữ ký số và lộ trình sử dụng văn bản điện tử tiến tới thay thế cho văn bản giấy trong điều hành, xử lý công việc                                                                                                                                                                                                                                             | VPB, Cục THTK                                                         | Các đơn vị thuộc Bộ                                | Trước 31/10/2018                                                                                                                                                                                         | Quyết định của Bộ Tài chính                                                                                                                                                             | Khoản 2 Điều 19                                                                                                                                   |
+
+| 6.    | Hướng dẫn thực hiện kết nối hệ thống quản lý văn bản và điều hành triển khai tại đơn vị thuộc Bộ Tài chính với Trục liên thông văn bản ngành Tài chính                                                                                                                                                                                                                                   | Cục THTK                                                              | Các đơn vị chuyên trách CNTT thuộc Bộ              | Sau khi hoàn thành xây dựng Trục liên thông văn bản ngành Tài chính                                                                                                                                      | Văn bản hướng dẫn                                                                                                                                                                       | Khoản 2 Điều 15                                                                                                                                   |
+
+| 7.    | Xây dựng văn bản hướng dẫn về quy trình trao đổi, lưu trữ, xử lý tài liệu điện tử trong công tác văn thư và tiêu chuẩn dữ liệu thông tin đầu vào, yêu cầu bảo quản tài liệu lưu trữ điện tử                                                                                                                                                                                              | VPB, Cục THTK                                                         | Các đơn vị thuộc Bộ                                | Thực hiện ngay sau khi Bộ Nội vụ ban hành Thông tư hướng dẫn                                                                                                                                             | Văn bản hướng dẫn                                                                                                                                                                       | Khoản 2 Điều 17                                                                                                                                   |
+
+| 8.    | Rà soát, nghiên cứu sửa đổi bổ sung quy chế về công tác văn thư để đáp ứng yêu cầu xử lý hồ sơ công việc trên môi trường mạng theo hướng dẫn Nghị định thay thế Nghị định số 110/2004/NĐ-CP ngày 08/4/2004 của Chính phủ về công tác văn thư                                                                                                                                             | VPB                                                                   | Các đơn vị cấp Tổng cục, đơn vị sự nghiệp thuộc Bộ | Thực hiện sau khi Chính phủ ban hành Nghị định thay thế Nghị định số 110/2004/NĐ-CP                                                                                                                      | Quyết định của Bộ Tài chính                                                                                                                                                             | Khoản 3 Điều 17                                                                                                                                   |
+
+| 9.    | Hướng dẫn các đơn vị trong ngành về giải pháp tích hợp chữ ký số và xác thực chữ ký số trên hệ thống quản lý văn bản và điều hành theo hướng dẫn của Ban Cơ yếu Chính phủ                                                                                                                                                                                                                | Cục THTK                                                              | Các đơn vị cấp Tổng cục, đơn vị sự nghiệp thuộc Bộ | Thực hiện sau khi Ban cơ yếu Chính phủ ban hành hướng dẫn                                                                                                                                                | Văn bản hướng dẫn                                                                                                                                                                       | Khoản 3 Điều 18                                                                                                                                   |
+
+| II.   | TRIỂN KHAI ỨNG DỤNG CÔNG NGHỆ THÔNG TIN ĐÁP ỨNG YÊU CẦU THỰC HIỆN VIỆC GỬI, NHẬN VĂN BẢN ĐIỆN TỬ GIỮA CÁC CƠ QUAN TRONG HỆ THỐNG HÀNH CHÍNH NHÀ NƯỚC                                                                                                                                                                                                                                     |                                                                       |                                                    |                                                                                                                                                                                                          |                                                                                                                                                                                         |                                                                                                                                                   |
+
+| 10.   | Phối hợp với Ban Cơ yếu Chính phủ cung cấp đầy đủ, kịp thời chứng thư số cho các đơn vị, các cán bộ, công chức, viên chức thực hiện gửi, nhận văn bản điện tử                                                                                                                                                                                                                            | Cục THTK, các đơn vị cấp Tổng cục                                     | Ban Cơ yếu Chính phủ                               | Theo lộ trình triển khai chương trình quản lý văn bản và điều hành                                                                                                                                       | Cung cấp đầy đủ, kịp thời chứng thư số                                                                                                                                                  | Khoản 1 Điều 18                                                                                                                                   |
+
+| 11.   | Bảo đảm hạ tầng kỹ thuật, giải pháp kết nối, liên thông giữa hệ thống quản lý văn bản và điều hành với Trục liên thông văn bản quốc gia; ứng dụng các giải pháp kỹ thuật tăng cường quản lý, giám sát, kiểm soát trong gửi, nhận văn bản điện tử để đảm bảo an toàn, an ninh thông tin                                                                                                   | Điểm b, khoản 1 Điều 19                                               |                                                    |                                                                                                                                                                                                          |                                                                                                                                                                                         |                                                                                                                                                   |
+
+| 11.1. | Phối hợp với Văn phòng Chính phủ thực hiện kết nối, liên thông chương trình quản lý văn bản và điều hành của Bộ Tài chính với Trục liên thông văn bản quốc gia                                                                                                                                                                                                                           | Cục THTK                                                              | VPB                                                | Trước 31/12/2018 (theo kế hoạch của VPCP)                                                                                                                                                                | Kết nối, liên thông gửi nhận văn bản điện tử từ Bộ Tài chính đến Văn phòng Chính phủ                                                                                                    |                                                                                                                                                   |
+
+| 11.2. | Báo cáo hiện trạng Hệ thống tích hợp trao đổi văn bản điện tử ngành Tài chính (eDocHub) và đề xuất phê duyệt chủ trương thực hiện nhiệm vụ thuê dịch vụ Trục liên thông văn bản điện tử ngành Tài chính đáp ứng yêu cầu của Quyết định 28/2018/QĐ-TTg.                                                                                                                                   | Cục THTK, VPB                                                         | Các đơn vị cấp Tổng cục                            | Triển khai theo hình thức thuê dịch vụ; Trình phê duyệt chủ trương thực hiện nhiệm vụ trước 31/10/2018; Triển khai thực hiện nhiệm vụ theo kế hoạch tại Quyết định phê duyệt chủ trương                  | Quyết định phê duyệt chủ trương đầu tư; Hoàn thành nâng cấp hệ thống                                                                                                                    | Yêu cầu kỹ thuật nâng cấp hệ thống sẽ phải đáp ứng toàn bộ các yêu cầu nêu tại Quyết định số 28/1018/QĐ-TTg và các văn bản hướng dẫn có liên quan |
+
+| 12.   | Tổ chức xây dựng, nâng cấp, triển khai hệ thống quản lý văn bản và điều hành phù hợp vài Quyết định số 28/2018/QĐ-TTg, thống nhất kết nối, liên thông các phần mềm quản lý văn bản của các cơ quan, đơn vị trực thuộc Bộ phục vụ gửi, nhận văn bản điện tử giữa các cơ quan trong hệ thống hành chính nhà nước                                                                           | Điểm d, Khoản 1 Điều 19                                               |                                                    |                                                                                                                                                                                                          |                                                                                                                                                                                         |                                                                                                                                                   |
+
+| 12.1. | Nâng cấp chương trình quản lý văn bản và điều hành tại cơ quan Bộ (eDocTC) phù hợp với Quyết định số 28/2018/QĐ-TTg (nội dung và yêu cầu thông tin tại Điều 14, tổng hợp thông tin tình hình gửi, nhận văn bản điện tử,...); Xây dựng mới các chức năng của chương trình quản lý văn bản và điều hành trên nền tảng Mobile App đáp ứng yêu cầu điều hành xử lý văn bản mọi lúc, mọi nơi. | Cục THTK, VPB                                                         | Các đơn vị tại cơ quan Bộ                          | Trình chủ trương đầu tư trước 31/10/2018; Triển khai nâng cấp hệ thống theo kế hoạch tại Quyết định phê duyệt chủ trương đầu tư                                                                          | Quyết định phê duyệt chủ trương đầu tư; Hoàn thành nâng cấp hệ thống                                                                                                                    | Yêu cầu kỹ thuật nâng cấp hệ thống sẽ phải đáp ứng toàn bộ các yêu cầu nêu tại Quyết định số 28/2018/QĐ-TTg và các văn bản hướng dẫn có liên quan |
+
+| 12.2. | Rà soát, cập nhật yêu cầu nâng cấp, triển khai mở rộng chương trình quản lý văn bản và điều hành cho các đơn vị cấp Tổng cục, đơn vị sự nghiệp thuộc Bộ; Thực hiện kết nối chương trình quản lý văn bản và điều hành của đơn vị với Hệ thống tích hợp trao đổi văn bản điện tử ngành Tài chính đáp ứng yêu cầu của Quyết định 28/2018/QĐ- TTg và các văn bản của Bộ Tài chính            | Các đơn vị cấp Tổng cục, các đơn vị sự nghiệp thuộc Bộ                | VPB, Cục THTK, Cục KHTC                            | Trình chủ trương đầu tư trước 31/10/2018; Triển khai nâng cấp hệ thống theo kế hoạch tại Quyết định phế duyệt chủ trương đầu tư                                                                          | Quyết định phê duyệt chủ trương đầu tư; Hoàn thành triển khai mở rộng                                                                                                                   | Yêu cầu kỹ thuật nâng cấp hệ thống sẽ phải đáp ứng toàn bộ các yêu cầu nêu tại Quyết định 28 và các văn bản hướng dẫn có liên quan                |
+
+| 13.   | Tổ chức quản lý, định kỳ sao lưu văn bản điện tử và bảo đảm an ninh, an toàn thông tin trong quá trình thực hiện                                                                                                                                                                                                                                                                         | Cục THTK, các đơn vị cấp Tổng cục, các đơn vị sự nghiệp thuộc Bộ      |                                                    | Công việc thường xuyên                                                                                                                                                                                   | Hệ thống hoạt động thông suốt                                                                                                                                                           | Điểm đ, Khoản 1 Điều 19                                                                                                                           |
+
+| 14.   | Hoàn thiện và đưa vào sử dụng phần mềm quản lý hồ sơ lưu trữ tại cơ quan Bộ                                                                                                                                                                                                                                                                                                              | Cục THTK, Văn phòng Bộ                                                | Các đơn vị thuộc Bộ                                | 31/10/2018                                                                                                                                                                                               | Phần mềm Quản lý hồ sơ lưu trữ được vận hành sử dụng                                                                                                                                    |                                                                                                                                                   |
+
+| 15.   | Triển khai mở rộng cho toàn ngành Tài chính phần mềm quản lý hồ sơ lưu trữ phục vụ công tác quản lý hồ sơ điện tử và thực hiện số hóa các hồ sơ tài liệu có giá trị vĩnh viễn đã được chỉnh lý; kết nối với chương trình quản lý văn bản điều hành để tiếp nhận các hồ sơ công việc điện tử.                                                                                             | Cục THTK, VPB, các đơn vị cấp Tổng cục, các đơn vị sự nghiệp thuộc Bộ |                                                    | 2019-2020                                                                                                                                                                                                | Triển khai theo hình thức thuê dịch vụ; Trình phê duyệt chủ trương thực hiện nhiệm vụ trước 31/10/2018; Triển khai thực hiện nhiệm vụ theo kế hoạch tại Quyết định phê duyệt chủ trương |                                                                                                                                                   |
+
+| III   | MỘT SỐ NHIỆM VỤ KHÁC                                                                                                                                                                                                                                                                                                                                                                     |                                                                       |                                                    |                                                                                                                                                                                                          |                                                                                                                                                                                         |                                                                                                                                                   |
+
+| 16.   | Định kỳ kiểm tra việc thực hiện Quyết định số 28/2018/QĐ-TTg trong việc gửi, nhận văn bản điện tử tại các đơn vị thuộc Bộ                                                                                                                                                                                                                                                                | VPB                                                                   | Các đơn vị thuộc Bộ                                | Theo kế hoạch kiểm tra hàng năm của Bộ về công tác kiểm tra văn thư, lưu trữ                                                                                                                             | Báo cáo của đoàn kiểm tra                                                                                                                                                               | Khoản 4, Điều 19                                                                                                                                  |
+
+| 17.   | Tuyên truyền, phổ biến triển khai thực hiện Quyết định số 28/2018/QĐ-TTg và Quyết định này                                                                                                                                                                                                                                                                                               | VPB, các cơ quan báo chí thuộc Bộ                                     | Các đơn vị có liên quan                            | Thường xuyên                                                                                                                                                                                             |                                                                                                                                                                                         | Khoản 4, Điều 19                                                                                                                                  |
+
+| 18.   | Báo cáo kết quả tình hình thực hiện Quyết định số 28/2018/QĐ-TTg của Chính phủ và kết quả triển khai Quyết định này                                                                                                                                                                                                                                                                      | Cục THTK                                                              | VPB, các đơn vị thuộc Bộ                           | Định kỳ hàng quý                                                                                                                                                                                         | Đưa nội dung vào Báo cáo đinh kỳ về tình hình, kết quả xây dựng Chính phủ điện tử                                                                                                       |                                                                                                                                                   |
+
+| 19.   | Rà soát, xác định cấp độ, phê duyệt cấp độ an toàn thông tin của chương trình quản lý văn bản và điều hành                                                                                                                                                                                                                                                                               | Cục THTK, các đơn vị cấp Tổng cục                                     |                                                    | Trước 01/1/2019                                                                                                                                                                                          | Quyết định phê duyệt cấp độ của Cục Tin học và Thống kê tài chính và các Tổng cục                                                                                                       | Khoản 1 Điều 13                                                                                                                                   |
+
+STT
+
+Nội dung công việc
+
+Đơn vị chủ trì
+
+Đơn vị phối hợp
+
+Thời gian hoàn thành
+
+Sản phẩm dự kiến hoàn thành
+
+Tham chiếu nhiệm vụ tại Quyết định 28/2018/QĐ- TTg
+
+I.
+
+XÂY DỰNG, BAN HÀNH CÁC VĂN BẢN CHỈ ĐẠO ĐIỀU HÀNH
+
+1.
+
+Xây dựng, ban hành quy chế tiếp nhận, xử lý, phát hành và quản lý văn bản theo Quy định tại Quyết định số 28/2018/QĐ-TTg và các văn bản pháp luật khác liên quan
+
+VPB, Cục THTK
+
+Các đơn vị thuộc Bộ
+
+Trước 01/01/2019
+
+Quyết định của Bộ Tài chính áp dụng chung cho toàn ngành
+
+Điểm a, Khoản 1 Điều 19
+
+Điểm b, Khoản 2, Điều 7
+
+2.
+
+Xây dựng, ban hành quy trình điều hành, xử lý văn bản điện tử tại cơ quan Bộ
+
+VPB, Cục THTK
+
+Các Vụ/Cục tại cơ quan Bộ
+
+Quý I/2019
+
+Văn bản ban hành quy trình tại cơ quan Bộ
+
+Quy trình chi tiết để thực hiện Quy chế ban hành tại Mục I.1
+
+3.
+
+Xây dựng, ban hành quy trình điều hành, xử lý văn bản điện tử tại các đơn vị thuộc Bộ
+
+Các đơn vị cấp Tổng cục, đơn vị sự nghiệp thuộc Bộ
+
+VPB, Cục THTK
+
+Quý I/2019
+
+Văn bản ban hành quy trình tại từng đơn vị
+
+Quy trình chi tiết để thực hiện Quy chế ban hành tại Mục I.1
+
+4.
+
+Xây dựng, ban hành và cập nhật kịp thời mã định danh cho các cơ quan đơn vị trực thuộc Bộ gửi về Bộ Thông tin và Truyền thông để thống nhất quản lý và công khai trên phạm vi toàn quốc
+
+Cục THTK
+
+Các đơn vị thuộc Bộ
+
+Đã ban hành tại Quyết định số 1642/QĐ- BTC ngày 17/9/2018; văn bản số 11240/BTC- THTK ngày 17/9 gửi Văn phòng Chính phủ, Bộ TTTT về danh mục mã định danh cho các cơ quan đơn vị trực thuộc Bộ Tài chính
+
+Quyết định của Bộ Tài chính và văn bản gửi Văn phòng Chính phủ, Bộ TTTT
+
+Điểm c, Khoản 1 Điều 19
+
+5.
+
+Xây dựng kế hoạch ứng dụng chữ ký số và lộ trình sử dụng văn bản điện tử tiến tới thay thế cho văn bản giấy trong điều hành, xử lý công việc
+
+VPB, Cục THTK
+
+Các đơn vị thuộc Bộ
+
+Trước 31/10/2018
+
+Quyết định của Bộ Tài chính
+
+Khoản 2 Điều 19
+
+6.
+
+Hướng dẫn thực hiện kết nối hệ thống quản lý văn bản và điều hành triển khai tại đơn vị thuộc Bộ Tài chính với Trục liên thông văn bản ngành Tài chính
+
+Cục THTK
+
+Các đơn vị chuyên trách CNTT thuộc Bộ
+
+Sau khi hoàn thành xây dựng Trục liên thông văn bản ngành Tài chính
+
+Văn bản hướng dẫn
+
+Khoản 2 Điều 15
+
+7.
+
+Xây dựng văn bản hướng dẫn về quy trình trao đổi, lưu trữ, xử lý tài liệu điện tử trong công tác văn thư và tiêu chuẩn dữ liệu thông tin đầu vào, yêu cầu bảo quản tài liệu lưu trữ điện tử
+
+VPB, Cục THTK
+
+Các đơn vị thuộc Bộ
+
+Thực hiện ngay sau khi Bộ Nội vụ ban hành Thông tư hướng dẫn
+
+Văn bản hướng dẫn
+
+Khoản 2 Điều 17
+
+8.
+
+Rà soát, nghiên cứu sửa đổi bổ sung quy chế về công tác văn thư để đáp ứng yêu cầu xử lý hồ sơ công việc trên môi trường mạng theo hướng dẫn Nghị định thay thế Nghị định số 110/2004/NĐ-CP ngày 08/4/2004 của Chính phủ về công tác văn thư
+
+VPB
+
+Các đơn vị cấp Tổng cục, đơn vị sự nghiệp thuộc Bộ
+
+Thực hiện sau khi Chính phủ ban hành Nghị định thay thế Nghị định số 110/2004/NĐ-CP
+
+Quyết định của Bộ Tài chính
+
+Khoản 3 Điều 17
+
+9.
+
+Hướng dẫn các đơn vị trong ngành về giải pháp tích hợp chữ ký số và xác thực chữ ký số trên hệ thống quản lý văn bản và điều hành theo hướng dẫn của Ban Cơ yếu Chính phủ
+
+Cục THTK
+
+Các đơn vị cấp Tổng cục, đơn vị sự nghiệp thuộc Bộ
+
+Thực hiện sau khi Ban cơ yếu Chính phủ ban hành hướng dẫn
+
+Văn bản hướng dẫn
+
+Khoản 3 Điều 18
+
+II.
+
+TRIỂN KHAI ỨNG DỤNG CÔNG NGHỆ THÔNG TIN ĐÁP ỨNG YÊU CẦU THỰC HIỆN VIỆC GỬI, NHẬN VĂN BẢN ĐIỆN TỬ GIỮA CÁC CƠ QUAN TRONG HỆ THỐNG HÀNH CHÍNH NHÀ NƯỚC
+
+10.
+
+Phối hợp với Ban Cơ yếu Chính phủ cung cấp đầy đủ, kịp thời chứng thư số cho các đơn vị, các cán bộ, công chức, viên chức thực hiện gửi, nhận văn bản điện tử
+
+Cục THTK, các đơn vị cấp Tổng cục
+
+Ban Cơ yếu Chính phủ
+
+Theo lộ trình triển khai chương trình quản lý văn bản và điều hành
+
+Cung cấp đầy đủ, kịp thời chứng thư số
+
+Khoản 1 Điều 18
+
+11.
+
+Bảo đảm hạ tầng kỹ thuật, giải pháp kết nối, liên thông giữa hệ thống quản lý văn bản và điều hành với Trục liên thông văn bản quốc gia; ứng dụng các giải pháp kỹ thuật tăng cường quản lý, giám sát, kiểm soát trong gửi, nhận văn bản điện tử để đảm bảo an toàn, an ninh thông tin
+
+Điểm b, khoản 1 Điều 19
+
+11.1.
+
+Phối hợp với Văn phòng Chính phủ thực hiện kết nối, liên thông chương trình quản lý văn bản và điều hành của Bộ Tài chính với Trục liên thông văn bản quốc gia
+
+Cục THTK
+
+VPB
+
+Trước 31/12/2018 (theo kế hoạch của VPCP)
+
+Kết nối, liên thông gửi nhận văn bản điện tử từ Bộ Tài chính đến Văn phòng Chính phủ
+
+11.2.
+
+Báo cáo hiện trạng Hệ thống tích hợp trao đổi văn bản điện tử ngành Tài chính (eDocHub) và đề xuất phê duyệt chủ trương thực hiện nhiệm vụ thuê dịch vụ Trục liên thông văn bản điện tử ngành Tài chính đáp ứng yêu cầu của Quyết định 28/2018/QĐ-TTg.
+
+Cục THTK, VPB
+
+Các đơn vị cấp Tổng cục
+
+Triển khai theo hình thức thuê dịch vụ; Trình phê duyệt chủ trương thực hiện nhiệm vụ trước 31/10/2018; Triển khai thực hiện nhiệm vụ theo kế hoạch tại Quyết định phê duyệt chủ trương
+
+Quyết định phê duyệt chủ trương đầu tư; Hoàn thành nâng cấp hệ thống
+
+Yêu cầu kỹ thuật nâng cấp hệ thống sẽ phải đáp ứng toàn bộ các yêu cầu nêu tại Quyết định số 28/1018/QĐ-TTg và các văn bản hướng dẫn có liên quan
+
+12.
+
+Tổ chức xây dựng, nâng cấp, triển khai hệ thống quản lý văn bản và điều hành phù hợp vài Quyết định số 28/2018/QĐ-TTg, thống nhất kết nối, liên thông các phần mềm quản lý văn bản của các cơ quan, đơn vị trực thuộc Bộ phục vụ gửi, nhận văn bản điện tử giữa các cơ quan trong hệ thống hành chính nhà nước
+
+Điểm d, Khoản 1 Điều 19
+
+12.1.
+
+Nâng cấp chương trình quản lý văn bản và điều hành tại cơ quan Bộ (eDocTC) phù hợp với Quyết định số 28/2018/QĐ-TTg (nội dung và yêu cầu thông tin tại Điều 14, tổng hợp thông tin tình hình gửi, nhận văn bản điện tử,...); Xây dựng mới các chức năng của chương trình quản lý văn bản và điều hành trên nền tảng Mobile App đáp ứng yêu cầu điều hành xử lý văn bản mọi lúc, mọi nơi.
+
+Cục THTK, VPB
+
+Các đơn vị tại cơ quan Bộ
+
+Trình chủ trương đầu tư trước 31/10/2018; Triển khai nâng cấp hệ thống theo kế hoạch tại Quyết định phê duyệt chủ trương đầu tư
+
+Quyết định phê duyệt chủ trương đầu tư; Hoàn thành nâng cấp hệ thống
+
+Yêu cầu kỹ thuật nâng cấp hệ thống sẽ phải đáp ứng toàn bộ các yêu cầu nêu tại Quyết định số 28/2018/QĐ-TTg và các văn bản hướng dẫn có liên quan
+
+12.2.
+
+Rà soát, cập nhật yêu cầu nâng cấp, triển khai mở rộng chương trình quản lý văn bản và điều hành cho các đơn vị cấp Tổng cục, đơn vị sự nghiệp thuộc Bộ; Thực hiện kết nối chương trình quản lý văn bản và điều hành của đơn vị với Hệ thống tích hợp trao đổi văn bản điện tử ngành Tài chính đáp ứng yêu cầu của Quyết định 28/2018/QĐ- TTg và các văn bản của Bộ Tài chính
+
+Các đơn vị cấp Tổng cục, các đơn vị sự nghiệp thuộc Bộ
+
+VPB, Cục THTK, Cục KHTC
+
+Trình chủ trương đầu tư trước 31/10/2018; Triển khai nâng cấp hệ thống theo kế hoạch tại Quyết định phế duyệt chủ trương đầu tư
+
+Quyết định phê duyệt chủ trương đầu tư; Hoàn thành triển khai mở rộng
+
+Yêu cầu kỹ thuật nâng cấp hệ thống sẽ phải đáp ứng toàn bộ các yêu cầu nêu tại Quyết định 28 và các văn bản hướng dẫn có liên quan
+
+13.
+
+Tổ chức quản lý, định kỳ sao lưu văn bản điện tử và bảo đảm an ninh, an toàn thông tin trong quá trình thực hiện
+
+Cục THTK, các đơn vị cấp Tổng cục, các đơn vị sự nghiệp thuộc Bộ
+
+Công việc thường xuyên
+
+Hệ thống hoạt động thông suốt
+
+Điểm đ, Khoản 1 Điều 19
+
+14.
+
+Hoàn thiện và đưa vào sử dụng phần mềm quản lý hồ sơ lưu trữ tại cơ quan Bộ
+
+Cục THTK, Văn phòng Bộ
+
+Các đơn vị thuộc Bộ
+
+31/10/2018
+
+Phần mềm Quản lý hồ sơ lưu trữ được vận hành sử dụng
+
+15.
+
+Triển khai mở rộng cho toàn ngành Tài chính phần mềm quản lý hồ sơ lưu trữ phục vụ công tác quản lý hồ sơ điện tử và thực hiện số hóa các hồ sơ tài liệu có giá trị vĩnh viễn đã được chỉnh lý; kết nối với chương trình quản lý văn bản điều hành để tiếp nhận các hồ sơ công việc điện tử.
+
+Cục THTK, VPB, các đơn vị cấp Tổng cục, các đơn vị sự nghiệp thuộc Bộ
+
+2019-2020
+
+Triển khai theo hình thức thuê dịch vụ; Trình phê duyệt chủ trương thực hiện nhiệm vụ trước 31/10/2018; Triển khai thực hiện nhiệm vụ theo kế hoạch tại Quyết định phê duyệt chủ trương
+
+III
+
+MỘT SỐ NHIỆM VỤ KHÁC
+
+16.
+
+Định kỳ kiểm tra việc thực hiện Quyết định số 28/2018/QĐ-TTg trong việc gửi, nhận văn bản điện tử tại các đơn vị thuộc Bộ
+
+VPB
+
+Các đơn vị thuộc Bộ
+
+Theo kế hoạch kiểm tra hàng năm của Bộ về công tác kiểm tra văn thư, lưu trữ
+
+Báo cáo của đoàn kiểm tra
+
+Khoản 4, Điều 19
+
+17.
+
+Tuyên truyền, phổ biến triển khai thực hiện Quyết định số 28/2018/QĐ-TTg và Quyết định này
+
+VPB, các cơ quan báo chí thuộc Bộ
+
+Các đơn vị có liên quan
+
+Thường xuyên
+
+Khoản 4, Điều 19
+
+18.
+
+Báo cáo kết quả tình hình thực hiện Quyết định số 28/2018/QĐ-TTg của Chính phủ và kết quả triển khai Quyết định này
+
+Cục THTK
+
+VPB, các đơn vị thuộc Bộ
+
+Định kỳ hàng quý
+
+Đưa nội dung vào Báo cáo đinh kỳ về tình hình, kết quả xây dựng Chính phủ điện tử
+
+19.
+
+Rà soát, xác định cấp độ, phê duyệt cấp độ an toàn thông tin của chương trình quản lý văn bản và điều hành
+
+Cục THTK, các đơn vị cấp Tổng cục
+
+Trước 01/1/2019
+
+Quyết định phê duyệt cấp độ của Cục Tin học và Thống kê tài chính và các Tổng cục
+
+Khoản 1 Điều 13

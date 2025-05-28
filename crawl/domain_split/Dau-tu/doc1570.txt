@@ -1,0 +1,253 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 1206/QĐ-BTC | Hà Nội, ngày 26 tháng 7 năm 2018                                |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 1206/QĐ-BTC
+
+Hà Nội, ngày 26 tháng 7 năm 2018
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC PHÂN CẤP, ỦY QUYỀN QUẢN LÝ TÀI CHÍNH, TÀI SẢN CÔNG, ĐẦU TƯ XÂY DỰNG, ỨNG DỤNG CÔNG NGHỆ THÔNG TIN VÀ KIỂM TRA, KIỂM TOÁN NỘI BỘ TRONG CÁC ĐƠN VỊ DỰ TOÁN NGÂN SÁCH THUỘC BỘ TÀI CHÍNH
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Luật Ngân sách nhà nước số 83/2015/QH13 ngày 25/6/2015;
+
+Căn cứ Luật Quản lý, sử dụng tài sản công số 15/2017/QH14 ngày 21/6/2017;
+
+Căn cứ Luật Đầu tư công số 49/2014/QH13 ngày 18/6/2014;
+
+Căn cứ Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014;
+
+Căn cứ Luật Công nghệ thông tin số 67/2006/QH11 ngày 29/6/2006;
+
+Căn cứ Luật Thực hành tiết kiệm, chống lãng phí số 44/2013/QH13 ngày 26/11/2013;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Nghị định số 163/2016/NĐ-CP ngày 21/12/2016 của Chính phủ quy định chi tiết thi hành một số điều của Luật Ngân sách nhà nước;
+
+Căn cứ Nghị định số 151/2017/NĐ-CP ngày 26/12/2017 của Chính phủ quy định chi tiết một số điều của Luật Quản lý, sử dụng tài sản công;
+
+Căn cứ Nghị định số 59/2015/NĐ-CP ngày 18/6/2015 và Nghị định số 42/2017/NĐ-CP ngày 05/4/2017 của Chính phủ về quản lý dự án đầu tư xây dựng;
+
+Căn cứ Nghị định số 102/2009/NĐ-CP ngày 06/11/2009 của Chính phủ về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước;
+
+Căn cứ Nghị định số 84/2014/NĐ-CP ngày 08/9/2014 của Chính phủ quy định chi tiết một số điều của Luật Thực hành tiết kiệm, chống lãng phí;
+
+Theo đề nghị của Cục trưởng Cục Kế hoạch - Tài chính, Cục trưởng Cục Tin học và Thống kê tài chính và Thủ trưởng các đơn vị thuộc Bộ Tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Đối với lĩnh vực quản lý tài chính (không bao gồm dự toán, quyết toán chi mua hàng dự trữ quốc gia)
+
+1. Bộ trưởng Bộ Tài chính:
+
+1.1. Hướng dẫn, cụ thể hóa các cơ chế, chính sách, chế độ, định mức do các cơ quan quản lý Nhà nước có thẩm quyền ban hành trong lĩnh vực tài chính để thực hiện thống nhất trong nội bộ ngành tài chính.
+
+1.2. Quyết định phân bổ dự toán, giao dự toán, điều chỉnh dự toán thu, chi ngân sách nhà nước cho các đơn vị dự toán thuộc Bộ Tài chính.
+
+1.3. Quyết định kế hoạch và nội dung sử dụng đối với các nguồn tài chính thực hiện nhiệm vụ chung của Bộ Tài chính.
+
+1.4. Báo cáo các cơ quan quản lý Nhà nước theo quy định của pháp luật ngân sách, gồm:
+
+a) Báo cáo dự toán thu, chi ngân sách hàng năm và Báo cáo tài chính - ngân sách nhà nước 3 năm của Bộ Tài chính (cấp I).
+
+b) Báo cáo Bộ Tài chính (cơ quan tài chính) về tổng hợp dự toán đã phân bổ, giao, điều chỉnh của các đơn vị dự toán thuộc Bộ Tài chính để kiểm tra phân bổ, điều chỉnh dự toán và phê duyệt dự toán trên hệ thống TABMIS.
+
+c) Báo cáo quyết toán thu, chi ngân sách nhà nước hàng năm của Bộ Tài chính (cấp I).
+
+d) Quyết định công khai dự toán, quyết toán thu, chi ngân sách nhà nước hàng năm của Bộ Tài chính (cấp I).
+
+1.5. Cục trưởng Cục Kế hoạch - Tài chính:
+
+a) Thông báo số kiểm tra dự toán thu, chi ngân sách nhà nước hàng năm và số trần chi ngân sách nhà nước 3 năm cho các đơn vị dự toán thuộc Bộ Tài chính.
+
+b) Thông báo xét duyệt, thẩm định quyết toán thu, chi ngân sách nhà nước hàng năm cho các đơn vị dự toán thuộc Bộ Tài chính.
+
+c) Báo cáo tình hình thực hiện dự toán thu, chi ngân sách nhà nước của Bộ Tài chính (cấp I) gửi các cơ quan quản lý Nhà nước theo quy định.
+
+d) Báo cáo công khai tình hình thực hiện dự toán thu, chi ngân sách nhà nước của Bộ Tài chính (cấp I); Báo cáo tình hình thực hiện công khai: dự toán giao đầu năm và quyết toán ngân sách nhà nước hàng năm của Bộ Tài chính (cấp I); Báo cáo khác của Bộ Tài chính (cấp I) theo quy định của pháp luật ngân sách.
+
+Cục Kế hoạch - Tài chính chịu trách nhiệm tổng hợp trình Bộ các nội dung có liên quan tại Điều này.
+
+2. Thủ trưởng các đơn vị dự toán thuộc Bộ Tài chính:
+
+2.1. Hướng dẫn, cụ thể hóa văn bản của Bộ Tài chính hướng dẫn các cơ chế, chính sách, chế độ, định mức do các cơ quan quản lý Nhà nước có thẩm quyền ban hành trong lĩnh vực tài chính để thực hiện thống nhất trong các cơ quan, đơn vị thuộc phạm vi quản lý.
+
+2.2. Thực hiện công tác lập và chấp hành dự toán, quyết toán ngân sách, chấp hành chế độ báo cáo, công khai tài chính theo quy định của pháp luật ngân sách và hướng dẫn của Bộ Tài chính.
+
+2.3. Đối với đơn vị dự toán ngân sách được Bộ trưởng giao dự toán ngân sách nhưng không phải là đơn vị sử dụng ngân sách (gọi chung là đơn vị dự toán cấp II thuộc Bộ Tài chính):
+
+a) Quyết định phân bổ dự toán, giao dự toán, điều chỉnh dự toán thu, chi ngân sách nhà nước (đảm bảo trong phạm vi dự toán ngân sách được Bộ trưởng giao và không làm thay đổi dự toán các nội dung, nhiệm vụ chi đã được Bộ trưởng giao) cho các đơn vị dự toán sử dụng ngân sách thuộc phạm vi quản lý.
+
+b) Báo cáo Bộ Tài chính (qua Cục Kế hoạch - Tài chính) về tổng hợp dự toán đã phân bổ, giao, điều chỉnh của các đơn vị dự toán thuộc, trực thuộc đơn vị (kèm theo các tài liệu có liên quan theo quy định của pháp luật ngân sách) để Bộ Tài chính (cấp I) tổng hợp, báo cáo Bộ Tài chính (cơ quan tài chính) để kiểm tra phân bổ, điều chỉnh dự toán và phê duyệt dự toán trên hệ thống TABMIS.
+
+Điều 2. Đối với lĩnh vực quản lý tài sản công
+
+1. Bộ trưởng Bộ Tài chính:
+
+Hướng dẫn, cụ thể hóa các cơ chế, chính sách, chế độ, tiêu chuẩn, định mức quản lý và sử dụng tài sản công do các cơ quan quản lý nhà nước có thẩm quyền ban hành trong lĩnh vực tài sản công để thực hiện thống nhất trong nội bộ ngành tài chính.
+
+2. Thủ trưởng các đơn vị thuộc Bộ Tài chính:
+
+Hướng dẫn, cụ thể hóa các quy định về tiêu chuẩn, định mức, quản lý và sử dụng, xử lý tài sản công theo phân cấp của Bộ trưởng Bộ Tài chính; chấp hành chế độ báo cáo theo quy định của pháp luật tài sản công và hướng dẫn của Bộ Tài chính (quản lý ngành).
+
+Điều 3. Đối với lĩnh vực quản lý đầu tư xây dựng
+
+1. Bộ trưởng Bộ Tài chính:
+
+1.1. Hướng dẫn, cụ thể hóa các cơ chế, chính sách, chế độ, định mức do các cơ quan quản lý Nhà nước có thẩm quyền ban hành trong lĩnh vực đầu tư xây dựng để thực hiện thống nhất trong nội bộ ngành tài chính.
+
+1.2. Phê duyệt quy hoạch đầu tư xây dựng; phê duyệt chủ trương đầu tư xây dựng dự án có tổng mức đầu tư từ 5 tỷ đồng trở lên của các Tổng cục và các đơn vị khác thuộc Bộ (trừ dự án nhóm A).
+
+1.3. Thông báo danh mục và mức vốn bố trí cho từng dự án theo quy định của pháp luật đầu tư công đối với kế hoạch đầu tư vốn ngân sách nhà nước hàng năm được cấp có thẩm quyền giao cho Bộ Tài chính.
+
+1.4. Phê duyệt kế hoạch (vốn đầu tư và danh mục dự án) đầu tư hàng năm đối với nguồn vốn chi hỗ trợ đầu tư xây dựng và các nguồn vốn hợp pháp khác của các đơn vị thuộc Bộ Tài chính và các dự án có tổng mức đầu tư từ 5 tỷ đồng trở lên của các đơn vị cấp Tổng cục.
+
+1.5. Quyết định đầu tư xây dựng và phê duyệt quyết toán dự án hoàn thành đối với dự án nhóm A; Quyết định đầu tư xây dựng và phê duyệt quyết toán dự án hoàn thành đối với các dự án đầu tư tại cơ quan Bộ.
+
+1.6. Báo cáo Bộ Tài chính (cơ quan tài chính) về quyết toán vốn đầu tư xây dựng cơ bản theo niên độ ngân sách hàng năm của Bộ Tài chính theo quy định.
+
+2. Bộ trưởng phân cấp cho Thủ trưởng các đơn vị thuộc Bộ Tài chính:
+
+2.1. Thủ trưởng các đơn vị cấp Tổng cục:
+
+a) Phê duyệt kế hoạch (vốn đầu tư và danh mục dự án) đầu tư hàng năm đối với nguồn vốn chi hỗ trợ đầu tư xây dựng và các nguồn vốn hợp pháp khác của Tổng cục thực hiện các dự án đầu tư và các dự án cải tạo sửa chữa trong hệ thống (trừ trường hợp quy định tại mục 1.4 Điều này).
+
+b) Quyết định đầu tư xây dựng và phê duyệt quyết toán dự án hoàn thành đối với các dự án nhóm B; Quyết định (hoặc ủy quyền cho Thủ trưởng đơn vị cấp dưới trực tiếp quyết định) đầu tư xây dựng và phê duyệt quyết toán dự án hoàn thành đối với các dự án nhóm C, các dự án cải tạo, sửa chữa.
+
+2.2. Giám đốc Học viện Tài chính, Hiệu trưởng, Giám đốc các Trường thuộc Bộ Tài chính quyết định đầu tư xây dựng và phê duyệt quyết toán dự án hoàn thành đối với các dự án nhóm B, nhóm C và các dự án cải tạo, sửa chữa của đơn vị.
+
+2.3. Thủ trưởng các đơn vị khác thuộc Bộ quyết định đầu tư xây dựng và phê duyệt quyết toán dự án hoàn thành các dự án cải tạo, sửa chữa không làm tăng quy mô của đơn vị (đối với các dự án làm tăng quy mô, Thủ trưởng đơn vị phải báo cáo Bộ trưởng Bộ Tài chính chấp thuận mục tiêu, quy mô).
+
+Điều 4. Đối với lĩnh vực ứng dụng công nghệ thông tin (CNTT)
+
+1. Bộ trưởng Bộ Tài chính:
+
+1.1. Hướng dẫn, cụ thể hóa các cơ chế, chính sách, chế độ, định mức, tiêu chuẩn kỹ thuật do các cơ quan quản lý Nhà nước có thẩm quyền ban hành trong lĩnh vực CNTT để thực hiện thống nhất trong nội bộ ngành Tài chính.
+
+1.2. Quyết định phê duyệt kế hoạch 5 năm về ứng dụng CNTT của Bộ Tài chính, của các đơn vị cấp Tổng cục và của cơ quan Bộ Tài chính.
+
+1.3. Quyết định phê duyệt chủ trương đầu tư các dự án CNTT của các đơn vị thuộc Bộ và các nhiệm vụ ứng dụng CNTT không phải lập dự án CNTT của các đơn vị cấp Tổng cục, của cơ quan Bộ Tài chính (trừ trường hợp đã có trong kế hoạch 5 năm quy định tại mục 1.2 Điều này hoặc các nhiệm vụ cấp bách, đột xuất phải triển khai gấp theo yêu cầu, nhiệm vụ được cấp có thẩm quyền giao và đơn vị đã đảm bảo cân đối được nguồn kinh phí thực hiện).
+
+1.4. Quyết định đầu tư đối với các dự án CNTT, gồm:
+
+a) Dự án có tổng mức đầu tư trên 100 tỷ đồng của các đơn vị thuộc Bộ.
+
+b) Dự án có phục vụ yêu cầu quản lý nghiệp vụ của nhiều đơn vị thuộc Bộ.
+
+c) Dự án có tổng mức đầu tư trên 20 tỷ đồng đến 100 tỷ đồng của các đơn vị thuộc cơ quan Bộ Tài chính.
+
+d) Các dự án không ủy quyền quyết định đầu tư quy định tại Điều này.
+
+1.5. Quyết định phê duyệt kế hoạch thuê dịch vụ CNTT đối với các hoạt động ứng dụng CNTT:
+
+a) Có dự toán thuê dịch vụ trên 100 tỷ đồng của các đơn vị thuộc Bộ.
+
+b) Có dự toán thuê dịch vụ trên 20 tỷ đồng của các đơn vị thuộc cơ quan Bộ Tài chính.
+
+c) Có phục vụ yêu cầu quản lý nghiệp vụ của nhiều đơn vị thuộc Bộ.
+
+d) Các hoạt động thuê dịch vụ CNTT không ủy quyền quyết định phê duyệt kế hoạch thuê dịch vụ CNTT quy định tại Điều này.
+
+1.6. Quyết định phê duyệt kế hoạch, danh mục dự toán ứng dụng CNTT hàng năm của các đơn vị dự toán thuộc Bộ Tài chính.
+
+1.7. Quyết định phê duyệt quyết toán hoàn thành đối với các dự án ứng dụng CNTT do Bộ trưởng quyết định đầu tư.
+
+Cục Tin học và Thống kê tài chính chủ trì, phối hợp với Cục Kế hoạch - Tài chính tham mưu, thẩm định, tổng hợp trình Bộ trưởng phê duyệt các nội dung tại mục 1.1 đến mục 1.5 Điều này. Trường hợp Cục Tin học và Thống kê tài chính là chủ đầu tư dự án CNTT, là đơn vị chủ trì thuê dịch vụ CNTT: Cục Kế hoạch - Tài chính thẩm định, trình Bộ trưởng phê duyệt.
+
+Cục Kế hoạch - Tài chính chủ trì, phối hợp với Cục Tin học và Thống kê tài chính thẩm định, thẩm tra, tổng hợp trình Bộ trưởng phê duyệt các nội dung tại mục 1.6 đến mục 1.7 Điều này.
+
+2. Bộ trưởng ủy quyền cho Cục trưởng Cục Tin học và Thống kê tài chính:
+
+2.1. Quyết định đầu tư và phê duyệt quyết toán hoàn thành đối với dự án CNTT của các đơn vị thuộc cơ quan Bộ Tài chính có tổng mức đầu tư từ 20 tỷ đồng trở xuống.
+
+2.2. Quyết định phê duyệt kế hoạch thuê dịch vụ CNTT đối với các hoạt động ứng dụng CNTT của các đơn vị thuộc cơ quan Bộ Tài chính có dự toán thuê dịch vụ từ 20 tỷ đồng trở xuống.
+
+2.3. Quyết định phê duyệt đề cương và dự toán chi tiết đối với các hoạt động ứng dụng CNTT trong phạm vi đơn vị và của các đơn vị thuộc Bộ Tài chính (trừ các đơn vị quy định tại khoản 4, khoản 5 Điều này).
+
+3. Bộ trưởng ủy quyền cho Thủ trưởng các đơn vị cấp Tổng cục, Giám đốc Học viện Tài chính, Hiệu trưởng, Giám đốc các Trường thuộc Bộ Tài chính:
+
+3.1. Quyết định đầu tư và phê duyệt quyết toán hoàn thành đối với các dự án ứng dụng CNTT có tổng mức đầu tư từ 100 tỷ đồng trở xuống trong phạm vi đơn vị.
+
+3.2. Quyết định phê duyệt kế hoạch thuê dịch vụ CNTT đối với các hoạt động ứng dụng CNTT triển khai trong phạm vi đơn vị có dự toán thuê dịch vụ từ 100 tỷ đồng trở xuống.
+
+Đối với hoạt động ứng dụng CNTT có dự toán thuê dịch vụ từ trên 20 tỷ đồng đến 100 tỷ đồng: Thủ trưởng đơn vị thực hiện lấy ý kiến tham vấn của các đơn vị chuyên môn thuộc Bộ Tài chính (ý kiến của Cục Kế hoạch - Tài chính về dự toán thuê dịch vụ và ý kiến của Cục Tin học và Thống kê tài chính về nội dung thuyết minh kế hoạch thuê dịch vụ) để xem xét, quyết định.
+
+4. Bộ trưởng ủy quyền cho Giám đốc Học viện Tài chính, Hiệu trưởng, Giám đốc các Trường thuộc Bộ Tài chính quyết định phê duyệt đề cương và dự toán chi tiết đối với các hoạt động ứng dụng CNTT trong phạm vi đơn vị.
+
+5. Thủ trưởng các đơn vị cấp Tổng cục quyết định phê duyệt (hoặc ủy quyền cho Thủ trưởng đơn vị chuyên môn về CNTT thuộc Tổng cục phê duyệt) đề cương và dự toán chi tiết đối với các hoạt động ứng dụng CNTT trong phạm vi đơn vị.
+
+6. Chủ đầu tư dự án ứng dụng CNTT:
+
+6.1. Bộ trưởng quyết định chủ đầu tư đối với dự án do Bộ trưởng quyết định đầu tư (bao gồm các dự án Bộ trưởng ủy quyền quyết định đầu tư, trừ quy định tại mục 6.2 Điều này).
+
+6.2. Đơn vị chuyên môn về CNTT thuộc các đơn vị cấp Tổng cục là chủ đầu tư đối với dự án do Thủ trưởng các đơn vị cấp Tổng cục quyết định đầu tư theo ủy quyền. Trường hợp đơn vị chuyên môn về CNTT không đủ điều kiện về tổ chức, nhân lực hoặc do mục tiêu, yêu cầu, tính chất của dự án và các điều kiện cần thiết khác thì đơn vị cấp Tổng cục đề xuất, lựa chọn đơn vị khác làm chủ đầu tư hoặc tự làm chủ đầu tư và phải báo cáo Bộ trưởng xem xét, quyết định về chủ đầu tư khi trình phê duyệt chủ trương đầu tư.
+
+Điều 5. Đối với lĩnh vực kiểm tra, kiểm toán nội bộ
+
+1. Bộ trưởng Bộ Tài chính:
+
+1.1. Ban hành Quy chế kiểm tra, kiểm toán nội bộ của Bộ Tài chính để thực hiện thống nhất trong nội bộ ngành Tài chính.
+
+1.2. Quyết định phê duyệt kế hoạch kiểm tra, kiểm toán nội bộ hàng năm của Bộ Tài chính.
+
+2. Cục trưởng Cục Kế hoạch - Tài chính:
+
+2.1. Quyết định phê duyệt kế hoạch chi tiết kiểm tra, kiểm toán nội bộ hàng năm do Cục Kế hoạch - Tài chính chủ trì thực hiện theo kế hoạch đã được Bộ trưởng phê duyệt.
+
+2.2. Ban hành thông báo kết quả kiểm tra, kiểm toán nội bộ đối với các đơn vị được kiểm tra, kiểm toán do Cục Kế hoạch - Tài chính chủ trì tổ chức thực hiện.
+
+3. Cục trưởng Cục Tin học và Thống kê tài chính:
+
+3.1. Quyết định phê duyệt kế hoạch chi tiết kiểm tra hoạt động ứng dụng công nghệ thông tin hàng năm do Cục Tin học và Thống kê tài chính chủ trì thực hiện theo kế hoạch đã được Bộ trưởng phê duyệt.
+
+3.2. Ban hành thông báo kết quả kiểm tra đối với các đơn vị được kiểm tra do Cục Tin học và Thống kê tài chính chủ trì tổ chức thực hiện.
+
+4. Thủ trưởng các đơn vị cấp Tổng cục:
+
+4.1. Hướng dẫn, cụ thể hóa Quy chế kiểm tra, kiểm toán nội bộ của Bộ Tài chính để thực hiện thống nhất trong phạm vi đơn vị.
+
+4.2. Quyết định phê duyệt kế hoạch chi tiết kiểm tra, kiểm toán nội bộ về quản lý tài chính, tài sản, đầu tư xây dựng và kế hoạch chi tiết kiểm tra hoạt động ứng dụng công nghệ thông tin hàng năm của đơn vị theo kế hoạch đã được Bộ trưởng phê duyệt.
+
+4.3. Ban hành thông báo kết quả kiểm tra, kiểm toán đối với các đơn vị được kiểm tra, kiểm toán nội bộ do đơn vị tổ chức thực hiện.
+
+Điều 6. Tổ chức thực hiện
+
+1. Cục Kế hoạch - Tài chính:
+
+1.1. Kiểm tra, giám sát việc thực hiện phân cấp, ủy quyền quy định tại Quyết định này của các đơn vị thuộc Bộ Tài chính.
+
+1.2. Tổng hợp, đề xuất báo cáo Bộ trưởng xem xét điều chỉnh, bổ sung quy định về phân cấp, ủy quyền phù hợp quy định của pháp luật.
+
+2. Thủ trưởng các đơn vị cấp Tổng cục ban hành Quyết định phân cấp, ủy quyền các lĩnh vực quản lý nội bộ ngành của Tổng cục sau khi có ý kiến tham gia bằng văn bản của Cục Kế hoạch - Tài chính.
+
+3. Thủ trưởng các đơn vị được phân cấp, ủy quyền quy định tại Quyết định này:
+
+3.1. Chịu trách nhiệm toàn diện trước pháp luật và Bộ trưởng trong tổ chức thực hiện các nhiệm vụ được giao theo phân cấp, ủy quyền.
+
+3.2. Kịp thời đề xuất báo cáo Bộ Tài chính (qua Cục Kế hoạch - Tài chính) xem xét, điều chỉnh, bổ sung quy định về phân cấp, ủy quyền trong các lĩnh vực quản lý cho phù hợp quy định của pháp luật.
+
+Điều 7. Hiệu lực thi hành
+
+1. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+
+2. Bãi bỏ Quyết định số 2298/QĐ-BTC ngày 06/9/2014 của Bộ trưởng Bộ Tài chính phân cấp, ủy quyền và tổ chức thực hiện đối với lĩnh vực tài chính, tài sản, đầu tư xây dựng, kiểm tra, kiểm toán nội bộ, ứng dụng công nghệ thông tin, mua sắm tập trung trong các cơ quan hành chính, đơn vị sự nghiệp, dự án vay nợ, viện trợ thuộc Bộ Tài chính, Quyết định số 2442/QĐ-BTC ngày 19/11/2015 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung Quyết định số 2298/QĐ-BTC ngày 06/9/2014, Công văn số 10682/BTC-THTK ngày 02/8/2016 của Bộ Tài chính về việc thẩm quyền phê duyệt kế hoạch thuê dịch vụ CNTT và đơn vị thẩm định kế hoạch thuê dịch vụ CNTT.
+
+3. Cục trưởng Cục Kế hoạch - Tài chính, Cục trưởng Cục Tin học và Thống kê tài chính, Chánh Văn phòng Bộ, Thủ trưởng các đơn vị, hệ thống thuộc Bộ và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+| Nơi nhận: - Như Điều 7; - Các đơn vị thuộc BTC; - Cổng TTĐT BTC (để đăng tải); - Lưu VT, KHTC. (70b) | KT. BỘ TRƯỞNG THỨ TRƯỞNG Huỳnh Quang Hải |
+
+|------------------------------------------------------------------------------------------------------|------------------------------------------|
+
+Nơi nhận: - Như Điều 7; - Các đơn vị thuộc BTC; - Cổng TTĐT BTC (để đăng tải); - Lưu VT, KHTC. (70b)
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Huỳnh Quang Hải

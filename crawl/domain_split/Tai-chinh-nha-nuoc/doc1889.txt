@@ -1,0 +1,981 @@
+| BỘ TÀI CHÍNH   | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|----------------|-----------------------------------------------------------------|
+
+| Số: 430/QĐ-BTC | Hà Nội, ngày 08 tháng 3 năm 2017                                |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 430/QĐ-BTC
+
+Hà Nội, ngày 08 tháng 3 năm 2017
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH KẾ HOẠCH PHÁT TRIỂN HỆ THỐNG KHO BẠC NHÀ NƯỚC GIAI ĐOẠN 2017-2020
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Quyết định số 26/2015/QĐ-TTg ngày 08 tháng 7 năm 2015 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Kho bạc Nhà nước trực thuộc Bộ Tài chính;
+
+Căn cứ Quyết định số 138/2007/QĐ-TTg ngày 21 tháng 8 năm 2007 của Thủ tướng Chính phủ phê duyệt Chiến lược phát triển Kho bạc Nhà nước đến năm 2020.
+
+Theo đề nghị của Tổng Giám đốc Kho bạc Nhà nước,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Phê duyệt “Kế hoạch phát triển hệ thống Kho bạc Nhà nước giai đoạn 2017 - 2020” với những nội dung chủ yếu sau:
+
+I. Mục tiêu
+
+1. Mục tiêu tổng quát
+
+Xây dựng Kho bạc Nhà nước (KBNN) hiện đại, hoạt động an toàn, hiệu quả và phát triển ổn định vững chắc trên cơ sở cải cách thể chế chính sách gắn với hiện đại hóa và phát triển nguồn nhân lực; tăng cường cải cách thủ tục hành chính gắn với hiện đại hóa hệ thống công nghệ thông tin (CNTT). Đến năm 2020, các hoạt động KBNN được thực hiện trên nền tảng CNTT hiện đại và hình thành kho bạc điện tử; đồng thời, nghiên cứu, hoàn thiện các quy định pháp lý có liên quan đến các chức năng, nhiệm vụ chủ yếu của KBNN (như quản lý quỹ NSNN, quản lý ngân quỹ, báo cáo tài chính nhà nước,...) để hướng tới việc xây dựng và hình thành Luật KBNN giai đoạn 2020 - 2030.
+
+2. Mục tiêu cụ thể
+
+a) Về quản lý quỹ ngân sách nhà nước (NSNN): Tiếp tục đổi mới cơ chế chính sách và quy trình nghiệp vụ về quản lý quỹ NSNN và các quỹ tài chính nhà nước (TCNN) thuộc phạm vi quản lý theo hướng: đơn giản, hiện đại, công khai, minh bạch, phù hợp với Luật NSNN năm 2015 và các thông lệ quốc tế, nhằm quản lý chặt chẽ và sử dụng có hiệu quả các nguồn lực TCNN, góp phần thực hiện thắng lợi kế hoạch phát triển kinh tế - xã hội giai đoạn 2017 - 2020.
+
+b) Về quản lý ngân quỹ nhà nước (NQNN) và huy động vốn: Tiếp tục đổi mới công tác quản lý NQNN theo quy định của Luật NSNN năm 2015 và Nghị định số 24/2016/NĐ-CP ngày 05/4/2016 quy định chế độ quản lý NQNN, đảm bảo quản lý NQNN an toàn và hiệu quả; gắn kết quản lý NQNN với quản lý nợ, nâng cao hiệu quả sử dụng các nguồn lực tài chính của Nhà nước. Tổ chức huy động tối đa nguồn vốn đáp ứng nhu cầu chi NSNN và cho đầu tư phát triển; đồng thời, đảm bảo an toàn và bền vững nợ công; xây dựng và phát triển thị trường trái phiếu phù hợp với mức độ phát triển của nền kinh tế, đồng bộ với sự phát triển của các hợp phần khác của thị trường tài chính; phát triển thị trường trái phiếu chính phủ (TPCP) một cách bền vững, đảm bảo an toàn hệ thống và từng bước tiếp cận với các thông lệ, chuẩn mực quốc tế để trở thành một kênh huy động vốn quan trọng, an toàn và hiệu quả cho nền kinh tế; kéo dài kỳ hạn TPCP trong nước giai đoạn 2017 - 2020 lên khoảng từ 6 - 8 năm; dư nợ TPCP đạt khoảng 22% GDP vào năm 2020.
+
+c) Về kế toán, thanh toán, quyết toán NSNN và Tổng Kế toán Nhà nước (KTNN): Hoàn thiện chế độ kế toán Nhà nước áp dụng cho TABMIS phù hợp với Luật NSNN năm 2015 và Luật Kế toán năm 2015; hoàn thiện công tác thanh toán đảm bảo việc thanh toán được thực hiện nhanh chóng, kịp thời, hiệu quả và an toàn về tài sản; cung cấp thông tin đầy đủ, toàn diện về tình hình NSNN, quyết toán NSNN, tình hình TCNN, bao gồm: báo cáo về tình hình TCNN; báo cáo kết quả hoạt động TCNN; báo cáo lưu chuyển tiền tệ; thuyết minh báo cáo TCNN. Từ đó, đáp ứng tốt yêu cầu công tác quản lý, điều hành tài chính - ngân sách và TCNN, công tác hoạch định chính sách, đánh giá hiệu quả sử dụng các nguồn lực TCNN của Quốc hội, Chính phủ, các cấp chính quyền địa phương và các cơ quan quản lý nhà nước khác.
+
+d) Về công tác kho quỹ: Quản lý an toàn tài sản quốc gia quý hiếm được giao theo quyết định của cơ quan nhà nước có thẩm quyền; quản lý an toàn tiền, tài sản, các loại chứng chỉ có giá của Nhà nước giao cho KBNN quản lý.
+
+đ) Về cải cách thủ tục hành chính và hiện đại hóa, phát triển công nghệ thông tin (CNTT): Cung cấp đầy đủ các dịch vụ công trực tuyến của KBNN; triển khai các ứng dụng CNTT phục vụ các chức năng của KBNN (quản lý quỹ NSNN, quản lý NQNN, Tổng KTNN); tăng cường ứng dụng CNTT cho các mảng hoạt động quản trị nội bộ KBNN; hoàn thiện, nâng cấp hạ tầng CNTT theo mô hình ảo hóa và điện toán đám mây; chuyên môn hóa đội ngũ công chức CNTT để khai thác, sử dụng có hiệu quả các hệ thống ứng dụng CNTT hiện đại. Xây dựng mô hình hành chính điện tử tập trung tại hệ thống KBNN.
+
+e) Về thanh tra, kiểm tra: Tăng cường giám sát kỷ luật tài chính tại đơn vị sử dụng NSNN thông qua công tác thanh tra chuyên ngành KBNN để thanh tra, kiểm tra tình hình quản lý, sử dụng kinh phí NSNN tại các đơn vị sử dụng NSNN theo định hướng và kế hoạch được phê duyệt. Chuyển đổi và xây dựng hệ thống kiểm tra, kiểm toán nội bộ KBNN hiện đại, hiệu quả về cơ chế chính sách, tổ chức bộ máy, đội ngũ công chức và phương pháp thực hiện nhằm giám sát chặt chẽ, đảm bảo sự phát triển an toàn, ổn định của hệ thống.
+
+g) Về tổ chức bộ máy và phát triển nguồn nhân lực: Kiện toàn tổ chức bộ máy theo hướng tinh gọn, hoạt động có hiệu lực, hiệu quả phù hợp với định hướng, lộ trình cải cách hành chính và hiện đại hóa hoạt động KBNN. Tổ chức quản lý và sử dụng biên chế theo vị trí việc làm gắn với cơ cấu ngạch công chức; gắn với đánh giá, phân loại công chức, người lao động; tinh giản biên chế theo Nghị quyết số 39-NQ/TW ngày 17/4/2015 của Bộ Chính trị và Nghị định số 108/2014/NĐ-CP ngày 20/11/2014 của Chính phủ. Đào tạo và phát triển nguồn nhân lực đủ về số lượng, chất lượng và cơ cấu hợp lý; có đầy đủ năng lực, phẩm chất đáp ứng tốt yêu cầu phát triển KBNN hiện đại; đồng thời, xây dựng, phát triển Trường Nghiệp vụ Kho bạc để tổ chức đào tạo công chức chuyên môn, nghiệp vụ đáp ứng nguồn nhân lực có chất lượng cho hệ thống KBNN. Đào tạo, bồi dưỡng nghiệp vụ chuyên sâu cả trong và ngoài nước; nâng cao ngoại ngữ và kỹ năng lãnh đạo, quản lý đối với đội ngũ công chức lãnh đạo, chuẩn bị đội ngũ lãnh đạo các cấp sau năm 2020.
+
+h) Về quản lý tài chính nội ngành: Quản lý và sử dụng chặt chẽ, tiết kiệm, có hiệu quả các nguồn kinh phí, tài sản nội ngành, đáp ứng yêu cầu hiện đại hóa hoạt động nghiệp vụ; tập trung đầu tư và triển khai dứt điểm để đến năm 2020, trụ sở làm việc và giao dịch của các đơn vị KBNN đều được đầu tư đồng bộ, cơ bản đảm bảo diện tích và điều kiện làm việc theo các quy định của Nhà nước và Bộ Tài chính; cân đối và bố trí đủ nguồn vốn cho việc triển khai và hoàn thành các dự án ứng dụng CNTT trọng điểm theo kế hoạch, danh mục dự toán đã được phê duyệt.
+
+i) Về hợp tác quốc tế: Chủ động thực hiện hội nhập, mở rộng hợp tác quốc tế trong lĩnh vực kho bạc theo lộ trình và bước đi phù hợp, đáp ứng yêu cầu hiện đại hóa hoạt động KBNN và hội nhập quốc tế. Tăng cường hỗ trợ và chia sẻ kinh nghiệm quản lý kho bạc với các nước trong khu vực và trên thế giới.
+
+k) Về công tác thông tin tuyên truyền và văn phòng: Tuyên truyền thường xuyên và kịp thời về đường lối chủ trương, chính sách của Đảng, Nhà nước, công tác chỉ đạo điều hành của Bộ Tài chính, KBNN; tình hình thực hiện và kết quả triển khai một số nhiệm vụ trọng tâm của KBNN; các nghiên cứu lý luận về các lĩnh vực tài chính, kho bạc; nêu gương người tốt, việc tốt và các điển hình tiên tiến trong hệ thống KBNN.
+
+Tiếp tục đẩy mạnh ứng dụng CNTT trong hoạt động quản trị nội bộ và văn
+
+thư, lưu trữ để việc quản lý, điều hành nội bộ của hệ thống KBNN được thực hiện trên môi trường mạng. Phấn đấu 100% các văn bản đi, đến trong nội bộ hệ thống KBNN (văn bản không mật) được luân chuyển dưới dạng điện tử; triển khai thực hiện hệ thống quản lý chất lượng ISO điện tử trong hoạt động của các đơn vị KBNN. Tiếp tục đổi mới và nâng cao hiệu quả công tác phối hợp giữa cấp ủy Đảng, chính quyền và các đoàn thể trong từng đơn vị KBNN.
+
+II. Nội dung Kế hoạch phát triển KBNN giai đoạn 2017 - 2020
+
+1. Quản lý quỹ NSNN:
+
+1.1. Tổ chức thu NSNN:
+
+a) Tiếp tục ứng dụng có hiệu quả CNTT điện tử tiên tiến vào quy trình quản lý thu NSNN theo hướng đơn giản về thủ tục hành chính, giảm thiểu thời gian và thủ tục nộp tiền cho các đối tượng nộp NSNN; đồng thời, hoàn thiện công tác kết nối, trao đổi thông tin dữ liệu điện tử về thu NSNN giữa các cơ quan, đơn vị (KBNN, cơ quan thu, cơ quan tài chính, các ngân hàng thương mại).
+
+b) Nghiên cứu và triển khai các phương thức thu nộp NSNN mới theo phương thức điện tử; đồng thời, đánh giá và triển khai rộng các phương thức thu NSNN hiện đại đã và đang được thực hiện như nộp NSNN qua Internet, ATM, nộp NSNN qua các thiết bị chấp nhận thẻ (POS) lắp đặt tại trụ sở KBNN.
+
+c) Mở rộng việc thu nộp NSNN (kể cả thu phạt vi phạm hành chính) bằng tiền mặt tại các chi nhánh, điểm giao dịch của NHTM nhằm tạo thuận lợi cho người nộp NSNN; đồng thời, hạn chế và tiến tới cơ bản không thực hiện giao dịch bằng tiền mặt qua KBNN vào năm 2020.
+
+1.2. Kiểm soát chi NSNN:
+
+a) Hoàn thiện cơ chế chính sách, quy trình nghiệp vụ về kiểm soát chi NSNN qua KBNN, cụ thể:
+
+- Tiếp tục rà soát, hoàn thiện hệ thống văn bản chính sách về kiểm soát chi NSNN nhằm đơn giản hóa thủ tục hành chính, nâng cao tính công khai minh bạch và trách nhiệm giải trình trong công tác kiểm soát chi NSNN qua KBNN; đồng thời, thống nhất đầu mối kiểm soát chi thường xuyên và chi đầu tư tại KBNN, phấn đấu rút ngắn thời gian kiểm soát chi đầu tư xuống còn 01 ngày vào năm 2020.
+
+- Nghiên cứu xây dựng và triển khai theo lộ trình dự án phát triển hệ thống quản lý kiểm soát thanh toán vốn đầu tư công trên mạng diện rộng.
+
+- Nghiên cứu xây dựng và triển khai thực hiện kiểm soát, thanh toán vốn ODA qua KBNN; quy trình kiểm soát chi theo hình thức đơn đặt hàng cung cấp dịch vụ công ích; thực hiện phân loại (theo nội dung chi, giá trị chi) để hoàn thiện quy trình kiểm soát các khoản chi NSNN qua KBNN theo nội dung và giá trị để tạo thuận lợi cho các đơn vị dự toán, chủ đầu tư.
+
+- Xây dựng và triển khai thực hiện theo lộ trình Chính phủ quy định về việc tổ chức kiểm soát, thanh toán các khoản chi NSNN gắn với kiểm soát ngân sách trung hạn; kiểm soát chi NSNN theo kết quả đầu ra, theo nhiệm vụ và chương trình ngân sách, gắn với việc thực hiện quyền tự chủ, tự chịu trách nhiệm của các Bộ, ngành, địa phương và các đơn vị sử dụng NSNN.
+
+b) Ứng dụng CNTT vào công tác kiểm soát chi NSNN qua KBNN, cụ thể:
+
+- Tiếp tục triển khai mở rộng các dịch vụ công trực tuyến của KBNN theo Nghị quyết số 36a/NQ-CP ngày 14/10/2015 của Chính phủ về Chính phủ điện tử (triển khai dịch vụ công trực tuyến về khai báo phiếu giao nhận hồ sơ giao dịch kiểm soát chi qua mạng và giao dịch một cửa với KBNN; giao diện thông tin yêu cầu thanh toán qua mạng và chương trình kê khai yêu cầu thanh toán;...); đồng thời, ứng dụng CNTT vào quy trình kiểm soát chi, phấn đấu đến năm 2020 hình thành quy trình kiểm soát chi điện tử (bao gồm cả chi thường xuyên và chi đầu tư).
+
+- Xây dựng chương trình kiểm soát chi đầu tư theo mô hình quản lý dữ liệu tập trung, trực tuyến trong ngành tài chính, có khả năng kết nối dữ liệu với cơ quan Kế hoạch đầu tư nhằm một mặt đáp ứng tốt hơn yêu cầu chỉ đạo điều hành của Chính phủ, các Bộ, ngành, địa phương; mặt khác, nâng cao hiệu quả kiểm soát chi đầu tư, tăng dần tỷ lệ giải ngân vốn đầu tư so với kế hoạch vốn được giao lên 95-96% và giảm dần số dư chuyển nguồn sang năm sau.
+
+c) Từng bước thực hiện nguyên tắc thanh toán, chi trả trực tiếp chi NSNN cho người cung cấp hàng hóa, dịch vụ phù hợp với hạ tầng công nghệ thanh toán của ngân hàng; tăng cường thanh toán không dùng tiền mặt thông qua việc sử dụng phương tiện thanh toán không dùng tiền mặt, đặc biệt là đối với các khoản mua sắm sử dụng vốn NSNN và cho các đoàn đi công tác nước ngoài.
+
+2. Quản lý NQNN và huy động vốn:
+
+2.1. Quản lý NQNN:
+
+a) Xây dựng và hoàn thiện các công cụ phục vụ quản lý NQNN an toàn và hiệu quả, bao gồm: hệ thống tài khoản thanh toán tập trung, hệ thống dự báo luồng tiền, quy trình quản lý rủi ro đối với hoạt động quản lý NQNN.
+
+b) Tổ chức điều hành NQNN an toàn, hiệu quả theo đúng quy đinh tại Nghị định số 24/2016/NĐ-CP ngày 05/04/2016 của Chính phủ và các Thông tư hướng dẫn của Bộ Tài chính.
+
+2.2. Huy động vốn cho NSNN và đầu tư phát triển:
+
+a) Hoàn thiện quy trình nghiệp vụ và tổ chức phát hành TPCP, bao gồm:
+
+- Xây dựng kế hoạch và lịch biểu phát hành TPCP phù hợp, công khai trên thị trường nhằm huy động vốn với chi phí hợp lý, tiết kiệm cho NSNN và tạo điều kiện cho nhà đầu tư chủ động tham gia thị trường TPCP.
+
+- Tập trung phát hành các loại TPCP có kỳ hạn dài, nâng kỳ hạn vay trung bình TPCP hàng năm lên mức 6-8 năm trong giai đoạn 2017 - 2020; đồng thời, tiếp tục nghiên cứu hiện đại hóa phương thức phát hành TPCP để nâng cao thanh khoản của TPCP và tăng cường khả năng huy động vốn cho NSNN, phấn đấu dư nợ TPCP đạt khoảng 22% GDP vào năm 2020.
+
+b) Phối hợp nghiên cứu và triển khai phát hành các sản phẩm trái phiếu mới theo lộ trình phát triển thị truờng trái phiếu đã được Bộ Tài chính phê duyệt, bao gồm:
+
+- Trái phiếu gắn với chỉ số lạm phát, trái phiếu có lãi suất thả nổi; TPCP có điều khoản mua lại trước hạn sau khi phát hành (buy-back bond); thực hiện nghiệp vụ giao dịch trái phiếu trước khi phát hành (when-issued).
+
+- Thực hiện tái cấu trúc danh mục TPCP theo hướng: tăng tỷ trọng phát hành TPCP kỳ hạn dài và thực hiện nghiệp vụ hoán đổi kéo dài kỳ hạn TPCP.
+
+3. Kế toán, thanh toán, quyết toán NSNN và Tổng KTNN:
+
+3.1. Về công tác kế toán:
+
+a) Xây dựng và trình Bộ Tài chính ban hành Thông tư hướng dẫn chế độ KTNN áp dụng cho TABMIS (thay thế Thông tư số 08/2013/TT-BTC).
+
+b) Triển khai áp dụng Mục lục NSNN mới trên chương trình TABMIS và ứng dụng liên quan khác của Bộ Tài chính.
+
+3.2. Triển khai đề án Tổng KTNN:
+
+a) Xây dựng và trình Chính phủ ban hành Nghị định về việc hướng dẫn lập Báo cáo tài chính nhà nước; xây dựng và trình Bộ Tài chính ban hành Thông tư hướng dẫn Nghị định của Chính phủ.
+
+b) Xây dựng hệ thống thông tin đáp ứng yêu cầu tổng hợp thông tin báo cáo của Tổng KTNN.
+
+3.3. Thực hiện quyết toán NSNN: Tổng hợp báo cáo quyết toán NSNN hàng năm, báo cáo các cơ quan có thẩm quyền đúng thời gian quy định.
+
+3.4. Thanh toán và kho quỹ:
+
+a) Hoàn thiện các hệ thống thanh toán của KBNN, đảm bảo thanh toán nhanh chóng, kịp thời, hiệu quả và an toàn về tiền của Nhà nước.
+
+b) Hoàn thiện cơ chế, chính sách, quy trình nghiệp vụ về quản lý tiền mặt, giấy tờ có giá, tài sản quý, tài sản tạm thu, tạm giữ, tạm gửi.
+
+c) Xây dựng phương án xử lý tài sản là vàng, bạc, tài sản quý tại các đơn vị KBNN các cấp
+
+d) Xây dựng phòng trưng bày đá quý, kim khí quý
+
+4. Cải cách hành chính, hiện đại hóa và phát triển CNTT:
+
+4.1. Cải cách hành chính:
+
+a) Tập trung các nguồn lực (tài chính, nhân lực,...) để thực hiện thành công Chiến lược phát triển KBNN đến năm 2020, kế hoạch phát triển KBNN giai đoạn 2017 - 2020 và kế hoạch cải cách hành chính KBNN giai đoạn 2016 - 2020, đặc biệt là các đề án/dự án có liên quan đến cải cách hành chính.
+
+b) Hàng năm, căn cứ yêu cầu và kế hoạch cải cách hành chính của Chính phủ và Bộ Tài chính, KBNN xây dựng kế hoạch cải cách hành chính của hệ thống theo các yêu cầu sau:
+
+- Xác định rõ nội dung, tiến độ từng đề án, cơ chế chính sách thuộc Chiến lược phát triển KBNN đến năm 2020 và kế hoạch phát triển KBNN giai đoạn 2017 - 2020 cần phải thực hiện trong năm.
+
+- Lồng ghép, kết hợp các hoạt động cải cách hành chính với hoạt động xây dựng văn bản, chính sách pháp luật; kiểm tra thực hiện và theo dõi thi hành pháp luật; tăng cường kỷ luật, kỷ cương trong hoạt động KBNN.
+
+- Xác định rõ các nhiệm vụ trọng tâm để tập trung thực hiện hiệu quả; trong đó, đẩy mạnh công tác cải cách thủ tục hành chính (TTHC) và kiểm tra, đánh giá việc thực hiện TTHC tại đơn vị.
+
+4.2. Hiện đại hóa và phát triển CNTT:
+
+a) Xây dựng và phát triển các ứng dụng CNTT:
+
+- Phát triển các ứng dụng CNTT đầy đủ cho các mảng hoạt động nghiệp vụ KBNN và quản trị nội bộ KBNN theo hướng tập trung hóa nhằm tạo cơ sở để thực hiện các giao dịch một cách trực tuyến, tổng hợp số liệu nhanh chóng phục vụ cho công tác quản lý, điều hành; tạo nền tảng để thực hiện liên kết, tích hợp, trao đổi thông tin giữa các ứng dụng CNTT trong nội bộ KBNN, giữa KBNN và các hệ thống bên ngoài để chia sẻ và sử dụng có hiệu quả, cơ sở dữ liệu thông tin của các hệ thống CNTT có liên quan.
+
+- Nghiên cứu và phát triển các ứng dụng CNTT nhằm từng bước giảm thiểu rủi ro đối với công chức KBNN trong quá trình tác nghiệp.
+
+- Tối ưu hóa hạ tầng CNTT theo xu hướng ảo hóa và điện toán đám mây, nâng cao tính linh hoạt của hạ tầng CNTT, đáp ứng yêu cầu thay đổi của các hoạt động nghiệp vụ và mở rộng hệ thống CNTT.
+
+- Nghiên cứu và triển khai theo lộ trình giải pháp cho phép các đối tượng nộp NSNN thực hiện khai báo thông tin liên quan đến khoản nộp NSNN trên các chương trình ứng dụng của Bộ Tài chính để tách bạch thông tin phục vụ cho việc quản lý thu NSNN với các thông tin thanh toán.
+
+b) Xây dựng phần cứng:
+
+- Triển khai hệ thống CNTT dự phòng thảm họa tại Trung tâm dự phòng thảm họa ngành tài chính, phục vụ cho các bài toán ứng dụng cốt lõi về quản lý quỹ NSNN, thanh toán của KBNN và Tổng KTNN.
+
+- Triển khai hạ tầng CNTT cho môi trường sản xuất phục vụ cho các bài toán ứng dụng mới hoặc nâng cấp hạ tầng của các bài toán ứng dụng hiện có theo yêu cầu cần mở rộng, thay thế hoặc quy hoạch theo hướng ảo hóa và điện toán đám mây.
+
+- Vận hành, thay thế, duy trì hạ tầng CNTT phục vụ nhu cầu nghiệp vụ.
+
+c) An toàn và bảo mật thông tin:
+
+- Thay thế hoặc cập nhật kịp thời các giải pháp, các quy định an toàn, bảo mật thông tin phù hợp với kiến trúc, công nghệ hạ tầng CNTT mới; thường xuyên kiểm tra, đánh giá an toàn thông tin về mạng, chương trình ứng dụng, cơ sở dữ liệu; xây dựng và triển khai các phương án phòng ngừa, xử lý sự cố an ninh mạng,... để hệ thống CNTT của KBNN được hoạt động an toàn và ổn định.
+
+- Tích hợp chữ ký số vào các hệ thống liên quan đến thanh toán và dịch vụ công mức 3 giữa đơn vị giao dịch và KBNN.
+
+5. Thanh tra, kiểm tra:
+
+a) Về cơ chế, chính sách: Hoàn thiện và ban hành đầy đủ các văn bản hướng dẫn nội bộ, làm căn cứ cho triển khai hoạt động thanh tra, kiểm tra KBNN như: quy trình xử lý sau thanh tra; quy chế phối hợp trong hoạt động thanh tra, kiểm tra giữa các đơn vị KBNN; cập nhật thường xuyên sổ tay thanh tra chuyên ngành; khung kiểm soát quản lý rủi ro trong công tác kiểm soát chi NSNN.
+
+b) Về tổ chức thực hiện:
+
+- Sử dụng linh hoạt các phương thức kiểm tra, kết hợp giữa giám sát từ xa với kiểm tra tại chỗ; tăng cường công tác tự kiểm tra và phúc tra, xử lý sau thanh tra, kiểm tra,... nhằm phát hiện và cảnh báo sớm các rủi ro trong hoạt động KBNN. Ngăn chặn và có biện pháp xử lý kịp thời các hiện tượng vi phạm chính sách chế độ, giúp công tác quản lý, điều hành hoạt động KBNN được thông suốt, an toàn và đúng pháp luật.
+
+- Tiếp tục tuyên truyền, phổ biến về thanh tra chuyên ngành KBNN đến các đơn vị sử dụng NSNN theo định hướng và kế hoạch đã được phê duyệt.
+
+6. Tổ chức bộ máy và phát triển nguồn nhân lực:
+
+a) Về tổ chức bộ máy: Tập trung kiện toàn tổ chức bộ máy KBNN các cấp theo Quyết định số 26/2015/QĐ-TTg của Thủ tướng Chính phủ; đồng thời, ổn định mô hình tổ chức Cục quản lý NQNN, Cục KTNN và chuẩn bị các điều kiện cần thiết để vận hành đầy đủ chức năng quản lý NQNN, Tổng KTNN khi Luật NSNN, Luật KTNN sửa đổi có hiệu lực. Từng bước sắp xếp tinh gọn đầu mối quản lý, đặc biệt triển khai thống nhất đầu mối kiểm soát chi (chi thường xuyên, chi đầu tư) từ năm 2018.
+
+b) Về quản lý, đào tạo và bồi dưỡng công chức:
+
+- Quản lý, sử dụng biên chế theo vị trí việc làm gắn với cơ cấu ngạch công chức, với việc đánh giá, phân loại công chức, người lao động; thực hiện tinh giản biên chế theo Nghị quyết số 39-NQ/TW ngày 17/4/2015 của Bộ Chính trị và Nghị định số 108/2014/NĐ-CP ngày 20/11/2014 của Chính phủ.
+
+- Đẩy mạnh việc luân chuyển, luân phiên, điều động, chuyển đổi vị trí công tác đối với công chức để vừa hợp lý hóa, vừa nâng cao chất lượng nguồn nhân lực hệ thống KBNN.
+
+- Đào tạo, bồi dưỡng nghiệp vụ chuyên sâu (kết hợp cả đào tạo ngoại ngữ nâng cao) ở nước ngoài; nâng cao kỹ năng lãnh đạo, quản lý đối với đội ngũ công chức lãnh đạo trong hệ thống KBNN để đáp ứng yêu cầu ngày càng cao trong công tác chỉ đạo, điều hành khi hệ thống KBNN trở thành kho bạc điện tử; đồng thời, chuẩn bị đội ngũ lãnh đạo các cấp sau năm 2020.
+
+- Tăng cường đào tạo chuyên sâu, đặc biệt là các nghiệp vụ mới (như quản lý NQNN, Tổng KTNN, thanh tra chuyên ngành KBNN) thông qua các hình thức như: thuê chuyên gia tư vấn; tổ chức các đoàn khảo sát, các khóa đào tạo tại các nước tiên tiến,... Bên cạnh đó, tổ chức đào tạo để chuyển đổi vị trí việc làm đối với công chức làm công tác kiểm ngân, thủ kho, thủ quỹ; đào tạo cao cấp lý luận chính trị, quản lý nhà nước, đáp ứng yêu cầu về chuẩn ngạch công chức và tiêu chuẩn chức danh lãnh đạo; đào tạo công chức nghiệp vụ có đủ năng lực để khai thác, sử dụng các hệ thống ứng dụng CNTT; đào tạo về ngoại ngữ, lễ tân và giao tiếp đối ngoại cho các công chức tham gia hoạt động hợp tác quốc tế.
+
+- Chuyên nghiệp hóa đội ngũ công chức CNTT của KBNN theo các vị trí công việc và hình thành các bộ phận chuyên trách về hỗ trợ ứng dụng tập trung toàn ngành, bộ phận an toàn thông tin; đồng thời, từng bước thực hiện thuê ngoài vận hành, hỗ trợ, bảo trì, bảo dưỡng hệ thống CNTT của KBNN.
+
+- Tăng cường công tác tuyên truyền, giáo dục để nâng cao phẩm chất đạo đức, tinh thần trách nhiệm của cán bộ, công chức KBNN trong thi hành công vụ; đồng thời, từng bước nâng cao trình độ học vấn công chức hệ thống KBNN từ trung ương đến địa phương, đảm bảo số lượng, chất lượng, cơ cấu hợp lý có đầy đủ năng lực, phẩm chất đáp ứng tốt yêu cầu phát triển KBNN. Phấn đấu đến năm 2020, tỷ lệ công chức trong toàn hệ thống KBNN đạt trình độ sau đại học là 4%, trình độ đại học là 80% và 100% công chức KBNN được chuẩn hóa theo tiêu chuẩn chức danh và tiêu chuẩn chuyên môn nghiệp vụ.
+
+- Thực hiện rà soát, bổ sung quy hoạch đảm bảo cơ cấu 3 độ tuổi trong quy hoạch từng chức danh lãnh đạo, quản lý; tổ chức đào tạo, bồi dưỡng công chức được quy hoạch để tạo nguồn thay thế đội ngũ công chức lãnh đạo kịp thời khi cần thiết; nâng cao tỷ lệ công chức giữ chức vụ lãnh đạo là nữ, phấn đấu đến năm 2020, mỗi KBNN cấp tỉnh có 01 lãnh đạo là nữ.
+
+c) Về thi đua, khen thưởng: Nâng cao chất lượng xét duyệt khen thưởng cho các tập thể, cá nhân, gắn với việc đánh giá năng lực, thành tích của người được khen thưởng, khắc phục tình trạng tích lũy khen thưởng.
+
+d) Về xây dựng, phát triển Trường Nghiệp vụ Kho bạc: Xây dựng, phát triển Trường Nghiệp vụ KBNN, đủ điều kiện và năng lực để tổ chức công tác đào tạo, bồi dưỡng chuyên môn, nghiệp vụ đáp ứng nhu cầu nguồn nhân lực có chất lượng cho hệ thống KBNN; trong đó, tập trung một số nội dung: (i) xây dựng nội dung, chương trình và phương pháp đào tạo, bồi dưỡng; (ii) nâng cao trình độ, năng lực cho đội ngũ công chức quản lý và giảng viên; (iii) củng cố cơ sở vật chất của Trường Nghiệp vụ Kho bạc.
+
+7. Quản lý tài chính nội ngành
+
+a) Về quy trình nghiệp vụ: Hoàn thiện và ban hành đầy đủ các văn bản hướng dẫn quy trình, thủ tục quản lý tài chính, tài sản, đầu tư XDCB, ứng dụng CNTT, kiểm tra, kiểm toán nội bộ trong hệ thống KBNN theo đúng các quy định của Chính phủ và Bộ Tài chính.
+
+b) Về quản lý tài chính:
+
+- Chủ động cân đối, điều hành các nguồn tài chính để thực hiện các nhiệm vụ chuyên môn; đồng thời, hoàn thành các đề án/dự án cải cách, hiện đại hóa theo từng lĩnh vực đã được cấp có thẩm quyền phê duyệt.
+
+- Nâng cao chất lượng công tác lập, phân bổ và giao dự toán ngân sách cho các đơn vị trong nội bộ hệ thống theo thứ tự ưu tiên để phục vụ các nhiệm vụ trọng tâm của ngành và theo đúng nội dung, mức chi đã được quy định.
+
+c) Về quản lý tài sản nội ngành: Ban hành danh mục tài sản, trang thiết bị, phương tiện làm việc đặc thù của hệ thống KBNN; quy định về tiêu chuẩn, định mức trang bị, sử dụng tài sản, trang thiết bị, phương tiện làm việc đặc thù của hệ thống KBNN; xây dựng và ban hành quy chế quản lý, sử dụng TSNN tại KBNN; thực hiện đầu tư đồng bộ các trang thiết bị phục vụ chuyên môn.
+
+d) Về đầu tư XDCB; Tiếp tục hoàn thiện đồng bộ quy hoạch đầu tư XDCB giai đoạn 2017 - 2020 của hệ thống KBNN; xây dựng kế hoạch đầu tư hàng năm theo đúng quy hoạch đã được phê duyệt và có tính khả thi; tập trung nhân lực, nguồn lực để hoàn thành các dự án giai đoạn 2017 - 2020 theo đúng quy hoạch đã được Bộ Tài chính phê duyệt; rút ngắn quy trình và thời gian xử lý hồ sơ tại trung ương khi địa phương trình về đầu tư XDCB.
+
+8. Hợp tác quốc tế:
+
+a) Về công tác ngoại vụ: Hoàn thiện các quy định quản lý về hoạt động đối ngoại trong nội bộ hệ thống KBNN; đồng thời, xây dựng kho tư liệu hợp tác quốc tế KBNN để cung cấp thông tin và phục vụ nhu cầu nghiên cứu, tra cứu của công chức KBNN.
+
+b) Về các chương trình hợp tác quốc tế:
+
+- Chủ động thực hiện hội nhập, mở rộng hợp tác quốc tế trong lĩnh vực kho bạc thông qua việc triển khai các quan hệ hợp tác với các tổ chức tài chính quốc tế (IMF và WB), diễn đàn quốc tế và khu vực, chương trình hỗ trợ, phân tích và tư vấn về quản lý tài chính công (Chương trình AAA), các chương trình hợp tác khác để tranh thủ sự hỗ trợ kỹ thuật và các nguồn tài chính cho các hoạt động cải cách của KBNN.
+
+- Tham gia có hiệu quả các diễn đàn và tổ chức quốc tế; tiếp tục triển khai hợp tác hỗ trợ Kho bạc quốc gia Lào; duy trì hoạt động tư vấn cho Bộ Tài chính và Vật giá Cu Ba; duy trì và mở rộng các hoạt động hợp tác song phương khác.
+
+9. Công tác thông tin tuyên tuyền và Văn phòng:
+
+a) Về thông tin tuyên truyền:
+
+- Đẩy mạnh thông tin tuyên truyền về việc thực hiện các chức năng, nhiệm vụ mới của hệ thống KBNN; tình hình và kết quả hoạt động của hệ thống KBNN trên Cổng thông tin điện tử KBNN và các cơ quan thông tấn, báo chí của trung ương và địa phương.
+
+- Xây dựng kế hoạch và tổ chức tuyên truyền đa dạng theo đúng đường lối chủ trương chính sách của Đảng và Nhà nước; chủ động phối hợp và cung cấp thông tin cho các cơ quan thông tin để tuyên truyền, phổ biến về hoạt động KBNN, đặc biệt là các hoạt động trọng tâm của KBNN.
+
+- Đổi mới nội dung, hình thức các chuyên mục trên Tạp chí quản lý NQNN phù hợp với xu thế phát triển của báo chí hiện đại; duy trì và phát triển các bài viết nghiên cứu khoa học chuyên sâu về từng lĩnh vực, đảm bảo các điều kiện là tạp chí khoa học; đẩy mạnh công tác phát hành, quảng cáo ra các đơn vị ngoài ngành, phấn đấu số lượng phát hành tăng 10-15%/năm, doanh thu từ quảng cáo tăng 10%/năm.
+
+- Tiếp tục phát triển đội ngũ công chức, phóng viên, biên tập viên, cộng tác viên tại KBNN; định kỳ tổ chức tập huấn nghiệp vụ báo chí để nâng cao kỹ năng viết báo, tạp chí; xây dựng cơ chế động viên, khuyến khích và tạo điều kiện cho công chức làm công tác tuyên truyền, phóng viên, biên tập viên.
+
+b) Về công tác văn phòng:
+
+- Tăng cường ứng dụng CNTT trong hoạt động quản lý, điều hành của hệ thống KBNN (như triển khai Chương trình Quản lý văn bản và điều hành ngành Tài chính; phần mềm tra cứu các văn bản chỉ đạo, điều hành, hướng dẫn nghiệp vụ của KBNN;).
+
+- Rà soát và hoàn thiện quy chế phối hợp giữa tổ chức Đảng, Chính quyền và các tổ chức đoàn thể tại từng đơn vị KBNN, tạo sự thống nhất cao trong triển khai thực hiện nhiệm vụ.
+
+III. Giải pháp thực hiện:
+
+1. Hoàn thiện hệ thống thể chế chính sách trong lĩnh vực KBNN:
+
+Rà soát, hoàn thiện và trình cấp có thẩm quyền ban hành đầy đủ, đồng bộ khuôn khổ pháp lý phục vụ cho cải cách hiện đại hóa trong lĩnh vực kho bạc, cụ thể:
+
+a) Xây dựng và trình Chính phủ ban hành Nghị định Chính phủ về báo cáo TCNN.
+
+b) Xây dựng và trình Chính phủ ban hành Nghị định quy định các quy trình, thủ tục liên quan đến hoạt động KBNN
+
+c) Xây dựng và trình Bộ Tài chính ban hành các Thông tư hướng dẫn triển khai thực hiện Luật NSNN 2015 và Luật Kế toán năm 2015 đối với những nội dung liên quan trực tiếp đến hoạt động KBNN, bao gồm: (1) Thông tư hướng dẫn quản lý thu, chi bằng tiền mặt và một số hoạt động thanh toán không dùng tiền mặt qua KBNN; (2) Thông tư quy định chế độ kiểm soát, thanh toán các khoản chi NSNN qua KBNN theo Luật NSNN 2015 và Nghị định quy định các quy trình, thủ tục liên quan đến hoạt động KBNN; (3) Thông tư hướng dẫn Nghị định về Báo cáo tài chính Nhà nước; (4) Thông tư thay thế Thông tư số 08/2013/TT-BTC ngày 10/01/2013 hướng dẫn thực hiện kế toán nhà nước áp dụng cho TABMIS; (5) Thông tư thay thế Thông tư số 61/2014/TT-BTC ngày 12/5/2014 hướng dẫn đăng ký và sử dụng tài khoản tại KBNN trong điều kiện áp dụng TABMIS; (6) Thông tư sửa đổi Quyết định 61/2002/QĐ-BTC ngày 17/5/2002 về việc ban hành chế độ quản lý tiền mặt, giấy tờ có giá, tài sản quý trong hệ thống KBNN; (7) Thông tư thay thế Thông tư số 209/2010/TT-BTC ngày 20/12/2010 quy định về giao dịch điện tử trong hoạt động nghiệp vụ KBNN (bao gồm cả nội dung xây dựng Thông tư quy định thủ tục giao dịch điện tử đối với dịch vụ công trên Cổng thông tin KBNN); (8) Thông tư hướng dẫn kiểm soát cam kết chi NSNN qua KBNN theo quy định tại Luật NSNN năm 2015 và Nghị định quy định các quy trình, thủ tục liên quan đến hoạt động KBNN; (9) Thông tư quy định tạm ứng NQNN; (10) Trình Bộ Tài chính ban hành Thông tư sửa đổi, bổ sung Thông tư số 122/2012/TT-BTC ngày 27/7/2012 quy định việc quản lý đối với các loại tài sản quý hiếm và giấy tờ có giá do KBNN nhận gửi và bảo quản.
+
+d) Xây dựng và trình Bộ Tài chính ban hành Quyết định của Bộ trưởng Bộ Tài chính về quy chế điều hành Quỹ ngoại tệ tập trung (thay thế Quyết định số 93/2000/QĐ-BTC ngày 06/6/2000).
+
+2. Nâng cao nhận thức của công chức KBNN, đặc biệt là đội ngũ lãnh đạo chủ chốt; đồng thời, tăng cường sự phối kết hợp của các đơn vị liên quan trong triển khai thực hiện Kế hoạch phát triển của hệ thống KBNN:
+
+a) Giữ vững các mục tiêu đã được xác định trong Chiến lược phát triển KBNN đến năm 2020, Kế hoạch phát triển của hệ thống KBNN giai đoạn 2017 - 2020 với ý chí và quyết tâm cải cách cao; phối hợp với các tổ chức Đảng, đoàn thể quán triệt đến từng công chức những thay đổi về quan điểm, tư duy quản lý theo phương thức và cách thức quản lý mới để thực hiện các đề án Chiến lược phát triển KBNN, Kế hoạch phát triển của hệ thống KBNN giai đoạn 2017 - 2020.
+
+b) Tăng cường công tác tuyên truyền, phổ biến thông tin để mọi công chức trong hệ thống KBNN nhận thức đúng đắn về ý nghĩa, vai trò, tầm quan trọng, xu thế phát triển của kho bạc và công nghệ quản lý hiện đại, đặc biệt là CNTT đối với quá trình cải cách, hiện đại hóa hoạt động KBNN để có các biện pháp thiết thực thực hiện thành công Chiến lược phát triển KBNN và Kế hoạch phát triển của hệ thống KBNN giai đoạn 2017 - 2020.
+
+c) Tăng cường phối hợp công tác với các đơn vị có liên quan trong việc triển khai các Đề án, chính sách lớn để giải quyết triệt để các vướng mắc nhằm đảm bảo đúng nội dung và lộ trình triển khai đã đề ra.
+
+d) Tranh thủ sự quan tâm, chỉ đạo trực tiếp sát sao của Bộ Tài chính, các cấp ủy, chính quyền địa phương và tăng cường sự ủng hộ, sự phối kết hợp chặt chẽ với các Bộ, ngành, đơn vị có liên quan để triển khai thực hiện tốt Kế hoạch phát triển của hệ thống KBNN giai đoạn 2017 - 2020.
+
+3. Tập trung mọi nguồn lực để xây dựng và triển khai các đề án, cơ chế chính sách trong Kế hoạch phát triển của hệ thống KBNN:
+
+a) Tăng cường số lượng, chất lượng đội ngũ công chức nghiên cứu, hoạch định chính sách tại KBNN (TW) thông qua các hình thức tuyển dụng mới công chức có năng lực, trình độ từ bên ngoài; đào tạo, bồi dưỡng, cập nhật kiến thức mới cho đội ngũ công chức nghiên cứu, hoạch định chính sách; thường xuyên sàng lọc và sắp xếp lại lực lượng công chức KBNN tại trung ương,... nhằm xây dựng đội ngũ cán bộ có đủ năng lực và trình độ chuyên môn để nghiên cứu, xây dựng và triển khai các đề án, cơ chế chính sách theo Kế hoạch phát triển của hệ thống KBNN giai đoạn 2017 - 2020.
+
+b) Củng cố và nâng cao tính chuyên nghiệp, trình độ quản lý của đội ngũ công chức tác nghiệp tại các địa phương, đảm bảo đủ số lượng và chất lượng; đồng thời, cơ cấu, bố trí, sắp xếp lại và tổ chức đào tạo, bồi dưỡng, tập huấn cho công chức địa phương,... để việc triển khai thực hiện Kế hoạch phát triển của hệ thống KBNN giai đoạn 2017 - 2020 được thuận lợi và có hiệu quả.
+
+c) Xây dựng cơ chế tài chính mang tính đột phá để có thể đãi ngộ một cách hợp lý và thỏa đáng đối với đội ngũ công chức làm công tác nghiên cứu, hoạch định chính sách tại trung ương, đặc biệt là các công chức trực tiếp xây dựng và triển khai các đề án, cơ chế chính sách thuộc Chiến lược phát triển KBNN và Kế hoạch phát triển KBNN giai đoạn 2017 - 2020.
+
+d) Triển khai có hiệu quả cơ chế tài chính nội bộ của KBNN để có đủ nguồn lực tài chính triển khai thực hiện các đề án cải cách, hiện đại hóa theo Chiến lược phát triển KBNN, Kế hoạch phát triển của hệ thống KBNN giai đoạn 2017 - 2020; trong đó, chú trọng đầu tư hiện đại hóa CNTT KBNN, coi CNTT là khâu đột phá quan trọng trong cải cách và hiện đại hóa KBNN.
+
+4. Nâng cao hiệu quả tổ chức thực hiện:
+
+a) Trên cơ sở danh mục các đề án, cơ chế chính sách cần triển khai thực hiện, từng đơn vị được giao chủ trì các đề án, cơ chế chính sách cần chủ động xây dựng kế hoạch triển khai cụ thể từng năm trong giai đoạn 2017 - 2020, gắn với việc thực hiện Nghị quyết số 63/NQ-CP ngày 22/7/2016 của Chính phủ ban hành Chương trình hành động của Chính phủ thực hiện Nghị quyết của Quốc hội về Kế hoạch phát triển kinh tế - xã hội 5 năm 2016 - 2020; Chỉ thị số 26/CT-TTg ngày 5/9/2016 của Thủ tướng Chính phủ về tăng cường kỷ cương, kỷ luật trong các cơ quan hành chính nhà nước các cấp. Trong đó, xác định rõ phạm vi, nguyên tắc, nội dung và lộ trình triển khai; phân công nhiệm vụ thực hiện đến từng đơn vị, cá nhân có liên quan (đơn vị chủ trì, đơn vị phối hợp); đồng thời, bố trí đủ nguồn lực (nhân lực, tài chính, cơ sở vật chất kỹ thuật,...) để triển khai thực hiện.
+
+b) Các đơn vị được giao nhiệm vụ phối hợp với các đơn vị chủ trì xây dựng, triển khai các đề án, cơ chế chính sách cần tích cực tham gia chặt chẽ với đơn vị chủ trì đảm bảo sự thành công chung trong triển khai thực hiện Chiến lược phát triển KBNN đến năm 2020 và Kế hoạch phát triển hệ thống KBNN giai đoạn 2017 - 2020.
+
+c) Định kỳ, tổ chức đánh giá tình hình thực hiện để có biện pháp xử lý những khó khăn vướng mắc và điều chỉnh kịp thời về phạm vi, nội dung, lộ trình triển khai của các đề án, cơ chế chính sách phù hợp với tình hình thực tiễn; đồng thời, xác định những ảnh hưởng (nếu có) về tổ chức bộ máy, nguồn nhân lực, nguồn tài chính, cơ sở vật chất kỹ thuật,... để xây dựng và triển khai các kế hoạch chuyển đổi phù hợp khi thực hiện cải cách.
+
+d) Nghiên cứu xây dựng cơ chế đặc thù cho phép triển khai sớm các hạng mục về mua sắm, đầu tư các dự án CNTT, đặc biệt là dự án An toàn bảo mật để đáp ứng kịp với yêu cầu cấp bách về An toàn bảo mật hệ thống thông tin trong các cơ quan nhà nước hiện nay theo Chỉ thị số 897/CT-TTg ngày 10/6/2011 của Thủ tướng Chính phủ.
+
+Điều 2. Ban hành kèm theo Quyết định này Danh mục các đề án, chính sách thực hiện kế hoạch phát triển hệ thống KBNN giai đoạn 2017 - 2020.
+
+Điều 3. Tổ chức thực hiện
+
+1. Trên cơ sở kế hoạch phát triển KBNN giai đoạn 2017 - 2020, Tổng Giám đốc KBNN chỉ đạo toàn hệ thống KBNN tổ chức triển khai thực hiện theo đúng nội dung và lộ trình đã được phê duyệt.
+
+2. Các đơn vị thuộc và trực thuộc Bộ Tài chính theo chức năng, nhiệm vụ có trách nhiệm phối hợp với KBNN tổ chức và triển khai thực hiện Kế hoạch phát triển hệ thống KBNN giai đoạn 2017 - 2020 trong phạm vi thẩm quyền.
+
+3. Định kỳ hàng năm (trước ngày 15 tháng 12), KBNN báo cáo Bộ Tài chính đánh giá kết quả và tiến độ thực hiện Kế hoạch phát triển hệ thống KBNN giai đoạn 2017 - 2020.
+
+4. Năm 2019, KBNN tổ chức tổng kết, đánh giá cụ thể các mục tiêu, nội dung đề án, cơ chế chính sách trong giai đoạn 2017 - 2020, làm cơ sở để xây dựng định hướng phát triển KBNN ở giai đoạn tiếp theo.
+
+Điều 4. Hiệu lực thi hành
+
+Quyết định này có hiệu lực thi hành kể từ ngày ký. Chánh Văn phòng Bộ Tài chính, Tổng Giám đốc KBNN, Thủ trưởng các Tài chính chịu trách nhiệm thi hành Quyết định này.
+
+| Nơi nhận: - Các đơn vị thuộc Bộ Tài chính; - Tổng cục Thuế, Tổng cục Hải quan; - Các đơn vị thuộc KBNN; - Kho bạc Nhà nước các tỉnh, thành phố; - Website Bộ Tài chính; - Lưu: VT, KBNN (120 bản). | BỘ TRƯỞNG Đinh Tiến Dũng |
+
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+
+Nơi nhận: - Các đơn vị thuộc Bộ Tài chính; - Tổng cục Thuế, Tổng cục Hải quan; - Các đơn vị thuộc KBNN; - Kho bạc Nhà nước các tỉnh, thành phố; - Website Bộ Tài chính; - Lưu: VT, KBNN (120 bản).
+
+BỘ TRƯỞNG Đinh Tiến Dũng
+
+PHỤ LỤC
+
+DANH MỤC CÁC ĐỀ ÁN, CHÍNH SÁCH THỰC HIỆN KẾ HOẠCH PHÁT TRIỂN HỆ THỐNG KBNN GIAI ĐOẠN 2017-2020 (Kèm theo Quyết định số 430/QĐ-BTC ngày 08 tháng 3 năm 2017 của Bộ trưởng Bộ Tài chính)
+
+| STT                | Đề án, chính sách                                                                                                                                                                                                                                                                                                                                            | Thời gian bắt đầu/kết thúc                                                                      | Đơn vị chủ trì/phối hợp                                                                                                                                                                                                                                                                                                                                                                               | Kết quả công việc/đầu ra dự kiến                                                                                                                                                                                                                                               |                                                             |
+
+|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+
+| Cơ chế, chính sách | Tổ chức thực hiện                                                                                                                                                                                                                                                                                                                                            |                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                |                                                             |
+
+| I                  | Về quản lý quỹ ngân sách nhà nước                                                                                                                                                                                                                                                                                                                            |                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                |                                                             |
+
+| 1                  | Trình Chính phủ ban hành Nghị định quy định các quy trình, thủ tục liên quan đến hoạt động KBNN                                                                                                                                                                                                                                                              | 2017                                                                                            | KBNN/Vụ Đầu tư, Tổng cục Thuế, Cục QLN&TCĐN và các đơn vị có liên quan                                                                                                                                                                                                                                                                                                                                | Nghị định quy định các quy trình, thủ tục liên quan đến hoạt động KBNN                                                                                                                                                                                                         | KBNN; các cơ quan có liên quan                              |
+
+| 2                  | Trình Bộ Tài chính ban hành Thông tư về hướng dẫn quản lý thu, chi bằng tiền mặt qua KBNN (thay thế thông tư số 164/2011/TT-BTC)                                                                                                                                                                                                                             | 2017                                                                                            | KBNN/ các đơn vị có liên quan thuộc Bộ                                                                                                                                                                                                                                                                                                                                                                | Thông tư hướng dẫn quản lý thu, chi bằng tiền mặt qua KBNN                                                                                                                                                                                                                     | KBNN; các đơn vị sử dụng NSNN; các đơn vị có liên quan khác |
+
+| 3                  | Trình Bộ Tài chính ban hành Thông tư quy định chế độ kiểm soát, thanh toán các khoản chi NSNN qua KBNN theo Luật NSNN năm 2015 và Nghị định quy định các quy trình, thủ tục liên quan đến hoạt động KBNN                                                                                                                                                     | 2017                                                                                            | KBNN/ Vụ ĐT, Vụ NSNN, Vụ HCSN và các đơn vị liên quan thuộc Bộ                                                                                                                                                                                                                                                                                                                                        | Thông tư quy định chế độ kiểm soát, thanh toán các khoản chi NSNN (chi thường xuyên) qua KBNN                                                                                                                                                                                  | KBNN; các đơn vị sử dụng NSNN                               |
+
+| 4                  | Trình Bộ Tài chính ban hành Thông tư hướng dẫn kiểm soát cam kết chi NSNN qua KBNN theo quy định tại Luật NSNN năm 2015 và Nghị định quy định các quy trình, thủ tục liên quan đến hoạt động KBNN.                                                                                                                                                           | 2017                                                                                            | KBNN/Vụ ĐT, Vụ NSNN, Vụ HCSN và các đơn vị liên quan thuộc Bộ                                                                                                                                                                                                                                                                                                                                         | Thông tư hướng dẫn kiểm soát cam kết chi NSNN qua KBNN                                                                                                                                                                                                                         | KBNN,các đơn vị sử dụng NSNN; các cơ quan có liên quan khác |
+
+| 5                  | Thống nhất đầu mối kiểm soát chi NSNN (chi đầu tư và chi thường xuyên)                                                                                                                                                                                                                                                                                       | 2016-2018                                                                                       | KBNN/ Vụ TCCB, Vụ ĐT, Cục QLN&TCĐN, các đơn vị có liên quan                                                                                                                                                                                                                                                                                                                                           | Quyết định của Bộ Tài chính về sửa đổi chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của KBNN tỉnh, huyện để tập trung đầu mối kiểm soát chi NSNN (chi thường xuyên và chi đầu tư).                                                                                         | KBNN tỉnh, huyện                                            |
+
+| 6                  | Xây dựng đề án để thực hiện kiểm soát vốn ODA qua KBNN                                                                                                                                                                                                                                                                                                       | 2016-2020                                                                                       | KBNN/Vụ ĐT, Cục QLN&TCĐN, các đơn vị có liên quan                                                                                                                                                                                                                                                                                                                                                     | Xây dựng và triển khai đề án quản lý, kiểm soát chi vốn ODA qua KBNN theo phê duyệt của Bộ Tài chính                                                                                                                                                                           | KBNN; các cơ quan có liên quan                              |
+
+| II                 | Về quản lý ngân quỹ nhà nước và huy động vốn                                                                                                                                                                                                                                                                                                                 |                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                |                                                             |
+
+| 7                  | Trình Bộ Tài chính ban hành Thông tư thay thế Thông tư số 162/2012/TT-BTC ngày 03/10/2012 quy định về tạm ứng NQNN                                                                                                                                                                                                                                           | 2017                                                                                            | KBNN và các đơn vị liên quan thuộc Bộ Tài chính                                                                                                                                                                                                                                                                                                                                                       | Thông tư thay thế Thông tư số 162/2012/TT-BTC ngày 03/10/2012 quy định về tạm ứng NQNN                                                                                                                                                                                         | KBNN(TW), KBNN địa phương                                   |
+
+| 8                  | Trình Bộ Tài chính phê duyệt phương án hoán đổi TPCP                                                                                                                                                                                                                                                                                                         | 2016-2020                                                                                       | KBNN/Vụ TCNH, Vụ NSNN, Cục QLN&TCĐN, các đơn vị có liên quan khác                                                                                                                                                                                                                                                                                                                                     | Báo cáo Lãnh đạo Bộ Tài chính kết quả của từng đợt hoán đổi                                                                                                                                                                                                                    | KBNN(TW)                                                    |
+
+| 9                  | Tổ chức triển khai phát hành các sản phẩm trái phiếu mới (trái phiếu có lãi suất thả nổi, trái phiếu gắn với chỉ số lạm phát, trái phiếu có điều khoản mua lại trước hạn, giao dịch trái phiếu trước khi phát hành-when issued)                                                                                                                              | Theo lộ trình Bộ phê duyệt                                                                      | KBNN/Vụ NSNN, Vụ TCNH, Cục QLN&TCĐN, các đơn vị có liên quan khác                                                                                                                                                                                                                                                                                                                                     | Phương án và kế hoạch phát hành theo phê duyệt của Bộ Tài chính                                                                                                                                                                                                                | KBNN(TW)                                                    |
+
+| 10                 | Thực hiện tái cấu trúc danh mục TPCP theo hướng tập trung tổ chức phát hành TPCP kỳ hạn dài (05 - 50 năm)                                                                                                                                                                                                                                                    | 2016-2020                                                                                       | KBNN/Vụ TCNH, Vụ NSNN và các đơn vị có liên quan khác                                                                                                                                                                                                                                                                                                                                                 | Kế hoạch phát hành theo phê duyệt của Bộ Tài chính                                                                                                                                                                                                                             | KBNN(TW)                                                    |
+
+| 11                 | Trình Bộ Tài chính ban hành Quyết định về Quy chế điều hành Quỹ ngoại tệ tập trung (thay thế Quyết định số 93/2000/QĐ-BTC ngày 06/6/2000 của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế điều hành quỹ ngoại tệ tập trung)                                                                                                                               | 2017                                                                                            | KBNN/ Vụ NSNN, Cục QLN&TCĐN và các đơn vị có liên quan                                                                                                                                                                                                                                                                                                                                                | Quyết định của Bộ trưởng Bộ Tài chính ban hành Quy chế điều hành Quỹ ngoại tệ tập trung                                                                                                                                                                                        | KBNN; các cơ quan liên quan.                                |
+
+| III                | Về kế toán, thanh toán và Tổng KTNN                                                                                                                                                                                                                                                                                                                          |                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                |                                                             |
+
+| 12                 | Trình Chính phủ ban hành Nghị định về Báo cáo tài chính nhà nước                                                                                                                                                                                                                                                                                             | 2017                                                                                            | KBNN/ Vụ CĐKT; Vụ NSNN; Cục TH&TKTC, các đơn vị có liên quan khác                                                                                                                                                                                                                                                                                                                                     | Nghị định về Báo cáo tài chính nhà nước                                                                                                                                                                                                                                        | KBNN(TW), KBNN địa phương                                   |
+
+| 13                 | Trình Bộ Tài chính ban hành Thông tư hướng dẫn Nghị định về Báo cáo tài chính nhà nước                                                                                                                                                                                                                                                                       | 2017                                                                                            | KBNN/Vụ CĐKT; Vụ NSNN; Cục TH&TKTC, các đơn vị có liên quan khác                                                                                                                                                                                                                                                                                                                                      | Thông tư hướng dẫn Nghị định về Báo cáo tài chính nhà nước                                                                                                                                                                                                                     | KBNN(TW), KBNN địa phương                                   |
+
+| 14                 | Triển khai thí điểm lập Báo cáo tài chính hợp nhất tại một số đơn vị điển hình; thí điểm lập BCTCNN tại một số địa phương và thí điểm tổng hợp, lập BCTCNN toàn quốc (tổng hợp số liệu tài chính nhà nước của một số địa phương triển khai thí điểm)                                                                                                         | 2018-2019                                                                                       | KBNN/Vụ CĐKT; Vụ NSNN; Cục TH&TKTC, các đơn vị có liên quan khác                                                                                                                                                                                                                                                                                                                                      | Báo cáo tài chính hợp nhất thí điểm của một số đơn vị; BCTCNN thí điểm của một số địa phương; BCTCNN toàn quốc thí điểm                                                                                                                                                        | KBNN(TW), KBNN địa phương                                   |
+
+| 15                 | Lập Báo cáo tài chính nhà nước                                                                                                                                                                                                                                                                                                                               | 2019-2020                                                                                       | KBNN/ Vụ CĐKT; Vụ NSNN; Cục TH&TKTC, các đơn vị có liên quan khác                                                                                                                                                                                                                                                                                                                                     | Báo cáo tài chính nhà nước                                                                                                                                                                                                                                                     | KBNN(TW), KBNN địa phương                                   |
+
+| 16                 | Xây dựng Thông tư thay thế Thông tư số 08/2013/TT-BTC ngày 10/01/2013 hướng dẫn thực hiện kế toán nhà nước áp dụng cho TABMIS                                                                                                                                                                                                                                | 2017                                                                                            | KBNN/Vụ CĐKT; Vụ NSNN; Cục TH&TKTC, các đơn vị có liên quan khác                                                                                                                                                                                                                                                                                                                                      | Thông tư thay thế Thông tư số 08/2013/TT-BTC ngày 10/01/2013 hướng dẫn thực hiện kế toán nhà nước áp dụng cho TABMIS                                                                                                                                                           | KBNN(TW), KBNN địa phương                                   |
+
+| 17                 | Xây dựng Thông tư thay thế Thông tư số 61/2014/TT-BTC ngày 12/5/2014 hướng dẫn đăng ký và sử dụng tài khoản tại KBNN trong điều kiện áp dụng TABMIS                                                                                                                                                                                                          | 2017                                                                                            | KBNN/ Vụ CĐKT; Vụ NSNN                                                                                                                                                                                                                                                                                                                                                                                | Thông tư thay thế Thông tư số 61/2014/TT-BTC ngày 12/5/2014 hướng dẫn đăng ký và sử dụng tài khoản tại KBNN trong điều kiện áp dụng TABMIS                                                                                                                                     | KBNN(TW), KBNN địa phương                                   |
+
+| 18                 | Trình Bộ Tài chính ban hành Thông tư sửa đổi Quyết định 61/2002/QĐ-BTC ngày 17/5/2002 về việc ban hành chế độ quản lý tiền mặt, giấy tờ có giá, tài sản quý trong hệ thống KBNN                                                                                                                                                                              | 2017                                                                                            | KBNN và các đơn vị liên quan thuộc Bộ Tài chính                                                                                                                                                                                                                                                                                                                                                       | Thông tư thay thế Quyết định số 61/2002/QĐ-BTC ngày 17/5/2002                                                                                                                                                                                                                  | KBNN(TW), KBNN địa phương                                   |
+
+| 19                 | Báo cáo Thủ tướng Chính phủ và trình Bộ Tài chính ban hành Quyết định về xử lý tài sản là vàng bạc, tài sản quý đang được phân loại, kiểm định tại Kho KBNN                                                                                                                                                                                                  | 2017-2018                                                                                       | KBNN và các đơn vị liên quan thuộc Bộ Tài chính                                                                                                                                                                                                                                                                                                                                                       | Quyết định của Bộ Tài chính về xử lý tài sản là vàng bạc, tài sản quý đang được KBNN quản lý                                                                                                                                                                                   | KBNN(TW)                                                    |
+
+| 20                 | Trình Bộ Tài chính Đề án “Trưng bày đá quý, kim khí quý”, cụ thể: - Trình Bộ dự thảo Đề án - Xây dựng và tổ chức trưng bày                                                                                                                                                                                                                                   | 2017-2018                                                                                       | KBNN                                                                                                                                                                                                                                                                                                                                                                                                  | Quyết định của Bộ Tài chính phê duyệt Đề án “Trưng bày đá quý, kim khí quý”                                                                                                                                                                                                    | KBNN(TW)                                                    |
+
+| 21                 | Trình Bộ Tài chính ban hành Quyết định về phương án xử lý vàng, bạc, tài sản quý tại các đơn vị KBNN.                                                                                                                                                                                                                                                        | 2017-2020                                                                                       | KBNN                                                                                                                                                                                                                                                                                                                                                                                                  | Quyết định của Bộ Tài chính về phương án xử lý vàng, bạc, tài sản quý tại các đơn vị KBNN.                                                                                                                                                                                     | KBNN địa phương                                             |
+
+| 22                 | Trình Bộ Tài chính ban hành Thông tư sửa đổi, bổ sung Thông tư số 122/2012/TT-BTC ngày 27/7/2012 quy định việc quản lý đối với các loại tài sản quý hiếm và giấy tờ có giá do KBNN nhận gửi và bảo quản                                                                                                                                                      | Sau khi Nghị định quy định các quy trình, thủ tục liên quan đến hoạt động KBNN được ký ban hành | KBNN và các đơn vị liên quan thuộc Bộ Tài chính                                                                                                                                                                                                                                                                                                                                                       | Thông tư sửa đổi, bổ sung Thông tư số 122/2012/TT-BTC ngày 27/7/2012 quy định việc quản lý đối với các loại tài sản quý hiếm và giấy tờ có giá do KBNN nhận gửi và bảo quản                                                                                                    | KBNN(TW); KBNN địa phương                                   |
+
+| IV                 | Về cải cách hành chính, hiện đại hóa và phát triển CNTT                                                                                                                                                                                                                                                                                                      |                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                |                                                             |
+
+| 23                 | Tiếp tục triển khai các đề án chính sách thực hiện chiến lược phát triển KBNN                                                                                                                                                                                                                                                                                | 2016-2020                                                                                       | Các đơn vị được giao chủ trì thực hiện theo Quyết định số 937/QĐ-BTC ngày 25/4/2011 về việc ban hành Danh mục các đề án và cơ chế chính sách thực hiện Chiến lược phát triển KBNN đến năm 2020 và Quyết định số 739/QĐ-BTC ngày 11/4/2014 sửa đổi, bổ sung một số đề án và cơ chế chính sách thực hiện Chiến lược phát triển Kho bạc Nhà nước đến năm 2020 ban hành kèm theo Quyết định số 937/QĐ-BTC | Hoàn thành việc triển khai các đề án chính sách thực hiện Chiến lược phát triển KBNN đến năm 2020                                                                                                                                                                              |                                                             |
+
+| 24                 | Xây dựng và triển khai hệ thống thông tin Tổng kế toán Nhà nước                                                                                                                                                                                                                                                                                              | 2016-2019                                                                                       | KBNN/ Cục TH&TKTC; Vụ CĐKT, Vụ NSNN, các đơn vị có liên quan khác                                                                                                                                                                                                                                                                                                                                     | Xây dựng và triển khai hệ thống thông tin Tổng kế toán Nhà nước                                                                                                                                                                                                                | KBNN(TW), KBNN địa phương                                   |
+
+| 25                 | Trình Bộ Tài chính ban hành Thông tư thay thế Thông tư số 209/2010/TT-BTC ngày 20/12/2010 quy định về giao dịch điện tử trong hoạt động nghiệp vụ KBNN (bao gồm cả nội dung xây dựng Thông tư quy định thủ tục giao dịch điện tử đối với dịch vụ công trên Cổng thông tin KBNN)                                                                              | 2017                                                                                            | KBNN/ Các đơn vị có liên quan khác                                                                                                                                                                                                                                                                                                                                                                    | Thông tư thay thế Thông tư số 209/2010/TT-BTC ngày 20/12/2010 quy định về giao dịch điện tử (bao gồm cả Thông tư quy định thủ tục giao dịch điện tử đối với dịch vụ công trên Cổng thông tin KBNN) trong hoạt động nghiệp vụ KBNN để hướng tới việc hình thành kho bạc điện tử | KBNN(TW), KBNN địa phương                                   |
+
+| 26                 | Xây dựng và triển khai hệ thống tổng hợp quyết toán NSNN                                                                                                                                                                                                                                                                                                     | 2017-2019                                                                                       | KBNN/ Cục TH&TKTC; Vụ CĐKT, Vụ NSNN, các đơn vị có liên quan khác                                                                                                                                                                                                                                                                                                                                     | Hoàn thiện và triển khai hệ thống thông tin phục vụ quyết toán NSNN                                                                                                                                                                                                            | KBNN(TW), KBNN địa phương                                   |
+
+| 27                 | Nâng cấp và triển khai kho dữ liệu và công cụ thống kê, phân tích nghiệp vụ                                                                                                                                                                                                                                                                                  | 2016-2020                                                                                       | KBNN/ Cục TH&TKTC; Vụ CĐKT, Vụ NSNN, các đơn vị có liên quan khác                                                                                                                                                                                                                                                                                                                                     | Hoàn thành nâng cấp và triển khai kho dữ liệu và công cụ thống kê, phân tích nghiệp vụ                                                                                                                                                                                         | KBNN(TW), KBNN địa phương                                   |
+
+| 28                 | Nâng cấp phân hệ dự báo dòng tiền thành hệ thống quản lý ngân quỹ                                                                                                                                                                                                                                                                                            | 2018-2020                                                                                       | KBNN/ Các đơn vị có liên quan                                                                                                                                                                                                                                                                                                                                                                         | Xây dựng và triển khai hệ thống thông tin quản lý ngân quỹ                                                                                                                                                                                                                     | KBNN (TW), KBNN địa phương                                  |
+
+| 29                 | Xây dựng và triển khai các dịch vụ công trực tuyến, bao gồm: gửi cam kết chi và hợp đồng khung qua mạng; đăng ký mở tài khoản và tra cứu thông tin tài khoản của các đơn vị sử dụng ngân sách qua mạng; khai báo phiếu giao nhận hồ sơ giao dịch kiểm soát chi qua mạng và giao dịch một cửa với Kho bạc Nhà nước; gửi thông tin yêu cầu thanh toán qua mạng | 2016-2020                                                                                       | KBNN/ Cục TH&TKTC; các đơn vị có liên quan khác                                                                                                                                                                                                                                                                                                                                                       | Triển khai các dịch vụ công trực tuyến của KBNN                                                                                                                                                                                                                                | KBNN(TW), KBNN địa phương                                   |
+
+| V                  | Về thanh tra, kiểm tra                                                                                                                                                                                                                                                                                                                                       |                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                |                                                             |
+
+| 30                 | Xây dựng và triển khai Khung kiểm soát quản lý rủi ro trong công tác kiểm soát chi NSNN                                                                                                                                                                                                                                                                      | 2017-2018                                                                                       | KBNN/TTTC Vụ ĐT, Vụ NSNN, các đơn vị có liên quan                                                                                                                                                                                                                                                                                                                                                     | Quyết định của Tổng Giám đốc KBNN về việc ban hành Khung kiểm soát quản lý rủi ro trong công tác kiểm soát chi NSNN                                                                                                                                                            | KBNN (TW)                                                   |
+
+| VI                 | Tổ chức bộ máy, phát triển nguồn nhân lực                                                                                                                                                                                                                                                                                                                    |                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                |                                                             |
+
+| 31                 | Xây dựng biên chế định biên cho các đơn vị trong hệ thống KBNN và quản lý, sử dụng biên chế theo vị trí việc làm                                                                                                                                                                                                                                             | 2016-2020                                                                                       | KBNN/Vụ TCCB                                                                                                                                                                                                                                                                                                                                                                                          | Tổ chức quản lý, sử dụng biên chế theo vị trí việc làm hướng đến khoán quỹ lương                                                                                                                                                                                               | KBNN(TW), KBNN địa phương                                   |
+
+| 32                 | Thực hiện cơ cấu đội ngũ công chức, tinh giản biên chế                                                                                                                                                                                                                                                                                                       | 2016-2020                                                                                       | KBNN/Vụ TCCB                                                                                                                                                                                                                                                                                                                                                                                          | Đến 2020 giảm 10% biên chế so với số biên chế được giao năm 2015                                                                                                                                                                                                               | KBNN(TW), KBNN địa phương                                   |
+
+| 33                 | Hoàn chỉnh chương trình, tài liệu, bồi dưỡng nghiệp vụ KBNN dành cho công chức tập sự và chương trình bồi dưỡng theo vị trí việc làm                                                                                                                                                                                                                         | 2016-2017                                                                                       | KBNN                                                                                                                                                                                                                                                                                                                                                                                                  | Hoàn chỉnh chương trình, tài liệu, bồi dưỡng nghiệp vụ KBNN dành cho công chức tập sự và chương trình bồi dưỡng theo vị trí việc làm                                                                                                                                           | KBNN(TW)                                                    |
+
+| VII                | Công tác tài chính nội ngành                                                                                                                                                                                                                                                                                                                                 |                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                |                                                             |
+
+| 34                 | Hệ thống và hướng dẫn đầy đủ các nội dung liên quan đến Luật Đầu tư công, Luật xây dựng trong việc triển khai đầu tư XDCB nội ngành                                                                                                                                                                                                                          | 2016-2017                                                                                       | KBNN                                                                                                                                                                                                                                                                                                                                                                                                  | Hệ thống và hướng dẫn đầy đủ các nội dung liên quan đến Luật Đầu tư công, Luật xây dựng trong việc triển khai đầu tư XDCB nội ngành                                                                                                                                            | KBNN(TW), KBNN địa phương                                   |
+
+| 35                 | Triển khai các dự án đầu tư XDCB của hệ thống KBNN giai đoạn 2016-2020                                                                                                                                                                                                                                                                                       | 2016-2020                                                                                       | KBNN                                                                                                                                                                                                                                                                                                                                                                                                  | Hoàn dự án đầu tư XDCB của hệ thống KBNN giai đoạn 2016 – 2020                                                                                                                                                                                                                 | KBNN(TW), KBNN địa phương                                   |
+
+| VIII               | Công tác hợp tác quốc tế của KBNN                                                                                                                                                                                                                                                                                                                            |                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                |                                                             |
+
+| 36                 | Nâng cao hiệu quả hợp tác song phương và tham gia các diễn đàn và tổ chức quốc tế về lĩnh vực KBNN                                                                                                                                                                                                                                                           | 2016-2020                                                                                       | KBNN/Vụ HTQT, Vụ TCCB, Cục KHTC và các đơn vị có liên quan khác                                                                                                                                                                                                                                                                                                                                       | Tổ chức đoàn ra, đoàn vào với các nước hợp tác; tham gia tích cực vào các diễn đàn và tổ chức quốc tế về lĩnh vực KBNN                                                                                                                                                         | KBNN(TW)                                                    |
+
+| 37                 | Hoàn thiện bổ sung, sửa đổi Quy chế hoạt động đối ngoại của hệ thống KBNN                                                                                                                                                                                                                                                                                    | 2016-2017                                                                                       | KBNN/Vụ HTQT, Vụ TCCB, Cục KHTC                                                                                                                                                                                                                                                                                                                                                                       | Ban hành Quy chế hoạt động đối ngoại của hệ thống KBNN                                                                                                                                                                                                                         | KBNN(TW)                                                    |
+
+| 38                 | Xây dựng đề án kho tư liệu hợp tác quốc tế KBNN                                                                                                                                                                                                                                                                                                              | 2017                                                                                            | KBNN/ Vụ HTQT (Bộ Tài chính)                                                                                                                                                                                                                                                                                                                                                                          | Danh mục tư liệu đoàn vào, đoàn ra KBNN; Quy trình khai thác quản lý kho tư liệu.                                                                                                                                                                                              | KBNN(TW)                                                    |
+
+| IX                 | Về công tác thông tin tuyên truyền, phát triển tạp chí và công tác văn phòng                                                                                                                                                                                                                                                                                 |                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                |                                                             |
+
+| 39                 | Tăng cường tuyên truyền về các lĩnh vực hoạt động KBNN                                                                                                                                                                                                                                                                                                       | 2016-2020                                                                                       | KBNN                                                                                                                                                                                                                                                                                                                                                                                                  | Tuyên truyền trên Cổng thông tin điện tử KBNN, các cơ quan thông tấn, báo chí của trung ương và địa phương; tuyên truyền trên Tạp chí Quản lý ngân quỹ quốc gia hàng tháng                                                                                                     | KBNN(TW), KBNN địa phương                                   |
+
+| 40                 | Triển khai Chương trình Quản lý văn bản và điều hành ngành Tài chính trong toàn hệ thống                                                                                                                                                                                                                                                                     | 2016-2020                                                                                       | KBNN                                                                                                                                                                                                                                                                                                                                                                                                  | Điện tử hóa hoàn toàn công tác quản lý văn bản và điều hành tại các đơn vị KBNN trong toàn hệ thống                                                                                                                                                                            | KBNN; KBNN tỉnh, thành phố                                  |
+
+| 41                 | Xây dựng phần mềm tra cứu các văn bản chỉ đạo, điều hành, hướng dẫn nghiệp vụ của KBNN                                                                                                                                                                                                                                                                       | 2017-2018                                                                                       | KBNN                                                                                                                                                                                                                                                                                                                                                                                                  | Phần mềm tra cứu các văn bản chỉ đạo, điều hành, hướng dẫn nghiệp vụ của KBNN                                                                                                                                                                                                  | KBNN; KBNN tỉnh, thành phố                                  |
+
+STT
+
+Đề án, chính sách
+
+Thời gian bắt đầu/kết thúc
+
+Đơn vị chủ trì/phối hợp
+
+Kết quả công việc/đầu ra dự kiến
+
+Cơ chế, chính sách
+
+Tổ chức thực hiện
+
+I
+
+Về quản lý quỹ ngân sách nhà nước
+
+1
+
+Trình Chính phủ ban hành Nghị định quy định các quy trình, thủ tục liên quan đến hoạt động KBNN
+
+2017
+
+KBNN/Vụ Đầu tư, Tổng cục Thuế, Cục QLN&TCĐN và các đơn vị có liên quan
+
+Nghị định quy định các quy trình, thủ tục liên quan đến hoạt động KBNN
+
+KBNN; các cơ quan có liên quan
+
+2
+
+Trình Bộ Tài chính ban hành Thông tư về hướng dẫn quản lý thu, chi bằng tiền mặt qua KBNN (thay thế thông tư số 164/2011/TT-BTC)
+
+2017
+
+KBNN/ các đơn vị có liên quan thuộc Bộ
+
+Thông tư hướng dẫn quản lý thu, chi bằng tiền mặt qua KBNN
+
+KBNN; các đơn vị sử dụng NSNN; các đơn vị có liên quan khác
+
+3
+
+Trình Bộ Tài chính ban hành Thông tư quy định chế độ kiểm soát, thanh toán các khoản chi NSNN qua KBNN theo Luật NSNN năm 2015 và Nghị định quy định các quy trình, thủ tục liên quan đến hoạt động KBNN
+
+2017
+
+KBNN/ Vụ ĐT, Vụ NSNN, Vụ HCSN và các đơn vị liên quan thuộc Bộ
+
+Thông tư quy định chế độ kiểm soát, thanh toán các khoản chi NSNN (chi thường xuyên) qua KBNN
+
+KBNN; các đơn vị sử dụng NSNN
+
+4
+
+Trình Bộ Tài chính ban hành Thông tư hướng dẫn kiểm soát cam kết chi NSNN qua KBNN theo quy định tại Luật NSNN năm 2015 và Nghị định quy định các quy trình, thủ tục liên quan đến hoạt động KBNN.
+
+2017
+
+KBNN/Vụ ĐT, Vụ NSNN, Vụ HCSN và các đơn vị liên quan thuộc Bộ
+
+Thông tư hướng dẫn kiểm soát cam kết chi NSNN qua KBNN
+
+KBNN,các đơn vị sử dụng NSNN; các cơ quan có liên quan khác
+
+5
+
+Thống nhất đầu mối kiểm soát chi NSNN (chi đầu tư và chi thường xuyên)
+
+2016-2018
+
+KBNN/ Vụ TCCB, Vụ ĐT, Cục QLN&TCĐN, các đơn vị có liên quan
+
+Quyết định của Bộ Tài chính về sửa đổi chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của KBNN tỉnh, huyện để tập trung đầu mối kiểm soát chi NSNN (chi thường xuyên và chi đầu tư).
+
+KBNN tỉnh, huyện
+
+6
+
+Xây dựng đề án để thực hiện kiểm soát vốn ODA qua KBNN
+
+2016-2020
+
+KBNN/Vụ ĐT, Cục QLN&TCĐN, các đơn vị có liên quan
+
+Xây dựng và triển khai đề án quản lý, kiểm soát chi vốn ODA qua KBNN theo phê duyệt của Bộ Tài chính
+
+KBNN; các cơ quan có liên quan
+
+II
+
+Về quản lý ngân quỹ nhà nước và huy động vốn
+
+7
+
+Trình Bộ Tài chính ban hành Thông tư thay thế Thông tư số 162/2012/TT-BTC ngày 03/10/2012 quy định về tạm ứng NQNN
+
+2017
+
+KBNN và các đơn vị liên quan thuộc Bộ Tài chính
+
+Thông tư thay thế Thông tư số 162/2012/TT-BTC ngày 03/10/2012 quy định về tạm ứng NQNN
+
+KBNN(TW), KBNN địa phương
+
+8
+
+Trình Bộ Tài chính phê duyệt phương án hoán đổi TPCP
+
+2016-2020
+
+KBNN/Vụ TCNH, Vụ NSNN, Cục QLN&TCĐN, các đơn vị có liên quan khác
+
+Báo cáo Lãnh đạo Bộ Tài chính kết quả của từng đợt hoán đổi
+
+KBNN(TW)
+
+9
+
+Tổ chức triển khai phát hành các sản phẩm trái phiếu mới (trái phiếu có lãi suất thả nổi, trái phiếu gắn với chỉ số lạm phát, trái phiếu có điều khoản mua lại trước hạn, giao dịch trái phiếu trước khi phát hành-when issued)
+
+Theo lộ trình Bộ phê duyệt
+
+KBNN/Vụ NSNN, Vụ TCNH, Cục QLN&TCĐN, các đơn vị có liên quan khác
+
+Phương án và kế hoạch phát hành theo phê duyệt của Bộ Tài chính
+
+KBNN(TW)
+
+10
+
+Thực hiện tái cấu trúc danh mục TPCP theo hướng tập trung tổ chức phát hành TPCP kỳ hạn dài (05 - 50 năm)
+
+2016-2020
+
+KBNN/Vụ TCNH, Vụ NSNN và các đơn vị có liên quan khác
+
+Kế hoạch phát hành theo phê duyệt của Bộ Tài chính
+
+KBNN(TW)
+
+11
+
+Trình Bộ Tài chính ban hành Quyết định về Quy chế điều hành Quỹ ngoại tệ tập trung (thay thế Quyết định số 93/2000/QĐ-BTC ngày 06/6/2000 của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế điều hành quỹ ngoại tệ tập trung)
+
+2017
+
+KBNN/ Vụ NSNN, Cục QLN&TCĐN và các đơn vị có liên quan
+
+Quyết định của Bộ trưởng Bộ Tài chính ban hành Quy chế điều hành Quỹ ngoại tệ tập trung
+
+KBNN; các cơ quan liên quan.
+
+III
+
+Về kế toán, thanh toán và Tổng KTNN
+
+12
+
+Trình Chính phủ ban hành Nghị định về Báo cáo tài chính nhà nước
+
+2017
+
+KBNN/ Vụ CĐKT; Vụ NSNN; Cục TH&TKTC, các đơn vị có liên quan khác
+
+Nghị định về Báo cáo tài chính nhà nước
+
+KBNN(TW), KBNN địa phương
+
+13
+
+Trình Bộ Tài chính ban hành Thông tư hướng dẫn Nghị định về Báo cáo tài chính nhà nước
+
+2017
+
+KBNN/Vụ CĐKT; Vụ NSNN; Cục TH&TKTC, các đơn vị có liên quan khác
+
+Thông tư hướng dẫn Nghị định về Báo cáo tài chính nhà nước
+
+KBNN(TW), KBNN địa phương
+
+14
+
+Triển khai thí điểm lập Báo cáo tài chính hợp nhất tại một số đơn vị điển hình; thí điểm lập BCTCNN tại một số địa phương và thí điểm tổng hợp, lập BCTCNN toàn quốc (tổng hợp số liệu tài chính nhà nước của một số địa phương triển khai thí điểm)
+
+2018-2019
+
+KBNN/Vụ CĐKT; Vụ NSNN; Cục TH&TKTC, các đơn vị có liên quan khác
+
+Báo cáo tài chính hợp nhất thí điểm của một số đơn vị; BCTCNN thí điểm của một số địa phương; BCTCNN toàn quốc thí điểm
+
+KBNN(TW), KBNN địa phương
+
+15
+
+Lập Báo cáo tài chính nhà nước
+
+2019-2020
+
+KBNN/ Vụ CĐKT; Vụ NSNN; Cục TH&TKTC, các đơn vị có liên quan khác
+
+Báo cáo tài chính nhà nước
+
+KBNN(TW), KBNN địa phương
+
+16
+
+Xây dựng Thông tư thay thế Thông tư số 08/2013/TT-BTC ngày 10/01/2013 hướng dẫn thực hiện kế toán nhà nước áp dụng cho TABMIS
+
+2017
+
+KBNN/Vụ CĐKT; Vụ NSNN; Cục TH&TKTC, các đơn vị có liên quan khác
+
+Thông tư thay thế Thông tư số 08/2013/TT-BTC ngày 10/01/2013 hướng dẫn thực hiện kế toán nhà nước áp dụng cho TABMIS
+
+KBNN(TW), KBNN địa phương
+
+17
+
+Xây dựng Thông tư thay thế Thông tư số 61/2014/TT-BTC ngày 12/5/2014 hướng dẫn đăng ký và sử dụng tài khoản tại KBNN trong điều kiện áp dụng TABMIS
+
+2017
+
+KBNN/ Vụ CĐKT; Vụ NSNN
+
+Thông tư thay thế Thông tư số 61/2014/TT-BTC ngày 12/5/2014 hướng dẫn đăng ký và sử dụng tài khoản tại KBNN trong điều kiện áp dụng TABMIS
+
+KBNN(TW), KBNN địa phương
+
+18
+
+Trình Bộ Tài chính ban hành Thông tư sửa đổi Quyết định 61/2002/QĐ-BTC ngày 17/5/2002 về việc ban hành chế độ quản lý tiền mặt, giấy tờ có giá, tài sản quý trong hệ thống KBNN
+
+2017
+
+KBNN và các đơn vị liên quan thuộc Bộ Tài chính
+
+Thông tư thay thế Quyết định số 61/2002/QĐ-BTC ngày 17/5/2002
+
+KBNN(TW), KBNN địa phương
+
+19
+
+Báo cáo Thủ tướng Chính phủ và trình Bộ Tài chính ban hành Quyết định về xử lý tài sản là vàng bạc, tài sản quý đang được phân loại, kiểm định tại Kho KBNN
+
+2017-2018
+
+KBNN và các đơn vị liên quan thuộc Bộ Tài chính
+
+Quyết định của Bộ Tài chính về xử lý tài sản là vàng bạc, tài sản quý đang được KBNN quản lý
+
+KBNN(TW)
+
+20
+
+Trình Bộ Tài chính Đề án “Trưng bày đá quý, kim khí quý”, cụ thể:
+
+- Trình Bộ dự thảo Đề án
+
+- Xây dựng và tổ chức trưng bày
+
+2017-2018
+
+KBNN
+
+Quyết định của Bộ Tài chính phê duyệt Đề án “Trưng bày đá quý, kim khí quý”
+
+KBNN(TW)
+
+21
+
+Trình Bộ Tài chính ban hành Quyết định về phương án xử lý vàng, bạc, tài sản quý tại các đơn vị KBNN.
+
+2017-2020
+
+KBNN
+
+Quyết định của Bộ Tài chính về phương án xử lý vàng, bạc, tài sản quý tại các đơn vị KBNN.
+
+KBNN địa phương
+
+22
+
+Trình Bộ Tài chính ban hành Thông tư sửa đổi, bổ sung Thông tư số 122/2012/TT-BTC ngày 27/7/2012 quy định việc quản lý đối với các loại tài sản quý hiếm và giấy tờ có giá do KBNN nhận gửi và bảo quản
+
+Sau khi Nghị định quy định các quy trình, thủ tục liên quan đến hoạt động KBNN được ký ban hành
+
+KBNN và các đơn vị liên quan thuộc Bộ Tài chính
+
+Thông tư sửa đổi, bổ sung Thông tư số 122/2012/TT-BTC ngày 27/7/2012 quy định việc quản lý đối với các loại tài sản quý hiếm và giấy tờ có giá do KBNN nhận gửi và bảo quản
+
+KBNN(TW); KBNN địa phương
+
+IV
+
+Về cải cách hành chính, hiện đại hóa và phát triển CNTT
+
+23
+
+Tiếp tục triển khai các đề án chính sách thực hiện chiến lược phát triển KBNN
+
+2016-2020
+
+Các đơn vị được giao chủ trì thực hiện theo Quyết định số 937/QĐ-BTC ngày 25/4/2011 về việc ban hành Danh mục các đề án và cơ chế chính sách thực hiện Chiến lược phát triển KBNN đến năm 2020 và Quyết định số 739/QĐ-BTC ngày 11/4/2014 sửa đổi, bổ sung một số đề án và cơ chế chính sách thực hiện Chiến lược phát triển Kho bạc Nhà nước đến năm 2020 ban hành kèm theo Quyết định số 937/QĐ-BTC
+
+Hoàn thành việc triển khai các đề án chính sách thực hiện Chiến lược phát triển KBNN đến năm 2020
+
+24
+
+Xây dựng và triển khai hệ thống thông tin Tổng kế toán Nhà nước
+
+2016-2019
+
+KBNN/ Cục TH&TKTC; Vụ CĐKT, Vụ NSNN, các đơn vị có liên quan khác
+
+Xây dựng và triển khai hệ thống thông tin Tổng kế toán Nhà nước
+
+KBNN(TW), KBNN địa phương
+
+25
+
+Trình Bộ Tài chính ban hành Thông tư thay thế Thông tư số 209/2010/TT-BTC ngày 20/12/2010 quy định về giao dịch điện tử trong hoạt động nghiệp vụ KBNN (bao gồm cả nội dung xây dựng Thông tư quy định thủ tục giao dịch điện tử đối với dịch vụ công trên Cổng thông tin KBNN)
+
+2017
+
+KBNN/ Các đơn vị có liên quan khác
+
+Thông tư thay thế Thông tư số 209/2010/TT-BTC ngày 20/12/2010 quy định về giao dịch điện tử (bao gồm cả Thông tư quy định thủ tục giao dịch điện tử đối với dịch vụ công trên Cổng thông tin KBNN) trong hoạt động nghiệp vụ KBNN để hướng tới việc hình thành kho bạc điện tử
+
+KBNN(TW), KBNN địa phương
+
+26
+
+Xây dựng và triển khai hệ thống tổng hợp quyết toán NSNN
+
+2017-2019
+
+KBNN/ Cục TH&TKTC; Vụ CĐKT, Vụ NSNN, các đơn vị có liên quan khác
+
+Hoàn thiện và triển khai hệ thống thông tin phục vụ quyết toán NSNN
+
+KBNN(TW), KBNN địa phương
+
+27
+
+Nâng cấp và triển khai kho dữ liệu và công cụ thống kê, phân tích nghiệp vụ
+
+2016-2020
+
+KBNN/ Cục TH&TKTC; Vụ CĐKT, Vụ NSNN, các đơn vị có liên quan khác
+
+Hoàn thành nâng cấp và triển khai kho dữ liệu và công cụ thống kê, phân tích nghiệp vụ
+
+KBNN(TW), KBNN địa phương
+
+28
+
+Nâng cấp phân hệ dự báo dòng tiền thành hệ thống quản lý ngân quỹ
+
+2018-2020
+
+KBNN/ Các đơn vị có liên quan
+
+Xây dựng và triển khai hệ thống thông tin quản lý ngân quỹ
+
+KBNN (TW), KBNN địa phương
+
+29
+
+Xây dựng và triển khai các dịch vụ công trực tuyến, bao gồm: gửi cam kết chi và hợp đồng khung qua mạng; đăng ký mở tài khoản và tra cứu thông tin tài khoản của các đơn vị sử dụng ngân sách qua mạng; khai báo phiếu giao nhận hồ sơ giao dịch kiểm soát chi qua mạng và giao dịch một cửa với Kho bạc Nhà nước; gửi thông tin yêu cầu thanh toán qua mạng
+
+2016-2020
+
+KBNN/ Cục TH&TKTC; các đơn vị có liên quan khác
+
+Triển khai các dịch vụ công trực tuyến của KBNN
+
+KBNN(TW), KBNN địa phương
+
+V
+
+Về thanh tra, kiểm tra
+
+30
+
+Xây dựng và triển khai Khung kiểm soát quản lý rủi ro trong công tác kiểm soát chi NSNN
+
+2017-2018
+
+KBNN/TTTC Vụ ĐT, Vụ NSNN, các đơn vị có liên quan
+
+Quyết định của Tổng Giám đốc KBNN về việc ban hành Khung kiểm soát quản lý rủi ro trong công tác kiểm soát chi NSNN
+
+KBNN (TW)
+
+VI
+
+Tổ chức bộ máy, phát triển nguồn nhân lực
+
+31
+
+Xây dựng biên chế định biên cho các đơn vị trong hệ thống KBNN và quản lý, sử dụng biên chế theo vị trí việc làm
+
+2016-2020
+
+KBNN/Vụ TCCB
+
+Tổ chức quản lý, sử dụng biên chế theo vị trí việc làm hướng đến khoán quỹ lương
+
+KBNN(TW), KBNN địa phương
+
+32
+
+Thực hiện cơ cấu đội ngũ công chức, tinh giản biên chế
+
+2016-2020
+
+KBNN/Vụ TCCB
+
+Đến 2020 giảm 10% biên chế so với số biên chế được giao năm 2015
+
+KBNN(TW), KBNN địa phương
+
+33
+
+Hoàn chỉnh chương trình, tài liệu, bồi dưỡng nghiệp vụ KBNN dành cho công chức tập sự và chương trình bồi dưỡng theo vị trí việc làm
+
+2016-2017
+
+KBNN
+
+Hoàn chỉnh chương trình, tài liệu, bồi dưỡng nghiệp vụ KBNN dành cho công chức tập sự và chương trình bồi dưỡng theo vị trí việc làm
+
+KBNN(TW)
+
+VII
+
+Công tác tài chính nội ngành
+
+34
+
+Hệ thống và hướng dẫn đầy đủ các nội dung liên quan đến Luật Đầu tư công, Luật xây dựng trong việc triển khai đầu tư XDCB nội ngành
+
+2016-2017
+
+KBNN
+
+Hệ thống và hướng dẫn đầy đủ các nội dung liên quan đến Luật Đầu tư công, Luật xây dựng trong việc triển khai đầu tư XDCB nội ngành
+
+KBNN(TW), KBNN địa phương
+
+35
+
+Triển khai các dự án đầu tư XDCB của hệ thống KBNN giai đoạn 2016-2020
+
+2016-2020
+
+KBNN
+
+Hoàn dự án đầu tư XDCB của hệ thống KBNN giai đoạn 2016 – 2020
+
+KBNN(TW), KBNN địa phương
+
+VIII
+
+Công tác hợp tác quốc tế của KBNN
+
+36
+
+Nâng cao hiệu quả hợp tác song phương và tham gia các diễn đàn và tổ chức quốc tế về lĩnh vực KBNN
+
+2016-2020
+
+KBNN/Vụ HTQT, Vụ TCCB, Cục KHTC và các đơn vị có liên quan khác
+
+Tổ chức đoàn ra, đoàn vào với các nước hợp tác; tham gia tích cực vào các diễn đàn và tổ chức quốc tế về lĩnh vực KBNN
+
+KBNN(TW)
+
+37
+
+Hoàn thiện bổ sung, sửa đổi Quy chế hoạt động đối ngoại của hệ thống KBNN
+
+2016-2017
+
+KBNN/Vụ HTQT, Vụ TCCB, Cục KHTC
+
+Ban hành Quy chế hoạt động đối ngoại của hệ thống KBNN
+
+KBNN(TW)
+
+38
+
+Xây dựng đề án kho tư liệu hợp tác quốc tế KBNN
+
+2017
+
+KBNN/ Vụ HTQT (Bộ Tài chính)
+
+Danh mục tư liệu đoàn vào, đoàn ra KBNN; Quy trình khai thác quản lý kho tư liệu.
+
+KBNN(TW)
+
+IX
+
+Về công tác thông tin tuyên truyền, phát triển tạp chí và công tác văn phòng
+
+39
+
+Tăng cường tuyên truyền về các lĩnh vực hoạt động KBNN
+
+2016-2020
+
+KBNN
+
+Tuyên truyền trên Cổng thông tin điện tử KBNN, các cơ quan thông tấn, báo chí của trung ương và địa phương; tuyên truyền trên Tạp chí Quản lý ngân quỹ quốc gia hàng tháng
+
+KBNN(TW), KBNN địa phương
+
+40
+
+Triển khai Chương trình Quản lý văn bản và điều hành ngành Tài chính trong toàn hệ thống
+
+2016-2020
+
+KBNN
+
+Điện tử hóa hoàn toàn công tác quản lý văn bản và điều hành tại các đơn vị KBNN trong toàn hệ thống
+
+KBNN; KBNN tỉnh, thành phố
+
+41
+
+Xây dựng phần mềm tra cứu các văn bản chỉ đạo, điều hành, hướng dẫn nghiệp vụ của KBNN
+
+2017-2018
+
+KBNN
+
+Phần mềm tra cứu các văn bản chỉ đạo, điều hành, hướng dẫn nghiệp vụ của KBNN
+
+KBNN; KBNN tỉnh, thành phố

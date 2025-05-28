@@ -1,0 +1,81 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 1593/QĐ-BTC | Hà Nội, ngày 15 tháng 8 năm 2017                                |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 1593/QĐ-BTC
+
+Hà Nội, ngày 15 tháng 8 năm 2017
+
+QUYẾT ĐỊNH
+
+THÍ ĐIỂM KHAI SỐ VẬN ĐƠN TRÊN TỜ KHAI HẢI QUAN ĐỐI VỚI HÀNG HÓA XUẤT KHẨU, NHẬP KHẨU ĐỂ THỰC HIỆN QUẢN LÝ, GIÁM SÁT HÀNG HÓA TỰ ĐỘNG
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Luật Hải quan số 54/2014/QH13 ngày 23 tháng 6 năm 2014;
+
+Căn cứ Luật Giao dịch điện tử số 51/2005/QH11 ngày 29 tháng 11 năm 2005;
+
+Căn cứ Nghị định số 08/2015/NĐ-CP ngày 21 tháng 01 năm 2015 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát, kiểm soát hải quan;
+
+Căn cứ Thông tư số 38/2015/TT-BTC ngày 25 tháng 3 năm 2015 của Bộ trưởng Bộ Tài chính quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu;
+
+Xét đề nghị của Tổng cục trưởng Tổng cục Hải quan,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Thực hiện thí điểm khai số vận đơn trên tờ khai hải quan điện tử đối với hàng hóa xuất khẩu, nhập khẩu để quản lý, giám sát hàng hóa tự động như sau:
+
+1. Đối với tờ khai hải quan điện tử nhập khẩu
+
+Người khai hải quan thực hiện khai các tiêu chí trên tờ khai hải quan điện tử nhập khẩu theo quy định tại Phụ lục II Thông tư số 38/2015/TT-BTC ngày 25/3/2015, riêng tiêu chí 1.26 - “Số vận đơn”: Sử dụng tổ hợp “Ngày vận đơn + Số vận đơn” để khai theo nguyên tắc khai liên tiếp nhau (“Ngày vận đơn” trước “Số vận đơn”) và thông tin nhập không được có dấu cách hoặc ký tự đặc biệt như: “*,#,@,/,...”. Trong đó:
+
++ “Ngày vận đơn” là ngày phát hành vận đơn được khai theo định dạng “DDMMYY” (DD- ngày, MM- tháng, YY- năm).
+
++ “Số vận đơn” là số vận đơn ghi trên vận đơn sử dụng để khai tờ khai hải quan. Vận đơn sử dụng để khai là vận đơn có tên người nhận hàng là người nhập khẩu trên tờ khai hải quan.
+
+Ví dụ: Với “Số vận đơn” là: LSHCM15, “Ngày vận đơn” là: 15/08/2017 thì sẽ khai tại ô chỉ tiêu thông tin số 1.26 - “Số vận đơn” trên tờ khai nhập khẩu là: 150817LSHCM15.
+
+2. Đối với tờ khai hải quan điện tử xuất khẩu
+
+Người khai hải quan thực hiện khai các tiêu chí trên tờ khai hải quan điện tử xuất khẩu theo quy định tại Phụ lục II Thông tư số 38/2015/TT-BTC ngày 25/3/2015, riêng tiêu chí 2.24 - “Số vận đơn” thực hiện khai như sau:
+
+- Trước khi đưa hàng vào cảng hoặc tại thời điểm đăng ký tờ khai xuất khẩu, người khai hải quan thông qua hệ thống khai hải quan hoặc Hệ thống dịch vụ công trực tuyến (tại địa chỉ pus.customs.gov.vn) để lấy số quản lý hàng hóa xuất khẩu cho lô hàng;
+
+- Sau khi lấy được số quản lý hàng hóa xuất khẩu cho lô hàng, người khai hải quan sử dụng số quản lý hàng hóa đã được cấp để khai vào tiêu chí 2.24 - “Số vận đơn” trên tờ khai hải quan điện tử xuất khẩu.
+
+Điều 2. Phạm vi áp dụng thí điểm
+
+1. Áp dụng thí điểm đối với tất cả các tờ khai xuất khẩu, nhập khẩu có cửa khẩu xuất (địa điểm xếp hàng trên tờ khai xuất khẩu) hoặc cửa khẩu nhập (địa điểm dỡ hàng trên tờ khai nhập khẩu) là các cảng biển thuộc địa bàn quản lý của Cục Hải quan TP. Hải Phòng.
+
+2. Thời gian thực hiện thí điểm: từ ngày 15/8/2017 đến thời điểm Thông tư sửa đổi, bổ sung Thông tư số 38/2015/TT-BTC ngày 25/3/2015 có hiệu lực thi hành.
+
+Điều 3. Giao cho Tổng cục Hải quan có trách nhiệm:
+
+1. Chuẩn bị đầy đủ các điều kiện kỹ thuật để triển khai quản lý, giám sát hàng hóa tự động tại cảng biển và cảng hàng không.
+
+2. Hướng dẫn doanh nghiệp xuất nhập khẩu, các đơn vị hải quan trực tiếp thực hiện thủ tục hải quan và các đối tượng có liên quan đến hoạt động xuất khẩu, nhập khẩu thực hiện khai và kiểm tra nội dung khai “Số vận đơn” trên tờ khai hải quan điện tử theo hướng dẫn tại Điều 1 Quyết định này.
+
+3. Chỉ đạo Cục Hải quan TP. Hải Phòng xây dựng, ký kết Quy chế phối hợp với các đơn vị chức năng, các doanh nghiệp kinh doanh kho, bãi, cảng thuộc địa bàn quản lý để thực hiện hiệu quả nội dung khai số quản lý hàng hóa xuất khẩu, nhập khẩu, tránh gian lận xảy ra.
+
+4. Hỗ trợ, giải quyết vướng mắc của doanh nghiệp xuất nhập khẩu, các đơn vị hải quan trực tiếp thực hiện thủ tục hải quan và các đối tượng có liên quan đến hoạt động xuất khẩu, nhập khẩu trong quá trình thực hiện.
+
+5. Tổng kết, đánh giá kết quả thực hiện thí điểm theo Quyết định này; đề xuất giải pháp hoàn thiện nội dung thí điểm khai số vận đơn trên tờ khai hải quan đối với hàng hóa xuất khẩu, nhập khẩu để quản lý, giám sát hàng hóa tự động.
+
+Điều 4. Quyết định này có hiệu lực thi hành kể từ ngày 15/8/2017.
+
+Tổng cục trưởng Tổng cục Hải quan, Chánh Văn phòng Bộ Tài chính, Cục trưởng Cục Hải quan TP. Hải Phòng chịu trách nhiệm thi hành quyết định này. Trong quá trình thực hiện, nếu có vướng mắc, các Cục Hải quan, cá nhân, tổ chức phản ánh về Bộ Tài chính (Tổng cục Hải quan) để được hướng dẫn giải quyết./.
+
+| Nơi nhận: - Như Điều 4; - Các đơn vị thuộc Bộ Tài chính (Vụ PC, Cục TH&TK tài chính); - Website Bộ Tài chính; - Website Tổng cục Hải quan; - Lưu: VT, TCHQ (16b) | KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai |
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+
+Nơi nhận: - Như Điều 4; - Các đơn vị thuộc Bộ Tài chính (Vụ PC, Cục TH&TK tài chính); - Website Bộ Tài chính; - Website Tổng cục Hải quan; - Lưu: VT, TCHQ (16b)
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai

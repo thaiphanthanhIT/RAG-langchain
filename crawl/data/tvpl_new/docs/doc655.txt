@@ -1,0 +1,428 @@
+BỘ TÀI CHÍNH
+-------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1921/QĐ-BTC
+Hà Nội, ngày 16 tháng 9 năm 2022
+QUYẾT ĐỊNH
+BAN HÀNH PHỤ LỤC THAY THẾ PHỤ LỤC I KÈM THEO QUYẾT ĐỊNH SỐ 2131/QĐ-BTC NGÀY 04/10/2016 CỦA BỘ TRƯỞNG BỘ TÀI CHÍNH VỀ VIỆC BAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA CỔNG THÔNG TIN ĐIỆN TỬ BỘ TÀI CHÍNH
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+Căn cứ Nghị định số 42/2022/NĐ-CP ngày 24/6/2022 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà nước trên môi trường mạng;
+Căn cứ Quyết định số 2131/QĐ-BTC ngày 04/10/2016 của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế hoạt động của Cổng thông tin điện tử Bộ Tài chính.
+Căn cứ Quyết định số 636/QĐ-BTC ngày 11/4/2019 của Bộ trưởng Bộ Tài chính về việc sửa đổi, bổ sung một số điều tại quy chế hoạt động của Cổng Thông tin điện tử Bộ Tài chính ban hành kèm theo Quyết định số 2131/QĐ-BTC ngày 04/10/2016 của Bộ trưởng Bộ Tài chính;
+Căn cứ Quyết định số 1106/QĐ-BTC ngày 26/7/2019 của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế Hỏi đáp chính sách tài chính tự động trên Cổng thông tin điện tử Bộ Tài chính;
+Căn cứ Quyết định số 452/QĐ-BTC ngày 02/4/2018 của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của người dân, doanh nghiệp về quy định hành chính thuộc phạm vi quản lý của Bộ Tài chính trên Hệ thống thông tin Chính phủ.
+Theo đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Phụ lục thay thế Phụ lục I kèm theo Quyết định số 2131/QĐ-BTC ngày 04/10/2016 của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế hoạt động của Cổng Thông tin điện tử Bộ Tài chính.
+Điều 2. Quyết định có hiệu lực kể từ ngày ký. Chánh Văn phòng Bộ, Cục trưởng Cục Tin học và Thống kê tài chính và Thủ trưởng các đơn vị thuộc Bộ chịu trách nhiệm thi hành Quyết định này./.
+
+Nơi nhận:
+- Như Điều 2;
+- Bộ trưởng để b/c;
+- Lãnh đạo Bộ (để b/c);
+- Cổng TTĐT Bộ Tài chính;
+- Lưu: VT, THTK (5b).
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+
+
+
+
+Nguyễn Đức Chi
+PHỤ LỤC I
+BẢNG PHÂN CÔNG ĐƠN VỊ PHỤ TRÁCH CUNG CẤP, BIÊN TẬP, XUẤT BẢN THÔNG TIN TRÊN CỔNG TTĐT BỘ TÀI CHÍNH
+(Kèm theo Quyết định số 1921/QĐ-BTC ngày 16/9/2022 của Bộ Tài chính)
+I. Mục/ Chuyên mục
+STT
+Tên mục/chuyên mục
+Tên đơn vị cung cấp thông tin
+Tên đơn vị biên tập, xuất bản thông tin
+1
+Giới thiệu bộ
+VPB
+VPB, Cục THTK
+1.1
+Lãnh đạo bộ
+VPB
+Cục THTK
+1.2
+Nhiệm vụ - quyền hạn
+VPB
+Cục THTK
+1.3
+Tổ chức bộ máy
+VPB
+Cục THTK
+1.4
+Lịch sử tài chính Việt Nam
+VPB
+VPB
+1.5
+Tham quan phòng truyền thống BTC
+VPB
+VPB
+1.6
+Danh mục sách của thư viện BTC
+VPB
+VPB
+2
+Tin tức tài chính
+VPB
+VPB
+3
+Tin video
+VPB
+VPB
+4
+Quỹ Vắc-xin phòng Covid-19
+VPB
+VPB
+5
+Vấn đề quốc hội quan tâm
+VPB
+VPB
+6
+Đảng bộ Bộ Tài chính
+Tạp chí Tài chính
+Cục THTK
+7
+Thủ tục hành chính và dịch vụ công trực tuyến
+Các đơn vị thuộc Bộ
+Cục THTK
+8
+Các dự án thuộc Bộ
+Cục KHTC, Vụ HTQT, Ban QLDA ODA
+Cục THTK, Vụ HTQT, Ban QLDA ODA
+8.1
+Các dự án, chương trình và kết quả thực hiện đầu tư công, mua sắm công và quản lý, sử dụng vốn đầu tư công
+Cục KHTC
+Cục THTK
+8.2
+Các dự án, chương trình và kết quả thực hiện sử dụng các nguồn vốn vay theo quy định của pháp luật
+Vụ HTQT, Ban QLDA ODA
+Vụ HTQT, Ban QLDA ODA
+9
+Chiến lược và Kế hoạch hành động
+Viện CLTC, các đơn vị thuộc Bộ
+Cục THTK
+10
+Thông tin về chương trình nghiên cứu, đề tài khoa học
+Viện CLTC
+Viện CLTC
+11
+Danh mục điều kiện, đầu tư kinh doanh
+VPB
+Cục THTK
+12
+Khung điều kiện vay 6 ngân hàng phát triển
+Cục QLN
+Cục THTK
+13
+Công khai danh mục giao dịch bắt buộc thanh toán qua ngân hàng
+Vụ TCNH
+Cục THTK
+14
+Thông tin điều hành giá
+Cục QLG
+Cục THTK
+15
+Lịch công tác
+VPB
+THTK
+16
+Khen thưởng-Xử phạt
+Vụ TĐKT, các đơn vị thuộc Bộ
+Vụ TĐKT, Cục THTK
+16.1
+Khen thưởng
+Vụ TĐKT
+Vụ TĐKT
+16.2
+Xử phạt vi phạm hành chính
+Các đơn vị thuộc Bộ
+Cục THTK
+17
+Công khai ngân sách Bộ Tài chính
+Cục KHTC
+Cục THTK
+18
+Gương điển hình tiên tiến, người tốt-việc tốt
+Vụ TĐKT
+Vụ TĐKT
+19
+Tuyển dụng
+Các đơn vị thuộc Bộ
+Cục THTK
+20
+Thông cáo báo chí
+VPB
+VPB
+21
+Thông báo
+Các đơn vị thuộc Bộ
+Cục THTK
+22
+Trao đổi trực tuyến
+Các đơn vị thuộc Bộ
+Cục THTK
+23
+Lịch tiếp công dân
+Các đơn vị thuộc Bộ
+Cục THTK
+24
+Phản ánh kiến nghị
+Các đơn vị thuộc Bộ
+Cục THTK
+25
+Kiến nghị cử tri
+Các đơn vị thuộc Bộ
+Cục THTK
+26
+Hỏi đáp chính sách tài chính
+Các đơn vị thuộc Bộ
+Cục THTK
+27
+Đóng góp ý kiến dự thảo văn bản
+Các đơn vị thuộc Bộ
+Cục THTK
+28
+Hỗ trợ Doanh nghiệp
+Vụ PC, VPB
+Vụ PC, VPB
+28.1
+Hỗ trợ pháp lý cho Doanh nghiệp nhỏ và vừa
+Vụ PC
+Vụ PC
+28.2
+Đồng hành cùng Doanh nghiệp
+VPB
+VPB
+29
+Quản lý tài chính doanh nghiệp
+Cục TCDN
+Cục THTK
+30
+Công bố sản phẩm bảo hiểm
+Cục QLBH
+Cục QLBH
+31
+TT Doanh nghiệp thuộc Bộ
+Cục TCDN, Vụ TCNH
+Cục THTK
+32
+Thông tin dịch vụ tài chính
+Cục QLG, QLKT
+Cục THTK
+32.1
+Thông tin thẩm định về giá
+Cục QLG
+Cục THTK
+32.2
+Thông tin về dịch vụ kế toán, kiểm toán
+Cục QLKT
+Cục THTK
+33
+Thông tin đấu thầu
+Các đơn vị thuộc Bộ
+Cục THTK
+34
+Thông tin chứng khoán
+UBCK
+UBCK
+35
+Tỷ giá hạch toán
+KBNN
+Cục THTK
+36
+Tỷ giá ngoại tệ
+Cục THTK
+Cục THTK
+37
+Hệ thống Văn bản
+Các đơn vị thuộc Bộ
+Cục THTK, Vụ PC
+37.1
+Văn bản quy phạm pháp luật
+Các đơn vị thuộc Bộ
+Vụ PC
+37.2
+Văn bản hợp nhất
+Các đơn vị thuộc Bộ
+Vụ PC
+37.3
+Văn bản điều hành
+Các đơn vị thuộc Bộ
+Cục THTK
+38
+Ngân sách nhà nước
+Vụ NSNN
+Cục THTK
+39
+Quản lý nợ và Tài chính đối ngoại
+Cục QLN
+Cục THTK
+40
+Kế toán - Kiểm toán
+Cục QLKT
+Cục THTK
+41
+Hợp tác quốc tế
+Vụ HTQT
+Vụ HTQT
+42
+Đầu tư
+Vụ ĐT
+Cục THTK
+II. Chuyên trang
+STT
+Tên trang
+Địa chỉ truy cập
+Đơn vị chủ thể
+Đơn vị xuất bản
+1
+Bộ trưởng Bộ Tài chính
+http://portal.mof.gov.vn/webcenter/portal/ttbt
+VPB
+VPB
+2
+Công đoàn Bộ Tài chính
+http://congdoan.mof.gov.vn
+Tạp chí Tài chính
+Cục THTK
+3
+Thị trường trái phiếu
+http://tpcp.mof.gov.vn
+Vụ TCNH
+Vụ TCNH
+4
+Giá và Thẩm định giá
+http://qlg.mof.gov.vn
+Cục QLG
+Cục QLG
+5
+Thông tin Pháp luật tài chính
+https://mof.gov.vn/webcenter/portal/ttpltc
+Vụ PC
+Vụ PC
+6
+Thanh tra Bộ
+http://thanhtrabtc.mof.gov.vn
+Thanh tra Bộ
+Thanh tra Bộ
+7
+Quản lý, giám sát bảo hiểm
+http://isa.mof.gov.vn
+Cục QLBH
+Cục QLBH
+8
+Chiến lược và Chính sách tài chính
+http://nif.mof.gov.vn
+Viện CLTC
+Viện CLTC
+9
+Tin tức tài chính
+https://mof.gov.vn/webcenter/portal/tttc/pages_home
+VPB
+VPB
+10
+Viện Phát triển bảo hiểm Việt Nam
+http://vidi.mof.gov.vn
+Viện Phát triển bảo hiểm Việt Nam
+Viện Phát triển bảo hiểm Việt Nam
+11
+Tiếng anh
+https://mof.gov.vn/webcenter/portal/btcen/pages_home
+VPB, Cục THTK
+VPB, Cục THTK
+12
+Dịch vụ công
+https://mof.gov.vn/webcenter/portal/TrangdchvcngBTC/pages_home
+Cục THTK
+Cục THTK
+13
+Thống kê tài chính
+Các đơn vị thuộc Bộ
+Cục THTK
+14
+Tin học và Thống kê tài chính
+https://mof.gov.vn/webcenter/portal/thtk/pages_home
+Cục THTK
+Cục THTK
+15
+Cổng Công khai ngân sách nhà nước
+https://ckns.mof.gov.vn
+Cục THTK
+Vụ NSNN, Cục THTK, Cơ quan TƯ, Sở Tài chính các tỉnh, TP
+16
+Chuyển đổi số
+https://mof.gov.vn/webcenter/portal/cdso
+Cục THTK
+Cục THTK
+III. Trang liên kết
+STT
+Tên trang
+Địa chỉ truy cập
+Đơn vị chủ thể
+1
+Trang Thông tin điện tử về tài sản nhà nước
+https://taisancong.vn
+Thời báo Tài chính
+2
+Thời báo tài chính Việt Nam online
+http://thoibaotaichinhvietnam.vn
+Thời báo Tài chính
+3
+Tạp chí tài chính
+http://www.tapchitaichinh.vn
+Tạp chí tài chính
+4
+Trường Bồi dưỡng cán bộ tài chính
+http://ift.edu.vn
+Trường Bồi dưỡng cán bộ tài chính
+5
+Học viện tài chính
+http://www.hvtc.edu.vn
+Học viện tài chính
+6
+Trường Đại học Tài chính - Marketing
+http://www.ufm.edu.vn
+Trường Đại học Tài chính - Marketing
+7
+Trường Đại học Tài chính - kế toán
+http://www.tckt.edu.vn
+Trường Đại học Tài chính - kế toán
+8
+Trường Đại học Tài chính - Quản trị kinh doanh
+https://ufba.edu.vn
+Trường Đại học Tài chính - Quản trị kinh doanh
+9
+Trường Hải quan Việt Nam
+https://truonghaiquan.edu.vn
+Trường Hải quan Việt Nam
+10
+Sở giao dịch chứng khoán Hà nội
+http://hnx.vn
+Sở giao dịch chứng khoán Hà Nội
+11
+Sở giao dịch chứng khoán TP.HCM
+https://www.hsx.vn
+Sở giao dịch chứng khoán TP.HCM
+12
+Công ty TNHH mua bán nợ Việt Nam
+http://datc.vn
+Công ty TNHH mua bán nợ Việt Nam
+13
+Trung tâm lưu ký chứng khoán Việt Nam
+http://www.vsd.vn
+Trung tâm lưu ký chứng khoán
+14
+Công ty xổ số điện toán Việt Nam
+https://vietlott.vn
+Công ty xổ số điện toán Việt Nam
+15
+Cổng thông tin điện tử Kho bạc Nhà nước
+https://vst.mof.gov.vn
+Kho bạc Nhà nước

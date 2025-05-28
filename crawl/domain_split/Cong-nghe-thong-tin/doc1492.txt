@@ -1,0 +1,1075 @@
+| BỘ TÀI CHÍNH   | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|----------------|-----------------------------------------------------------------|
+
+| Số: 368/QĐ-BTC | Hà Nội, ngày 12 tháng 03 năm 2019                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 368/QĐ-BTC
+
+Hà Nội, ngày 12 tháng 03 năm 2019
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, KHAI THÁC CƠ SỞ DỮ LIỆU QUỐC GIA VỀ GIÁ GIAI ĐOẠN 1
+
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Nghị định số 177/2013/NĐ-CP ngày 14/11/2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giá;
+
+Căn cứ Nghị định số 149/2016/NĐ-CP ngày 11/11/2016 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định 177/2013/NĐ-CP ngày 14/11/2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giá;
+
+Căn cứ Thông tư số 142/2015/TT-BTC ngày 04/9/2015 của Bộ Tài chính quy định về Cơ sở dữ liệu quốc gia về giá;
+
+Căn cứ Thông tư số 116/2018/TT-BTC ngày 28/11/2018 của Bộ Tài chính quy định về chế độ báo cáo giá thị trường;
+
+Căn cứ Quyết định số 2309/QĐ-BTC ngày 24/10/2016 của Bộ Tài chính về việc phê duyệt chủ trương đầu tư dự án “Xây dựng Cơ sở dữ liệu quốc gia về giá giai đoạn 1”;
+
+Xét đề nghị của Cục trưởng Cục Quản lý giá, Cục trưởng Cục Tin học và Thống kê tài chính;
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, vận hành, khai thác Cơ sở dữ liệu quốc gia về giá giai đoạn 1.
+
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký. Cục trưởng Cục Quản lý giá, Cục trưởng Cục Tin học và Thống kê Tài chính và thủ trưởng các đơn vị thuộc phạm vi triển khai dự án Cơ sở dữ liệu quốc gia về giá giai đoạn 1 chịu trách nhiệm thi hành quyết định này.
+
+| Nơi nhận: - Như Điều 2; - Cổng TTĐT BTC; - Lưu: VT, THTK. | KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai |
+
+|-----------------------------------------------------------|-------------------------------------|
+
+Nơi nhận: - Như Điều 2; - Cổng TTĐT BTC; - Lưu: VT, THTK.
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai
+
+QUY CHẾ
+
+QUẢN LÝ, VẬN HÀNH, KHAI THÁC CƠ SỞ DỮ LIỆU QUỐC GIA VỀ GIÁ GIAI ĐOẠN 1 (Ban hành kèm theo Quyết định số: 368/QĐ-BTC ngày 12/03/2019 của Bộ trưởng Bộ Tài chính)
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Quy chế này quy định việc quản lý, vận hành, khai thác Cơ sở dữ liệu (sau đây viết tắt là CSDL) quốc gia về giá giai đoạn 1.
+
+Điều 2. Đối tượng áp dụng
+
+Quy chế này áp dụng đối với các đơn vị thuộc phạm vi triển khai giai đoạn 1 gồm:
+
+- Cục Quản lý giá.
+
+- Cục Tin học và Thống kê tài chính.
+
+- Tổng cục Hải quan.
+
+- Tổng cục Thuế.
+
+- Cục Quản lý công sản.
+
+- Các Sở Tài chính theo danh sách tại Phụ lục số 01 của Quy chế.
+
+- Các doanh nghiệp thẩm định giá theo danh sách tại Phụ lục số 01 của Quy chế.
+
+Điều 3. Giải thích từ ngữ
+
+Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:
+
+1. CSDL quốc gia về giá giai đoạn 1 là phần mềm được cài đặt, lưu trữ tập trung tại Bộ Tài chính để thực hiện quản lý thông tin về giá cả các loại hàng hóa, dịch vụ và tài sản theo yêu cầu quản lý của nhà nước và của Bộ Tài chính.
+
+2. Thông tin về giá cả các loại hàng hóa, dịch vụ và tài sản là toàn bộ các thông tin về danh mục và mức giá của các loại hàng hóa, dịch vụ và tài sản do các đơn vị cung cấp, cập nhật vào CSDL quốc gia về giá.
+
+3. Hệ thống AD là hệ thống Quản trị người dùng tập trung của Bộ Tài chính, dùng để cấp và quản lý tài khoản định danh theo từng người dùng của Bộ Tài chính.
+
+Điều 4. Điều kiện vận hành CSDL quốc gia về giá giai đoạn 1
+
+1. Địa chỉ truy cập vào CSDL quốc gia về giá giai đoạn 1: https://csdlgiaquocgia.mof.gov.vn
+
+2. Máy vi tính của người sử dụng thuộc Bộ Tài chính, tại 20 Sở Tài chính các tỉnh, thành phố trực thuộc Trung ương phải được kết nối mạng nội bộ hoặc với hạ tầng truyền thông của ngành Tài chính; Máy vi tính của người sử dụng tại các doanh nghiệp thẩm định giá phải được kết nối internet.
+
+3. Máy vi tính của người sử dụng phải được cài đặt một trong các trình duyệt web sau: Mozilla Firefox 40.0 trở lên hoặc Internet Explorer 10.0 trở lên hoặc Chrome/Chromium 50.0 trở lên.
+
+4. Thông tin nhập vào CSDL quốc gia về giá giai đoạn 1 sử dụng phông chữ Unicode TCVN 6909:2001 và gõ dấu tiếng Việt. Các văn bản dùng hệ phông chữ khác với Unicode, phải được chuyển đổi sang định dạng phông chữ Unicode TCVN 6909:2001 trước khi tải vào CSDL quốc gia về giá giai đoạn 1.
+
+Điều 5. Tài khoản sử dụng CSDL quốc gia về giá giai đoạn 1
+
+1. Tài khoản quản trị:
+
+a) Cục Tin học và Thống kê tài chính được cấp 03 tài khoản quản trị cho các bộ phận liên quan đến quản trị mức cao, quản trị hỗ trợ người sử dụng, quản trị hệ thống.
+
+b) Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá) được cấp 01 tài khoản quản trị mức cao.
+
+c) Phân quyền sử dụng chức năng và phạm vi khai thác dữ liệu đối với các tài khoản quản trị theo danh sách tại Phụ lục số 03 của Quy chế.
+
+2. Tài khoản sử dụng:
+
+a) Cục Quản lý giá: được cấp tài khoản sử dụng cho toàn bộ cán bộ, công chức của Cục Quản lý giá, sử dụng tài khoản thống nhất từ hệ thống AD của Bộ Tài chính.
+
+b) Tổng cục Hải quan, Tổng cục Thuế, Cục Quản lý công sản: mỗi đơn vị được cấp 02 tài khoản, gồm: 01 tài khoản dành cho chuyên viên, 01 tài khoản dành cho lãnh đạo, sử dụng tài khoản thống nhất từ hệ thống AD của Bộ Tài chính.
+
+c) Các Sở Tài chính: mỗi đơn vị được cấp 03 tài khoản, gồm: 02 tài khoản dành cho chuyên viên, 01 tài khoản dành cho lãnh đạo, sử dụng tài khoản thống nhất từ hệ thống AD của Bộ Tài chính.
+
+d) Các doanh nghiệp thẩm định giá: sử dụng tài khoản đồng bộ từ hệ thống Dịch vụ công trực tuyến của Bộ Tài chính. Đối với những doanh nghiệp chưa có tài khoản trên dịch vụ công trực tuyến của Bộ Tài chính, thực hiện theo Quy trình cấp tài khoản theo Khoản 3, Điều 5 của Quy chế này.
+
+e) Phân quyền sử dụng chức năng và phạm vi khai thác dữ liệu đối với các tài khoản sử dụng theo danh sách tại Phụ lục số 03 của Quy chế.
+
+3. Quy trình cấp tài khoản sử dụng:
+
+Trong quá trình vận hành, đơn vị có nhu cầu cấp thêm tài khoản cần thực hiện theo các bước sau:
+
+a) Đối với tài khoản được đồng bộ với Hệ thống AD:
+
+- Đơn vị có nhu cầu cấp tài khoản gửi yêu cầu cấp tài khoản sử dụng mới tới Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá) bằng văn bản. Thông tin yêu cầu tạo tài khoản mới phải bao gồm các nội dung sau:
+
++ Tên người sử dụng (người sẽ được cấp tài khoản)
+
++ Thuộc đơn vị (ghi rõ tới cấp phòng)
+
++ Chức vụ
+
++ Số điện thoại
+
++ Các yêu cầu về tài khoản (các loại tài khoản cần tạo)
+
++ Địa chỉ tiếp nhận phản hồi (họ tên, đơn vị, thư điện tử, số điện thoại)
+
++ Tên người yêu cầu tạo tài khoản
+
+- Cục Quản lý giá xem xét và đề nghị Cục Tin học và Thống kê tài chính cấp tài khoản mới cho đơn vị đối với các đơn vị sử dụng tài khoản thống nhất từ hệ thống AD.
+
+- Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá) phân quyền sử dụng trên CSDL quốc gia về giá giai đoạn 1 theo đúng chức năng nhiệm vụ của đơn vị.
+
+- Tài khoản mới được cấp trong phong bì có dấu mật được Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá) gửi đến đơn vị có yêu cầu.
+
+- Đơn vị nhận tài khoản mới và đổi mật khẩu trong lần đầu tiên đăng nhập vào CSDL quốc gia về giá giai đoạn 1.
+
+Thời gian xử lý cấp tài khoản mới không quá 03 ngày làm việc tính theo dấu xác nhận công văn đến.
+
+b) Đối với tài khoản không được đồng bộ với Hệ thống AD của Bộ Tài chính:
+
+- Đơn vị có nhu cầu cấp tài khoản gửi yêu cầu cấp tài khoản sử dụng mới tới Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá) bằng văn bản.
+
+- Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá) xem xét cấp tài khoản mới cho đơn vị, phân quyền sử dụng trên CSDL quốc gia về giá giai đoạn 1 theo đúng chức năng nhiệm vụ của đơn vị.
+
+- Tài khoản mới được cấp trong phong bì có dấu mật được Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá) gửi đến đơn vị có yêu cầu.
+
+- Đơn vị nhận tài khoản mới và đổi mật khẩu trong lần đầu tiên đăng nhập vào CSDL quốc gia về giá giai đoạn 1.
+
+Thời gian xử lý cấp tài khoản mới không quá 03 ngày làm việc tính theo dấu xác nhận công văn đến và dấu xác nhận phong bì thư đi.
+
+4. Tên tài khoản trong CSDL quốc gia về giá giai đoạn 1 được tạo theo nguyên tắc như sau:
+
+a) Tài khoản người dùng thuộc Cục Quản lý giá: là tài khoản AD của cán bộ được cấp để truy cập các ứng dụng tại cơ quan Bộ.
+
+b) Tài khoản của người dùng các đơn vị còn lại cấp theo cấu trúc:
+
+[Mã hệ thống]-[Mã đơn vị]-[Mã vai trò]-[Số thứ tự (nếu có)]
+
+Trong đó:
+
+- Mã hệ thống: Mặc định là CSDLGIA
+
+- Mã đơn vị: Theo tên viết tắt như quy định tại Phụ lục số 02 của Quy chế.
+
+- Mã vai trò: CV: Chuyên viên; LD: Lãnh đạo; CNTT: Quản trị mức cao; CGHT: Quản trị hỗ trợ người sử dụng; QTHT: Quản trị hệ thống.
+
+- Số thứ tự (nếu có): Trong trường hợp có nhiều hơn một tài khoản có vai trò tương tự nhau tại một đơn vị sử dụng thì đặt số thứ tự là số nguyên tăng dần.
+
+5. Đảm bảo an toàn đối với tài khoản sử dụng
+
+- Đối với tài khoản dùng chung cho một đơn vị, Thủ trưởng các đơn vị phải có cơ chế xác định rõ trách nhiệm quản lý tài khoản thuộc về cá nhân cán bộ, công chức nào sử dụng.
+
+- Đối với cá nhân được cấp tài khoản:
+
++ Khai thác, sử dụng dịch vụ cho mục đích công việc và trong phạm vi trách nhiệm đã được phân công.
+
++ Đặt mật khẩu và định kỳ thay đổi mật khẩu theo quy định sau: Mật khẩu của tài khoản dịch vụ gồm một chuỗi ký tự kết hợp đồng thời các yếu tố sau: Có tối thiểu 8 ký tự; gồm tối thiểu 3 trong số 4 loại ký tự sau: chữ cái viết hoa (A-Z); chữ cái viết thường (a-z); chữ số (0-9); các ký tự khác trên bàn phím máy tính (` ~ ! @ # $ % ^ & * ( ) _ - + = { } [ ] \ I : ; ” ’ < > , . ? /) và dấu cách; Mật khẩu không được trùng với một phần tên của tài khoản.
+
++ Mật khẩu của tài khoản dịch vụ phải được thay đổi tối thiểu 3 tháng một lần.
+
++ Khi thay đổi mật khẩu của tài khoản dịch vụ bắt buộc phải khác mật khẩu cũ.
+
++ Quản lý mật khẩu theo quy định về bảo vệ bí mật nhà nước độ "Mật".
+
+Chương II
+
+QUY ĐỊNH CỤ THỂ
+
+Điều 6. Cập nhật thông tin trên CSDL quốc gia về giá giai đoạn 1
+
+1. Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá)
+
+a) Những thông tin cần cập nhật:
+
+- Giá thị trường hàng hóa, dịch vụ thuộc danh mục báo cáo giá thị trường theo quy định của Bộ Tài chính
+
+- Giá đăng ký của hàng hóa, dịch vụ thuộc danh mục bình ổn giá phải thực hiện đăng ký giá trong thời gian áp dụng biện pháp bình ổn giá của các doanh nghiệp thực hiện đăng ký giá tại Cục Quản lý giá - Bộ Tài chính, các văn bản này là bản cuối đã được đóng dấu xác nhận của Bộ Tài chính (hoặc Cục Quản lý giá).
+
+- Giá kê khai của hàng hóa, dịch vụ thuộc danh mục kê khai giá của các doanh nghiệp thực hiện kê khai giá tại Cục Quản lý giá - Bộ Tài chính, các văn bản này là bản cuối đã được đóng dấu xác nhận của Bộ Tài chính (hoặc Cục Quản lý giá).
+
+- Giá hàng hóa, dịch vụ do Bộ Tài chính định giá.
+
+- Giá trúng thầu đối với hàng hóa dự trữ quốc gia.
+
+- Thông tin về doanh nghiệp thẩm định giá: gồm thông tin trong báo cáo hoạt động của doanh nghiệp thẩm định giá theo Phụ lục số 07/TĐG của Thông tư số 38/2014/TT-BTC ngày 28/03/2014 của Bộ Tài chính hướng dẫn Nghị định số 89/2013/NĐ-CP ngày 06/08/2013 của Chính phủ hướng dẫn Luật giá về thẩm định giá: những thông tin thay đổi không thuộc thủ tục hành chính cấp giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá, thủ tục Cấp lại giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá.
+
+- Chỉ số giá tiêu dùng theo công bố của Tổng cục Thống kê.
+
+- Danh mục nghiệp vụ.
+
+b) Hình thức cập nhật dữ liệu:
+
+Qua tệp excel được kết xuất từ CSDL quốc gia về giá giai đoạn 1 hoặc nhập trực tiếp trên CSDL quốc gia về giá giai đoạn 1.
+
+c) Tần suất cập nhật dữ liệu:
+
+- Giá thị trường hàng hóa, dịch vụ: định kỳ 15 ngày đầu và 15 ngày cuối hàng tháng.
+
+- Giá hàng hóa, dịch vụ thuộc diện đăng ký giá; giá hàng hóa, dịch vụ thuộc diện kê khai giá: Thực hiện cập nhật khi có hồ sơ đăng ký, kê khai mới của đơn vị.
+
+- Giá hàng hóa, dịch vụ do nhà nước định giá; giá trúng thầu đối với hàng hóa dự trữ quốc gia: Khi có văn bản định giá mới ban hành của Bộ Tài chính hoặc các Bộ, ban, ngành khác; khi có thông tin về giá trúng thầu hàng dự trữ quốc gia.
+
+- Dữ liệu thẩm định giá: Ngay khi thông tin của doanh nghiệp thẩm định giá thay đổi.
+
+- Chỉ số giá tiêu dùng: Một tháng một lần ngay khi có công bố chính thức của Tổng cục Thống kê.
+
+- Danh mục nghiệp vụ: Ngay khi có yêu cầu phát sinh thêm hoặc điều chỉnh giá trị danh mục từ các bộ phận nghiệp vụ.
+
+2. Sở Tài chính
+
+a) Những thông tin cần cập nhật:
+
+- Giá hàng hóa, dịch vụ do UBND Tỉnh, thành phố trực thuộc trung ương (sau đây viết tắt là UBND tỉnh) định giá đối với dịch vụ thu gom, vận chuyển rác thải sinh hoạt
+
+- Giá hàng hóa, dịch vụ thuộc diện báo cáo giá thị trường theo quy định của Bộ Tài chính. Đối với các mặt hàng mang tính đại diện, hiện có tại địa phương nhưng chưa có trong danh mục báo cáo giá thị trường của CSDL quốc gia về giá giai đoạn 1, Sở Tài chính làm công văn đề nghị Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá) để xem xét, cấu hình bổ sung.
+
+- Giá tính thuế tài nguyên do UBND tỉnh quy định.
+
+b) Hình thức cập nhật dữ liệu:
+
+Qua tệp excel được kết xuất từ CSDL quốc gia về giá giai đoạn 1 hoặc nhập trực tiếp trên CSDL quốc gia về giá giai đoạn 1.
+
+c) Tần suất cập nhật dữ liệu:
+
+- Giá hàng hóa, dịch vụ thuộc diện báo cáo giá thị trường theo quy định của Bộ Tài chính: định kỳ ngày cuối cùng hàng tháng, quý, năm thực hiện tổng hợp số liệu trước ngày 05 tháng tiếp theo của kỳ báo cáo; đối với các tháng cuối quý (tháng 3, tháng 6, tháng 9 và tháng 12), thực hiện báo cáo giá thị trường tương ứng 3 tháng, 6 tháng, 9 tháng và 12 tháng (gọi chung là báo cáo dài hạn).
+
+- Các báo cáo khác: Thực hiện cập nhật khi có văn bản mới của UBND tỉnh quy định về giá của các loại hàng hóa, dịch vụ đã nêu.
+
+3. Tổng cục Hải quan
+
+a) Các thông tin cần cập nhật:
+
+Trị giá hải quan đối với hàng hóa xuất nhập khẩu, bao gồm các thông tin cụ thể sau:
+
+- Mã hàng hóa theo danh mục hàng hóa xuất nhập khẩu Việt Nam
+
+- Mô tả hàng hóa: Mô tả hàng hóa mà doanh nghiệp khai trong tờ khai Hải quan
+
+- Nước xuất xứ đối với hàng hóa nhập khẩu hoặc nước nhập khẩu đối với hàng hóa xuất khẩu
+
+- Đơn vị tính
+
+- Lượng
+
+- Trị giá khai báo USD
+
+Danh mục hàng hóa xuất nhập khẩu: theo Phụ lục số 03 của Thông báo số 315/TB-BTC ngày 09/05/2018 của Bộ Tài chính về việc phê duyệt nội dung thu thập, đồng bộ và chuyển đổi dữ liệu từ Cục Quản lý công sản, Tổng cục Thuế, Tổng cục Hải quan sang Hệ thống CSDL quốc gia về giá giai đoạn 1.
+
+b) Hình thức cập nhật dữ liệu:
+
+Qua tệp MS Access (.mdb) hoặc qua tệp excel được kết xuất từ CSDL quốc gia về giá giai đoạn 1.
+
+c) Tần suất cập nhật dữ liệu:
+
+Định kỳ một tháng một lần, trước ngày 15 của tháng tiếp theo.
+
+4. Tổng cục Thuế
+
+a) Những thông tin cần cập nhật:
+
+Danh mục tài nguyên do Bộ Tài chính quy định khung giá tính thuế được quy định tại Thông tư số 44/2017/TT-BTC ngày 12/05/2017 của Bộ trưởng Bộ Tài chính quy định về khung giá tính thuế tài nguyên đối với nhóm, loại tài nguyên có tính chất lý, hóa giống nhau hoặc các văn bản sửa đổi, bổ sung, thay thế (nếu có).
+
+b) Hình thức cập nhật dữ liệu:
+
+Cập nhật dữ liệu qua tệp excel theo biểu mẫu, sau khi Tổng cục Thuế xây dựng phần mềm quản lý khung giá tính thuế tài nguyên sẽ thực hiện đồng bộ qua webservice.
+
+c) Tần suất cập nhật dữ liệu:
+
+Ngay khi có quy định mới bổ sung, thay thế về khung giá tính thuế tài nguyên của Bộ Tài chính.
+
+5. Cục Quản lý công sản
+
+a) Các thông tin cần cập nhật:
+
+Cung cấp dữ liệu về giá trị tài sản Nhà nước từ phần mềm Quản lý đăng ký tài sản nhà nước; phần mềm Quản lý tài sản hạ tầng giao thông đường bộ và Phần mềm Quản lý tài sản là công trình cấp nước sạch nông thôn tập trung, bao gồm:
+
+Giá trị các loại tài sản cần báo cáo theo Thông tư số 142/2015/TT-BTC ngày 04/09/2015 của Bộ Tài chính quy định về cơ sở dữ liệu quốc gia về giá: Tài sản là nhà, đất; tài sản là phương tiện vận tải; tài sản khác có nguyên giá trên 500 triệu đồng/1 đơn vị tài sản;
+
+- Giá trị tài sản hạ tầng giao thông đường bộ;
+
+- Giá trị tài sản là công trình cấp nước sạch nông thôn tập trung.
+
+b) Hình thức cập nhật dữ liệu:
+
+Thu thập dữ liệu qua webservice.
+
+c) Tần suất cập nhật dữ liệu:
+
+Định kỳ một năm một lần, muộn nhất vào ngày 31 tháng 3 của năm sau năm báo cáo.
+
+6. Doanh nghiệp thẩm định giá
+
+a) Các thông tin cần cập nhật:
+
+Thông tin báo cáo tình hình doanh nghiệp và một số chỉ tiêu hoạt động thẩm định giá cả năm theo Phụ lục số 07/TĐG của Thông tư số 38/2014/TT-BTC ngày 28/03/2014 của Bộ Tài chính hướng dẫn một số điều của Nghị định 89/2013/NĐ-CP ngày 06/08/2013 của Chính phủ quy định chi tiết thi hành một số của Luật giá về thẩm định giá; báo cáo tình hình hoạt động đột xuất; thông tin tài sản thẩm định giá.
+
+b) Hình thức cập nhật dữ liệu:
+
+Nhập trực tiếp trên CSDL quốc gia về giá giai đoạn 1 hoặc từ tệp excel kết xuất từ CSDL quốc gia về giá giai đoạn 1.
+
+c) Tần suất cập nhật dữ liệu:
+
+- Báo cáo tình hình doanh nghiệp và một số chỉ tiêu hoạt động thẩm định giá cả năm: Chậm nhất ngày 31/03 của năm liền sau năm báo cáo.
+
+- Báo cáo tình hình hoạt động đột xuất: Khi có yêu cầu của cơ quan quản lý.
+
+- Thông tin tài sản thẩm định giá: Khi phát hành chứng thư thẩm định giá cho khách hàng.
+
+7. Thông tin về giá, sau khi được cán bộ nghiệp vụ cập nhật vào CSDL quốc gia về giá giai đoạn 1 cần được rà soát, đánh giá, phê duyệt của lãnh đạo cấp trên bằng tài khoản lãnh đạo đã được cung cấp và phân quyền.
+
+Điều 7. Dự báo CPI ngắn hạn
+
+1. Cục Quản lý giá hàng tháng thực hiện dự báo CPI cho các tháng trong năm và CPI cả năm. Đồng thời thực hiện phân tích diễn biến, những giả định bất thường cần được lưu ý và lưu lại thông tin trên CSDL quốc gia về giá giai đoạn 1: thực hiện đánh giá tác động chính sách có ảnh hưởng đến CPI.
+
+2. Cán bộ thuộc các đơn vị khác không thực hiện dự báo CPI, chỉ thực hiện khai thác thông tin kết quả dự báo do Cục Quản lý giá thực hiện.
+
+Điều 8. Công khai dữ liệu
+
+1. Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá) thiết lập các dữ liệu tự động công khai trong CSDL quốc gia về giá giai đoạn 1, bao gồm:
+
+- Giá thị trường hàng hóa, dịch vụ của các Sở Tài chính báo cáo;
+
+- Thông tin về doanh nghiệp thẩm định giá;
+
+- Thông tin về thẩm định viên hành nghề.
+
+2. Đối với dữ liệu cần thực hiện biên tập trước khi công khai dữ liệu: Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá) thực hiện biên tập và công khai một tháng một lần.
+
+Điều 9. Khai thác thông tin, số liệu thông qua CSDL quốc gia về giá giai đoạn 1
+
+1. Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá) là đầu mối chủ trì quản lý, khai thác và sử dụng thông tin trong CSDL quốc gia về giá nhằm cung cấp thông tin về giá phục vụ nhiệm vụ quản lý nhà nước và theo yêu cầu của các tổ chức, cá nhân theo quy định của pháp luật.
+
+2. Các cơ quan xây dựng CSDL về giá và CSDL quốc gia về giá; các tổ chức, cá nhân tham gia cung cấp, cập nhật thông tin về giá phục vụ xây dựng CSDL quốc gia về giá được phân quyền khai thác, sử dụng dữ liệu về giá thuộc phạm vi quản lý của cơ quan mình. Việc khai thác dữ liệu về giá ngoài phạm vi quản lý phải được Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá) cho phép.
+
+3. Việc phân quyền, cho phép khai thác thông tin dữ liệu từ CSDL quốc gia về giá giai đoạn 1 do Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá) quy định.
+
+4. Thông tin số liệu trên CSDL quốc gia về giá giai đoạn 1 được khai thác, sử dụng phục vụ điều hành, thống kê, phân tích, đánh giá, dự báo về giá của tài sản, hàng hóa, dịch vụ và các thông tin khác liên quan của Bộ.
+
+5. Nghiêm cấm việc sử dụng số liệu từ CSDL quốc gia về giá giai đoạn 1 vào mục đích cá nhân mà không được phép của Cơ quan Nhà nước có thẩm quyền trừ các dữ liệu đã được công khai trên hệ thống.
+
+Điều 10. Thực hiện quản trị danh mục hệ thống
+
+Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá) thực hiện quản lý vai trò của người dùng, phân quyền phạm vi dữ liệu và các cấu hình khác để vận hành hệ thống.
+
+Chương III
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 11. Trách nhiệm của Cục Quản lý giá
+
+1. Tiếp nhận yêu cầu từ các đơn vị, thực hiện hỗ trợ người sử dụng về nghiệp vụ, về dữ liệu và các thao tác sử dụng CSDL quốc gia về giá giai đoạn 1.
+
+2. Định kỳ tháng, quý thực hiện kiểm tra dữ liệu trong hệ thống, đôn đốc các đơn vị thực hiện cập nhật thông tin đầy đủ chính xác và đúng thời gian quy định vào CSDL quốc gia về giá giai đoạn 1.
+
+3. Phối hợp với Cục Tin học và Thống kê tài chính xử lý các vướng mắc liên quan đến vấn đề kỹ thuật của hệ thống.
+
+4. Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá) quản lý tài khoản sử dụng CSDL quốc gia về giá giai đoạn 1 theo quy định tại Điều 5 của Quy chế này; định kỳ rà soát các tài khoản truy cập CSDL quốc gia về giá giai đoạn 1.
+
+5. Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá) thực hiện phân quyền cho người dùng tại thời điểm triển khai theo đúng danh sách phân quyền khai thác chức năng và phân quyền khai thác phạm vi dữ liệu theo Phụ lục 03 của Quy chế này, và dựa vào tình hình thực tế để cập nhật phù hợp với quy định và yêu cầu triển khai thực tế.
+
+Điều 12. Trách nhiệm của Cục Tin học và Thống kê tài chính
+
+1. Quản lý, hỗ trợ và vận hành hệ thống hạ tầng kỹ thuật công nghệ thông tin đảm bảo CSDL quốc gia về giá giai đoạn 1 vận hành thông suốt.
+
+2. Xử lý các vướng mắc liên quan đến vấn đề kỹ thuật của hệ thống CSDL quốc gia về giá giai đoạn 1.
+
+3. Đảm bảo hạ tầng kỹ thuật cho việc đồng bộ CSDL quốc gia về giá giai đoạn 1 với dữ liệu Thông tin doanh nghiệp thẩm định giá từ Hệ thống Dịch vụ công trực tuyến và dữ liệu tài sản từ CSDL của Cục Quản lý công sản.
+
+4. Sao lưu dữ liệu của CSDL quốc gia về giá giai đoạn 1: các ngày trong tuần sao lưu dữ liệu tăng trưởng (backup incremental) sau giờ làm việc; sao lưu toàn bộ hệ thống (backup full) vào ngày cuối tuần. Dữ liệu sao lưu được lưu trữ 2 tuần đảm bảo khả năng khôi phục lại dữ liệu khi xảy ra sự cố.
+
+5. Bảo đảm an ninh, an toàn cho hệ thống CSDL quốc gia về giá giai đoạn 1 theo quy định của Luật An toàn thông tin mạng, Luật An ninh mạng.
+
+Điều 13. Trách nhiệm của các cơ quan, đơn vị và cá nhân tại các đơn vị triển khai CSDL quốc gia về giá giai đoạn 1
+
+1. Cập nhật thông tin đầy đủ, chính xác, đúng thời gian quy định vào CSDL quốc gia về giá giai đoạn 1.
+
+2. Thông báo sự cố, vấn đề cần hỗ trợ trong quá trình ứng dụng CSDL quốc gia về giá giai đoạn 1 để được hỗ trợ.
+
+3. Khai thác thông tin, báo cáo theo phân quyền trên hệ thống.
+
+4. Quản lý đảm bảo an ninh, an toàn đối với tài khoản truy cập vào CSDL quốc gia về giá giai đoạn 1 đã được cấp.
+
+5. Thông báo bằng văn bản tới Cục Quản lý giá (Trung tâm Dữ liệu quốc gia và Dịch vụ về giá) những trường hợp bổ sung, điều chỉnh tài khoản và quyền truy cập, khai thác CSDL quốc gia về giá giai đoạn 1.
+
+Điều 14. Kinh phí đảm bảo việc xây dựng, vận hành và khai thác CSDL quốc gia về giá giai đoạn 1
+
+Kinh phí cho việc xây dựng, vận hành và khai thác CSDL quốc gia về giá giai đoạn 1 được thực hiện theo quy định tại Nghị định số 149/2016/NĐ-CP ngày 11/11/2016 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định 177/2013/NĐ-CP ngày 14/11/2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giá và Thông tư số 142/2015/TT-BTC ngày 04/9/2015 của Bộ Tài chính quy định về Cơ sở dữ liệu quốc gia về giá.
+
+Điều 15. Tổ chức thực hiện
+
+Việc quản lý, vận hành, khai thác CSDL quốc gia về giá giai đoạn 1 phải tuân thủ các quy định tại Quy chế này và các quy định về an toàn thông tin hiện hành của Bộ Tài chính.
+
+Trong quá trình thực hiện nếu phát sinh các vướng mắc, các cơ quan, tổ chức, đơn vị phản ánh kịp thời về Bộ Tài chính (Cục Tin học và Thống kê tài chính, Cục Quản lý giá) để phối hợp xử lý./.
+
+PHỤ LỤC 01
+
+DANH SÁCH CÁC SỞ TÀI CHÍNH VÀ DOANH NGHIỆP THẨM ĐỊNH GIÁ THUỘC PHẠM VI TRIỂN KHAI CSDL QUỐC GIA VỀ GIÁ GIAI ĐOẠN 1 (Ban hành kèm theo Quyết định số: 368/QĐ-BTC ngày 12/03/2019 của Bộ trưởng Bộ Tài chính)
+
+I. Danh sách các Sở Tài chính
+
+1. Sở Tài chính Thành phố Hà Nội
+
+2. Sở Tài chính Thành phố Hải Phòng
+
+3. Sở Tài chính Tỉnh Hưng Yên
+
+4. Sở Tài chính Tỉnh Ninh Bình
+
+5. Sở Tài chính Tỉnh Nam Định
+
+6. Sở Tài chính Tỉnh Điện Biên
+
+7. Sở Tài chính Tỉnh Lào Cai
+
+8. Sở Tài chính Tỉnh Cao Bằng
+
+9. Sở Tài chính Tỉnh Quảng Ninh
+
+10. Sở Tài chính Tỉnh Nghệ An
+
+11. Sở Tài chính Tỉnh Quảng Bình
+
+12. Sở Tài chính Thành phố Đà Nẵng
+
+13. Sở Tài chính Tỉnh Khánh Hòa
+
+14. Sở Tài chính Tỉnh Gia Lai
+
+15. Sở Tài chính Tỉnh Lâm Đồng
+
+16. Sở Tài chính Thành phố Hồ Chí Minh
+
+17. Sở Tài chính Tỉnh Bà Rịa Vũng Tàu
+
+18. Sở Tài chính Tỉnh An Giang
+
+19. Sở Tài chính Thành phố Cần Thơ
+
+20. Sở Tài chính Tỉnh Cà Mau
+
+II. Danh sách các Doanh nghiệp Thẩm định giá
+
+1. Công ty cổ phần thẩm định giá VINACONTROL
+
+2. Công ty tư vấn dịch vụ về tài sản bất động sản DATC
+
+3. Công ty cổ phần thẩm định giá IVC Việt Nam
+
+4. Công ty cổ phần tư vấn và thẩm định giá Đông Nam
+
+5. Công ty cổ phần tư vấn thẩm định giá VCHP
+
+6. Công ty cổ phần thẩm định giá EXIM
+
+7. Công ty cổ phần thẩm định giá Hoa mặt trời
+
+8. Công ty TNHH thẩm định giá Chuẩn Việt
+
+9. Công ty cổ phần thông tin và thẩm định giá Miền Nam SIVC
+
+10. Công ty cổ phần thông tin và thẩm định giá Tây Nam Bộ SIAC.
+
+PHỤ LỤC 02
+
+QUY ƯỚC ĐẶT MÃ ĐƠN VỊ (Ban hành kèm theo Quyết định số: 368/QĐ-BTC ngày 12/03/2019 của Bộ trưởng Bộ Tài chính)
+
+I. Danh sách tên viết tắt các đơn vị thuộc Bộ Tài chính
+
+| STT | Đơn vị                            | Viết tắt |
+
+|-----|-----------------------------------|----------|
+
+| 1.  | Cục Quản lý giá                   | QLG      |
+
+| 2.  | Cục Tin học và Thống kê tài chính | THTK     |
+
+| 3.  | Tổng cục Thuế                     | TCT      |
+
+| 4.  | Tổng cục Hải quan                 | TCHQ     |
+
+| 5.  | Cục Quản lý Công sản              | QLCS     |
+
+STT
+
+Đơn vị
+
+Viết tắt
+
+1.
+
+Cục Quản lý giá
+
+QLG
+
+2.
+
+Cục Tin học và Thống kê tài chính
+
+THTK
+
+3.
+
+Tổng cục Thuế
+
+TCT
+
+4.
+
+Tổng cục Hải quan
+
+TCHQ
+
+5.
+
+Cục Quản lý Công sản
+
+QLCS
+
+II. Danh sách tên viết tắt các Sở Tài chính
+
+| STT | Địa phương             | Viết tắt |
+
+|-----|------------------------|----------|
+
+| 1.  | Thành phố Hà Nội       | HAN      |
+
+| 2.  | Thành phố Hải Phòng    | HPH      |
+
+| 3.  | Tỉnh Hưng Yên          | HYE      |
+
+| 4.  | Tỉnh Ninh Bình         | NBI      |
+
+| 5.  | Tỉnh Nam Định          | NDI      |
+
+| 6.  | Tỉnh Điện Biên         | DBI      |
+
+| 7.  | Tỉnh Lào Cai           | LCA      |
+
+| 8.  | Tỉnh Cao Bằng          | CBA      |
+
+| 9.  | Tỉnh Quảng Ninh        | QNI      |
+
+| 10. | Tỉnh Nghệ An           | NAN      |
+
+| 11. | Tỉnh Quảng Bình        | QBI      |
+
+| 12. | Thành phố Đà Nẵng      | DNA      |
+
+| 13. | Tỉnh Khánh Hòa         | KHH      |
+
+| 14. | Tỉnh Gia Lai           | GLA      |
+
+| 15. | Tỉnh Lâm Đồng          | LDO      |
+
+| 16. | Thành phố Hồ Chí Minh  | HCM      |
+
+| 17. | Tỉnh Bà Rịa - Vũng Tàu | BRV      |
+
+| 18. | Tỉnh An Giang          | AGI      |
+
+| 19. | Thành phố Cần Thơ      | CTH      |
+
+| 20. | Tỉnh Cà Mau            | CMA      |
+
+STT
+
+Địa phương
+
+Viết tắt
+
+1.
+
+Thành phố Hà Nội
+
+HAN
+
+2.
+
+Thành phố Hải Phòng
+
+HPH
+
+3.
+
+Tỉnh Hưng Yên
+
+HYE
+
+4.
+
+Tỉnh Ninh Bình
+
+NBI
+
+5.
+
+Tỉnh Nam Định
+
+NDI
+
+6.
+
+Tỉnh Điện Biên
+
+DBI
+
+7.
+
+Tỉnh Lào Cai
+
+LCA
+
+8.
+
+Tỉnh Cao Bằng
+
+CBA
+
+9.
+
+Tỉnh Quảng Ninh
+
+QNI
+
+10.
+
+Tỉnh Nghệ An
+
+NAN
+
+11.
+
+Tỉnh Quảng Bình
+
+QBI
+
+12.
+
+Thành phố Đà Nẵng
+
+DNA
+
+13.
+
+Tỉnh Khánh Hòa
+
+KHH
+
+14.
+
+Tỉnh Gia Lai
+
+GLA
+
+15.
+
+Tỉnh Lâm Đồng
+
+LDO
+
+16.
+
+Thành phố Hồ Chí Minh
+
+HCM
+
+17.
+
+Tỉnh Bà Rịa - Vũng Tàu
+
+BRV
+
+18.
+
+Tỉnh An Giang
+
+AGI
+
+19.
+
+Thành phố Cần Thơ
+
+CTH
+
+20.
+
+Tỉnh Cà Mau
+
+CMA
+
+III. Danh sách tên viết tắt các Doanh nghiệp Thẩm định giá
+
+| STT | Doanh nghiệp                                                | Viết tắt   |
+
+|-----|-------------------------------------------------------------|------------|
+
+| 1.  | Công ty cổ phần Thẩm định giá VinaControl                   | VNCTRL     |
+
+| 2.  | Công ty cổ phần tư vấn dịch vụ về tài sản bất động sản DATC | DCS        |
+
+| 3.  | Công ty cổ phần Thẩm định giá IVC Việt Nam                  | IVC        |
+
+| 4.  | Công ty cổ phần tư vấn Thẩm định giá VCHP                   | VCHP       |
+
+| 5.  | Công ty cổ phần Thẩm định giá Exim                          | EXIMA      |
+
+| 6.  | Công ty cổ phần Thẩm định giá Hoa mặt trời                  | SFVCVN     |
+
+| 7.  | Công ty Trách nhiệm hữu hạn Thẩm định giá Chuẩn Việt        | VIETVALUES |
+
+| 8.  | Công ty cổ phần Thông tin và Thẩm định giá Miền Nam SIVC    | SIVC       |
+
+| 9.  | Công ty CP Thông tin và Thẩm định giá Tây Nam Bộ SIAC       | SIAC       |
+
+| 10. | Công ty cổ phần tư vấn và Thẩm định giá Đông Nam            | SACC       |
+
+STT
+
+Doanh nghiệp
+
+Viết tắt
+
+1.
+
+Công ty cổ phần Thẩm định giá VinaControl
+
+VNCTRL
+
+2.
+
+Công ty cổ phần tư vấn dịch vụ về tài sản bất động sản DATC
+
+DCS
+
+3.
+
+Công ty cổ phần Thẩm định giá IVC Việt Nam
+
+IVC
+
+4.
+
+Công ty cổ phần tư vấn Thẩm định giá VCHP
+
+VCHP
+
+5.
+
+Công ty cổ phần Thẩm định giá Exim
+
+EXIMA
+
+6.
+
+Công ty cổ phần Thẩm định giá Hoa mặt trời
+
+SFVCVN
+
+7.
+
+Công ty Trách nhiệm hữu hạn Thẩm định giá Chuẩn Việt
+
+VIETVALUES
+
+8.
+
+Công ty cổ phần Thông tin và Thẩm định giá Miền Nam SIVC
+
+SIVC
+
+9.
+
+Công ty CP Thông tin và Thẩm định giá Tây Nam Bộ SIAC
+
+SIAC
+
+10.
+
+Công ty cổ phần tư vấn và Thẩm định giá Đông Nam
+
+SACC
+
+PHỤ LỤC 03
+
+PHÂN QUYỀN SỬ DỤNG CHỨC NĂNG VÀ PHẠM VI KHAI THÁC DỮ LIỆU TRONG HỆ THỐNG CSDL QUỐC GIA VỀ GIÁ (Ban hành kèm theo Quyết định số: 368/QĐ-BTC ngày 12/3/2019 của Bộ trưởng Bộ Tài chính)
+
+1. Lãnh đạo Bộ Tài chính: được phân quyền phân hệ khai thác dữ liệu với phạm vi khai thác là toàn bộ dữ liệu trong hệ thống.
+
+2. Cục Quản lý giá
+
+2.1. Lãnh đạo Cục Quản lý giá: được phân quyền phân hệ khai thác dữ liệu với phạm vi khai thác là toàn bộ dữ liệu trong hệ thống.
+
+2.2. Lãnh đạo Trung tâm Dữ liệu quốc gia và Dịch vụ về giá: có quyền thao tác tất cả các chức năng trong hệ thống, khai thác toàn bộ dữ liệu trong hệ thống.
+
+2.3. Chuyên viên Trung tâm Dữ liệu quốc gia và Dịch vụ về giá: được phân quyền cập nhật và khai thác dữ liệu sau:
+
+- Giá thị trường hàng hóa, dịch vụ thuộc danh mục báo cáo giá thị trường theo quy định của Bộ Tài chính;
+
+- Giá đăng ký của hàng hóa, dịch vụ thuộc danh mục bình ổn giá phải thực hiện đăng ký giá trong thời gian áp dụng biện pháp bình ổn giá của các doanh nghiệp thực hiện đăng ký giá tại Cục Quản lý giá - Bộ Tài chính;
+
+- Giá kê khai của hàng hóa, dịch vụ thuộc danh mục kê khai giá của các doanh nghiệp thực hiện kê khai giá tại Cục Quản lý giá - Bộ Tài chính;
+
+- Giá hàng hóa, dịch vụ do Bộ Tài chính định giá;
+
+- Giá trúng thầu đối với hàng hóa dự trữ quốc gia;
+
+- Thông tin về doanh nghiệp thẩm định giá;
+
+- Phân tích, dự báo CPI.
+
+2.4. Các phòng nghiệp vụ tại Cục Quản lý giá:
+
+a) Phòng giá hàng Công nghiệp tiêu dùng: được phân quyền khai thác những dữ liệu sau:
+
+- Giá hàng hóa, dịch vụ do nhà nước định giá:
+
++ Giá cụ thể đối với các dịch vụ hàng không;
+
++ Khung giá đối với các dịch vụ vận chuyển hành khách nội địa;
+
++ Khung giá đối với các dịch vụ phi hàng không;
+
++ Giá mua tối đa đối với sản phẩm dịch vụ công ích, dịch vụ sự nghiệp công đối với lĩnh vực tài nguyên môi trường;
+
++ Giá tối đa/Giá cụ thể đối với một số xuất bản phẩm;
+
++ Giá tối đa đối với sản phẩm dịch vụ công ích thuộc Bộ Giao thông vận tải;
+
++ Giá cụ thể đối với dịch vụ khám bệnh, chữa bệnh;
+
++ Khung giá đối với dịch vụ khám bệnh KBCB tại cơ sở KBCB công lập áp dụng cho đối tượng KBCB không thanh toán từ quỹ BHYT;
+
++ Khung giá đối với Dịch vụ điều trị các chất dạng thuốc phiện bằng thuốc thay thế tại cơ sở điều trị của Nhà nước;
+
++ Mức trần theo quy định tại Nghị định số 86/2015/NĐ-CP ngày 02/10/2015 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ Sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập từ năm học 2015 - 2016 đến năm học 2020 - 2021 đối với dịch vụ giáo dục;
+
++ Các dịch vụ từ phí chuyển sang cơ chế định giá do Nhà nước định giá (thuộc thẩm quyền định giá của Bộ Tài chính).
+
++ Giá tối đa sản phẩm, dịch vụ công ích thủy lợi;
+
++ Giá dịch vụ kiểm định an toàn kỹ thuật và chất lượng tàu biển, công trình biển;
+
++ Giá thử nghiệm khí thải đối với phương tiện giao thông cơ giới đường bộ và thử nghiệm mức tiêu thụ nhiên liệu đối với xe ô tô con từ 07 chỗ ngồi trở xuống sản xuất, lắp ráp và nhập khẩu;
+
++ Giá kiểm định chất lượng, an toàn kỹ thuật và bảo vệ môi trường đối với phương tiện, thiết bị giao thông đường sắt;
+
++ Giá kiểm định an toàn kỹ thuật và chất lượng phương tiện thủy nội địa;
+
++ Giá dịch vụ kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới, thiết bị và xe máy chuyên dùng trong lưu hành; đánh giá, hiệu chuẩn thiết bị kiểm tra xe cơ giới;
+
++ Giá dịch vụ thử nghiệm, kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với các loại phương tiện giao thông cơ giới đường bộ, linh kiện trong sản xuất, lắp ráp và nhập khẩu;
+
++ Quy định giá tối đa dịch vụ kiểm dịch y tế, y tế dự phòng tại cơ sở y tế công lập;
+
++ Giá dịch vụ trong lĩnh vực chứng khoán áp dụng tại Sở giao dịch chứng khoán và Trung tâm lưu ký chứng khoán Việt Nam;
+
++ Giá dịch vụ trong lĩnh vực chứng khoán áp dụng tại các tổ chức kinh doanh chứng khoán, ngân hàng thương mại tham gia vào thị trường chứng khoán Việt Nam.
+
+- Giá hàng hóa, dịch vụ thuộc diện đăng ký giá
+
++ Thuốc phòng bệnh, chữa bệnh cho người.
+
+- Giá hàng hóa, dịch vụ thuộc diện kê khai giá
+
++ Giấy;
+
++ Dịch vụ tại cảng biển;
+
++ Dịch vụ hàng không tại cảng hàng không sân bay;
+
++ Sách giáo khoa;
+
++ Giá vé máy bay trên các đường bay nội địa không thuộc danh mục Nhà nước quy định khung giá;
+
++ Dịch vụ khám bệnh, chữa bệnh cho người;
+
++ Cước vận tải hành khách;
+
++ Hàng hóa, dịch vụ khác theo quy định của pháp luật chuyên ngành.
+
+- Giá hàng hóa, dịch vụ thuộc diện báo cáo giá thị trường: Mặt hàng thuộc lĩnh vực Công nghiệp và tiêu dùng;
+
+- Trị giá hải quan đối với hàng hóa xuất nhập khẩu;
+
+- Khung giá tính thuế tài nguyên do Bộ Tài chính quy định, giá tính thuế tài nguyên do UBND các Tỉnh quy định;
+
+- Giá tài sản thuộc sở hữu Nhà nước;
+
+- Chỉ số giá tiêu dùng (gồm dữ liệu thống kê do Tổng cục Thống kê công bố và dữ liệu dự báo do Trung tâm dữ liệu quốc gia và dịch vụ về giá thực hiện);
+
+- Các dữ liệu công khai trên CSDL Quốc gia về giá.
+
+b) Phòng giá hàng Nông lâm thủy sản: được phân quyền khai thác những dữ liệu sau:
+
+- Giá hàng hóa, dịch vụ do nhà nước định giá
+
++ Giá mua tối đa, giá bán tối thiểu đối với Hàng dự trữ Quốc gia trong lĩnh vực nông lâm thủy sản;
+
++ Giá mua tối đa đối với Sản phẩm, dịch vụ công ích và dịch vụ sự nghiệp công sử dụng ngân sách trung ương được cơ quan nhà nước có thẩm quyền đặt hàng, giao kế hoạch trong lĩnh vực NLTS.
+
+- Các dịch vụ từ phí chuyển sang cơ chế định giá do Nhà nước định giá (thuộc thẩm quyền định giá của Bộ Tài chính hoặc UBND tỉnh)
+
++ Khung giá dịch vụ kiểm nghiệm thuốc dùng cho thực vật;
+
++ Khung giá dịch vụ tiêm phòng, tiêu độc, khử trùng cho động vật, chẩn đoán thú y và dịch vụ kiểm nghiệm thuốc dùng cho động vật.
+
+- Giá hàng hóa, dịch vụ thuộc diện đăng ký giá
+
++ Phân đạm, phân NPK;
+
++ Thuốc bảo vệ thực vật;
+
++ Vắc-xin phòng bệnh cho gia súc, gia cầm;
+
++ Muối ăn;
+
++ Sữa dành cho trẻ em dưới 6 tuổi;
+
++ Đường ăn;
+
++ Thóc, gạo tẻ thường.
+
+- Giá hàng hóa, dịch vụ thuộc diện kê khai giá
+
++ Thức ăn chăn nuôi cho gia súc, gia cầm và thủy sản;
+
++ Thuốc tiêu độc, sát trùng, tẩy trùng, trị bệnh cho gia súc, gia cầm và thủy sản;
+
++ Hàng thực phẩm chức năng cho trẻ em dưới 06 tuổi;
+
++ Hàng hóa, dịch vụ khác theo quy định của pháp luật chuyên ngành.
+
+- Giá hàng hóa, dịch vụ thuộc diện báo cáo giá thị trường: Mặt hàng thuộc lĩnh vực nông lâm thủy sản;
+
+- Trị giá hải quan đối với hàng hóa xuất nhập khẩu;
+
+- Khung giá tính thuế tài nguyên do Bộ Tài chính quy định, giá tính thuế tài nguyên do UBND các Tỉnh quy định;
+
+- Giá tài sản thuộc sở hữu Nhà nước;
+
+- Chỉ số giá tiêu dùng;
+
+- Các dữ liệu công khai trên CSDL quốc gia về giá.
+
+c) Phòng giá hàng tư liệu sản xuất: được phân quyền khai thác những dữ liệu sau:
+
+- Giá hàng hóa, dịch vụ do nhà nước định giá
+
++ Giá mua tối đa, giá bán tối thiểu đối với hàng dự trữ quốc gia đối với vật tư, thiết bị;
+
++ Khung giá đối với nước sạch sinh hoạt.
+
+- Giá hàng hóa, dịch vụ thuộc diện đăng ký giá
+
++ Xăng, dầu, thành phẩm;
+
++ Điện;
+
++ Khí dầu mỏ hóa lỏng (LPG).
+
+- Giá hàng hóa, dịch vụ thuộc diện kê khai giá
+
++ Xi măng;
+
++ Than;
+
++ Hàng hóa, dịch vụ khác theo quy định của pháp luật chuyên ngành.
+
+- Giá hàng hóa, dịch vụ thuộc diện báo cáo giá thị trường: Mặt hàng thuộc lĩnh vực Tư liệu sản xuất;
+
+- Trị giá hải quan đối với hàng hóa xuất nhập khẩu;
+
+- Khung giá tính thuế tài nguyên do Bộ Tài chính quy định, giá tính thuế tài nguyên do UBND các tỉnh quy định;
+
+- Giá tài sản thuộc sở hữu Nhà nước;
+
+- Chỉ số giá tiêu dùng;
+
+- Các dữ liệu công khai trên CSDL quốc gia về giá.
+
+d) Phòng Quản lý thẩm định giá: được phân quyền khai thác những dữ liệu sau:
+
+Cán bộ phòng Quản lý hoạt động thẩm định giá được phân quyền cập nhật hồ sơ của doanh nghiệp thẩm định giá, duyệt báo cáo tình hình hoạt động của doanh nghiệp thẩm định giá.
+
+Được phân quyền khai thác các dữ liệu sau:
+
+- Hồ sơ của doanh nghiệp thẩm định giá
+
+- Báo cáo tình hình hoạt động của doanh nghiệp thẩm định giá
+
+- Giá trị tài sản thẩm định giá do doanh nghiệp cung cấp
+
+- Giá thị trường hàng hóa, dịch vụ trên toàn quốc
+
+- Trị giá hải quan đối với hàng hóa xuất nhập khẩu
+
+- Giá hàng hóa, dịch vụ do Nhà nước định giá
+
+- Chỉ số giá tiêu dùng (số liệu do Tổng cục Thống kê công bố)
+
+- Các dữ liệu công khai trên CSDL quốc gia về giá.
+
+e) Phòng Chính sách tổng hợp: được phân quyền khai thác những dữ liệu sau: Khai thác dữ liệu giá thị trường hàng hóa, dịch vụ trên toàn quốc; giá đăng ký, kê khai; chỉ số giá tiêu dùng (gồm số liệu thống kê và dữ liệu dự báo do Trung tâm Dữ liệu quốc gia và Dịch vụ về giá thực hiện).
+
+3. Tổng Cục Hải quan
+
+3.1. Lãnh đạo đơn vị nghiệp vụ của Tổng Cục Hải quan: được phân quyền thao tác phê duyệt, từ chối duyệt của chức năng thu thập trị giá hải quan đối với hàng hóa xuất, nhập khẩu. Được phân quyền khai thác giá thị trường hàng hóa, dịch vụ trên toàn quốc, trị giá hải quan đối với hàng hóa xuất nhập khẩu, chỉ số giá tiêu dùng, các dữ liệu công khai trên CSDL quốc gia về giá.
+
+3.2. Chuyên viên đơn vị nghiệp vụ của Tổng cục Hải quan: được phân quyền thao tác thêm, sửa, xóa chức năng Thu thập trị giá hải quan đối với hàng hóa xuất, nhập khẩu. Được phân quyền khai thác giá thị trường hàng hóa, dịch vụ trên toàn quốc, trị giá hải quan đối với hàng hóa xuất nhập khẩu, chỉ số giá tiêu dùng, các dữ liệu công khai trên CSDL quốc gia về giá.
+
+4. Tổng Cục Thuế
+
+4.1. Lãnh đạo đơn vị nghiệp vụ của Tổng Cục Thuế: được phân quyền phê duyệt, từ chối duyệt của chức năng Thu thập khung giá tính thuế tài nguyên do Bộ Tài chính quy định. Được phân quyền khai thác giá thị trường hàng hóa, dịch vụ trên toàn quốc, khung giá tính thuế tài nguyên, giá tính thuế tài nguyên của UBND tỉnh quy định, chỉ số giá tiêu dùng, các dữ liệu công khai trên CSDL quốc gia về giá.
+
+4.2. Chuyên viên đơn vị nghiệp vụ của Tổng Cục Thuế: được phân quyền thao tác thêm, sửa, xóa chức năng Thu thập khung giá tính thuế tài nguyên do Tổng cục Thuế quy định. Được phân quyền khai thác giá thị trường hàng hóa, dịch vụ trên toàn quốc, khung giá tính thuế tài nguyên, giá tính thuế tài nguyên của UBND Tỉnh quy định, chỉ số giá tiêu dùng, các dữ liệu công khai trên CSDL quốc gia về giá.
+
+5. Cục Quản lý công sản: Lãnh đạo và chuyên viên Cục Quản lý công sản được phân quyền khai thác dữ liệu giá trị tài sản thuộc sở hữu nhà nước, giá thị trường hàng hóa, dịch vụ trên toàn quốc, các dữ liệu công khai trên CSDL quốc gia về giá.
+
+6. Sở Tài chính
+
+6.1. Lãnh đạo Sở Tài chính: được phân quyền thao tác duyệt, từ chối duyệt các chức năng Thu thập giá thị trường hàng hóa, dịch vụ; giá hàng hóa, dịch vụ do Nhà nước định giá (biểu mẫu giá dịch vụ thu gom, vận chuyển rác thải sinh hoạt do UBND tỉnh quy định); giá tính thuế tài nguyên do UBND tỉnh quy định.
+
+Về phạm vi dữ liệu được khai thác: Ngoài dữ liệu do Sở Tài chính thu thập thì lãnh đạo Sở Tài chính được khai thác những dữ liệu sau: giá thị trường hàng hóa, dịch vụ trên toàn quốc; khung giá tính thuế tài nguyên do Bộ Tài chính quy định, giá tính thuế tài nguyên của 20 tỉnh trong phạm vi triển khai CSDL quốc gia về giá giai đoạn 1, giá hàng hóa, dịch vụ do Nhà nước định giá, chỉ số giá tiêu dùng; một số báo cáo về hoạt động thẩm định giá (danh sách doanh nghiệp đủ điều kiện kinh doanh dịch vụ thẩm định giá, danh sách thẩm định viên hành nghề); các dữ liệu công khai trên CSDL quốc gia về giá.
+
+6.2. Chuyên viên Sở Tài chính: được phân quyền thu thập dữ liệu giá hàng hóa, dịch vụ do Nhà nước định giá (biểu mẫu giá dịch vụ thu gom, vận chuyển rác thải sinh hoạt do UBND tỉnh quy định); giá hàng hóa, dịch vụ thuộc diện báo cáo giá thị trường; giá tính thuế tài nguyên do UBND tỉnh quy định.
+
+Về phạm vi dữ liệu được khai thác: Ngoài dữ liệu do Sở Tài chính thu thập thì được khai thác những dữ liệu sau: giá thị trường hàng hóa, dịch vụ trên toàn quốc; khung giá tính thuế tài nguyên do Bộ Tài chính quy định, giá tính thuế tài nguyên của 20 tỉnh trong phạm vi triển khai CSDL quốc gia về giá giai đoạn 1, giá hàng hóa, dịch vụ do Nhà nước định giá, chỉ số giá tiêu dùng; một số báo cáo về hoạt động thẩm định giá (danh sách doanh nghiệp đủ điều kiện kinh doanh dịch vụ thẩm định giá, danh sách thẩm định viên hành nghề); các dữ liệu công khai trên CSDL quốc gia về giá.
+
+7. Các quyền quản trị
+
+7.1. Quản trị mức cao: Được cấp quyền khai thác toàn bộ chức năng và dữ liệu của hệ thống. Tài khoản này cấp cho phòng Quản lý công nghệ thông tin - Cục Tin học và Thống kê tài chính và Trung tâm Dữ liệu quốc gia và Dịch vụ về giá - Cục Quản lý giá nhằm hỗ trợ người dùng và xử lý các lỗi liên quan đến hệ thống trong suốt quá trình vận hành hệ thống, quản trị toàn bộ danh mục dùng chung trong CSDL quốc gia về giá.
+
+7.2. Quản trị hỗ trợ người sử dụng: Cấp cho Trung tâm Chuyển giao Công nghệ và Hỗ trợ kỹ thuật - Cục Tin học và Thống kê tài chính nhằm hỗ trợ về tài khoản của người dùng trong suốt quá trình sử dụng hệ thống. Các chức năng được phân quyền gồm: Quản trị người dùng là cán bộ, quản trị vai trò, quản trị cấu hình hệ thống, quản lý nhật ký sử dụng, phân quyền phạm vi dữ liệu, thiết lập thời hạn gửi báo cáo, quản lý tài liệu hướng dẫn sử dụng, quản lý danh mục đơn vị.
+
+7.3. Quản trị hệ thống: Tài khoản này được cấp cho phòng Quản lý hạ tầng kỹ thuật - Cục Tin học và Thống kê tài chính nhằm quản lý những thiết lập, vận hành chung trong hệ thống, bao gồm các chức năng: Quản trị cấu hình hệ thống, quản lý nhật ký sử dụng.
+
+8. Công ty Thẩm định giá: Khai thác dữ liệu của đơn vị đã báo cáo và được phân quyền khai thác các dữ liệu sau: Giá thị trường hàng hóa, dịch vụ trên toàn quốc, chỉ số giá tiêu dùng, một số báo cáo về hoạt động thẩm định giá (danh sách doanh nghiệp đủ điều kiện kinh doanh hoạt động thẩm định giá, danh sách thẩm định viên hành nghề), giá trị tài sản thẩm định giá của các doanh nghiệp khác cung cấp và đồng ý công khai; các dữ liệu công khai trên CSDL quốc gia về giá.
+
+9. Đối tượng khai thác thông tin công khai trên cổng thông tin (không cần tài khoản đăng nhập)
+
+Người dân, doanh nghiệp có thể khai thác được những thông tin công khai như sau: Giá thị trường hàng hóa, dịch vụ trên toàn quốc; chỉ số giá tiêu dùng một số báo cáo về hoạt động thẩm định giá (danh sách doanh nghiệp đủ điều kiện kinh doanh hoạt động thẩm định giá, danh sách thẩm định viên hành nghề).

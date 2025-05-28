@@ -1,0 +1,1043 @@
+| BỘ TÀI CHÍNH       | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|--------------------|-----------------------------------------------------------------|
+
+| Số: 76/2019/TT-BTC | Hà Nội, ngày 05 tháng 11 năm 2019                               |
+
+BỘ TÀI CHÍNH --------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 76/2019/TT-BTC
+
+Hà Nội, ngày 05 tháng 11 năm 2019
+
+THÔNG TƯ
+
+HƯỚNG DẪN KẾ TOÁN TÀI SẢN KẾT CẤU HẠ TẦNG GIAO THÔNG, THỦY LỢI
+
+Căn cứ Luật Quản lý, sử dụng tài sản công số 15/2017/QH14 ngày 21 tháng 6 năm 2017;
+
+Căn cứ Luật Kế toán số 88/2015/QH13 ngày 20 tháng 11 năm 2015;
+
+Căn cứ Nghị định số 174/2016/NĐ-CP ngày 30 tháng 12 năm 2016 của Chính phủ quy định chi tiết một số điều của Luật Kế toán;
+
+Căn cứ Nghị định số 129/2017/NĐ-CP ngày 16 tháng 11 năm 2017 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng thủy lợi;
+
+Căn cứ Nghị định số 43/2018/NĐ-CP ngày 12 tháng 03 năm 2018 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng hàng hải;
+
+Căn cứ Nghị định số 44/2018/NĐ-CP ngày 13 tháng 03 năm 2018 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng hàng không;
+
+Căn cứ Nghị định số 45/2018/NĐ-CP ngày 13 tháng 03 năm 2018 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng đường thủy nội địa;
+
+Căn cứ Nghị định số 46/2018/NĐ-CP ngày 14 tháng 03 năm 2018 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng đường sắt quốc gia;
+
+Căn cứ Nghị định số 33/2019/NĐ-CP ngày 23 tháng 04 năm 2019 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng đường bộ;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 07 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Cục trưởng Cục Quản lý giám sát Kế toán, Kiểm toán,
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn kế toán tài sản kết cấu hạ tầng giao thông, thủy lợi.
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Thông tư này quy định về chứng từ kế toán, tài khoản kế toán và sổ kế toán dùng để hạch toán tài sản kết cấu hạ tầng giao thông, thủy lợi do Nhà nước đầu tư, quản lý, gồm: tài sản kết cấu hạ tầng giao thông đường bộ, tài sản kết cấu hạ tầng hàng không, tài sản kết cấu hạ tầng đường sắt quốc gia, tài sản kết cấu hạ tầng hàng hải, tài sản kết cấu hạ tầng đường thủy nội địa, tài sản kết cấu hạ tầng thủy lợi và tài sản kết cấu hạ tầng giao thông, thủy lợi khác (sau đây gọi chung là tài sản hạ tầng giao thông, thủy lợi; viết tắt là TSHTGT-TL).
+
+Điều 2. Đối tượng áp dụng
+
+1. Cơ quan được thực hiện kế toán TSHTGT-TL theo quy định tại các Nghị định của Chính phủ hướng dẫn Luật Quản lý, sử dụng tài sản công về quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng giao thông, thủy lợi (các cơ quan được giao quản lý tài sản kế toán tổng hợp trên cơ sở kế toán chi tiết của các cơ quan, đơn vị được phân cấp thực hiện công tác kế toán).
+
+2. Doanh nghiệp được giao quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng giao thông, thủy lợi, không tính tài sản thuộc thành phần vốn nhà nước tại doanh nghiệp, trừ doanh nghiệp được giao quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng giao thông, thủy lợi tính trong thành phần vốn nhà nước được thực hiện theo chế độ kế toán doanh nghiệp và các văn bản có liên quan.
+
+Chương II
+
+QUY ĐỊNH CỤ THỂ
+
+Điều 3. Quy định về Tài khoản 216- Tài sản hạ tầng giao thông, thủy lợi.
+
+1. Tài khoản này phản ánh giá trị hiện có và tình hình biến động tăng, giảm toàn bộ TSHTGT- TL mà cơ quan, đơn vị được giao quản lý và hạch toán theo nguyên giá.
+
+2. Nguyên tắc hạch toán Tài khoản 216- Tài sản hạ tầng giao thông, thủy lợi:
+
+a) Chỉ hạch toán vào tài khoản này những TSHTGT- TL thỏa mãn tiêu chuẩn và điều kiện theo quy định của pháp luật về quản lý, sử dụng tài sản công.
+
+b) Kế toán phải mở sổ theo dõi chi tiết nguyên giá, giá trị hao mòn lũy kế và giá trị còn lại của TSHTGT- TL, tùy thuộc vào thời gian hình thành, nguyên giá TSHTGT- TL được xác định theo quy định của pháp luật về quản lý, sử dụng tài sản công.
+
+c) Nguyên tắc xác định, nguyên giá TSHTGT- TL thực hiện theo quy định của Bộ Tài chính về chế độ quản lý, tính hao mòn tài sản kết cấu hạ tầng giao thông, thủy lợi.
+
+d) Nguyên giá TSHTGT- TL chỉ được thay đổi trong các trường hợp sau:
+
+- Đánh giá lại giá trị tài sản theo quyết định của cơ quan nhà nước có thẩm quyền;
+
+- Thực hiện nâng cấp, sửa chữa, mở rộng tài sản theo dự án đã được cơ quan nhà nước có thẩm quyền phê duyệt;
+
+- Tháo dỡ một hay một số bộ phận tài sản mà các bộ phận này được quản lý theo tiêu chuẩn của một tài sản hữu hình;
+
+- Bị hư hỏng nghiêm trọng do thiên tai, sự cố bất khả kháng hoặc những tác động đột xuất khác phải hạch toán giảm nguyên giá theo quy định của pháp luật.
+
+đ) TSHTGT- TL chỉ được ghi giảm theo quy định của pháp luật về quản lý, sử dụng tài sản công. Mọi trường hợp tăng, giảm TSHTGT- TL phải căn cứ vào báo cáo kê khai lần đầu hoặc báo cáo kê khai bổ sung để hoàn chỉnh hồ sơ kế toán TSHTGT- TL.
+
+e) Mọi trường hợp phát hiện thừa, thiếu TSHTGT- TL so với sổ kế toán theo dõi đều phải xác định rõ nguyên nhân, trách nhiệm của tổ chức, cá nhân liên quan và xử lý kịp thời theo quy định của pháp luật.
+
+3. Kết cấu và nội dung phản ánh của Tài khoản 216- Tài sản hạ tầng giao thông, thủy lợi:
+
+Bên Nợ:
+
+- Nguyên giá của TSHTGT- TL tăng do được cơ quan, người có thẩm quyền giao quản lý (gồm tăng do giao quản lý mới, tăng do được đầu tư xây dựng, tăng do mua sắm hoàn thành, đưa vào sử dụng);
+
+- Nguyên giá của TSHTGT- TL tăng do nhận điều chuyển;
+
+- Điều chỉnh tăng nguyên giá của TSHTGT- TL do nâng cấp, mở rộng dự án được cấp có thẩm quyền phê duyệt;
+
+- Các trường hợp khác làm tăng nguyên giá của TSHTGT- TL (như đánh giá lại TSHTGT- TL theo quyết định của cơ quan có thẩm quyền; phát hiện thừa khi kiểm kê...).
+
+Bên Có:
+
+- Nguyên giá của TSHTGT- TL giảm do thu hồi, điều chuyển cho đơn vị khác theo quyết định của cơ quan có thẩm quyền, do bán, thanh lý tài sản, hoặc do hư hỏng, xuống cấp;
+
+- Nguyên giá của TSHTGT- TL giảm do tháo dỡ bớt một số bộ phận, thu hẹp dự án;
+
+- Các trường hợp khác làm giảm nguyên giá của TSHTGT- TL (Bị hư hỏng nghiêm trọng do thiên tai, địch họa, sự cố bất khả kháng hoặc những tác động đột xuất khác phải hạch toán giảm nguyên giá theo quy định của pháp luật; đánh giá lại TSHTGT- TL theo quyết định của cơ quan có thẩm quyền; phát hiện thiếu khi kiểm kê…).
+
+Số dư bên Nợ:
+
+Phản ánh nguyên giá TSHTGT- TL hiện có mà cơ quan, đơn vị được giao quản lý và hạch toán.
+
+Tài khoản 216- Tài sản hạ tầng giao thông, thủy lợi có 6 tài khoản cấp 2:
+
+- Tài khoản 2161- Tài sản kết cấu hạ tầng giao thông đường bộ: Phản ánh giá trị của tài sản kết cấu hạ tầng giao thông đường bộ mà cơ quan, đơn vị được giao quản lý và hạch toán.
+
+- Tài khoản 2162- Tài sản kết cấu hạ tầng hàng hải: Phản ánh giá trị của tài sản kết cấu hạ tầng hàng hải mà cơ quan, đơn vị được giao quản lý và hạch toán.
+
+- Tài khoản 2163- Tài sản kết cấu hạ tầng hàng không: Phản ánh giá trị của tài sản kết cấu hạ tầng hàng không mà cơ quan, đơn vị được giao quản lý và hạch toán.
+
+- Tài khoản 2164- Tài sản kết cấu hạ tầng giao thông đường thủy nội địa: Phản ánh giá trị của tài sản kết cấu hạ tầng giao thông đường thủy nội địa mà cơ quan, đơn vị được giao quản lý và hạch toán.
+
+- Tài khoản 2165- Tài sản kết cấu hạ tầng đường sắt quốc gia: Phản ánh giá trị của các loại tài sản kết cấu hạ tầng đường sắt quốc gia mà cơ quan, đơn vị được giao quản lý và hạch toán.
+
+- Tài khoản 2166- Tài sản kết cấu hạ tầng thủy lợi: Phản ánh giá trị của tài sản kết cấu hạ tầng thủy lợi mà cơ quan, đơn vị được giao quản lý và hạch toán.
+
+- Tài khoản 2168- Tài sản kết cấu hạ tầng khác: Phản ánh giá trị của tài sản kết cấu hạ tầng giao thông, thủy lợi khác mà cơ quan, đơn vị được giao quản lý và hạch toán.
+
+4. Phương pháp hạch toán kế toán một số hoạt động kinh tế chủ yếu:
+
+a) Kế toán tăng TSHTGT- TL
+
+(1) TSHTGT- TL tăng do được cơ quan có thẩm quyền giao quản lý:
+
+- Trường hợp ghi chép lần đầu các tài sản hiện được giao quản lý hoặc các tài sản tăng do được giao quản lý mới, căn cứ Báo cáo kê khai lần đầu hoặc Biên bản bàn giao, tiếp nhận TSHTGT- TL, ghi:
+
+Nợ TK 216- TSHTGT- TL
+
+Có TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL.
+
+- Trường hợp tăng TSHTGT- TL do đơn vị thực hiện xây dựng mới, nâng cấp, mở rộng dự án: Khi dự án hoàn thành, căn cứ vào Quyết định phê duyệt dự án hoàn thành (đối với dự án hoàn thành đã được phê duyệt quyết toán); Biên bản nghiệm thu A-B (đối với dự án hoàn thành chờ phê duyệt quyết toán), ghi:
+
+Nợ TK 241- XDCB dở dang
+
+Có TK liên quan.
+
+Đồng thời, ghi tăng nguyên giá TSHTGT- TL:
+
+Nợ TK 216- TSHTGT- TL (Theo chi phí nâng cấp, mở rộng)
+
+Có TK 241- XDCB dở dang.
+
+Đồng thời, ghi tăng nguồn kinh phí đã hình thành TSHTGT- TL:
+
+Nợ TK 366- Các khoản nhận trước chưa ghi thu (3664- Kinh phí đầu tư XDCB) (nếu TS được nâng cấp, mở rộng bằng tiền NSNN) (Đối với đơn vị HCSN), hoặc
+
+Nợ TK 441- Nguồn vốn đầu tư XDCB (Đối với doanh nghiệp)
+
+Có TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL.
+
+- Trường hợp tăng TSHTGT- TL nhận bàn giao từ chủ đầu tư là đơn vị thực hiện nâng cấp, cải tạo, mở rộng dự án, đơn vị nhận bàn giao TSHTGT- TL, căn cứ giá trị nâng cấp, mở rộng đã được bàn giao, ghi:
+
+Nợ TK 216- TSHTGT- TL
+
+Có TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL.
+
+(2) TSHTGT- TL tăng do nhận điều chuyển từ cơ quan, đơn vị khác, căn cứ báo cáo kê khai bổ sung TSHTGT- TL, ghi:
+
+Nợ TK 216- TSHTGT- TL (Nguyên giá)
+
+Có TK 218- Hao mòn TSHTGT- TL (Giá trị hao mòn lũy kế) (nếu có)
+
+Có TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL (Giá trị còn lại).
+
+b) Kế toán giảm TSHTGT- TL
+
+(1) Khi có quyết định của cấp có thẩm quyền yêu cầu đơn vị điều chuyển TSHTGT- TL cho các đơn vị khác tiếp tục theo dõi quản lý và hạch toán, ghi:
+
+Nợ TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL (Giá trị còn lại)
+
+Nợ TK 218- Hao mòn TSHTGT- TL (Giá trị hao mòn lũy kế)
+
+Có TK 216- TSHTGT- TL (Nguyên giá).
+
+(2) Trường hợp thu hồi tài sản theo quyết định của cấp có thẩm quyền, ghi:
+
+Nợ TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL (Giá trị còn lại)
+
+Nợ TK 218- Hao mòn TSHTGT- TL (Giá trị hao mòn lũy kế)
+
+Có TK 216- TSHTGT- TL (Nguyên giá).
+
+(3) Trường hợp đơn vị quản lý TSHTGT- TL bàn giao TSHTGT- TL cho các nhà đầu tư trong thời gian thực hiện hợp đồng dự án, căn cứ vào quyết định của cấp có thẩm quyền cho phép đơn vị ghi giảm TSHTGT- TL, ghi:
+
+Nợ TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL (Giá trị còn lại)
+
+Nợ TK 218- Hao mòn TSHTGT- TL (Giá trị hao mòn lũy kế)
+
+Có TK 216- TSHTGT- TL (Nguyên giá).
+
+(4) Trường hợp TSHTGT- TL bị hư hỏng nghiêm trọng do thiên tai, địch họa, sự cố bất khả kháng hoặc những tác động đột xuất khác, căn cứ vào quyết định của cấp có thẩm quyền cho phép đơn vị ghi giảm TSHTGT- TL, ghi:
+
+Nợ TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL (Giá trị còn lại)
+
+Nợ TK 218- Hao mòn TSHTGT- TL (Giá trị hao mòn lũy kế)
+
+Có TK 216- TSHTGT- TL (Nguyên giá).
+
+(5) Trường hợp TSHTGT- TL đã bị hư hỏng không thể tiếp tục sử dụng hoặc việc sửa chữa không có hiệu quả được cấp có thẩm quyền cho phép thanh lý (kể cả vật liệu, vật tư không có nhu cầu sử dụng). Khi nhận được đầy đủ hồ sơ cho phép thanh lý của cấp có thẩm quyền, các đơn vị ghi:
+
+- Ghi giảm TSHTGT- TL đã thanh lý, ghi:
+
+Nợ TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL (Giá trị còn lại)
+
+Nợ TK 218- Hao mòn TSHTGT- TL (Giá trị hao mòn lũy kế)
+
+Có TK 216- TSHTGT- TL (Nguyên giá).
+
+- Phản ánh số chi về thanh lý TSHTGT- TL (kể cả vật liệu, vật tư không có nhu cầu sử dụng), ghi:
+
+Nợ TK 337- Tạm thu (Đối với cơ quan nhà nước), hoặc
+
+Nợ TK 811- Chi phí khác (Đối với doanh nghiệp hoặc đơn vị sự nghiệp)
+
+Có các TK liên quan.
+
+- Phản ánh số thu về thanh lý TSHTGT- TL (kể cả vật liệu, vật tư không có nhu cầu sử dụng), ghi:
+
+Nợ các TK liên quan
+
+Có TK 337- Tạm thu (Đối với cơ quan nhà nước), hoặc
+
+Có TK 711- Thu nhập khác (Đối với doanh nghiệp hoặc đơn vị sự nghiệp).
+
+Các trường hợp thanh lý TSHTGT-TL (kể cả vật liệu, vật tư không có nhu cầu sử dụng) sau khi trừ đi (-) các chi phí liên quan (nếu có), phần còn lại đơn vị phải nộp vào NSNN theo quy định của pháp luật quản lý, sử dụng tài sản công.
+
+c) Kế toán TSHTGT- TL phát hiện thiếu khi kiểm kê:
+
+- Trong trường hợp TSHTGT- TL phát hiện thiếu, trong thời gian chờ quyết định xử lý, kế toán căn cứ vào kết quả kiểm kê để ghi giảm TSHTGT- TL:
+
+Phản ánh giá trị còn lại của TSHTGT- TL bị thiếu, mất phải thu hồi, ghi:
+
+Nợ TK 138- Phải thu khác (Giá trị còn lại)
+
+Nợ TK 218- Hao mòn TSHTGT- TL (Giá trị hao mòn lũy kế).
+
+Có TK 216- TSHTGT- TL (Nguyên giá).
+
+Khi có quyết định xử lý, căn cứ từng trường hợp cụ thể:
+
++ Nếu cho phép xóa bỏ thiệt hại do thiếu, mất tài sản, ghi:
+
+Nợ TK có liên quan (Tùy theo Quyết định của cơ quan có thẩm quyền)
+
+Có TK 138- Phải thu khác.
+
++ Nếu quyết định doanh nghiệp bảo hiểm hoặc tổ chức, cá nhân có liên quan chịu trách nhiệm phải bồi thường thiệt hại, khi thu tiền bồi thường ghi:
+
+Nợ các TK 111, 112 (Nếu thu tiền)
+
+Có TK 138- Phải thu khác.
+
++ Số tiền thu bồi thường theo quyết định xử lý phải nộp NSNN, ghi:
+
+Nợ TK 138- Phải thu khác
+
+Có TK 333- Các khoản phải nộp NN (Đối với đơn vị HCSN), hoặc
+
+Có TK 333- Thuế và các khoản phải nộp NN (Đối với doanh nghiệp)
+
+d) Kế toán TSHTGT- TL phát hiện thừa khi kiểm kê:
+
+- Nếu khi kiểm kê phát hiện TSHTGT- TL thừa do chưa ghi sổ kế toán, kế toán căn cứ vào phiếu kiểm kê và hồ sơ TSHTGT- TL để ghi tăng TSHTGT- TL, đồng thời xác định giá trị hao mòn thực tế, ghi:
+
+Nợ TK 216- TSHTGT- TL (Nguyên giá theo kiểm kê)
+
+Có TK 218- Hao mòn TSHTGT- TL (Giá trị hao mòn)
+
+Có TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL (Giá trị còn lại theo kiểm kê).
+
+- Nếu TSHTGT- TL thừa chưa xác định được nguồn gốc, nguyên nhân và chưa có quyết định xử lý, kế toán phản ánh vào tài khoản phải trả và báo cáo cơ quan cấp trên và cơ quan tài chính đồng cấp biết để xử lý, ghi:
+
+Nợ TK 216- TSHTGT- TL (Ghi theo nguyên giá kiểm kê)
+
+Có TK 338- Phải trả khác (Đối với đơn vị HCSN), hoặc
+
+Có TK 338- Phải trả, phải nộp khác (Đối với doanh nghiệp)
+
+Khi có quyết định xử lý, căn cứ vào quyết định xử lý, ghi:
+
+Nợ TK 338- Phải trả khác (Đối với đơn vị HCSN), hoặc
+
+Nợ TK 338- Phải trả, phải nộp khác (Đối với doanh nghiệp)
+
+Có các TK liên quan.
+
+đ) Kế toán đánh giá lại TSHTGT- TL:
+
+- Trường hợp nguyên giá TSHTGT- TL điều chỉnh tăng, ghi:
+
+Nợ TK 216- TSHTGT- TL (Số chênh lệch tăng nguyên giá)
+
+Có TK 218- Hao mòn TSHTGT- TL
+
+Có TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL
+
+- Trường hợp nguyên giá TSHTGT- TL điều chỉnh giảm, ghi:
+
+Nợ TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL
+
+Nợ TK 218- Hao mòn TSHTGT- TL
+
+Có TK 216- TSHTGT- TL.
+
+Điều 4. Tài khoản 218- Hao mòn tài sản hạ tầng giao thông, thủy lợi
+
+1. Tài khoản này phản ánh số hiện có và sự biến động giá trị hao mòn của TSHTGT- TL trong quá trình sử dụng và những nguyên nhân khác làm tăng, giảm giá trị hao mòn của TSHTGT- TL mà đơn vị được giao quản lý và hạch toán.
+
+2. Nguyên tắc hạch toán Tài khoản 218- Hao mòn tài sản hạ tầng giao thông, thủy lợi:
+
+a) Việc phản ánh giá trị hao mòn của TSHTGT- TL được thực hiện đối với tất cả TSHTGT- TL hiện có mà đơn vị được giao quản lý và hạch toán (không bao gồm cả TSHTGT- TL ủy thác cho đơn vị khác quản lý) trừ các TSHTGT- TL mà theo quy định của pháp luật không phải tính hao mòn. TSHTGT- TL sử dụng giá quy ước làm nguyên giá để ghi tăng tài sản thì không phải tính hao mòn.
+
+b) Số hao mòn của TSHTGT- TL được xác định căn cứ vào quy định của pháp luật hiện hành về tính hao mòn TSHTGT- TL.
+
+c) Việc tính và phản ánh giá trị hao mòn TSHTGT- TL vào sổ kế toán được thực hiện mỗi năm 1 lần vào tháng 12, trước khi khóa sổ kế toán. Trường hợp bàn giao, chia tách, sáp nhập, giải thể hoặc tổng kiểm kê đánh giá lại theo chủ trương của Nhà nước thì hao mòn TSHTGT- TL được tính tại thời điểm có quyết định của cơ quan nhà nước có thẩm quyền.
+
+3. Kết cấu và nội dung phản ánh của Tài khoản 218- Hao mòn tài sản hạ tầng giao thông, thủy lợi
+
+Bên Nợ:
+
+- Ghi giảm giá trị hao mòn TSHTGT- TL trong các trường hợp giảm TSHTGT- TL (thu hồi, bán, thanh lý, chuyển nhượng có thời hạn, điều chuyển và các trường hợp khác);
+
+- Ghi giảm giá trị hao mòn TSHTGT- TL khi đánh giá lại TSHTGT- TL theo quyết định của cơ quan nhà nước có thẩm quyền (trường hợp đánh giá giảm giá trị hao mòn).
+
+Bên Có:
+
+- Ghi tăng giá trị hao mòn TSHTGT- TL trong quá trình sử dụng;
+
+- Ghi tăng giá trị hao mòn TSHTGT- TL khi đánh giá lại TSHTGT- TL theo quyết định của Nhà nước (trường hợp đánh giá tăng giá trị hao mòn).
+
+Số dư bên Có:
+
+Phản ánh giá trị đã hao mòn của TSHTGT- TL hiện có.
+
+4. Phương pháp hạch toán kế toán một số hoạt động kinh tế chủ yếu:
+
+a) Tính và phản ánh giá trị hao mòn của TSHTGT- TL, căn cứ vào Bảng tính hao mòn TSHTGT- TL, ghi:
+
+Nợ TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL
+
+Có TK 218- Hao mòn TSHTGT- TL.
+
+b) Khi phát sinh giảm giá trị hao mòn TSHTGT- TL do thu hồi, điều chuyển, bán, thanh lý, phát hiện thiếu, ghi:
+
+Nợ TK 218- Hao mòn TSHTGT- TL (Giá trị hao mòn lũy kế)
+
+Nợ TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL (Giá trị còn lại)
+
+Có TK 216- TSHTGT- TL (Nguyên giá).
+
+Điều 5. Tài khoản 467- Nguồn kinh phí đã hình thành tài sản hạ tầng giao thông, thủy lợi
+
+1. Tài khoản này phản ánh số hiện có và tình hình biến động nguồn kinh phí đã hình thành TSHTGT- TL của đơn vị.
+
+2. Nguyên tắc hạch toán Tài khoản 467- Nguồn kinh phí đã hình thành tài sản hạ tầng giao thông, thủy lợi:
+
+a) Nguồn kinh phí đã hình thành TSHTGT- TL tăng trong các trường hợp:
+
+- Nhận TSHTGT- TL do cơ quan nhà nước có thẩm quyền giao hoặc đơn vị khác bàn giao;
+
+- Đánh giá lại TSHTGT- TL theo quyết định của cơ quan nhà nước có thẩm quyền;
+
+- Nâng cấp, mở rộng TSHTGT- TL theo dự án được cấp có thẩm quyền phê duyệt.
+
+b) Nguồn kinh phí đã hình thành TSHTGT- TL giảm trong các trường hợp:
+
+- Phản ánh giá trị hao mòn TSHTGT- TL trong quá trình sử dụng;
+
+- Các trường hợp ghi giảm TSHTGT- TL: Thanh lý, chuyển giao cho đơn vị khác tiếp tục quản lý và hạch toán và các trường hợp giảm khác;
+
+- Bị hư hỏng nghiêm trọng do thiên tai, địch họa, sự cố bất khả kháng hoặc những tác động đột xuất khác.
+
+3. Kết cấu và nội dung phản ánh của Tài khoản 467- Nguồn kinh phí đã hình thành TSHTGT- TL
+
+Bên Nợ: Nguồn kinh phí đã hình thành TSHTGT- TL giảm do:
+
+- Phản ánh giá trị hao mòn của TSHTGT- TL hàng năm;
+
+- Giá trị còn lại của TSHTGT- TL thanh lý, chuyển giao theo quyết định của cơ quan nhà nước có thẩm quyền và các trường hợp giảm khác;
+
+- Giảm nguồn kinh phí đã hình thành TSHTGT- TL (giá trị còn lại) do đánh giá lại (trường hợp giảm).
+
+Bên Có: Nguồn kinh phí đã hình thành TSHTGT- TL tăng do:
+
+- Giá trị TSHTGT- TL xây dựng hoàn thành, bàn giao đưa vào sử dụng;
+
+- Giá trị TSHTGT- TL nhận của các đơn vị khác bàn giao;
+
+- Tăng nguồn kinh phí đã hình thành TSHTGT- TL (giá trị còn lại) do đánh giá lại (trường hợp tăng).
+
+Số dư bên Có: Phản ánh nguồn kinh phí đã hình thành TSHTGT- TL hiện có của đơn vị.
+
+4. Phương pháp hạch toán kế toán một số hoạt động kinh tế chủ yếu
+
+a) TSHTGT- TL tăng do được cơ quan nhà nước có thẩm quyền giao quản lý. Căn cứ hồ sơ của tài sản nhận bàn giao và các văn bản liên quan, ghi:
+
+Nợ TK 216- TSHTGT- TL (Nguyên giá)
+
+Có TK 218- Hao mòn TSHTGT- TL (Giá trị hao mòn lũy kế)
+
+Có TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL.
+
+b) TSHTGT- TL tăng do nhận điều chuyển từ đơn vị khác, căn cứ hồ sơ của tài sản điều chuyển và quyết định điều chuyển, ghi:
+
+Nợ TK 216- TSHTGT- TL (Nguyên giá)
+
+Có TK 218- Hao mòn TSHTGT- TL (Giá trị hao mòn lũy kế)
+
+Có TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL (Giá trị còn lại).
+
+c) Tính và phản ánh giá trị hao mòn của TSHTGT- TL, căn cứ vào Bảng tính hao mòn TSHTGT- TL, ghi:
+
+Nợ TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL
+
+Có TK 218- Hao mòn TSHTGT- TL.
+
+d) Kế toán đánh giá lại TSHTGT- TL:
+
+- Trường hợp nguyên giá TSHTGT- TL điều chỉnh tăng, ghi:
+
+Nợ TK 216- TSHTGT- TL (Số chênh lệch tăng nguyên giá)
+
+Có TK 218- Hao mòn TSHTGT- TL
+
+Có TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL
+
+- Trường hợp nguyên giá TSHTGT- TL điều chỉnh giảm, ghi:
+
+Nợ TK 467- Nguồn kinh phí đã hình thành TSHTGT- TL
+
+Nợ TK 218- Hao mòn TSHTGT- TL
+
+Có TK 216- TSHTGT- TL
+
+* Các cơ quan, đơn vị được bổ sung các TK chi tiết cho các TK quy định tại Điều 3, 4, 5 Thông tư này theo yêu cầu quản lý.
+
+Điều 6. Quy định về chứng từ kế toán
+
+1. Các đơn vị thực hiện hạch toán TSHTGT- TL sử dụng các chứng từ kế toán sau để hạch toán TSHTGT- TL:
+
+- Biên bản kiểm kê TSHTGT- TL (Mẫu số C60-HD);
+
+- Bảng tính hao mòn TSHTGT- TL (Mẫu số C61-HD).
+
+2. Mẫu, giải thích nội dung và phương pháp lập chứng từ kế toán tại khoản 1 Điều này được quy định tại Phụ lục số 01 ban hành kèm theo Thông tư này.
+
+3. Đối với nghiệp vụ kinh tế phát sinh chưa có chứng từ kế toán quy định tại Phụ lục số 01, các đơn vị lập chứng từ kế toán đảm bảo đáp ứng tối thiểu 7 nội dung quy định tại Điều 16 Luật kế toán.
+
+Điều 7. Quy định về sổ kế toán
+
+1. Các đơn vị mở sổ tài sản hạ tầng giao thông, thủy lợi để hạch toán và theo dõi TSHTGT- TL.
+
+2. Mẫu sổ, giải thích nội dung và phương pháp ghi sổ kế toán tại khoản 1 Điều này được quy định tại Phụ lục số 02 ban hành kèm theo Thông tư này.
+
+Điều 8. Quy định về báo cáo
+
+Các đơn vị được giao quản lý và hạch toán TSHTGT- TL thực hiện báo cáo TSHTGT- TL theo quy định của pháp luật về quản lý, sử dụng tài sản công.
+
+Chương III
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 9. Tổ chức thực hiện
+
+1. Các đơn vị được giao thực hiện hạch toán TSHTGT- TL quy định tại Điều 2 Thông tư này bổ sung các tài khoản, chứng từ kế toán, sổ kế toán quy định tại Thông tư này vào hệ thống tài khoản, sổ kế toán và chứng từ kế toán của chế độ kế toán mà đơn vị đang áp dụng theo quy định của pháp luật để hạch toán TSHTGT- TL.
+
+2. Thông tư này có hiệu lực thi hành từ ngày 1 tháng 1 năm 2020. Đối với nội dung kế toán tài sản kết cấu hạ tầng giao thông đường bộ thay thế Thông tư số 98/2014/TT-BTC ngày 25/7/2014 của Bộ trưởng Bộ Tài chính hướng dẫn kế toán tài sản kết cấu hạ tầng giao thông đường bộ.
+
+3. Trong quá trình thực hiện nếu có vướng mắc, đề nghị các đơn vị phản ánh kịp thời về Bộ Tài chính để nghiên cứu giải quyết./.
+
+| Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Văn phòng Tổng Bí thư; - Văn phòng Chính phủ; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Văn phòng TW Đảng và các Ban của Đảng; - Hội đồng dân tộc và các Ủy ban của Quốc Hội; - Kiểm toán Nhà nước; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - Cơ quan TW của các đoàn thể; - Tòa án Nhân dân tối cao; - Viện Kiểm sát nhân dân tối cao; - UBND, Sở Tài chính các tỉnh, TP trực thuộc TW; - Cục kiểm tra văn bản (Bộ Tư pháp); - Công báo; - Cổng thông tin điện tử Chính phủ; - Cổng thông tin điện tử Bộ Tài chính; - Các đơn vị thuộc và trực thuộc Bộ Tài chính; - Lưu: VT, Cục QLKT (40 bản). | KT. BỘ TRƯỞNG THỨ TRƯỞNG Đỗ Hoàng Anh Tuấn |
+
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+
+Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Văn phòng Tổng Bí thư; - Văn phòng Chính phủ; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Văn phòng TW Đảng và các Ban của Đảng; - Hội đồng dân tộc và các Ủy ban của Quốc Hội; - Kiểm toán Nhà nước; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - Cơ quan TW của các đoàn thể; - Tòa án Nhân dân tối cao; - Viện Kiểm sát nhân dân tối cao; - UBND, Sở Tài chính các tỉnh, TP trực thuộc TW; - Cục kiểm tra văn bản (Bộ Tư pháp); - Công báo; - Cổng thông tin điện tử Chính phủ; - Cổng thông tin điện tử Bộ Tài chính; - Các đơn vị thuộc và trực thuộc Bộ Tài chính; - Lưu: VT, Cục QLKT (40 bản).
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Đỗ Hoàng Anh Tuấn
+
+PHỤ LỤC SỐ 01
+
+HỆ THỐNG CHỨNG TỪ KẾ TOÁN (Ban hành kèm theo Thông tư số 76/2019/TT-BTC ngày 05 tháng 11 năm 2019 của Bộ Tài chính)
+
+I. DANH MỤC CHỨNG TỪ KẾ TOÁN
+
+| STT | Tên chứng từ                                           | Số hiệu | Loại chứng từ kế toán |   |
+
+|-----|--------------------------------------------------------|---------|-----------------------|---|
+
+| BB  | HD                                                     |         |                       |   |
+
+| 1   | Biên bản kiểm kê tài sản hạ tầng giao thông, thủy lợi  | C60-HD  |                       | x |
+
+| 2   | Bảng tính hao mòn tài sản hạ tầng giao thông, thủy lợi | C61-HD  |                       | x |
+
+STT
+
+Tên chứng từ
+
+Số hiệu
+
+Loại chứng từ kế toán
+
+BB
+
+HD
+
+1
+
+Biên bản kiểm kê tài sản hạ tầng giao thông, thủy lợi
+
+C60-HD
+
+x
+
+2
+
+Bảng tính hao mòn tài sản hạ tầng giao thông, thủy lợi
+
+C61-HD
+
+x
+
+II. MẪU CHỨNG TỪ KẾ TOÁN
+
+| ĐƠN VỊ: ……………………………………… BỘ PHẬN: …………………………………… MÃ QHNS: …………………………………… | Mẫu số C60-HD (Ban hành theo Thông tư số 76/2019/TT-BTC ngày 05/11/2019 của Bộ Tài chính) |
+
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+
+ĐƠN VỊ: ………………………………………
+
+BỘ PHẬN: ……………………………………
+
+MÃ QHNS: ……………………………………
+
+Mẫu số C60-HD
+
+(Ban hành theo Thông tư số 76/2019/TT-BTC ngày 05/11/2019 của Bộ Tài chính)
+
+BIÊN BẢN KIỂM KÊ TÀI SẢN HẠ TẦNG GIAO THÔNG, THỦY LỢI
+
+Số:……….
+
+Thời điểm kiểm kê ……….. giờ ……… ngày ….. tháng ….. năm …..
+
+Ban kiểm kê gồm:
+
+Ông /Bà ………………………………..………….. chức vụ ………………………….….….. đại diện ………………………………….. Trưởng ban
+
+Ông /Bà ………………………………..………….. chức vụ ………………………….….….. đại diện ………………………………….. Ủy viên
+
+Ông /Bà ………………………………..………….. chức vụ ………………………….….….. đại diện ………………………………….. Ủy viên
+
+| STT           | Tên TSHTGT- TL | Ký hiệu | Cấp, loại | Năm xây dựng | Năm đưa vào sử dụng | Nơi sử dụng | Tình trạng tài sản | Diện tích (m2) | Theo sổ kế toán | Theo kiểm kê | Chênh lệch | Ghi chú |   |   |   |   |   |   |   |
+
+|---------------|----------------|---------|-----------|--------------|---------------------|-------------|--------------------|----------------|-----------------|--------------|------------|---------|---|---|---|---|---|---|---|
+
+| Diện tích đất | Sàn sử dụng    | SL      | NG        | GT còn lại   | SL                  | NG          | GT còn lại         | SL             | NG              | GT còn lại   |            |         |   |   |   |   |   |   |   |
+
+| A             | B              | C       | D         | E            | F                   | G           | H                  | I              | K               | 1            | 2          | 3       | 4 | 5 | 6 | 7 | 8 | 9 | L |
+
+|               |                |         |           |              |                     |             |                    |                |                 |              |            |         |   |   |   |   |   |   |   |
+
+|               | Cộng           |         |           |              |                     |             |                    |                |                 | x            | x          | x       | x | x | x | x | x | x |   |
+
+STT
+
+Tên TSHTGT- TL
+
+Ký hiệu
+
+Cấp, loại
+
+Năm xây dựng
+
+Năm đưa vào sử dụng
+
+Nơi sử dụng
+
+Tình trạng tài sản
+
+Diện tích (m2)
+
+Theo sổ kế toán
+
+Theo kiểm kê
+
+Chênh lệch
+
+Ghi chú
+
+Diện tích đất
+
+Sàn sử dụng
+
+SL
+
+NG
+
+GT còn lại
+
+SL
+
+NG
+
+GT còn lại
+
+SL
+
+NG
+
+GT còn lại
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+K
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+L
+
+Cộng
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+- Ý kiến giải quyết chênh lệch của Ban kiểm kê: ………………………..
+
+Ngày ....tháng....năm……
+
+| NGƯỜI LẬP BIÊN BẢN (Ký, họ tên) | KẾ TOÁN TRƯỞNG/PHỤ TRÁCH KẾ TOÁN (Ký, họ tên) | TRƯỞNG BAN KIỂM KÊ (Ký, họ tên) | THỦ TRƯỞNG ĐƠN VỊ (Ký, họ tên, đóng dấu) |
+
+|---------------------------------|-----------------------------------------------|---------------------------------|------------------------------------------|
+
+NGƯỜI LẬP BIÊN BẢN
+
+(Ký, họ tên)
+
+KẾ TOÁN TRƯỞNG/PHỤ TRÁCH KẾ TOÁN
+
+(Ký, họ tên)
+
+TRƯỞNG BAN KIỂM KÊ
+
+(Ký, họ tên)
+
+THỦ TRƯỞNG ĐƠN VỊ
+
+(Ký, họ tên, đóng dấu)
+
+| ĐƠN VỊ: ……………………………………… BỘ PHẬN: …………………………………… MÃ QHNS: …………………………………… | Mẫu số C61-HD (Ban hành theo Thông tư số 76/2019/TT-BTC ngày 05/11/2019 của Bộ Tài chính) |
+
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+
+ĐƠN VỊ: ………………………………………
+
+BỘ PHẬN: ……………………………………
+
+MÃ QHNS: ……………………………………
+
+Mẫu số C61-HD
+
+(Ban hành theo Thông tư số 76/2019/TT-BTC ngày 05/11/2019 của Bộ Tài chính)
+
+BẢNG TÍNH HAO MÒN TÀI SẢN HẠ TẦNG GIAO THÔNG, THỦY LỢI
+
+Năm…………
+
+Số:………….
+
+| STT | Loại TSHTGT- TL | Số hiệu TSHTGT- TL | Nguyên giá | Tỷ lệ hao mòn | Giá trị hao mòn |
+
+|-----|-----------------|--------------------|------------|---------------|-----------------|
+
+| A   | B               | C                  | 1          | 2             | 3 = 1 x 2       |
+
+|     |                 |                    |            |               |                 |
+
+|     | Cộng            |                    |            | x             |                 |
+
+STT
+
+Loại TSHTGT- TL
+
+Số hiệu TSHTGT- TL
+
+Nguyên giá
+
+Tỷ lệ hao mòn
+
+Giá trị hao mòn
+
+A
+
+B
+
+C
+
+1
+
+2
+
+3 = 1 x 2
+
+Cộng
+
+x
+
+Ngày ....tháng....năm……
+
+| NGƯỜI LẬP (Ký, họ tên) | KẾ TOÁN TRƯỞNG/PHỤ TRÁCH KẾ TOÁN (Ký, họ tên) | THỦ TRƯỞNG ĐƠN VỊ (Ký, họ tên, đóng dấu) |
+
+|------------------------|-----------------------------------------------|------------------------------------------|
+
+NGƯỜI LẬP
+
+(Ký, họ tên)
+
+KẾ TOÁN TRƯỞNG/PHỤ TRÁCH KẾ TOÁN
+
+(Ký, họ tên)
+
+THỦ TRƯỞNG ĐƠN VỊ
+
+(Ký, họ tên, đóng dấu)
+
+III. GIẢI THÍCH NỘI DUNG VÀ PHƯƠNG PHÁP LẬP CHỨNG TỪ KẾ TOÁN
+
+BIÊN BẢN KIỂM KÊ TÀI SẢN HẠ TẦNG GIAO THÔNG, THỦY LỢI
+
+(Mẫu số C60-HD)
+
+1. Mục đích: Biên bản kiểm kê tài sản hạ tầng giao thông, thủy lợi nhằm xác nhận số lượng, giá trị tài sản hạ tầng giao thông, thủy lợi hiện có, thừa thiếu của đơn vị so với sổ kế toán trên cơ sở đó tăng cường quản lý tài sản hạ tầng giao thông, thủy lợi, làm cơ sở quy trách nhiệm vật chất và ghi sổ kế toán số chênh lệch.
+
+2. Phương pháp lập và trách nhiệm ghi
+
+Khi tiến hành kiểm kê phải thành lập Ban kiểm kê, trong đó kế toán theo dõi tài sản hạ tầng giao thông, thủy lợi là thành viên, ghi rõ thời điểm kiểm kê (...giờ.... ngày... tháng... năm...), họ và tên từng thành viên của Ban kiểm kê. Khi tiến hành kiểm kê phải tiến hành kiểm kê theo từng đối tượng ghi tài sản hạ tầng giao thông, thủy lợi.
+
+Góc trên, bên trái của Biên bản kiểm kê TSHTGT- TL ghi rõ tên đơn vị (hoặc đóng dấu đơn vị), bộ phận và mã đơn vị có quan hệ với ngân sách.
+
+Cột A, B, C, D, E,: Ghi số thứ tự, tên TSHTGT- TL, ký hiệu TSHTGT- TL, cấp, loại, năm xây dựng.
+
+Cột F: Nếu có thông tin về năm đưa vào sử dụng thì ghi năm đưa tài sản vào sử dụng; Nếu không có thông tin về năm đưa vào sử dụng thì ghi năm đưa vào hạch toán tại đơn vị.
+
+Cột G: Ghi nơi sử dụng TSHTGT- TL.
+
+Cột H: Ghi tình trạng của tài sản: Đang sử dụng, hỏng không sử dụng được...
+
+Cột I: Diện tích đất kê khai tại cột I được áp dụng đối với tài sản gắn liền với đất (trừ diện tích đất tại đường ray và hành lang an toàn đường sắt) là diện tích trong quyết định giao đất, cho thuê đất hoặc văn bản của cấp có thẩm quyền hoặc diện tích đất thực tế quản lý, sử dụng.
+
+Cột K: Diện tích sàn sử dụng kê khai tại cột K được áp dụng đối với tài sản là nhà gắn liền với đất.
+
+Cột 1, 2, 3: Ghi số lượng, nguyên giá, giá trị còn lại của TSHTGT- TL theo sổ kế toán.
+
+Cột 4, 5, 6: Ghi số lượng, nguyên giá, giá trị còn lại của TSHTGT- TL theo kết quả kiểm kê.
+
+Cột 7, 8, 9: Ghi số chênh lệch về số lượng, nguyên giá, giá trị còn lại của TSHTGT- TL giữa sổ kế toán với kết quả kiểm kê.
+
+Trên Biên bản kiểm kê TSHTGT- TL cần phải xác định và ghi rõ nguyên nhân gây ra thừa hoặc thiếu TSHTGT- TL, có ý kiến nhận xét và kiến nghị của Ban kiểm kê. Biên bản kiểm kê TSHTGT- TL phải có chữ ký (ghi rõ họ tên) của Người lập biên bản, Trưởng ban kiểm kê, Kế toán trưởng (hoặc Phụ trách kế toán) và Thủ trưởng đơn vị. Mọi khoản chênh lệch về TSHTGT- TL của đơn vị đều phải báo cáo Thủ trưởng đơn vị xem xét.
+
+BẢNG TÍNH HAO MÒN TÀI SẢN HẠ TẦNG GIAO THÔNG, THỦY LỢI
+
+(Mẫu số C61-HD)
+
+1. Mục đích: Bảng tính hao mòn TSHTGT- TL dùng để phản ánh số hao mòn đã tính của từng loại TSHTGT- TL cho các đối tượng TSHTGT- TL. Bảng tính này áp dụng cho các đơn vị phải tính hao mòn TSHTGT- TL vào cuối năm để có cơ sở ghi giảm nguyên giá TSHTGT- TL.
+
+2. Phương pháp lập và trách nhiệm ghi
+
+Góc trên, bên trái của Bảng tính hao mòn TSHTGT- TL ghi rõ tên đơn vị (hoặc đóng dấu đơn vị), bộ phận và mã đơn vị có quan hệ với ngân sách.
+
+Bảng tính hao mòn TSHTGT- TL được lập theo kỳ hạn quy định tính hao mòn TSHTGT- TL cho các đối tượng TSHTGT- TL (thường là cuối năm).
+
+Cột A, B, C: Ghi số thứ tự, tên TSHTGT- TL và số thẻ TSHTGT- TL của đơn vị
+
+Cột 1: Ghi nguyên giá của từng TSHTGT- TL
+
+Cột 2: Ghi tỷ lệ hao mòn của từng TSHTGT- TL
+
+Cột 3: Ghi giá trị hao mòn tính trong kỳ của từng TSHTGT- TL (Cột 3 = Cột 1 x cột 2)
+
+Bảng này do kế toán TSHTGT- TL lập. Sau khi lập xong người lập bảng ký, ghi rõ họ tên và chuyển cho Kế toán trưởng (hoặc phụ trách kế toán) và Thủ trưởng đơn vị ký, ghi rõ họ tên.
+
+Bảng này là cơ sở để ghi sổ TSHTGT- TL (phần hao mòn), sổ chi tiết TK 467 để tính giá trị còn lại của TSHTGT- TL và các sổ kế toán khác có liên quan.
+
+PHỤ LỤC SỐ 02
+
+(Ban hành kèm theo Thông tư số 76/2019/TT-BTC ngày 05 tháng 11 năm 2019 của Bộ Tài chính)
+
+I. MẪU SỔ KẾ TOÁN
+
+| ĐƠN VỊ: ……………………………………… MÃ QHNS: …………………………………… | Mẫu số: S80-H (Ban hành theo Thông tư số 76/2019/TT-BTC ngày 05/11/2019 của Bộ Tài chính) |
+
+|-------------------------------------------------|-------------------------------------------------------------------------------------------|
+
+ĐƠN VỊ: ………………………………………
+
+MÃ QHNS: ……………………………………
+
+Mẫu số: S80-H
+
+(Ban hành theo Thông tư số 76/2019/TT-BTC ngày 05/11/2019 của Bộ Tài chính)
+
+SỔ TÀI SẢN HẠ TẦNG GIAO THÔNG, THỦY LỢI
+
+Năm ...
+
+Loại tài sản hạ tầng giao thông, thủy lợi: ...
+
+| STT      | GHI TĂNG TSHTGT- TL     | HAO MÒN TSHTGT- TL | GHI GIẢM TSHTGT- TL |                              |                |                       |               |                                |                                                            |          |                           |                                |   |   |   |   |
+
+|----------|-------------------------|--------------------|---------------------|------------------------------|----------------|-----------------------|---------------|--------------------------------|------------------------------------------------------------|----------|---------------------------|--------------------------------|---|---|---|---|
+
+| Chứng từ | Tên, ký hiệu TSHTGT- TL | Cấp, loại          | Năm xây dựng        | Năm đưa vào sử dụng ở đơn vị | Thẻ TSHTGT- TL | Nguyên giá TSHTGT- TL | Hao mòn 1 năm | Số hao mòn phát sinh trong năm | Lũy kế hao mòn đến khi chuyển sổ hoặc ghi giảm TSHTGT - TL | Chứng từ | Lý do ghi giảm TSGTGT- TL | Giá trị còn lại của TSHTGT- TL |   |   |   |   |
+
+| Số hiệu  | Ngày tháng              | Tỉ lệ %            | Giá trị hao mòn     | Số hiệu                      | Ngày tháng     |                       |               |                                |                                                            |          |                           |                                |   |   |   |   |
+
+| A        | B                       | C                  | D                   | E                            | F              | G                     | H             | 1                              | 2                                                          | 3        | 4                         | 5                              | I | K | L | 6 |
+
+|          |                         |                    |                     |                              |                |                       |               |                                |                                                            |          |                           |                                |   |   |   |   |
+
+|          |                         |                    | Cộng                |                              |                |                       |               | x                              |                                                            | x        | x                         | x                              |   |   |   | x |
+
+STT
+
+GHI TĂNG TSHTGT- TL
+
+HAO MÒN TSHTGT- TL
+
+GHI GIẢM TSHTGT- TL
+
+Chứng từ
+
+Tên, ký hiệu TSHTGT- TL
+
+Cấp, loại
+
+Năm xây dựng
+
+Năm đưa vào sử dụng ở đơn vị
+
+Thẻ TSHTGT- TL
+
+Nguyên giá TSHTGT- TL
+
+Hao mòn 1 năm
+
+Số hao mòn phát sinh trong năm
+
+Lũy kế hao mòn đến khi chuyển sổ hoặc ghi giảm TSHTGT - TL
+
+Chứng từ
+
+Lý do ghi giảm TSGTGT- TL
+
+Giá trị còn lại của TSHTGT- TL
+
+Số hiệu
+
+Ngày tháng
+
+Tỉ lệ %
+
+Giá trị hao mòn
+
+Số hiệu
+
+Ngày tháng
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+1
+
+2
+
+3
+
+4
+
+5
+
+I
+
+K
+
+L
+
+6
+
+Cộng
+
+x
+
+x
+
+x
+
+x
+
+x
+
+- Sổ này có ... trang, đánh số từ trang 01 đến trang ...
+
+- Ngày mở sổ: …………….
+
+Ngày ....tháng....năm……
+
+| NGƯỜI GHI SỔ (Ký, họ tên) | KẾ TOÁN TRƯỞNG/PHỤ TRÁCH KẾ TOÁN (Ký, họ tên) | THỦ TRƯỞNG ĐƠN VỊ (Ký, họ tên, đóng dấu) |
+
+|---------------------------|-----------------------------------------------|------------------------------------------|
+
+NGƯỜI GHI SỔ
+
+(Ký, họ tên)
+
+KẾ TOÁN TRƯỞNG/PHỤ TRÁCH KẾ TOÁN
+
+(Ký, họ tên)
+
+THỦ TRƯỞNG ĐƠN VỊ
+
+(Ký, họ tên, đóng dấu)
+
+II. GIẢI THÍCH NỘI DUNG VÀ PHƯƠNG PHÁP GHI SỔ KẾ TOÁN
+
+SỔ TÀI SẢN HẠ TẦNG GIAO THÔNG, THỦY LỢI
+
+(Mẫu số S80-H)
+
+1. Mục đích: Sổ tài sản hạ tầng giao thông, thủy lợi dùng để đăng ký, theo dõi và quản lý chặt chẽ tài sản hạ tầng giao thông, thủy lợi tại đơn vị từ khi đưa vào sử dụng đến khi ghi giảm tài sản hạ tầng giao thông, thủy lợi.
+
+2. Căn cứ và phương pháp ghi sổ
+
+- Căn cứ ghi sổ là Biên bản bàn giao TSHTGT- TL, Biên bản thanh lý TSHTGT- TL, Bảng tính hao mòn TSHTGT- TL.
+
+- Sổ tài sản hạ tầng giao thông, thủy lợi gồm ba phần: Phần ghi tăng TSHTGT- TL, phần theo dõi hao mòn và phần ghi giảm TSHTGT- TL.
+
+- Sổ được đóng thành quyển, mỗi loại tài sản được ghi riêng một số trang hay một quyển.
+
+- Mỗi tài sản ghi một dòng, giữa 2 tài sản để cách một số dòng để có thể ghi điều chỉnh nguyên giá TSHTGT- TL.
+
++ Cột A: Số thứ tự từng tài sản được ghi sổ.
+
++ Cột B, C: Số hiệu, ngày tháng của các chứng từ ghi tăng TSHTGT- TL.
+
++ Cột D: Ghi tên, ký hiệu TSHTGT- TL.
+
++ Cột E: Ghi cấp, loại của TSHTGT- TL.
+
++ Cột F: Ghi năm xây dựng (cải tạo, sửa chữa) TSHTGT- TL.
+
++ Cột G: Nếu có thông tin về năm đưa vào sử dụng trên chứng từ thì ghi năm đưa tài sản vào sử dụng; Nếu không có thông tin về năm đưa vào sử dụng trên chứng từ thì ghi năm đưa vào hạch toán tại đơn vị.
+
++ Cột H: Số thẻ TSHTGT- TL.
+
++ Cột 1: Ghi nguyên giá theo Biên bản bàn giao TSHTGT- TL.
+
+Trường hợp phải điều chỉnh nguyên giá TSHTGT- TL, căn cứ vào chứng từ ghi bổ sung hoặc ghi giảm (ghi đỏ) vào Cột nguyên giá ở dòng kế tiếp.
+
++ Cột 2, 3: Ghi tỷ lệ (%) và mức hao mòn được tính cho một năm theo quy định chung của Nhà nước.
+
+Mức hao mòn (Cột 3) = Nguyên giá (Cột 1) x Tỷ lệ hao mòn (Cột 2)
+
++ Cột 4: Phản ánh giá trị hao mòn TSHTGT- TL phát sinh trong năm.
+
++ Cột 5: Phản ánh số lũy kế hao mòn của TSHTGT- TL từ khi được giao quản lý đến khi hết sổ phải chuyển sang sổ mới hoặc ghi giảm TSHTGT- TL.
+
+Phần ghi giảm TSHTGT- TL: Phần này chỉ ghi vào những dòng có ghi giảm TSHTGT- TL.
+
++ Cột I, K: Ghi số hiệu, ngày tháng của chứng từ ghi giảm TSHTGT- TL như Biên bản thanh lý TSHTGT- TL, Biên bản bàn giao TSHTGT- TL.
+
++ Cột L: Lý do ghi giảm TSHTGT- TL.
+
++ Cột 6: Ghi giá trị còn lại của các TSHTGT- TL khi ghi giảm. Số liệu ghi cột này bằng Nguyên giá (Cột 1) trừ (-) đi số hao mòn lũy kế ở Cột 5.
+
+- Những TSHTGT- TL đã ghi giảm được xóa sổ bằng 1 gạch đỏ từ Cột D đến Cột 5.

@@ -1,0 +1,108 @@
+BỘ TÀI CHÍNH
+-------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 71/2024/TT-BTC
+Hà Nội, ngày 07 tháng 10 năm 2024
+THÔNG TƯ
+HƯỚNG DẪN CHẾ ĐỘ KẾ TOÁN HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ
+Căn cứ Luật Kế toán ngày 20 tháng 11 năm 2015;
+Căn cứ Luật Hợp tác xã ngày 20 tháng 6 năm 2023;
+Căn cứ Nghị định số 14/2023/NĐ-CP ngày 20 tháng 4 năm 2023 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+Căn cứ Nghị định số 113/2024/NĐ-CP ngày 12 tháng 9 năm 2024 của Chính phủ quy định chi tiết một số điều của Luật Hợp tác xã;
+Theo đề nghị của Cục trưởng Cục Quản lý, giám sát kế toán, kiểm toán,
+Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn Chế độ kế toán hợp tác xã, liên hiệp hợp tác xã.
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Thông tư này hướng dẫn về chứng từ kế toán, tài khoản kế toán, nguyên tắc ghi sổ kế toán, lập và trình bày Báo cáo tài chính của hợp tác xã, liên hiệp hợp tác xã (sau đây gọi chung là hợp tác xã); không áp dụng cho việc xác định nghĩa vụ thuế của hợp tác xã đối với ngân sách Nhà nước. Việc ghi sổ kế toán phải căn cứ vào các chứng từ kế toán được phản ánh trên cơ sở các giao dịch kinh tế phát sinh và đã hoàn thành. Hợp tác xã phải tuân thủ các quy định của pháp luật, cơ chế, chính sách liên quan khi thực hiện các giao dịch kinh tế.
+Điều 2. Đối tượng áp dụng
+Thông tư này áp dụng đối với các hợp tác xã được thành lập và hoạt động theo quy định của Luật Hợp tác xã.
+Chương II
+QUY ĐỊNH CỤ THỂ
+Điều 3. Quy định về tài khoản kế toán
+1. Tài khoản kế toán dùng để phân loại và hệ thống hóa các nghiệp vụ kinh tế, tài chính theo nội dung kinh tế.
+2. Hợp tác xã áp dụng hệ thống tài khoản kế toán hướng dẫn tại Phụ lục I ban hành kèm theo Thông tư này để phục vụ việc ghi sổ kế toán. Tài khoản kế toán áp dụng cho hợp tác xã bao gồm loại tài khoản trong bảng (bao gồm các tài khoản từ loại 1 đến loại 6 và tài khoản loại 9) và loại tài khoản ngoài bảng (tài khoản loại 0). Đối với các tài khoản trong bảng thì được hạch toán kép (nghiệp vụ kinh tế phát sinh được hạch toán vào bên Nợ của ít nhất một tài khoản và hạch toán vào bên Có của ít nhất một tài khoản khác). Đối với các tài khoản ngoài bảng thì được hạch toán đơn (nghiệp vụ kinh tế phát sinh chỉ hạch toán vào bên Nợ hoặc bên Có của một tài khoản, không hạch toán đối ứng với tài khoản khác).
+3. Hợp tác xã được bổ sung các tài khoản chi tiết cho các tài khoản đã được quy định trong danh mục hệ thống tài khoản kế toán (Phụ lục I) ban hành kèm theo Thông tư này để hạch toán chi tiết phù hợp với yêu cầu quản lý của hợp tác xã.
+4. Trường hợp cần bổ sung tài khoản ngang cấp với các tài khoản đã được quy định trong danh mục hệ thống tài khoản kế toán (Phụ lục I) ban hành kèm theo Thông tư này thì hợp tác xã phải thực hiện theo quy định của Luật Kế toán để đảm bảo thống nhất trong sử dụng tài khoản và trình bày thông tin trên báo cáo tài chính, tránh bỏ sót hoặc trùng lặp thông tin báo cáo tài chính.
+5. Danh mục hệ thống tài khoản kế toán, giải thích nội dung, kết cấu và phương pháp hạch toán tài khoản kế toán nêu tại Phụ lục I “Danh mục hệ thống tài khoản và phương pháp hạch toán” ban hành kèm theo Thông tư này.
+Điều 4. Quy định về chứng từ kế toán
+1. Chứng từ kế toán áp dụng cho các hợp tác xã thực hiện theo quy định của Luật Kế toán, các văn bản hướng dẫn Luật Kế toán, các văn bản pháp luật khác có liên quan đến chứng từ kế toán và các quy định trong Thông tư này.
+2. Hợp tác xã được chủ động xây dựng, thiết kế biểu mẫu chứng từ kế toán nhưng phải đảm bảo đầy đủ các nội dung chủ yếu của chứng từ kế toán quy định tại Luật Kế toán, phù hợp với đặc điểm hoạt động và yêu cầu quản lý của đơn vị mình, đảm bảo kiểm soát chặt chẽ, an toàn tài sản, nguồn vốn,... của hợp tác xã, trừ trường hợp pháp luật có quy định khác.
+3. Chứng từ kế toán điện tử ngoài thực hiện theo quy định của Luật Kế toán, các văn bản hướng dẫn Luật kế toán còn phải thực hiện theo quy định của Luật giao dịch điện tử, các văn bản hướng dẫn Luật giao dịch điện tử, Luật quản lý thuế, các văn bản hướng dẫn Luật quản lý thuế và các văn bản pháp luật khác có liên quan.
+4. Trường hợp hợp tác xã không tự xây dựng và thiết kế biểu mẫu chứng từ cho riêng đơn vị mình thì hợp tác xã áp dụng hệ thống biểu mẫu chứng từ kế toán và phương pháp lập chứng từ kế toán theo hướng dẫn tại Phụ lục II ban hành kèm theo Thông tư này.
+Điều 5. Quy định về sổ kế toán
+1. Các nội dung liên quan đến sổ kế toán Hợp tác xã thực hiện theo quy định về sổ kế toán tại Luật Kế toán, các văn bản hướng dẫn Luật Kế toán, các văn bản pháp luật khác có liên quan đến sổ kế toán và các quy định trong Thông tư này.
+2. Hợp tác xã được chủ động tự xây dựng biểu mẫu sổ kế toán của riêng mình cho phù hợp với đặc điểm, hoạt động sản xuất, kinh doanh và yêu cầu quản lý của đơn vị mình nhưng phải đảm bảo cung cấp thông tin về giao dịch kinh tế một cách minh bạch, đầy đủ, dễ kiểm tra, kiểm soát và dễ đối chiếu.
+3. Trường hợp không tự xây dựng biểu mẫu sổ kế toán thì hợp tác xã áp dụng biểu mẫu sổ kế toán, phương pháp ghi sổ kế toán và hình thức sổ kế toán theo hướng dẫn tại Phụ lục III ban hành kèm theo Thông tư này.
+Điều 6. Quy định về Báo cáo tài chính
+1. Các nội dung liên quan đến Báo cáo tài chính thực hiện theo quy định của Luật Kế toán, các văn bản hướng dẫn Luật Kế toán, các văn bản pháp luật khác có liên quan đến Báo cáo tài chính và các quy định trong Thông tư này.
+2. Hệ thống Báo cáo tài chính, biểu mẫu Báo cáo tài chính, nội dung và phương pháp lập, trình bày Báo cáo tài chính và các nội dung khác liên quan đến Báo cáo tài chính hợp tác xã thực hiện theo hướng dẫn tại Phụ lục IV ban hành kèm theo Thông tư này.
+Chương III
+ĐIỀU KHOẢN THI HÀNH
+Điều 7. Quy định chuyển tiếp
+1. Hợp tác xã không tiếp tục sử dụng Tài khoản 332 - Phải trả của hoạt động tín dụng nội bộ trừ những hợp tác xã có hợp đồng tín dụng nội bộ ký trước ngày 01 tháng 9 năm 2023 và đang còn hiệu lực thì được tiếp tục sử dụng Tài khoản 332 - Phải trả của hoạt động tín dụng nội bộ để phản ánh số tiền thành viên gửi vào hợp tác xã để được hưởng lãi suất theo hình thức tín dụng nội bộ quy định tại Luật Hợp tác xã 2012 cho đến khi các hợp đồng tín dụng nội bộ này hết hạn.
+2. Hợp tác xã có các hợp đồng tín dụng nội bộ ký trước ngày 01 tháng 9 năm 2023 và đang còn hiệu lực thì sử dụng Tài khoản 6123 - Chi phí hoạt động cho vay nội bộ (mở chi tiết) để theo dõi các khoản chi phí lãi tiền gửi phải trả (tiền huy động từ thành viên) cho thành viên cho đến khi các hợp đồng tín dụng nội bộ ký trước ngày 01 tháng 9 năm 2023 hết hạn.
+3. Hợp tác xã không tiếp tục sử dụng Tài khoản 359 - Quỹ dự phòng rủi ro tín dụng để phản ánh khoản trích lập dự phòng rủi ro tín dụng. Các Hợp tác xã đang còn số dư Quỹ dự phòng rủi ro tín dụng thì chuyển số dư đang theo dõi trên Tài khoản 359 - Quỹ dự phòng rủi ro tín dụng sang theo dõi chi tiết trên Tài khoản 338 - Phải trả khác và trình bày trên Thuyết minh Báo cáo tài chính.
+4. Hợp tác xã thực hiện chuyển đổi số dư các Tài khoản sau:
+- Hợp tác xã căn cứ vào số dư TK 132 - Phải thu của hoạt động tín dụng nội bộ để chuyển sang TK 132 - Phải thu của hoạt động cho vay nội bộ.
+- Các Hợp tác xã đang ghi nhận và theo dõi khoản hỗ trợ của Nhà nước bằng tài sản phi tiền tệ không phải hoàn lại, quyền sử dụng đất do Nhà nước giao đất, cho thuê đất, các tài sản khác là tài sản cố định (chi tiết tài sản không chia), thì chuyển số dư chi tiết của Tài khoản 211 - Tài sản cố định (chi tiết tài sản không chia) sang theo dõi trên Tài khoản 212 - Tài sản chung không chia (chi tiết theo từng loại tài sản, từng đối tượng ghi tài sản). Đồng thời chuyển nguồn hình thành tài sản là các khoản hỗ trợ của Nhà nước bằng tài sản phi tiền tệ không phải hoàn lại, quyền sử dụng đất do Nhà nước giao đất, cho thuê đất, các tài sản khác là tài sản cố định đang theo dõi trên Tài khoản 442 - Nguồn vốn trợ cấp, hỗ trợ không hoàn lại của Nhà nước sang Tài khoản 4422 - Nguồn hình thành tài sản chung không chia.
+5. Các hợp tác xã đang áp dụng Thông tư số 133/2016/TT-BTC ngày 28/6/2016 của Bộ Tài chính hướng dẫn chế độ kế toán doanh nghiệp nhỏ và vừa thực hiện chuyển đổi số dư các Tài khoản sau:
+- Hợp tác xã căn cứ vào số dư TK 121- Chứng khoán kinh doanh để chuyển sang TK 1218 - Đầu tư tài chính khác và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 1281 - Tiền gửi có kỳ hạn để chuyển sang TK 1211 - Tiền gửi có kỳ hạn và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 1288 - Các khoản đầu tư khác nắm giữ đến ngày đáo hạn để chuyển sang TK 1218 - Đầu tư tài chính khác và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 1381 - Tài sản thiếu chờ xử lý; Tài khoản 1386 - Cầm cố, thế chấp, ký quỹ, ký cược, TK 1388 - Phải thu khác để chuyển sang TK 138 - Phải thu khác và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 152 - Nguyên liệu, vật liệu, TK 153 - Công cụ, dụng cụ để chuyển sang TK 152 - Vật liệu, dụng cụ và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 155 - Thành phẩm, TK 156 - Hàng hóa để chuyển sang TK 156 - Thành phẩm, hàng hóa và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 2112 - TSCĐ thuê tài chính để chuyển sang TK 2114 - TSCĐ thuê tài chính và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 217 - Bất động sản đầu tư để chuyển sang TK 2117 - Bất động sản đầu tư và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 2142 - Hao mòn TSCĐ thuê tài chính để chuyển sang TK 2144 - Hao mòn TSCĐ thuê tài chính và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 2281 - Đầu tư vào công ty liên doanh, liên kết, TK 2288 - Đầu tư khác để chuyển sang TK 1218 - Đầu tư tài chính khác và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 2291 - Dự phòng giảm giá chứng khoán kinh doanh, TK 2292 - Dự phòng tổn thất đầu tư vào đơn vị khác, TK 2293 - Dự phòng phải thu khó đòi, TK 2294 - Dự phòng giảm giá hàng tồn kho để chuyển sang TK 229 - Dự phòng tổn thất tài sản và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 2411 - Mua sắm TSCĐ, TK 2412 - Xây dựng cơ bản, TK 2413 - Sửa chữa lớn TSCĐ để chuyển sang TK 2422 - Xây dựng cơ bản dở dang và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 242 - Chi phí trả trước để chuyển sang TK 2421 - Chi phí chờ phân bổ và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 3332 - Thuế tiêu thụ đặc biệt, TK 3333 - Thuế xuất, nhập khẩu, TK 3335 - Thuế thu nhập cá nhân, TK 3336 - Thuế tài nguyên, TK 3337 - Thuế nhà đất, tiền thuê đất, TK 3338 - Thuế bảo vệ môi trường và các loại thuế khác, TK 3339 - Phí, lệ phí và các khoản phải nộp khác để chuyển sang TK 3338 - Thuế khác, phí, lệ phí và các khoản khác phải nộp nhà nước và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 33311 - Thuế GTGT đầu ra, TK 33312 - Thuế GTGT hàng nhập khẩu để chuyển sang TK 3331 - Thuế GTGT phải nộp và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 335 - Chi phí phải trả để chuyển sang TK 338 - Phải trả khác và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 3382 - Kinh phí công đoàn, TK 3383 - Bảo hiểm xã hội, TK 3384 - Bảo hiểm y tế, TK 3385 - Bảo hiểm thất nghiệp để chuyển sang TK 335 - Các khoản phải nộp theo lương và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 3381 - Tài sản thừa chờ giải quyết, TK 3386 - Nhận ký quỹ, ký cược, TK 3387 - Doanh thu chưa thực hiện, TK 3388 - Phải trả, phải nộp khác để chuyển sang TK 338 - Phải trả khác và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 3411 - Các khoản đi vay, TK 3412 - Nợ thuê tài chính để chuyển sang TK 341 - Phải trả nợ vay và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 3521 - Dự phòng bảo hành sản phẩm, hàng hóa, TK 3522 - Dự phòng bảo hành công trình xây dựng, TK 3524 - Dự phòng khác để chuyển sang TK 338 - Phải trả khác và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 3534 - Quỹ thưởng ban quản lý điều hành công ty để chuyển sang TK 3531 - Quỹ khen thưởng và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 3561 - Quỹ phát triển khoa học công nghệ, TK 3562 - Quỹ phát triển khoa học công nghệ đã hình thành TSCĐ để chuyển sang TK 338 - Phải trả khác và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+- Hợp tác xã căn cứ vào số dư TK 4211 - Lợi nhuận sau thuế chưa phân phối năm trước, TK 4212 - Lợi nhuận sau thuế chưa phân phối năm nay để chuyển sang TK 421 - Lợi nhuận sau thuế chưa phân phối và chi tiết cho phù hợp với yêu cầu quản lý của hợp tác xã.
+Điều 8. Hiệu lực thi hành
+1. Thông tư này có hiệu lực thi hành kể từ ngày 07 tháng 10 năm 2024, áp dụng cho năm tài chính bắt đầu từ hoặc sau ngày 01/01/2025. Thông tư này thay thế cho Thông tư số 24/2017/TT-BTC ngày 28/3/2017 của Bộ Tài chính hướng dẫn chế độ kế toán Hợp tác xã, liên hiệp hợp tác xã.
+2. Các Bộ, ngành, Ủy ban Nhân dân, Sở Tài chính, Cục Thuế các Tỉnh, Thành phố trực thuộc Trung ương có trách nhiệm triển khai hướng dẫn các Hợp tác xã thực hiện Thông tư này.
+3. Trong quá trình thực hiện nếu có vướng mắc đề nghị phản ánh về Bộ Tài chính để nghiên cứu giải quyết./.
+
+Nơi nhận:
+- Văn phòng Chính phủ;
+- Văn phòng TW Đảng và các ban của Đảng;
+- Văn phòng Tổng bí thư;
+- Văn phòng Quốc hội và các Ủy ban thuộc QH;
+- Hội đồng dân tộc;
+- Văn phòng Chủ tịch nước;
+- Tòa án Nhân dân tối cao;
+- Viện Kiểm sát Nhân dân tối cao;
+- Kiểm toán Nhà nước;
+- Liên đoàn Thương mại và Công nghiệp Việt Nam;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+- UBND các tỉnh, thành phố trực thuộc TW;
+- Sở Tài chính, Cục Thuế các tỉnh, thành phố trực thuộc TW;
+- Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);
+- Liên Minh Hợp tác xã Việt Nam;
+- Công báo;
+- Cổng thông tin điện tử Chính phủ;
+- Cổng thông tin điện tử Bộ Tài chính;
+- Các đơn vị thuộc Bộ Tài chính;
+- Lưu: VT, QLKT.
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+
+
+
+
+Võ Thành Hưng
+FILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN

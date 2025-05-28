@@ -1,0 +1,125 @@
+| BỘ TÀI CHÍNH  | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|------------------|-----------------------------------------------------------------|
+
+| Số: 1163/QĐ-BTC  | Hà Nội, ngày 10 tháng 6 năm 2021                            |
+
+BỘ TÀI CHÍNH --------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 1163/QĐ-BTC
+
+Hà Nội, ngày 10 tháng 6 năm 2021
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BỔ SUNG TIÊU CHUẨN, ĐỊNH MỨC SỬ DỤNG MÁY MÓC THIẾT BỊ CHUYÊN DÙNG TẠI CÁC ĐƠN VỊ THUỘC KHỐI CƠ QUAN BỘ TÀI CHÍNH
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Luật Quản lý, sử dụng tài sản công số 15/2017/QH14 ngày 21/6/2017;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Quyết định số 50/2017/QĐ-TTg ngày 31/12/2017 của Thủ tướng Chính phủ quy định tiêu chuẩn, định mức sử dụng máy móc, thiết bị;
+
+Căn cứ Quyết định số 372/QĐ-BTC ngày 21/3/2018 của Bộ trưởng Bộ Tài chính phân cấp thẩm quyền ban hành tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng tại các đơn vị, hệ thống thuộc Bộ Tài chính;
+
+Theo đề nghị của Cục trưởng Cục Kế hoạch - Tài chính.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Quy định tiêu chuẩn, định mức sử dụng máy móc thiết bị chuyên dùng là máy scan, máy vi tính để bàn tại một số đơn vị thuộc khối cơ quan Bộ Tài chính theo phụ lục đính kèm.
+
+Điều 2. Quyết định này có hiệu lực thi hành từ ngày ký. Cục trưởng Cục Kế hoạch - Tài chính, Chánh Văn phòng Bộ và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+| Nơi nhận: - Như Điều 2; - Cổng TTĐT BTC (để đăng tải); - Lưu: VT, KHTC. | KT. BỘ TRƯỞNG THỨ TRƯỞNG Tạ Anh Tuấn |
+
+|-------------------------------------------------------------------------|--------------------------------------|
+
+Nơi nhận: - Như Điều 2; - Cổng TTĐT BTC (để đăng tải); - Lưu: VT, KHTC.
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Tạ Anh Tuấn
+
+PHỤ LỤC
+
+TIÊU CHUẨN ĐỊNH MỨC SỬ DỤNG MÁY MÓC THIẾT BỊ CHUYÊN DÙNG CỦA CÁC ĐƠN VỊ THUỘC KHỐI CƠ QUAN BỘ TÀI CHÍNH (Kèm theo Quyết định số 1163/QĐ-BTC ngày 10/6/2021 của Bộ Tài chính)
+
+| STT | Loại tài sản                   | Đơn vị tính | Số lượng | Đơn giá tối đa (trđ) | Chủng loại (tiêu chuẩn kỹ thuật) tối thiểu                                                                                                                                                                                                        | Đối tượng sử dụng                                                                                                                                                                                                          |
+
+|-----|--------------------------------|-------------|----------|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| 1   | Máy vi tính để bàn chuyên dùng | Bộ          | 03       | 18,7                 | - Bộ vi xử lý: Intel Core 15 hoặc AMD Ryzen 5 hoặc tương đương - Bộ nhớ: 4 GB - Lưu trữ: 500GB HDD hoặc 256GB SSD - Màn hình: 18,5 Inch LCD - Kết nối mạng - Bản quyền hệ điều hành - Bảo hành: Tối thiểu 03 năm.                                 | - Cục Tin học và Thống kê tài chính 02 bộ để phục vụ công tác quản trị hệ thống công nghệ thông tin. - Cục Quản lý giá 01 bộ để phục vụ biên tập, đăng tải tin tức lên Chuyên trang Quản lý giá và thẩm định giá Nhà nước. |
+
+| 2   | Máy Scan loại 2                | Chiếc       | 03       | 45                   | - Khổ giấy: A4 - Khay tự động nuốt giấy - Tự động quét hai mặt - Dung lượng khay tự động nuốt giấy ≥ 80 tờ - Tốc độ quét 50 trang/phút hoặc 100 ảnh/phút - Công suất tối đa ≥ 3000 trang/ngày - Phần mềm nhận dạng tiếng Việt - Bảo hành: 03 năm. | Cục Kế hoạch - Tài chính 01 chiếc; Cục Tin học và Thống kê tài chính 01 chiếc; Viện Chiến lược và chính sách tài chính 01 chiếc để phục vụ công tác thanh toán các nội dung chi ngân sách trên Cổng dịch vụ công quốc gia  |
+
+STT
+
+Loại tài sản
+
+Đơn vị tính
+
+Số lượng
+
+Đơn giá tối đa (trđ)
+
+Chủng loại (tiêu chuẩn kỹ thuật) tối thiểu
+
+Đối tượng sử dụng
+
+1
+
+Máy vi tính để bàn chuyên dùng
+
+Bộ
+
+03
+
+18,7
+
+- Bộ vi xử lý: Intel Core 15 hoặc AMD Ryzen 5 hoặc tương đương
+
+- Bộ nhớ: 4 GB
+
+- Lưu trữ: 500GB HDD hoặc 256GB SSD
+
+- Màn hình: 18,5 Inch LCD
+
+- Kết nối mạng
+
+- Bản quyền hệ điều hành
+
+- Bảo hành: Tối thiểu 03 năm.
+
+- Cục Tin học và Thống kê tài chính 02 bộ để phục vụ công tác quản trị hệ thống công nghệ thông tin.
+
+- Cục Quản lý giá 01 bộ để phục vụ biên tập, đăng tải tin tức lên Chuyên trang Quản lý giá và thẩm định giá Nhà nước.
+
+2
+
+Máy Scan loại 2
+
+Chiếc
+
+03
+
+45
+
+- Khổ giấy: A4
+
+- Khay tự động nuốt giấy
+
+- Tự động quét hai mặt
+
+- Dung lượng khay tự động nuốt giấy ≥ 80 tờ
+
+- Tốc độ quét 50 trang/phút hoặc 100 ảnh/phút
+
+- Công suất tối đa ≥ 3000 trang/ngày
+
+- Phần mềm nhận dạng tiếng Việt
+
+- Bảo hành: 03 năm.
+
+Cục Kế hoạch - Tài chính 01 chiếc; Cục Tin học và Thống kê tài chính 01 chiếc; Viện Chiến lược và chính sách tài chính 01 chiếc để phục vụ công tác thanh toán các nội dung chi ngân sách trên Cổng dịch vụ công quốc gia

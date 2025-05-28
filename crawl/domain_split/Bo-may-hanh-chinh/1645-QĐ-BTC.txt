@@ -1,0 +1,429 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 1645/QĐ-BTC | Hà Nội, ngày 16 tháng 10 năm 2020                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 1645/QĐ-BTC
+
+Hà Nội, ngày 16 tháng 10 năm 2020
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC ĐIỀU CHỈNH, BỔ SUNG MỘI SỐ NỘI DUNG QUYẾT ĐỊNH SỐ 2341/QĐ-BTC NGÀY 12/11/2019 VỀ VIỆC TRIỂN KHAI THỬ NGHIỆM TRUNG TÂM CHỈ ĐẠO, ĐIỀU HÀNH CỦA BỘ TÀI CHÍNH
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định 87/2017/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Thông tư số 16/TT-BTC ngày 26/3/2020 về việc quy định chế độ báo cáo thuộc phạm vi quản lý Nhà nước của Bộ Tài chính;
+
+Căn cứ Quyết định số 1898/QĐ-BTC ngày 25/9/2020 của Bộ trưởng Bộ Tài chính về ban hành danh mục chế độ báo cáo định kỳ của Bộ Tài chính;
+
+Căn cứ Quyết định số 2341/QĐ-BTC ngày 12/11/2019 của Bộ trưởng Bộ Tài chính về việc triển khai thử nghiệm Trung tâm chỉ đạo, điều hành của Bộ Tài chính;
+
+Căn cứ Quyết định số 293/QĐ-TTg ngày 24/02/2020 của Thủ tướng Chính phủ về việc ban hành danh bộ chỉ tiêu tổng hợp báo cáo định kỳ và Báo cáo thống kê về kinh tế - xã hội phục vụ sự chỉ đạo điều hành của Chính phủ, Thủ tướng Chính phủ,
+
+Căn cứ Quyết định số 992/QĐ-BTC ngày 30/6/2020 của Bộ trưởng Bộ Tài chính về ban hành danh mục chế độ báo cáo của Bộ Tài chính kết nối lên hệ thống thông tin báo cáo Chính phủ năm 2020;
+
+Theo đề nghị của Chánh Văn phòng Bộ, Cục trưởng, Cục Tin học và Thống kê tài chính;
+
+QUYẾT ĐỊNH:
+
+Điều 1. Phê duyệt điều chỉnh, bổ sung nội dung, thời gian triển khai thử nghiệm Trung tâm chỉ đạo, điều hành của Bộ Tài chính như sau:
+
+1. Điều chỉnh Khoản 3 Điều 1 thành:
+
+Địa điểm lắp đặt hệ thống trung tâm chỉ đạo, điều hành: Phòng 625, 714, 726 Trụ sở cơ quan Bộ Tài chính, 05 phòng họp Tổng cục (Kho bạc Nhà nước, Tổng cục Hải quan, Tổng cục Thuế, Tổng cục Dự trữ Nhà nước, Ủy ban Chứng khoán Nhà nước)”
+
+2. Điều chỉnh Khoản 5 Điều 1 thành:
+
+Phạm vi triển khai thử nghiệm: Văn phòng Bộ, Kho bạc Nhà nước, Tổng cục Thuế, Tổng cục Hải quan, Tổng cục Dự trữ Nhà nước, Ủy ban Chứng khoán Nhà nước, Vụ Ngân sách Nhà nước, Vụ Đầu tư, Vụ Tài chính Ngân hàng, Cục Quản lý giá, Cục Quản lý nợ, Cục Quản lý công sản.
+
+3. Điều chỉnh Khoản 8 Điều 1 thành:
+
+3.1. Hợp phần các chỉ tiêu phục vụ điều hành:
+
+- Các chỉ số cần hiển thị KPI hiển thị phân làm 03 nhóm chính gồm chỉ tiêu kinh tế - xã hội gửi VPCP, chỉ tiêu điều hành hàng ngày gửi VPCP, chỉ tiêu theo lĩnh vực của Bộ Tài chính (trong đó 01 chỉ tiêu bất kỳ có thể hiển thị tại cả 03 nhóm khi có yêu cầu của đơn vị nghiệp vụ), cụ thể:
+
+(1) Chỉ tiêu điều hành hằng ngày gửi VPCP: Cung cấp 09 chỉ tiêu phục vụ điều hành hằng ngày của Chính phủ, Thủ tướng Chính phủ theo công văn số 4699/VPCP-KSTT ngày 12/6/2020.
+
+(2) Chỉ tiêu kinh tế - xã hội gửi VPCP; Cung cấp 15 chỉ tiêu kinh tế xã hội phục vụ điều hành của Chính phủ, Thủ tướng Chính phủ theo Quyết định số 293/QĐ-TTg ngày 24/2/2020:
+
+(3) Chỉ tiêu theo lĩnh vực của Bộ Tài chính:
+
+| TT                                                                      | Lĩnh vực           | Chỉ tiêu                         |
+
+|-------------------------------------------------------------------------|--------------------|----------------------------------|
+
+| 1                                                                       | Ngân sách Nhà nước | Thu NSNN                         |
+
+| Chi NSNN                                                                |                    |                                  |
+
+| Bội chi NSNN                                                            |                    |                                  |
+
+| Dự toán thu NSNN theo địa bàn                                           |                    |                                  |
+
+| 2                                                                       | Thuế               | Thu NSNN (Thu nội địa + dầu thô) |
+
+| Nợ thuế                                                                 |                    |                                  |
+
+| Hoàn thuế                                                               |                    |                                  |
+
+| Thanh tra, Kiểm tra                                                     |                    |                                  |
+
+| Quản lý doanh nghiệp                                                    |                    |                                  |
+
+| 3                                                                       | Hải quan           | Thu NSNN (Xuất nhập khẩu)        |
+
+| Trị giá hàng hóa XNK                                                    |                    |                                  |
+
+| Số doanh nghiệp tham gia hoạt động XNK.                                 |                    |                                  |
+
+| Cán cân thương mại                                                      |                    |                                  |
+
+| Số tờ khai hải quan                                                     |                    |                                  |
+
+| Công tác phòng chống buôn lậu và gian lận, thương mại                   |                    |                                  |
+
+| Công tác kiểm tra sau thông quan                                        |                    |                                  |
+
+| Số lượng hồ sơ dịch vụ công trực tuyến theo Cục Hải quan                |                    |                                  |
+
+| 4                                                                       | Giá                | Chỉ số giá tiêu dùng             |
+
+| Thông tin mức giá tổng hợp bình quân một số hàng hóa tại các địa phương |                    |                                  |
+
+| Dự báo diễn biến giá cả thị trường                                      |                    |                                  |
+
+| 5                                                                       | Chứng khoán        | Giá trị trái phiếu niêm yết /GDP |
+
+| Khối lượng Cổ phiếu giao dịch                                           |                    |                                  |
+
+| Giá trị Cổ phiếu giao dịch                                              |                    |                                  |
+
+| Khối lượng Cổ phiếu niêm yết và đăng ký giao dịch                       |                    |                                  |
+
+| Giá trị Cổ phiếu niêm yết và đăng ký giao dịch                          |                    |                                  |
+
+| Khối lượng Trái phiếu Chính phủ giao dịch                               |                    |                                  |
+
+| Giá trị Trái phiếu Chính phủ giao dịch                                  |                    |                                  |
+
+| Khối lượng chứng khoán phái sinh giao dịch                              |                    |                                  |
+
+| Giá trị chứng khoán phái sinh giao dịch                                 |                    |                                  |
+
+| Giá trị chứng khoán phát hành                                           |                    |                                  |
+
+| Giá trị đấu giá Cổ phần hóa                                             |                    |                                  |
+
+| Số lượng quyết định xử phạt vi phạm hành chính                          |                    |                                  |
+
+| Số tiền xử phạt vi phạm hành chính                                      |                    |                                  |
+
+| Số lượng DNNN CPH đã đăng ký công ty đại chúng với UBCKNN               |                    |                                  |
+
+TT
+
+Lĩnh vực
+
+Chỉ tiêu
+
+1
+
+Ngân sách Nhà nước
+
+Thu NSNN
+
+Chi NSNN
+
+Bội chi NSNN
+
+Dự toán thu NSNN theo địa bàn
+
+2
+
+Thuế
+
+Thu NSNN (Thu nội địa + dầu thô)
+
+Nợ thuế
+
+Hoàn thuế
+
+Thanh tra, Kiểm tra
+
+Quản lý doanh nghiệp
+
+3
+
+Hải quan
+
+Thu NSNN (Xuất nhập khẩu)
+
+Trị giá hàng hóa XNK
+
+Số doanh nghiệp tham gia hoạt động XNK.
+
+Cán cân thương mại
+
+Số tờ khai hải quan
+
+Công tác phòng chống buôn lậu và gian lận, thương mại
+
+Công tác kiểm tra sau thông quan
+
+Số lượng hồ sơ dịch vụ công trực tuyến theo Cục Hải quan
+
+4
+
+Giá
+
+Chỉ số giá tiêu dùng
+
+Thông tin mức giá tổng hợp bình quân một số hàng hóa tại các địa phương
+
+Dự báo diễn biến giá cả thị trường
+
+5
+
+Chứng khoán
+
+Giá trị trái phiếu niêm yết /GDP
+
+Khối lượng Cổ phiếu giao dịch
+
+Giá trị Cổ phiếu giao dịch
+
+Khối lượng Cổ phiếu niêm yết và đăng ký giao dịch
+
+Giá trị Cổ phiếu niêm yết và đăng ký giao dịch
+
+Khối lượng Trái phiếu Chính phủ giao dịch
+
+Giá trị Trái phiếu Chính phủ giao dịch
+
+Khối lượng chứng khoán phái sinh giao dịch
+
+Giá trị chứng khoán phái sinh giao dịch
+
+Giá trị chứng khoán phát hành
+
+Giá trị đấu giá Cổ phần hóa
+
+Số lượng quyết định xử phạt vi phạm hành chính
+
+Số tiền xử phạt vi phạm hành chính
+
+Số lượng DNNN CPH đã đăng ký công ty đại chúng với UBCKNN
+
+- Các tính năng của hợp phần:
+
+- Hệ thống cung cấp khả năng tùy biến giao diện, sắp xếp vị trí hiển thị số liệu, biểu đồ.
+
++ Biểu diễn nhiều loại so sánh dữ liệu số tổng hợp, chi tiết, địa phương: So sánh với kế hoạch, so sánh cùng kỳ, so sánh kỳ liền kề, so sánh với dự toán.
+
++ Biểu diễn số liệu tổng quát và chi tiết, sự tăng/giảm của số liệu. Cho phép 01 chỉ số KPI có thể hiển thị bảng tổng hợp số liệu chi tiết hoặc nhiều bảng số liệu thành phần liên quan đến chỉ số KPI đó (từng chỉ tiêu KPI được gắn với một bảng số liệu chi tiết).
+
++ Biểu diễn nhiều kiểu biểu đồ (Hình bánh, hình trụ, hình đường kẻ...)
+
++ Có chức năng cảnh báo qua thông báo (notification) trên ứng dụng khi đơn vị nghiệp vụ nhập dữ liệu chậm, muộn.
+
++ Có chức năng tìm kiếm: Tìm kiếm theo đơn vị, lĩnh vực, chỉ tiêu, địa phương. Tìm kiếm nâng cao theo từ khóa.
+
++ Cho phép lãnh đạo gửi chỉ đạo điều hành, giao nhiệm vụ trực tiếp trên từng KPI đến từng tổ chức hoặc cá nhân, cá thể. Đơn vị, cá nhân nhận được chỉ đạo qua thông báo (notification).
+
++ Tích hợp với các hệ thống;
+
+++ Tích hợp hệ thống đầu vào; Kho NSNN, Chương trình Quản lý văn bản điều hành, Phần mềm Quản lý đăng ký tài sản, Hệ thống của Tổng cục Hải quan, Hệ thống của Ủy ban Chứng khoán Nhà nước, Hệ thống thông tin Thống kê ngành Tài chính.
+
+++ Tích, hợp hệ thống đầu ra: Hệ thống thông tin báo cáo Chính phủ.
+
+3.2. Hợp phần hệ thống báo cáo:
+
+- Danh mục biểu mẫu báo cáo:
+
+(1) Thực hiện điện tử hóa 11 chế độ báo cáo định kỳ đáp ứng yêu cầu về biểu mẫu theo Nghị định số 09/2019/NĐ-CP nằm trong danh mục 64 chế độ báo cáo ban hành theo Quyết định số 992/QĐ-BTC ngày 30/6/2020 của Bộ Tài chính.
+
+(2) Thực hiện điện tử hóa 25 chế độ báo cáo để xây dựng 15 chỉ tiêu KPI của Bộ Tài chính báo cáo Chính phủ theo Quyết định số 293/QĐ-TTg ngày 24/2/2020 của Thủ tướng Chính phủ.
+
+(3) Thực hiện một chế độ báo cáo theo Quyết định số 1898/QĐ-BTC tổng hợp báo cáo từ các cơ quan, đơn vị về Bộ Tài chính (thử nghiệm tại Vụ TCNH).
+
+- Các tính năng của hợp phần:
+
++ Thiết kế báo cáo động:
+
+++ Tạo lập, quản lý, thiết kế các biểu mẫu báo cáo dạng số liệu bao gồm thiết kế thuộc tính (các cột của báo cáo), thiết kế chỉ tiêu (các hàng của báo cáo), thiết kế ràng buộc giữa các thuộc tính;
+
+++ Thiết kế báo cáo thuyết minh; Tạo lập, quản lý, thiết kế các biểu mẫu báo cáo dạng thuyết minh;
+
+++ Thiết kế báo cáo số liệu tổng hợp: Tạo lập, quản lý, thiết kế các biểu mẫu báo cáo số liệu tổng hợp bao gồm việc liên kết với các báo cáo khác để tự động lấy dữ liệu;
+
+++ Giao báo cáo cho các đơn vị trong tổ chức, thiết lập thời gian khóa/mở báo cáo khi giao.
+
++ Nhập liệu và tổng hợp báo cáo:
+
+++ Nhập liệu báo cáo số liệu: Nhập liệu trên giao diện ứng dụng hoặc qua file excel; Hỗ trợ thực hiện nhập nhiều lần; Kiểm tra các ràng buộc dữ liệu khi nhập liệu; Tự động tính toán số liệu theo các công thức đã được thiết kế; Trình lãnh đạo phê duyệt sau khi nhập liệu;
+
+++ Nhập liệu báo cáo thuyết minh: Quản lý các file báo cáo thuyết minh (dạng word); Liên kết báo cáo thuyết minh với báo cáo số liệu để thực hiện việc lấy số liệu tổng hợp vào báo cáo thuyết minh;
+
+++ Tổng hợp báo cáo: Thực hiện tự động tổng hợp số liệu đối với báo cáo đã thiết kế tổng hợp số liệu; Hỗ trợ theo dõi trạng thái, số liệu của các báo cáo thành phần tạo lập lên báo cáo tổng hợp.
+
+- Gửi nhận báo cáo:
+
+++ Duyệt báo cáo do đơn vị thực hiện gửi lên: Duyệt hoặc từ chối duyệt dữ liệu báo cáo do đơn vị thực hiện gửi lên;
+
+++ Đính chính dữ liệu báo cáo: Yêu cầu được đính chính dữ liệu vào gửi dữ liệu đính chính, duyệt hoặc từ chối dữ liệu đính chính;
+
+++ Theo dõi trạng thái của các báo cáo được gửi nhận trong nội bộ đơn vị.
+
+++ Tra cứu báo cáo
+
+++ Tra cứu tổng hợp: Tìm kiếm báo cáo theo nhiều tiêu chí như kỳ dữ liệu, thời gian thực hiện báo cáo, chế độ báo cáo, đơn vị giao, đơn vị thực hiện, trạng thái báo cáo, mã báo cáo, tên báo cáo: xuất dữ liệu báo cáo.
+
+++ Tra cứu lịch sử báo cáo:
+
+++ Tổng hợp theo kỳ báo cáo: Hỗ trợ tổng hợp báo cáo theo các kỳ dữ liệu: Hỗ trợ tự động cộng dồn dữ liệu của một báo cáo theo các kỳ dữ liệu khác nhau
+
+++ Tổng hợp theo mã báo cáo: Hỗ trợ tổng hợp thông tin báo cáo theo mã; Hỗ trợ tự động cộng dồn dữ liệu của nhiều đơn vị theo mã báo cáo
+
+++ Trạng thái báo cáo: Hiển thị cây trạng thái của các báo cáo được giao cho các: đơn vị thực hiện
+
+++ Thống kê gửi nhận: Thống kê gửi nhận báo cáo giữa các đơn vị như: số báo cáo gửi đi, số nhận về, số đã hoàn thành.
+
+- Liên thông báo cáo: Kết nối, chia sẻ dữ liệu với Hệ thống thông tin báo cáo Chính phủ.
+
++ Cảnh báo đến người nhập báo cáo khi sắp đến hạn, quá hạn nhưng chưa thực hiện qua tin nhắn, email notification.
+
++ Kết xuất báo cáo dưới các định dạng (word, excel, pdf).
+
+3.3. Hợp phần các nhiệm vụ của Chính phủ, Thủ tướng Chính phủ, Quốc hội, ban dân nguyện, lãnh đạo Bộ giao:
+
+- Phân nhóm nhiệm vụ theo 04 nhóm chính:
+
++ Chính phủ, Thủ tướng Chính phủ giao;
+
++ Quốc hội, ban dân nguyện giao;
+
++ Lãnh đạo Bộ giao;
+
++ Nhiệm vụ, được giao tại IOC
+
+- Lấy nguồn nhiệm vụ: Chọn nguồn nhiệm vụ từ các văn bản gửi về Bộ Tài chính (từ Chính phủ, Quốc hội), thông tin của nguồn nhiệm vụ gồm số ký hiệu văn bản, ngày ban hành, đơn vị ban hành, trích yếu, file đính kèm.
+
+- Tạo nhiệm vụ: Phân loại nhiệm vụ theo các nhóm chính (Chính phủ, Quốc hội, nhiệm vụ Bộ giao, nhóm khác), nhập các thông tin liên quan đến nhiệm vụ như người giao, người chủ trì ngày bắt đầu - kết thúc, chọn hình thức thông báo.
+
+- Giao nhiệm vụ xuống các đơn vị thuộc và trực thuộc Bộ (có thể giao một hoặc nhiều đơn vị và giao thêm đơn vị phối hợp), cho phép thu hồi nhiệm vụ nếu nhầm.
+
+- Người nhận nhiệm vụ được thông báo qua email, hoặc tin nhắn và thực hiện điền thông tin tiến độ, nội dung triển khai của nhiệm vụ hoặc có thể chuyển xử lý (ủy quyền) cho các cấp hoặc chuyển lại cho người giao nhiệm vụ trong trường hợp nhiệm vụ không đúng chức năng của đơn vị.
+
+- Tìm kiếm, tra cứu nhiệm vụ;
+
++ Theo Trạng thái của nhiệm vụ: Đã giao, đã tiếp nhận, từ chối nhận, đang thực hiện, gửi xác nhận hoàn thành, yêu cầu hoàn thiện, hoàn thành, thu hồi, chờ phê duyệt (Các trạng thái có màu chữ khác nhau để phân biệt)
+
++ Theo Tình trạng của nhiệm vụ: Đã hoàn thành, chưa hoàn thành trong hạn, chưa hoàn thành quá hạn, còn hạn, sắp đến hạn, quá hạn, đúng hạn (Các tình trạng của nhiệm vụ có màu nên khác nhau để dễ nhận biết).
+
++ Theo Đơn vị chủ trì xử lý nhiệm vụ
+
++ Theo Người chủ trì xử lý nhiệm vụ
+
++ Theo Đơn vị giao nhiệm vụ
+
++ Theo Người giao nhiệm vụ
+
++ Theo Đơn vị phối hợp xử lý nhiệm vụ
+
++ Theo Người phối hợp xử lý nhiệm vụ
+
++ Theo Nhóm nhiệm vụ
+
++ Theo Nhãn (Tag - dùng hỗ trợ tìm kiếm nhiệm vụ)
+
++ Cảnh báo nhiệm vụ khi sắp hết hạn, hoặc quá hạn (qua email, tin nhắn hoặc notification trên ứng dụng).
+
++ Cho phép kết xuất báo cáo theo nhiều định dạng (word, excel, pdf).
+
++ Thông tin hiển thị một nhiệm vụ gồm: Đơn vị chủ trì xử lý, người chủ trì xử lý, nhóm nhiệm vụ, ngày bắt đầu, ngày kết thúc, tiến độ thực hiện công việc, thời gian cập nhật lên hệ thống, trạng thái nhiệm vụ.
+
+3.4. Hợp phần chương trình họp:
+
+- Địa điểm triển khai: Triển khai thử nghiệm tại 08 điểm cầu gồm 03 phòng họp tại Bộ Tài chính và 05 Tổng cục
+
+- Các chức năng chính:
+
+- Tạo lập lịch họp mới.
+
++ Tra cứu, tìm kiếm lịch họp, tài liệu họp, nội dung cuộc họp.
+
++ Quản lý danh sách người tham gia họp, người chủ trì cuộc họp.
+
++ Quản lý tài liệu họp, chia sẻ tài liệu họp cho người tham dự họp.
+
++ Thông báo lịch họp cho những người tham gia họp, gửi xác nhận họp, tổng hợp xác nhận, tổng hợp danh sách thành phần dự họp. Các thành viên tham gia họp sẽ nhận được yêu cầu xác nhận lịch họp, Thành viên có thể xác nhận Đồng ý, Không tham gia (Cập nhật lý do không tham gia họp) hoặc Ủy quyền (Có thể Ủy quyền, phân công lịch họp cho nhiều người khác nhau).
+
++ Cho phép đăng ký người dự họp, điểm danh người tham gia họp.
+
++ Cho phép tổ chức họp trực tuyến thông qua các thiết bị máy tính bảng, điện thoại thông minh.
+
++ Hỗ trợ tạo các cuộc họp, đặt lịch họp và mời các thành viên liên quan tham gia họp (Hỗ trợ thành phần không thuộc Bộ có thể tham gia được).
+
++ Chia sẻ dữ liệu, màn hình khi đang họp.
+
++ Hỗ trợ điều hành phiên họp.
+
+- Hỗ trợ ghi lại nội dung các cuộc họp và lưu lại trên hệ thống phục vụ tra cứu sau này.
+
+- Cho phép tạo các nhóm họp theo yêu cầu.
+
+- Hỗ trợ lưu trữ dữ liệu trên hệ thống.
+
+3.5. Tổng hợp phân tích mạng xã hội và báo chí:
+
+- Cho phép tổng hợp thông tin theo chủ đề liên quan đến cơ quan, theo cá nhân cần quan tâm.
+
+- Cho phép đề xuất các từ khóa, bài viết được tương tác nhiều gần đây.
+
+- Hệ thống cho phép cấu hình các điều kiện, luật ràng buộc bằng từ khóa để lọc những nội dung tin bài phù hợp và bỏ đi những tin bài không liên quan. Các luật, điều kiện do người dùng định nghĩa càng chặt chẽ thì kết quả nhận về càng được giảm bớt các thông tin gây nhiễu hoặc không liên quan.
+
+- Sàng lọc, tổng hợp tin bài theo các chủ đề liên quan đến cá nhân các lãnh đạo bộ và các cơ quan, trực thuộc bộ dựa trên các luật kết hợp từ khóa.
+
+- Thống kê theo thời gian lượng đề cập, chia sẻ, bình luận trên báo chí và mạng xã hội về từng chủ đề.
+
+- Phát hiện các tin bài nóng, được chia sẻ nhiều và đang lan truyền nhanh trên mạng xã hội và gửi cảnh báo về thiết bị cầm tay của người dùng.
+
+- Có công cụ tìm kiếm nâng cao để giúp người dùng tìm kiếm được các tin bài mình quan tâm theo từ khóa, trong một khoảng thời gian, đến từ một số nguồn tin cho trước.
+
+- Tổng hợp và phân loại tin bài.
+
+- Hỗ trợ quản lý điểm tin cho phòng Báo chí tuyên truyền.
+
+- Lãnh đạo Bộ chỉ đạo, điều hành trên phần điểm tin và tổng hợp tin bài và phản hồi thực hiện của đơn vị.
+
+4. Điều chỉnh khoản 9 Điều 1 về thời gian triển khai thử nghiệm thành:
+
+- Hoàn thành xây dựng hệ thống thử nghiệm đến hết ngày 15/10/2020
+
+- Thời gian vận hành thử nghiệm đến hết ngày 30/10/2020.
+
+5. Các nội dung khác giữ nguyên như Quyết định số 2341/QĐ-BTC .
+
+Điều 2. Tổ chức thực hiện:
+
+- Giao Văn phòng Bộ, Cục Tin học và Thống kê tài chính chủ trì đánh giá kết quả triển khai thử nghiệm, có báo cáo chi tiết sau khi kết thúc thử nghiệm.
+
+- Giao các đơn vị liên quan chủ động tham gia vận hành thử, nhập liệu, kiểm tra số liệu KPI, báo cáo hiển thị trên hệ thống IOC, hệ thống thông tin báo cáo Chính phủ và có ý kiến để hoàn thiện phần mềm (nếu có).
+
+Điều 3. Quyết định này có hiệu lực kể từ ngày ký. Văn phòng Bộ, Kho bạc Nhà nước, Tổng cục Thuế, Tổng cục Hải quan, Tổng cục Dự trữ Nhà nước, Ủy ban Chứng khoán Nhà nước, Vụ Ngân sách Nhà nước, Vụ Đầu tư, Vụ Tài chính Ngân hàng, Cục Quản lý giá, Cục Quản lý nợ, Cục Quản lý công sản và các đơn vị liên quan chịu trách nhiệm thi hành quyết định này./.
+
+| Nơi nhận: - Như Điều 3; - Lưu: VT, THTK. | TL. BỘ TRƯỞNG CỤC TRƯỞNG CỤC TIN HỌC VÀ THỐNG KÊ TÀI CHÍNH Nguyễn Đại Trí |
+
+|------------------------------------------|---------------------------------------------------------------------------|
+
+Nơi nhận: - Như Điều 3; - Lưu: VT, THTK.
+
+TL. BỘ TRƯỞNG CỤC TRƯỞNG CỤC TIN HỌC VÀ THỐNG KÊ TÀI CHÍNH Nguyễn Đại Trí

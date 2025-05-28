@@ -1,0 +1,1699 @@
+| BỘ TÀI CHÍNH   | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|----------------|-----------------------------------------------------------------|
+
+| Số: 130/QĐ-BTC | Hà Nội, ngày 03 tháng 02 năm 2020                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 130/QĐ-BTC
+
+Hà Nội, ngày 03 tháng 02 năm 2020
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH VÀ KHAI THÁC HỆ THỐNG KẾT NỐI, CHIA SẺ DỮ LIỆU SỐ NGÀNH TÀI CHÍNH
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Thông tư số 184/2015/TT-BTC ngày 17/11/2015 của Bộ Tài chính quy định thủ tục về kê khai, bảo lãnh tiền thuế, thu nộp tiền thuế, tiền chậm nộp, tiền phạt, tiền phí, lệ phí các khoản thu khác, đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh và phương tiện xuất cảnh, nhập cảnh, quá cảnh;
+
+Căn cứ Thông tư số 84/2016/TT-BTC ngày 17/06/2016 của Bộ Tài chính về việc hướng dẫn thủ tục nộp ngân sách nhà nước đối với các khoản thuế và thu nội địa;
+
+Căn cứ Thông tư số 18/2017/TT-BTC ngày 28/02/2017 của Bộ Tài chính quy định Hệ thống Danh mục điện tử dùng chung trong lĩnh vực tài chính;
+
+Căn cứ Thông tư số 77/2017/TT-BTC ngày 28/07/2017 của Bộ Tài chính hướng dẫn Chế độ kế toán Ngân sách nhà nước và hoạt động nghiệp vụ Kho bạc Nhà nước;
+
+Căn cứ Quyết định số 2356/QĐ-BTC ngày 28/10/2016 của Bộ trưởng Bộ Tài chính về việc phê duyệt dự án “Nâng cấp hệ thống Trung tâm trao đổi thông tin thu ngân sách nhà nước tại Bộ Tài chính”;
+
+Căn cứ Quyết định số 201/QĐ-BTC ngày 12/02/2018 của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế An toàn thông tin mạng Bộ Tài chính;
+
+Căn cứ Quyết định số 1223/QĐ-BTC ngày 27/07/2018 của Bộ trưởng Bộ Tài chính về việc ban hành quy chế truyền nhận thông tin thu nộp, hoàn trả ngân sách nhà nước điện tử giữa cơ quan Thuế, Hải quan, Tài chính và Kho bạc Nhà nước;
+
+Xét đề nghị của Tổng cục trưởng Tổng cục Thuế, Tổng cục trưởng Tổng cục Hải quan, Tổng giám đốc Kho bạc Nhà nước, Cục trưởng Cục Tin học và Thống kê tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này “Quy chế quản lý, vận hành và khai thác Hệ thống kết nối, chia sẻ dữ liệu số ngành Tài chính”.
+
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký, thay thế Quyết định số 1274/QĐ-BTC ngày 06/06/2016 của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế phối hợp thực hiện xử lý sự cố, vướng mắc giữa các đơn vị tham gia hệ thống trao đổi thông tin thu nộp ngân sách nhà nước.
+
+Điều 3. Tổng giám đốc Kho bạc Nhà nước, Tổng cục trưởng Tổng cục Thuế, Tổng cục trưởng Tổng cục Hải quan, Cục trưởng Cục Tin học và Thống kê tài chính và các đơn vị thuộc hệ thống Thuế, Kho bạc Nhà nước, Hải quan, Tài chính chịu trách nhiệm thi hành Quyết định này./.
+
+| Nơi nhận: - Lãnh đạo Bộ (để b/c); - Như Điều 3; - Sở Tài chính các tỉnh, thành phố trực thuộc Trung ương; - Cổng TTĐT BTC; - Lưu: VT, THTK. | KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai |
+
+|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+
+Nơi nhận: - Lãnh đạo Bộ (để b/c); - Như Điều 3; - Sở Tài chính các tỉnh, thành phố trực thuộc Trung ương; - Cổng TTĐT BTC; - Lưu: VT, THTK.
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai
+
+QUY CHẾ
+
+QUẢN LÝ, VẬN HÀNH VÀ KHAI THÁC HỆ THỐNG KẾT NỐI, CHIA SẺ DỮ LIỆU SỐ NGÀNH TÀI CHÍNH (Ban hành kèm theo Quyết định số 130/QĐ-BTC ngày 03/02/2020 của Bộ trưởng Bộ Tài chính)
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Quy chế này quy định việc quản lý, vận hành và khai thác Hệ thống kết nối, chia sẻ dữ liệu số ngành Tài chính (viết tắt là Hệ thống KCDTC).
+
+Điều 2. Đối tượng áp dụng
+
+Quy chế này áp dụng đối với các đơn vị khai thác, trao đổi dữ liệu điện tử qua Hệ thống KCDTC bao gồm:
+
+- Cục Tin học và Thống kê tài chính (THTK).
+
+- Các đơn vị Tổng cục gồm: Tổng cục Hải quan, Tổng cục Thuế, Kho bạc Nhà nước và các đơn vị thuộc, trực thuộc Tổng cục.
+
+- Các cơ quan Tài chính địa phương, gồm: Sở Tài chính các tỉnh, thành phố trực thuộc Trung ương (Sở Tài chính); Phòng Tài chính - Kế hoạch các quận, huyện, thị xã, thành phố trực thuộc tỉnh, thành phố trực thuộc Trung ương (Phòng Tài chính - Kế hoạch).
+
+Điều 3. Giải thích từ ngữ
+
+Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Hệ thống KCDTC là một thành phần của nền tảng kết nối, chia sẻ dữ liệu ngành Tài chính phục vụ trao đổi thông tin giữa các hệ thống/ứng dụng của các đơn vị trong nội ngành Tài chính (trừ các thông tin được trao đổi qua Hệ thống trục liên thông văn bản điện tử và các hệ thống đặc thù khác).
+
+2. Ứng dụng Quản trị truyền tin: Là ứng dụng thuộc Hệ thống KCDTC, hỗ trợ các đơn vị thực hiện theo dõi thông tin trạng thái và vị trí gói tin, theo dõi trạng thái các điểm truyền nhận, cho phép gửi lại gói tin....
+
+3. Ứng dụng Trao đổi thông tin: Là ứng dụng thuộc Hệ thống KCDTC, hỗ trợ cơ quan Tài chính địa phương quản lý, khai thác các thông tin thu nộp ngân sách nhà nước điện tử đã được trao đổi qua Hệ thống KCDTC.
+
+4. Kho dữ liệu ngân sách nhà nước (KHONS): Là tập hợp các dữ liệu về ngân sách nhà nước và các dữ liệu kinh tế xã hội khác được sắp xếp, tổ chức để quản lý, vận hành và khai thác thông qua phương tiện điện tử. KHONS được xây dựng và triển khai tập trung, thống nhất trong phạm vi toàn quốc, thực hiện chức năng đồng bộ, bổ sung dữ liệu từ nhiều nguồn khác nhau, tổng hợp dữ liệu để khai thác, lập báo cáo tĩnh, báo cáo tùy biến, báo cáo đồ họa,... theo các chiều thông tin khác nhau phục vụ công tác quản lý, điều hành, phân tích, đánh giá, dự báo tình hình tài chính - ngân sách nhà nước.
+
+5. Loại dữ liệu là các dữ liệu khác nhau truyền/nhận giữa các đơn vị qua Hệ thống KCDTC (Ví dụ như dữ liệu sổ thuế, danh bạ người nộp thuế, bảng kê chứng từ, tờ khai hải quan, điện tra soát,....).
+
+6. Gói tin là tập hợp dữ liệu bao gồm các trường thông tin được thiết lập theo cấu trúc dữ liệu quy định phục vụ truyền nhận giữa các đơn vị.
+
+7. Bản ghi là từng dòng dữ liệu cụ thể trong gói tin truyền nhận.
+
+8. Danh mục dùng chung là loại dữ liệu chứa thông tin về các danh mục, bảng mã phân loại, được sử dụng chung trong các ứng dụng, cơ sở dữ liệu khác nhau của ngành Tài chính.
+
+9. Đội hỗ trợ Hệ thống KCDTC là cán bộ của Cục THTK tham gia quản trị, vận hành Hệ thống KCDTC, làm nhiệm vụ tiếp nhận và xử lý các vướng mắc liên quan đến Hệ thống KCDTC.
+
+10. Tổ vận hành Hệ thống KCDTC là các cán bộ đầu mối của Tổng cục Thuế. Kho bạc Nhà nước, Tổng cục Hải quan, Cục THTK tham gia vận hành Hệ thống KCDTC.
+
+11. Hệ thống AD (Active Directory) là hệ thống quản trị người sử dụng tập trung của cơ quan Bộ Tài chính, dùng để cấp và quản lý tài khoản định danh theo từng người sử dụng của cơ quan Bộ Tài chính.
+
+12. Người sử dụng Hệ thống KCDTC (gọi tắt là người sử dụng) là cán bộ của các đơn vị được cấp quyền sử dụng Hệ thống KCDTC theo một vai trò cụ thể để thực hiện các nhiệm vụ của mình.
+
+13. Tài khoản người sử dụng là thông tin duy nhất của người sử dụng bao gồm thông tin tên đăng nhập và mật khẩu để đăng nhập vào phần mềm.
+
+14. NNT là viết tắt cụm từ “Người nộp thuế”.
+
+15. NSNN là viết tắt cụm từ “Ngân sách nhà nước”.
+
+Điều 4. Điều kiện vận hành hệ thống
+
+1. Địa chỉ truy cập phần mềm:
+
+- Truy cập vào phần mềm Quản trị truyền tin theo địa chỉ: https://quantritruyentin.btc.
+
+- Truy cập vào phần mềm Trao đổi thông tin theo địa chỉ: https://traodoithongtin.btc.
+
+2. Điều kiện kết nối mạng của máy tính người sử dụng:
+
+a) Tại cơ quan Bộ Tài chính: Máy tính kết nối mạng nội bộ của cơ quan Bộ Tài chính.
+
+b) Tại các Tổng cục, các Sở Tài chính, Phòng Tài chính - Kế hoạch: Máy tính phải được kết nối với hạ tầng truyền thông của ngành Tài chính.
+
+3. Thông tin nhập vào hệ thống sử dụng font chữ Unicode TCVN 6909:2001 và gõ dấu tiếng Việt.
+
+4. Máy tính của người sử dụng phải được cài đặt một trong các trình duyệt web sau: Mozilla Firefox 64 trở lên, Chrome/Chromium 74 trở lên, IE 10.0 trở lên.
+
+Điều 5. Quản lý tài khoản trong hệ thống
+
+1. Tài khoản quản trị
+
+Tài khoản quản trị Hệ thống KCDTC được cấp trực tiếp cho cán bộ được giao nhiệm vụ quản trị. Tài khoản quản trị bao gồm:
+
+a) Quản trị hệ thống: Là tài khoản dùng để quản trị vận hành máy chủ, hệ điều hành các máy chủ và cơ sở dữ liệu của phần mềm.
+
+b) Quản trị ứng dụng: Là tài khoản dùng để quản trị, thiết lập tham số trên ứng dụng phần mềm; Quản lý phân quyền tài khoản người sử dụng, kiểm tra các chức năng sử dụng phần mềm với vai trò người sử dụng.
+
+Cục THTK chịu trách nhiệm quản lý và sử dụng tài khoản quản trị hệ thống, quản trị ứng dụng, đảm bảo tuân thủ theo các quy định hiện hành về an toàn thông tin của ngành Tài chính và Bộ Thông tin và Truyền thông.
+
+2. Tài khoản người sử dụng
+
+2.1. Nguyên tắc cấp tài khoản người sử dụng
+
+a) Nguyên tắc chung:
+
+- Số ký tự của một tài khoản <=20.
+
+- Tên viết tắt của các đơn vị căn cứ vào ký hiệu viết tắt của đơn vị theo Quyết định số 1616/QĐ-BTC ngày 19/7/2016 của Bộ Tài chính ban hành Quy chế công tác văn thư của Bộ Tài chính. (Ví dụ: TCT, KBNN, TCHQ...).
+
+- Tên viết tắt của tỉnh theo Phụ lục số 02 của Quy chế.
+
+- Sử dụng dấu gạch ngang (không dùng dấu gạch dưới và dấu chấm) giữa các cụm từ trong tài khoản.
+
+- Sử dụng thêm số thứ tự bắt đầu từ 1 trong trường hợp một đơn vị được cấp nhiều hơn một tài khoản để phân biệt tài khoản.
+
+- Tên tài khoản viết chữ thường, không dấu.
+
+- Đảm bảo an toàn đối với tài khoản người sử dụng:
+
++ Người sử dụng được cấp tài khoản thực hiện khai thác, sử dụng ứng dụng cho mục đích công việc và trong phạm vi trách nhiệm đã được phân công.
+
++ Người sử dụng đăng nhập bằng tài khoản được cấp, đổi mật khẩu trong lần đăng nhập đầu tiên và tối thiểu 03 tháng đổi mật khẩu một lần.
+
++ Kết cấu mật khẩu được quy định như sau: Có tối thiểu 8 ký tự; Gồm tối thiểu 3 trong 4 loại ký tự sau: chữ cái viết hoa (A - Z); chữ cái viết thường (a - z); chữ số (0 - 9); các ký tự khác trên bàn phím máy tính (' ~ ! @ # $ % ^ & * ( ) _ - + = { } [ ] \ | : ; ” ’ < > , . ? /) và dấu cách; Không chứa tên tài khoản.
+
++ Khi thay đổi mật khẩu của tài khoản dịch vụ thì mật khẩu mới bắt buộc phải khác mật khẩu cũ.
+
++ Quản lý mật khẩu theo Quy chế an toàn thông tin mạng Bộ Tài chính tại Quyết định số 201/QĐ-BTC ngày 12/02/2018 của Bộ trưởng Bộ Tài chính.
+
+b) Cấu trúc tài khoản người sử dụng tại các đơn vị:
+
+- Đối với người sử dụng tại Tổng cục, áp dụng cấu trúc: tttdtw-[Tên viết tắt của đơn vị Tổng cục][Số thứ tự].
+
+Ví dụ: tttdtw-tct1 là tài khoản cấp cho cán bộ Tổng cục Thuế.
+
+- Đối với người sử dụng thuộc, trực thuộc Tổng cục, áp dụng cấu trúc:
+
+- Đối với cấp tỉnh, áp dụng cấu trúc: tttdtw-[Tên viết tắt của đơn vị Tổng cục]-[Tên viết tắt của tỉnh][Số thứ tự].
+
+Ví dụ: tttdtw-tct-han là tài khoản cấp cho cán bộ của Cục Thuế Hà Nội.
+
++ Đối với cấp huyện, áp dụng cấu trúc: tttdtw-[Tên viết tắt của đơn vị Tổng cục]-[Tên viết tắt của tỉnh]-[Tên Quận/Huyện (viết tắt nếu cần)][Số thứ tự].
+
+Ví dụ: tttdtw-kbnn-han-pxuy là tài khoản cấp cho cán bộ Kho bạc Nhà nước Huyện Phú Xuyên, Hà Nội.
+
+- Đối với người sử dụng tại Sở Tài chính, áp dụng cấu trúc: tttdtw-[Tên viết tắt của tỉnh][Số thứ tự].
+
+Ví dụ: tttdtw-han1 là tài khoản cấp cho cán bộ Sở Tài chính TP. Hà Nội.
+
+- Đối với người sử dụng tại Phòng Tài chính - Kế hoạch, áp dụng cấu trúc: tttdtw-[Tên viết tắt của tỉnh]-[Tên Quận/Huyện (viết tắt nếu cần)][Số thứ tự].
+
+Ví dụ: tttdtw-han-phuxuyen1 là tài khoản cấp cho cán bộ thuộc Phòng Tài chính - Kế hoạch Huyện Phú Xuyên, Hà Nội.
+
+- Đối với người sử dụng của Cục THTK: sử dụng tài khoản đã được cấp theo tên cá nhân trên hệ thống AD của cơ quan Bộ Tài chính.
+
+Trong đó:
+
+- tttdtw: là viết tắt (được sử dụng lại) trong tên tài khoản của Hệ thống KCDTC.
+
+- Tên Quận/Huyện (viết tắt nếu cần): Trường hợp đặt tên theo quy tắc mà số ký tự vượt quá 20 thì có thể lược bớt một số ký tự trong tên để đảm bảo số ký tự <=20.
+
+- Người sử dụng tại Tổng cục và các đơn vị thuộc, trực thuộc Tổng cục được phân quyền sử dụng ứng dụng Quản trị truyền tin. Mỗi đơn vị Tổng cục được cấp tối đa 10 tài khoản; Mỗi đơn vị thuộc, trực thuộc Tổng cục được cấp tối đa 02 tài khoản.
+
+- Người sử dụng tại cơ quan Tài chính địa phương được phân quyền sử dụng cả ứng dụng Quản trị truyền tin và Trao đổi thông tin. Mỗi đơn vị được cấp mặc định 02 tài khoản và cấp tối đa 06 tài khoản, trong đó riêng các tài khoản có số thứ tự 1 có thêm quyền phê duyệt điện tra soát chứng từ trên ứng dụng Trao đổi thông tin.
+
+2.2. Quy trình cấp tài khoản người sử dụng Hệ thống KCDTC
+
+Trong quá trình vận hành, đơn vị có nhu cầu cấp thêm tài khoản thực hiện theo các bước sau:
+
+- Gửi yêu cầu cấp tài khoản tới Cục THTK bằng văn bản theo mẫu tại Phụ lục 04 kèm theo quy chế này.
+
++ Các đơn vị thuộc, trực thuộc Tổng cục gửi nhu cầu cấp tài khoản cho Cục CNTT của các Tổng cục, Cục CNTT các Tổng cục tổng hợp nhu cầu và gửi Cục THTK.
+
++ Các Phòng Tài chính - Kế hoạch gửi nhu cầu cấp tài khoản cho các Sở Tài chính, Sở Tài chính tổng hợp nhu cầu và gửi Cục THTK.
+
+- Cục THTK xem xét, thực hiện:
+
++ Tạo tài khoản trên hệ thống AD của cơ quan Bộ Tài chính.
+
++ Khai báo tài khoản và phân quyền sử dụng cho tài khoản trên Hệ thống KCDTC theo đúng chức năng nhiệm vụ, phạm vi dữ liệu thuộc quyền sử dụng.
+
++ Gửi lại thông tin tài khoản và mật khẩu tới người sử dụng hoặc thông báo lại cho đơn vị về việc không được cấp tài khoản người sử dụng.
+
+- Thời gian xử lý cấp tài khoản mới không quá 02 ngày làm việc kể từ thời điểm đơn vị cung cấp đúng, đủ thông tin nêu tại Phụ lục 04.
+
+2.3. Quy trình hủy bỏ, thay đổi tài khoản người sử dụng
+
+Trường hợp người sử dụng thay đổi vị trí công tác, chuyển công tác, thôi việc hoặc nghỉ hưu, đơn vị phải thông báo cho Cục THTK để thực hiện hủy bỏ, thay đổi tài khoản người sử dụng trên hệ thống AD của cơ quan Bộ Tài chính. Quy định cụ thể như sau:
+
+- Ngay sau khi lưu hành quyết định về việc chuyển công tác, thôi việc hoặc nghỉ hưu của người sử dụng, đơn vị gửi thông báo cho Cục THTK về hủy bỏ, thay đổi tài khoản người sử dụng theo mẫu tại Phụ lục 04 đính kèm.
+
+- Thời gian Cục THTK hủy bỏ hoặc thay đổi thông tin người sử dụng được quy định tại Quyết định số 201/QĐ-BTC của Bộ trưởng Bộ Tài chính ngày 12/2/2018 về việc ban hành quy chế an toàn thông tin mạng Bộ Tài chính.
+
+- Trong trường hợp cần duy trì tài khoản của người sử dụng sau thời điểm người sử dụng chính thức thay đổi vị trí công tác, chuyển công tác, thôi việc, nghỉ hưu, đơn vị quản lý người sử dụng phải có văn bản gửi Cục THTK, trong đó nêu rõ lý do, các quyền sử dụng cần duy trì và thời gian duy trì.
+
+Điều 6. Nguyên tắc sử dụng phần mềm
+
+- Các chức năng của hệ thống liên quan có kết nối với Hệ thống KCDTC phải được tuân thủ đúng chuẩn dữ liệu trao đổi, trình tự thực hiện, các quy định xử lý sự cố của Quy chế này.
+
+- Các đối tượng thuộc phạm vi điều chỉnh của quy chế này thực hiện đúng chức trách, nhiệm vụ.
+
+- Việc quản lý, vận hành và khai thác sử dụng Hệ thống KCDTC phải tuân thủ theo các quy định của pháp luật về công nghệ thông tin, pháp luật về sở hữu trí tuệ, bảo vệ bí mật nhà nước và các quy định quản lý khác của cơ quan nhà nước có thẩm quyền.
+
+- Hệ thống KCDTC thực hiện truyền nhận gói tin đảm bảo chống bóc tách và tính toàn vẹn của gói tin.
+
+Điều 7. Các hành vi nghiêm cấm trong quá trình quản lý, sử dụng, khai thác
+
+- Cung cấp hoặc để lộ, lọt thông tin về tài khoản đăng nhập cho tổ chức, cá nhân không được giao quyền quản lý, sử dụng và khai thác Hệ thống KCDTC.
+
+- Chiếm đoạt, sử dụng trái phép tài khoản đăng nhập Hệ thống KCDTC của người khác để thực hiện các công việc không thuộc chức năng nhiệm vụ của mình trên hệ thống.
+
+- Cố ý sử dụng tài khoản đăng nhập Hệ thống KCDTC được cấp để thực hiện các tác nghiệp không thuộc phạm vi, nhiệm vụ được giao trên hệ thống.
+
+- Cố ý sử dụng tài khoản đăng nhập Hệ thống KCDTC được cấp để thực hiện các tác nghiệp làm ảnh hưởng đến hiệu suất của hệ thống; tác động đến các tiến trình, làm ảnh hưởng đến các giao dịch trên Hệ thống KCDTC.
+
+- Tự ý xóa dữ liệu trên hệ thống khi chưa được sự đồng ý của cấp có thẩm quyền.
+
+- Cố ý làm sai lệch thông tin về dữ liệu trên hệ thống.
+
+- Truy cập trái phép, phá hoại thông tin trong cơ sở dữ liệu.
+
+- Tự ý thay đổi quy trình quản lý, khai thác, sử dụng phần mềm khi chưa được cấp có thẩm quyền cho phép.
+
+- Nghiêm cấm việc sử dụng dữ liệu từ Hệ thống KCDTC vào mục đích cá nhân mà không được phép của cơ quan nhà nước có thẩm quyền.
+
+Chương II
+
+QUY ĐỊNH CỤ THỂ
+
+Điều 8. Chuẩn kết nối, trao đổi dữ liệu
+
+- Các đơn vị kết nối đến Hệ thống KCDTC để thực hiện trao đổi dữ liệu phải tuân thủ chuẩn kết nối theo mục 1, Phụ lục 01 của Quy chế này.
+
+- Đối với các loại dữ liệu truyền nhận qua Hệ thống KCDTC cần tuân thủ theo chuẩn trao đổi dữ liệu được quy định tại mục 2, Phụ lục 01 của Quy chế.
+
+Điều 9. Trình tự thực hiện khi phát sinh một loại dữ liệu mới truyền nhận qua Hệ thống KCDTC
+
+Khi có phát sinh một loại dữ liệu mới truyền nhận qua Hệ thống KCDTC, các đơn vị chủ trì của các hệ thống nguồn, đích và Hệ thống KCDTC cần thực hiện:
+
+- Bước 1: Thống nhất chuẩn gói tin XML truyền nhận (gồm cả header và body), mã loại dữ liệu sẽ truyền nhận, nơi gửi, nơi nhận, xác định có phải ký số đối với gói tin truyền nhận. Kết quả sẽ đưa ra danh sách loại dữ liệu truyền nhận theo mẫu được quy định tại Phụ lục 03 của Quy chế.
+
+- Bước 2: Thống nhất phương, thức truyền nhận qua web service hay qua Message Queue.
+
++ Trường hợp các đơn vị trao đổi dữ liệu điện tử với nhau theo phương thức web service qua Hệ thống KCDTC thì sử dụng địa chỉ: https://tttdtw.btc/ws_tttdtw.
+
++ Trường hợp các đơn vị trao đổi dữ liệu điện tử qua Message Queue thì kết nối qua địa chỉ IP và mở cổng (port) của máy chủ cài đặt Message Queue.
+
+- Bước 3: Hệ thống nguồn thực hiện:
+
++ Bước 3.1: Đóng gói và gửi gói tin theo chuẩn XML đã thống nhất tại Bước 1 tới Hệ thống KCDTC, theo phương thức đã thống nhất tại Bước 2. Trường hợp dữ liệu truyền nhận có sử dụng chữ ký số thì hệ thống nguồn thực hiện ký số trước khi gửi gói tin.
+
++ Bước 3.2: Gửi thông tin trạng thái gói tin đã được truyền tại Bước 3.1 (thông tin gồm: mã gói tin, nơi gửi, trạng thái) tới Hệ thống KCDTC theo phương thức gọi đến web service của Hệ thống KCDTC để theo dõi được quá trình truyền nhận gói tin trên trang Quản trị truyền tin
+
+- Bước 4: Hệ thống KCDTC thực hiện cấu hình truyền nhận (định tuyến dữ liệu) theo danh sách loại dữ liệu truyền nhận đã thống nhất tại Bước 1.
+
+- Bước 5: Hệ thống đích thực hiện:
+
++ Bước 5.1: Trường hợp gói tin không có ký số, hệ thống đích nhận gói tin XML do Hệ thống KCDTC gửi tới. Trong trường hợp gói tin có sử dụng chữ ký số, hệ thống đích thực hiện xác thực ký số trước khi nhận gói tin XML.
+
++ Bước 5.2: Gửi thông tin trạng thái đã nhận được gói tin từ Hệ thống KCDTC tại Bước 5.1. (thông tin gồm: mã gói tin, nơi nhận, trạng thái) tới Hệ thống KCDTC theo phương thức gọi đến web service của Hệ thống KCDTC.
+
+- Bước 6: Thực hiện kiểm tra việc truyền nhận dữ liệu giữa các hệ thống nguồn, đích và Hệ thống KCDTC.
+
+Điều 10. Quy định về xử lý sự cố, vướng mắc
+
+1. Đầu mối xử lý
+
+a) Cục THTK là đầu mối tiếp nhận thông tin về các sự cố, vướng mắc của các đơn vị trong cơ quan Bộ Tài chính, các sở Tài chính, các Phòng Tài chính - Kế hoạch; phối hợp xử lý sự cố, vướng mắc trong quá trình truyền nhận giữa Hệ thống KCDTC với các Tổng cục.
+
+b) Các Tổng cục là đầu mối xử lý sự cố, vướng mắc cho các đơn vị thuộc hệ thống của mình.
+
+2. Cách thức gửi yêu cầu
+
+a) Tổng cục Thuế, Tổng cục Hải quan, Kho bạc Nhà nước, Cục THTK khi gặp sự cố, vướng mắc liên quan đến cơ quan nào thì sẽ gửi yêu cầu đến cơ quan đó để giải quyết vướng mắc.
+
+b) Phương thức gửi yêu cầu xử lý sự cố, vướng mắc có thể qua thư điện tử hoặc điện thoại. Đối với kệ thống KCDTC, đầu mối tiếp nhận yêu cầu như sau:
+
+- Tại Tổng cục Thuế: nhomhotrotms@gdt.com.vn (Điện thoại 02437689679 máy lẻ 2086).
+
+- Tại Kho bạc Nhà nước: hotrocntt@vst.gov.vn (Điện thoại 02462764300 máy lẻ 88328, 88326, 88367, 88327).
+
+- Tại Tổng cục Hải quan: bophanhotrotchq@customs.gov.vn (Điện thoại 19009299 - nhánh 2).
+
+- Tại Cục THTK: tttdtw-btc@mof.gov.vn (Điện thoại 024.22202888).
+
+c) Đơn vị phát hiện sự cố hoặc có vướng mắc thực hiện gửi yêu cầu ngay khi có vướng mắc, sự cố phát sinh.
+
+3. Cách thức phối hợp
+
+a) Cục THTK, Tổng cục Thuế, Tổng cục Hải quan, Kho bạc Nhà nước khi nhận được yêu cầu xử lý sự cố, vướng mắc thì muộn nhất sau 2 tiếng phải cử đầu mối để cùng phối hợp phân tích, xử lý, khắc phục sự cố.
+
+b) Sự cố, vướng mắc sau khi được khắc phục thì cơ quan giải quyết sự cố thông báo ngay lại kết quả cho các cơ quan liên quan được biết bằng hình thức gửi email hoặc điện thoại.
+
+Điều 11. Phương thức xử lý, khắc phục một số vướng mắc thường gặp
+
+1. Vướng mắc truyền nhận bảng kê chứng từ
+
+a) Trường hợp cơ quan thu (Thuế, Hải quan, Tài chính) không nhận được bảng kê chứng từ điện tử do cơ quan Kho bạc gửi theo định kỳ hoặc không xác thực được chữ ký số nhân danh của cơ quan Kho bạc, cơ quan thu thực hiện kiểm tra hệ thống của cơ quan mình sau đó thực hiện:
+
+a1) Trường hợp 1: Nếu hệ thống trao đổi thông tin tại cơ quan mình không gặp sự cố thì thực hiện các bước như sau:
+
+- Tra cứu trên website quản trị truyền tin của Bộ Tài chính (tại địa chỉ https://quantritruyentin.btc) để xác định nguyên nhân và xử lý như sau:
+
++ Trường hợp không tìm thấy bảng kê điện tử trên website quản trị truyền tin, cơ quan thu liên hệ với cơ quan Kho bạc đồng cấp để xử lý (nếu không xử lý được, Kho bạc cấp dưới cần liên hệ với Kho bạc cấp trên để xử lý).
+
++ Trường hợp tìm thấy bảng kê điện tử trên website quản trị truyền tin, nhưng tại cơ quan thu cấp dưới không nhìn thấy dữ liệu tại ứng dụng tác nghiệp, cơ quan thu cấp dưới liên hệ với cơ quan thu cấp trên để xử lý. Trong trường hợp dữ liệu đang tồn tại Hệ thống KCDTC, đầu mối các cơ quan thu sẽ liên hệ với đội hỗ trợ Hệ thống KCDTC để xử lý.
+
++ Trường hợp không xác thực được chữ ký số nhân danh của cơ quan Kho bạc, cơ quan thu liên hệ với cơ quan thu cấp trên để xử lý (trường hợp cần thiết thì cán bộ cấp Tổng cục liên hệ với đội hỗ trợ Hệ thống KCDTC để xử lý).
+
+- Trường hợp phối hợp ngang cấp tương ứng không xử lý thành công, các đơn vị có trách nhiệm báo lên cơ quan cấp trên tương ứng để phối hợp xử lý.
+
+a2) Trường hợp 2: Nếu hệ thống trao đổi thông tin tại cơ quan mình gặp sự cố thì cơ quan thu tự xử lý, trường hợp cần thiết liên hệ với đội hỗ trợ Hệ thống KCDTC để xử lý.
+
+b) Trường hợp cơ quan thu (Thuế, Hải quan, Tài chính) đã nhận được bảng kê chứng từ điện tử do cơ quan Kho bạc gửi theo định kỳ nhưng dữ liệu truyền về không đủ, cơ quan thu liên hệ với cơ quan Kho bạc để kiểm tra gói tin mà cơ quan Kho bạc đã truyền và thực hiện xử lý như sau:
+
+b1) Trường hợp 1: Nếu gói tin cơ quan Kho bạc truyền về cơ quan thu không đủ, cán bộ tổ vận hành hệ thống trao đổi thông tin gửi thư điện tử thống nhất với Kho bạc Nhà nước để Kho bạc Nhà nước thực hiện hủy bảng kê điện tử đã truyền trên hệ thống Kho bạc và cơ quan thu thực hiện hủy bảng kê điện tử đã nhận trên hệ thống của đơn vị mình. Tiếp đó cán bộ đầu mối Kho bạc nhà nước hỗ trợ phối hợp tiến hành gửi lại bảng kê đầy đủ cho cơ quan thu.
+
+b2) Trường hợp 2: Nếu gói tin cơ quan Kho bạc truyền về có đầy đủ dữ liệu nhưng về đến các cơ quan thu bị thiếu dữ liệu thì cơ quan thu tiến hành kiểm tra hệ thống tại cơ quan mình, nếu vẫn không tìm ra nguyên nhân thì phối hợp với đội hỗ trợ Hệ thống KCDTC để tiến hành khắc phục.
+
+2. Vướng mắc truyền nhận sổ thuế, danh bạ NNT
+
+a) Trường hợp cơ quan Tài chính không nhận được sổ thuế, danh bạ NNT trên ứng dụng Trao đổi thông tin thì cơ quan Tài chính tiến hành thực hiện:
+
+- Tra cứu trên website quản trị truyền tin của Bộ Tài chính (tại địa chỉ https://quantritruyentin.btc) để xác định nguyên nhân và xử lý như sau:
+
++ Trường hợp không tìm thấy sổ thuế, danh bạ NNT trên website quản trị truyền tin, cơ quan Tài chính liên hệ với cơ quan Thuế đồng cấp để xử lý. Trường hợp phối hợp ngang cấp tương ứng không xử lý thành công, các đơn vị có trách nhiệm báo lên cơ quan cấp trên tương ứng để phối hợp thực hiện. (Trường hợp cần thiết cơ quan Tài chính liên hệ với đội hỗ trợ Hệ thống KCDTC để xử lý).
+
++ Trường hợp tìm thấy sổ thuế, danh bạ NNT trên website quản trị truyền tin nhưng không về đến Tài chính thì cơ quan Tài chính liên hệ với đội hỗ trợ Hệ thống KCDTC để xử lý.
+
+b) Trường hợp cơ quan Hải quan/cơ quan Kho bạc không nhận được danh bạ NNT thì cơ quan Hải quan/cơ quan Kho bạc tiến hành thực hiện:
+
+- Tra cứu trên website quản trị truyền tin của Bộ Tài chính (tại địa chỉ https://quantritruyentin.btc) để xác định nguyên nhân và xử lý như sau:
+
++ Trường hợp không tìm thấy danh bạ NNT trên website quản trị truyền tin, cơ quan Hải quan/cơ quan Kho bạc liên hệ với cơ quan Thuế đồng cấp để xử lý. Trường hợp phối hợp ngang cấp tương ứng không xử lý thành công, các đơn vị có trách nhiệm báo lên cơ quan cấp trên tương ứng để phối hợp thực hiện. (Trường hợp cần thiết Tổng cục Hải quan/Kho bạc Nhà nước liên hệ với đội hỗ trợ Hệ thống KCDTC để xử lý).
+
++ Trường hợp tìm thấy danh bạ NNT trên website quản trị truyền tin nhưng không về đến cơ quan Hải quan/cơ quan Kho bạc thì cơ quan Hải quan/cơ quan Kho bạc liên hệ với Tổng cục Hải quan/Kho bạc Nhà nước để được hỗ trợ. Trong trường hợp dữ liệu đang tồn trên Hệ thống KCDTC thì đầu mối Hải quan/đầu mối Kho bạc sẽ liên hệ với đội hỗ trợ Hệ thống KCDTC để xử lý.
+
+3. Vướng mắc truyền nhận tờ khai hải quan
+
+Trường hợp các đơn vị không nhận được tờ khai hải quan do cơ quan Hải quan gửi thì các đơn vị tiến hành thực hiện như sau:
+
+- Tra cứu trên website quản trị truyền tin của Bộ Tài chính (tại địa chỉ https://quantritruyentin.btc) để xác định nguyên nhân và xử lý như sau:
+
++ Trường hợp không tìm thấy tờ khai hải quan trên website quản trị truyền tin, đơn vị liên hệ với cơ quan Hải quan đồng cấp để xử lý. Trường hợp phối hợp ngang cấp tương ứng không xử lý thành công, các đơn vị có trách nhiệm báo lên cơ quan cấp trên tương ứng đế phối hợp thực hiện. (Trường hợp cần thiết đơn vị liên hệ với đội hỗ trợ Hệ thống KCDTC để xử lý).
+
++ Trường hợp tìm thấy tờ khai hải quan trên website quản trị truyền tin nhưng không về đến đơn vị thì đơn vị liên hệ với cơ quan Hải quan để xử lý. Trong trường hợp dữ liệu đang tồn trên Hệ thống KCDTC thì đầu mối các đơn vị sẽ liên hệ với đội hỗ trợ Hệ thống KCDTC để xử lý.
+
+4. Vướng mắc truyền nhận các loại dữ liệu khác
+
+Đối với các loại dữ liệu khác truyền nhận qua Hệ thống KCDTC, khi có vướng mắc (không truyền hoặc không nhận được gói tin), các đơn vị tiến hành thực hiện như sau:
+
+- Trường hợp hệ thống nguồn không truyền được gói tin, cán bộ quản trị hệ thống nguồn thực hiện kiểm tra:
+
++ Gói tin truyền đi đã được đóng gói theo chuẩn quy định: Trường hợp gói tin đóng gói chưa đúng chuẩn quy định thì đơn vị nguồn thực hiện sửa lại gói tin theo đúng quy định tại Phụ lục 01 của Quy chế.
+
++ Kết nối từ hệ thống nguồn đến Hệ thống KCDTC: Trong trường hợp kết nối chưa thông, cán bộ quản trị kiểm tra tại hệ thống nguồn có lỗi không. Nếu hệ thống nguồn có lỗi thì cán bộ quản trị hệ thống nguồn khắc phục. Nếu hệ thống nguồn không có lỗi, cán bộ quản trị hệ thống nguồn liên hệ với cán bộ quản trị Hệ thống KCDTC để phối hợp xử lý.
+
+- Trường hợp hệ thống đích không nhận được gói tin:
+
++ Cán bộ quản trị hệ thống đích sử dụng tài khoản truy cập ứng dụng Quản trị truyền tin (nếu có) để kiểm tra quá trình truyền nhận dữ liệu: Trường hợp gói tin đang tồn tại Hệ thống KCDTC, cán bộ quản trị hệ thống đích liên hệ với cán bộ quản trị Hệ thống KCDTC để phối hợp xử lý. Trường hợp gói tin đang tồn tại nguồn gửi, cán bộ quản trị hệ thống đích liên hệ với cán bộ quản trị hệ thống nguồn để phối hợp xử lý.
+
++ Cán bộ quản trị hệ thống đích kiểm tra tại hệ thống đích có lỗi không. Nếu hệ thống đích có lỗi thì cán bộ quản trị hệ thống đích khắc phục. Nếu hệ thống đích không có lỗi, cán bộ quản trị hệ thống đích liên hệ với cán bộ quản trị hệ thống nguồn để phối hợp xử lý.
+
+5. Vướng mắc, sự cố tại hệ thống KCDTC
+
+Đối với các vướng mắc, sự cố liên quan tới hệ thống máy chủ, hệ thống mạng, hệ thống phần mềm...., các đơn vị chủ động kiểm tra, khắc phục:
+
+- Vướng mắc, sự cố phát sinh tại Hệ thống KCDTC: Đội hỗ trợ Hệ thống KCDTC chủ trì phối hợp với các đơn vị liên quan xử lý.
+
+- Vướng mắc, sự cố phát sinh tại Tổng cục Thuế, Tổng cục Hải quan, Kho bạc Nhà nước: Các cơ quan tự khắc phục hệ thống của mình, liên hệ với đội hỗ trợ hệ thống để phối hợp xử lý nếu cần thiết.
+
+Điều 12. Dữ liệu Hệ thống KCDTC truyền cho KHONS
+
+1. Hệ thống KCDTC truyền cho KHONS thông tin chung và thông tin chi tiết chứng từ đã được hạch toán, thông tin số thu nộp thuế, danh bạ NNT.
+
+2. Phương thức truyền nhận: Hệ thống KCDTC bóc tách gói tin và lưu trữ vào cơ sở dữ liệu của Hệ thống KCDTC, KHONS kết nối với Hệ thống KCDTC thông qua DBlink để lấy dữ liệu về.
+
+- Tần suất nhận dữ liệu: 01 lần/ngày.
+
+- Đồng bộ dữ liệu theo thông tin ngày bóc tách gói tin = sysdate -1.
+
+Chương III
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 13. Trách nhiệm của Cục THTK
+
+1. Quản lý, vận hành hạ tầng kỹ thuật công nghệ thông tin, đảm bảo Hệ thống KCDTC hoạt động thông suốt, ổn định.
+
+2. Phối hợp với Tổng cục Thuế, Tổng cục Hải quan, Kho bạc Nhà nước khắc phục lỗi khi các gói tin không truyền nhận được từ Tổng cục Thuế, Tổng cục Hải quan, Kho bạc Nhà nước đến Hệ thống KCDTC và ngược lại từ Hệ thống KCDTC về các Tổng cục.
+
+3. Bảo đảm an toàn cho Hệ thống KCDTC theo quy định của Luật An toàn thông tin mạng và các quy định về an toàn thông tin của Bộ Tài chính.
+
+4. Quản lý tài khoản sử dụng hệ thống theo quy định tại Điều 5 của Quy chế này. Thực hiện tạo lập, phân quyền cho người sử dụng theo đúng trách nhiệm của từng người.
+
+5. Tiếp nhận các yêu cầu từ cơ quan Tài chính, thực hiện hỗ trợ người sử dụng chương trình về kỹ thuật CNTT và nghiệp vụ.
+
+6. Giám sát để đảm bảo toàn vẹn gói tin qua Hệ thống KCDTC.
+
+7. Thông báo ngay cho các cơ quan liên quan tình trạng Hệ thống KCDTC khi xảy ra sự cố, đồng thời trong trường hợp sự cố nghiêm trọng tại Hệ thống KCDTC chưa khắc phục được ngay thì Cục THTK sẽ thông báo khoảng thời gian cần xử lý cho Tổng cục Thuế, Tổng cục Hải quan, Kho bạc Nhà nước nắm được để các đơn vị Tổng cục chủ động hướng dẫn các đơn vị trong hệ thống.
+
+8. Định kỳ sao lưu dữ liệu đảm bảo khả năng khôi phục lại dữ liệu khi xảy ra sự cố.
+
+Điều 14. Trách nhiệm của các đơn vị trong việc truyền nhận dữ liệu qua Hệ thống KCDTC
+
+1. Trách nhiệm của các Tổng cục và các đơn vị thuộc, trực thuộc Tổng cục
+
+a) Đảm bảo nội dung dữ liệu truyền nhận qua Hệ thống KCDTC đầy đủ, kịp thời theo Quyết định số 1223/QĐ-BTC ngày 27/07/2018 của Bộ trưởng Bộ Tài chính.
+
+b) Trong quá trình quản trị vận hành hệ thống trao đổi thông tin tại cơ quan mình, nếu phát hiện ra sự cố vướng mắc liên quan đến cơ quan khác thì đơn vị phải có trách nhiệm báo cho các cơ quan liên quan để cùng khắc phục sự cố.
+
+c) Tham gia phối hợp với các cơ quan liên quan khi có sự cố cần khắc phục.
+
+d) Quản lý đảm bảo an ninh, an toàn đối với tài khoản truy nhập vào các phần mềm được cấp.
+
+đ) Khi Tổng cục Thuế, Tổng cục Hải quan, Kho bạc nhà nước và Cục THTK thay đổi máy chủ truyền nhận dữ liệu, thay đổi ứng dụng, thay đổi cơ chế chính sách hay bất cứ thay đổi gì ảnh hưởng đến việc trao đổi thông tin qua Hệ thống KCDTC giữa các cơ quan thì các cơ quan: Tổng cục Thuế, Tổng cục Hải quan, Kho bạc Nhà nước, Cục THTK trao đổi, thống nhất và thông báo bằng văn bản cho các đơn vị liên quan trước khi thực hiện.
+
+e) Các Tổng cục tra cứu dữ liệu truyền nhận qua Hệ thống KCDTC trên ứng dụng Quản trị truyền tin và qua thư điện tử nhận được hàng ngày theo địa chỉ các đơn vị đã cung cấp tại Điều 10 của quy chế này để phục vụ đối soát dữ liệu.
+
+f) Các Tổng cục có trách nhiệm phổ biến quy chế này đến các đơn vị thuộc, trực thuộc Tổng cục.
+
+2. Trách nhiệm của cơ quan Tài chính
+
+a) Khai thác dữ liệu theo đúng quy định tại Quyết định số 1223/QĐ-BTC ngày 27/7/2018 của Bộ trưởng Bộ Tài chính.
+
+b) Khai thác thông tin, báo cáo theo phân quyền trên hệ thống.
+
+c) Quản lý đảm bảo an ninh, an toàn đối với tài khoản truy nhập vào các phần mềm được cấp.
+
+d) Phản ánh kịp thời những vấn đề phát sinh trong quá trình sử dụng phần mềm cho các đơn vị có liên quan.
+
+đ) Sở Tài chính có trách nhiệm phổ biến quy chế này, hướng dẫn và hỗ trợ cho người sử dụng thuộc các phòng ban của Sở và các Phòng Tài chính - kế hoạch các quận, huyện, thị xã, thành phố trực thuộc.
+
+Điều 15. Tổ chức thực hiện
+
+Việc quản lý, vận hành và khai thác Hệ thống KCDTC phải tuân thủ các quy định tại Quy chế này và các quy định về an toàn thông tin hiện hành của Bộ Tài chính.
+
+Trong quá trình thực hiện nếu phát sinh vướng mắc, các cơ quan, tổ chức, đơn vị phản ánh kịp thời về Bộ tài chính (Cục THTK) để phối hợp xử lý./.
+
+PHỤ LỤC 01:
+
+CHUẨN KẾT NỐI, TRAO ĐỔI DỮ LIỆU (Ban hành kèm theo Quyết định số 130/QĐ-BTC ngày 03/02/2020 của Bộ trưởng Bộ Tài chính)
+
+1. Chuẩn kết nối, chuẩn ký tự
+
+- Giao thức truyền tin: SOAP, Message Queue.
+
+- Công nghệ truyền tin: Web Service, IBM App Connect Enterprise
+
+- Giao thức ứng dụng: HTTPS
+
+- Chuẩn Code CharSet ID (CCSID) và Encoding: CCSID =1208 và encoding 546 (UTF-8).
+
+- Các kiểu dữ liệu cơ sở (như String, Integer, Date...) được hiểu như khuyến nghị 22 của tổ chức W3. Quy luật chuẩn ký tự được sử dụng theo cách sau: Các tên tiếng Việt được viết liền không dấu, viết hoa; Nếu tên quá dài được viết tắt.
+
+- Các ký tự đặc biệt thuộc danh sách dưới là không hợp lệ: !, @, #, $, %, ^, *, `, ~, ”., |, { , }, \, ?, /, <, >.
+
+2. Chuẩn trao đổi dữ liệu
+
+Thông điệp trao đổi thông tin có khuôn dạng XML bao gồm các thành phần:
+
+- Header: Chứa các thông tin định tuyến truyền tin.
+
+- Body: Chứa dữ liệu mà các ứng dụng trao đổi với nhau. Nội dung phần body của gói tin sẽ do ứng dụng nguồn gửi gói tin quy định sau khi đã thống nhất nghiệp vụ.
+
+- Signature: Chứa thông tin chữ ký điện tử. Các đơn vị sử dụng chữ ký số trong truyền nhận thông tin thu nộp, hoàn trả ngân sách điện tử cần đảm bảo phần signature của gói tin nằm trong thẻ <DATA> để Hệ thống KCDTC có thể đọc được phần header và xác định được nguồn nhận gói tin để chuyển tiếp.
+
+2.1. Header của gói tin
+
+2.1.1. Chi tiết Header của gói tin
+
+| Tên trường     | Mô tả                                                                                                                                                                                                                         | Kiểu   | Thay đổi | Định dạng             | Độ dài | Bắt buộc | Giá trị mặc định | Ghi chú                                                                                                            |
+
+|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|----------|-----------------------|--------|----------|------------------|--------------------------------------------------------------------------------------------------------------------|
+
+| <Header>       |                                                                                                                                                                                                                               |        |          |                       |        |          |                  |                                                                                                                    |
+
+| Version        | Tên phiên bản XML truyền nhận dữ liệu                                                                                                                                                                                         | String |          |                       | 250    | X        | 1.0              |                                                                                                                    |
+
+| Sender_Code    | Mã nơi gửi, giá trị thay đổi qua các nút truyền dữ liệu.                                                                                                                                                                      | String | X        |                       | 50     | X        |                  |                                                                                                                    |
+
+| Sender_Name    | Tên nơi gửi, giá trị thay đổi qua các nút truyền dữ liệu.                                                                                                                                                                     | String | X        |                       | 250    | X        |                  |                                                                                                                    |
+
+| Receiver_Code  | Mã nơi nhận, giá trị thay đổi qua các nút truyền dữ liệu.                                                                                                                                                                     | String | X        |                       | 50     | X        |                  |                                                                                                                    |
+
+| Receiver_Name  | Tên nơi nhận, giá trị thay đổi qua các nút truyền dữ liệu.                                                                                                                                                                    | String | X        |                       | 250    | X        |                  |                                                                                                                    |
+
+| Tran_Code      | Mã loại dữ liệu trao đổi                                                                                                                                                                                                      | String |          |                       | 10     | X        |                  |                                                                                                                    |
+
+| Tran_Name      | Tên loại dữ liệu trao đổi                                                                                                                                                                                                     | String |          |                       | 150    | X        |                  |                                                                                                                    |
+
+| Msg_ID         | Mã gói tin. Mã gói tin sẽ thay đổi qua các nút truyền dữ liệu.                                                                                                                                                                | String | X        |                       | 50     | X        |                  |                                                                                                                    |
+
+| Msg_RefID      | Mã gói tham chiếu. Đây là mã gói được sinh ra tại ứng dụng gốc qua các nút truyền nhận mã không thay đổi                                                                                                                      | String |          |                       | 50     | X        |                  |                                                                                                                    |
+
+| Send_Date      | Ngày gửi gói tin, giá trị Send Date thay đổi qua các nút truyền dữ liệu.                                                                                                                                                      | String | X        | DD/MM/YYYY HH24:MI:SS | 19     | X        |                  |                                                                                                                    |
+
+| Original_Code  | Mã gốc nơi gửi dữ liệu                                                                                                                                                                                                        | String |          |                       | 50     | X        |                  |                                                                                                                    |
+
+| Original_name  | Tên gốc nơi gửi dữ liệu                                                                                                                                                                                                       | String |          |                       | 250    | X        |                  |                                                                                                                    |
+
+| Export_Date    | Ngày đóng gói gói tin tại ứng dụng nguồn, khi gửi qua các nút truyền dữ liệu thì giá trị Export_Date không thay đổi                                                                                                           | String |          | DD/MM/YYYY HH24:MI:SS | 19     | X        |                  |                                                                                                                    |
+
+| Notes          | Trường hợp này phục vụ rẽ nhánh dữ liệu trong trường hợp cùng một mã loại dữ liệu được gửi cho nhiều nơi khác nhau nhưng thông tin chi tiết của gói tin không giống nhau. Trục sẽ sử dụng thông tin này để gửi đến đúng đích. | String |          |                       | 5      |          |                  |                                                                                                                    |
+
+| Tran_Num       | Tổng số dòng trong phần body                                                                                                                                                                                                  | String |          |                       | 5      | X        |                  |                                                                                                                    |
+
+| Path           | Đường dẫn của gói tin. Mỗi gói tin đi qua nút chuyển dữ liệu, nút đó điền thêm thông tin vào đường dẫn của gói tin này.                                                                                                       | String | X        |                       | 50     | X        |                  |                                                                                                                    |
+
+| NumMsg_InGroup | Số lượng của gói tin tách ra, thành bao nhiêu gói tin nhỏ.                                                                                                                                                                    | String |          |                       | 3      | X        |                  | Khi một gói tin có số lượng dòng lớn hơn 5000 phải tách thành các gói tin nhỏ hơn (gói lớn nhất có số dòng = 5000) |
+
+| SPARE1         | Trường thông tin dự phòng. Hiện tại, dữ liệu xuất phát từ DMDC sử dụng để đưa thông tin từ user webservice được hệ thống DMDC cấp cho ứng dụng để trao đổi dữ liệu                                                            | String |          |                       | 10     |          |                  | Hệ thống DMDC cung cấp qua văn bản đến các ứng dụng                                                                |
+
+| SPARE2         | Trường thông tin dự phòng. Hiện tại, dữ liệu xuất phát từ DMDC sử dụng để đưa thông tin mật khẩu webservice được hệ thống DMDC cấp cho ứng dụng để trao đổi dữ liệu                                                           | String |          |                       | 10     |          |                  | Hệ thống DMDC cung cấp qua văn bản đến các ứng dụng                                                                |
+
+| SPARE3         | Trường thông tin dự phòng. Hiện tại dữ liệu xuất phát từ DMDC sử dụng để đưa thông tin giá trị quy định DMDC nhận dữ liệu hay cung cấp dữ liệu.                                                                               | String |          |                       | 10     |          |                  | 0: PUT (đẩy dữ liệu) 1: GET (Nhận dữ liệu)                                                                         |
+
+| Finish_Code    | Dùng để phân biệt gói phản hồi đối soát dữ liệu                                                                                                                                                                               | String |          |                       |        |          |                  |                                                                                                                    |
+
+| <Header>       |                                                                                                                                                                                                                               |        |          |                       |        |          |                  |                                                                                                                    |
+
+Tên trường
+
+Mô tả
+
+Kiểu
+
+Thay đổi
+
+Định dạng
+
+Độ dài
+
+Bắt buộc
+
+Giá trị mặc định
+
+Ghi chú
+
+<Header>
+
+Version
+
+Tên phiên bản XML truyền nhận dữ liệu
+
+String
+
+250
+
+X
+
+1.0
+
+Sender_Code
+
+Mã nơi gửi, giá trị thay đổi qua các nút truyền dữ liệu.
+
+String
+
+X
+
+50
+
+X
+
+Sender_Name
+
+Tên nơi gửi, giá trị thay đổi qua các nút truyền dữ liệu.
+
+String
+
+X
+
+250
+
+X
+
+Receiver_Code
+
+Mã nơi nhận, giá trị thay đổi qua các nút truyền dữ liệu.
+
+String
+
+X
+
+50
+
+X
+
+Receiver_Name
+
+Tên nơi nhận, giá trị thay đổi qua các nút truyền dữ liệu.
+
+String
+
+X
+
+250
+
+X
+
+Tran_Code
+
+Mã loại dữ liệu trao đổi
+
+String
+
+10
+
+X
+
+Tran_Name
+
+Tên loại dữ liệu trao đổi
+
+String
+
+150
+
+X
+
+Msg_ID
+
+Mã gói tin. Mã gói tin sẽ thay đổi qua các nút truyền dữ liệu.
+
+String
+
+X
+
+50
+
+X
+
+Msg_RefID
+
+Mã gói tham chiếu. Đây là mã gói được sinh ra tại ứng dụng gốc qua các nút truyền nhận mã không thay đổi
+
+String
+
+50
+
+X
+
+Send_Date
+
+Ngày gửi gói tin, giá trị Send Date thay đổi qua các nút truyền dữ liệu.
+
+String
+
+X
+
+DD/MM/YYYY
+
+HH24:MI:SS
+
+19
+
+X
+
+Original_Code
+
+Mã gốc nơi gửi dữ liệu
+
+String
+
+50
+
+X
+
+Original_name
+
+Tên gốc nơi gửi dữ liệu
+
+String
+
+250
+
+X
+
+Export_Date
+
+Ngày đóng gói gói tin tại ứng dụng nguồn, khi gửi qua các nút truyền dữ liệu thì giá trị Export_Date không thay đổi
+
+String
+
+DD/MM/YYYY
+
+HH24:MI:SS
+
+19
+
+X
+
+Notes
+
+Trường hợp này phục vụ rẽ nhánh dữ liệu trong trường hợp cùng một mã loại dữ liệu được gửi cho nhiều nơi khác nhau nhưng thông tin chi tiết của gói tin không giống nhau. Trục sẽ sử dụng thông tin này để gửi đến đúng đích.
+
+String
+
+5
+
+Tran_Num
+
+Tổng số dòng trong phần body
+
+String
+
+5
+
+X
+
+Path
+
+Đường dẫn của gói tin. Mỗi gói tin đi qua nút chuyển dữ liệu, nút đó điền thêm thông tin vào đường dẫn của gói tin này.
+
+String
+
+X
+
+50
+
+X
+
+NumMsg_InGroup
+
+Số lượng của gói tin tách ra, thành bao nhiêu gói tin nhỏ.
+
+String
+
+3
+
+X
+
+Khi một gói tin có số lượng dòng lớn hơn 5000 phải tách thành các gói tin nhỏ hơn (gói lớn nhất có số dòng = 5000)
+
+SPARE1
+
+Trường thông tin dự phòng. Hiện tại, dữ liệu xuất phát từ DMDC sử dụng để đưa thông tin từ user webservice được hệ thống DMDC cấp cho ứng dụng để trao đổi dữ liệu
+
+String
+
+10
+
+Hệ thống DMDC cung cấp qua văn bản đến các ứng dụng
+
+SPARE2
+
+Trường thông tin dự phòng. Hiện tại, dữ liệu xuất phát từ DMDC sử dụng để đưa thông tin mật khẩu webservice được hệ thống DMDC cấp cho ứng dụng để trao đổi dữ liệu
+
+String
+
+10
+
+Hệ thống DMDC cung cấp qua văn bản đến các ứng dụng
+
+SPARE3
+
+Trường thông tin dự phòng. Hiện tại dữ liệu xuất phát từ DMDC sử dụng để đưa thông tin giá trị quy định DMDC nhận dữ liệu hay cung cấp dữ liệu.
+
+String
+
+10
+
+0: PUT (đẩy dữ liệu)
+
+1: GET (Nhận dữ liệu)
+
+Finish_Code
+
+Dùng để phân biệt gói phản hồi đối soát dữ liệu
+
+String
+
+<Header>
+
+2.1.2 Danh mục Tran_code và Tran_name
+
+| STT     | Tran_code | Tran_name                       | Nơi gửi   | Nơi nhận |          |      |           |   |   |   |
+
+|---------|-----------|---------------------------------|-----------|----------|----------|------|-----------|---|---|---|
+
+| Kho bạc | Hải quan  | Thuế                            | Tài chính | Kho bạc  | Hải quan | Thuế | Tài chính |   |   |   |
+
+| 1.      | 61        | Bảng kê chứng từ thu ngân sách  | X         |          |          |      |           | X | X | X |
+
+| 2.      | 09        | Danh bạ NNT                     |           |          | X        |      |           | X |   | X |
+
+| 3.      | 00011     | Danh mục tỷ lệ phân chia        | X         |          |          |      |           |   |   | X |
+
+| 4.      | 21        | Dữ liệu sổ thuế                 |           |          | X        |      |           |   |   | X |
+
+| 5.      | 25        | Tờ khai Hải quan                |           | X        |          |      | X         |   |   | X |
+
+| 6.      | 03012     | Điện tra soát                   | X         |          |          | X    | X         |   |   | X |
+
+| 7.      | 76        | Phản hồi bảng kê                |           | X        | X        | X    | X         |   |   |   |
+
+| 8.      | 0001      | Danh mục chương                 |           |          |          | X    | X         | X | X | X |
+
+| 9.      | 0002      | Danh mục ngành kinh tế          |           |          |          | X    | X         | X | X | X |
+
+| 10.     | 0003      | Danh mục nội dung kinh tế       |           |          |          | X    | X         | X | X | X |
+
+| 11.     | 0049      | Danh mục địa bàn hành chính     |           |          |          | X    | X         | X | X | X |
+
+| 12.     | 00008     | Danh mục Ngân hàng ủy nhiệm thu | X         |          |          |      |           | X | X | X |
+
+| 13.     | 55        | Đối soát gói tin                |           |          |          | X    | X         | X | X |   |
+
+| 14.     | 56        | Phản hồi kết quả đối soát       | X         | X        | X        |      |           |   |   | X |
+
+STT
+
+Tran_code
+
+Tran_name
+
+Nơi gửi
+
+Nơi nhận
+
+Kho bạc
+
+Hải quan
+
+Thuế
+
+Tài chính
+
+Kho bạc
+
+Hải quan
+
+Thuế
+
+Tài chính
+
+1.
+
+61
+
+Bảng kê chứng từ thu ngân sách
+
+X
+
+X
+
+X
+
+X
+
+2.
+
+09
+
+Danh bạ NNT
+
+X
+
+X
+
+X
+
+3.
+
+00011
+
+Danh mục tỷ lệ phân chia
+
+X
+
+X
+
+4.
+
+21
+
+Dữ liệu sổ thuế
+
+X
+
+X
+
+5.
+
+25
+
+Tờ khai Hải quan
+
+X
+
+X
+
+X
+
+6.
+
+03012
+
+Điện tra soát
+
+X
+
+X
+
+X
+
+X
+
+7.
+
+76
+
+Phản hồi bảng kê
+
+X
+
+X
+
+X
+
+X
+
+8.
+
+0001
+
+Danh mục chương
+
+X
+
+X
+
+X
+
+X
+
+X
+
+9.
+
+0002
+
+Danh mục ngành kinh tế
+
+X
+
+X
+
+X
+
+X
+
+X
+
+10.
+
+0003
+
+Danh mục nội dung kinh tế
+
+X
+
+X
+
+X
+
+X
+
+X
+
+11.
+
+0049
+
+Danh mục địa bàn hành chính
+
+X
+
+X
+
+X
+
+X
+
+X
+
+12.
+
+00008
+
+Danh mục Ngân hàng ủy nhiệm thu
+
+X
+
+X
+
+X
+
+X
+
+13.
+
+55
+
+Đối soát gói tin
+
+X
+
+X
+
+X
+
+X
+
+14.
+
+56
+
+Phản hồi kết quả đối soát
+
+X
+
+X
+
+X
+
+X
+
+PHỤ LỤC 02:
+
+TÊN VIẾT TẮT CÁC ĐƠN VỊ THAM GIA HỆ THỐNG KCDTC (Ban hành kèm theo Quyết định số 130/QĐ-BTC ngày 03/02/2020 của Bộ trưởng Bộ Tài chính)
+
+I. Danh sách tên viết tắt các đơn vị thuộc Bộ Tài chính
+
+| STT | Đơn vị                            | Viết tắt |
+
+|-----|-----------------------------------|----------|
+
+| 1   | Cục Tin học và Thống kê tài chính | THTK     |
+
+| 2   | Tổng cục Thuế                     | TCT      |
+
+| 3   | Tổng cục Hải quan                 | TCHQ     |
+
+| 4   | Kho bạc Nhà nước                  | KBNN     |
+
+STT
+
+Đơn vị
+
+Viết tắt
+
+1
+
+Cục Tin học và Thống kê tài chính
+
+THTK
+
+2
+
+Tổng cục Thuế
+
+TCT
+
+3
+
+Tổng cục Hải quan
+
+TCHQ
+
+4
+
+Kho bạc Nhà nước
+
+KBNN
+
+II. Danh sách tên viết tắt các Sở Tài chính
+
+| STT | Địa phương      | Viết tắt | STT | Địa phương            | Viết tắt |
+
+|-----|-----------------|----------|-----|-----------------------|----------|
+
+| 1   | TP. Hà Nội      | HAN      | 32  | Tỉnh Thừa Thiên Huế   | HUE      |
+
+| 2   | TP. Hải Phòng   | HPH      | 33  | Tỉnh Bình Thuận       | BTH      |
+
+| 3   | Tp. Hồ Chí Minh | HCM      | 34  | Tỉnh Bà Rịa- Vũng Tàu | BRV      |
+
+| 4   | TP. Đà Nẵng     | DNA      | 35  | Tỉnh Đồng Nai         | DON      |
+
+| 36  | Tỉnh Bình Dương | BDU      |     |                       |          |
+
+| 5   | Tỉnh Nam Định   | NDI      | 37  | Tỉnh Bình Phước       | BPH      |
+
+| 6   | Tỉnh Hà Nam     | HNA      | 38  | Tỉnh Tây Ninh         | TNI      |
+
+| 7   | Tỉnh Hải Dương  | HDU      | 39  | Tỉnh Quảng Nam        | QNA      |
+
+| 8   | Tỉnh Hưng Yên   | HYE      | 40  | Tỉnh Bình Định        | BDU      |
+
+| 9   | Tỉnh Thái Bình  | TBI      | 41  | Tỉnh Khánh Hòa        | KHH      |
+
+| 10  | Tỉnh Long An    | LAN      | 42  | Tỉnh Quảng Ngãi       | QNG      |
+
+| 11  | Tỉnh Tiền Giang | TGI      | 43  | Tỉnh Phú Yên          | PHY      |
+
+| 12  | Tỉnh Bến Tre    | BTR      | 44  | Tỉnh Ninh Thuận       | NTH      |
+
+| 13  | Tỉnh Đồng Tháp  | DTH      | 45  | Tỉnh Thái Nguyên      | TNG      |
+
+| 14  | Tỉnh Vĩnh Long  | VLO      | 46  | Tỉnh Bắc Cạn          | BCA      |
+
+| 15  | Tỉnh An Giang   | AGI      | 47  | Tỉnh Cao Bằng         | CBA      |
+
+| 16  | Tỉnh Kiên Giang | KGI      | 48  | Tỉnh Lạng Sơn         | LSO      |
+
+| 17  | Tỉnh Cần Thơ    | CTH      | 49  | Tỉnh Tuyên Quang      | TQU      |
+
+| 18  | Tỉnh Bạc Liêu   | BLI      | 50  | Tỉnh Hà Giang         | HGI      |
+
+| 19  | Tỉnh Cà Mau     | CMA      | 51  | Tỉnh Yên Bái          | YBA      |
+
+| 20  | Tỉnh Trà Vinh   | TVI      | 52  | Tỉnh Lào Cai          | LCA      |
+
+| 21  | Tỉnh Sóc Trăng  | STR      | 53  | Tỉnh Hoà Bình         | HBI      |
+
+| 22  | Tỉnh Bắc Ninh   | BNI      | 54  | Tỉnh Sơn La           | SLA      |
+
+| 23  | Tỉnh Bắc Giang  | BGI      | 55  | Tỉnh Điện Biên        | DBI      |
+
+| 24  | Tỉnh Vĩnh Phúc  | VPH      | 56  | Tỉnh Quảng Ninh       | QNI      |
+
+| 25  | Tỉnh Phú Thọ    | PTH      | 57  | Tỉnh Lâm Đồng         | LDO      |
+
+| 26  | Tỉnh Ninh Bình  | NBI      | 58  | Tỉnh Gia Lai          | GLA      |
+
+| 27  | Tỉnh Thanh Hóa  | THO      | 59  | Tỉnh Đắk Lắk          | DLA      |
+
+| 28  | Tỉnh Nghệ An    | NAN      | 60  | Tỉnh Kon Tum          | KTU      |
+
+| 29  | Tỉnh Hà Tĩnh    | HTI      | 61  | Tỉnh Hậu Giang        | HAG      |
+
+| 30  | Tỉnh Quảng Bình | QBI      | 62  | Tỉnh Đắk Nông         | DNO      |
+
+| 31  | Tỉnh Quảng Trị  | QTR      | 63  | Tỉnh Lai Châu         | LCH      |
+
+STT
+
+Địa phương
+
+Viết tắt
+
+STT
+
+Địa phương
+
+Viết tắt
+
+1
+
+TP. Hà Nội
+
+HAN
+
+32
+
+Tỉnh Thừa Thiên Huế
+
+HUE
+
+2
+
+TP. Hải Phòng
+
+HPH
+
+33
+
+Tỉnh Bình Thuận
+
+BTH
+
+3
+
+Tp. Hồ Chí Minh
+
+HCM
+
+34
+
+Tỉnh Bà Rịa- Vũng Tàu
+
+BRV
+
+4
+
+TP. Đà Nẵng
+
+DNA
+
+35
+
+Tỉnh Đồng Nai
+
+DON
+
+36
+
+Tỉnh Bình Dương
+
+BDU
+
+5
+
+Tỉnh Nam Định
+
+NDI
+
+37
+
+Tỉnh Bình Phước
+
+BPH
+
+6
+
+Tỉnh Hà Nam
+
+HNA
+
+38
+
+Tỉnh Tây Ninh
+
+TNI
+
+7
+
+Tỉnh Hải Dương
+
+HDU
+
+39
+
+Tỉnh Quảng Nam
+
+QNA
+
+8
+
+Tỉnh Hưng Yên
+
+HYE
+
+40
+
+Tỉnh Bình Định
+
+BDU
+
+9
+
+Tỉnh Thái Bình
+
+TBI
+
+41
+
+Tỉnh Khánh Hòa
+
+KHH
+
+10
+
+Tỉnh Long An
+
+LAN
+
+42
+
+Tỉnh Quảng Ngãi
+
+QNG
+
+11
+
+Tỉnh Tiền Giang
+
+TGI
+
+43
+
+Tỉnh Phú Yên
+
+PHY
+
+12
+
+Tỉnh Bến Tre
+
+BTR
+
+44
+
+Tỉnh Ninh Thuận
+
+NTH
+
+13
+
+Tỉnh Đồng Tháp
+
+DTH
+
+45
+
+Tỉnh Thái Nguyên
+
+TNG
+
+14
+
+Tỉnh Vĩnh Long
+
+VLO
+
+46
+
+Tỉnh Bắc Cạn
+
+BCA
+
+15
+
+Tỉnh An Giang
+
+AGI
+
+47
+
+Tỉnh Cao Bằng
+
+CBA
+
+16
+
+Tỉnh Kiên Giang
+
+KGI
+
+48
+
+Tỉnh Lạng Sơn
+
+LSO
+
+17
+
+Tỉnh Cần Thơ
+
+CTH
+
+49
+
+Tỉnh Tuyên Quang
+
+TQU
+
+18
+
+Tỉnh Bạc Liêu
+
+BLI
+
+50
+
+Tỉnh Hà Giang
+
+HGI
+
+19
+
+Tỉnh Cà Mau
+
+CMA
+
+51
+
+Tỉnh Yên Bái
+
+YBA
+
+20
+
+Tỉnh Trà Vinh
+
+TVI
+
+52
+
+Tỉnh Lào Cai
+
+LCA
+
+21
+
+Tỉnh Sóc Trăng
+
+STR
+
+53
+
+Tỉnh Hoà Bình
+
+HBI
+
+22
+
+Tỉnh Bắc Ninh
+
+BNI
+
+54
+
+Tỉnh Sơn La
+
+SLA
+
+23
+
+Tỉnh Bắc Giang
+
+BGI
+
+55
+
+Tỉnh Điện Biên
+
+DBI
+
+24
+
+Tỉnh Vĩnh Phúc
+
+VPH
+
+56
+
+Tỉnh Quảng Ninh
+
+QNI
+
+25
+
+Tỉnh Phú Thọ
+
+PTH
+
+57
+
+Tỉnh Lâm Đồng
+
+LDO
+
+26
+
+Tỉnh Ninh Bình
+
+NBI
+
+58
+
+Tỉnh Gia Lai
+
+GLA
+
+27
+
+Tỉnh Thanh Hóa
+
+THO
+
+59
+
+Tỉnh Đắk Lắk
+
+DLA
+
+28
+
+Tỉnh Nghệ An
+
+NAN
+
+60
+
+Tỉnh Kon Tum
+
+KTU
+
+29
+
+Tỉnh Hà Tĩnh
+
+HTI
+
+61
+
+Tỉnh Hậu Giang
+
+HAG
+
+30
+
+Tỉnh Quảng Bình
+
+QBI
+
+62
+
+Tỉnh Đắk Nông
+
+DNO
+
+31
+
+Tỉnh Quảng Trị
+
+QTR
+
+63
+
+Tỉnh Lai Châu
+
+LCH
+
+PHỤ LỤC 03:
+
+DANH SÁCH LOẠI DỮ LIỆU TRUYỀN NHẬN (Ban hành kèm theo Quyết định số 130/QĐ-BTC ngày 03/02/2020 của Bộ trưởng Bộ Tài chính)
+
+| TT | Mã loại dữ liệu | Tên loại dữ liệu | Nơi gửi | Nơi nhận | Địa chỉ WS hoặc MQ nơi gửi | Địa chỉ WS hoặc MQ nơi nhận | Địa chỉ WS hoặc MQ nhận phản hồi | Ký số (đánh dấu x nếu có | Ghi chú |
+
+|----|-----------------|------------------|---------|----------|----------------------------|-----------------------------|----------------------------------|--------------------------|---------|
+
+| 1  |                 |                  |         |          |                            |                             |                                  |                          |         |
+
+| 2  |                 |                  |         |          |                            |                             |                                  |                          |         |
+
+| 3  |                 |                  |         |          |                            |                             |                                  |                          |         |
+
+| 4  |                 |                  |         |          |                            |                             |                                  |                          |         |
+
+| 5  |                 |                  |         |          |                            |                             |                                  |                          |         |
+
+TT
+
+Mã loại dữ liệu
+
+Tên loại dữ liệu
+
+Nơi gửi
+
+Nơi nhận
+
+Địa chỉ WS hoặc MQ nơi gửi
+
+Địa chỉ WS hoặc MQ nơi nhận
+
+Địa chỉ WS hoặc MQ nhận phản hồi
+
+Ký số (đánh dấu x nếu có
+
+Ghi chú
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Ghi chú: - WS: Web service; MQ: Message Queue.
+
+PHỤ LỤC 04:
+
+PHIẾU ĐĂNG KÝ SỬ DỤNG HỆ THỐNG KẾT NỐI, CHIA SẺ DỮ LIỆU SỐ NGÀNH TÀI CHÍNH (Ban hành kèm theo Quyết định số 130/QĐ-BTC ngày 03/02/2020 của Bộ trưởng Bộ Tài chính)
+
+| ĐƠN VỊ:……. …………….. | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|--------------------|-----------------------------------------------------------------|
+
+|                    | …………………., ngày   tháng   năm                                    |
+
+ĐƠN VỊ:……. ……………..
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+…………………., ngày tháng năm
+
+PHIẾU ĐĂNG KÝ YÊU CẦU VỀ TÀI KHOẢN NGƯỜI SỬ DỤNG HỆ THỐNG KẾT NỐI, CHIA SẺ DỮ LIỆU SỐ NGÀNH TÀI CHÍNH
+
+Kính gửi: Cục Tin học và Thống kê tài chính
+
+Căn cứ Quyết định số /QĐ-BTC ngày / /2020 của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế Quản lý, vận hành và khai thác hệ thống kết nối, chia sẻ dữ liệu số ngành Tài chính (hệ thống KCDTC), ..................(tên đơn vị) đăng ký yêu cầu về tài khoản người sử dụng hệ thống KCDTC, cụ thể như sau:
+
+I. Loại yêu cầu:
+
+| □ Tạo mới tài khoản □ Hủy bỏ tài khoản | □ Thay đổi thông tin tài khoản o Mở khóa tài khoản o Thiết lập lại mật khẩu tài khoản o Khóa tài khoản |
+
+|----------------------------------------|--------------------------------------------------------------------------------------------------------|
+
+□ Tạo mới tài khoản
+
+□ Hủy bỏ tài khoản
+
+□ Thay đổi thông tin tài khoản
+
+o Mở khóa tài khoản
+
+o Thiết lập lại mật khẩu tài khoản
+
+o Khóa tài khoản
+
+II. Thông tin về người sử dụng:
+
+- Họ và tên: ………………………………………………………..(ví dụ: Nguyễn Văn A)
+
+- Chức vụ: ……………………………………………………………………………………..
+
+- Tên Tài khoản: ……………………. (Đối với trường hợp hủy bỏ, thay đổi thông tin tài khoản).
+
+- Số điện thoại cơ quan: ……………………………………………………………………..
+
+- Số điện thoại di động: ………………………………………………………………………
+
+- Địa chỉ email công vụ: ………………………………………………………………………
+
+- Đơn vị đang công tác: (Ghi cụ thể đến tên phòng ban, số phòng):
+
+………………………………………………………………………………………………………
+
+|  | ……………, ngày     tháng    năm THỦ TRƯỞNG CƠ QUAN, TỔ CHỨC, ĐƠN VỊ (Ký tên, đóng dấu) |
+
+|--|-------------------------------------------------------------------------------------|
+
+……………, ngày tháng năm THỦ TRƯỞNG CƠ QUAN, TỔ CHỨC, ĐƠN VỊ (Ký tên, đóng dấu)
+
+Ghi chú:
+
+- Trường hợp tạo mới tài khoản người sử dụng hệ thống KCDTC thì bắt buộc phải nhập tích chọn vào ô “Tạo mới tài khoản” và điền đầy đủ thông tin vào “Phiếu đăng ký yêu cầu về tài khoản người sử dụng Trung tâm trao đổi trung ương”, ngoại trừ thông tin “Tên tài khoản”;
+
+- Trường hợp cần hủy bỏ tài khoản người sử dụng hệ thống KCDTC thì bắt buộc phải nhập thông tin “Tên tài khoản” đồng thời tích chọn ô “Hủy bỏ tài khoản”.
+
+- Trường hợp thay đổi thông tin tài khoản người sử dụng hệ thống KCDTC thì bắt buộc phải nhập thông tin “Tên tài khoản” và chọn ô “Thay đổi thông tin tài khoản”, đồng thời tích chọn cụ thể 1 trong 3 nội dung thay đổi thông tin tài khoản bên dưới (Mở khóa tài khoản; Thiết lập lại mật khẩu tài khoản; Khóa tài khoản).
