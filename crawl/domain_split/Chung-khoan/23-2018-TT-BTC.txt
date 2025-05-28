@@ -1,0 +1,297 @@
+| BỘ TÀI CHÍNH       | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|--------------------|-----------------------------------------------------------------|
+
+| Số: 23/2018/TT-BTC | Hà Nội, ngày 12 tháng 03 năm 2018                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 23/2018/TT-BTC
+
+Hà Nội, ngày 12 tháng 03 năm 2018
+
+THÔNG TƯ
+
+HƯỚNG DẪN KẾ TOÁN CHỨNG QUYỀN CÓ BẢO ĐẢM ĐỐI VỚI CÔNG TY CHỨNG KHOÁN LÀ TỔ CHỨC PHÁT HÀNH
+
+Căn cứ Luật Kế toán số 88/2015/QH13 ngày 20/11/2015;
+
+Căn cứ Luật Chứng khoán số 70/2006/QH11 ngày 26/6/2006;
+
+Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán số 62/2010/QH12 ngày 24/11/2010;
+
+Căn cứ Nghị định số 174/2016/NĐ-CP ngày 30/12/2016 của Chính phủ quy định chi tiết một số điều của Luật Kế toán;
+
+Căn cứ Nghị định số 58/2012/NĐ-CP ngày 20/7/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán;
+
+Căn cứ Nghị định số 60/2015/NĐ-CP ngày 26/6/2015 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 58/2012/NĐ-CP ngày 20/7/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Cục trưởng Cục Quản lý, giám sát kế toán, kiểm toán,
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn kế toán chứng quyền có bảo đảm đối với công ty chứng khoán là tổ chức phát hành.
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Thông tư này hướng dẫn việc ghi sổ kế toán, lập và trình bày Báo cáo tài chính đối với nghiệp vụ kinh tế tài chính phát sinh liên quan đến chứng quyền có bảo đảm. Thông tư này không áp dụng cho việc xác định nghĩa vụ thuế của các công ty chứng khoán đối với ngân sách Nhà nước.
+
+Điều 2. Đối tượng áp dụng
+
+Thông tư này hướng dẫn kế toán chứng quyền có bảo đảm đối với các công ty chứng khoán được phép phát hành chứng quyền có bảo đảm theo quy định của pháp luật.
+
+Chương II
+
+HƯỚNG DẪN NGHIỆP VỤ KẾ TOÁN
+
+Điều 3. Một số tài khoản hạch toán nghiệp vụ kế toán liên quan đến chứng quyền:
+
+1. Tài khoản 329 - Phải trả chứng quyền: Tài khoản này dùng để phản ánh số phải trả chứng quyền hiện có và tình hình biến động của tài khoản phải trả chứng quyền do đánh giá lại chứng quyền theo giá thị trường.
+
+Kết cấu Tài khoản 329 - Phải trả chứng quyền:
+
+Bên Nợ: - Số tiền đã trả chứng quyền;
+
+- Số tiền phải trả chứng quyền giảm.
+
+Bên Có: - Số tiền phải trả chứng quyền;
+
+- Số tiền phải trả chứng quyền tăng.
+
+Số dư Bên Có: Số tiền còn phải trả chứng quyền.
+
+2. Mở tài khoản chi tiết của Tài khoản 112 - Tiền gửi ngân hàng để theo dõi tiền bảo đảm thanh toán tại ngân hàng lưu ký trước khi chào bán chứng quyền, tiền gửi tại tài khoản phong tỏa (tiền bán chứng quyền khi phân phối trên thị trường sơ cấp) và tiền gửi tại tài khoản tự doanh (để thực hiện phòng ngừa rủi ro theo yêu cầu của Sở Giao dịch chứng khoán).
+
+3. Tài khoản 018 - Chứng quyền (mở chi tiết theo từng loại chứng quyền).
+
+Kết cấu Tài khoản 018 - Chứng quyền:
+
+Bên Nợ: Phản ánh số chứng quyền được phép phát hành.
+
+Bên Có: Phản ánh số chứng quyền đang lưu hành.
+
+Số dư Bên Nợ: Phản ánh số chứng quyền được phép phát hành nhưng chưa lưu hành.
+
+Điều 4. Phương pháp kế toán một số giao dịch kinh tế chủ yếu
+
+1. Khi công ty chứng khoán ký quỹ tại Ngân hàng lưu ký để đảm bảo thanh toán cho việc chào bán chứng quyền, kế toán phải theo dõi chi tiết trên Tài khoản 112 - Tiền gửi ngân hàng và phải thuyết minh rõ số tiền ký quỹ để đảm bảo thanh toán.
+
+2. Khi có giấy chứng nhận chào bán chứng quyền của Ủy ban Chứng khoán Nhà nước, kế toán phải theo dõi số chứng quyền được phép phát hành, ghi:
+
+Nợ TK 018 - Chứng quyền.
+
+3. Khi công ty chứng khoán thực hiện phân phối chứng quyền cho nhà đầu tư trên thị trường sơ cấp:
+
+a. Khi bán chứng quyền ra, ghi:
+
+Nợ TK 112 - Tiền gửi ngân hàng (chi tiết tài khoản phong tỏa tại ngân hàng)
+
+Có TK 329 - Phải trả chứng quyền (chi tiết từng loại chứng quyền).
+
+Đồng thời ghi:
+
+Có TK 018 - Chứng quyền.
+
+b. Khi có xác nhận kết quả phân phối của Ủy ban chứng khoán Nhà nước, kế toán ghi giảm tài khoản tiền gửi ngân hàng phong tỏa và ghi tăng tài khoản tiền gửi ngân hàng thông thường.
+
+c. Trường hợp Ủy ban chứng khoán Nhà nước đình chỉ hoặc hủy bỏ đợt chào bán, kế toán ghi:
+
+Nợ TK 329 - Phải trả chứng quyền (chi tiết từng loại chứng quyền)
+
+Có TK 112 - Tiền gửi ngân hàng.
+
+Đồng thời thuyết minh số chứng quyền bị đình chỉ hoặc hủy bỏ.
+
+4. Khi phát sinh chi phí ban đầu liên quan đến phát hành chứng quyền như xin cấp giấy chứng nhận chào bán, thực hiện phân phối chứng quyền trên thị trường sơ cấp, niêm yết, lưu ký chứng quyền, ghi:
+
+Nợ TK 632 - Lỗ và chi phí giao dịch mua các tài sản tài chính (chi tiết phí chào bán chứng quyền)
+
+Có các TK 111, 112.
+
+5. Khi thực hiện giao dịch (mua/bán) chứng quyền để tạo lập thị trường trên sàn:
+
+a. Trường hợp mua lại chứng quyền, ghi:
+
+Nợ TK 329 - Phải trả chứng quyền (Giá trị của chứng quyền đang ghi sổ)
+
+Nợ TK 632- Lỗ và chi phí giao dịch mua các tài sản tài chính, hoạt động tự doanh - chi tiết tài khoản chứng quyền (chênh lệnh lỗ - nếu giá mua cao hơn giá đang ghi trên số)
+
+Có TK 112 (giá mua vào)
+
+Có TK 511- Thu nhập từ các tài sản tài chính ghi nhận thông qua lãi lỗ (chênh lệnh lãi - nếu giá mua lại thấp hơn giá đang ghi sổ).
+
+Đồng thời ghi:
+
+Nợ TK 018 - Chứng quyền.
+
+b. Trường hợp bán chứng quyền, ghi:
+
+Nợ TK 112 - Tiền gửi ngân hàng
+
+Có TK 329 - Phải trả chứng quyền (chi tiết từng loại chứng quyền)
+
+Đồng thời ghi:
+
+Có TK 018 - Chứng quyền.
+
+6. Kế toán cho hoạt động phòng ngừa rủi ro (hedging)
+
+a. Trường hợp công ty chứng khoán đã có sẵn chứng khoán cơ sở đang hạch toán trên Tài khoản 121 - Tài sản tài chính ghi nhận thông qua lãi lỗ, Tài khoản 124 - Tài sản tài chính sẵn sàng để bán AFS. Kế toán mở sổ chi tiết Tài khoản 121, 124 để phản ánh chứng khoán phòng ngừa rủi ro và khi hết thời gian phòng ngừa rủi ro, kế toán ghi ngược lại trên sổ chi tiết.
+
+b. Trường hợp công ty chứng khoán mua chứng khoán cơ sở để phòng ngừa rủi ro, ghi:
+
+Nợ TK 121- Tài sản tài chính ghi nhận thông qua lãi lỗ (Chi tiết phòng ngừa rủi ro chứng quyền)
+
+Có TK 321- Bù trừ và thanh toán giao dịch chứng khoán.
+
+Cuối kỳ, kế toán đánh giá lại và ghi nhận việc đánh giá lại giá trị của chứng khoán cơ sở để phòng ngừa rủi ro tương tự như đánh giá lại tài sản tài chính ghi nhận thông qua lãi/lỗ FVTPL.
+
+c. Trường hợp công ty chứng khoán phải bổ sung tiền ký quỹ do có chênh lệch giữa vị thế phòng ngừa rủi ro lý thuyết và vị thế phòng ngừa rủi ro thực tế thì kế toán theo dõi chi tiết tài khoản 112 và phải thuyết minh trên Báo cáo tài chính.
+
+7. Cuối kỳ, thực hiện đánh giá lại chứng quyền theo giá trị hợp lý:
+
+a. Trường hợp giá của chứng quyền đang lưu hành giảm xuống, ghi:
+
+Nợ TK 329 - Phải trả chứng quyền (Chênh lệnh giữa giá ghi sổ và giá thị trường tại thời điểm đánh giá)
+
+Có TK 5111 - Thu nhập từ các tài sản tài chính ghi nhận thông qua lãi/lỗ (Chi tiết chênh lệch giảm do đánh giá lại FVTPL - chứng quyền).
+
+b. Trường hợp giá của chứng quyền đang lưu hành tăng, ghi:
+
+Nợ TK 63213 - Chênh lệch giảm về đánh giá lại các tài sản tài chính ghi nhận thông qua lãi/lỗ (chi tiết chênh lệch tăng do đánh giá lại FVTPL - chứng quyền = chênh lệnh giữa giá thị trường tại thời điểm đánh giá và giá ghi số)
+
+Có TK 329 - Phải trả chứng quyền (chi tiết phải trả chứng quyền).
+
+8. Khi đáo hạn chứng quyền:
+
+a. Trường hợp chứng quyền ở trạng thái có lãi (ở trạng thái in-the-money), nhà đầu tư sẽ thực hiện quyền, ghi:
+
+Nợ TK 329 - Phải trả chứng quyền
+
+Nợ TK 6321 - Lỗ bán các tài sản tài chính ghi nhận thông qua lãi/lỗ (Chi tiết lỗ phát hành chứng quyền = chênh lệch lỗ giữa giá thanh toán, giá thực hiện và giá ghi số chứng quyền)
+
+Có TK 511- Thu nhập (Chi tiết lãi phát hành chứng quyền = chênh lệch lãi giữa giá thanh toán, giá thực hiện và giá ghi sổ chứng quyền).
+
+Có TK 111, 112...
+
+b. Trường hợp chứng quyền ở trạng thái lỗ (ở trạng thái out-of-money) hoặc trạng thái hòa vốn (at the money), nhà đầu tư sẽ không được thực hiện quyền, ghi:
+
+Nợ TK 329 - Phải trả chứng quyền (chi tiết phải trả chứng quyền = giá trị chứng quyền đã ghi sổ)
+
+Có TK 511- Thu nhập (chi tiết lãi chứng quyền).
+
+c. Trường hợp theo dõi chứng quyền chưa phân phối hết trên thị trường sơ cấp trên (Dư nợ TK 018) thì sau khi đáo hạn chứng quyền phải ghi giảm hết số nợ phải trả chứng quyền còn lại (ghi Có TK 018).
+
+Trường hợp khi chứng quyền đáo hạn, nếu còn dư chứng khoán phòng ngừa rủi ro, số chứng khoán này sẽ chuyển sang chứng khoán tự doanh hoặc dự phòng cho chứng quyền khác.
+
+9. Trường hợp chứng quyền bị hủy niêm yết và công ty chứng khoán phải thu hồi chứng quyền đang lưu hành, đồng thời hoàn trả tiền cho nhà đầu tư, ghi:
+
+Nợ TK 6321 - Lỗ bán các tài sản tài chính ghi nhận thông qua lãi/lỗ (Trường hợp giá thu hồi chứng quyền cao hơn giá đã bán)
+
+Nợ TK 329 - Phải trả chứng quyền
+
+Có các TK 111, 112
+
+Có TK 5111- Thu nhập từ các tài sản tài chính ghi nhận thông qua lãi/lỗ.
+
+Đồng thời ghi:
+
+Nợ TK 018 - Chứng quyền (đối với chứng quyền ở thị trường sơ cấp).
+
+10. Nếu phát sinh tiền bồi thường thiệt hại cho nhà đầu tư tiền phạt trả chậm tiền cho nhà đầu tư, ghi:
+
+Nợ TK 811 - Chi phí khác
+
+Có các TK 111, 112.
+
+11. Trường hợp công ty chứng khoán mua các chứng quyền của tổ chức khác phát hành để đầu tư thì hạch toán tương tự với tài sản tài chính ghi nhận thông qua lãi/lỗ theo hướng dẫn tại Thông tư 334/2016/TT-BTC ngày 27/12/2016.
+
+Chương III
+
+BÁO CÁO TÀI CHÍNH
+
+Điều 5. Báo cáo tình hình tài chính:
+
+1. Bổ sung một số chỉ tiêu trên Báo cáo tình hình tài chính quy định tại Thông tư 210/2014/TT-BTC ngày 30/12/2014 và Thông tư số 334/2016/TT- BTC ngày 30/12/2016:
+
+Số dư Có TK 329 - “Phải trả chứng quyền” được trình bày bổ sung trong chỉ tiêu 6 - phải trả hoạt động giao dịch chứng khoán trong phần Nợ phải trả ngắn hạn - Mã số 3 18 của Báo cáo tình hình tài chính.
+
+2. Các chỉ tiêu ngoài báo cáo tình hình tài chính:
+
+Phần A. Tài sản của công ty chứng khoán và tài sản quản lý theo cam kết Trình bày bổ sung chỉ tiêu “Chứng quyền” (Số dư Nợ TK 018) - Mã số 014.
+
+Điều 6. Báo cáo kết quả hoạt động:
+
+Bổ sung một số chỉ tiêu trên Báo cáo tình hình tài chính quy định tại Thông tư 210/2014/TT-BTC ngày 30/12/2014 và Thông tư số 334/2016/TT- BTC ngày 30/12/2016:
+
+- Doanh thu từ lãi bán chứng quyền trình bày ở chỉ tiêu a. “Lãi bán các tài sản tài chính FVTPL - Mã số 01.1” của Báo cáo kết quả hoạt động.
+
+- Lỗ từ bán chứng quyền trình bày ở chỉ tiêu a. “Lỗ bán các tài sản tài chính FVTPL - Mã số 21.1” của Báo cáo kết quả hoạt động.
+
+- Bổ sung chỉ tiêu "Chênh lệch giảm do đánh giá lại phải trả chứng quyền đang lưu hành trình bày ở chỉ tiêu d. Mã số 01.4.
+
+- Bổ sung chỉ tiêu "Chênh lệch tăng đánh do đánh giá lại phải trả chứng quyền đang lưu hành trình bày ở chỉ tiêu d. Mã số 21.4.
+
+Điều 7. Báo cáo lưu chuyển tiền tệ:
+
+1. Phần lưu chuyển tiền từ hoạt động kinh doanh (theo phương pháp trực tiếp):
+
++ Chỉ tiêu "Tiền đã chi mua các tài sản tài chính" mã số 01 bổ sung nội dung tiền đã chi từ việc thanh toán cho nhà đầu tư khi thực hiện quyền khi đáo hạn chứng quyền ở trạng thái có lãi.
+
++ Chỉ tiêu "Tiền đã thu từ bán các tài sản tài chính" mã số 02 bổ sung nội dung tiền đã thu từ bán chứng quyền.
+
++ Chỉ tiêu "Tiền thu khác từ hoạt động kinh doanh" mã số 11 bổ sung nội dung "tiền thu hồi khi nhận lại số tiền ký quỹ"
+
++ Chỉ tiêu "Tiền chi khác cho hoạt động kinh doanh" mã số 12 bổ sung nội dung "Tiền gửi ký quỹ đảm bảo thanh toán tại ngân hàng lưu ký”, "tiền chi ra chi trả các khoản chi phí liên quan đến phát hành chứng quyền khi đáo hạn chứng quyền hoặc khi bị đình chỉ hoặc hủy bỏ đợt chào bán".
+
+2. Phần lưu chuyển tiền từ hoạt động kinh doanh (theo phương pháp gián tiếp):
+
++ Chỉ tiêu "Lỗ đánh giá lại giá trị các tài sản tài chính ghi nhận thông qua lãi lỗ" Mã số 11 bổ sung nội dung "lỗ đánh giá lại phải trả chứng quyền".
+
++ Chỉ tiêu "Lãi đánh giá lại giá trị các tài sản tài chính ghi nhận thông qua lãi lỗ" Mã số 19 bổ sung nội dung "Lãi đánh giá lại phải trả chứng quyền".
+
++ Chỉ tiêu "Tăng (giảm) phải trả, phải nộp khác" Mã số 50 bổ sung "phải trả chứng quyền".
+
+Điều 8. Thuyết minh báo cáo tài chính:
+
+Công ty chứng khoán phải thuyết minh bổ sung các nội dung sau:
+
+- Lãi, lỗ đánh giá lại chứng quyền của tổ chức phát hành (kỳ này, kỳ trước).
+
+- Lãi, lỗ đánh giá lại tài sản cơ sở từ hoạt động phòng ngừa rủi ro của tổ chức phát hành (kỳ này, kỳ trước).
+
+- Tổng số tiền gửi ký quỹ đảm bảo thanh toán tại ngân hàng lưu ký của tổ chức phát hành (số đầu kỳ, số cuối kỳ).
+
+- Tổng số tiền nộp bổ sung cho mục đích phòng ngừa rủi ro do chênh lệch giữa vị thế phòng ngừa rủi ro lý thuyết và vị thế phòng ngừa rủi ro thực tế.
+
+- Tổng số chứng khoán dùng cho hoạt động phòng ngừa rủi ro.
+
+- Tổng số chứng quyền được phép phát hành.
+
+- Tổng số chứng quyền đang lưu hành.
+
+Chương IV
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 9. Hiệu lực thi hành và tổ chức thực hiện
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 27/4/2018.
+
+2. Cục trưởng Cục Quản lý, giám sát kế toán, kiểm toán, Chủ tịch Ủy ban chứng khoán Nhà nước và Thủ trưởng các đơn vị liên quan chịu trách nhiệm thực hiện Thông tư này.
+
+3. Trong quá trình thực hiện Thông tư, nếu có khó khăn vướng mắc, đề nghị phản ánh về Bộ Tài chính để nghiên cứu, giải quyết./.
+
+| Nơi nhận: - Thủ tướng Chính phủ, các Phó Thủ tướng Chính phủ; - Văn phòng Chính phủ; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Văn phòng TW Đảng; - Văn phòng Tổng bí thư; - Các Bộ, cơ quan ngang Bộ cơ quan thuộc Chính phủ; - Kiểm toán Nhà nước; - Phòng thương mại và công nghiệp Việt Nam; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Ban chỉ đạo TW về phòng chống tham nhũng; - UBND, Sở Tài chính, Cục thuế các tỉnh, TP trực thuộc TW; - Cục kiểm tra văn bản (Bộ Tư pháp); - Hội Kế toán và Kiểm toán Việt Nam; - Hội Kiểm toán viên hành nghề Việt Nam; - Công báo; - Website Chính phủ; - Website Bộ Tài chính; - Các đơn vị thuộc Bộ Tài chính; - Vụ Pháp chế (Bộ Tài chính);. - Lưu: VT (2 bản), Cục QLGSKT. (120b) | KT. BỘ TRƯỞNG THỨ TRƯỞNG Đỗ Hoàng Anh Tuấn |
+
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+
+Nơi nhận: - Thủ tướng Chính phủ, các Phó Thủ tướng Chính phủ; - Văn phòng Chính phủ; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Văn phòng TW Đảng; - Văn phòng Tổng bí thư; - Các Bộ, cơ quan ngang Bộ cơ quan thuộc Chính phủ; - Kiểm toán Nhà nước; - Phòng thương mại và công nghiệp Việt Nam; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Ban chỉ đạo TW về phòng chống tham nhũng; - UBND, Sở Tài chính, Cục thuế các tỉnh, TP trực thuộc TW; - Cục kiểm tra văn bản (Bộ Tư pháp); - Hội Kế toán và Kiểm toán Việt Nam; - Hội Kiểm toán viên hành nghề Việt Nam; - Công báo; - Website Chính phủ; - Website Bộ Tài chính; - Các đơn vị thuộc Bộ Tài chính; - Vụ Pháp chế (Bộ Tài chính);. - Lưu: VT (2 bản), Cục QLGSKT. (120b)
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Đỗ Hoàng Anh Tuấn

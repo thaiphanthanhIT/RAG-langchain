@@ -1,0 +1,657 @@
+| BỘ TÀI CHÍNH   | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|----------------|-----------------------------------------------------------------|
+
+| Số: 992/QĐ-BTC | Hà Nội, ngày 30 tháng 6 năm 2020                                |
+
+BỘ TÀI CHÍNH --------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 992/QĐ-BTC
+
+Hà Nội, ngày 30 tháng 6 năm 2020
+
+QUYẾT ĐỊNH
+
+BAN HÀNH DANH MỤC CHẾ ĐỘ BÁO CÁO ĐỊNH KỲ CỦA BỘ TÀI CHÍNH KẾT NỐI LÊN HỆ THỐNG THÔNG TIN BÁO CÁO CHÍNH PHỦ NĂM 2020
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Nghị định số 09/2019/NĐ-CP ngày 24 tháng 01 năm 2019 của Chính phủ quy định về chế độ báo cáo của cơ quan hành chính nhà nước;
+
+Căn cứ Nghị quyết số 17/NQ-CP ngày 07 tháng 3 năm 2019 của Chính phủ về một số nhiệm vụ, giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn 2019 - 2020, định hướng đến 2025;
+
+Căn cứ Thông tư số 16/2020/TT-BTC ngày 26 tháng 3 năm 2020 của Bộ Tài chính quy định chế độ báo cáo thuộc phạm vi quản lý nhà nước của Bộ Tài chính;
+
+Căn cứ Quyết định số 1898/QĐ-BTC ngày 25 tháng 9 năm 2019 của Bộ trưởng Bộ Tài chính công bố danh mục chế độ báo cáo định kỳ thuộc phạm vi chức năng quản lý của Bộ Tài chính;
+
+Theo đề nghị của Chánh Văn phòng Bộ Tài chính.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Danh mục chế độ báo cáo định kỳ thuộc phạm vi chức năng quản lý của Bộ Tài chính để đưa vào Hệ thống thông tin báo cáo của Bộ Tài chính và thực hiện kết nối lên Hệ thống thông tin báo cáo của Chính phủ năm 2020 tại Phụ lục đính kèm.
+
+Điều 2. Căn cứ vào điều kiện thực tiễn triển khai, khuyến khích các đơn vị thuộc Bộ bổ sung các chế độ báo cáo định kỳ đưa vào Hệ thống thông tin báo cáo của Bộ Tài chính để thực hiện kết nối với Hệ thống thông tin báo cáo của Chính phủ đối với các báo cáo ngoài danh mục đã được phê duyệt tại Điều 1 Quyết định này đảm bảo phù hợp với quy định của Chính phủ và Bộ Tài chính.
+
+Điều 3. Giao Thủ trưởng các đơn vị:
+
+- Cục Tin học và Thống kê tài chính phối hợp với các đơn vị đẩy nhanh tiến độ xây dựng, vận hành Hệ thống thông tin báo cáo của Bộ Tài chính đảm bảo kết nối với Hệ thống thông tin báo cáo của Chính phủ theo yêu cầu và tiến độ tại Quyết định số 451/QĐ-TTg ngày 22/4/2019 của Thủ tướng Chính phủ ban hành Kế hoạch thực hiện Nghị định số 09/2019/NĐ-CP .
+
+- Căn cứ Danh mục chế độ báo cáo định kỳ thuộc phạm vi quản lý của Bộ Tài chính kết nối lên Hệ thống thông tin báo cáo của Chính phủ năm 2020 được công bố tại Quyết định, Cục Tin học và Thống kê tài chính chủ trì, phối hợp với các đơn vị triển khai các giải pháp về công nghệ để xây dựng Hệ thống thông tin báo cáo của Bộ Tài chính và thực hiện kết nối với Hệ thống thông tin báo cáo của Chính phủ trước 30/8/2020.
+
+- Đối với các chế độ báo cáo định kỳ còn lại đã được công bố tại Danh mục chế độ báo cáo định kỳ theo Quyết định 1898/QĐ-BTC ngày 25/9/2019 của Bộ trưởng Bộ Tài chính và các chế độ báo cáo định kỳ được công bố mới tại các quyết định khác, các đơn vị nghiên cứu, phối hợp với Cục Tin học và Thống kê tài chính xây dựng các giải pháp, lộ trình triển khai trong các năm tiếp theo đến hết năm 2025 đảm bảo 80% báo cáo định kỳ thuộc phạm vi chức năng quản lý của Bộ Tài chính được đưa vào Hệ thống thông tin báo cáo của Bộ Tài chính và kết nối lên Hệ thống thông tin báo cáo của Chính phủ theo yêu cầu tại khoản 2, mục III Nghị quyết 17/NQ-CP ngày 07/3/2019 của Chính phủ về một số nhiệm vụ, giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn 2019 - 2020, định hướng đến 2025.
+
+- Trong quá trình xây dựng Hệ thống thông tin báo cáo, các đơn vị chủ trì phối hợp với Cục Tin học và Thống kê tài chính thường xuyên rà soát các chế độ báo cáo để thống nhất các mẫu báo cáo, biểu số liệu đảm bảo công tác báo cáo trên hệ thống điện tử dễ dàng, thuận lợi và đồng bộ nếu cần phải sửa đổi văn bản quy phạm pháp luật thì kịp thời tổng hợp, đề xuất báo cáo Lãnh đạo Bộ xem xét, quyết định.
+
+- Thực hiện rà soát, lập danh mục và trình Bộ Quyết định phê duyệt danh mục chế độ báo cáo định kỳ mới hoặc sửa đổi, bổ sung thuộc phạm vi quản lý của Bộ Tài chính để đưa vào Hệ thống thông tin báo cáo của Bộ Tài chính và kết nối lên Hệ thống thông tin báo cáo của Chính phủ khi có sự thay đổi.
+
+Điều 4. Văn phòng Bộ đôn đốc, kiểm tra các đơn vị thuộc Bộ thực hiện Quyết định này; kịp thời báo cáo Lãnh đạo Bộ tháo gỡ khó khăn vướng mắc trong quá trình tổ chức thực hiện.
+
+Điều 5. Quyết định này có hiệu lực thi hành kể từ ngày ký. Chánh Văn phòng Bộ, Thủ trưởng các Vụ, Cục, Tổng cục và các cá nhân, tổ chức có liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+| Nơi nhận: - Như Điều 5; - Bộ trưởng Đinh Tiến Dũng (để báo cáo); - Các Thứ trưởng (để chỉ đạo); - Văn phòng Chính phủ (Cục KSTTHC); - Website Bộ Tài chính (để đăng tải); - Lưu: VT, VP.(05b) | KT. BỘ TRƯỞNG THỨ TRƯỞNG Đỗ Hoàng Anh Tuấn |
+
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+
+Nơi nhận: - Như Điều 5; - Bộ trưởng Đinh Tiến Dũng (để báo cáo); - Các Thứ trưởng (để chỉ đạo); - Văn phòng Chính phủ (Cục KSTTHC); - Website Bộ Tài chính (để đăng tải); - Lưu: VT, VP.(05b)
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Đỗ Hoàng Anh Tuấn
+
+PHỤ LỤC
+
+DANH MỤC CHẾ ĐỘ BÁO CÁO ĐỊNH KỲ CỦA BỘ TÀI CHÍNH KẾT NỐI LÊN HỆ THỐNG THÔNG TIN BÁO CÁO CỦA CHÍNH PHỦ NĂM 2020 (Kèm theo Quyết định số 992/QĐ-BTC ngày 30/6/2020 của Bộ Tài chính)
+
+| STT  | Tên báo cáo                           |                                                                                                                             |
+
+|------|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+
+| I    | Lĩnh vực Hải quan                     |                                                                                                                             |
+
+| 1    | 1                                     | Báo cáo tình hình hoạt động XNK, tuân thủ pháp luật về hải quan, thuế, kế toán                                              |
+
+| 2    | 2                                     | Báo cáo hàng hóa nhập, xuất, tồn kho ngoại quan                                                                             |
+
+| 3    | 3                                     | Báo cáo hàng hóa nhập, xuất, tồn kho CFS                                                                                    |
+
+| 4    | 4                                     | Báo cáo tình hình hàng hóa tồn đọng                                                                                         |
+
+| 5    | 5                                     | Báo cáo quyết toán tình hình sử dụng nguyên liệu, vật tư nhập khẩu, hàng hóa xuất khẩu:                                     |
+
+| 6    | 6                                     | Báo cáo Quyết toán nguyên liệu, vật tư:                                                                                     |
+
+| II   | Lĩnh vực Dự trữ nhà nước              |                                                                                                                             |
+
+| 7    | 1                                     | Báo cáo xuất gạo DTQG hỗ trợ học sinh                                                                                       |
+
+| III  | Lĩnh vực Chứng khoán Nhà nước         |                                                                                                                             |
+
+| 8    | 1                                     | Báo cáo tài chính của CTQLQ (định kỳ quý/bán niên/năm)                                                                      |
+
+| 9    | 2                                     | Báo cáo tài chính năm có kiểm toán của quỹ mở (định kỳ bán niên/năm)                                                        |
+
+| 10   | 3                                     | Báo cáo tài chính của quỹ đóng (định kỳ bán niên có soát xét)                                                               |
+
+| 11   | 4                                     | Báo cáo tài chính có kiểm toán của quỹ đóng (định kỳ năm có kiểm toán)                                                      |
+
+| 12   | 5                                     | Báo cáo thay đổi giá trị tài sản ròng của công ty đầu tư chứng khoán                                                        |
+
+| 13   | 6                                     | Báo cáo tài chính của công ty đầu tư chứng khoán (định kỳ bán niên có soát xét)                                             |
+
+| 14   | 7                                     | Báo cáo tài chính năm có kiểm toán của công ty đầu tư chứng khoán                                                           |
+
+| 15   | 8                                     | Báo cáo tài chính của quỹ bất động sản, công ty đầu tư chứng khoán bất động sản (định kỳ bán niên có soát xét)              |
+
+| 16   | 9                                     | Báo cáo tài chính năm có kiểm toán của quỹ bất động sản, công ty đầu tư chứng khoán bất động sản                            |
+
+| 17   | 10                                    | Báo cáo tài chính năm có kiểm toán của quỹ ETF (định kỳ bán niên, năm)                                                      |
+
+| 18   | 11                                    | Báo cáo tỷ lệ an toàn tài chính năm có kiểm toán                                                                            |
+
+| 19   | 12                                    | Báo cáo tài chính quý của chi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam (định kỳ quý)                               |
+
+| 20   | 13                                    | Báo cáo tài chính bán niên soát xét của chi nhánh CTQLQ nước ngoài tại Việt Nam (định kỳ 6 tháng)                           |
+
+| 21   | 14                                    | Báo cáo tài chính năm đã kiểm toán của chi nhánh CTQLQ nước ngoài tại Việt Nam (định kỳ năm)                                |
+
+| 22   | 15                                    | Báo cáo tài chính năm của các quỹ đầu tư tại VN lập theo quy định của nước nguyên xứ (định kỳ năm)                          |
+
+| 23   | 16                                    | Báo cáo tình hình hoạt động của văn phòng đại diện tổ chức kinh doanh chứng khoán nước ngoài tại Việt Nam (định kỳ quý/năm) |
+
+| 24   | 17                                    | Báo cáo tài chính năm đã được kiểm toán của công ty đại chúng                                                               |
+
+| 25   | 18                                    | Báo cáo tài chính của công ty niêm yết, công ty đại chúng quy mô lớn (định kỳ quý/bán niên/năm)                             |
+
+| 26   | 19                                    | Báo cáo tỷ lệ an toàn tài chính của Công ty chứng khoán                                                                     |
+
+| 27   | 20                                    | Báo cáo về nhân viên có chứng chỉ hành nghề chứng khoán làm việc tại Công ty trong năm                                      |
+
+| 28   | 21                                    | Báo cáo thường niên của công ty đại chúng (định kỳ năm)                                                                     |
+
+| 29   | 22                                    | Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán chứng khoán ra công chúng                                              |
+
+| 30   | 23                                    | Báo cáo quản trị công ty đại chúng của công ty niêm yết (định kỳ 06 tháng/năm)                                              |
+
+| 31   | 24                                    | Báo cáo giám sát tuân thủ (định kỳ tháng/năm)                                                                               |
+
+| 32   | 25                                    | Báo cáo giám sát giao dịch chứng khoán trên thị trường chứng khoán                                                          |
+
+| IV   | Lĩnh vực Kinh doanh bảo hiểm          |                                                                                                                             |
+
+| 33   | 1                                     | Báo cáo tình hình tự doanh đầu tư gián tiếp ra nước ngoài của doanh nghiệp kinh doanh bảo hiểm (định kỳ quý)                |
+
+| V    | Lĩnh vực Giá                          |                                                                                                                             |
+
+| 34   | 1                                     | Báo cáo giá thị trường                                                                                                      |
+
+| VI   | Lĩnh vực Công sản                     |                                                                                                                             |
+
+| 35   | 1                                     | Báo cáo tình hình quản lý tài sản công                                                                                      |
+
+| 36   | 2                                     | Báo cáo kê khai định kỳ tài sản công                                                                                        |
+
+| 37   | 3                                     | Báo cáo tình hình quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng hàng hải                                            |
+
+| VIII | Lĩnh vực Kế toán, Kiểm toán độc lập   |                                                                                                                             |
+
+| 38   | 1                                     | Báo cáo kết quả tự kiểm tra chất lượng dịch vụ kiểm toán                                                                    |
+
+| IX   | Lĩnh vực Tài chính doanh nghiệp       |                                                                                                                             |
+
+| 39   | 1                                     | Báo cáo tình hình cổ phần hóa, thoái vốn, cơ cấu lại doanh nghiệp nhà nước                                                  |
+
+| 40   | 2                                     | Báo cáo kết quả giám sát tài chính đối với doanh nghiệp nhà nước                                                            |
+
+| 41   | 3                                     | Báo cáo đánh giá hiệu quả và xếp loại doanh nghiệp nhà nước                                                                 |
+
+| 42   | 4                                     | Báo cáo tình hình đầu tư vốn nhà nước vào doanh nghiệp                                                                      |
+
+| 43   | 5                                     | Báo cáo tình hình tài chính, kết quả hoạt động sản xuất kinh doanh                                                          |
+
+| 44   | 6                                     | Báo cáo tài chính năm                                                                                                       |
+
+| 45   | 7                                     | Báo cáo tài chính 6 tháng                                                                                                   |
+
+| 46   | 8                                     | Báo cáo kế hoạch tài chính                                                                                                  |
+
+| X    | Lĩnh vực Quản lý Nợ                   |                                                                                                                             |
+
+| 47   | 1                                     | Báo cáo định kỳ 6 tháng của ngân hàng phục vụ về biến động và duy trì số dư Tài khoản Dự án                                 |
+
+| 48   | 2                                     | Báo cáo tình hình góp vốn/bố trí vốn chủ sở hữu theo cam kết của đối tượng được bảo lãnh                                    |
+
+| 49   | 3                                     | Báo cáo tình hình góp vốn điều lệ theo cam kết của các cổ đông đông của đối tượng được bảo lãnh                             |
+
+| 50   | 4                                     | Báo cáo kết thúc khoản vay của đối tượng được bảo lãnh                                                                      |
+
+| 51   | 5                                     | Báo cáo kết quả phát hành trái phiếu được Chính phủ bảo lãnh của đối tượng được bảo lãnh (ngân hàng chính sách)             |
+
+| XI   | Lĩnh vực Đầu tư công                  |                                                                                                                             |
+
+| 52   | 1                                     | Báo cáo tổng hợp quyết toán dự án hoàn thành                                                                                |
+
+| 53   | 2                                     | Báo cáo tình hình thực hiện và thanh toán kế hoạch vốn đầu tư công hàng tháng                                               |
+
+| XII  | Lĩnh vực Tài chính ngân hàng          |                                                                                                                             |
+
+| 54   | 1                                     | Báo cáo tài chính của Ngân hàng Chính sách xã hội                                                                           |
+
+| 55   | 2                                     | Báo cáo kết quả hoạt động và báo cáo tài chính của Ngân hàng Phát triển Việt Nam                                            |
+
+| 56   | 3                                     | Báo cáo tài chính của Quỹ Bảo vệ môi trường Việt Nam                                                                        |
+
+| 57   | 4                                     | Báo cáo tài chính của Quỹ hỗ trợ phát triển hợp tác xã                                                                      |
+
+| 58   | 5                                     | Báo cáo tài chính của Quỹ Phát triển doanh nghiệp nhỏ và vừa                                                                |
+
+| 59   | 6                                     | Báo cáo tài chính của doanh nghiệp kinh doanh xổ số                                                                         |
+
+| 60   | 7                                     | Báo cáo hoạt động kinh doanh trò chơi điện tử có thưởng dành cho người nước ngoài                                           |
+
+| 61   | 8                                     | Báo cáo hoạt động kinh doanh casino                                                                                         |
+
+| 62   | 9                                     | Báo cáo hoạt động kinh doanh xổ số                                                                                          |
+
+| 63   | 10                                    | Báo cáo hoạt động kinh doanh đặt cược đua ngựa, đua chó và bóng đá quốc tế                                                  |
+
+| XIII | Về thực hành tiết kiệm chống lãng phí |                                                                                                                             |
+
+| 64   | 1                                     | Báo cáo kết quả thực hành tiết kiệm chống lãng phí                                                                          |
+
+STT
+
+Tên báo cáo
+
+I
+
+Lĩnh vực Hải quan
+
+1
+
+1
+
+Báo cáo tình hình hoạt động XNK, tuân thủ pháp luật về hải quan, thuế, kế toán
+
+2
+
+2
+
+Báo cáo hàng hóa nhập, xuất, tồn kho ngoại quan
+
+3
+
+3
+
+Báo cáo hàng hóa nhập, xuất, tồn kho CFS
+
+4
+
+4
+
+Báo cáo tình hình hàng hóa tồn đọng
+
+5
+
+5
+
+Báo cáo quyết toán tình hình sử dụng nguyên liệu, vật tư nhập khẩu, hàng hóa xuất khẩu:
+
+6
+
+6
+
+Báo cáo Quyết toán nguyên liệu, vật tư:
+
+II
+
+Lĩnh vực Dự trữ nhà nước
+
+7
+
+1
+
+Báo cáo xuất gạo DTQG hỗ trợ học sinh
+
+III
+
+Lĩnh vực Chứng khoán Nhà nước
+
+8
+
+1
+
+Báo cáo tài chính của CTQLQ (định kỳ quý/bán niên/năm)
+
+9
+
+2
+
+Báo cáo tài chính năm có kiểm toán của quỹ mở (định kỳ bán niên/năm)
+
+10
+
+3
+
+Báo cáo tài chính của quỹ đóng (định kỳ bán niên có soát xét)
+
+11
+
+4
+
+Báo cáo tài chính có kiểm toán của quỹ đóng (định kỳ năm có kiểm toán)
+
+12
+
+5
+
+Báo cáo thay đổi giá trị tài sản ròng của công ty đầu tư chứng khoán
+
+13
+
+6
+
+Báo cáo tài chính của công ty đầu tư chứng khoán (định kỳ bán niên có soát xét)
+
+14
+
+7
+
+Báo cáo tài chính năm có kiểm toán của công ty đầu tư chứng khoán
+
+15
+
+8
+
+Báo cáo tài chính của quỹ bất động sản, công ty đầu tư chứng khoán bất động sản (định kỳ bán niên có soát xét)
+
+16
+
+9
+
+Báo cáo tài chính năm có kiểm toán của quỹ bất động sản, công ty đầu tư chứng khoán bất động sản
+
+17
+
+10
+
+Báo cáo tài chính năm có kiểm toán của quỹ ETF (định kỳ bán niên, năm)
+
+18
+
+11
+
+Báo cáo tỷ lệ an toàn tài chính năm có kiểm toán
+
+19
+
+12
+
+Báo cáo tài chính quý của chi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam (định kỳ quý)
+
+20
+
+13
+
+Báo cáo tài chính bán niên soát xét của chi nhánh CTQLQ nước ngoài tại Việt Nam (định kỳ 6 tháng)
+
+21
+
+14
+
+Báo cáo tài chính năm đã kiểm toán của chi nhánh CTQLQ nước ngoài tại Việt Nam (định kỳ năm)
+
+22
+
+15
+
+Báo cáo tài chính năm của các quỹ đầu tư tại VN lập theo quy định của nước nguyên xứ (định kỳ năm)
+
+23
+
+16
+
+Báo cáo tình hình hoạt động của văn phòng đại diện tổ chức kinh doanh chứng khoán nước ngoài tại Việt Nam (định kỳ quý/năm)
+
+24
+
+17
+
+Báo cáo tài chính năm đã được kiểm toán của công ty đại chúng
+
+25
+
+18
+
+Báo cáo tài chính của công ty niêm yết, công ty đại chúng quy mô lớn (định kỳ quý/bán niên/năm)
+
+26
+
+19
+
+Báo cáo tỷ lệ an toàn tài chính của Công ty chứng khoán
+
+27
+
+20
+
+Báo cáo về nhân viên có chứng chỉ hành nghề chứng khoán làm việc tại Công ty trong năm
+
+28
+
+21
+
+Báo cáo thường niên của công ty đại chúng (định kỳ năm)
+
+29
+
+22
+
+Báo cáo tiến độ sử dụng vốn thu được từ đợt chào bán chứng khoán ra công chúng
+
+30
+
+23
+
+Báo cáo quản trị công ty đại chúng của công ty niêm yết (định kỳ 06 tháng/năm)
+
+31
+
+24
+
+Báo cáo giám sát tuân thủ (định kỳ tháng/năm)
+
+32
+
+25
+
+Báo cáo giám sát giao dịch chứng khoán trên thị trường chứng khoán
+
+IV
+
+Lĩnh vực Kinh doanh bảo hiểm
+
+33
+
+1
+
+Báo cáo tình hình tự doanh đầu tư gián tiếp ra nước ngoài của doanh nghiệp kinh doanh bảo hiểm (định kỳ quý)
+
+V
+
+Lĩnh vực Giá
+
+34
+
+1
+
+Báo cáo giá thị trường
+
+VI
+
+Lĩnh vực Công sản
+
+35
+
+1
+
+Báo cáo tình hình quản lý tài sản công
+
+36
+
+2
+
+Báo cáo kê khai định kỳ tài sản công
+
+37
+
+3
+
+Báo cáo tình hình quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng hàng hải
+
+VIII
+
+Lĩnh vực Kế toán, Kiểm toán độc lập
+
+38
+
+1
+
+Báo cáo kết quả tự kiểm tra chất lượng dịch vụ kiểm toán
+
+IX
+
+Lĩnh vực Tài chính doanh nghiệp
+
+39
+
+1
+
+Báo cáo tình hình cổ phần hóa, thoái vốn, cơ cấu lại doanh nghiệp nhà nước
+
+40
+
+2
+
+Báo cáo kết quả giám sát tài chính đối với doanh nghiệp nhà nước
+
+41
+
+3
+
+Báo cáo đánh giá hiệu quả và xếp loại doanh nghiệp nhà nước
+
+42
+
+4
+
+Báo cáo tình hình đầu tư vốn nhà nước vào doanh nghiệp
+
+43
+
+5
+
+Báo cáo tình hình tài chính, kết quả hoạt động sản xuất kinh doanh
+
+44
+
+6
+
+Báo cáo tài chính năm
+
+45
+
+7
+
+Báo cáo tài chính 6 tháng
+
+46
+
+8
+
+Báo cáo kế hoạch tài chính
+
+X
+
+Lĩnh vực Quản lý Nợ
+
+47
+
+1
+
+Báo cáo định kỳ 6 tháng của ngân hàng phục vụ về biến động và duy trì số dư Tài khoản Dự án
+
+48
+
+2
+
+Báo cáo tình hình góp vốn/bố trí vốn chủ sở hữu theo cam kết của đối tượng được bảo lãnh
+
+49
+
+3
+
+Báo cáo tình hình góp vốn điều lệ theo cam kết của các cổ đông đông của đối tượng được bảo lãnh
+
+50
+
+4
+
+Báo cáo kết thúc khoản vay của đối tượng được bảo lãnh
+
+51
+
+5
+
+Báo cáo kết quả phát hành trái phiếu được Chính phủ bảo lãnh của đối tượng được bảo lãnh (ngân hàng chính sách)
+
+XI
+
+Lĩnh vực Đầu tư công
+
+52
+
+1
+
+Báo cáo tổng hợp quyết toán dự án hoàn thành
+
+53
+
+2
+
+Báo cáo tình hình thực hiện và thanh toán kế hoạch vốn đầu tư công hàng tháng
+
+XII
+
+Lĩnh vực Tài chính ngân hàng
+
+54
+
+1
+
+Báo cáo tài chính của Ngân hàng Chính sách xã hội
+
+55
+
+2
+
+Báo cáo kết quả hoạt động và báo cáo tài chính của Ngân hàng Phát triển Việt Nam
+
+56
+
+3
+
+Báo cáo tài chính của Quỹ Bảo vệ môi trường Việt Nam
+
+57
+
+4
+
+Báo cáo tài chính của Quỹ hỗ trợ phát triển hợp tác xã
+
+58
+
+5
+
+Báo cáo tài chính của Quỹ Phát triển doanh nghiệp nhỏ và vừa
+
+59
+
+6
+
+Báo cáo tài chính của doanh nghiệp kinh doanh xổ số
+
+60
+
+7
+
+Báo cáo hoạt động kinh doanh trò chơi điện tử có thưởng dành cho người nước ngoài
+
+61
+
+8
+
+Báo cáo hoạt động kinh doanh casino
+
+62
+
+9
+
+Báo cáo hoạt động kinh doanh xổ số
+
+63
+
+10
+
+Báo cáo hoạt động kinh doanh đặt cược đua ngựa, đua chó và bóng đá quốc tế
+
+XIII
+
+Về thực hành tiết kiệm chống lãng phí
+
+64
+
+1
+
+Báo cáo kết quả thực hành tiết kiệm chống lãng phí

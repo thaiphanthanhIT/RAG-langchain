@@ -1,0 +1,2489 @@
+| BỘ TÀI CHÍNH        | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|---------------------|-----------------------------------------------------------------|
+
+| Số: 116/2018/TT-BTC | Hà Nội, ngày 28 tháng 11 năm 2018                               |
+
+BỘ TÀI CHÍNH --------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 116/2018/TT-BTC
+
+Hà Nội, ngày 28 tháng 11 năm 2018
+
+THÔNG TƯ
+
+QUY ĐỊNH CHẾ ĐỘ BÁO CÁO GIÁ THỊ TRƯỜNG
+
+Căn cứ Luật giá số 12/2012/QH13 ngày 20 tháng 6 năm 2012;
+
+Căn cứ Nghị định số 177/2013/NĐ-CP ngày 14 tháng 11 năm 2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giá; Nghị định số 149/2016/NĐ-CP ngày 11 tháng 11 năm 2016 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 177/2013/NĐ-CP ngày 14 tháng 11 năm 2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giá;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Cục trưởng Cục Quản lý giá;
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư quy định chế độ báo cáo giá thị trường.
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+1. Phạm vi điều chỉnh: Thông tư này quy định về nguyên tắc, phương pháp thu thập thông tin và chế độ báo cáo giá thị trường của một số hàng hóa, dịch vụ trong nước (sau đây gọi là chế độ báo cáo giá thị trường) phục vụ cho công tác tổng hợp, phân tích, dự báo, chỉ đạo, điều hành, bình ổn giá của các cơ quan có thẩm quyền tại trung ương và địa phương.
+
+2. Đối tượng áp dụng:
+
+a) Các đơn vị trực thuộc Bộ Tài chính gồm: Cục Quản lý giá, Cục Tin học và Thống kê tài chính, Tổng cục Hải quan;
+
+b) Sở Tài chính các tỉnh, thành phố trực thuộc trung ương;
+
+c) Các cơ quan, tổ chức được giao nhiệm vụ báo cáo giá thị trường.
+
+Điều 2. Giải thích từ ngữ
+
+1. Giá thị trường là giá hàng hóa, dịch vụ hình thành do các nhân tố chi phối và vận động của thị trường quyết định tại một thời điểm, địa điểm nhất định.
+
+2. Giá bán buôn là mức giá được hình thành dựa trên hoạt động bán hàng hóa, dịch vụ cho thương nhân, tổ chức, cá nhân khác, không bao gồm hoạt động bán hàng trực tiếp cho người tiêu dùng cuối cùng.
+
+3. Giá bán lẻ là mức giá bán hàng hóa, dịch vụ trực tiếp cho người tiêu dùng cuối cùng.
+
+4. Giá niêm yết là mức giá mà các tổ chức, cá nhân sản xuất, kinh doanh thông báo công khai đến khách hàng về mức giá mua, giá bán hàng hóa, dịch vụ bằng Đồng Việt Nam.
+
+5. Giá đăng ký là mức giá hàng hóa, dịch vụ do tổ chức, cá nhân sản xuất, kinh doanh quyết định, đã thực hiện đăng ký với cơ quan nhà nước có thẩm quyền trong thời gian nhà nước áp dụng biện pháp bình ổn giá.
+
+6. Giá kê khai là mức giá hàng hóa, dịch vụ do các tổ chức, cá nhân sản xuất, kinh doanh quyết định, đã thực hiện kê khai với cơ quan nhà nước có thẩm quyền.
+
+Điều 3. Nguyên tắc, phương pháp khảo sát, thu thập thông tin giá thị trường hàng hóa, dịch vụ
+
+1. Công tác khảo sát, thu thập thông tin giá thị trường hàng hóa, dịch vụ phải được thực hiện theo các nguyên tắc sau:
+
+a) Khách quan, kịp thời, là giá thực mua, thực bán phổ biến trên thị trường tại thời điểm thu thập thông tin. Trường hợp thu thập theo giá đăng ký hoặc giá kê khai thì phải chú thích rõ mức giá gắn với tổ chức, cá nhân sản xuất, kinh doanh tương ứng.
+
+b) Đúng địa điểm cần báo cáo giá và thời điểm báo cáo giá thị trường.
+
+c) Khu vực khảo sát thu thập giá thị trường phải là những nơi có hoạt động sản xuất, kinh doanh thường xuyên, ổn định, đại diện cho khu vực thành thị, nông thôn tại tỉnh, thành phố.
+
+d) Phân định rõ giá khảo sát, thu thập là giá bán buôn, giá bán lẻ, giá kê khai hay giá đăng ký; chú thích rõ thông tin về các yếu tố khác liên quan như: thuế giá trị gia tăng (nếu có), giá bán tại cửa hàng, nơi sản xuất, giá bán tới địa điểm người mua (nơi giao hàng), tính đặc thù thị trường.
+
+2. Công tác thu thập thông tin giá thị trường hàng hóa, dịch vụ được thực hiện theo các phương pháp sau:
+
+a) Phương pháp khảo sát, thu thập thông tin trực tiếp: Cán bộ thị trường trực tiếp đến các nhà máy sản xuất, chế biến; trung tâm bán buôn, chợ đầu mối; các trung tâm thương mại, siêu thị, các chợ; các cơ sở giáo dục đào tạo (đối với dịch vụ đào tạo); các cơ sở khám chữa bệnh (đối với dịch vụ khám chữa bệnh), để khảo sát, thu thập thông tin.
+
+b) Phương pháp thu thập thông tin gián tiếp: Cơ quan báo cáo giá thị trường có công văn yêu cầu các tổ chức, cá nhân sản xuất, kinh doanh cung cấp thông tin về giá hàng hóa, dịch vụ thuộc danh mục báo cáo giá thị trường; hoặc tổ chức tổng hợp trên các phương tiện thông tin đại chúng, kết quả thống kê đăng ký, kê khai giá của tổ chức, cá nhân sản xuất, kinh doanh; hoặc giá do cơ quan báo cáo giá thị trường mua thông tin. Trong trường hợp này, phải chú thích rõ nguồn thông tin.
+
+c) Cán bộ thị trường quy định tại tiết a Khoản 2 Điều này được hưởng tiền công tác phí khoán theo tháng theo quy định tại Điều 8 Thông tư số 40/2017/TT-BTC ngày 28 tháng 4 năm 2017 của Bộ Tài chính quy định chế độ công tác phí, chế độ chi hội nghị.
+
+Điều 4. Cơ quan, tổ chức báo cáo giá thị trường
+
+Cơ quan, tổ chức báo cáo giá thị trường bao gồm:
+
+1. Sở Tài chính các tỉnh, thành phố trực thuộc trung ương; Cục Quản lý giá - Bộ Tài chính.
+
+2. Phòng Tài chính - kế hoạch cấp huyện thuộc Uỷ ban nhân dân cấp huyện của các tỉnh, thành phố trực thuộc trung ương.
+
+3. Căn cứ tình hình thực tế tại địa phương, Sở Tài chính tham mưu trình Uỷ ban nhân dân cấp tỉnh giao nhiệm vụ báo cáo giá thị trường cho các đơn vị có liên quan (nếu cần thiết).
+
+Chương II
+
+QUY ĐỊNH CỤ THỂ
+
+Điều 5. Kỳ báo cáo
+
+1. Sở Tài chính các tỉnh, thành phố trực thuộc trung ương định kỳ ngày cuối cùng hàng tháng, quý, năm thực hiện tổng hợp số liệu báo cáo giá thị trường trên địa bàn tỉnh, thành phố; gửi báo cáo giá thị trường về Bộ Tài chính (Cục Quản lý giá) trước ngày 05 tháng tiếp theo của kỳ báo cáo; đối với các tháng cuối quý (tháng 3, tháng 6, tháng 9 và tháng 12), thực hiện báo cáo giá thị trường tương ứng 3 tháng, 6 tháng, 9 tháng và 12 tháng (gọi chung là báo cáo dài hạn).
+
+Trường hợp có biến động bất thường về giá hoặc theo yêu cầu của cơ quan nhà nước có thẩm quyền, Sở Tài chính có trách nhiệm thực hiện báo cáo đột xuất về tình hình biến động giá của một số hàng hóa, dịch vụ thiết yếu tại địa phương gửi cơ quan có thẩm quyền đồng thời gửi Bộ Tài chính (Cục Quản lý giá).
+
+2. Cục Quản lý giá chịu trách nhiệm tổng hợp báo cáo của các Sở Tài chính; đồng thời trên cơ sở theo dõi nắm bắt tình hình chung giá cả thị trường trên phạm vi cả nước để tổng hợp báo cáo Bộ trưởng Bộ Tài chính hàng tháng, quý, năm và công khai thông tin giá cả thị trường tới các Sở Tài chính, các đơn vị có liên quan thuộc Bộ Tài chính, các cơ quan khác có liên quan trên hệ thống Cơ sở dữ liệu quốc gia về giá phân hệ “Công khai dữ liệu” và trang thông tin điện tử của Bộ Tài chính.
+
+Điều 6. Nội dung báo cáo
+
+1. Báo cáo tháng và báo cáo dài hạn
+
+a) Phần thứ nhất: Tổng quan về tình hình thị trường, giá cả trong kỳ
+
+- Diễn biến chỉ số giá tiêu dùng (CPI) của địa phương trong kỳ báo cáo;
+
+- Phân tích thực trạng, nguyên nhân của các yếu tố tác động đến CPI;
+
+- Thống kê mức giá hàng hóa, dịch vụ theo danh mục quy định tại Điều 7 Thông tư này.
+
+b) Phần thứ hai: Đánh giá tình hình thực hiện công tác quản lý nhà nước về giá của địa phương đã triển khai trong kỳ báo cáo, bao gồm các nội dung sau:
+
+- Việc ban hành các văn bản quy phạm pháp luật trong lĩnh vực giá;
+
+- Tình hình triển khai chương trình bình ổn thị trường và các biện pháp bình ổn giá tại địa phương (nếu có);
+
+- Công tác quản lý giá các hàng hóa, dịch vụ thuộc thẩm quyền định giá của địa phương, phương án điều chỉnh giá (nếu có);
+
+- Tình hình thực hiện kê khai giá tại địa phương;
+
+- Công tác kiểm tra, thanh tra việc chấp hành pháp luật về giá tại địa phương;
+
+- Các nội dung liên quan khác.
+
+c) Phần thứ ba: Dự báo diễn biến mặt bằng giá thị trường tại địa phương trong kỳ tiếp theo.
+
+2. Báo cáo đột xuất:
+
+a) Diễn biến giá thị trường của hàng hóa, dịch vụ có giá biến động bất thường hoặc giá hàng hóa, dịch vụ được yêu cầu báo cáo.
+
+b) Phân tích nguyên nhân biến động giá của mặt hàng báo cáo.
+
+c) Kiến nghị các giải pháp bình ổn thị trường, giá cả.
+
+d) Báo cáo phải có biểu thống kê về mức giá của loại hàng hóa, dịch vụ trước, trong và sau ngày có biến động giá.
+
+Điều 7. Danh mục hàng hóa, dịch vụ báo cáo giá
+
+1. Danh mục giá thị trường hàng hóa, dịch vụ báo cáo gồm các mặt hàng thiết yếu, phù hợp với yêu cầu công tác tổng hợp, phân tích, dự báo, chỉ đạo, điều hành, bình ổn giá của các cơ quan có thẩm quyền tại trung ương và địa phương; bảo đảm tính đại diện cho các nhóm hàng hóa dịch vụ: lương thực, thực phẩm; vật tư nông nghiệp; đồ uống; vật liệu xây dựng, chất đốt và nước sinh hoạt; thuốc chữa bệnh cho người; dịch vụ y tế; giao thông; dịch vụ giáo dục; giải trí và du lịch; vàng, đô la Mỹ và các mặt hàng thuộc danh mục kê khai, đăng ký giá trên địa bàn nếu có (danh mục chi tiết tại Phụ lục số 1 ban hành kèm theo Thông tư này).
+
+2. Trường hợp tại địa phương không có mặt hàng trong danh mục báo cáo giá, cơ quan báo cáo được thay bằng mặt hàng tương tự (nếu có) và cần ghi rõ quy cách, nhãn hiệu và chú thích rõ ràng. Sở Tài chính các tỉnh, thành phố trực thuộc trung ương chủ động chọn khảo sát thêm các mặt hàng đặc trưng cho thị trường từng địa phương.
+
+3. Đối với hàng hóa, dịch vụ thực hiện kê khai và đăng ký giá, Sở Tài chính các tỉnh, thành phố trực thuộc trung ương căn cứ thẩm quyền để quy định danh mục phù hợp với tình hình thực tế công tác tiếp nhận kê khai, đăng ký giá.
+
+Điều 8. Phương thức gửi báo cáo
+
+1. Sở Tài chính gửi báo cáo giá thị trường định dạng thống nhất vào hòm thư điện tử csgia@mof.gov.vn; đồng thời cập nhật vào hệ thống Cơ sở dữ liệu quốc gia về giá, phân hệ “Báo cáo giá thị trường” được tích hợp trong hệ thống tại địa chỉ https://csdlgiaquocgia.mof.gov.vn (nếu có).
+
+2. Định dạng báo cáo
+
+a) Báo cáo gửi điện tử phải bao gồm bản điện tử dùng thống nhất bộ mã tiếng Việt Unicode và văn bản quét có đủ chữ ký và dấu của đơn vị phát hành. Báo cáo giấy phát hành chỉ lưu bản gốc tại cơ quan báo cáo. Đối với trường hợp các báo cáo đột xuất, báo cáo theo yêu cầu của Bộ Tài chính, định dạng gửi báo cáo theo hướng dẫn tại văn bản yêu cầu báo cáo cụ thể.
+
+b) Quy ước ký hiệu tệp văn bản báo cáo bằng hệ thống mạng thông tin: thực hiện theo quy định tại Phụ lục số 2 (ban hành kèm theo Thông tư này).
+
+Chương III
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 9. Trách nhiệm của các cơ quan, tổ chức báo cáo giá thị trường
+
+1. Các cơ quan thực hiện báo cáo giá thị trường theo quy định tại Điều 4 Thông tư này có trách nhiệm xây dựng, củng cố và hoàn thiện hệ thống thu thập thông tin giá thị trường; tổ chức công tác thu thập và báo cáo định kỳ, đột xuất về tình hình giá thị trường hàng hóa, dịch vụ tại địa phương, địa bàn do mình quản lý; chịu trách nhiệm trước Bộ trưởng Bộ Tài chính, Chủ tịch Ủy ban nhân dân cấp tỉnh về thực hiện chế độ báo cáo giá thị trường theo quy định tại Thông tư này.
+
+Xây dựng hệ thống Cơ sở dữ liệu quốc gia về giá tại trung ương và hệ thống Cơ sở dữ liệu về giá tại địa phương đảm bảo tính năng báo cáo giá thị trường gồm tạo lập, gửi, tiếp nhận, quản lý báo cáo giá thị trường theo quy định tại Thông tư số 142/2015/TT-BTC ngày 04 tháng 9 năm 2015 của Bộ Tài chính quy định về Cơ sở dữ liệu quốc gia về giá.
+
+2. Sở Tài chính các tỉnh, thành phố trực thuộc trung ương có trách nhiệm:
+
+a) Bố trí cán bộ chuyên trách để theo dõi, thu thập, tổng hợp thông tin và xây dựng báo cáo giá thị trường; phân công một cán bộ đầu mối và đăng ký thông tin (gồm họ và tên, số điện thoại, địa chỉ thư điện tử) gửi Cục Quản lý giá-Bộ Tài chính để chủ động phối hợp khi phát sinh các vấn đề cần trao đổi trực tiếp.
+
+b) Gửi báo cáo giá thị trường định kỳ, đột xuất cho Bộ Tài chính - Cục Quản lý giá theo đúng quy định.
+
+3. Các đơn vị được giao nhiệm vụ quy định tại khoản 2, khoản 3 Điều 4 Thông tư này bố trí cán bộ chuyên trách thực hiện theo dõi, thu thập và báo cáo giá thị trường trong phạm vi phụ trách về Sở Tài chính và Ủy ban nhân dân cấp huyện theo chỉ đạo của Ủy ban nhân dân cấp tỉnh.
+
+4. Cục Quản lý giá - Bộ Tài chính có trách nhiệm hướng dẫn, đôn đốc và kiểm tra việc thực hiện Thông tư này; tổ chức triển khai các nhiệm vụ cụ thể sau:
+
+a) Bố trí cán bộ giá thị trường theo dõi và tổng hợp thông tin giá thị trường trên phạm vi cả nước.
+
+b) Lập và gửi báo cáo giá thị trường định kỳ, đột xuất theo đúng quy định. Định kỳ 3 tháng tổng hợp tình hình công tác quản lý, điều hành giá tại địa phương và từ các Bộ, ngành báo cáo Trưởng Ban Chỉ đạo điều hành giá tại các cuộc họp thường kỳ của Ban Chỉ đạo điều hành giá theo quy định.
+
+c) Quản lý về nội dung toàn bộ cơ sở dữ liệu giá thị trường hàng hóa, dịch vụ của Sở Tài chính gửi về.
+
+d) Phối hợp với Cục Tin học và Thống kê tài chính - Bộ Tài chính tổ chức hướng dẫn việc báo cáo theo hệ thống mạng giữa các Sở Tài chính với Cục Quản lý giá; hướng dẫn xử lý các vấn đề nghiệp vụ phát sinh trong quá trình cập nhật, khai thác, sử dụng hệ thống thông tin dữ liệu; bảo mật các thông tin được chia sẻ.
+
+5. Cục Tin học và Thống kê tài chính - Bộ Tài chính có trách nhiệm:
+
+a) Quản lý, duy trì và đảm bảo kỹ thuật cho hoạt động của hệ thống mạng thông tin và Chương trình phần mềm báo cáo giá thị trường phục vụ cho việc thực hiện chế độ báo cáo giá thị trường. Đảm bảo an ninh, an toàn về mặt kỹ thuật, lưu trữ và bảo mật số liệu đối với hệ thống dữ liệu giá.
+
+b) Chủ trì, phối hợp với Cục Quản lý giá hướng dẫn việc báo cáo theo hệ thống mạng giữa các Sở Tài chính với Cục Quản lý giá. Hướng dẫn xử lý các vấn đề về kỹ thuật phát sinh trong quá trình cập nhật, khai thác, sử dụng hệ thống thông tin dữ liệu giá; bảo mật các thông tin được chia sẻ.
+
+6. Tổng cục Hải quan có trách nhiệm phối hợp gửi Cục Quản lý giá báo cáo trị giá hải quan đối với hàng hóa xuất nhập khẩu theo quy định tại Khoản 2 Điều 14 Thông tư số 142/2015/TT-BTC ngày 04 tháng 9 năm 2015 của Bộ Tài chính quy định về Cơ sở dữ liệu quốc gia về giá để phục vụ quản lý nhà nước về giá trong trường hợp giá hàng hóa có biến động bất thường hoặc theo yêu cầu của cơ quan nhà nước có thẩm quyền.
+
+Điều 10. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 2 năm 2019 và thay thế Thông tư số 55/2011/TT-BTC ngày 29 tháng 4 năm 2011 của Bộ Tài chính hướng dẫn chế độ báo cáo giá thị trường hàng hóa, dịch vụ trong nước, giá hàng hóa nhập khẩu.
+
+2. Trong quá trình thực hiện nếu có vướng mắc, các đơn vị báo cáo về Bộ Tài chính (Cục Quản lý giá) để hướng dẫn giải quyết và sửa đổi, bổ sung cho phù hợp.
+
+| Nơi nhận: - Thủ tướng, các Phó Thủ tướng Chính phủ; - Văn phòng TW Đảng và các ban của Đảng; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Văn phòng Chính phủ; - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - Tòa án nhân dân tối cao; - Viện Kiểm sát nhân dân tối cao; - Kiểm toán Nhà nước; - Cơ quan TW của các đoàn thể; - UBND tỉnh, thành phố trực thuộc TW; - Sở Tài chính, TP trực thuộc TW; - Tổng cục Hải Quan; - Công báo; Cục Kiểm tra văn bản (Bộ Tư pháp); - Cổng TTĐT Chính phủ; Cổng TTĐT Bộ Tài chính; - Các đơn vị thuộc Bộ Tài chính; - Lưu: VT, QLG. | KT. BỘ TRƯỞNG THỨ TRƯỞNG Trần Văn Hiếu |
+
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
+
+Nơi nhận: - Thủ tướng, các Phó Thủ tướng Chính phủ; - Văn phòng TW Đảng và các ban của Đảng; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Văn phòng Chính phủ; - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - Tòa án nhân dân tối cao; - Viện Kiểm sát nhân dân tối cao; - Kiểm toán Nhà nước; - Cơ quan TW của các đoàn thể; - UBND tỉnh, thành phố trực thuộc TW; - Sở Tài chính, TP trực thuộc TW; - Tổng cục Hải Quan; - Công báo; Cục Kiểm tra văn bản (Bộ Tư pháp); - Cổng TTĐT Chính phủ; Cổng TTĐT Bộ Tài chính; - Các đơn vị thuộc Bộ Tài chính; - Lưu: VT, QLG.
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Trần Văn Hiếu
+
+PHỤ LỤC SỐ 1
+
+| SỞ TÀI CHÍNH tỉnh, thành phố: ….. | Tên tệp:…………. |
+
+|-----------------------------------|---------------|
+
+SỞ TÀI CHÍNH tỉnh, thành phố: …..
+
+Tên tệp:………….
+
+BẢNG GIÁ THỊ TRƯỜNG THÁNG …….. NĂM ……………
+
+(Ban hành kèm theo Thông tư số 116 /2018/TT-BTC ngày 28/11 /2018 của Bộ Tài chính quy định chế độ báo cáo giá thị trường)
+
+| STT     | Mã hàng hóa                                                 | Tên hàng hóa, dịch vụ                                                                               | Đặc điểm kinh tế, kỹ thuật, quy cách                                                                                                                                                            | Đơn vị tính                                                                                       | Loại giá | Giá kỳ trước | Giá kỳ này | Mức tăng (giảm) | Tỷ lệ tăng (giảm) (%) | Nguồn thông tin | Ghi chú                                                                                                                                                                                                                                                                                           |
+
+|---------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------|--------------|------------|-----------------|-----------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| (1)     | (2)                                                         | (3)                                                                                                 | (4)                                                                                                                                                                                             | (5)                                                                                               | (6)      | (7)          | (8)        | (9)=(8-7)       | (10)=(9/7)            | (11)            | (12)                                                                                                                                                                                                                                                                                              |
+
+| I.      | 01                                                          | LƯƠNG THỰC, THỰC PHẨM                                                                               |                                                                                                                                                                                                 |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 1       | 01.0001                                                     | Thóc, gạo tẻ thường                                                                                 | Khang dân hoặc tương đương                                                                                                                                                                      | đ/kg                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 2       | 01.0002                                                     | Gạo tẻ ngon                                                                                         | Tám thơm hoặc tương đương                                                                                                                                                                       | đ/kg                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 3       | 01.0003                                                     | Thịt lợn hơi (Thịt heo hơi)                                                                         |                                                                                                                                                                                                 | đ/kg                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 4       | 01.0004                                                     | Thịt lợn nạc thăn (Thịt heo nạc thăn)                                                               |                                                                                                                                                                                                 | đ/kg                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 5       | 01.0005                                                     | Thịt bò thăn                                                                                        | Loại 1 hoặc phổ biến                                                                                                                                                                            | đ/kg                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 6       | 01.0006                                                     | Thịt bò bắp                                                                                         | Bắp hoa hoặc bắp lõi, loại 200 – 300 gram/ cái                                                                                                                                                  | đ/kg                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 7       | 01.0007                                                     | Gà ta                                                                                               | Còn sống, loại 1,5 – 2kg /1 con hoặc phổ biến                                                                                                                                                   | đ/kg                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 8       | 01.0008                                                     | Gà công nghiệp                                                                                      | Làm sẵn, nguyên con, bỏ lòng, loại 1,5 – 2kg /1 con hoặc phổ biến                                                                                                                               | đ/kg                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 9       | 01.0009                                                     | Giò lụa                                                                                             | Loại 1 kg                                                                                                                                                                                       | đ/kg                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 10      | 01.0010                                                     | Cá quả (cá lóc)                                                                                     | Loại  2 con/1 kg hoặc phổ biến                                                                                                                                                                  | đ/kg                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 11      | 01.0011                                                     | Cá chép                                                                                             | Loại  2 con/1 kg hoặc phổ biến                                                                                                                                                                  | đ/kg                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 12      | 01.0012                                                     | Tôm rảo, tôm nuôi nước ngọt                                                                         | Loại 40-45 con/kg                                                                                                                                                                               | đ/kg                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 13      | 01.0013                                                     | Bắp cải trắng                                                                                       | Loại to vừa khoảng 0,5-1kg/bắp                                                                                                                                                                  | đ/kg                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 14      | 01.0014                                                     | Cải xanh                                                                                            | Cải ngọt hoặc cải cay theo mùa                                                                                                                                                                  | đ/kg                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 15      | 01.0015                                                     | Bí xanh                                                                                             | Quả từ 1-2 kg hoặc phổ biến                                                                                                                                                                     | đ/kg                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 16      | 01.0016                                                     | Cà chua                                                                                             | Quả to vừa, 8-10 quả/kg                                                                                                                                                                         | đ/kg                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 17      | 01.0017                                                     | Muối hạt                                                                                            | Gói 01 kg                                                                                                                                                                                       | đ/kg                                                                                              |          |              |            |                 |                       |                 | Ghi rõ nhãn hiệu                                                                                                                                                                                                                                                                                  |
+
+| 18      | 01.0018                                                     | Dầu thực vật                                                                                        | Chai 01 lít                                                                                                                                                                                     | đ/lít                                                                                             |          |              |            |                 |                       |                 | Ghi rõ nhãn hiệu                                                                                                                                                                                                                                                                                  |
+
+| 19      | 01.0019                                                     | Đường trắng kết tinh, nội                                                                           | Gói 01 kg                                                                                                                                                                                       | đ/kg                                                                                              |          |              |            |                 |                       |                 | Ghi rõ nhãn hiệu                                                                                                                                                                                                                                                                                  |
+
+| 20      | 01.0020                                                     | Sữa bột dùng cho trẻ em dưới 06 tuổi                                                                | Ghi rõ quy cách                                                                                                                                                                                 | đ/kg                                                                                              |          |              |            |                 |                       |                 | Ghi rõ nhãn hiệu                                                                                                                                                                                                                                                                                  |
+
+| II      | 02                                                          | VẬT TƯ NÔNG NGHIỆP                                                                                  |                                                                                                                                                                                                 |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 21      | 02.0001                                                     | Giống lúa Khang dân đột biến, cấp NC                                                                |                                                                                                                                                                                                 | đ/kg                                                                                              |          |              |            |                 |                       |                 | Địa phương chọn từ 1-5 giống lúa phổ biến trong danh mục hoặc giống lúa khác phổ biến trên địa bàn                                                                                                                                                                                                |
+
+| 02.0002 | Giống lúa Bắc thơm số 7, cấp NC                             |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0003 | Giống lúa Hương thơm số 1, cấp NC                           |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0004 | Giống lúa Nếp 87, cấp NC                                    |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0005 | Giống lúa Nếp 97, cấp NC                                    |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0006 | Giống lúa Thiên ưu 8, cấp XN1                               |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0007 | Giống lúa RVT, cấp XN1                                      |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0008 | Giống lúa Đài thơm 8, cấp XN1                               |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0009 | Giống lúa OM6976                                            |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0010 | Giống lúa Khang dân 18                                      |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0011 | Giống lúa ĐB6                                               |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0012 | Giống lúa T10                                               |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0013 | Giống lúa Q5                                                |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0014 | Giống lúa Xi23                                              |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0015 | Giống lúa ĐV 108                                            |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0016 | Giống lúa HN6                                               |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0017 | Giống lúa OM4900                                            |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0018 | Giống lúa OM6162                                            |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0019 | Giống lúa VND95-20                                          |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0020 | Giống lúa khác phổ biến                                     |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 22      | 02.0022                                                     | Giống ngô HN88, cấp F1                                                                              |                                                                                                                                                                                                 | đ/kg                                                                                              |          |              |            |                 |                       |                 | Địa phương chọn từ 1-5 giống ngô phổ biến trong danh mục hoặc giống ngô khác phổ biến trên địa bàn                                                                                                                                                                                                |
+
+| 02.0023 | Giống ngô SSC2095, cấp F1                                   |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0024 | Giống ngô LVN10, cấp F1                                     |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0025 | Giống ngô SSC586                                            |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0026 | Giống ngô HN68                                              |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0027 | Giống ngô B21                                               |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0028 | Giống ngô B9698                                             |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0029 | Giống ngô LVN4 F1                                           |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0030 | Giống ngô VN2                                               |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0031 | Giống ngô MX10,                                             |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0032 | Giống ngô LVN61                                             |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0033 | Giống ngô CP333                                             |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0034 | Giống ngô MX2                                               |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0035 | Giống ngô MX4                                               |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0036 | Giống ngô khác phổ biến                                     |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 23      | 02.0037                                                     | Hạt giống Bắp cải Nhật Bản, cấp F1                                                                  |                                                                                                                                                                                                 | đ/kg                                                                                              |          |              |            |                 |                       |                 | Địa phương chọn từ 1-5  hạt giống rau phổ biến  có trong danh mục hoặc hạt giống rau khác phổ biến trên địa bàn                                                                                                                                                                                   |
+
+| 02.0038 | Hạt giống Dưa chuột Thái Lan, cấp F1                        |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0039 | Hạt giống Bí xanh sặt Việt Nam, cấp xác nhận                |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0040 | Hạt giống Khổ qua lai VG Trung Quốc, cấp F1                 |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0041 | Hạt giống Bí ngô mật số 08 Trung Quốc, cấp F1               |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0042 | Hạt giống Xà lách Hải Phòng, cấp xác nhận                   |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0043 | Hạt giống Cải bẹ Đại Bình Phổ 818 Trung Quốc, cấp xác nhận  |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0044 | Hạt giống Cải bẹ Mào gà GRQ09, cấp xác nhận                 |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0045 | Hạt giống Cải mơ Hoàng Mai GRQ, cấp xác nhận                |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0046 | Hạt giống Cải ngọt Quảng Phủ Trung Quốc, cấp xác nhận       |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0047 | Hạt giống Cải xanh lùn Thanh Giang Trung Quốc, cấp xác nhận |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0048 | Hạt giống Cải củ lá ngắn số 13 Trung Quốc, cấp xác nhận     |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0049 | Hạt giống Đậu đũa cao sản số 5 Trung Quốc, cấp xác nhận     |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0050 | Hạt giống Đậu Tứ quý số 1 Trung Quốc, cấp xác nhận          |                                                                                                     | đ/kg                                                                                                                                                                                            |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 24      | 02.0051                                                     | Vac-xin Lở mồm long móng                                                                            |                                                                                                                                                                                                 | Đồng/liều                                                                                         |          |              |            |                 |                       |                 | Địa phương chọn các vacxin trong danh mục phát sinh giao dịch mua bán trên địa bàn, ghi rõ xuất xứ, đơn vị nhập, sản xuất                                                                                                                                                                         |
+
+| 02.0052 | Vac-xin Tai xanh (PRRS)                                     |                                                                                                     | Đồng/liều                                                                                                                                                                                       |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0053 | Vac-xin tụ huyết trùng                                      |                                                                                                     | Đồng/liều                                                                                                                                                                                       |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0054 | Vac-xin dịch tả lợn                                         |                                                                                                     | Đồng/liều                                                                                                                                                                                       |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0055 | Vac-xin cúm gia cầm                                         |                                                                                                     | Đồng/liều                                                                                                                                                                                       |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 02.0056 | Vac-xin dịch tả vịt                                         |                                                                                                     | Đồng/liều                                                                                                                                                                                       |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 25      | 02.0057                                                     | Thuốc thú ý                                                                                         | Chứa các hoạt chất: Ampicillin, Amoxicillin; Colistin; Florfenicol; Tylosin; Doxycyclin; Gentamycine; Spiramycin; Oxytetracyline; Kanammycin; Streptomycin; Lincomycin; Celphalexin; Flumequin. | đ/lít, kg, liều, chai, gói, can, lọ, bao                                                          |          |              |            |                 |                       |                 | Ghi rõ xuất xứ, đơn vị nhập, sản xuất                                                                                                                                                                                                                                                             |
+
+| 26      | 02.0058                                                     | Thuốc trừ sâu                                                                                       | Chứa hoạt chất Fenobucarb; Pymethrozin; Dinotefuran; Ethofenprox ; Buprofezin ; Imidacloprid ; Fipronil.                                                                                        | đ/lít, kg, liều, chai, gói, can, lọ, bao                                                          |          |              |            |                 |                       |                 | Ghi rõ xuất xứ, đơn vị nhập, sản xuất                                                                                                                                                                                                                                                             |
+
+| 27      | 02.0059                                                     | Thuốc trừ bệnh                                                                                      | Chứa hoạt chất: Isoprothiolane; Tricyclazole; Kasugamycin; Fenoxanil; Fosetyl-aluminium; Metalaxy; Mancozeb; Zined .                                                                            | đ/lít, kg, liều, chai, gói, can, lọ, bao                                                          |          |              |            |                 |                       |                 | Ghi rõ xuất xứ, đơn vị nhập, sản xuất                                                                                                                                                                                                                                                             |
+
+| 28      | 02.0060                                                     | Thuốc trừ cỏ                                                                                        | Chứa hoạt chất: Glyphosate; Pretilachlor; Quinclorac; Ametryn.                                                                                                                                  | đ/lít, kg, liều, chai, gói, can, lọ, bao                                                          |          |              |            |                 |                       |                 | Ghi rõ xuất xứ, đơn vị nhập, sản xuất                                                                                                                                                                                                                                                             |
+
+| 29      | 02.0061                                                     | Phân đạm urê                                                                                        | Có hàm lượng Nitơ (N) tổng số ≥ 46%;                                                                                                                                                            | đ/kg, gói, bao                                                                                    |          |              |            |                 |                       |                 | Ghi rõ nhãn hiệu, bao hoặc gói bao nhiêu kg                                                                                                                                                                                                                                                       |
+
+| 30      | 02.0062                                                     | Phân NPK                                                                                            | Có tổng hàm lượng các chất dinh dưỡng Nitơ tổng số (Nts), lân hữu hiệu (P2O5hh), kali hữu hiệu (K2Ohh) ≥ 18%.                                                                                   | đ/kg, gói, bao                                                                                    |          |              |            |                 |                       |                 | Ghi rõ nhãn hiệu, bao hoặc gói bao nhiêu kg                                                                                                                                                                                                                                                       |
+
+| III     | 03                                                          | ĐỒ UỐNG                                                                                             |                                                                                                                                                                                                 |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 31      | 03.0001                                                     | Nước khoáng                                                                                         | Chai nhựa 500ml                                                                                                                                                                                 | đ/chai                                                                                            |          |              |            |                 |                       |                 | Chọn 1 loại phổ biến tại địa phương đối với mỗi mặt hàng trong nhóm đồ uống: nước khoáng (như Lavie, Aquafina, Dasani, Vĩnh Hảo…); rượu vang nội (như Thăng Long, Đà Lạt…); nước giải khát có ga (như coca-cola, pepsi, 7up…),  bia lon (như Hà Nội, Sài Gòn, Heineken, Tiger…), ghi rõ nhãn hiệu |
+
+| 32      | 03.0002                                                     | Rượu vang nội                                                                                       | Chai 750ml                                                                                                                                                                                      | đ/chai                                                                                            |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 33      | 03.0003                                                     | Nước giải khát có ga                                                                                | Thùng 24 lon 330ml loại phổ biến                                                                                                                                                                | đ/thùng 24 lon                                                                                    |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 34      | 03.0004                                                     | Bia lon                                                                                             | Thùng 24 lon 330ml loại phổ biến                                                                                                                                                                | đ/thùng 24 lon                                                                                    |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| IV      | 04                                                          | VẬT LIỆU XÂY DỰNG,  CHẤT ĐỐT, NƯỚC SINH HOẠT                                                        |                                                                                                                                                                                                 |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 35      | 04.0001                                                     | Xi măng                                                                                             | PCB30 bao 50kg                                                                                                                                                                                  | đ/bao                                                                                             |          |              |            |                 |                       |                 | Ghi rõ nhãn hiệu                                                                                                                                                                                                                                                                                  |
+
+| 36      | 04.0002                                                     | Thép xây dựng                                                                                       | Ghi rõ quy cách                                                                                                                                                                                 | đ/kg                                                                                              |          |              |            |                 |                       |                 | Ghi rõ nhãn hiệu                                                                                                                                                                                                                                                                                  |
+
+| 37      | 04.0003                                                     | Cát xây                                                                                             | Mua rời dưới 2m3/lần, tại nơi cung ứng (không phải nơi khai thác)                                                                                                                               | đ/m3                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 38      | 04.0004                                                     | Cát vàng                                                                                            | Mua rời dưới 2m3/lần, tại nơi cung ứng (không phải nơi khai thác)                                                                                                                               | đ/m3                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 39      | 04.0005                                                     | Cát đen đổ nền                                                                                      | Mua rời dưới 2m3/lần, tại nơi cung ứng (không phải nơi khai thác)                                                                                                                               | đ/m3                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 40      | 04.0006                                                     | Gạch xây                                                                                            | Gạch ống 2 lỗ, cỡ rộng 10 x dài 22, loại 1, mua rời tại nơi cung ứng hoặc tương đương                                                                                                           | đ/viên                                                                                            |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 41      | 04.0007                                                     | Ống nhựa                                                                                            | Phi 90 loại 1                                                                                                                                                                                   | đ/m                                                                                               |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 42      | 04.0008                                                     | Gas đun                                                                                             | Loại bình 12kg (không kể tiền bình)                                                                                                                                                             | đ/kg                                                                                              |          |              |            |                 |                       |                 | Ghi rõ nhãn hiệu                                                                                                                                                                                                                                                                                  |
+
+| 43      | 04.0009                                                     | Nước sạch sinh hoạt                                                                                 | Ghi rõ tên doanh nghiệp cung cấp, địa bàn cung cấp                                                                                                                                              | đ/m3                                                                                              |          |              |            |                 |                       |                 | Trung bình 10m3 đầu tiên                                                                                                                                                                                                                                                                          |
+
+| V       | 05                                                          | THUỐC CHỮA BỆNH CHO NGƯỜI                                                                           |                                                                                                                                                                                                 |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 44      | 05.0001                                                     | Thuốc tim mạch                                                                                      | Hoạt chất Amlodipin 10 mg hoặc Hoạt chất Atorvastatin 10mg hoặc Hoạt chất Nifedipin 20mg                                                                                                        | đ/đơn vị đóng gói nhỏ nhất (ví dụ: đ/hộp đ/vỉ 10 viên; đ/vỉ 8 viên, đ/lọ 10ml; đ/vỉ 10 ống 2ml….) |          |              |            |                 |                       |                 | Ghi rõ tên thương mại, xuất xứ, quy cách đóng gói, đường dùng (uống, tiêm…), nhà sản xuất                                                                                                                                                                                                         |
+
+| 45      | 05.0002                                                     | Thuốc chống nhiễm, điều trị ký sinh trùng                                                           | Hoạt chất Cefuroxim 500mg hoặc Hoạt chất Amoxicilin  500mg                                                                                                                                      |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 46      | 05.0003                                                     | Thuốc dị ứng và các trường hợp quá mẫn cảm                                                          | Hoạt chất Cinnarizin 25mg hoặc Hoạt chất Fexofenadin 60mg                                                                                                                                       |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 47      | 05.0004                                                     | Thuốc giảm đau, hạ sốt, chống viêm không steroid và thuốc điều trị gut và các bệnh xương            | Hoạt chất Paracetamol 500mg hoặc Hoạt chất Alpha Chymotrypsin 4.2mg                                                                                                                             |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 48      | 05.0005                                                     | Thuốc tác dụng trên đường hô hấp                                                                    | Hoạt chất N-acetylcystein 200mg                                                                                                                                                                 |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 49      | 05.0006                                                     | Thuốc vitamin và khoáng chất                                                                        | Vitamin B1 hoặc B6 hoặc B12                                                                                                                                                                     |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 50      | 05.0007                                                     | Thuốc đường tiêu hóa                                                                                | Hoạt chất Omeprazone 20 mg hoặc Hoạt chất Domperdone 10 mg                                                                                                                                      |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 51      | 05.0008                                                     | Hóc môn và các thuốc tác động vào hệ nội tiết                                                       | Hoạt chất Methyl Prednisolon 4mg hoặc Hoạt chất Gliclazid 30 mg hoặc Hoạt chất Metformin 500mg                                                                                                  |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 52      | 05.0009                                                     | Thuốc khác                                                                                          | Hoạt chất Sulfamethoxazol 400mg                                                                                                                                                                 |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| VI      | 06                                                          | DỊCH VỤ Y TẾ                                                                                        |                                                                                                                                                                                                 |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 53      | 06.0001                                                     | Khám bệnh                                                                                           | Giá dịch vụ khám bệnh, chữa bệnh không thuộc phạm vi thanh toán của Quỹ bảo hiểm y tế trong các cơ sở khám bệnh, chữa bệnh của Nhà nước                                                         | đ/lượt                                                                                            |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 54      | 06.0002                                                     | Ngày giường điều trị nội trú nội khoa, loại 1                                                       | đ/ngày                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 55      | 06.0003                                                     | Siêu âm                                                                                             | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 56      | 06.0004                                                     | X-quang số hóa 1 phim                                                                               | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 57      | 06.0005                                                     | Xét nghiệm tế bào cặn nước tiểu hoặc cặn Adis                                                       | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 58      | 06.0006                                                     | Điện tâm đồ                                                                                         | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 59      | 06.0007                                                     | Nội soi thực quản-dạ dày- tá tràng ống mềm không sinh thiết                                         | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 60      | 06.0008                                                     | Hàn composite cổ răng                                                                               | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 61      | 06.0009                                                     | Châm cứu (có kim dài)                                                                               | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 62      | 06.0010                                                     | Khám bệnh                                                                                           | Giá dịch vụ khám bệnh, chữa bệnh theo yêu cầu tại cơ sở khám bệnh, chữa bệnh của Nhà nước                                                                                                       | đ/lượt                                                                                            |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 63      | 06.0011                                                     | Ngày giường điều trị nội trú nội khoa, loại 1                                                       | đ/ngày                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 64      | 06.0012                                                     | Siêu âm                                                                                             | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 65      | 06.0013                                                     | X-quang số hóa 1 phim                                                                               | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 66      | 06.0014                                                     | Xét nghiệm tế bào cặn nước tiểu hoặc cặn Adis                                                       | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 67      | 06.0015                                                     | Điện tâm đồ                                                                                         | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 68      | 06.0016                                                     | Nội soi thực quản-dạ dày- tá tràng ống mềm không sinh thiết                                         | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 69      | 06.0017                                                     | Hàn composite cổ răng                                                                               | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 70      | 06.0018                                                     | Châm cứu (có kim dài)                                                                               | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 71      | 06.0019                                                     | Khám bệnh                                                                                           | Giá dịch vụ khám bệnh, chữa bệnh  tại cơ sở khám bệnh, chữa bệnh tư nhân.                                                                                                                       | đ/lượt                                                                                            |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 72      | 06.0020                                                     | Ngày giường điều trị nội trú nội khoa, loại 1                                                       | đ/ngày                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 73      | 06.0021                                                     | Siêu âm                                                                                             | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 74      | 06.0022                                                     | X-quang số hóa 1 phim                                                                               | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 75      | 06.0023                                                     | Xét nghiệm tế bào cặn nước tiểu hoặc cặn Adis                                                       | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 76      | 06.0024                                                     | Điện tâm đồ                                                                                         | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 77      | 06.0025                                                     | Nội soi thực quản-dạ dày- tá tràng ống mềm không sinh thiết                                         | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 78      | 06.0026                                                     | Hàn composite cổ răng                                                                               | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 79      | 06.0027                                                     | Châm cứu (có kim dài)                                                                               | đ/lượt                                                                                                                                                                                          |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| VII     | 07                                                          | GIAO THÔNG                                                                                          |                                                                                                                                                                                                 |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 80      | 07.0001                                                     | Trông giữ xe máy                                                                                    |                                                                                                                                                                                                 | đ/lượt                                                                                            |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 81      | 07.0002                                                     | Trông giữ ô tô                                                                                      |                                                                                                                                                                                                 | đ/lượt                                                                                            |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 82      | 07.0003                                                     | Giá cước ô tô đi đường dài                                                                          | Chọn 1 tuyến phổ biến, xe đường dài máy lạnh                                                                                                                                                    | đ/vé                                                                                              |          |              |            |                 |                       |                 | Ghi rõ tuyến và loại xe                                                                                                                                                                                                                                                                           |
+
+| 83      | 07.0004                                                     | Giá cước xe buýt công cộng                                                                          | Đi trong nội tỉnh, dưới 30km                                                                                                                                                                    | đ/vé                                                                                              |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 84      | 07.0005                                                     | Giá cước taxi                                                                                       | Lấy giá 10km đầu, loại xe 4 chỗ                                                                                                                                                                 | đ/km                                                                                              |          |              |            |                 |                       |                 | Ghi rõ hãng taxi                                                                                                                                                                                                                                                                                  |
+
+| 85      | 07.0006                                                     | Xăng E5 Ron 92                                                                                      |                                                                                                                                                                                                 | đ/lít                                                                                             |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 86      | 07.0007                                                     | Xăng Ron 95                                                                                         |                                                                                                                                                                                                 | đ/lít                                                                                             |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 87      | 07.0008                                                     | Dầu Diezel                                                                                          |                                                                                                                                                                                                 | đ/lít                                                                                             |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| VIII    | 08                                                          | DỊCH VỤ GIÁO DỤC                                                                                    |                                                                                                                                                                                                 |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 88      | 08.0001                                                     | Dịch vụ giáo dục trường mầm non công lập                                                            | Ghi rõ tên trường                                                                                                                                                                               | Đồng/tháng                                                                                        |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 89      | 08.0002                                                     | Dịch vụ giáo dục trường trung học cơ sở công lập (lớp 8)                                            | Ghi rõ tên trường                                                                                                                                                                               | Đồng/tháng                                                                                        |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 90      | 08.0003                                                     | Dịch vụ giáo dục trường trung học phổ thông công lập (lớp 11)                                       | Ghi rõ tên trường                                                                                                                                                                               | Đồng/tháng                                                                                        |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 91      | 08.0004                                                     | Dịch vụ giáo dục đào tạo nghề công lập                                                              | Ghi rõ tên trường, ngành nghề đào tạo                                                                                                                                                           | Đồng/tháng hoặc đồng/tín chỉ                                                                      |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 92      | 08.0005                                                     | Dịch vụ giáo dục đào tạo trung cấp, trường thuộc cấp Bộ quản lý                                     | Ghi rõ tên trường, ngành nghề đào tạo                                                                                                                                                           | Đồng/tháng hoặc đồng/tín chỉ                                                                      |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 93      | 08.0006                                                     | Dịch vụ giáo dục đào tạo cao đẳng công lập                                                          | Ghi rõ tên trường, ngành nghề đào tạo                                                                                                                                                           | Đồng/tháng hoặc đồng/tín chỉ                                                                      |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 94      | 08.0008                                                     | Dịch vụ giáo dục đào tạo đại học công lập hoặc tương đương đại học công lập                         | Ghi rõ tên trường, ngành nghề đào tạo                                                                                                                                                           | Đồng/tháng hoặc đồng/tín chỉ                                                                      |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| IX      | 09                                                          | GIẢI TRÍ VÀ DU LỊCH                                                                                 |                                                                                                                                                                                                 |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 95      | 09.0001                                                     | Du lịch trọn gói trong nước                                                                         | Cho 1 người chuyến 2 ngày 1 đêm (từ đâu, đến đâu...)                                                                                                                                            | đ/người/ chuyến                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 96      | 09.0002                                                     | Phòng khách sạn 3 sao hoặc tương đương                                                              | Hai giường đơn hoặc 1 giường đôi, có tivi, điêu hòa nước nóng, điện thoại cố định, vệ sinh khép kín,Wifí                                                                                        | đ/ngày-đêm                                                                                        |          |              |            |                 |                       |                 | Ghi rõ tên khách sạn                                                                                                                                                                                                                                                                              |
+
+| 97      | 09.0003                                                     | Phòng nhà khách tư nhân                                                                             | 1 giường, điều hoà, nước nóng-lạnh, phòng vệ sinh khép kín                                                                                                                                      | đ/ngày-đêm                                                                                        |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| X       | 10                                                          | VÀNG, ĐÔ LA MỸ                                                                                      |                                                                                                                                                                                                 |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| 98      | 10.0001                                                     | Vàng 99,99%                                                                                         | Kiểu nhẫn tròn 1 chỉ                                                                                                                                                                            | 1000 đ/chỉ                                                                                        |          |              |            |                 |                       |                 | Vàng nhẫn tròn thị trường tự do                                                                                                                                                                                                                                                                   |
+
+| 99      | 10.0002                                                     | Đô la Mỹ                                                                                            | Loại tờ 100USD                                                                                                                                                                                  | đ/USD                                                                                             |          |              |            |                 |                       |                 | Giá mua vào và bán ra của ngân hàng thương mại                                                                                                                                                                                                                                                    |
+
+| XI      |                                                             | GIÁ KÊ KHAI CÁC MẶT HÀNG TRÊN ĐỊA BÀN                                                               |                                                                                                                                                                                                 |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+| XII     |                                                             | GIÁ ĐĂNG KÝ CÁC MẶT HÀNG TRONG DANH MỤC BÌNH ỔN GIÁ TRONG THỜI GIAN THỰC HIỆN BIỆN PHÁP BÌNH ỔN GIÁ |                                                                                                                                                                                                 |                                                                                                   |          |              |            |                 |                       |                 |                                                                                                                                                                                                                                                                                                   |
+
+STT
+
+Mã hàng hóa
+
+Tên hàng hóa, dịch vụ
+
+Đặc điểm kinh tế, kỹ thuật, quy cách
+
+Đơn vị tính
+
+Loại giá
+
+Giá kỳ trước
+
+Giá kỳ này
+
+Mức tăng (giảm)
+
+Tỷ lệ tăng (giảm) (%)
+
+Nguồn thông tin
+
+Ghi chú
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)=(8-7)
+
+(10)=(9/7)
+
+(11)
+
+(12)
+
+I.
+
+01
+
+LƯƠNG THỰC, THỰC PHẨM
+
+1
+
+01.0001
+
+Thóc, gạo tẻ thường
+
+Khang dân hoặc tương đương
+
+đ/kg
+
+2
+
+01.0002
+
+Gạo tẻ ngon
+
+Tám thơm hoặc tương đương
+
+đ/kg
+
+3
+
+01.0003
+
+Thịt lợn hơi (Thịt heo hơi)
+
+đ/kg
+
+4
+
+01.0004
+
+Thịt lợn nạc thăn (Thịt heo nạc thăn)
+
+đ/kg
+
+5
+
+01.0005
+
+Thịt bò thăn
+
+Loại 1 hoặc phổ biến
+
+đ/kg
+
+6
+
+01.0006
+
+Thịt bò bắp
+
+Bắp hoa hoặc bắp lõi, loại 200 – 300 gram/ cái
+
+đ/kg
+
+7
+
+01.0007
+
+Gà ta
+
+Còn sống, loại 1,5 – 2kg /1 con hoặc phổ biến
+
+đ/kg
+
+8
+
+01.0008
+
+Gà công nghiệp
+
+Làm sẵn, nguyên con, bỏ lòng, loại 1,5 – 2kg /1 con hoặc phổ biến
+
+đ/kg
+
+9
+
+01.0009
+
+Giò lụa
+
+Loại 1 kg
+
+đ/kg
+
+10
+
+01.0010
+
+Cá quả (cá lóc)
+
+Loại 2 con/1 kg hoặc phổ biến
+
+đ/kg
+
+11
+
+01.0011
+
+Cá chép
+
+Loại 2 con/1 kg hoặc phổ biến
+
+đ/kg
+
+12
+
+01.0012
+
+Tôm rảo, tôm nuôi nước ngọt
+
+Loại 40-45 con/kg
+
+đ/kg
+
+13
+
+01.0013
+
+Bắp cải trắng
+
+Loại to vừa khoảng 0,5-1kg/bắp
+
+đ/kg
+
+14
+
+01.0014
+
+Cải xanh
+
+Cải ngọt hoặc cải cay theo mùa
+
+đ/kg
+
+15
+
+01.0015
+
+Bí xanh
+
+Quả từ 1-2 kg hoặc phổ biến
+
+đ/kg
+
+16
+
+01.0016
+
+Cà chua
+
+Quả to vừa, 8-10 quả/kg
+
+đ/kg
+
+17
+
+01.0017
+
+Muối hạt
+
+Gói 01 kg
+
+đ/kg
+
+Ghi rõ nhãn hiệu
+
+18
+
+01.0018
+
+Dầu thực vật
+
+Chai 01 lít
+
+đ/lít
+
+Ghi rõ nhãn hiệu
+
+19
+
+01.0019
+
+Đường trắng kết tinh, nội
+
+Gói 01 kg
+
+đ/kg
+
+Ghi rõ nhãn hiệu
+
+20
+
+01.0020
+
+Sữa bột dùng cho trẻ em dưới 06 tuổi
+
+Ghi rõ quy cách
+
+đ/kg
+
+Ghi rõ nhãn hiệu
+
+II
+
+02
+
+VẬT TƯ NÔNG NGHIỆP
+
+21
+
+02.0001
+
+Giống lúa Khang dân đột biến, cấp NC
+
+đ/kg
+
+Địa phương chọn từ 1-5 giống lúa phổ biến trong danh mục hoặc giống lúa khác phổ biến trên địa bàn
+
+02.0002
+
+Giống lúa Bắc thơm số 7, cấp NC
+
+đ/kg
+
+02.0003
+
+Giống lúa Hương thơm số 1, cấp NC
+
+đ/kg
+
+02.0004
+
+Giống lúa Nếp 87, cấp NC
+
+đ/kg
+
+02.0005
+
+Giống lúa Nếp 97, cấp NC
+
+đ/kg
+
+02.0006
+
+Giống lúa Thiên ưu 8, cấp XN1
+
+đ/kg
+
+02.0007
+
+Giống lúa RVT, cấp XN1
+
+đ/kg
+
+02.0008
+
+Giống lúa Đài thơm 8, cấp XN1
+
+đ/kg
+
+02.0009
+
+Giống lúa OM6976
+
+đ/kg
+
+02.0010
+
+Giống lúa Khang dân 18
+
+đ/kg
+
+02.0011
+
+Giống lúa ĐB6
+
+đ/kg
+
+02.0012
+
+Giống lúa T10
+
+đ/kg
+
+02.0013
+
+Giống lúa Q5
+
+đ/kg
+
+02.0014
+
+Giống lúa Xi23
+
+đ/kg
+
+02.0015
+
+Giống lúa ĐV 108
+
+đ/kg
+
+02.0016
+
+Giống lúa HN6
+
+đ/kg
+
+02.0017
+
+Giống lúa OM4900
+
+đ/kg
+
+02.0018
+
+Giống lúa OM6162
+
+đ/kg
+
+02.0019
+
+Giống lúa VND95-20
+
+đ/kg
+
+02.0020
+
+Giống lúa khác phổ biến
+
+đ/kg
+
+22
+
+02.0022
+
+Giống ngô HN88, cấp F1
+
+đ/kg
+
+Địa phương chọn từ 1-5 giống ngô phổ biến trong danh mục hoặc giống ngô khác phổ biến trên địa bàn
+
+02.0023
+
+Giống ngô SSC2095, cấp F1
+
+đ/kg
+
+02.0024
+
+Giống ngô LVN10, cấp F1
+
+đ/kg
+
+02.0025
+
+Giống ngô SSC586
+
+đ/kg
+
+02.0026
+
+Giống ngô HN68
+
+đ/kg
+
+02.0027
+
+Giống ngô B21
+
+đ/kg
+
+02.0028
+
+Giống ngô B9698
+
+đ/kg
+
+02.0029
+
+Giống ngô LVN4 F1
+
+đ/kg
+
+02.0030
+
+Giống ngô VN2
+
+đ/kg
+
+02.0031
+
+Giống ngô MX10,
+
+đ/kg
+
+02.0032
+
+Giống ngô LVN61
+
+đ/kg
+
+02.0033
+
+Giống ngô CP333
+
+đ/kg
+
+02.0034
+
+Giống ngô MX2
+
+đ/kg
+
+02.0035
+
+Giống ngô MX4
+
+đ/kg
+
+02.0036
+
+Giống ngô khác phổ biến
+
+đ/kg
+
+23
+
+02.0037
+
+Hạt giống Bắp cải Nhật Bản, cấp F1
+
+đ/kg
+
+Địa phương chọn từ 1-5 hạt giống rau phổ biến có trong danh mục hoặc hạt giống rau khác phổ biến trên địa bàn
+
+02.0038
+
+Hạt giống Dưa chuột Thái Lan, cấp F1
+
+đ/kg
+
+02.0039
+
+Hạt giống Bí xanh sặt Việt Nam, cấp xác nhận
+
+đ/kg
+
+02.0040
+
+Hạt giống Khổ qua lai VG Trung Quốc, cấp F1
+
+đ/kg
+
+02.0041
+
+Hạt giống Bí ngô mật số 08 Trung Quốc, cấp F1
+
+đ/kg
+
+02.0042
+
+Hạt giống Xà lách Hải Phòng, cấp xác nhận
+
+đ/kg
+
+02.0043
+
+Hạt giống Cải bẹ Đại Bình Phổ 818 Trung Quốc, cấp xác nhận
+
+đ/kg
+
+02.0044
+
+Hạt giống Cải bẹ Mào gà GRQ09, cấp xác nhận
+
+đ/kg
+
+02.0045
+
+Hạt giống Cải mơ Hoàng Mai GRQ, cấp xác nhận
+
+đ/kg
+
+02.0046
+
+Hạt giống Cải ngọt Quảng Phủ Trung Quốc, cấp xác nhận
+
+đ/kg
+
+02.0047
+
+Hạt giống Cải xanh lùn Thanh Giang Trung Quốc, cấp xác nhận
+
+đ/kg
+
+02.0048
+
+Hạt giống Cải củ lá ngắn số 13 Trung Quốc, cấp xác nhận
+
+đ/kg
+
+02.0049
+
+Hạt giống Đậu đũa cao sản số 5 Trung Quốc, cấp xác nhận
+
+đ/kg
+
+02.0050
+
+Hạt giống Đậu Tứ quý số 1 Trung Quốc, cấp xác nhận
+
+đ/kg
+
+24
+
+02.0051
+
+Vac-xin Lở mồm long móng
+
+Đồng/liều
+
+Địa phương chọn các vacxin trong danh mục phát sinh giao dịch mua bán trên địa bàn, ghi rõ xuất xứ, đơn vị nhập, sản xuất
+
+02.0052
+
+Vac-xin Tai xanh (PRRS)
+
+Đồng/liều
+
+02.0053
+
+Vac-xin tụ huyết trùng
+
+Đồng/liều
+
+02.0054
+
+Vac-xin dịch tả lợn
+
+Đồng/liều
+
+02.0055
+
+Vac-xin cúm gia cầm
+
+Đồng/liều
+
+02.0056
+
+Vac-xin dịch tả vịt
+
+Đồng/liều
+
+25
+
+02.0057
+
+Thuốc thú ý
+
+Chứa các hoạt chất: Ampicillin, Amoxicillin; Colistin; Florfenicol; Tylosin; Doxycyclin; Gentamycine; Spiramycin; Oxytetracyline; Kanammycin; Streptomycin; Lincomycin; Celphalexin; Flumequin.
+
+đ/lít, kg, liều, chai, gói, can, lọ, bao
+
+Ghi rõ xuất xứ, đơn vị nhập, sản xuất
+
+26
+
+02.0058
+
+Thuốc trừ sâu
+
+Chứa hoạt chất Fenobucarb; Pymethrozin; Dinotefuran; Ethofenprox ; Buprofezin ; Imidacloprid ; Fipronil.
+
+đ/lít, kg, liều, chai, gói, can, lọ, bao
+
+Ghi rõ xuất xứ, đơn vị nhập, sản xuất
+
+27
+
+02.0059
+
+Thuốc trừ bệnh
+
+Chứa hoạt chất: Isoprothiolane; Tricyclazole; Kasugamycin; Fenoxanil; Fosetyl-aluminium; Metalaxy; Mancozeb; Zined .
+
+đ/lít, kg, liều, chai, gói, can, lọ, bao
+
+Ghi rõ xuất xứ, đơn vị nhập, sản xuất
+
+28
+
+02.0060
+
+Thuốc trừ cỏ
+
+Chứa hoạt chất: Glyphosate; Pretilachlor; Quinclorac; Ametryn.
+
+đ/lít, kg, liều, chai, gói, can, lọ, bao
+
+Ghi rõ xuất xứ, đơn vị nhập, sản xuất
+
+29
+
+02.0061
+
+Phân đạm urê
+
+Có hàm lượng Nitơ (N) tổng số ≥ 46%;
+
+đ/kg, gói, bao
+
+Ghi rõ nhãn hiệu, bao hoặc gói bao nhiêu kg
+
+30
+
+02.0062
+
+Phân NPK
+
+Có tổng hàm lượng các chất dinh dưỡng Nitơ tổng số (Nts), lân hữu hiệu (P2O5hh), kali hữu hiệu (K2Ohh) ≥ 18%.
+
+đ/kg, gói, bao
+
+Ghi rõ nhãn hiệu, bao hoặc gói bao nhiêu kg
+
+III
+
+03
+
+ĐỒ UỐNG
+
+31
+
+03.0001
+
+Nước khoáng
+
+Chai nhựa 500ml
+
+đ/chai
+
+Chọn 1 loại phổ biến tại địa phương đối với mỗi mặt hàng trong nhóm đồ uống: nước khoáng (như Lavie, Aquafina, Dasani, Vĩnh Hảo…); rượu vang nội (như Thăng Long, Đà Lạt…); nước giải khát có ga (như coca-cola, pepsi, 7up…), bia lon (như Hà Nội, Sài Gòn, Heineken, Tiger…), ghi rõ nhãn hiệu
+
+32
+
+03.0002
+
+Rượu vang nội
+
+Chai 750ml
+
+đ/chai
+
+33
+
+03.0003
+
+Nước giải khát có ga
+
+Thùng 24 lon 330ml loại phổ biến
+
+đ/thùng 24 lon
+
+34
+
+03.0004
+
+Bia lon
+
+Thùng 24 lon 330ml loại phổ biến
+
+đ/thùng 24 lon
+
+IV
+
+04
+
+VẬT LIỆU XÂY DỰNG, CHẤT ĐỐT, NƯỚC SINH HOẠT
+
+35
+
+04.0001
+
+Xi măng
+
+PCB30 bao 50kg
+
+đ/bao
+
+Ghi rõ nhãn hiệu
+
+36
+
+04.0002
+
+Thép xây dựng
+
+Ghi rõ quy cách
+
+đ/kg
+
+Ghi rõ nhãn hiệu
+
+37
+
+04.0003
+
+Cát xây
+
+Mua rời dưới 2m3/lần, tại nơi cung ứng (không phải nơi khai thác)
+
+đ/m3
+
+38
+
+04.0004
+
+Cát vàng
+
+Mua rời dưới 2m3/lần, tại nơi cung ứng (không phải nơi khai thác)
+
+đ/m3
+
+39
+
+04.0005
+
+Cát đen đổ nền
+
+Mua rời dưới 2m3/lần, tại nơi cung ứng (không phải nơi khai thác)
+
+đ/m3
+
+40
+
+04.0006
+
+Gạch xây
+
+Gạch ống 2 lỗ, cỡ rộng 10 x dài 22, loại 1, mua rời tại nơi cung ứng hoặc tương đương
+
+đ/viên
+
+41
+
+04.0007
+
+Ống nhựa
+
+Phi 90 loại 1
+
+đ/m
+
+42
+
+04.0008
+
+Gas đun
+
+Loại bình 12kg (không kể tiền bình)
+
+đ/kg
+
+Ghi rõ nhãn hiệu
+
+43
+
+04.0009
+
+Nước sạch sinh hoạt
+
+Ghi rõ tên doanh nghiệp cung cấp, địa bàn cung cấp
+
+đ/m3
+
+Trung bình 10m3 đầu tiên
+
+V
+
+05
+
+THUỐC CHỮA BỆNH CHO NGƯỜI
+
+44
+
+05.0001
+
+Thuốc tim mạch
+
+Hoạt chất Amlodipin 10 mg hoặc Hoạt chất Atorvastatin 10mg hoặc Hoạt chất Nifedipin 20mg
+
+đ/đơn vị đóng gói nhỏ nhất (ví dụ: đ/hộp đ/vỉ 10 viên; đ/vỉ 8 viên, đ/lọ 10ml; đ/vỉ 10 ống 2ml….)
+
+Ghi rõ tên thương mại, xuất xứ, quy cách đóng gói, đường dùng (uống, tiêm…), nhà sản xuất
+
+45
+
+05.0002
+
+Thuốc chống nhiễm, điều trị ký sinh trùng
+
+Hoạt chất Cefuroxim 500mg hoặc Hoạt chất Amoxicilin 500mg
+
+46
+
+05.0003
+
+Thuốc dị ứng và các trường hợp quá mẫn cảm
+
+Hoạt chất Cinnarizin 25mg hoặc Hoạt chất Fexofenadin 60mg
+
+47
+
+05.0004
+
+Thuốc giảm đau, hạ sốt, chống viêm không steroid và thuốc điều trị gut và các bệnh xương
+
+Hoạt chất Paracetamol 500mg hoặc Hoạt chất Alpha Chymotrypsin 4.2mg
+
+48
+
+05.0005
+
+Thuốc tác dụng trên đường hô hấp
+
+Hoạt chất N-acetylcystein 200mg
+
+49
+
+05.0006
+
+Thuốc vitamin và khoáng chất
+
+Vitamin B1 hoặc B6 hoặc B12
+
+50
+
+05.0007
+
+Thuốc đường tiêu hóa
+
+Hoạt chất Omeprazone 20 mg hoặc Hoạt chất Domperdone 10 mg
+
+51
+
+05.0008
+
+Hóc môn và các thuốc tác động vào hệ nội tiết
+
+Hoạt chất Methyl Prednisolon 4mg hoặc Hoạt chất Gliclazid 30 mg hoặc Hoạt chất Metformin 500mg
+
+52
+
+05.0009
+
+Thuốc khác
+
+Hoạt chất Sulfamethoxazol 400mg
+
+VI
+
+06
+
+DỊCH VỤ Y TẾ
+
+53
+
+06.0001
+
+Khám bệnh
+
+Giá dịch vụ khám bệnh, chữa bệnh không thuộc phạm vi thanh toán của Quỹ bảo hiểm y tế trong các cơ sở khám bệnh, chữa bệnh của Nhà nước
+
+đ/lượt
+
+54
+
+06.0002
+
+Ngày giường điều trị nội trú nội khoa, loại 1
+
+đ/ngày
+
+55
+
+06.0003
+
+Siêu âm
+
+đ/lượt
+
+56
+
+06.0004
+
+X-quang số hóa 1 phim
+
+đ/lượt
+
+57
+
+06.0005
+
+Xét nghiệm tế bào cặn nước tiểu hoặc cặn Adis
+
+đ/lượt
+
+58
+
+06.0006
+
+Điện tâm đồ
+
+đ/lượt
+
+59
+
+06.0007
+
+Nội soi thực quản-dạ dày- tá tràng ống mềm không sinh thiết
+
+đ/lượt
+
+60
+
+06.0008
+
+Hàn composite cổ răng
+
+đ/lượt
+
+61
+
+06.0009
+
+Châm cứu (có kim dài)
+
+đ/lượt
+
+62
+
+06.0010
+
+Khám bệnh
+
+Giá dịch vụ khám bệnh, chữa bệnh theo yêu cầu tại cơ sở khám bệnh, chữa bệnh của Nhà nước
+
+đ/lượt
+
+63
+
+06.0011
+
+Ngày giường điều trị nội trú nội khoa, loại 1
+
+đ/ngày
+
+64
+
+06.0012
+
+Siêu âm
+
+đ/lượt
+
+65
+
+06.0013
+
+X-quang số hóa 1 phim
+
+đ/lượt
+
+66
+
+06.0014
+
+Xét nghiệm tế bào cặn nước tiểu hoặc cặn Adis
+
+đ/lượt
+
+67
+
+06.0015
+
+Điện tâm đồ
+
+đ/lượt
+
+68
+
+06.0016
+
+Nội soi thực quản-dạ dày- tá tràng ống mềm không sinh thiết
+
+đ/lượt
+
+69
+
+06.0017
+
+Hàn composite cổ răng
+
+đ/lượt
+
+70
+
+06.0018
+
+Châm cứu (có kim dài)
+
+đ/lượt
+
+71
+
+06.0019
+
+Khám bệnh
+
+Giá dịch vụ khám bệnh, chữa bệnh tại cơ sở khám bệnh, chữa bệnh tư nhân.
+
+đ/lượt
+
+72
+
+06.0020
+
+Ngày giường điều trị nội trú nội khoa, loại 1
+
+đ/ngày
+
+73
+
+06.0021
+
+Siêu âm
+
+đ/lượt
+
+74
+
+06.0022
+
+X-quang số hóa 1 phim
+
+đ/lượt
+
+75
+
+06.0023
+
+Xét nghiệm tế bào cặn nước tiểu hoặc cặn Adis
+
+đ/lượt
+
+76
+
+06.0024
+
+Điện tâm đồ
+
+đ/lượt
+
+77
+
+06.0025
+
+Nội soi thực quản-dạ dày- tá tràng ống mềm không sinh thiết
+
+đ/lượt
+
+78
+
+06.0026
+
+Hàn composite cổ răng
+
+đ/lượt
+
+79
+
+06.0027
+
+Châm cứu (có kim dài)
+
+đ/lượt
+
+VII
+
+07
+
+GIAO THÔNG
+
+80
+
+07.0001
+
+Trông giữ xe máy
+
+đ/lượt
+
+81
+
+07.0002
+
+Trông giữ ô tô
+
+đ/lượt
+
+82
+
+07.0003
+
+Giá cước ô tô đi đường dài
+
+Chọn 1 tuyến phổ biến, xe đường dài máy lạnh
+
+đ/vé
+
+Ghi rõ tuyến và loại xe
+
+83
+
+07.0004
+
+Giá cước xe buýt công cộng
+
+Đi trong nội tỉnh, dưới 30km
+
+đ/vé
+
+84
+
+07.0005
+
+Giá cước taxi
+
+Lấy giá 10km đầu, loại xe 4 chỗ
+
+đ/km
+
+Ghi rõ hãng taxi
+
+85
+
+07.0006
+
+Xăng E5 Ron 92
+
+đ/lít
+
+86
+
+07.0007
+
+Xăng Ron 95
+
+đ/lít
+
+87
+
+07.0008
+
+Dầu Diezel
+
+đ/lít
+
+VIII
+
+08
+
+DỊCH VỤ GIÁO DỤC
+
+88
+
+08.0001
+
+Dịch vụ giáo dục trường mầm non công lập
+
+Ghi rõ tên trường
+
+Đồng/tháng
+
+89
+
+08.0002
+
+Dịch vụ giáo dục trường trung học cơ sở công lập (lớp 8)
+
+Ghi rõ tên trường
+
+Đồng/tháng
+
+90
+
+08.0003
+
+Dịch vụ giáo dục trường trung học phổ thông công lập (lớp 11)
+
+Ghi rõ tên trường
+
+Đồng/tháng
+
+91
+
+08.0004
+
+Dịch vụ giáo dục đào tạo nghề công lập
+
+Ghi rõ tên trường, ngành nghề đào tạo
+
+Đồng/tháng hoặc đồng/tín chỉ
+
+92
+
+08.0005
+
+Dịch vụ giáo dục đào tạo trung cấp, trường thuộc cấp Bộ quản lý
+
+Ghi rõ tên trường, ngành nghề đào tạo
+
+Đồng/tháng hoặc đồng/tín chỉ
+
+93
+
+08.0006
+
+Dịch vụ giáo dục đào tạo cao đẳng công lập
+
+Ghi rõ tên trường, ngành nghề đào tạo
+
+Đồng/tháng hoặc đồng/tín chỉ
+
+94
+
+08.0008
+
+Dịch vụ giáo dục đào tạo đại học công lập hoặc tương đương đại học công lập
+
+Ghi rõ tên trường, ngành nghề đào tạo
+
+Đồng/tháng hoặc đồng/tín chỉ
+
+IX
+
+09
+
+GIẢI TRÍ VÀ DU LỊCH
+
+95
+
+09.0001
+
+Du lịch trọn gói trong nước
+
+Cho 1 người chuyến 2 ngày 1 đêm (từ đâu, đến đâu...)
+
+đ/người/ chuyến
+
+96
+
+09.0002
+
+Phòng khách sạn 3 sao hoặc tương đương
+
+Hai giường đơn hoặc 1 giường đôi, có tivi, điêu hòa nước nóng, điện thoại cố định, vệ sinh khép kín,Wifí
+
+đ/ngày-đêm
+
+Ghi rõ tên khách sạn
+
+97
+
+09.0003
+
+Phòng nhà khách tư nhân
+
+1 giường, điều hoà, nước nóng-lạnh, phòng vệ sinh khép kín
+
+đ/ngày-đêm
+
+X
+
+10
+
+VÀNG, ĐÔ LA MỸ
+
+98
+
+10.0001
+
+Vàng 99,99%
+
+Kiểu nhẫn tròn 1 chỉ
+
+1000 đ/chỉ
+
+Vàng nhẫn tròn thị trường tự do
+
+99
+
+10.0002
+
+Đô la Mỹ
+
+Loại tờ 100USD
+
+đ/USD
+
+Giá mua vào và bán ra của ngân hàng thương mại
+
+XI
+
+GIÁ KÊ KHAI CÁC MẶT HÀNG TRÊN ĐỊA BÀN
+
+XII
+
+GIÁ ĐĂNG KÝ CÁC MẶT HÀNG TRONG DANH MỤC BÌNH ỔN GIÁ TRONG THỜI GIAN THỰC HIỆN BIỆN PHÁP BÌNH ỔN GIÁ
+
+Chú thích:
+
+- Bảng giá này được lập trên chương trình Excel hoặc theo định dạng trong hệ thống Cơ sở dữ liệu quốc gia về giá.
+
+- Hàng hóa, dịch vụ khi thu thập phải đồng nhất về tên gọi, đặc điểm kỹ thuật, đơn vị tính và loại giá để đảm bảo khả năng so sánh được giữa các kỳ báo cáo.
+
+- Cột 6: Ghi rõ loại giá là giá bán buôn, giá bán lẻ, giá kê khai, giá đăng ký.
+
+- Cột 7, 8: là mức giá bình quân số học các mức giá thu thập của các ngày trong kỳ báo cáo.
+
+- Cột 11: Ghi rõ nguồn thông tin dữ liệu về giá là:
+
++ Do trực tiếp điều tra, thu thập
+
++ Hợp đồng mua tin
+
++ Do cơ quan/đơn vị quản lý nhà nước có liên quan cung cấp/báo cáo theo quy định
+
++ Từ thống kê đăng ký giá, kê khai giá, thông báo giá của doanh nghiệp
+
++ Các nguồn thông tin khác
+
+- Cột 12: nêu rõ đặc điểm riêng của sản phẩm được khảo sát và nguyên nhân biến động giá mặt hàng (nếu có).
+
+PHỤ LỤC SỐ 2
+
+QUY ƯỚC ĐẶT KÝ HIỆU TỆP BÁO CÁO THỊ TRƯỜNG (Ban hành kèm theo Thông tư số 116/2018/TT-BTC ngày 28/11/2018 của Bộ Tài chính hướng dẫn chế độ báo cáo giá thị trường)
+
+A. Mã tỉnh: đặt theo ký hiệu viết tắt chung của ngành Tài chính
+
+| ID | Địa phương           | Viết tắt |
+
+|----|----------------------|----------|
+
+| 1  | TP. Hà Nội           | HAN      |
+
+| 2  | TP. Hải Phòng        | HPH      |
+
+| 3  | Tp. Hồ Chí Minh      | HCM      |
+
+| 4  | TP. Đà Nẵng          | DNA      |
+
+| 5  | Tỉnh Nam Định        | NDI      |
+
+| 6  | Tỉnh Hà Nam          | HNA      |
+
+| 7  | Tỉnh Hải Dương       | HDU      |
+
+| 8  | Tỉnh Hưng Yên        | HYE      |
+
+| 9  | Tỉnh Thái Bình       | TBI      |
+
+| 10 | Tỉnh Long An         | LAN      |
+
+| 11 | Tỉnh Tiền Giang      | TGI      |
+
+| 12 | Tỉnh Bến Tre         | BTR      |
+
+| 13 | Tỉnh Đồng Tháp       | DTH      |
+
+| 14 | Tỉnh Vĩnh Long       | VLO      |
+
+| 15 | Tỉnh An Giang        | AGI      |
+
+| 16 | Tỉnh Kiên Giang      | KGI      |
+
+| 17 | Tỉnh Cần Thơ         | CTH      |
+
+| 18 | Tỉnh Bạc Liêu        | BLI      |
+
+| 19 | Tỉnh Cà Mau          | CMA      |
+
+| 20 | Tỉnh Trà Vinh        | TVI      |
+
+| 21 | Tỉnh Sóc Trăng       | STR      |
+
+| 22 | Tỉnh Bắc Ninh        | BNI      |
+
+| 23 | Tỉnh Bắc Giang       | BGI      |
+
+| 24 | Tỉnh Vĩnh Phúc       | VPH      |
+
+| 25 | Tỉnh Phú Thọ         | PTH      |
+
+| 26 | Tỉnh Ninh Bình       | NBI      |
+
+| 27 | Tỉnh Thanh Hóa       | THO      |
+
+| 28 | Tỉnh Nghệ An         | NAN      |
+
+| 29 | Tỉnh Hà Tĩnh         | HTI      |
+
+| 30 | Tỉnh Quảng Bình      | QBI      |
+
+| 31 | Tỉnh Quảng Trị       | QTR      |
+
+| 32 | Tỉnh Thừa Thiên Huế  | HUE      |
+
+| 33 | Tỉnh Bình Thuận      | BTH      |
+
+| 34 | Tỉnh Bà Rịa-Vũng Tàu | BRV      |
+
+| 35 | Tỉnh Đồng Nai        | DON      |
+
+| 36 | Tỉnh Bình Dương      | BDU      |
+
+| 37 | Tỉnh Bình Phước      | BPH      |
+
+| 38 | Tỉnh Tây Ninh        | TNI      |
+
+| 39 | Tỉnh Quảng Nam       | QNA      |
+
+| 40 | Tỉnh Bình Định       | BDI      |
+
+| 41 | Tỉnh Khánh Hòa       | KHH      |
+
+| 42 | Tỉnh Quảng Ngãi      | QNG      |
+
+| 43 | Tỉnh Phú Yên         | PHY      |
+
+| 44 | Tỉnh Ninh Thuận      | NTH      |
+
+| 45 | Tỉnh Thái Nguyên     | TNG      |
+
+| 46 | Tỉnh Bắc Cạn         | BCA      |
+
+| 47 | Tỉnh Cao Bằng        | CBA      |
+
+| 48 | Tỉnh Lạng Sơn        | LSO      |
+
+| 49 | Tỉnh Tuyên Quang     | TQU      |
+
+| 50 | Tỉnh Hà Giang        | HGI      |
+
+| 51 | Tỉnh Yên Bái         | YBA      |
+
+| 52 | Tỉnh Lào Cai         | LCA      |
+
+| 53 | Tỉnh Hòa Bình        | HBI      |
+
+| 54 | Tỉnh Sơn La          | SLA      |
+
+| 55 | Tỉnh Điện Biên       | DBI      |
+
+| 56 | Tỉnh Quảng Ninh      | QNI      |
+
+| 57 | Tỉnh Lâm Đồng        | LDO      |
+
+| 58 | Tỉnh Gia Lai         | GLA      |
+
+| 59 | Tỉnh Đắk Lắk         | DLA      |
+
+| 60 | Tỉnh Kon Tum         | KTU      |
+
+| 61 | Tỉnh Hậu Giang       | HAG      |
+
+| 62 | Tỉnh Đắk Nông        | DNO      |
+
+| 63 | Tỉnh Lai Châu        | LCH      |
+
+ID
+
+Địa phương
+
+Viết tắt
+
+1
+
+TP. Hà Nội
+
+HAN
+
+2
+
+TP. Hải Phòng
+
+HPH
+
+3
+
+Tp. Hồ Chí Minh
+
+HCM
+
+4
+
+TP. Đà Nẵng
+
+DNA
+
+5
+
+Tỉnh Nam Định
+
+NDI
+
+6
+
+Tỉnh Hà Nam
+
+HNA
+
+7
+
+Tỉnh Hải Dương
+
+HDU
+
+8
+
+Tỉnh Hưng Yên
+
+HYE
+
+9
+
+Tỉnh Thái Bình
+
+TBI
+
+10
+
+Tỉnh Long An
+
+LAN
+
+11
+
+Tỉnh Tiền Giang
+
+TGI
+
+12
+
+Tỉnh Bến Tre
+
+BTR
+
+13
+
+Tỉnh Đồng Tháp
+
+DTH
+
+14
+
+Tỉnh Vĩnh Long
+
+VLO
+
+15
+
+Tỉnh An Giang
+
+AGI
+
+16
+
+Tỉnh Kiên Giang
+
+KGI
+
+17
+
+Tỉnh Cần Thơ
+
+CTH
+
+18
+
+Tỉnh Bạc Liêu
+
+BLI
+
+19
+
+Tỉnh Cà Mau
+
+CMA
+
+20
+
+Tỉnh Trà Vinh
+
+TVI
+
+21
+
+Tỉnh Sóc Trăng
+
+STR
+
+22
+
+Tỉnh Bắc Ninh
+
+BNI
+
+23
+
+Tỉnh Bắc Giang
+
+BGI
+
+24
+
+Tỉnh Vĩnh Phúc
+
+VPH
+
+25
+
+Tỉnh Phú Thọ
+
+PTH
+
+26
+
+Tỉnh Ninh Bình
+
+NBI
+
+27
+
+Tỉnh Thanh Hóa
+
+THO
+
+28
+
+Tỉnh Nghệ An
+
+NAN
+
+29
+
+Tỉnh Hà Tĩnh
+
+HTI
+
+30
+
+Tỉnh Quảng Bình
+
+QBI
+
+31
+
+Tỉnh Quảng Trị
+
+QTR
+
+32
+
+Tỉnh Thừa Thiên Huế
+
+HUE
+
+33
+
+Tỉnh Bình Thuận
+
+BTH
+
+34
+
+Tỉnh Bà Rịa-Vũng Tàu
+
+BRV
+
+35
+
+Tỉnh Đồng Nai
+
+DON
+
+36
+
+Tỉnh Bình Dương
+
+BDU
+
+37
+
+Tỉnh Bình Phước
+
+BPH
+
+38
+
+Tỉnh Tây Ninh
+
+TNI
+
+39
+
+Tỉnh Quảng Nam
+
+QNA
+
+40
+
+Tỉnh Bình Định
+
+BDI
+
+41
+
+Tỉnh Khánh Hòa
+
+KHH
+
+42
+
+Tỉnh Quảng Ngãi
+
+QNG
+
+43
+
+Tỉnh Phú Yên
+
+PHY
+
+44
+
+Tỉnh Ninh Thuận
+
+NTH
+
+45
+
+Tỉnh Thái Nguyên
+
+TNG
+
+46
+
+Tỉnh Bắc Cạn
+
+BCA
+
+47
+
+Tỉnh Cao Bằng
+
+CBA
+
+48
+
+Tỉnh Lạng Sơn
+
+LSO
+
+49
+
+Tỉnh Tuyên Quang
+
+TQU
+
+50
+
+Tỉnh Hà Giang
+
+HGI
+
+51
+
+Tỉnh Yên Bái
+
+YBA
+
+52
+
+Tỉnh Lào Cai
+
+LCA
+
+53
+
+Tỉnh Hòa Bình
+
+HBI
+
+54
+
+Tỉnh Sơn La
+
+SLA
+
+55
+
+Tỉnh Điện Biên
+
+DBI
+
+56
+
+Tỉnh Quảng Ninh
+
+QNI
+
+57
+
+Tỉnh Lâm Đồng
+
+LDO
+
+58
+
+Tỉnh Gia Lai
+
+GLA
+
+59
+
+Tỉnh Đắk Lắk
+
+DLA
+
+60
+
+Tỉnh Kon Tum
+
+KTU
+
+61
+
+Tỉnh Hậu Giang
+
+HAG
+
+62
+
+Tỉnh Đắk Nông
+
+DNO
+
+63
+
+Tỉnh Lai Châu
+
+LCH
+
+B. Cách đặt ký hiệu tệp văn bản báo cáo:
+
+Ký hiệu tên tệp văn bản báo cáo đặt theo số phụ lục và thời gian lập báo cáo, địa phương gửi báo cáo (theo cột ký hiệu viết tắt ở bảng trên). Cách đặt tên cụ thể như sau:
+
+Báo cáo tháng: Ký hiệu: tháng-năm-địa phương
+
+Ví dụ: Báo cáo tháng 5 năm 2018 của tỉnh Phú Thọ, có ký hiệu tên tệp là: 05-2018-PTH
+
+Báo cáo quý: Ký hiệu quý-năm-địa phương
+
+Ví dụ: Báo cáo quý I năm 2018 của tỉnh Phú Thọ, có ký hiệu tên tệp là: QI-2018-PTH
+
+Báo cáo năm: Ký hiệu: năm-địa phương
+
+Ví dụ: Báo cáo năm 2018 của tỉnh Phú Thọ, có ký hiệu tên tệp là: 2018-PTH
+
+Báo cáo đột xuất: Ký hiệu: ĐX-năm-địa phương
+
+Ví dụ: Báo cáo đột xuất lần 1 năm 2010 của tỉnh Phú Thọ, có ký hiệu tên tệp là: ĐX1-2010-PTH

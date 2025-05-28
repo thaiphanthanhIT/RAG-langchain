@@ -1,0 +1,349 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 2834/QĐ-BTC | Hà Nội, ngày 27 tháng 11 năm 2024                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 2834/QĐ-BTC
+
+Hà Nội, ngày 27 tháng 11 năm 2024
+
+QUYẾT ĐỊNH
+
+SỬA ĐỔI DANH MỤC MÃ ĐỊNH DANH CÁC ĐƠN VỊ THUỘC BỘ TÀI CHÍNH PHỤC VỤ KẾT NỐI, CHIA SẺ DỮ LIỆU VỚI CÁC BỘ, NGÀNH, ĐỊA PHƯƠNG BAN HÀNH KÈM QUYẾT ĐỊNH SỐ 143/QĐ-BTC NGÀY 10/02/2022 (LẦN 3)
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Luật Công nghệ thông tin ngày 29/6/2006;
+
+Căn cứ Luật Giao dịch điện tử ngày 22/06/2023;
+
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước;
+
+Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09/4/2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan Nhà nước;
+
+Căn cứ Nghị định 14/2023/NĐ-CP ngày 20/04/2023 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Quyết định số 20/2020/QĐ-TTg ngày 22/7/2020 của Thủ tướng Chính phủ về mã định danh điện tử của các cơ quan, tổ chức phục vụ kết nối, chia sẻ dữ liệu với các Bộ, ngành, địa phương;
+
+Quyết định số 143/QĐ-BTC ngày 10/02/2022 của Bộ trưởng Bộ Tài chính Ban hành danh mục mã định danh các đơn vị thuộc Bộ Tài chính phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương;
+
+Quyết định số 1900/QĐ-BTC ngày 15/9/2022 của Bộ trưởng Bộ Tài chính Sửa đổi, bổ sung danh mục mã định danh các đơn vị thuộc Bộ Tài chính phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương ban hành kèm theo Quyết định số 143/QĐ-BTC ngày 10/02/2022;
+
+Quyết định số 329/QĐ-BTC ngày 27/02/2022 của Bộ trưởng Bộ Tài chính Sửa đổi, bổ sung danh mục mã định danh các đơn vị thuộc Bộ Tài chính phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương ban hành kèm theo Quyết định số 143/QĐ-BTC ngày 10/02/2022 (lần 2);
+
+Theo đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Sửa đổi danh mục mã định danh các đơn vị thuộc Bộ Tài chính phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương ban hành kèm Quyết định số 143/QĐ-BTC ngày 10/02/2022 (lần 3) (phụ lục đính kèm).
+
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+
+Điều 3. Cục trưởng Cục Tin học và Thống kê tài chính, Chánh Văn phòng Bộ Tài chính, Thủ trưởng các đơn vị thuộc Bộ chịu trách nhiệm thi hành Quyết định này./.
+
+| Nơi nhận: - Như Điều 3; - Cổng TTĐT BTC - Lưu: VT, THTK. | KT. BỘ TRƯỞNG THỨ TRƯỞNG Bùi Văn Khắng |
+
+|----------------------------------------------------------|----------------------------------------|
+
+Nơi nhận:
+
+- Như Điều 3; - Cổng TTĐT BTC - Lưu: VT, THTK.
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Bùi Văn Khắng
+
+PHỤ LỤC I
+
+CẬP NHẬT DANH MỤC MÃ ĐỊNH DANH CÁC ĐƠN VỊ CẤP 3 (Kèm theo Quyết định số 2834/QĐ-BTC ngày 27/11/ 2024 của Bộ Tài chính)
+
+| STT | Mã định danh | Tên đơn vị                                                                          | Ghi chú        |
+
+|-----|--------------|-------------------------------------------------------------------------------------|----------------|
+
+| 1   | G12.34.A7    | Cục Thuế xuất nhập khẩu - Tổng cục Hải quan                                         | Sửa tên đơn vị |
+
+| 2   | G12.34.A8    | Vụ Hợp tác quốc tế - Tổng cục Hải quan                                              | Sửa tên đơn vị |
+
+| 3   | G12.34.B1    | Cục Tài vụ - Quản trị - Tổng cục Hải quan                                           | Sửa tên đơn vị |
+
+| 4   | G12.34.B2    | Vụ Thanh tra - Kiểm tra - Tổng cục Hải quan                                         | Sửa tên đơn vị |
+
+| 5   | G12.34.B5    | Cục Quản lý rủi ro - Tổng cục Hải quan                                              | Sửa tên đơn vị |
+
+| 6   | G12.34.B6    | Ban Cải cách, hiện đại hóa hải quan - Tổng cục Hải quan                             | Sửa tên đơn vị |
+
+| 7   | G12.34.B7    | Ban quản lý dự án VNACCS/VCIS - Tổng cục Hải quan                                   | Đóng mã        |
+
+| 8   | G12.34.B8    | Chi nhánh Trung tâm phân tích phân loại hàng hoá xuất nhập khẩu tại Đà Nẵng         | Đóng mã        |
+
+| 9   | G12.34.B9    | Chi nhánh Trung tâm phân tích phân loại hàng hoá xuất nhập khẩu tại TP. Hải Phòng   | Đóng mã        |
+
+| 10  | G12.34.C1    | Chi nhánh Trung tâm phân tích phân loại hàng hoá xuất nhập khẩu tại TP. Hồ Chí Minh | Đóng mã        |
+
+STT
+
+Mã định danh
+
+Tên đơn vị
+
+Ghi chú
+
+1
+
+G12.34.A7
+
+Cục Thuế xuất nhập khẩu - Tổng cục Hải quan
+
+Sửa tên đơn vị
+
+2
+
+G12.34.A8
+
+Vụ Hợp tác quốc tế - Tổng cục Hải quan
+
+Sửa tên đơn vị
+
+3
+
+G12.34.B1
+
+Cục Tài vụ - Quản trị - Tổng cục Hải quan
+
+Sửa tên đơn vị
+
+4
+
+G12.34.B2
+
+Vụ Thanh tra - Kiểm tra - Tổng cục Hải quan
+
+Sửa tên đơn vị
+
+5
+
+G12.34.B5
+
+Cục Quản lý rủi ro - Tổng cục Hải quan
+
+Sửa tên đơn vị
+
+6
+
+G12.34.B6
+
+Ban Cải cách, hiện đại hóa hải quan - Tổng cục Hải quan
+
+Sửa tên đơn vị
+
+7
+
+G12.34.B7
+
+Ban quản lý dự án VNACCS/VCIS - Tổng cục Hải quan
+
+Đóng mã
+
+8
+
+G12.34.B8
+
+Chi nhánh Trung tâm phân tích phân loại hàng hoá xuất nhập khẩu tại Đà Nẵng
+
+Đóng mã
+
+9
+
+G12.34.B9
+
+Chi nhánh Trung tâm phân tích phân loại hàng hoá xuất nhập khẩu tại TP. Hải Phòng
+
+Đóng mã
+
+10
+
+G12.34.C1
+
+Chi nhánh Trung tâm phân tích phân loại hàng hoá xuất nhập khẩu tại TP. Hồ Chí Minh
+
+Đóng mã
+
+PHỤ LỤC II
+
+CẬP NHẬT DANH MỤC MÃ ĐỊNH DANH CÁC ĐƠN VỊ CẤP 4 (Kèm theo Quyết định số 2834/QĐ-BTC ngày 27/11/2024 Bộ Tài chính)
+
+| STT | Mã định danh  | Tên đơn vị                                                      | Ghi chú        |
+
+|-----|---------------|-----------------------------------------------------------------|----------------|
+
+| 1   | G12.34.C2.007 | Chi cục Kiểm định hải quan khu vực Đông Nam Bộ                  | Cấp mới        |
+
+| 2   | G12.34.C2.008 | Chi cục Kiểm định hải quan khu vực cảng Cái Mép-Thị Vải         | Cấp mới        |
+
+| 3   | G12.34.C2.009 | Trung tâm phân tích                                             | Cấp mới        |
+
+| 4   | G12.34.22.009 | Đội Kiểm soát hải quan số 1                                     | Cấp mới        |
+
+| 5   | G12.34.22.010 | Đội Kiểm soát hải quan số 2                                     | Cấp mới        |
+
+| 6   | G12.34.22.011 | Đội Kiểm soát phòng, chống ma túy                               | Cấp mới        |
+
+| 7   | G12.12.14.118 | KBNN Quỳnh Nhai                                                 | Cấp mới        |
+
+| 8   | G12.34.C2.002 | Chi cục Kiểm định hải quan 2 (trụ sở tại thành phố Hải phòng)   | Sửa tên đơn vị |
+
+| 9   | G12.34.C2.003 | Chi cục Kiểm định hải quan 3 (trụ sở tại thành phố Hồ Chí Minh) | Sửa tên đơn vị |
+
+| 10  | G12.34.C2.004 | Chi cục Kiểm định hải quan 4 (trụ sở tại thành phố Đà Nẵng)     | Sửa tên đơn vị |
+
+| 11  | G12.34.C2.005 | Chi cục Kiểm định hải quan 5 (trụ sở tại tỉnh Quảng Ninh)       | Sửa tên đơn vị |
+
+| 12  | G12.34.C2.006 | Chi cục Kiểm định hải quan 6 (trụ sở tại tỉnh Lạng Sơn)         | Sửa tên đơn vị |
+
+| 13  | G12.34.22.001 | Chi cục Kiểm tra sau thông quan                                 | Sửa tên đơn vị |
+
+| 14  | G12.34.22.007 | Chi cục Hải quan cửa khẩu cảng Cẩm Phả                          | Sửa tên đơn vị |
+
+| 15  | G12.34.C2.001 | Chi cục Kiểm định hải quan 1                                    | Đóng mã        |
+
+| 16  | G12.34.22.008 | Chi cục Hải quan cửa khẩu Cảng Cái Lân                          | Đóng mã        |
+
+STT
+
+Mã định danh
+
+Tên đơn vị
+
+Ghi chú
+
+1
+
+G12.34.C2.007
+
+Chi cục Kiểm định hải quan khu vực Đông Nam Bộ
+
+Cấp mới
+
+2
+
+G12.34.C2.008
+
+Chi cục Kiểm định hải quan khu vực cảng Cái Mép-Thị Vải
+
+Cấp mới
+
+3
+
+G12.34.C2.009
+
+Trung tâm phân tích
+
+Cấp mới
+
+4
+
+G12.34.22.009
+
+Đội Kiểm soát hải quan số 1
+
+Cấp mới
+
+5
+
+G12.34.22.010
+
+Đội Kiểm soát hải quan số 2
+
+Cấp mới
+
+6
+
+G12.34.22.011
+
+Đội Kiểm soát phòng, chống ma túy
+
+Cấp mới
+
+7
+
+G12.12.14.118
+
+KBNN Quỳnh Nhai
+
+Cấp mới
+
+8
+
+G12.34.C2.002
+
+Chi cục Kiểm định hải quan 2 (trụ sở tại thành phố Hải phòng)
+
+Sửa tên đơn vị
+
+9
+
+G12.34.C2.003
+
+Chi cục Kiểm định hải quan 3 (trụ sở tại thành phố Hồ Chí Minh)
+
+Sửa tên đơn vị
+
+10
+
+G12.34.C2.004
+
+Chi cục Kiểm định hải quan 4 (trụ sở tại thành phố Đà Nẵng)
+
+Sửa tên đơn vị
+
+11
+
+G12.34.C2.005
+
+Chi cục Kiểm định hải quan 5 (trụ sở tại tỉnh Quảng Ninh)
+
+Sửa tên đơn vị
+
+12
+
+G12.34.C2.006
+
+Chi cục Kiểm định hải quan 6 (trụ sở tại tỉnh Lạng Sơn)
+
+Sửa tên đơn vị
+
+13
+
+G12.34.22.001
+
+Chi cục Kiểm tra sau thông quan
+
+Sửa tên đơn vị
+
+14
+
+G12.34.22.007
+
+Chi cục Hải quan cửa khẩu cảng Cẩm Phả
+
+Sửa tên đơn vị
+
+15
+
+G12.34.C2.001
+
+Chi cục Kiểm định hải quan 1
+
+Đóng mã
+
+16
+
+G12.34.22.008
+
+Chi cục Hải quan cửa khẩu Cảng Cái Lân
+
+Đóng mã

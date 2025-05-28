@@ -1,22 +1,22 @@
-from selenium import webdriver 
+from selenium import webdriver
 from selenium.webdriver.edge.options import Options
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait 
+from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, WebDriverException
 from bs4 import BeautifulSoup
 from typing import Callable, Dict, Optional
 import requests
 import re
-import json 
+import json
 
 class URL:
     def __init__(self, homepage = "https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=&area=0&type=0&status=0&lan=1&org=15&signer=0&match=True&sort=2&bdate=01/01/2000&edate=26/05/2025"):
-        self.homepage = homepage 
+        self.homepage = homepage
         options = Options()
         options.add_argument('--headless')
         driver  = webdriver.Edge(options = options)
-        self.driver = driver 
+        self.driver = driver
         self.data = []
         self.docs = []
         self.parser = Parser()
@@ -24,7 +24,7 @@ class URL:
     def crawl1page(self, url) -> int:
         '''href i (1<=i <=20) will be located in card:
         #block-info-advan > div:nth-child(2) > div:nth-child(i) > div.left-col > div.nq > p.nqTitle > a'''
-        try: 
+        try:
             self.driver.get(url)
             wait = WebDriverWait(self.driver, 5)
             data = []
@@ -76,14 +76,14 @@ class URL:
             text = element.text
             return text, html
 
-        except WebDriverException as e: 
-            print(e) 
+        except WebDriverException as e:
+            print(e)
             return None, None
     def crawl_docs(self, start = 0, end = 100000):
         if start >= len(self.data):
             return None
         end = min(end, len(self.data))
-        sub_data = self.data[start : end] 
+        sub_data = self.data[start : end]
         for  i in range(len(sub_data)):
             element = sub_data[i]
             name = element['name']
@@ -93,12 +93,12 @@ class URL:
             self.docs.append(doc)
             if i%20 == 0:
                 print(f"Get 20 documents from {start} to {end}!")
-            
+
     def save_links(self, file_name):
         with open(file_name, "w", encoding="utf-8") as f:
             json.dump(self.data, f, indent=4)
         print("Finish saving data!")
-    
+
     def save_docs(self, file_html, file_content, start = 0 ):
         for i, element in enumerate(self.docs):
             #name = element['name']
@@ -108,7 +108,7 @@ class URL:
             #     f.write(name + '\n')
             with open(file_content+f'{start + i}.txt', 'w', encoding='utf-8') as f:
                 f.write(content)
-            with open(file_html+f"{start + i}.html", "w", encoding="utf-8") as f: 
+            with open(file_html+f"{start + i}.html", "w", encoding="utf-8") as f:
                 f.write(src)
         print("Save documents sucessfully")
 
@@ -117,7 +117,7 @@ class URL:
         print("----------------------------------------------------------")
         with open(file_name, "r", encoding="utf-8") as f:
             data = json.load(f)
-            self.data = data 
+            self.data = data
         print("Load data successfully!")
 
 
@@ -190,7 +190,7 @@ class Parser:
             if row:
                 rows.append(row)
         return self._format_table(rows)
-    
+
     def _format_table(self, rows):
         if not rows or not rows[0]:
             return ""
@@ -226,9 +226,29 @@ if __name__ == "__main__":
     home_page = URL()
     # home_page.crawl_links()
     # home_page.save_links("crawl/data/tvpl/links.json")
-    home_page.load('crawl/data/links.json')
+    home_page.load(r'F:\TinHoc\BinningMini\RAG + langchain\crawl\data\links.json')
     doc_count = len(home_page.data)
-    for i in range(140, 1000, 20):
-        home_page.crawl_docs(start=i, end=i+20)
+
+    for i in range(573, 600, 27):
+        home_page.crawl_docs(start=i, end=i + 27)
         home_page.save_docs("crawl/data/tvpl_new/html/doc", "crawl/data/tvpl_new/docs/doc", start=i)
         home_page.docs = []
+
+# import os
+#
+# html_dir = r"F:\TinHoc\BinningMini\RAG + langchain\crawl\data\tvpl_new\html"
+# txt_dir  = r"F:\TinHoc\BinningMini\RAG + langchain\crawl\data\tvpl_new\docs"
+# # Tạo thư mục nếu chưa tồn tại
+# os.makedirs(html_dir, exist_ok=True)
+# os.makedirs(txt_dir, exist_ok=True)
+#
+# # Tạo file từ 140 đến 1000, bước 20
+# for i in range(140, 1000, 1):
+#     html_path = os.path.join(html_dir, f'doc{i}.html')
+#     txt_path = os.path.join(txt_dir, f'doc{i}.txt')
+#
+#     with open(html_path, 'w', encoding='utf-8') as f:
+#         f.write(f'<!-- Empty HTML file doc{i} -->\n')
+#
+#     with open(txt_path, 'w', encoding='utf-8') as f:
+#         f.write(f'# Empty TXT file doc{i}\n')

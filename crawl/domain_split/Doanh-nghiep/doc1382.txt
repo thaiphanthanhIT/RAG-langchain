@@ -1,0 +1,727 @@
+| BỘ TÀI CHÍNH       | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|--------------------|-----------------------------------------------------------------|
+
+| Số: 54/2019/TT-BTC | Hà Nội, ngày 21 tháng 08 năm 2019                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 54/2019/TT-BTC
+
+Hà Nội, ngày 21 tháng 08 năm 2019
+
+THÔNG TƯ
+
+HƯỚNG DẪN QUẢN LÝ, SỬ DỤNG KINH PHÍ NGÂN SÁCH NHÀ NƯỚC HỖ TRỢ DOANH NGHIỆP NHỎ VÀ VỪA SỬ DỤNG DỊCH VỤ TƯ VẤN THUỘC MẠNG LƯỚI TƯ VẤN VIÊN
+
+Căn cứ Luật Ngân sách nhà nước ngày 25 tháng 6 năm 2015;
+
+Căn cứ Luật Hỗ trợ Doanh nghiệp nhỏ và vừa ngày 12 tháng 6 năm 2017;
+
+Căn cứ Nghị định số 163/2016/NĐ-CP ngày 21 tháng 12 năm 2016 của Chính phủ quy định chi tiết thi hành một số điều của Luật ngân sách nhà nước;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Nghị định số 39/2018/NĐ-CP ngày 11 tháng 3 năm 2018 của Chính phủ quy định chi tiết một số điều của Luật Hỗ trợ doanh nghiệp nhỏ và vừa;
+
+Theo đề nghị của Cục trưởng Cục Tài chính doanh nghiệp;
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn quản lý và sử dụng kinh phí ngân sách nhà nước hỗ trợ doanh nghiệp nhỏ và vừa sử dụng dịch vụ tư vấn thuộc mạng lưới tư vấn viên.
+
+Điều 1. Phạm vi điều chỉnh
+
+1. Thông tư này hướng dẫn việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước hỗ trợ doanh nghiệp nhỏ và vừa (DNNVV) sử dụng dịch vụ tư vấn thuộc mạng lưới tư vấn viên (sau đây gọi tắt là hỗ trợ tư vấn cho DNNVV) theo quy định tại Điều 13 Nghị định số 39/2018/NĐ-CP ngày 11 tháng 3 năm 2018 của Chính phủ quy định chi tiết một số điều của Luật Hỗ trợ doanh nghiệp nhỏ và vừa (sau đây gọi tắt là Nghị định số 39/2018/NĐ-CP).
+
+2. Thông tư này không điều chỉnh đối với:
+
+a) Tư vấn về thủ tục hành chính theo quy định của pháp luật chuyên ngành. Việc xác định dịch vụ tư vấn về thủ tục hành chính theo quy định của pháp luật chuyên ngành thực hiện theo hướng dẫn của Bộ Kế hoạch và Đầu tư.
+
+b) Tư vấn về trình tự, thủ tục, hồ sơ đăng ký thành lập doanh nghiệp; trình tự, thủ tục, hồ sơ đăng ký chứng nhận đủ điều kiện kinh doanh đối với các ngành nghề kinh doanh có điều kiện (nếu có) cho hộ kinh doanh đăng ký chuyển đổi thành doanh nghiệp.
+
+c) Tư vấn về quy trình, thủ tục cấp phép lần đầu cho DNNVV chuyển đổi từ hộ kinh doanh tiếp tục sản xuất kinh doanh ngành nghề kinh doanh có điều kiện mà thay đổi về quy mô.
+
+d) Tư vấn về thủ tục hành chính thuế và chế độ kế toán cho DNNVV chuyển đổi từ hộ kinh doanh trong thời hạn 3 năm kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp lần đầu.
+
+e) Các nội dung hỗ trợ tư vấn cho DNNVV khởi nghiệp sáng tạo, DNNVV tham gia các cụm liên kết ngành, chuỗi giá trị quy định tại khoản 1, điểm b và d khoản 2 Điều 21; khoản 2, điểm b khoản 3, điểm b và d khoản 4 Điều 24 Nghị định số 39/2018/NĐ-CP.
+
+- Các quy định về hỗ trợ tư vấn cho DNNVV khởi nghiệp sáng tạo, DNNVV tham gia các cụm liên kết ngành, chuỗi giá trị sử dụng ngân sách nhà nước thực hiện theo Đề án hỗ trợ DNNVV do cơ quan chủ trì Đề án hỗ trợ DNNVV xây dựng, trình cấp có thẩm quyền phê duyệt.
+
+Điều 2. Đối tượng áp dụng
+
+1. Doanh nghiệp được thành lập, tổ chức và hoạt động theo quy định của pháp luật về doanh nghiệp, đáp ứng các tiêu chí xác định DNNVV theo quy định tại Điều 6 Nghị định số 39/2018/NĐ-CP.
+
+2. Các bộ, cơ quan ngang bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi là UBND cấp tỉnh);
+
+3. Cơ quan, tổ chức hỗ trợ DNNVV (đơn vị thuộc bộ, cơ quan ngang bộ có mạng lưới tư vấn viên, hoặc đơn vị thuộc UBND cấp tỉnh được giao nhiệm vụ triển khai hoạt động hỗ trợ DNNVV theo chức năng, nhiệm vụ quản lý ngành, lĩnh vực được phân công; sau đây gọi chung là đơn vị hỗ trợ DNNVV).
+
+Trường hợp có nhiều cơ quan, tổ chức hỗ trợ DNNVV trong cùng một bộ, cơ quan ngang bộ, UBND cấp tỉnh thì phải có một đơn vị đầu mối (đơn vị được giao chủ trì thực hiện công tác hỗ trợ phát triển DNNVV, tổng hợp dự toán, tổng hợp quyết toán kinh phí hỗ trợ tư vấn cho DNNVV). Trong đó, đơn vị đầu mối thuộc bộ, cơ quan ngang bộ là một trong các đơn vị được giao tổ chức hoạt động mạng lưới tư vấn viên.
+
+4. Cá nhân, tổ chức tư vấn tham gia mạng lưới tư vấn viên.
+
+5. Các tổ chức, cá nhân có liên quan đến việc quản lý, sử dụng ngân sách nhà nước hỗ trợ tư vấn cho DNNVV.
+
+Điều 3. Tổ chức hoạt động hỗ trợ tư vấn cho DNNVV
+
+Các quy định về tổ chức hoạt động hỗ trợ tư vấn cho DNNVV (bao gồm: tổ chức và hoạt động của mạng lưới tư vấn viên; quy trình hỗ trợ tư vấn cho DNNVV từ lựa chọn tư vấn viên, tiếp nhận hồ sơ đề nghị hỗ trợ tư vấn, ra quyết định phê duyệt hỗ trợ tư vấn; xử lý vi phạm; chế độ báo cáo, giám sát, đánh giá và các quy định khác trong tổ chức hoạt động hỗ trợ tư vấn cho DNNVV) thực hiện theo Thông tư số 06/2019/TT-BKHĐT ngày 29/3/2019 của Bộ Kế hoạch và Đầu tư hướng dẫn quy chế tổ chức và hoạt động của mạng lưới tư vấn viên, hỗ trợ tư vấn cho DNNVV thông qua mạng lưới tư vấn viên và các văn bản sửa đổi, bổ sung (nếu có).
+
+Điều 4. Nguyên tắc bố trí, quản lý, sử dụng kinh phí ngân sách nhà nước hỗ trợ tư vấn cho DNNVV
+
+1. Nguyên tắc bố trí:
+
+a) Ngân sách Trung ương: bố trí kinh phí hỗ trợ tư vấn cho DNNVV trong dự toán chi thường xuyên hàng năm của các đơn vị hỗ trợ DNNVV thuộc các bộ, cơ quan ngang bộ.
+
+b) Ngân sách địa phương: bố trí kinh phí hỗ trợ tư vấn cho DNNVV trong dự toán chi thường xuyên hàng năm của các đơn vị hỗ trợ DNNVV thuộc UBND cấp tỉnh.
+
+2. Kinh phí ngân sách nhà nước hỗ trợ tư vấn cho DNNVV phải được lập dự toán, quản lý và sử dụng đúng mục đích, đúng đối tượng, đúng định mức và quy định tại Thông tư này.
+
+3. Kinh phí ngân sách nhà nước hỗ trợ tư vấn cho DNNVV thông qua đơn vị hỗ trợ DNNVV. Đơn vị hỗ trợ DNNVV không được sử dụng kinh phí ngân sách nhà nước hỗ trợ tư vấn cho DNNVV để chi hoạt động bộ máy, đầu tư xây dựng cơ sở vật chất, chi khác ngoài chi hỗ trợ tư vấn cho DNNVV.
+
+4. Đơn vị hỗ trợ DNNVV chịu trách nhiệm trước pháp luật về việc quản lý và sử dụng kinh phí đúng quy định; tính trung thực, chính xác, đầy đủ pháp lý của hồ sơ, chứng từ liên quan đến sử dụng kinh phí; hạch toán, quyết toán và lưu trữ hồ sơ theo đúng chế độ quy định.
+
+Điều 5. Lập dự toán, phân bổ và giao dự toán ngân sách nhà nước hỗ trợ tư vấn cho DNNVV
+
+Việc lập dự toán, phân bổ và giao dự toán kinh phí ngân sách nhà nước hỗ trợ tư vấn cho DNNVV thực hiện theo quy định của pháp luật tài chính ngân sách hiện hành và quy định cụ thể tại Thông tư này.
+
+1. Lập và tổng hợp dự toán:
+
+a) Vào thời điểm lập dự toán ngân sách nhà nước hàng năm, căn cứ hướng dẫn xây dựng và lập dự toán ngân sách của Bộ Tài chính, văn bản của Bộ Kế hoạch và Đầu tư hướng dẫn xây dựng kế hoạch hỗ trợ tư vấn DNNVV, kết quả đánh giá tình hình thực hiện của năm trước năm kế hoạch và quy định tại Thông tư này, các đơn vị hỗ trợ DNNVV xây dựng kế hoạch và dự toán kinh phí thực hiện nhiệm vụ hỗ trợ tư vấn DNNVV của năm kế hoạch, gửi đơn vị đầu mối tổng hợp.
+
+b) Bộ, cơ quan ngang bộ, UBND cấp tỉnh gửi tổng hợp kế hoạch và dự toán ngân sách nhà nước hỗ trợ tư vấn cho DNNVV (theo mẫu phụ lục 1 kèm Thông tư này) cho Bộ Kế hoạch và Đầu tư (trước ngày 20/7) để tổng hợp chung trên phạm vi toàn quốc; đồng thời tổng hợp vào dự toán ngân sách chung năm kế hoạch của cơ quan, đơn vị mình để trình cấp có thẩm quyền theo quy định của Luật Ngân sách nhà nước và các văn bản hướng dẫn Luật.
+
+- Ngân sách trung ương: Trên cơ sở đề xuất của các bộ, cơ quan ngang bộ và số kiểm tra về tổng mức kinh phí ngân sách trung ương hỗ trợ tư vấn cho DNNVV, Bộ Kế hoạch và Đầu tư chủ trì xây dựng phương án phân bổ kinh phí ngân sách trung ương hỗ trợ tư vấn cho DNNVV, chi tiết cho các bộ, cơ quan ngang bộ (theo mẫu phụ lục 2 Thông tư này) gửi Bộ Tài chính để xem xét, tổng hợp chung vào dự toán ngân sách của các bộ, cơ quan ngang bộ trình Chính phủ trình Quốc hội quyết định.
+
+- Ngân sách địa phương: Căn cứ khả năng cân đối ngân sách địa phương hàng năm, Sở Tài chính phối hợp với đơn vị đầu mối xây dựng phương án phân bổ dự toán kinh phí ngân sách địa phương hỗ trợ tư vấn cho DNNVV, chi tiết theo các đơn vị hỗ trợ DNNVV thuộc UBND cấp tỉnh; tổng hợp vào dự toán thu, chi ngân sách địa phương trình cấp có thẩm quyền theo quy định của Luật Ngân sách nhà nước và văn bản hướng dẫn Luật.
+
+2. Phân bổ và giao dự toán:
+
+a) Ngân sách trung ương:
+
+Căn cứ dự toán kinh phí ngân sách trung ương hỗ trợ tư vấn DNNVV được cấp có thẩm quyền phê duyệt; các bộ, cơ quan ngang bộ thực hiện phân bổ, giao dự toán kinh phí cho các đơn vị hỗ trợ DNNVV theo quy định của Luật Ngân sách nhà nước và các văn bản hướng dẫn Luật, đảm bảo phù hợp với kế hoạch hỗ trợ tư vấn cho DNNVV do Bộ Kế hoạch và Đầu tư thông báo.
+
+b) Ngân sách địa phương:
+
+Căn cứ dự toán kinh phí ngân sách địa phương hỗ trợ tư vấn cho DNNVV được cấp có thẩm quyền phê duyệt, UBND cấp tỉnh thực hiện phân bổ, giao dự toán kinh phí cho các đơn vị hỗ trợ DNNVV thuộc UBND cấp tỉnh theo quy định của Luật Ngân sách nhà nước và các văn bản hướng dẫn Luật, đảm bảo phù hợp với kế hoạch hỗ trợ tư vấn cho DNNVV trên địa bàn do UBND cấp tỉnh phê duyệt hàng năm.
+
+Điều 6. Mức hỗ trợ từ ngân sách nhà nước
+
+1. DNNVV sử dụng dịch vụ tư vấn thuộc mạng lưới tư vấn viên được ngân sách nhà nước hỗ trợ theo mức quy định tại khoản 3 Điều 13 Nghị định số 39/2018/NĐ-CP.
+
+Trường hợp trong năm DNNVV đã sử dụng dịch vụ tư vấn thuộc mạng lưới tư vấn viên và được ngân sách nhà nước hỗ trợ nhưng giá trị hỗ trợ chưa vượt quá mức quy định tại khoản 3 Điều 13 Nghị định số 39/2018/NĐ-CP, DNNVV chỉ được hỗ trợ phần còn lại và phải báo cáo rõ nội dung này trong hồ sơ gửi đơn vị hỗ trợ DNNVV để xem xét, ra quyết định phê duyệt hỗ trợ tư vấn.
+
+2. Đơn vị hỗ trợ DNNVV có trách nhiệm xác định và ghi rõ tỷ lệ, số tiền ngân sách nhà nước hỗ trợ trong quyết định phê duyệt hỗ trợ tư vấn cho DNNVV.
+
+3. Trong quá trình thực hiện hợp đồng tư vấn, trường hợp có sự điều chỉnh về giá trị hợp đồng tư vấn (nhưng không thay đổi mục đích, các nội dung cơ bản của hợp đồng tư vấn) mà thấp hơn số tiền ngân sách nhà nước hỗ trợ đã ghi trong quyết định phê duyệt hỗ trợ tư vấn, hoặc dẫn đến số tiền ngân sách nhà nước hỗ trợ vượt quá tỷ lệ quy định, DNNVV báo cáo đơn vị hỗ trợ DNNVV để xác định lại số tiền ngân sách nhà nước hỗ trợ theo giá trị hợp đồng tư vấn đã điều chỉnh giảm, đảm bảo tỷ lệ hỗ trợ theo đúng quy định tại khoản 3 Điều 13 Nghị định số 39/2018/NĐ-CP.
+
+Điều 7. Thanh toán số tiền ngân sách nhà nước hỗ trợ
+
+1. Đơn vị hỗ trợ DNNVV ra quyết định phê duyệt hỗ trợ tư vấn cho DNNVV có trách nhiệm thanh toán số tiền ngân sách nhà nước hỗ trợ cho DNNVV.
+
+2. Trên cơ sở quyết định phê duyệt hỗ trợ tư vấn cho DNNVV và sau khi hợp đồng tư vấn giữa DNNVV với tư vấn viên kết thúc thực hiện, được nghiệm thu, thanh lý và DNNVV đã chi trả đủ chi phí tư vấn cho tư vấn viên, đơn vị hỗ trợ DNNVV thanh toán số tiền ngân sách nhà nước hỗ trợ cho DNNVV theo hình thức rút dự toán tại Kho bạc nhà nước. Kho bạc nhà nước thực hiện kiểm soát chi theo quy định hiện hành.
+
+DNNVV chịu trách nhiệm về tính chính xác, trung thực, đầy đủ cơ sở pháp lý của hợp đồng tư vấn và các hồ sơ, chứng từ liên quan đến thực hiện hợp đồng tư vấn. Tư vấn viên có trách nhiệm phối hợp với đơn vị hỗ trợ DNNVV trong việc xác định tính chính xác, trung thực, đầy đủ cơ sở pháp lý của hợp đồng tư vấn và các hồ sơ, chứng từ liên quan đến thực hiện hợp đồng tư vấn khi có yêu cầu.
+
+3. Đơn vị hỗ trợ DNNVV căn cứ tình hình triển khai hoạt động tổ chức hỗ trợ tư vấn cho DNNVV, số DNNVV được hỗ trợ tư vấn phát sinh trong kỳ để thực hiện thanh toán số tiền ngân sách nhà nước hỗ trợ cho DNNVV theo định kỳ tháng, quý (Ví dụ: Đơn vị hỗ trợ DNNVV quy định việc thanh toán số tiền ngân sách nhà nước hỗ trợ tư vấn cho DNNVV theo định kỳ tháng. Trong tháng 3 năm 2019, tại đơn vị này phát sinh 10 DNNVV được hỗ trợ tư vấn thì thực hiện việc thanh toán thành 1 đợt cho 10 DNNVV này).
+
+Điều 8. Quyết toán ngân sách nhà nước hỗ trợ tư vấn cho DNNVV
+
+1. Việc quyết toán kinh phí chi hỗ trợ tư vấn cho DNNVV được thực hiện theo quy định tại Luật Ngân sách nhà nước và các văn bản hướng dẫn Luật, các văn bản quy phạm pháp luật về chế độ kế toán ngân sách nhà nước.
+
+2. Đơn vị hỗ trợ DNNVV có trách nhiệm thực hiện quyết toán kinh phí ngân sách nhà nước hỗ trợ tư vấn cho DNNVV, lập báo cáo quyết toán kinh phí hỗ trợ tư vấn cho DNNVV (theo mẫu phụ lục 3 kèm Thông tư này), gửi đơn vị đầu mối để tổng hợp trong phạm vi bộ, cơ quan ngang bộ, UBND cấp tỉnh (theo mẫu phụ lục 4 kèm Thông tư này).
+
+Điều 9. Điều khoản thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 10 năm 2019.
+
+2. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị phản ánh kịp thời về Bộ Tài chính để nghiên cứu, giải quyết./.
+
+| Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Văn phòng Tổng Bí thư; Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Văn phòng Chính phủ; - Văn phòng TW và các Ban của Đảng; - Viện Kiểm sát nhân dân tối cao; - Tòa án nhân dân tối cao; - Kiểm toán Nhà nước; - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - HĐND, UBND các tỉnh, TP trực thuộc TW; - Cơ quan Trung ương các Hội, Đoàn thể; - Sở Tài chính, KBNN các tỉnh, TP trực thuộc TW; - Cục Kiểm tra văn bản - Bộ Tư pháp; - Website Chính phủ, Công báo; - Website Bộ Tài chính; - Các đơn vị thuộc Bộ Tài chính; - Lưu: VT, Cục TCDN (250 bản). | KT. BỘ TRƯỞNG THỨ TRƯỞNG Huỳnh Quang Hải |
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+
+Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Văn phòng Tổng Bí thư; Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Văn phòng Chính phủ; - Văn phòng TW và các Ban của Đảng; - Viện Kiểm sát nhân dân tối cao; - Tòa án nhân dân tối cao; - Kiểm toán Nhà nước; - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - HĐND, UBND các tỉnh, TP trực thuộc TW; - Cơ quan Trung ương các Hội, Đoàn thể; - Sở Tài chính, KBNN các tỉnh, TP trực thuộc TW; - Cục Kiểm tra văn bản - Bộ Tư pháp; - Website Chính phủ, Công báo; - Website Bộ Tài chính; - Các đơn vị thuộc Bộ Tài chính; - Lưu: VT, Cục TCDN (250 bản).
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Huỳnh Quang Hải
+
+| Bộ, cơ quan ngang Bộ, UBND cấp tỉnh... | Phụ lục 1 (Ban hành kèm theo Thông tư số 54/2019/TT-BTC ngày 21/8/2019 của Bộ Tài chính) |
+
+|----------------------------------------|------------------------------------------------------------------------------------------|
+
+Bộ, cơ quan ngang Bộ, UBND cấp tỉnh...
+
+Phụ lục 1 (Ban hành kèm theo Thông tư số 54/2019/TT-BTC ngày 21/8/2019 của Bộ Tài chính)
+
+TỔNG HỢP KẾ HOẠCH VÀ DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC HỖ TRỢ TƯ VẤN CHO DNNVV NĂM...
+
+PHẦN A- BÁO CÁO TÌNH HÌNH HỖ TRỢ TƯ VẤN CHO DNNVV NĂM ... VÀ KẾ HOẠCH HỖ TRỢ TƯ VẤN CHO DNNVV NĂM...
+
+... (Theo mẫu Phụ lục 5 ban hành kèm theo Thông tư số 06/2019/TT-BKHĐT ngày 29/3/2019 của Bộ Kế hoạch và Đầu tư)
+
+PHẦN B- TỔNG HỢP DỰ TOÁN NNSN HỖ TRỢ TƯ VẤN CHO DNNVV NĂM...
+
+| Số TT       | Đơn vị hỗ trợ DNNVV/Loại DN      | Số thực hiện năm ... (năm trước năm hiện hành) | Năm .... (năm hiện hành)         | Dự toán năm .... (năm kế hoạch) | Ghi chú                          |             |                                             |                                  |   |           |   |
+
+|-------------|----------------------------------|------------------------------------------------|----------------------------------|---------------------------------|----------------------------------|-------------|---------------------------------------------|----------------------------------|---|-----------|---|
+
+| Dự toán     | Ước thực hiện                    |                                                |                                  |                                 |                                  |             |                                             |                                  |   |           |   |
+
+| Số lượng DN | Tổng số NSNN hỗ trợ (triệu đồng) | Số lượng DN                                    | Tổng số NSNN hỗ trợ (triệu đồng) | Số lượng DN                     | Tổng số NSNN hỗ trợ (triệu đồng) | Số lượng DN | Mức NSNN hỗ trợ/1 DN/1 năm (triệu đồng) (*) | Tổng số NSNN hỗ trợ (triệu đồng) |   |           |   |
+
+| a           | b                                | c                                              | d                                | e                               | f                                | g           | h                                           | i                                | j | k = i x j | l |
+
+| I           | Đơn vị A                         |                                                |                                  |                                 |                                  |             |                                             |                                  |   |           |   |
+
+| 1           | DN siêu nhỏ                      |                                                |                                  |                                 |                                  |             |                                             |                                  |   |           |   |
+
+| 2           | DN nhỏ                           |                                                |                                  |                                 |                                  |             |                                             |                                  |   |           |   |
+
+| 3           | DN vừa                           |                                                |                                  |                                 |                                  |             |                                             |                                  |   |           |   |
+
+| II          | Đơn vị B                         |                                                |                                  |                                 |                                  |             |                                             |                                  |   |           |   |
+
+| 1           | DN siêu nhỏ                      |                                                |                                  |                                 |                                  |             |                                             |                                  |   |           |   |
+
+| 2           | DN nhỏ                           |                                                |                                  |                                 |                                  |             |                                             |                                  |   |           |   |
+
+| 3           | DN vừa                           |                                                |                                  |                                 |                                  |             |                                             |                                  |   |           |   |
+
+| …           | …                                |                                                |                                  |                                 |                                  |             |                                             |                                  |   |           |   |
+
+|             | Tổng cộng (I+II+...)             |                                                |                                  |                                 |                                  |             |                                             |                                  |   |           |   |
+
+Số TT
+
+Đơn vị hỗ trợ DNNVV/Loại DN
+
+Số thực hiện năm ... (năm trước năm hiện hành)
+
+Năm .... (năm hiện hành)
+
+Dự toán năm .... (năm kế hoạch)
+
+Ghi chú
+
+Dự toán
+
+Ước thực hiện
+
+Số lượng DN
+
+Tổng số NSNN hỗ trợ (triệu đồng)
+
+Số lượng DN
+
+Tổng số NSNN hỗ trợ (triệu đồng)
+
+Số lượng DN
+
+Tổng số NSNN hỗ trợ (triệu đồng)
+
+Số lượng DN
+
+Mức NSNN hỗ trợ/1 DN/1 năm (triệu đồng) (*)
+
+Tổng số NSNN hỗ trợ (triệu đồng)
+
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+g
+
+h
+
+i
+
+j
+
+k = i x j
+
+l
+
+I
+
+Đơn vị A
+
+1
+
+DN siêu nhỏ
+
+2
+
+DN nhỏ
+
+3
+
+DN vừa
+
+II
+
+Đơn vị B
+
+1
+
+DN siêu nhỏ
+
+2
+
+DN nhỏ
+
+3
+
+DN vừa
+
+…
+
+…
+
+Tổng cộng (I+II+...)
+
+| NGƯỜI LẬP (Ký, họ tên) | LÃNH ĐẠO ĐƠN VỊ ĐẦU MỐI (Ký, họ tên, đóng dấu) | LÃNH ĐẠO BỘ, CƠ QUAN NGANG BỘ, UBND TỈNH (Ký, họ tên, đóng dấu) |
+
+|------------------------|------------------------------------------------|-----------------------------------------------------------------|
+
+NGƯỜI LẬP (Ký, họ tên)
+
+LÃNH ĐẠO ĐƠN VỊ ĐẦU MỐI (Ký, họ tên, đóng dấu)
+
+LÃNH ĐẠO BỘ, CƠ QUAN NGANG BỘ, UBND TỈNH (Ký, họ tên, đóng dấu)
+
+Ghi chú: (*) Xác định theo khoản 3 Điều 13 NĐ số 39/2018/NĐ-CP ; trường hợp cùng loại DN nhưng mức hỗ trợ khác nhau thì tính theo mức bình quân
+
+| Bộ Kế hoạch và Đầu tư | Phụ lục 2 (Ban hành kèm theo Thông tư số 54/2019/TT-BTC ngày 21/8/2019 của Bộ Tài chính) |
+
+|-----------------------|------------------------------------------------------------------------------------------|
+
+Bộ Kế hoạch và Đầu tư
+
+Phụ lục 2 (Ban hành kèm theo Thông tư số 54/2019/TT-BTC ngày 21/8/2019 của Bộ Tài chính)
+
+TỔNG HỢP DỰ TOÁN NGÂN SÁCH TRUNG ƯƠNG HỖ TRỢ TƯ VẤN CHO DNNVV NĂM...
+
+| Số TT                | Bộ, cơ quan ngang bộ/Loại DN     | Số thực hiện năm ... (năm trước năm hiện hành) | Năm .... (năm hiện hành)         | Năm... (năm kế hoạch) | Ghi chú                          |             |                                             |                                  |             |                                             |                                  |   |           |   |
+
+|----------------------|----------------------------------|------------------------------------------------|----------------------------------|-----------------------|----------------------------------|-------------|---------------------------------------------|----------------------------------|-------------|---------------------------------------------|----------------------------------|---|-----------|---|
+
+| Dự toán              | Ước thực hiện                    | Dự toán của các bộ, ngành                      | Bộ Kế hoạch và Đầu tư đề xuất    |                       |                                  |             |                                             |                                  |             |                                             |                                  |   |           |   |
+
+| Số lượng DN          | Tổng số NSNN hỗ trợ (triệu đồng) | Số lượng DN                                    | Tổng số NSNN hỗ trợ (triệu đồng) | Số lượng DN           | Tổng số NSNN hỗ trợ (triệu đồng) | Số lượng DN | Mức NSNN hỗ trợ/1 DN/1 năm (triệu đồng) (*) | Tổng số NSNN hỗ trợ (triệu đồng) | Số lượng DN | Mức NSNN hỗ trợ/1 DN/1 năm (triệu đồng) (*) | Tổng số NSNN hỗ trợ (triệu đồng) |   |           |   |
+
+| a                    | b                                | c                                              | d                                | e                     | f                                | g           | h                                           | i                                | j           | k = i x j                                   | l                                | m | n = l x m | o |
+
+| I                    | Bộ...                            |                                                |                                  |                       |                                  |             |                                             |                                  |             |                                             |                                  |   |           |   |
+
+| 1                    | DN siêu nhỏ                      |                                                |                                  |                       |                                  |             |                                             |                                  |             |                                             |                                  |   |           |   |
+
+| 2                    | DN nhỏ                           |                                                |                                  |                       |                                  |             |                                             |                                  |             |                                             |                                  |   |           |   |
+
+| 3                    | DN vừa                           |                                                |                                  |                       |                                  |             |                                             |                                  |             |                                             |                                  |   |           |   |
+
+| II                   | Bộ...                            |                                                |                                  |                       |                                  |             |                                             |                                  |             |                                             |                                  |   |           |   |
+
+| 1                    | DN siêu nhỏ                      |                                                |                                  |                       |                                  |             |                                             |                                  |             |                                             |                                  |   |           |   |
+
+| 2                    | DN nhỏ                           |                                                |                                  |                       |                                  |             |                                             |                                  |             |                                             |                                  |   |           |   |
+
+| 3                    | DN vừa                           |                                                |                                  |                       |                                  |             |                                             |                                  |             |                                             |                                  |   |           |   |
+
+| ...                  | ...                              |                                                |                                  |                       |                                  |             |                                             |                                  |             |                                             |                                  |   |           |   |
+
+| Tổng cộng (I+II+...) |                                  |                                                |                                  |                       |                                  |             |                                             |                                  |             |                                             |                                  |   |           |   |
+
+Số TT
+
+Bộ, cơ quan ngang bộ/Loại DN
+
+Số thực hiện năm ... (năm trước năm hiện hành)
+
+Năm .... (năm hiện hành)
+
+Năm... (năm kế hoạch)
+
+Ghi chú
+
+Dự toán
+
+Ước thực hiện
+
+Dự toán của các bộ, ngành
+
+Bộ Kế hoạch và Đầu tư đề xuất
+
+Số lượng DN
+
+Tổng số NSNN hỗ trợ (triệu đồng)
+
+Số lượng DN
+
+Tổng số NSNN hỗ trợ (triệu đồng)
+
+Số lượng DN
+
+Tổng số NSNN hỗ trợ (triệu đồng)
+
+Số lượng DN
+
+Mức NSNN hỗ trợ/1 DN/1 năm (triệu đồng) (*)
+
+Tổng số NSNN hỗ trợ (triệu đồng)
+
+Số lượng DN
+
+Mức NSNN hỗ trợ/1 DN/1 năm (triệu đồng) (*)
+
+Tổng số NSNN hỗ trợ (triệu đồng)
+
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+g
+
+h
+
+i
+
+j
+
+k = i x j
+
+l
+
+m
+
+n = l x m
+
+o
+
+I
+
+Bộ...
+
+1
+
+DN siêu nhỏ
+
+2
+
+DN nhỏ
+
+3
+
+DN vừa
+
+II
+
+Bộ...
+
+1
+
+DN siêu nhỏ
+
+2
+
+DN nhỏ
+
+3
+
+DN vừa
+
+...
+
+...
+
+Tổng cộng (I+II+...)
+
+| NGƯỜI LẬP (Ký, họ tên) | LÃNH ĐẠO BỘ KẾ HOẠCH VÀ ĐẦU TƯ (Ký, họ tên, đóng dấu) |
+
+|------------------------|-------------------------------------------------------|
+
+NGƯỜI LẬP (Ký, họ tên)
+
+LÃNH ĐẠO BỘ KẾ HOẠCH VÀ ĐẦU TƯ (Ký, họ tên, đóng dấu)
+
+Ghi chú: (*) Xác định theo khoản 3 Điều 13 NĐ số 39/2018/NĐ-CP ; trường hợp cùng loại DN nhưng mức hỗ trợ khác nhau thì tính theo mức bình quân
+
+| Đơn vị hỗ trợ DNNVV... | Phụ lục 3 (Ban hành kèm theo Thông tư số 54/2019/TT-BTC ngày 21/8/2019 của Bộ Tài chính) |
+
+|------------------------|------------------------------------------------------------------------------------------|
+
+Đơn vị hỗ trợ DNNVV...
+
+Phụ lục 3 (Ban hành kèm theo Thông tư số 54/2019/TT-BTC ngày 21/8/2019 của Bộ Tài chính)
+
+BÁO CÁO QUYẾT TOÁN NSNN HỖ TRỢ TƯ VẤN CHO DNNVV
+
+| Số TT                | Tên DNNVV             | Mã số DN           | Địa chỉ trụ sở chính            | Nội dung/lĩnh vực tư vấn       | Quyết định phê duyệt hỗ trợ tư vấn (*1) | Tư vấn viên (TVV)          | Hợp đồng tư vấn đã thực hiện và NSNN hỗ trợ | Ghi chú |  |  |  |  |  |
+
+|----------------------|-----------------------|--------------------|---------------------------------|--------------------------------|-----------------------------------------|----------------------------|---------------------------------------------|---------|--|--|--|--|--|
+
+| Số đăng ký (*2)      | Tên (*3)              | Mạng lưới TTV (*4) | Ký hiệu/ngày, tháng ký hợp đồng | Giá trị hợp đồng tư vấn (đồng) | Tỷ lệ NSNN hỗ trợ (%)                   | Số tiền NSNN hỗ trợ (đồng) |                                             |         |  |  |  |  |  |
+
+| I                    | Doanh nghiệp siêu nhỏ |                    |                                 |                                |                                         |                            |                                             |         |  |  |  |  |  |
+
+| 1                    | DN...                 |                    |                                 |                                |                                         |                            |                                             |         |  |  |  |  |  |
+
+| 2                    | DN...                 |                    |                                 |                                |                                         |                            |                                             |         |  |  |  |  |  |
+
+| ...                  | …                     |                    |                                 |                                |                                         |                            |                                             |         |  |  |  |  |  |
+
+| II                   | Doanh nghiệp nhỏ      |                    |                                 |                                |                                         |                            |                                             |         |  |  |  |  |  |
+
+| 1                    | DN...                 |                    |                                 |                                |                                         |                            |                                             |         |  |  |  |  |  |
+
+| 2                    | DN...                 |                    |                                 |                                |                                         |                            |                                             |         |  |  |  |  |  |
+
+| ...                  | ...                   |                    |                                 |                                |                                         |                            |                                             |         |  |  |  |  |  |
+
+| III                  | Doanh nghiệp vừa      |                    |                                 |                                |                                         |                            |                                             |         |  |  |  |  |  |
+
+| 1                    | DN...                 |                    |                                 |                                |                                         |                            |                                             |         |  |  |  |  |  |
+
+| 2                    | DN...                 |                    |                                 |                                |                                         |                            |                                             |         |  |  |  |  |  |
+
+| ...                  | ...                   |                    |                                 |                                |                                         |                            |                                             |         |  |  |  |  |  |
+
+| Tổng cộng (I+II+III) |                       |                    |                                 |                                |                                         |                            |                                             |         |  |  |  |  |  |
+
+Số TT
+
+Tên DNNVV
+
+Mã số DN
+
+Địa chỉ trụ sở chính
+
+Nội dung/lĩnh vực tư vấn
+
+Quyết định phê duyệt hỗ trợ tư vấn (*1)
+
+Tư vấn viên (TVV)
+
+Hợp đồng tư vấn đã thực hiện và NSNN hỗ trợ
+
+Ghi chú
+
+Số đăng ký (*2)
+
+Tên (*3)
+
+Mạng lưới TTV (*4)
+
+Ký hiệu/ngày, tháng ký hợp đồng
+
+Giá trị hợp đồng tư vấn (đồng)
+
+Tỷ lệ NSNN hỗ trợ (%)
+
+Số tiền NSNN hỗ trợ (đồng)
+
+I
+
+Doanh nghiệp siêu nhỏ
+
+1
+
+DN...
+
+2
+
+DN...
+
+...
+
+…
+
+II
+
+Doanh nghiệp nhỏ
+
+1
+
+DN...
+
+2
+
+DN...
+
+...
+
+...
+
+III
+
+Doanh nghiệp vừa
+
+1
+
+DN...
+
+2
+
+DN...
+
+...
+
+...
+
+Tổng cộng (I+II+III)
+
+| NGƯỜI LẬP (Ký, họ tên) | KẾ TOÁN TRƯỞNG/PHỤ TRÁCH KẾ TOÁN ĐƠN VỊ (Ký, họ tên) | LÃNH ĐẠO ĐƠN VỊ (Ký, họ tên, đóng dấu) |
+
+|------------------------|------------------------------------------------------|----------------------------------------|
+
+NGƯỜI LẬP (Ký, họ tên)
+
+KẾ TOÁN TRƯỞNG/PHỤ TRÁCH KẾ TOÁN ĐƠN VỊ (Ký, họ tên)
+
+LÃNH ĐẠO ĐƠN VỊ (Ký, họ tên, đóng dấu)
+
+Ghi chú:
+
+(*1) Ghi rõ ký hiệu, ngày tháng ban hành quyết định
+
+(*2) Số đăng ký của TVV theo công bố của Bộ, cơ quan ngang bộ có TVV tham gia mạng lưới TVV
+
+(*3) Ghi chính xác tên của cá nhân tư vấn, hoặc tổ chức tư vấn đảm bảo thống nhất với tên có số đăng ký do bộ, cơ quan ngang bộ công bố
+
+(*4) Ghi rõ tên bộ, cơ quan ngang bộ có mạng lưới TVV mà TVV đó tham gia
+
+| Bộ cơ quan ngang Bộ, UBND cấp tỉnh… | Phụ lục 4 (Ban hành kèm theo Thông tư số 54/2019/TT-BTC ngày 21/8/2019 của Bộ Tài chính) |
+
+|-------------------------------------|------------------------------------------------------------------------------------------|
+
+Bộ cơ quan ngang Bộ, UBND cấp tỉnh…
+
+Phụ lục 4 (Ban hành kèm theo Thông tư số 54/2019/TT-BTC ngày 21/8/2019 của Bộ Tài chính)
+
+TỔNG HỢP QUYẾT TOÁN NNSN HỖ TRỢ TƯ VẤN CHO DNNVV NĂM ...
+
+| Số TT       | Đơn vị hỗ trợ DNNVV/Loại DN      | Dự toán được giao | Quyết toán                       | Ghi chú                                     |   |       |   |
+
+|-------------|----------------------------------|-------------------|----------------------------------|---------------------------------------------|---|-------|---|
+
+| Số lượng DN | Tổng số NSNN hỗ trợ (triệu đồng) | Số lượng DN       | Tổng số NSNN hỗ trợ (triệu đồng) | Mức NSNN hỗ trợ/1 DN/1 năm (triệu đồng) (*) |   |       |   |
+
+| a           | b                                | c                 | d                                | e                                           | f | g=f/e | h |
+
+| I           | Đơn vị A                         |                   |                                  |                                             |   |       |   |
+
+| 1           | DN siêu nhỏ                      |                   |                                  |                                             |   |       |   |
+
+| 2           | DN nhỏ                           |                   |                                  |                                             |   |       |   |
+
+| 3           | DN vừa                           |                   |                                  |                                             |   |       |   |
+
+| II          | Đơn vị B                         |                   |                                  |                                             |   |       |   |
+
+| 1           | DN siêu nhỏ                      |                   |                                  |                                             |   |       |   |
+
+| 2           | DN nhỏ                           |                   |                                  |                                             |   |       |   |
+
+| 3           | DN vừa                           |                   |                                  |                                             |   |       |   |
+
+| …           | …                                |                   |                                  |                                             |   |       |   |
+
+|             | Tổng cộng (I+II+...)             |                   |                                  |                                             |   |       |   |
+
+Số TT
+
+Đơn vị hỗ trợ DNNVV/Loại DN
+
+Dự toán được giao
+
+Quyết toán
+
+Ghi chú
+
+Số lượng DN
+
+Tổng số NSNN hỗ trợ (triệu đồng)
+
+Số lượng DN
+
+Tổng số NSNN hỗ trợ (triệu đồng)
+
+Mức NSNN hỗ trợ/1 DN/1 năm (triệu đồng) (*)
+
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+g=f/e
+
+h
+
+I
+
+Đơn vị A
+
+1
+
+DN siêu nhỏ
+
+2
+
+DN nhỏ
+
+3
+
+DN vừa
+
+II
+
+Đơn vị B
+
+1
+
+DN siêu nhỏ
+
+2
+
+DN nhỏ
+
+3
+
+DN vừa
+
+…
+
+…
+
+Tổng cộng (I+II+...)
+
+| NGƯỜI LẬP (Ký, họ tên) | LÃNH ĐẠO ĐƠN VỊ ĐẦU MỐI (Ký, họ tên, đóng dấu) | LÃNH ĐẠO BỘ, CƠ QUAN NGANG BỘ, UBND TỈNH (Ký, họ tên, đóng dấu) |
+
+|------------------------|------------------------------------------------|-----------------------------------------------------------------|
+
+NGƯỜI LẬP (Ký, họ tên)
+
+LÃNH ĐẠO ĐƠN VỊ ĐẦU MỐI (Ký, họ tên, đóng dấu)
+
+LÃNH ĐẠO BỘ, CƠ QUAN NGANG BỘ, UBND TỈNH (Ký, họ tên, đóng dấu)

@@ -1,0 +1,893 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 1850/QĐ-BTC | Hà Nội, ngày 22 tháng 9 năm 2021                                |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 1850/QĐ-BTC
+
+Hà Nội, ngày 22 tháng 9 năm 2021
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, SỬ DỤNG HẠ TẦNG TRUYỀN THÔNG THỐNG NHẤT NGÀNH TÀI CHÍNH
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước;
+
+Căn cứ Quyết định số 1034/QĐ-BTC ngày 27/2/2006 của Bộ trưởng Bộ Tài chính về việc phê duyệt bổ sung, điều chỉnh dự án Cơ sở hạ tầng truyền thông thống nhất ngành Tài chính (thay thế Quyết định số 990/QĐ-BTC ngày 29/6/1999 về việc phê duyệt dự án Cơ sở hạ tầng truyền thông thống nhất ngành Tài chính);
+
+Theo đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo quyết định này Quy chế quản lý, vận hành, sử dụng hạ tầng truyền thông thống nhất ngành Tài chính.
+
+Điều 2. Quyết định này có hiệu lực thi hành từ ngày ký và thay thế Quyết định số 109/QĐ-BTC ngày 15/01/2009 của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế quản lý, vận hành, sử dụng hạ tầng truyền thông thống nhất ngành Tài chính và Quyết định số 2619/QĐ-BTC ngày 10/12/2015 của Bộ trưởng Bộ Tài chính về việc sửa đổi, bổ sung một số điều của Quy chế quản lý vận hành, sử dụng hạ tầng truyền thông thống nhất ngành Tài chính ban hành kèm theo Quyết định số 109/QĐ-BTC ngày 15/01/2009 của Bộ trưởng Bộ Tài chính.
+
+Điều 3. Cục trưởng Cục Tin học và Thống kê tài chính, Thủ trưởng các đơn vị: Kho bạc Nhà nước, Tổng cục Thuế, Tổng cục Hải quan, Tổng cục Dự trữ Nhà nước, Ủy ban chứng khoán Nhà nước và các đơn vị thuộc, trực thuộc Bộ Tài chính chịu trách nhiệm thi hành Quyết định này./.
+
+| Nơi nhận: - Lãnh đạo Bộ; - Như Điều 3; - Cổng TTĐT Bộ Tài chính; - Sở Tài chính các tỉnh, thành phố trực thuộc TW; - Lưu: VT, THTK (76b). | KT. BỘ TRƯỞNG THỨ TRƯỞNG Nguyễn Đức Chi |
+
+|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+
+Nơi nhận: - Lãnh đạo Bộ; - Như Điều 3; - Cổng TTĐT Bộ Tài chính; - Sở Tài chính các tỉnh, thành phố trực thuộc TW; - Lưu: VT, THTK (76b).
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Nguyễn Đức Chi
+
+QUY CHẾ
+
+QUẢN LÝ, VẬN HÀNH, SỬ DỤNG HẠ TẦNG TRUYỀN THÔNG THỐNG NHẤT NGÀNH TÀI CHÍNH (Kèm theo Quyết định số 1850/QĐ-BTC ngày 22 tháng 9 năm 2021 của Bộ Tài chính)
+
+Chương I.
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Quy chế này quy định về hoạt động tổ chức, quản lý, vận hành và sử dụng hạ tầng truyền thông thống nhất ngành Tài chính, nhằm bảo đảm đường truyền kết nối các đơn vị hoạt động thông suốt, chất lượng, phục vụ hiệu quả các chương trình ứng dụng công nghệ thông tin, hiện đại hóa ngành Tài chính.
+
+Điều 2. Đối tượng áp dụng
+
+Quy chế này áp dụng với tất cả các đơn vị tham gia quản lý, vận hành và sử dụng hạ tầng truyền thông thống nhất ngành Tài chính, bao gồm:
+
+- Cục Tin học và Thống kê tài chính.
+
+- Các cơ quan, đơn vị thuộc và trực thuộc Bộ Tài chính.
+
+Khuyến nghị các Sở Tài chính thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương (sau đây gọi tắt là Sở Tài chính), phòng Tài chính - Kế hoạch thuộc Ủy ban nhân dân quận, huyện, thị xã, thành phố thuộc tỉnh (sau đây gọi tắt là phòng Tài chính - Kế hoạch), các tổ chức, đơn vị không thuộc Bộ Tài chính có kết nối, trao đổi thông tin với các đơn vị thuộc Bộ Tài chính, các đơn vị cung cấp dịch vụ công nghệ thông tin (kênh truyền, thiết bị hạ tầng truyền thông, vị trí đặt thiết bị, ...) cho hạ tầng truyền thông thống nhất ngành Tài chính áp dụng các quy định thuộc quy chế này.
+
+Điều 3. Giải thích từ ngữ sử dụng trong quy chế
+
+1. “Hạ tầng truyền thông thống nhất ngành Tài chính” (gọi tắt là HTTT) bao gồm các thiết bị truyền thông, các thiết bị, hệ thống phụ trợ và kênh truyền dữ liệu phục vụ kết nối mạng giữa các đơn vị trong ngành Tài chính từ cấp Trung ương tới địa phương, tạo thành mạng diện rộng của ngành Tài chính.
+
+2. “Mạng trục” là hệ thống trung gian chuyển tiếp kết nối mạng từ đơn vị này tới đơn vị khác trong HTTT. Mạng trục gồm các thành phần sau:
+
+a) “Trung tâm miền” (gọi tắt là TTM) là hệ thống gồm thiết bị truyền thông, các thiết bị, hệ thống phụ trợ phục vụ chuyển tiếp kết nối mạng mức khu vực, giữa cấp tỉnh và Trung ương.
+
+b) “Trung tâm tỉnh” (gọi tắt là TTT) là hệ thống gồm thiết bị truyền thông, các thiết bị, hệ thống phụ trợ phục vụ chuyển tiếp kết nối mạng cho địa bàn một tỉnh, thành phố trực thuộc Trung ương và chuyển tiếp kết nối mạng giữa tỉnh, thành phố với TTM.
+
+c) “Đường trục chính” là kết nối mạng giữa các TTM.
+
+d) “Đường liên tỉnh” là kết nối mạng giữa một TTT (không gồm TTT Hà Nội và TTT Hồ Chí Minh) và TTM tương ứng.
+
+đ) “Trung tâm dữ liệu” là một công trình xây dựng, bao gồm hạ tầng kỹ thuật (nhà trạm, hệ thống cáp) và hệ thống máy tính cùng các thiết bị phụ trợ được lắp đặt vào đó để lưu trữ, trao đổi và quản lý tập trung dữ liệu của một hay nhiều tổ chức, cá nhân.
+
+e) “Trung tâm dự phòng thảm họa” là trung tâm dữ liệu phục vụ cho việc bảo đảm an toàn thông tin và khôi phục dữ liệu, ứng dụng trong trường hợp xảy ra sự cố với dữ liệu, ứng dụng đang hoạt động tại trung tâm dữ liệu chính.
+
+3. “Đơn vị kết nối” là đơn vị, tổ chức trong và ngoài ngành Tài chính kết nối vào HTTT để truyền, nhận dữ liệu, gồm các nhóm sau:
+
+a) “Đơn vị cấp Trung ương”: Cơ quan Bộ Tài chính, Kho bạc Nhà nước, Tổng cục Thuế, Tổng cục Hải quan, Tổng cục Dự trữ Nhà nước, Ủy ban chứng khoán Nhà nước, Học viện Tài chính.
+
+b) “Đơn vị cấp tỉnh”: Kho bạc Nhà nước ở tỉnh, thành phố trực thuộc Trung ương (gọi tắt là KBNN cấp tỉnh), Cục thuế, Cục Hải quan, Dự trữ Nhà nước khu vực, Sở - Trung tâm giao dịch chứng khoán.
+
+c) “Đơn vị cấp huyện”: Kho bạc Nhà nước ở huyện, quận, thị xã, thành phố thuộc tỉnh (gọi tắt là KBNN cấp huyện), Chi cục Thuế, Chi cục Hải quan, các điểm làm thủ tục Hải quan và các đơn vị tương đương của hệ thống Hải quan, Chi cục Dự trữ Nhà nước, các đơn vị khác thuộc Bộ, ngành Tài chính có hệ thống mạng máy tính nội bộ hoặc trụ sở độc lập với các đơn vị trên.
+
+d) “Đơn vị ngoài ngành Tài chính”: đơn vị ngoài ngành Tài chính được phép kết nối vào HTTT để trao đổi thông tin với các đơn vị trong ngành Tài chính.
+
+4. “Mạng riêng ảo” là cấu phần thuộc hạ tầng truyền thông, được thiết lập bởi công nghệ MPLS/VPN, để tạo thành mạng kết nối dành riêng cho các đơn vị trong cùng một phân hệ hoặc cùng chung nhu cầu sử dụng.
+
+5. “Vùng mạng máy chủ dùng chung” là vùng mạng thuộc mạng cục bộ (LAN) của một đơn vị, trong đó chứa các máy chủ ứng dụng hoặc cơ sở dữ liệu để cung cấp dịch vụ cho các đơn vị thuộc phân hệ khác hoặc cho toàn ngành Tài chính hoặc cho các đơn vị ngoài ngành Tài chính.
+
+6. “Mức độ sẵn sàng” là tỷ lệ phần trăm thời gian HTTT cung cấp khả năng sử dụng đường truyền cho các dịch vụ công nghệ thông tin trong một năm (24 giờ/ngày, tất cả các ngày trong năm). “Mức độ sẵn sàng tính trong giờ hành chính” là tỷ lệ phần trăm thời gian HTTT cung cấp khả năng sử dụng đường truyền cho các dịch vụ công nghệ thông tin trong giờ hành chính trong một năm. “Mức độ sẵn sàng cam kết” là mức độ sẵn sàng tối thiểu hệ thống phải bảo đảm đáp ứng. Mức độ sẵn sàng không bị tính trừ trong trường hợp hệ thống bị ngừng hoạt động một số bộ phận (thiết bị, kênh truyền,...) nhưng vẫn cung cấp khả năng truyền nhận cho ứng dụng.
+
+7. Phân biệt các hoạt động liên quan đến HTTT:
+
+a) “Quản lý HTTT” là hoạt động tổ chức, xây dựng, triển khai, giám sát thực hiện các tiêu chuẩn liên quan tới HTTT bao gồm cả khía cạnh vận hành và sử dụng, nhằm bảo đảm tính thống nhất, hiệu quả, đáp ứng mục tiêu của HTTT; công tác lập kế hoạch, tổ chức triển khai, duy trì, phát triển, mở rộng HTTT.
+
+b) “Vận hành HTTT” là các hoạt động trực tiếp trên các hệ thống, thiết bị, đường truyền của HTTT và các công cụ hỗ trợ nhằm bảo đảm HTTT hoạt động thông suốt, đáp ứng yêu cầu kỹ thuật và chất lượng quy định. Vận hành HTTT gồm 2 cấp độ: Hoạt động mang tính kỹ thuật chuyên sâu của bộ phận công nghệ thông tin (quản trị HTTT) và các vận hành đơn giản của các cán bộ không chuyên về công nghệ thông tin trên các đường truyền, thiết bị tại đơn vị kết nối vào HTTT.
+
+c) “Sử dụng HTTT” là hoạt động triển khai, sử dụng các ứng dụng công nghệ thông tin, viễn thông và các dịch vụ khác trên đường truyền HTTT, nhằm khai thác lợi ích của HTTT.
+
+d) Trang tin “Vận hành HTTT” là một chuyên mục của Trang điện tử Bộ Tài chính (https://intranet.mof.gov.vn), phục vụ công tác quản lý, vận hành HTTT.
+
+8. Đơn vị cung cấp dịch vụ hạ tầng truyền thông: Là đơn vị cung cấp một trong những dịch vụ sau: dịch vụ kênh truyền kết nối; dịch vụ thuê thiết bị truyền thông; dịch vụ thuê chỗ đặt thiết bị thuộc hạ tầng truyền thông; và những dịch vụ khác phục vụ hoạt động của HTTT.
+
+9. Cục Hải quan trọng điểm và không trọng điểm: Cục Hải quan trọng điểm là những Cục Hải quan lớn theo quy hoạch của Tổng cục Hải quan, gồm các Cục Hải quan: Hà Nội, Hải Phòng, Quảng Ninh, Lạng Sơn, Đà Nẵng, Hồ Chí Minh, Đồng Nai, Bình Dương, Bà Rịa - Vũng Tàu; Các Cục Hải quan khác là Cục Hải quan không trọng điểm.
+
+10. Hải quan vùng: theo quy hoạch của Tổng cục Hải quan có 09 Hải quan vùng, Hải quan vùng có thể đặt tại các Cục Hải quan trọng điểm hoặc đặt tại Tổng cục Hải quan.
+
+Điều 4. Nguyên tắc chung đối với hoạt động tổ chức, quản lý, vận hành, sử dụng HTTT
+
+1. Hoạt động tổ chức, quản lý, vận hành, sử dụng HTTT phải bảo đảm duy trì, đáp ứng các yêu cầu kỹ thuật của HTTT quy định tại Mục I, Chương II, của Quy chế này.
+
+2. Các đơn vị tổ chức bộ phận quản trị HTTT phù hợp với cách thức tổ chức công việc và năng lực nhân sự công nghệ thông tin của từng đơn vị, theo phân cấp trách nhiệm quy định tại Mục II, Chương II của Quy chế này. Địa chỉ liên hệ của các bộ phận quản trị HTTT phải được cung cấp đầy đủ, công khai tại trang tin “Vận hành HTTT”.
+
+3. Khi gặp vấn đề về HTTT, các đơn vị liên hệ xử lý theo phạm vi trách nhiệm quy định tại Mục II, Chương II của Quy chế này, theo cách thức như sau:
+
+- Đối với các vấn đề trực tiếp thuộc trách nhiệm của bộ phận quản trị HTTT, liên hệ bằng điện thoại hoặc thư điện tử tới địa chỉ liên hệ của bộ phận quản trị HTTT.
+
+- Đối với các vấn đề không trực tiếp thuộc trách nhiệm của bộ phận quản trị HTTT, liên hệ xử lý bằng cách thức theo quy định chung của Nhà nước và Bộ Tài chính (giấy giới thiệu, công văn, hội nghị,...).
+
+- Thực hiện phối hợp triển khai kênh truyền mới hoặc thay đổi kênh truyền kết nối vào TTM, TTT theo Phụ lục 4 của Quy chế này.
+
+Chương II.
+
+QUY ĐỊNH CỤ THỂ
+
+Mục I. YÊU CẦU KỸ THUẬT CỦA HTTT
+
+Điều 5. Quy định về tổ chức mạng HTTT
+
+1. Mô hình kết nối vật lý:
+
+a) Mạng trục gồm 02 TTM và 63 TTT.
+
+- Trung tâm miền gồm:
+
++ Trung tâm miền Bắc gồm 02 cấu phần, 01 cấu phần đặt tại trụ sở cơ quan Bộ Tài chính, 01 cấu phần đặt tại Trung tâm dữ liệu của Bộ Tài chính tại Khu công nghệ cao Hòa Lạc, thành phố Hà Nội. Hai cấu phần được kết nối với nhau bằng 02 tuyến kênh.
+
++ Trung tâm miền Nam đặt trong trung tâm dữ liệu/ phòng máy tại thành phố Hồ Chí Minh.
+
+- Đường trục kết nối 02 Trung tâm miền: TTM Nam kết nối với TTM Bắc bằng 02 kết nối cáp quang được cung cấp bởi 2 nhà cung cấp dịch vụ kênh truyền khác nhau, trong đó 01 tuyến kênh kết nối đến trụ sở cơ quan Bộ Tài chính, 01 tuyến kênh kết nối đến Trung tâm dữ liệu của Bộ Tài chính tại Khu công nghệ cao Hòa Lạc, thành phố Hà Nội.
+
+- 63 trung tâm tỉnh gồm:
+
++ TTT Hà Nội đặt tại TTM Bắc
+
++ TTT TP Hồ Chí Minh đặt tại TTM Nam.
+
++ 61 TTT còn lại đặt tại phòng máy của đơn vị cho thuê địa điểm đặt thiết bị thuộc mỗi tỉnh. TTT phía Bắc (32 tỉnh phía Bắc từ Đà Nẵng trở ra) kết nối vào TTM Bắc, TTT phía Nam (31 tỉnh phía Nam từ Quảng Nam trở vào) kết nối vào TTM Nam.
+
++ Mỗi TTT kết nối tới TTM bằng 2 đường truyền cáp quang được cung cấp bởi 2 nhà cung cấp dịch vụ kênh truyền khác nhau.
+
+b) Đơn vị cấp Trung ương kết nối vào TTM.
+
+Các đơn vị cấp Trung ương: Kho bạc Nhà nước (KBNN), Tổng cục Thuế (TCT), Tổng cục Hải quan (TCHQ), Tổng cục Dự trữ Nhà nước (DTNN), Ủy ban Chứng khoán Nhà nước, Học viện Tài chính kết nối với TTM thông qua 2 đường truyền cáp quang được cung cấp bởi 2 nhà cung cấp dịch vụ kênh truyền khác nhau.
+
+c) Đơn vị cấp tỉnh kết nối vào TTT thuộc cùng địa bàn tỉnh, thành phố.
+
+- Các đơn vị cấp tỉnh tại Hà Nội và Thành phố Hồ Chí Minh: mỗi đơn vị (trừ Cục HQ) kết nối với TTT bằng 02 kết nối cáp quang được cung cấp bởi 2 nhà cung cấp dịch vụ kênh truyền khác nhau. Với Cục Hải quan (Cục HQ), mỗi đơn vị kết nối với TTT bằng 01 kết nối cáp quang.
+
+- Cục Thuế, Cục Dự trữ khu vực (DTKV), KBNN cấp tỉnh: kết nối tới TTT bằng 2 đường truyền cáp quang được cung cấp bởi 2 nhà cung cấp dịch vụ kênh truyền khác nhau.
+
+- Cục Hải quan: Đối với các Cục Hải quan trọng điểm có 01 đường truyền cáp quang kết nối với TTT và 01 đường truyền cáp quang kết nối với TCHQ; các Cục Hải quan không trọng điểm có 01 đường truyền cáp quang kết nối với TTT, 01 đường truyền cáp quang kết nối tới Hải quan vùng.
+
+- Các trường đại học (trừ Học viện Tài chính) kết nối với TTT bằng 01 đường truyền cáp quang.
+
+- Tại TTT có điểm nhận kết nối từ các Sở Tài chính bằng 2 đường truyền cáp quang được cung cấp bởi 2 nhà cung cấp dịch vụ kênh truyền khác nhau.
+
+d) Đơn vị cấp huyện kết nối vào TTT tại tỉnh, thành phố tương ứng, kết nối hoặc không kết nối trực tiếp tới đơn vị cấp tỉnh theo ngành dọc mà đơn vị đó trực thuộc:
+
+- Mỗi đơn vị KBNN cấp huyện, Chi cục DTNN tới TTT bằng 2 đường truyền cáp quang được cung cấp bởi 2 nhà cung cấp dịch vụ kênh truyền khác nhau.
+
+- Mỗi đơn vị cấp quận/huyện đối với cơ quan Thuế và Hải quan có 01 đường truyền cáp quang tới đơn vị cấp Cục và 01 đường truyền cáp quang tới TTT.
+
+- Tại TTT có điểm nhận kết nối từ các phòng Tài chính - Kế hoạch qua tối thiểu 01 đường truyền cáp quang.
+
+đ) Trung tâm dự phòng thảm họa: Trung tâm dự phòng thảm họa của các đơn vị Tổng cục đặt tại Trung tâm dữ liệu của Bộ Tài chính tại Khu công nghệ cao Hòa Lạc, thành phố Hà Nội; Trung tâm dự phòng thảm họa của cơ quan Bộ Tài chính đặt tại thành phố Hồ Chí Minh.
+
+e) Đơn vị ngoài ngành kết nối với Bộ Tài chính thông qua các TTM và các TTT.
+
+f) Các trường hợp khác: Các trường hợp cần thiết kết nối theo mô hình và công nghệ khác với quy định tại điểm a, b, c, d, đ, e khoản 1 và khoản 2 Điều này phải được sự đồng ý của Bộ Tài chính. Trường hợp các đơn vị có nhu cầu kết nối trực tiếp (điểm với điểm) với các đơn vị ngoài ngành Tài chính (các Bộ, ngành, các ngân hàng,...), các đơn vị được chủ động thực hiện kết nối, trên cơ sở nguyên tắc: phù hợp với yêu cầu công việc, bảo đảm an toàn bảo mật, đồng thời gửi văn bản thông báo cho Cục Tin học và Thống kê tài chính chậm nhất sau 01 tháng kể từ khi thực hiện kết nối.
+
+2. Mô hình kết nối logic:
+
+a) Sử dụng công nghệ MPLS/VPN trên thiết bị định tuyến tại các TTM và các TTT.
+
+b) Mạng riêng ảo gồm:
+
+- Mạng riêng ảo phân hệ Kho bạc Nhà nước
+
+- Mạng riêng ảo phân hệ Thuế
+
+- Mạng riêng ảo phân hệ Hải quan
+
+- Mạng riêng ảo phân hệ Dự trữ Nhà nước
+
+- Mạng riêng ảo phân hệ Chứng khoán
+
+- Mạng riêng ảo phân hệ Tài chính: kết nối cơ quan Bộ Tài chính, các đơn vị còn lại của Bộ Tài chính, các Sở Tài chính và Phòng Tài chính - Kế hoạch.
+
+- Mạng riêng ảo ngoài ngành Tài chính: kết nối các đơn vị ngoài ngành Tài chính.
+
+c) Vùng mạng máy chủ dùng chung toàn ngành Tài chính đặt tại Trung tâm dữ liệu của Bộ Tài chính tại Khu công nghệ cao Hòa Lạc, thành phố Hà Nội, phục vụ trao đổi dữ liệu, truy cập ứng dụng từ tất cả các đơn vị trong ngành Tài chính. Vùng mạng máy chủ dùng chung của từng phân hệ đặt tại đơn vị cấp Trung ương của phân hệ tương ứng. Địa chỉ vùng mạng máy chủ dùng chung quy định tại Phụ lục 2 của Quy chế này. Trao đổi dữ liệu giữa các đơn vị không cùng phân hệ phải thực hiện thông qua các vùng mạng máy chủ dùng chung hoặc thông qua TTT.
+
+Điều 6. Quy định về mức độ sẵn sàng, chất lượng kênh truyền của HTTT
+
+1. TTM, TTT, hệ thống kết nối HTTT tại các đơn vị cấp Trung ương phải được duy trì hoạt động 24 giờ/ngày, tất cả các ngày trong năm.
+
+2. Mức độ sẵn sàng của HTTT:
+
+a) Hệ thống mạng trục (gồm TTM, TTT, đường trục kết nối 02 TTM, đường kết nối TTM và TTT) và kết nối HTTT của đơn vị cấp Trung ương, Sở Giao dịch chứng khoán, Trung tâm Lưu ký chứng khoán:
+
+- Mức độ sẵn sàng cam kết: 99,45%, tương ứng với thời gian ngừng cung cấp dịch vụ tổng cộng không quá 48 giờ trong một năm.
+
+- Mức độ sẵn sàng cam kết trong giờ hành chính của TTM và đường trục kết nối 02 TTM: 99,80%, tương ứng với thời gian ngừng cung cấp dịch vụ trong giờ hành chính không quá 04 giờ trong một năm.
+
+- Mức độ sẵn sàng cam kết trong giờ hành chính của TTT, đường kết nối TTM và TTT, và của đơn vị cấp Trung ương, Sở Giao dịch chứng khoán, Trung tâm Lưu ký chứng khoán: 99,60%, tương ứng với thời gian ngừng cung cấp dịch vụ trong giờ hành chính không quá 08 giờ trong một năm.
+
+b) Kết nối HTTT của đơn vị cấp tỉnh, huyện: các đơn vị phải bảo đảm kết nối đáp ứng phục vụ công việc.
+
+3. Chất lượng kênh truyền: các kênh truyền khi kiểm tra phải đạt tối thiểu như sau:
+
+a) Kênh truyền Leased-line/Point-to-Point Layer 2: băng thông đạt 99% băng thông cam kết, độ trễ gói tin ≤ 30ms và số gói tin bị mất ≤ 0,1% đối với gói tin có kích thước 2000byte.
+
+b) Kênh MPLS/VPN Layer 3: băng thông đạt 97% băng thông cam kết, độ trễ gói tin ≤ 100ms và số gói tin bị mất ≤ 0,1% đối với gói tin có kích thước 2000byte.
+
+4. Việc kiểm tra chất lượng kênh truyền phải được thực hiện định kỳ tối thiểu 6 tháng 1 lần, số lượng kênh kiểm tra tại một lần thực hiện tối thiểu 05% số kênh do mỗi đơn vị chịu trách nhiệm quản lý. Tổ chức thực hiện kiểm tra đối với bất cứ kênh truyền nào ngay sau khi nhận được phản ánh kênh truyền này không đáp ứng yêu cầu kỹ thuật nêu tại khoản 3 Điều này hoặc không đáp ứng yêu cầu triển khai ứng dụng.
+
+Điều 7. Quy định về an toàn, bảo mật đối với HTTT
+
+1. HTTT phải được bảo đảm an toàn thông tin mạng, an ninh mạng theo quy định tại Quy chế An toàn thông tin mạng Bộ Tài chính ban hành tại Quyết định số 201/QĐ-BTC ngày 12/02/2018 của Bộ trưởng Bộ Tài chính và các quy định sửa đổi, bổ sung (nếu có).
+
+2. Tất cả các đơn vị kết nối vào HTTT phải:
+
+a) Bảo đảm an toàn cho hệ thống, thiết bị HTTT đặt tại đơn vị về nguồn điện, nhiệt độ môi trường, chống sét, tuân thủ các quy trình vận hành hệ thống thiết bị theo hướng dẫn của đơn vị triển khai, lắp đặt hoặc các quy định khác do Bộ Tài chính ban hành.
+
+b) Bảo vệ mạng nội bộ của đơn vị tại điểm kết nối HTTT và điểm kết nối Internet bằng tường lửa và/hoặc các hệ thống khác.
+
+c) Máy tính kết nối mạng của đơn vị được cài đặt phần mềm phòng diệt virus. Phần mềm phòng diệt virus và hệ điều hành trên máy tính phải được cập nhật thường xuyên các bản cập nhật mẫu virus và bản vá lỗi hệ điều hành nhằm bảo đảm không phát tán, lan truyền virus vào HTTT.
+
+d) Mã hóa dữ liệu, thông tin bí mật trước khi gửi dữ liệu đó trên đường truyền HTTT.
+
+3. Các đơn vị được giao trách nhiệm quản lý, vận hành TTM, TTT, các đơn vị cấp Trung ương phải:
+
+a) Trang bị lưu điện, máy nổ, điều hòa, chống sét, thiết bị phòng cháy chữa cháy bảo đảm điều kiện hoạt động của HTTT tại đơn vị.
+
+b) Thiết lập hệ thống tường lửa bảo vệ vùng mạng máy chủ dùng chung tại đơn vị.
+
+c) Có biện pháp kiểm soát, giám sát vào/ra phòng máy chứa các thiết bị TTM, TTT.
+
+4. Các đơn vị cấp tỉnh, huyện phải trang bị lưu điện, điều hòa, lắp đặt chống sét cho thiết bị truyền thông.
+
+5. Cán bộ quản trị HTTT phải:
+
+a) Tuân thủ các nguyên tắc chung của nhà nước và của Bộ Tài chính về an toàn bảo mật thông tin; không được phép cung cấp thiết kế, cấu hình hệ thống, dữ liệu truyền trên HTTT ra bên ngoài khi chưa được phép của cấp có thẩm quyền.
+
+b) Sử dụng các giao thức bảo mật (https, ssh, ...) cho hoạt động quản trị từ xa.
+
+Điều 8. Quy định đối với các kết nối mạng từ các đơn vị không thuộc, trực thuộc Bộ Tài chính vào HTTT, đối với hoạt động triển khai các dịch vụ công nghệ thông tin cho HTTT
+
+1. Đối với các hoạt động kết nối mạng từ các đơn vị không thuộc, trực thuộc Bộ Tài chính vào HTTT
+
+a) Tuân thủ các quy định về yêu cầu kỹ thuật của HTTT được quy định tại Điều 5, 6, 7 của Quy chế, phối với với Cục Tin học và Thống kê tài chính và các bộ phận quản trị HTTT theo phân cấp quy định tại Mục II của Quy chế này để kết nối vào HTTT.
+
+b) Các kết nối, thiết bị phục vụ kết nối phải được quản lý, vận hành hoạt động, xử lý sự cố trong quá trình hoạt động bởi các bên tham gia quản lý, báo cáo hoạt động định kỳ cho Cục Tin học và Thống kê tài chính và cho các bộ phận quản trị HTTT theo phân cấp quy định tại Mục II của Quy chế này.
+
+2. Đối với hoạt động triển khai các dịch vụ công nghệ thông tin cho HTTT (dịch vụ thuê kênh truyền, thiết bị HTTT, vị trí đặt thiết bị HTTT, ...)
+
+a) Tuân thủ các quy định về yêu cầu kỹ thuật của HTTT được quy định tại Điều 5, 6, 7 của Quy chế, phối với với Cục Tin học và Thống kê tài chính và các bộ phận quản trị HTTT theo phân cấp quy định tại Mục II của Quy chế này để triển khai các dịch vụ công nghệ thông tin cho HTTT.
+
+b) Các thành phần cung cấp trong dịch vụ công nghệ thông tin (thiết bị HTTT, vị trí đặt thiết bị, kênh truyền, ..) phải được các bên tham gia quản lý thực hiện kiểm tra định kỳ hoặc đột xuất khi có chỉ đạo, có báo cáo hoạt động định kỳ cho các cơ quan quản lý.
+
+c) Thiết bị sử dụng trong HTTT phải là sản phẩm chính hãng, chỉ phục vụ hoạt động của hệ thống hạ tầng truyền thông ngành Tài chính, không cài đặt các phần mềm nhằm mục đích lấy cắp thông tin, hoặc làm giảm chất lượng hệ thống hạ tầng truyền thông.
+
+d) Vị trí đặt thiết bị HTTT phải được trang bị lưu điện, máy nổ, điều hòa, chống sét, thiết bị phòng cháy chữa cháy bảo đảm điều kiện hoạt động của thiết bị HTTT; Có biện pháp kiểm soát, giám sát vào/ra phòng máy chứa các thiết bị HTTT.
+
+Mục II. QUẢN LÝ, VẬN HÀNH, SỬ DỤNG HTTT
+
+Điều 9. Trách nhiệm của Cục Tin học và Thống kê tài chính
+
+1. Quản lý chung toàn bộ hoạt động vận hành HTTT:
+
+a) Tổ chức, xây dựng, quản lý, giám sát, hoạt động của HTTT.
+
+b) Hướng dẫn các đơn vị triển khai công tác quản lý, vận hành, bảo đảm các yêu cầu kỹ thuật của HTTT (mục I, chương II của Quy chế này).
+
+c) Tổ chức kiểm tra, đánh giá, báo cáo Bộ về các nội dung: công tác quản lý, vận hành và khai thác sử dụng HTTT; mức độ đáp ứng, nhu cầu phát triển, mở rộng của HTTT.
+
+d) Thống nhất cách thức xử lý và trình Bộ phương án giải quyết các vướng mắc giữa bên cung cấp dịch vụ (đường truyền, thiết bị, thuê địa điểm đặt thiết bị) với các đơn vị thuộc Bộ Tài chính trong trường hợp ngoài phạm vi hợp đồng đã ký giữa các bên.
+
+e) Tổ chức và phối hợp tổ chức đào tạo bồi dưỡng cán bộ làm công tác quản trị HTTT.
+
+f) Quản trị trang tin vận hành HTTT.
+
+2. Quản lý hệ thống mạng trục, trực tiếp vận hành giám sát các TTM, các TTT. Tổ chức bộ phận quản trị HTTT tại các TTM thực hiện các nhiệm vụ sau:
+
+a) Xây dựng, triển khai các giải pháp hạ tầng kỹ thuật, thiết bị, dịch vụ CNTT phục vụ hoạt động của hệ thống mạng trục HTTT.
+
+b) Quản trị TTM Bắc:
+
+- Quản lý chung hệ thống mạng trục. Trực tiếp quản lý thiết bị tại TTM Bắc và 32 TTT phía Bắc.
+
+- Quản lý cấu hình hệ thống mạng trục: cấu hình lại hệ thống khi có yêu cầu thay đổi (thay đổi về thiết kế, kết nối, mức dịch vụ); sao lưu, bảo vệ thông tin cấu hình sẵn sàng phục vụ khôi phục hệ thống khi có sự cố.
+
+- Quản lý băng thông mạng trục: thiết lập giám sát sử dụng băng thông; phân tích, dự báo khả năng đáp ứng nhu cầu của các đơn vị về băng thông mạng trục.
+
+- Giám sát hoạt động của hệ thống mạng trục (thiết bị, kênh truyền), xử lý sự cố tại TTM Bắc và 32 TTT phía Bắc: bao gồm thiết bị, kênh truyền thuộc đường trục chính, các đường liên tỉnh và nội tỉnh kết nối vào TTM Bắc và TTT.
+
+- Chủ trì, phối hợp với quản trị TTM Nam, quản trị HTTT của các đơn vị Tổng cục và các đơn vị liên quan để thực hiện kiểm tra, báo cáo kết quả kiểm tra chất lượng kênh truyền của hệ thống mạng trục, các kết nối vào TTM và TTT theo các yêu cầu kỹ thuật của HTTT quy định tại Mục I Chương II của Quy chế này.
+
+- Hỗ trợ các đơn vị phía Bắc xử lý sự cố HTTT.
+
+- Liên lạc với nhà cung cấp dịch vụ hạ tầng (bao gồm: kênh truyền, thiết bị, thuê địa điểm) và các bên liên quan để xử lý sự cố gây gián đoạn hoạt động của HTTT.
+
+- Ghi nhật ký toàn bộ vấn đề phát sinh, thay đổi, sự cố và hoạt động xử lý trong quá trình vận hành hệ thống tại trang tin vận hành HTTT.
+
+c) Quản trị TTM Nam:
+
+- Trực tiếp quản lý thiết bị tại TTM Nam và 31 TTT phía Nam.
+
+- Quản lý cấu hình hệ thống mạng tại TTM Nam, 31 TTT phía Nam: cấu hình lại hệ thống khi có yêu cầu thay đổi (thay đổi về thiết kế, kết nối, mức dịch vụ); sao lưu, bảo vệ thông tin cấu hình sẵn sàng phục vụ khôi phục hệ thống khi có sự cố.
+
+- Phối hợp với quản trị TTM Bắc thực hiện việc phân tích, dự báo khả năng đáp ứng nhu cầu của các đơn vị về sử dụng băng thông mạng trục
+
+- Giám sát hoạt động của hệ thống mạng trục (thiết bị, kênh truyền) và xử lý sự cố tại TTM Nam và 31 TTT phía Nam: bao gồm thiết bị, kênh truyền liên tỉnh và nội tỉnh kết nối vào TTM Nam và TTT.
+
+- Phối hợp với quản trị TTM Bắc và các đơn vị liên quan để thực hiện kiểm tra và báo cáo kết quả kiểm tra chất lượng kênh truyền của hệ thống mạng trục theo các yêu cầu kỹ thuật của HTTT quy định tại Mục I Chương II của Quy chế này.
+
+- Hỗ trợ các đơn vị phía Nam xử lý sự cố HTTT.
+
+- Liên lạc với nhà cung cấp dịch vụ hạ tầng (bao gồm: kênh truyền, thiết bị, thuê địa điểm) và các bên liên quan để xử lý sự cố gây gián đoạn hoạt động của HTTT.
+
+- Ghi nhật ký toàn bộ vấn đề phát sinh, thay đổi, sự cố và hoạt động xử lý trong quá trình vận hành hệ thống tại trang tin vận hành HTTT.
+
+3. Bảo đảm an toàn thông tin mạng, an ninh mạng cho các thiết bị, hệ thống thông tin thuộc mạng trục của HTTT.
+
+4. Phối hợp, hướng dẫn và giám sát (trong phạm vi HTTT được giao cho đơn vị quản lý) các đơn vị không thuộc Bộ Tài chính có nhu cầu kết nối vào HTTT hoặc thực hiện triển khai dịch vụ công nghệ thông tin cho HTTT bảo đảm tuân thủ các quy định tại Mục I Chương II Quy chế này.
+
+Điều 10. Trách nhiệm của các cơ quan, đơn vị thuộc và trực thuộc Bộ Tài chính
+
+1. Đơn vị cấp Trung ương (cấp Tổng cục) có các trách nhiệm sau:
+
+a) Quản lý, bảo vệ thiết bị HTTT đặt tại đơn vị; Triển khai, duy trì các chính sách về hạ tầng truyền thông do Bộ Tài chính ban hành.
+
+b) Tổ chức bộ phận quản trị hạ tầng truyền thông thực hiện các nhiệm vụ sau:
+
+- Vận hành hệ thống kết nối vào hạ tầng truyền thông đặt tại đơn vị, các đường truyền mà đơn vị được giao triển khai, sử dụng.
+
+- Phối hợp với nhà cung cấp đường truyền và Cục Tin học và Thống kê tài chính kiểm tra, khắc phục lỗi kết nối hạ tầng truyền thông trong các đơn vị thuộc phân hệ của mình.
+
+- Giám sát và báo cáo mức độ sẵn sàng; thực hiện và báo cáo kết quả kiểm tra chất lượng kênh truyền của kết nối hạ tầng truyền thông các đơn vị cấp tỉnh, huyện thuộc phạm vi quản lý của đơn vị theo các chỉ tiêu quy định tại Điều 6 của Quy chế này.
+
+c) Thông báo các thay đổi về nhân sự quản trị hạ tầng truyền thông tại các đơn vị cấp Trung ương, cấp tỉnh và địa chỉ liên lạc kèm theo cho Cục Tin học và Thống kê tài chính và các đơn vị liên quan thuộc cùng phân hệ.
+
+d) Thông báo kế hoạch di chuyển trụ sở, thay đổi đường truyền, lắp đặt đường truyền mới (nếu có) cho Cục Tin học và Thống kê tài chính và cho đơn vị liên quan thuộc cùng phân hệ để phối hợp thực hiện.
+
+đ) Thực hiện báo cáo định kỳ 1 năm để đánh giá mức độ đáp ứng của hạ tầng truyền thông theo mẫu báo cáo quản trị HTTT tại phụ lục 3 kèm theo Quy chế này và các báo cáo hạ tầng truyền thông khác khi có yêu cầu, gửi Cục Tin học và Thống kê tài chính tổng hợp, báo cáo Bộ.
+
+e) Kiến nghị kịp thời các vấn đề của hạ tầng truyền thông gây ảnh hưởng tới hoạt động của các ứng dụng của đơn vị, gửi Cục Tin học và Thống kê tài chính để phối hợp xử lý hoặc trình Bộ xử lý.
+
+f) Phối hợp với Cục Tin học và Thống kê tài chính hoặc chủ động đào tạo bồi dưỡng cán bộ quản trị hạ tầng truyền thông.
+
+g) Bảo đảm an toàn thông tin mạng, an ninh mạng cho các thiết bị, hệ thống thông tin của HTTT thuộc trách nhiệm quản lý của đơn vị.
+
+h) Đối với Tổng cục Hải quan: Thực hiện kiểm tra chất lượng kênh truyền kết nối tại các đơn vị của cơ quan Hải Quan và phối hợp với các nhà cung cấp kênh truyền kiểm tra, khắc phục lỗi kết nối trực tiếp giữa đơn vị Hải quan với Hải quan vùng, với Tổng Cục hải quan.
+
+i) Phối hợp, hướng dẫn và giám sát (trong phạm vi HTTT được giao cho đơn vị quản lý) các đơn vị không thuộc Bộ Tài chính có nhu cầu kết nối vào HTTT hoặc thực hiện triển khai dịch vụ công nghệ thông tin cho HTTT bảo đảm tuân thủ các quy định tại Mục I Chương II Quy chế này.
+
+2. Các đơn vị cấp tỉnh, huyện của các đơn vị Tổng cục có trách nhiệm sau:
+
+a) Quản lý, bảo vệ thiết bị HTTT đặt tại đơn vị.
+
+b) Thực hiện các quy định, hướng dẫn về HTTT do Bộ Tài chính, Cục Tin học và Thống kê tài chính, và đơn vị cấp trên ban hành.
+
+c) Thông báo kế hoạch di chuyển trụ sở, thay đổi đường truyền, lắp đặt đường truyền mới (nếu có) cho Cục Tin học và Thống kê tài chính và đơn vị cấp trên thuộc cùng phần hệ để phối hợp thực hiện.
+
+3. Các trường, học viện thuộc, trực thuộc Bộ Tài chính
+
+a) Tổ chức, triển khai, duy trì hệ thống kết nối vào HTTT theo các chính sách về HTTT do Bộ Tài chính ban hành.
+
+b) Tổ chức bộ phận hoặc phân công cán bộ vận hành kênh truyền, thiết bị HTTT nhằm bảo đảm kết nối của đơn vị vào HTTT.
+
+4. Các cơ quan hành chính, đơn vị sự nghiệp thuộc Bộ Tài chính có trụ sở nằm ngoài cơ quan Bộ Tài chính, có kết nối vào hệ thống hạ tầng truyền thông thống nhất ngành Tài chính:
+
+a) Thực hiện quy trình kết nối vào HTTT theo hướng dẫn của Cục Tin học và Thống kê tài chính, bảo đảm quy định về an toàn, bảo mật quy định tại Điều 7 của Quy chế này.
+
+b) Phối hợp với Cục Tin học và Thống kê tài chính để quản lý, vận hành, bảo đảm kết nối của đơn vị vào HTTT.
+
+Điều 11. Quy định về trang tin vận hành HTTT
+
+1. Trang tin vận hành HTTT phải cung cấp khả năng truy cập, cập nhật thông tin cho cán bộ quản trị HTTT tại TTM, TTT, các đơn vị cấp Trung ương và cấp tỉnh. Các nội dung thông tin trên trang tin này phải được phân quyền phù hợp với trách nhiệm của từng đơn vị tham gia quản lý, vận hành và khai thác, sử dụng HTTT.
+
+2. Trang tin vận hành HTTT phải bao gồm tối thiểu các nội dung sau:
+
+a) Địa chỉ liên hệ của quản trị hạ tầng truyền thông các Trung tâm miền, Trung tâm tỉnh, các đơn vị cấp Trung ương, cấp tỉnh, các đối tác cung cấp thiết bị, dịch vụ đường truyền, đơn vị cung cấp địa điểm đặt thiết bị TTT.
+
+b) Kết quả kiểm tra HTTT đầu giờ hàng ngày. Toàn bộ các sự cố HTTT từ khi phát sinh, tiến trình và kết quả xử lý. Báo cáo đánh giá mức độ sẵn sàng, báo cáo kiểm tra chất lượng kênh truyền.
+
+c) Các quy trình, thủ tục, mẫu biểu quản lý, vận hành hạ tầng truyền thông.
+
+Chương III.
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 12. Tổ chức thực hiện
+
+1. Cục Tin học và Thống kê tài chính
+
+a) Hướng dẫn các đơn vị thuộc, trực thuộc Bộ Tài chính triển khai thực hiện quy chế này.
+
+b) Hướng dẫn các đơn vị cách sử dụng trang tin vận hành HTTT.
+
+c) Theo dõi hoạt động, định kỳ 1 năm báo cáo Bộ tình hình khai thác, sử dụng HTTT.
+
+2. Thủ trưởng các đơn vị thuộc Bộ
+
+a) Hướng dẫn, phổ biến Quy chế này tới đơn vị thuộc phạm vi quản lý.
+
+b) Lập danh sách ứng dụng, dịch vụ của đơn vị đang sử dụng HTTT hoặc có kế hoạch triển khai sử dụng HTTT gửi Cục Tin học và Thống kê tài chính.
+
+c) Lập danh sách cán bộ quản trị HTTT tại các đơn vị cấp Trung ương, cấp tỉnh và địa chỉ liên lạc kèm theo gửi Cục Tin học và Thống kê tài chính.
+
+3. Trong quá trình thực hiện quy chế, trường hợp các văn bản dẫn chiếu tại quy chế này được sửa đổi, bổ sung, thay thế thì thực hiện theo văn bản có hiệu lực mới hơn.
+
+Điều 13. Rà soát, cập nhật, bổ sung Quy chế
+
+Trong quá trình thực hiện Quy chế, Cục Tin học và Thống kê tài chính tổ chức rà soát, kiểm tra tính phù hợp của Quy chế này với quy định của Nhà nước và yêu cầu thực tế, báo cáo Bộ Tài chính để sửa đổi, bổ sung khi cần thiết./.
+
+PHỤ LỤC 1
+
+DANH SÁCH TRUNG TÂM TỈNH CỦA HTTT THỐNG NHẤT NGÀNH TÀI CHÍNH (Kèm theo Quyết định số 1850/QĐ-BTC ngày 22 tháng 09 năm 2021 của Bộ Tài chính)
+
+| MIỀN BẮC |             |  | MIỀN NAM |                   |
+
+|----------|-------------|--|----------|-------------------|
+
+| TT       | TTT         |  | TT       | TTT               |
+
+| 1        | Hà Nội      |  | 1        | TP. Hồ Chí Minh   |
+
+| 2        | Hải Phòng   |  | 2        | Long An           |
+
+| 3        | Đà Nẵng     |  | 3        | Tiền Giang        |
+
+| 4        | Nam Định    |  | 4        | Bến Tre           |
+
+| 5        | Hà Nam      |  | 5        | Đồng Tháp         |
+
+| 6        | Hải Dương   |  | 6        | Vĩnh Long         |
+
+| 7        | Hưng Yên    |  | 7        | An Giang          |
+
+| 8        | Thái Bình   |  | 8        | Kiên Giang        |
+
+| 9        | Bắc Ninh    |  | 9        | Cần Thơ           |
+
+| 10       | Bắc Giang   |  | 10       | Bạc Liêu          |
+
+| 11       | Vĩnh Phúc   |  | 11       | Cà Mau            |
+
+| 12       | Phú Thọ     |  | 12       | Trà Vinh          |
+
+| 13       | Ninh Bình   |  | 13       | Sóc Trăng         |
+
+| 14       | Thanh Hóa   |  | 14       | Bình Thuận        |
+
+| 15       | Nghệ An     |  | 15       | Bà Rịa - Vũng Tàu |
+
+| 16       | Hà Tĩnh     |  | 16       | Đồng Nai          |
+
+| 17       | Quảng Bình  |  | 17       | Bình Dương        |
+
+| 18       | Quảng Trị   |  | 18       | Bình Phước        |
+
+| 19       | TT - Huế    |  | 19       | Tây Ninh          |
+
+| 20       | Thái Nguyên |  | 20       | Quảng Nam         |
+
+| 21       | Bắc Cạn     |  | 21       | Bình Định         |
+
+| 22       | Cao Bằng    |  | 22       | Khánh Hòa         |
+
+| 23       | Lạng Sơn    |  | 23       | Quảng Ngãi        |
+
+| 24       | Tuyên Quang |  | 24       | Phú Yên           |
+
+| 25       | Hà Giang    |  | 25       | Ninh Thuận        |
+
+| 26       | Yên Bái     |  | 26       | Lâm Đồng          |
+
+| 27       | Lào Cai     |  | 27       | Gia Lai           |
+
+| 28       | Hòa Bình    |  | 28       | Đắk Lắk           |
+
+| 29       | Sơn La      |  | 29       | Kon Tum           |
+
+| 30       | Điện Biên   |  | 30       | Hậu Giang         |
+
+| 31       | Quảng Ninh  |  | 31       | Đắk Nông          |
+
+| 32       | Lai Châu    |  |          |                   |
+
+MIỀN BẮC
+
+MIỀN NAM
+
+TT
+
+TTT
+
+TT
+
+TTT
+
+1
+
+Hà Nội
+
+1
+
+TP. Hồ Chí Minh
+
+2
+
+Hải Phòng
+
+2
+
+Long An
+
+3
+
+Đà Nẵng
+
+3
+
+Tiền Giang
+
+4
+
+Nam Định
+
+4
+
+Bến Tre
+
+5
+
+Hà Nam
+
+5
+
+Đồng Tháp
+
+6
+
+Hải Dương
+
+6
+
+Vĩnh Long
+
+7
+
+Hưng Yên
+
+7
+
+An Giang
+
+8
+
+Thái Bình
+
+8
+
+Kiên Giang
+
+9
+
+Bắc Ninh
+
+9
+
+Cần Thơ
+
+10
+
+Bắc Giang
+
+10
+
+Bạc Liêu
+
+11
+
+Vĩnh Phúc
+
+11
+
+Cà Mau
+
+12
+
+Phú Thọ
+
+12
+
+Trà Vinh
+
+13
+
+Ninh Bình
+
+13
+
+Sóc Trăng
+
+14
+
+Thanh Hóa
+
+14
+
+Bình Thuận
+
+15
+
+Nghệ An
+
+15
+
+Bà Rịa - Vũng Tàu
+
+16
+
+Hà Tĩnh
+
+16
+
+Đồng Nai
+
+17
+
+Quảng Bình
+
+17
+
+Bình Dương
+
+18
+
+Quảng Trị
+
+18
+
+Bình Phước
+
+19
+
+TT - Huế
+
+19
+
+Tây Ninh
+
+20
+
+Thái Nguyên
+
+20
+
+Quảng Nam
+
+21
+
+Bắc Cạn
+
+21
+
+Bình Định
+
+22
+
+Cao Bằng
+
+22
+
+Khánh Hòa
+
+23
+
+Lạng Sơn
+
+23
+
+Quảng Ngãi
+
+24
+
+Tuyên Quang
+
+24
+
+Phú Yên
+
+25
+
+Hà Giang
+
+25
+
+Ninh Thuận
+
+26
+
+Yên Bái
+
+26
+
+Lâm Đồng
+
+27
+
+Lào Cai
+
+27
+
+Gia Lai
+
+28
+
+Hòa Bình
+
+28
+
+Đắk Lắk
+
+29
+
+Sơn La
+
+29
+
+Kon Tum
+
+30
+
+Điện Biên
+
+30
+
+Hậu Giang
+
+31
+
+Quảng Ninh
+
+31
+
+Đắk Nông
+
+32
+
+Lai Châu
+
+PHỤ LỤC 2
+
+ĐỊA CHỈ VÙNG MẠNG MÁY CHỦ DÙNG CHUNG (Kèm theo Quyết định số 1850/QĐ-BTC ngày 22 tháng 09 năm 2021 của Bộ Tài chính)
+
+| 1. Vùng mạng ứng dụng nghiệp vụ dùng chung toàn ngành:                            |                 |
+
+|-----------------------------------------------------------------------------------|-----------------|
+
+|                                                                                   | 10.192.234.0/24 |
+
+|                                                                                   | 10.192.246.0/24 |
+
+|                                                                                   | 10.192.254.0/23 |
+
+| 2. Vùng mạng dùng chung phục vụ đào tạo, thử nghiệm đặt tại cơ quan Bộ Tài chính: | 10.192.239.0/24 |
+
+| 3. Vùng mạng dùng chung Kho bạc Nhà nước:                                         | 10.96.2.0/24    |
+
+| 4. Vùng mạng dùng chung Tổng cục Thuế:                                            | 10.64.116.0/24  |
+
+| 5. Vùng mạng dùng chung Tổng cục Hải quan:                                        | 10.224.140.0/24 |
+
+| 6. Vùng mạng dùng chung Tổng cục Dự trữ Nhà nước:                                 | 10.160.10.0/24  |
+
+| 7. Vùng mạng dùng chung Ủy ban chứng khoán:                                       | 10.179.8.0/24   |
+
+1. Vùng mạng ứng dụng nghiệp vụ dùng chung toàn ngành:
+
+10.192.234.0/24
+
+10.192.246.0/24
+
+10.192.254.0/23
+
+2. Vùng mạng dùng chung phục vụ đào tạo, thử nghiệm đặt tại cơ quan Bộ Tài chính:
+
+10.192.239.0/24
+
+3. Vùng mạng dùng chung Kho bạc Nhà nước:
+
+10.96.2.0/24
+
+4. Vùng mạng dùng chung Tổng cục Thuế:
+
+10.64.116.0/24
+
+5. Vùng mạng dùng chung Tổng cục Hải quan:
+
+10.224.140.0/24
+
+6. Vùng mạng dùng chung Tổng cục Dự trữ Nhà nước:
+
+10.160.10.0/24
+
+7. Vùng mạng dùng chung Ủy ban chứng khoán:
+
+10.179.8.0/24
+
+PHỤ LỤC 3
+
+MẪU BÁO CÁO QUẢN TRỊ HTTT (Kèm theo Quyết định số 1850/QĐ-BTC ngày 22 tháng 09 năm 2021 của Bộ Tài chính)
+
+1. Báo cáo mức độ sẵn sàng của HTTT
+
+Đơn vị thực hiện báo cáo: ……………….
+
+| TT | Tên hệ thống, kênh truyền | Kỳ báo cáo | Mức độ sẵn sàng toàn thời (24/7)(%) | Mức độ sẵn sàng trong giờ hành chính (%) |
+
+|----|---------------------------|------------|-------------------------------------|------------------------------------------|
+
+|    |                           |            |                                     |                                          |
+
+|    |                           |            |                                     |                                          |
+
+TT
+
+Tên hệ thống, kênh truyền
+
+Kỳ báo cáo
+
+Mức độ sẵn sàng toàn thời (24/7)(%)
+
+Mức độ sẵn sàng trong giờ hành chính (%)
+
+Ghi chú: Kỳ báo cáo: 1 năm của năm ....
+
+2. Báo cáo kết quả kiểm tra chất lượng kênh truyền
+
+Đơn vị thực hiện kiểm tra: ………………..
+
+| TT | Tên kênh truyền | Thời gian thực hiện kiểm tra | Kết quả kiểm tra | Ghi chú |
+
+|----|-----------------|------------------------------|------------------|---------|
+
+|    |                 |                              |                  |         |
+
+|    |                 |                              |                  |         |
+
+TT
+
+Tên kênh truyền
+
+Thời gian thực hiện kiểm tra
+
+Kết quả kiểm tra
+
+Ghi chú
+
+(Kèm theo hình ảnh màn hình máy tính hiển thị kết quả kiểm tra)
+
+PHỤ LỤC 4
+
+PHỐI HỢP TRIỂN KHAI KÊNH TRUYỀN MỚI, THAY ĐỔI KÊNH TRUYỀN (Kèm theo Quyết định số 1850/QĐ-BTC ngày 22 tháng 09 năm 2021 của Bộ Tài chính)
+
+- Đơn vị có nhu cầu triển khai kênh truyền mới hoặc thay đổi kênh truyền, kết nối tới Trung tâm miền hoặc Trung tâm tỉnh, gửi văn bản tới Cục Tin học và Thống kê tài chính thông báo địa điểm, băng thông, thời gian triển khai kênh truyền, địa chỉ liên hệ phối hợp xử lý. Văn bản này phải gửi trước thời điểm triển khai ít nhất 01 tháng.
+
+- Trường hợp triển khai kênh truyền mới do thành lập mới đơn vị thuộc hệ thống (thêm đơn vị hành chính mới) trong khung băng thông kênh truyền đã thực hiện, do chuyển trụ sở cơ quan không làm tăng băng thông kênh truyền, các đơn vị cấp Tổng cục chủ động thực hiện các công việc đáp ứng yêu cầu lắp đặt bổ sung kênh truyền khi có đề nghị của đơn vị cấp dưới trực thuộc trong hệ thống đồng thời gửi công văn thông báo tới Cục Tin học và Thống kê tài chính về việc lắp đặt bổ sung kênh truyền mới. Trường hợp thay đổi băng thông kênh truyền khi triển khai kênh truyền mới do thành lập mới đơn vị thuộc hệ thống, các đơn vị báo cáo Bộ Tài chính phê duyệt (qua Cục Tin học và Thống kê tài chính).
+
+- Bộ phận quản trị hạ tầng truyền thông tại Trung tâm miền thực hiện cấu hình hệ thống (định tuyến), đồng thời xác nhận kết quả cho đơn vị theo địa chỉ nêu trong công văn thông báo nêu trên và ghi nhận kết quả trên Trang tin Vận hành hạ tầng truyền thông.

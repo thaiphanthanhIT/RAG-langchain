@@ -1,0 +1,605 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 2575/QĐ-BTC | Hà Nội, ngày 15 tháng 12 năm 2017                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 2575/QĐ-BTC
+
+Hà Nội, ngày 15 tháng 12 năm 2017
+
+QUYẾT ĐỊNH
+
+BAN HÀNH DANH MỤC CƠ SỞ DỮ LIỆU CHUYÊN NGÀNH CỦA BỘ TÀI CHÍNH
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về việc ứng dụng công nghệ thông tin trong hoạt động của các cơ quan nhà nước;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Quyết định số 714/QĐ-TTg ngày 22/5/2015 của Thủ tướng Chính phủ về việc ban hành danh mục cơ sở dữ liệu quốc gia cần ưu tiên triển khai tạo nền tảng phát triển Chính phủ điện tử;
+
+Căn cứ Quyết định số 1819/QĐ-TTg ngày 26/10/2015 của Thủ tướng Chính phủ phê duyệt Chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước giai đoạn 2016 - 2020;
+
+Căn cứ Thông tư số 13/2017/TT-BTTTT ngày 23/6/2017 của Bộ Thông tin và Truyền thông quy định các yêu cầu kỹ thuật về kết nối các hệ thống thông tin, cơ sở dữ liệu với cơ sở dữ liệu quốc gia;
+
+Căn cứ Quyết định số 2376/QĐ-BTC ngày 01/11/2016 của Bộ trưởng Bộ Tài chính phê duyệt Đề án xây dựng cơ sở dữ liệu quốc gia về Tài chính;
+
+Căn cứ Quyết định số 1078/QĐ-BCĐTHĐA ngày 09/6/2017 của Bộ Tài chính ban hành Kế hoạch triển khai Đề án xây dựng cơ sở dữ liệu quốc gia về Tài chính;
+
+Xét đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này quy định về Danh mục cơ sở dữ liệu chuyên ngành của Bộ Tài chính.
+
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+
+Điều 3. Chánh Văn phòng Bộ Tài chính, Cục trưởng Cục Tin học và Thống kê tài chính, Cục trưởng Cục Kế hoạch - Tài chính và Thủ trưởng các đơn vị liên quan thuộc Bộ Tài chính chịu trách nhiệm thi hành Quyết định này.
+
+Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các đơn vị, cá nhân phản ánh kịp thời về Bộ Tài chính (qua Cục Tin học và Thống kê tài chính) để xem xét, giải quyết./.
+
+| Nơi nhận: - Như Điều 3 (để thực hiện); - Lưu: VT, THTK (35b). | KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai |
+
+|---------------------------------------------------------------|-------------------------------------|
+
+Nơi nhận: - Như Điều 3 (để thực hiện); - Lưu: VT, THTK (35b).
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai
+
+QUY ĐỊNH
+
+DANH MỤC CƠ SỞ DỮ LIỆU CHUYÊN NGÀNH CỦA BỘ TÀI CHÍNH (Ban hành kèm theo Quyết định số 2575/QĐ-BTC ngày 15 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính)
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Mục tiêu
+
+1. Mục tiêu tổng quát
+
+Xác định Danh mục cơ sở dữ liệu chuyên ngành của Bộ Tài chính (sau đây gọi chung là cơ sở dữ liệu chuyên ngành) và các yêu cầu kỹ thuật cho việc xây dựng các cơ sở dữ liệu chuyên ngành đảm bảo tính kết nối với cơ sở dữ liệu quốc gia về Tài chính, đảm bảo tính hệ thống, tiết kiệm và hiệu quả đầu tư, đồng thời nâng cao tính linh hoạt cho các đơn vị thuộc Bộ Tài chính khi thực hiện xây dựng, phát triển các cơ sở dữ liệu chuyên ngành nhằm xây dựng hệ thống thông tin, dữ liệu quốc gia về tài chính phù hợp với thông lệ quốc tế, tình hình thực tiễn tại Việt Nam, tạo lập nền tảng cho việc xây dựng Chính phủ điện tử (E-Govemment) và hướng tới xây dựng Chính phủ số (Digital Government).
+
+2. Mục tiêu cụ thể
+
+a) Làm cơ sở xác định các thành phần, hệ thống thông tin, cơ sở dữ liệu chuyên ngành phục vụ xây dựng cơ sở dữ liệu quốc gia về Tài chính theo quy định tại Quyết định số 714/QĐ-TTg ngày 22/5/2015 của Thủ tướng Chính phủ về việc ban hành danh mục Cơ sở dữ liệu quốc gia cần ưu tiên triển khai tạo nền tảng phát triển Chính phủ điện tử, và Quyết định số 2376/QĐ-BTC ngày 01/11/2016 của Bộ trưởng Bộ Tài chính phê duyệt Đề án xây dựng cơ sở dữ liệu quốc gia về Tài chính;
+
+b) Tương thích với Kiến trúc điện tử cấp Bộ ban hành tại văn bản số 1178/BTTTT-TTH ngày 21/04/2015 của Bộ Thông tin và Truyền thông; tuân thủ các yêu cầu kỹ thuật về kết nối theo quy định của Thông tư số 13/2017/TT- BTTTT ngày 23/6/2017 của Bộ Thông tin và Truyền thông quy định các yêu cầu kỹ thuật về kết nối các hệ thống thông tin, cơ sở dữ liệu với cơ sở dữ liệu quốc gia và các quy định của pháp luật có liên quan;
+
+c) Tăng cường khả năng kết nối liên thông, tích hợp, chia sẻ, sử dụng lại thông tin, cơ sở dữ liệu, hạ tầng công nghệ trong ngành Tài chính;
+
+d) Tăng cường khả năng giám sát, đánh giá đầu tư; đảm bảo triển khai ứng dụng CNTT đồng bộ, hạn chế trùng lặp, tiết kiệm chi phí, thời gian triển khai của các đơn vị trong ngành Tài chính;
+
+đ) Nâng cao tính linh hoạt khi xây dựng, triển khai các thành phần, hệ thống thông tin, cơ sở dữ liệu chuyên ngành theo điều kiện thực tế của ngành Tài chính;
+
+e) Xác định nguyên tắc, yêu cầu, tiêu chuẩn kỹ thuật, trách nhiệm của đơn vị thuộc Bộ trong việc xây dựng, phát triển cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu quốc gia về Tài chính.
+
+Điều 2. Phạm vi
+
+Quyết định này quy định Danh mục cơ sở dữ liệu chuyên ngành của Bộ Tài chính, bao gồm: Danh mục, các yêu cầu chính đối với các CSDL chuyên ngành thuộc danh mục, các tiêu chuẩn kỹ thuật áp dụng, trách nhiệm tổ chức thực hiện.
+
+Điều 3. Đối tượng áp dụng
+
+1. Các đơn vị thuộc, trực thuộc Bộ Tài chính.
+
+2. Các cơ quan, tổ chức, đơn vị trong và ngoài ngành Tài chính có hoạt động liên quan đến xây dựng, cập nhật, kết nối, khai thác và sử dụng dữ liệu từ cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu quốc gia về Tài chính.
+
+Điều 4. Giải thích thuật ngữ
+
+Các từ ngữ dưới đây được hiểu như sau:
+
+1. Cơ sở dữ liệu chuyên ngành của Bộ Tài chính là cơ sở dữ liệu do các đơn vị thuộc Bộ Tài chính xây dựng, phát triển nhằm mục đích phục vụ riêng cho từng ngành, từng lĩnh vực để đáp ứng yêu cầu quản lý, chỉ đạo, điều hành của đơn vị; phục vụ công tác chỉ đạo điều hành của Lãnh đạo Bộ; phục vụ dữ liệu phân tích vĩ mô, đánh giá tác động chính sách trong các lĩnh vực quản lý của Bộ Tài chính và kết nối, cập nhật dữ liệu với cơ sở dữ liệu quốc gia về Tài chính.
+
+2. Cơ sở dữ liệu quốc gia về Tài chính là hệ thống cơ sở dữ liệu tổng hợp về Tài chính được xây dựng nhằm tổng hợp và lưu trữ các dữ liệu chính về lĩnh vực quản lý của Bộ Tài chính để sử dụng chung trong toàn bộ các đơn vị trực thuộc Bộ cũng như các bộ, ngành liên quan. Trao đổi, tích hợp thông tin, dữ liệu với các cơ sở dữ liệu chuyên ngành của Bộ Tài chính; đảm bảo khả năng kết nối, chia sẻ thông tin giữa các đơn vị trong và ngoài ngành Tài chính; cung cấp các công cụ phân tích dữ liệu dựa trên các thông số khác nhau để phục vụ công tác hoạch định chính sách về tài chính; cung cấp các báo cáo tài khóa, báo cáo đánh giá, các dịch vụ cung cấp dữ liệu tài chính - ngân sách; cung cấp dịch vụ truy vấn dữ liệu theo yêu cầu của người sử dụng; tăng cường tính công khai, minh bạch của hệ thống tài chính quốc gia cho người dân và doanh nghiệp theo quy định.
+
+3. Cấu trúc dữ liệu trao đổi: là cấu trúc của các thông điệp dữ liệu được trao đổi, tích hợp giữa các cơ sở dữ liệu chuyên ngành của Bộ Tài chính với cơ sở dữ liệu quốc gia về Tài chính.
+
+4. Mô hình dữ liệu (data model): là thiết kế kỹ thuật sử dụng các ký hiệu, ngôn ngữ để thể hiện cấu trúc, nội dung của dữ liệu.
+
+5. Lược đồ XML: là hình thức thể hiện của mô hình dữ liệu mức vật lý sử dụng nền tảng công nghệ XML.
+
+6. MOF- GSP (Ministry of Finance - Government Service Platform): là nền tảng tích hợp, chia sẻ dữ liệu của Bộ Tài chính chứa các dịch vụ dùng chung để chia sẻ dữ liệu giữa các hệ thống thông tin của các cơ quan, đơn vị thuộc Bộ Tài chính và đóng vai trò trung gian phục vụ kết nối các hệ thống thông tin trong ngành Tài chính với các hệ thống bên ngoài; mô hình kết nối MOF- GSP của Bộ Tài chính tuân thủ mô hình kiến trúc Chính phủ điện tử cấp Bộ do Bộ Thông tin và Truyền thông ban hành, phù hợp với Khung kiến trúc Chính phủ điện tử Việt Nam.
+
+Điều 5. Nguyên tắc xây dựng Cơ sở dữ liệu chuyên ngành của Bộ Tài chính
+
+1. Phù hợp với chủ trương, mục tiêu, nhiệm vụ, giải pháp chỉ đạo của Thủ tướng Chính phủ và Bộ Tài chính nêu tại Quyết định số 714/QĐ-TTg ngày 22/5/2015 của Thủ tướng Chính phủ về việc ban hành Danh mục cơ sở dữ liệu quốc gia cần ưu tiên triển khai tạo nền tảng phát triển Chính phủ điện tử; Quyết định số 2376/QĐ-BTC ngày 01/11/2016 của Bộ trưởng Bộ Tài chính phê duyệt Đề án xây dựng cơ sở dữ liệu quốc gia về Tài chính.
+
+2. Phân chia trách nhiệm quản lý dữ liệu: Mỗi cơ sở dữ liệu chuyên ngành được giao trách nhiệm cho một đơn vị thuộc Bộ Tài chính chủ trì xây dựng và phát triển. Đơn vị được giao chịu trách nhiệm về sự chính xác của dữ liệu.
+
+3. Thông tin, dữ liệu được quản lý như tài sản của Bộ Tài chính và phải được thu thập đầy đủ, lưu trữ và quản lý tập trung, thống nhất đáp ứng các yêu cầu nghiệp vụ theo mô hình kiến trúc, quy hoạch thiết kế tổng thể, có khả năng dùng chung, chia sẻ thông tin, dữ liệu giữa các hệ thống khác trong ngành Tài chính.
+
+4. Thúc đẩy việc trao đổi, chia sẻ, tích hợp, sử dụng chung thông tin, dữ liệu giữa Bộ Tài chính với các bộ, ngành, địa phương.
+
+5. Bảo đảm quyền khai thác dữ liệu hợp pháp theo quy định của pháp luật; thực hiện phân định rõ ràng quyền hạn, trách nhiệm theo chức năng, nhiệm vụ của cơ quan, người sử dụng có quyền khai thác, cung cấp đầy đủ các dữ liệu cần thiết để thực hiện yêu cầu nghiệp vụ.
+
+6. Tuân thủ các quy định của pháp luật về an toàn thông tin mạng, các quy định về bảo đảm an toàn hệ thống thông tin theo cấp độ đối với cơ sở dữ liệu quốc gia và các hệ thống thông tin kết nối với cơ sở dữ liệu quốc gia; Tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật xây dựng cơ sở dữ liệu quốc gia, các tiêu chuẩn, quy chuẩn kỹ thuật ứng dụng công nghệ thông tin, an toàn, an ninh thông tin và định mức kinh tế - kỹ thuật do cơ quan nhà nước có thẩm quyền ban hành.
+
+7. Kế thừa kết quả đã đầu tư ứng dụng công nghệ thông tin của các đơn vị trong ngành Tài chính.
+
+Điều 6. Kinh phí xây dựng, phát triển, tạo lập thông tin cập nhật cơ sở dữ liệu chuyên ngành
+
+1. Kinh phí xây dựng, phát triển cơ sở dữ liệu chuyên ngành được cân đối, bố trí trong dự toán ngân sách nhà nước hàng năm của Bộ Tài chính và các nguồn kinh phí hợp pháp khác theo quy định của pháp luật.
+
+2. Kinh phí tạo lập, chuyển đổi thông tin điện tử và số hóa thông tin cập nhật vào cơ sở dữ liệu chuyên ngành được bố trí trong dự toán kinh phí thường xuyên hàng năm của các đơn vị chủ trì quản lý cơ sở dữ liệu chuyên ngành theo hướng dẫn của Bộ Tài chính tại Thông tư số 194/2012/TT-BTC ngày 15/11/2012 về việc hướng dẫn mức chi tạo lập thông tin điện tử nhằm duy trì hoạt động thường xuyên của cơ quan, đơn vị sử dụng ngân sách nhà nước và các văn bản sửa đổi, bổ sung, thay thế.
+
+Chương II
+
+QUY ĐỊNH CỤ THỂ
+
+Điều 7. Danh mục cơ sở dữ liệu chuyên ngành của Bộ Tài chính
+
+Danh mục cơ sở dữ liệu chuyên ngành của Bộ Tài chính bao gồm:
+
+1. Cơ sở dữ liệu chuyên ngành quản lý Thuế.
+
+2. Cơ sở dữ liệu chuyên ngành quản lý Kho bạc.
+
+3. Cơ sở dữ liệu chuyên ngành quản lý Hải quan.
+
+4. Cơ sở dữ liệu chuyên ngành quản lý Chứng khoán.
+
+5. Cơ sở dữ liệu chuyên ngành quản lý Dự trữ nhà nước.
+
+6. Cơ sở dữ liệu chuyên ngành quản lý Giá.
+
+7. Cơ sở dữ liệu chuyên ngành quản lý Bảo hiểm.
+
+8. Cơ sở dữ liệu chuyên ngành quản lý Nợ công.
+
+9. Cơ sở dữ liệu chuyên ngành quản lý Tài sản công.
+
+10. Cơ sở dữ liệu chuyên ngành quản lý, giám sát vốn nhà nước tại doanh nghiệp.
+
+11. Cơ sở dữ liệu chuyên ngành quản lý Thu, chi ngân sách nhà nước.
+
+12. Cơ sở dữ liệu danh mục điện tử dùng chung ngành Tài chính.
+
+(Tên cơ sở dữ liệu chuyên ngành, các nội dung chính của cơ sở dữ liệu chuyên ngành, cơ quan chủ trì xây dựng được quy định tại Phụ lục 01 kèm theo Quyết định này).
+
+Điều 8. Yêu cầu chính của cơ sở dữ liệu chuyên ngành
+
+1. Cơ sở dữ liệu chuyên ngành phải có các chức năng và đặc tính cơ bản phục vụ các yêu cầu sau đây:
+
+a) Đảm bảo khả năng tổng hợp được đầy đủ các yêu cầu thông tin, dữ liệu đáp ứng yêu cầu quản lý, chỉ đạo, điều hành của đơn vị và của Bộ Tài chính;
+
+b) Cung cấp dữ liệu đáp ứng yêu cầu của hệ thống chỉ tiêu thống kê phục vụ cho công tác quản lý của đơn vị và các cơ quan liên quan trong và ngoài ngành Tài chính;
+
+c) Cung cấp dữ liệu, thông tin theo các chủ đề đáp ứng các yêu cầu của công tác nghiên cứu hoạch định các chính sách tài chính, ngân sách; tạo lập môi trường cho việc áp dụng các mô hình phân tích dữ liệu cơ bản trong lĩnh vực quản lý chuyên ngành;
+
+d) Xác định phạm vi cung cấp dữ liệu được phép công khai thuộc cơ sở dữ liệu chuyên ngành theo quy định; đảm bảo tính kết nối, liên thông trong trao đổi, cung cấp thông tin, dữ liệu cho cơ sở dữ liệu quốc gia về Tài chính;
+
+đ) Công nghệ áp dụng cho triển khai thực hiện xây dựng, phát triển các cơ sở dữ liệu chuyên ngành phải đảm bảo tính kết nối, mở rộng, đảm bảo tiếp cận với các công nghệ mới tiên tiến, hiện đại trên thế giới, tiếp cận với cuộc Cách mạng công nghiệp lần thứ 4 (CMCN 4.0).
+
+2. Yêu cầu đảm bảo an toàn cơ sở dữ liệu chuyên ngành
+
+a) Sử dụng kênh mã hóa và xác thực người dùng cho các hoạt động: đăng nhập quản trị hệ thống; đăng nhập vào các chức năng ứng dụng; tích hợp, gửi nhận dữ liệu tự động giữa các hệ thống máy chủ; nhập và biên tập dữ liệu;
+
+b) Thực hiện mã hóa đường truyền cơ sở dữ liệu;
+
+c) Áp dụng các biện pháp đảm bảo tính xác thực và sự toàn vẹn của dữ liệu trong cơ sở dữ liệu;
+
+d) Thực hiện lưu vết (ghi log) việc tạo, thay đổi, xóa thông tin dữ liệu để phục vụ cho việc quản lý, giám sát hệ thống;
+
+đ) Thiết lập và duy trì hệ thống sao lưu, dự phòng, phục hồi dữ liệu trong các hệ thống lưu trữ, dự phòng dữ liệu của Bộ Tài chính theo quy định; bảo mật dữ liệu, bảo vệ khôi phục dịch vụ hệ thống, đảm bảo an toàn máy tính, an toàn mạng để cơ sở dữ liệu hoạt động liên tục, ổn định.
+
+3. Khai thác, sử dụng cơ sở dữ liệu chuyên ngành
+
+a) Các đơn vị thuộc, trực thuộc Bộ Tài chính, Cơ quan tài chính tại các tỉnh, thành phố trực thuộc trung ương khai thác, sử dụng cơ sở dữ liệu chuyên ngành thông qua mạng hạ tầng truyền thông thống nhất của ngành Tài chính;
+
+b) Phương thức khai thác, sử dụng được thực hiện qua giao diện Web, giao diện thiết bị di động (Mobile Web), ứng dụng trên thiết bị di động (Mobile Apps).
+
+c) Nền tảng công nghệ hỗ trợ khai thác, sử dụng cơ sở dữ liệu chuyên ngành là công nghệ BI (Business Intellegence), trí tuệ nhân tạo (AI) và điện toán đám mây (Cloud Computing).
+
+4. Kết nối trao đổi thông tin giữa cơ sở dữ liệu chuyên ngành với cơ sở dữ liệu quốc gia về Tài chính
+
+Cơ sở dữ liệu chuyên ngành kết nối trao đổi thông tin với cơ sở dữ liệu quốc gia về Tài chính theo các trường hợp sau:
+
+a) Kết nối qua nền tảng tích hợp, chia sẻ dữ liệu dùng chung của Bộ Tài chính (MOF-GSP);
+
+b) Kết nối trực tiếp trong trường hợp nền tảng tích hợp, chia sẻ dữ liệu dùng chung của Bộ Tài chính (MOF-GSP) chưa sẵn sàng;
+
+c) Kết nối trao đổi thông tin bằng các dịch vụ web (Web services);
+
+d) Các hình thức kết nối trao đổi thông tin khác theo phương án kết nối thống nhất giữa đơn vị chủ trì xây dựng cơ sở dữ liệu chuyên ngành và đơn vị chủ trì xây dựng cơ sở dữ liệu quốc gia về Tài chính theo nguyên tắc hình thức kết nối trao đổi thông tin đề xuất phải tiên tiến, hiện đại theo xu hướng của cuộc CMCN 4.0.
+
+Điều 9. Các tiêu chuẩn kỹ thuật áp dụng cho xây dựng cơ sở dữ liệu chuyên ngành
+
+1. Các Cơ sở dữ liệu chuyên ngành phải áp dụng các quy chuẩn, quy định, hướng dẫn tại Thông tư số 13/2017/TT- BTTTT ngày 23/6/2017 của Bộ Thông tin và Truyền thông quy định các yêu cầu kỹ thuật về kết nối các hệ thống thông tin, cơ sở dữ liệu với cơ sở dữ liệu quốc gia; Thông tư số 22/2013/TT-BTTTT ngày 23/12/2013 của Bộ Thông tin và Truyền thông ban hành Danh mục tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước; Công văn số 3788/BTTTT-THH ngày 26/12/2014 của Bộ Thông tin và Truyền thông hướng dẫn liên thông, trao đổi dữ liệu có cấu trúc bằng ngôn ngữ XML giữa các hệ thống thông tin trong cơ quan nhà nước và các quy chuẩn, yêu cầu kỹ thuật khác do các cơ quan Chính phủ có thẩm quyền ban hành.
+
+2. Sử dụng Hệ thống Danh mục điện tử dùng chung trong lĩnh vực Tài chính trong tích hợp, trao đổi dữ liệu.
+
+Cấu trúc dữ liệu trao đổi, tích hợp dữ liệu giữa hệ thống thông tin, ứng dụng với cơ sở dữ liệu chuyên ngành và giữa các cơ sở dữ liệu chuyên ngành với cơ sở dữ liệu quốc gia về Tài chính phải sử dụng Hệ thống Danh mục điện tử dùng chung trong lĩnh vực Tài chính theo quy định tại Thông tư số 18/2017/TT-BTC ngày 28/02/2017 của Bộ Tài chính quy định Hệ thống Danh mục điện tử dùng chung trong lĩnh vực Tài chính.
+
+Điều 10. Tổ chức thực hiện
+
+1. Các đơn vị chủ quản cơ sở dữ liệu chuyên ngành của Bộ Tài chính
+
+a) Triển khai xây dựng cơ sở dữ liệu chuyên ngành:
+
+- Quy định chi tiết nội dung thuyết minh, mô tả về mục tiêu, quy mô, phạm vi, đối tượng sử dụng của cơ sở dữ liệu chuyên ngành, định nghĩa và mối quan hệ giữa các thành phần thông tin trong cơ sở dữ liệu; xác định đặc điểm, thuộc tính dữ liệu của cơ sở dữ liệu, đánh giá tính khả thi, hiệu quả về kinh tế - xã hội của việc xây dựng cơ sở dữ liệu;
+
+- Thực hiện rà soát, tổng hợp nhu cầu thông tin, dữ liệu của đơn vị mình cần thu thập, trao đổi, chia sẻ với các đơn vị trong và ngoài ngành Tài chính, từ đó xác định phạm vi dữ liệu và giải pháp trao đổi, cung cấp thông tin, dữ liệu từ cơ sở dữ liệu chuyên ngành với cơ sở dữ liệu quốc gia về Tài chính để thực hiện tổng hợp, tích hợp, kết nối, chia sẻ thông tin, dữ liệu giữa các đơn vị thuộc Bộ, giữa Bộ Tài chính với các Bộ, ngành, địa phương;
+
+- Thực hiện rà soát và chuẩn hóa nội dung dữ liệu trong cơ sở dữ liệu chuyên ngành để đảm bảo dữ liệu chính xác, đầy đủ; xây dựng các công cụ giám sát dữ liệu tự động cho việc tuân thủ quy chế, quy trình quản lý cơ sở dữ liệu chuyên ngành;
+
+- Tạo lập và phát triển các thông tin cốt lõi để đáp ứng yêu cầu nghiệp vụ quản lý của đơn vị; xây dựng, phát triển, áp dụng các mô hình, công cụ phân tích dữ liệu hiện đại để trích xuất, cung cấp các thông tin, dữ liệu tri thức từ cơ sở dữ liệu chuyên ngành phục vụ yêu cầu quản lý của lãnh đạo (hỗ trợ các báo cáo phân tích, dự báo, cảnh báo, chỉ đạo điều hành);
+
+- Chủ trì, phối hợp với Cục Tin học và Thống kê tài chính và các đơn vị có liên quan xây dựng kiến trúc cơ sở dữ liệu quốc gia về Tài chính, kiến trúc dữ liệu trao đổi; thiết kế phương án kỹ thuật từ cơ sở dữ liệu chuyên ngành được giao chủ quản đến cơ sở dữ liệu quốc gia về Tài chính về nội dung, cấu trúc, kiểu thông tin của dữ liệu; phương thức truy nhập dữ liệu; đảm bảo sự tương thích của dữ liệu khi trao đổi tích hợp;
+
+- Nghiên cứu rà soát, tái thiết kế quy trình nghiệp vụ và triển khai toàn diện các chính sách, quy trình nghiệp vụ đáp ứng các yêu cầu về quản lý của đơn vị, phù hợp với định hướng, chiến lược, kế hoạch phát triển ứng dụng công nghệ thông tin của ngành Tài chính;
+
+- Phê duyệt hoặc trình cấp có thẩm quyền xây dựng mới, phê duyệt điều chỉnh, bổ sung dự án xây dựng, nâng cấp, phát triển cơ sở dữ liệu chuyên ngành theo quy định về phân cấp, ủy quyền về quản lý dự án của Bộ trưởng Bộ Tài chính;
+
+- Cung cấp hồ sơ, tài liệu mô tả thiết kế sơ bộ và các yêu cầu chức năng của cơ sở dữ liệu chuyên ngành và các giải pháp kỹ thuật áp dụng các tiêu chuẩn, quy chuẩn gửi Cục Tin học và Thống kê tài chính để theo dõi, tổng hợp, kiểm tra, giám sát, báo cáo Bộ trưởng Bộ Tài chính việc thực hiện xây dựng Cơ sở dữ liệu chuyên ngành theo đúng chức năng, nhiệm vụ được giao và quy định của Bộ Tài chính.
+
+b) Thực hiện quản lý, vận hành, cập nhật cơ sở dữ liệu chuyên ngành:
+
+- Xây dựng các quy trình nghiệp vụ và biện pháp kiểm soát, duy trì cơ sở dữ liệu chuyên ngành;
+
+- Thường xuyên rà soát, hiệu chỉnh, cập nhật cơ sở dữ liệu chuyên ngành thông qua quy trình, thủ tục quản lý của đơn vị; bảo đảm tính kịp thời, chính xác, phản ánh đầy đủ thông tin biến động, ngữ nghĩa của dữ liệu (metadata) và chuỗi dữ liệu lịch sử trong cơ sở dữ liệu;
+
+- Áp dụng các biện pháp bảo đảm tính xác thực và sự toàn vẹn dữ liệu, thực hiện lưu vết việc tạo lập, thay đổi, xóa thông tin, dữ liệu; kiểm tra định kỳ việc thực hiện các giải pháp, biện pháp bảo mật cơ sở dữ liệu; tuân thủ các tiêu chuẩn, quy chuẩn kỹ thuật ứng dụng công nghệ thông tin, an toàn, an ninh thông tin và định mức kinh tế - kỹ thuật đo cơ quan nhà nước có thẩm quyền ban hành;
+
+- Xây dựng và triển khai giải pháp đồng bộ về sao lưu, dự phòng, khắc phục sự cố, phục hồi dữ liệu, các giải pháp kỹ thuật khác về bảo đảm hiệu suất vận hành và sẵn sàng hệ thống ở mức độ cao;
+
+- Phối hợp thực hiện rà soát, đối chiếu dữ liệu giữa cơ sở dữ liệu chuyên ngành do đơn vị chủ trì quản lý với cơ sở dữ liệu quốc gia về Tài chính;
+
+- Xây dựng, ban hành hoặc trình cấp có thẩm quyền ban hành quy chế quản lý, vận hành, khai thác cơ sở dữ liệu chuyên ngành, trong đó quy định cụ thể phạm vi, đối tượng, điều kiện khai thác sử dụng đối với mỗi thành phần, nội dung thông tin của cơ sở dữ liệu chuyên ngành; hoàn chỉnh các quy trình quản lý và nâng cao chất lượng thực hiện theo quy trình;
+
+- Thực hiện kiện toàn, bố trí, sắp xếp tổ chức bộ máy quản trị, duy trì vận hành và quản lý khai thác cơ sở dữ liệu chuyên ngành.
+
+c) Tổ chức khai thác, sử dụng cơ sở dữ liệu chuyên ngành:
+
+- Thực hiện tiếp nhận, xử lý các yêu cầu khai thác cơ sở dữ liệu do đơn vị mình quản lý theo yêu cầu cung cấp thông tin của tổ chức, cá nhân được quyền khai thác thông tin, dữ liệu theo quy định trong quy chế quản lý, vận hành, khai thác cơ sở dữ liệu chuyên ngành được cấp có thẩm quyền ban hành;
+
+- Kiểm tra, phát hiện và kịp thời xử lý các vi phạm về khai thác cơ sở dữ liệu chuyên ngành theo quy định;
+
+- Thủ trưởng các đơn vị chủ quản cơ sở dữ liệu chuyên ngành có thẩm quyền cho phép khai thác thông tin về danh mục thuộc phạm vi quản lý nhà nước của đơn vị mình;
+
+- Thực hiện báo cáo định kỳ hàng năm, đột xuất về tình hình quản lý, vận hành và khai thác cơ sở dữ liệu chuyên ngành gửi Cục Tin học và Thống kê tài chính để tổng hợp, báo cáo Bộ trưởng Bộ Tài chính.
+
+2. Trách nhiệm của các đơn vị thuộc Bộ Tài chính không là đơn vị chủ quản của Cơ sở dữ liệu chuyên ngành
+
+a) Trong phạm vi, quyền hạn của mình và theo nhiệm vụ được phân công tham gia hoạt động xây dựng, quản lý, cập nhật, khai thác và sử dụng các cơ sở dữ liệu chuyên ngành phục vụ hiệu quả công tác quản lý của ngành Tài chính;
+
+b) Chỉ đạo các tổ chức, cá nhân trực thuộc đơn vị cung cấp thông tin, dữ liệu cho đơn vị chủ quản cơ sở dữ liệu cập nhật dữ liệu vào cơ sở dữ liệu chuyên ngành và chịu trách nhiệm về độ chính xác của các thông tin, dữ liệu đơn vị mình cung cấp;
+
+c) Phối hợp chặt chẽ với các đơn vị chủ quản cơ sở dữ liệu chuyên ngành và Cục Tin học và Thống kê tài chính trong việc triển khai các nhiệm vụ Đề án Xây dựng cơ sở dữ liệu quốc gia về Tài chính theo quy định tại Quyết định số 2376/QĐ-BTC ngày 01/11/2016 của Bộ trưởng Bộ Tài chính.
+
+3. Trách nhiệm của Cục Kế hoạch - Tài chính
+
+a) Hướng dẫn các đơn vị là chủ đầu tư của các cơ sở dữ liệu chuyên ngành lập dự toán kinh phí triển khai thực hiện các dự án xây dựng, phát triển, nâng cấp cơ sở dữ liệu chuyên ngành trong dự toán ngân sách nhà nước hàng năm của Bộ Tài chính; hướng dẫn các đơn vị thuộc Bộ Tài chính lập dự toán kinh phí tạo lập, chuyển đổi thông tin điện tử và số hóa thông tin, dữ liệu cập nhật vào cơ sở dữ liệu chuyên ngành trong dự toán kinh phí thường xuyên hàng năm theo quy định của Bộ Tài chính;
+
+b) Chủ trì, phối hợp với Cục Tin học và Thống kê tài chính thẩm định dự toán kinh phí thực hiện dự án, kinh phí tạo lập, chuyển đổi thông tin điện tử và số hóa thông tin cập nhật vào cơ sở dữ liệu theo quy định của pháp luật hiện hành;
+
+c) Ưu tiên, bố trí nguồn kinh phí để thực hiện các dự án đầu tư, xây dựng, nâng cấp, phát triển cơ sở dữ liệu chuyên ngành của Bộ Tài chính.
+
+4. Trách nhiệm của Cục Tin học và Thống kê tài chính
+
+a) Chủ trì, phối hợp với các đơn vị chủ quản cơ sở dữ liệu chuyên ngành của Bộ Tài chính tổ chức triển khai thực hiện Quyết định này; theo dõi, kiểm tra, đôn đốc các đơn vị thuộc Bộ triển khai, thực hiện đảm bảo chất lượng, hiệu quả sử dụng cơ sở dữ liệu chuyên ngành;
+
+b) Tổ chức nghiên cứu, xây dựng và trình cấp có thẩm quyền ban hành các văn bản quy định, hướng dẫn công tác cập nhật, quản lý và vận hành hệ cơ sở dữ liệu quốc gia về Tài chính; xây dựng và ban hành mô hình, quy chuẩn về trao đổi dữ liệu, truy vấn/khai thác dữ liệu từ các cơ sở dữ liệu của Bộ Tài chính với cơ sở dữ liệu quốc gia về Tài chính;
+
+c) Chủ trì phối hợp với các đơn vị liên quan tiến hành các thủ tục cần thiết để đầu tư xây dựng và triển khai đưa vào sử dụng cơ sở dữ liệu quốc gia về Tài chính;
+
+d) Bảo đảm các điều kiện về mặt kỹ thuật, cơ sở hạ tầng trong việc xây dựng, quản lý, duy trì cơ sở dữ liệu quốc gia về Tài chính;
+
+đ) Bảo đảm về phần nội dung trong công tác xây dựng, quản lý, duy trì cơ sở dữ liệu quốc gia về Tài chính;
+
+e) Là đơn vị đầu mối tổng hợp và thống nhất các nội dung kết nối, chia sẻ thông tin, dữ liệu từ cơ sở dữ liệu chuyên ngành giữa các đơn vị thuộc Bộ Tài chính; giữa Bộ Tài chính và các bộ, ngành, địa phương;
+
+g) Trong quá trình thực hiện xây dựng, phát triển các cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu quốc gia về Tài chính, Cục trưởng Cục Tin học và Thống kê tài chính báo cáo Bộ trưởng Bộ Tài chính quy định bổ sung, sửa đổi, thay thế danh mục các cơ sở dữ liệu chuyên ngành đảm bảo phù hợp với yêu cầu quản lý, kịp thời áp dụng vào các quy trình nghiệp vụ ứng dụng công nghệ thông tin trong lĩnh vực Tài chính; định kỳ báo cáo Bộ trưởng Bộ Tài chính về việc tổ chức thực hiện của các đơn vị thuộc, trực thuộc Bộ Tài chính./.
+
+PHỤ LỤC
+
+DANH MỤC CÁC CƠ SỞ DỮ LIỆU CHUYÊN NGÀNH CỦA BỘ TÀI CHÍNH (Ban hành kèm theo Quyết định số 2575/QĐ-BTC ngày 15 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính)
+
+| TT | Cơ Sở dữ liệu chuyên ngành                                                                                                                                               | Nội dung chính                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Đơn vị chủ trì                        |
+
+|----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+
+| 1  | Cơ sở dữ liệu chuyên ngành quản lý Thuế (nâng cấp kiến trúc kho cơ sở dữ liệu ngành Thuế và hệ thống khai thác dữ liệu, tổng hợp báo cáo phục vụ công tác quản lý thuế). | - Kho dữ liệu ngành Thuế theo công nghệ mới Kho dữ liệu - Data Warehouse hỗ trợ công tác nghiệp vụ, công tác quản lý thuế, công tác chỉ đạo/điều hành và ra quyết định một cách nhanh chóng, dựa trên các số liệu báo cáo theo nhiều chiều, nhiều tiêu chí khác nhau. - Tổng hợp báo cáo đáp ứng các nhu cầu khai thác dữ liệu từ khâu lập dự toán, đôn đốc kê khai - nộp thuế, quản lý thuế, thanh tra - kiểm tra cho cả ba cấp Tổng cục Thuế, Cục Thuế và Chi cục Thuế. - Kho dữ liệu ngành Thuế cũng cung cấp các báo cáo tác nghiệp theo thời gian định trước, các báo cáo động theo nhiều tiêu chí, nhiều chiều dữ liệu một cách linh hoạt, hỗ trợ tối đa cho các hệ thống tác nghiệp khác của ngành Thuế cũng như giảm tải cho các hệ thống này trong việc xử lý nghiệp vụ về tra cứu và báo cáo. - Kho dữ liệu ngành thuế sẽ cung cấp thông tin cho các đơn vị bên ngoài thông qua cổng cung cấp thông tin về đăng ký thuế, nghĩa vụ thuế. Hệ thống sẽ thực hiện cung cấp thông tin cho các đơn vị bên ngoài qua cổng thông tin ngành Thuế.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Tổng cục Thuế                         |
+
+| 2  | Cơ sở dữ liệu chuyên ngành quản lý Kho bạc (nâng cấp và triển khai kho dữ liệu và công cụ thống kê, phân tích nghiệp vụ).                                                | - Cung cấp các báo cáo tổng hợp theo mẫu biểu quy định trong các văn bản về chế độ báo cáo thống kê hoạt động nghiệp vụ Kho bạc Nhà nước. - Cung cấp các báo cáo nhanh, báo cáo đột xuất theo yêu cầu của lãnh đạo, theo yêu cầu nghiệp vụ. - Cung cấp báo cáo động theo các chiều thông tin như theo 12 phân đoạn COA, theo trường động, theo các thông tin của cam kết chi,... - Cung cấp báo cáo phân tích đánh giá: Công cụ phân tích, đánh giá hình ảnh dạng biểu đồ, đồ thị; phân tích, đánh giá, so sánh số liệu giữa các năm theo thông tin đa chiều.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Kho bạc Nhà nước                      |
+
+| 3  | Cơ sở dữ liệu chuyên ngành quản lý Hải quan (xây dựng hệ thống thông tin hỗ trợ ra quyết định nghiệp vụ hải quan).                                                       | - Xây dựng, cung cấp các báo cáo nhanh cho lãnh đạo Tổng cục phục vụ báo cáo Bộ Tài chính và các cơ quan, lãnh đạo nhà nước. Cung cấp các số liệu về kim ngạch, số lượng tờ khai và thu thuế hàng ngày và số liệu tổng hợp từ đầu năm; - Xây dựng hệ thống cung cấp các báo cáo thống kê, hỗ trợ ra quyết định, bao gồm các chỉ tiêu thông tin chủ yếu phục vụ công tác quản lý Hải quan các cấp: + Cung cấp các báo cáo thống kê các năm, các kỳ cho Tổng cục Hải quan, Cục Hải quan và Chi cục Hải quan; + Cung cấp các báo cáo, số liệu so sánh các chỉ tiêu theo các kỳ theo đơn vị hải quan. - Thiết lập các mô hình phân tích, khai thác dữ liệu đặc thù của ngành Hải quan: + Hệ thống tổng hợp số liệu từ nhiều nguồn của ngành Hải quan, thực hiện kết nối và cung cấp các báo cáo động cho người dùng, có thể tự tổng hợp số liệu và kết xuất các báo cáo đặc thù riêng tại từng thời điểm; + Được xây dựng trên nền tảng công nghệ báo cáo thông minh (Business Intelligence - BI) để sử dụng các mô hình phân tích và khai thác dữ liệu mới để tối ưu khai thác dữ liệu cho người dùng. - Xây dựng công cụ thu thập dữ liệu phục vụ cho quá trình xử lý phân tích, báo cáo hỗ trợ ra quyết định: + Xây dựng chức năng tích hợp dữ liệu (ETL) từ các hệ thống nguồn của ngành Hải quan: Hệ thống VNACCS/VCIS, Hệ thống eCustoms, Hệ thống Quản lý giá GTT, Hệ thống MHS, Hệ thống Thống kê, Hệ thống kế toán thuế KTT, Hệ thống Quản lý rủi ro, Hệ thống Quản lý vi phạm, Hệ thống Kiểm tra sau thông quan, Hệ thống quản lý phương tiện vận tải đường bộ, Hệ thống eManifest; + Cập nhật danh sách doanh nghiệp từ Tổng cục Thuế.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Tổng cục Hải quan                     |
+
+| 4  | Cơ sở dữ liệu chuyên ngành quản lý Chứng khoán (xây dựng hệ thống trao đổi và tích hợp các cơ sở dữ liệu của Ủy ban Chứng khoán Nhà nước).                               | - Tích hợp, liên kết các hệ thống ứng dụng CNTT hiện có của Ủy ban Chứng khoán Nhà nước (UBCKNN) để nâng cao năng lực quản lý, giám sát và điều hành của UBCKNN. - Đổi mới theo hướng hiện đại công tác báo cáo thống kê trong UBCKNN, hạn chế việc phải báo cáo trùng lặp số liệu của các đơn vị. - Đáp ứng các yêu cầu về chia sẻ, trao đổi thông tin, dữ liệu giữa các đơn vị trong UBCKNN, tạo điều kiện thuận lợi cho cán bộ của UBCKNN trong quá trình thực hiện nhiệm vụ được giao. - Tăng cường khả năng trao đổi thông tin điện tử trong UBCKNN, hướng đến khả năng giảm thiểu trao đổi văn bản giấy trong cơ quan UBCKNN. - Hướng tới hỗ trợ tin học hóa các thủ tục hành chính trong UBCKNN.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Ủy ban Chứng khoán Nhà nước           |
+
+| 5  | Cơ sở dữ liệu chuyên ngành quản lý Dự trữ nhà nước.                                                                                                                      | - Kho dữ liệu tổng hợp Dự trữ nhà nước (DTNN) được xây dựng theo theo các tiêu chuẩn chung của một hệ thống Kho dữ liệu - Data warehouse. Dữ liệu đầu vào của kho được update thông qua 2 phương thức là thu thập tự động trên cơ sở các ứng dụng đang hoạt động tại Tổng cục DTNN và công cụ thu thập dữ liệu thủ công (ứng dụng webbase). Việc kết hợp 2 phương thức thu thập nêu trên là phù hợp nhằm hoàn thiện hệ thống dữ liệu và thông tin các mảng nghiệp vụ của ngành Dự trữ. - Cung cấp dữ liệu tổng hợp, đa chiều hoạt động Dự trữ quốc gia nhằm cung cấp thông tin đầy đủ, kịp thời, là đầu vào cho các hệ thống phân tích, hỗ trợ ra quyết định. Kho dữ liệu tổng hợp DTNN là một hệ thống chạy tập trung, có khả năng mở rộng, điều chỉnh hoặc bổ sung khi có sự thay đổi về cơ chế, chính sách cũng như yêu cầu quản lý.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Tổng cục Dự trữ Nhà nước              |
+
+| 6  | Cơ sở dữ liệu chuyên ngành quản lý Giá.                                                                                                                                  | Hệ thống cơ sở dữ liệu quốc gia về giá tập trung, đồng bộ và thống nhất, bao gồm các nội dung: - Giá hàng hóa, dịch vụ do Nhà nước định giá theo quy định tại Điều 8 Nghị định số 177/2013/NĐ-CP và các pháp luật chuyên ngành có liên quan. - Giá đăng ký của hàng hóa, dịch vụ thuộc danh mục bình ổn giá phải thực hiện đăng ký giá trong thời gian áp dụng biện pháp bình ổn giá theo quy định tại Điều 3 Nghị định số 177/2013/NĐ-CP và các văn bản pháp luật có liên quan. - Giá kê khai của hàng hóa, dịch vụ thuộc danh mục kê khai giá (bao gồm cả giá do doanh nghiệp thông báo khi điều chỉnh giá trong phạm vi 3%) quy định tại Điều 15 Nghị định số 177/2013/NĐ-CP và các văn bản pháp luật có liên quan. - Giá thị trường hàng hóa, dịch vụ thuộc danh mục báo cáo giá thị trường theo quy định của Bộ Tài chính. Giá tài sản (giá mua, bán, thanh lý,...) thuộc sở hữu nhà nước theo quy định của pháp luật về quản lý, sử dụng tài sản nhà nước, tài sản tài chính, tài sản vô hình do Cục Quản lý công sản quản lý. - Trị giá hải quan (căn cứ theo tờ khai hải quan và diễn giải về hàng hóa tại tờ khai) đối với hàng hóa xuất khẩu, nhập khẩu do Tổng cục Hải quan quản lý. - Khung giá đất do Chính phủ ban hành; bảng giá đất, hệ số điều chỉnh giá đất hàng năm do Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương ban hành. Giá trúng đấu giá quyền sử dụng đất tại địa phương. - Giá tính thuế tài nguyên theo quy định của pháp luật về thuế tài nguyên do Tổng cục Thuế quản lý. - Quản lý thông tin hoạt động thẩm định giá, bao gồm: Quản lý thông tin doanh nghiệp thẩm định giá và tình hình hoạt động thẩm định giá của doanh nghiệp; Giá trị tài sản được thẩm định giá (đất đai, nhà, công trình xây dựng, máy, thiết bị, phương tiện vận tải, dây chuyền công nghệ, tài sản khác) và thông tin, tài liệu liên quan đến kết quả thẩm định giá theo quy định của pháp luật về thẩm định giá,... - Giá hàng hóa, dịch vụ khác được quy định tại khoản 1 Điều 4 Thông tư số 142/2014/TT-BTC như: giá giao dịch bất động sản, giá đất giao dịch thực tế trên thị trường, giá trúng thầu của hàng hóa, dịch vụ mua sắm,... | Cục Tin học và Thống kê tài chính     |
+
+| 7  | Cơ sở dữ liệu chuyên ngành quản lý Bảo hiểm (hệ thống thông tin quản lý và giám sát hoạt động kinh doanh bảo hiểm).                                                      | Xây dựng “Hệ thống thông tin quản lý và giám sát hoạt động kinh doanh bảo hiểm” dự kiến xây dựng gồm các phân hệ sau: (1) Phân hệ nhập số liệu báo cáo tại các doanh nghiệp bảo hiểm dự kiến bao gồm các chức năng và nhiệm vụ sau: - Quản lý cơ sở dữ liệu lưu trữ tại chỗ cho các doanh nghiệp bảo hiểm đáp ứng đầy đủ các báo cáo theo quy định. - Quản lý phương thức cho phép các doanh nghiệp bảo hiểm gửi các báo cáo điện tử. - Quản lý cách nhập (import) dữ liệu báo cáo từ các ứng dụng lõi bảo hiểm qua chuẩn XML hoặc excel từ doanh nghiệp bảo hiểm đến hệ thống tại Bộ. (2) Phân hệ nhận báo cáo từ các doanh nghiệp bảo hiểm và các nguồn khác bao gồm các chức năng và nhiệm vụ sau: - Quản lý chức năng nhận số liệu bao gồm cả dữ liệu có cấu trúc và các dữ liệu phi cấu trúc (như tài liệu văn bản). - Quản lý chức năng nhận số liệu từ các phần mềm tại các doanh nghiệp bảo hiểm. - Quản lý chức năng nhập các số liệu lưu trữ cũ nhằm phục vụ công tác thống kê, phân tích. (3) Phân hệ phục vụ quản lý, giám sát hoạt động kinh doanh bảo hiểm dự kiến có các chức năng sau: - Xây dựng các bộ tiêu chí đánh giá, kiểm soát doanh nghiệp theo quy định. - Phân tích rủi ro hoạt động của các doanh nghiệp bảo hiểm. - Xây dựng hệ thống các báo cáo theo quy định của pháp luật và yêu cầu của cơ quan quản lý. (4) Phân hệ quản lý và tra cứu dữ liệu phi cấu trúc về bảo hiểm có các chức năng sau: - Cấu hình phân loại hồ sơ. - Quét và lưu phiên bản hồ sơ vào một/nhiều các phân loại. - Tra cứu dữ liệu phi cấu trúc về bảo hiểm theo phân loại. (5) Hệ thống báo cáo phân tích, tổng hợp dữ liệu bảo hiểm được xây dựng nhằm xây dựng các báo cáo thông minh (Business Intelligence - BI) theo các chỉ tiêu động, có phân tích, có biểu đồ. - Các báo cáo của doanh nghiệp bảo hiểm nhân thọ, doanh nghiệp bảo hiểm phi nhân thọ, doanh nghiệp tái bảo hiểm, doanh nghiệp môi giới bảo hiểm theo quy định pháp luật và yêu cầu của cơ quan quản lý.                                                                                                                                                                         | Cục Quản lý, giám sát bảo hiểm        |
+
+| 8  | Cơ sở dữ liệu chuyên ngành quản lý Nợ công (triển khai hệ thống phân tích tài chính và quản lý nợ phiên bản 6.0 - DMFAS 6.0).                                            | Thực hiện nhiệm vụ mua bản quyền cài đặt phần mềm DMFAS từ phiên bản 5.3 lên phiên bản 6.0 bao gồm cả các nội dung đào tạo và chuyển giao công nghệ. Nghiên cứu xây dựng giao diện DMFAS với hệ thống InfoBond của Sở giao dịch chứng khoán Hà Nội (HNX).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Cục Quản lý nợ và Tài chính đối ngoại |
+
+| 9  | Xây dựng Cơ sở dữ liệu chuyên ngành quản lý Tài sản công (nâng cấp cơ sở dữ liệu quốc gia về tài sản công).                                                              | Nâng cấp xây dựng cơ sở dữ liệu quản lý tài sản công hiện nay thành Kho cơ sở dữ liệu về tài sản công để quản lý: - Nhóm các loại tài sản công: Đất; Nhà; Ô tô; tài sản khác có nguyên giá từ 500 triệu đồng trở lên/tài sản; tài sản khác có nguyên giá dưới 500 triệu đồng/tài sản; tài sản kết cấu hạ tầng (công trình cấp nước sạch nông thôn tập trung; tài sản kết cấu hạ tầng giao thông đường bộ; tài sản kết cấu hạ tầng giao thông đường thủy nội địa; tài sản kết cấu hạ tầng hàng hải; tài sản kết cấu hạ tầng hàng không; tài sản kết cấu hạ tầng thủy lợi;..); tài sản được hình thành thông qua việc triển khai thực hiện nhiệm vụ khoa học và công nghệ sử dụng vốn nhà nước; tài sản xác lập quyền sở hữu toàn dân; tài nguyên thiên nhiên; - Chỉ tiêu thông tin về tài sản công cần quản lý: + Chia theo nguồn hình thành: Tài sản hình thành có nguồn gốc từ Ngân sách nhà nước; Nguồn khác (viện trợ, biếu tặng,...) và tài sản do thiên nhiên ban tặng; + Các chỉ tiêu quản lý chung: Đơn vị quản lý/sử dụng tài sản, mã tài sản, tên tài sản, loại tài sản; năm sản xuất/năm xây dựng, năm đưa vào sử dụng, tổng nguyên giá tài sản, tỷ lệ hao mòn/khấu hao, giá trị còn lại,.., - Các hệ thống báo cáo đầu ra phục vụ Báo cáo Quốc hội + Tổng hợp tài sản công; + Cơ cấu tài sản công; + Các tài sản chia theo mục đích sử dụng; + Tổng hợp Tài sản công chia theo loại tài sản; + Tổng hợp giá trị Tài sản công theo loại hình đơn vị; + Tổng hợp Tài sản công theo cấp quản lý; + Tổng hợp tình hình tăng, giảm Tài sản công; + Tổng hợp tình hình khai thác nguồn lực tài chính từ Tài sản công,... - Ngoài ra, cơ sở dữ liệu tổng thể cần thiết kế các hệ thống báo cáo phục vụ phân tích, dự báo đánh giá theo Biểu đồ, tra cứu theo vị trí địa lý,...                                                                                                                                                                                                                                                                                                                                                                            | Cục Quản lý công sản                  |
+
+| 10 | Cơ Sở dữ liệu chuyên ngành quản lý, giám sát vốn nhà nước tại doanh nghiệp (Hệ thống thông tin quản lý, giám sát vốn nhà nước tại doanh nghiệp).                         | Xây dựng, phát triển Hệ thống giám sát vốn nhà nước tại doanh nghiệp triển khai tập trung tại Bộ Tài chính, các đơn vị, doanh nghiệp có vốn nhà nước truy cập vào hệ thống qua đường truyền mạng để sử dụng hệ thống. Dự kiến gồm các chức năng: (1) Phân hệ nhập số liệu báo cáo tại các doanh nghiệp dự kiến bao gồm các chức năng và nhiệm vụ sau: - Nhập thông tin, báo cáo về doanh nghiệp theo quy định về chế độ báo cáo về đầu tư vốn nhà nước vào doanh nghiệp và quản lý, sử dụng tài sản tại doanh nghiệp. - Quản lý phương thức cho phép các doanh nghiệp nhập, gửi các báo cáo điện tử như: Quản lý cách import dữ liệu báo cáo từ các ứng dụng quản lý của doanh nghiệp ra hệ thống định dạng báo cáo chuẩn theo ngôn ngữ chuẩn XML hoặc excel. (2) Phân hệ tích hợp, trao đổi dữ liệu về hồ sơ doanh nghiệp từ các Hệ thống thông tin, Cơ sở chuyên ngành từ Ủy ban Chứng khoán nhà nước, Tổng cục Thuế, Sở Giao dịch chứng khoán Hà Nội (HNX), Sở Giao dịch chứng khoán TP.HCM (HOSE),... (3) Phân hệ phục vụ quản lý, giám sát đầu tư vốn nhà nước vào doanh nghiệp và quản lý, sử dụng vốn tại doanh nghiệp, dự kiến có các chức năng sau: - Xây dựng các bộ tiêu chí đánh giá, phân tích tình hình tài chính và hiệu quả sản xuất, kinh doanh, kiểm soát vốn và tài sản nhà nước tại doanh nghiệp. - Phân tích rủi ro quản lý vốn và hoạt động của các doanh nghiệp. - Xây dựng hệ thống tổng hợp các báo cáo theo quy định pháp luật và yêu cầu của cơ quan quản lý. (4) Hệ thống phân tích, tổng hợp dữ liệu doanh nghiệp có vốn của nhà nước theo công nghệ báo cáo thông minh (BI) theo các chỉ tiêu động, có phân tích, có biểu đồ, cảnh báo phục vụ cho công tác điều hành, hỗ trợ cho các cấp Lãnh đạo trong việc ra quyết định. Cung cấp dữ liệu chính xác, nhất quán giữa các đơn vị thuộc Cục Tài chính doanh nghiệp.                                                                                                                                                                                                                                                                                                            | Cục Tài chính Doanh nghiệp            |
+
+| 11 | Cơ sở dữ liệu chuyên ngành quản lý thu - chi ngân sách nhà nước                                                                                                          | - Kho dữ liệu thu - chi NSNN theo các tiêu chuẩn chung của một hệ thống Kho dữ liệu - Data warehouse nhằm chuẩn hóa dữ liệu từ nhiều nguồn dữ liệu khác nhau, linh hoạt trong quá trình lựa chọn phương thức khai thác báo cáo phân tích. - Đáp ứng yêu cầu về quản lý, khai thác, sử dụng thông tin về ngân sách nhà nước phục vụ công tác quản lý, điều hành của Bộ Tài chính và cơ quan tài chính các cấp. - Phổ biến thông tin về NSNN theo quy định bằng công cụ hỗ trợ khai thác, phân tích dữ liệu, cung cấp những báo cáo ngân sách từ khâu lập dự toán, chấp hành, quyết toán, công khai ngân sách. Các báo cáo tài chính - ngân sách tổng hợp từ các văn bản: + Nghị quyết số 343/2017/UBTVQH14 ngày 19/01/2017 + Nghị định số 31/2017/NĐ-CP ngày 23/3/2017 + Thông tư số 342/2016/TT-BTC ngày 30/12/2016 + Thông tư số 343/2016/TT-BTC ngày 30/12/2016 + Thông tư số 61/2017/TT-BTC ngày 15/6/2017 + Thông tư số 77/2017/TT-BTC ngày 28/7/2017 + Các văn bản có liên quan khác - Cung cấp các báo cáo tĩnh, báo cáo động, tùy biến, khoan sâu dữ liệu theo hệ thống chỉ tiêu, theo chuỗi thời gian, các biểu đồ, bản đồ,... theo công nghệ BI và cho phép kết xuất dữ liệu dưới nhiều loại định dạng như Microsoft Excel, PDF,... nhằm đáp ứng đa dạng nhu cầu phân tích, đánh giá chuyên sâu về NSNN.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Cục Tin học và Thống kê tài chính     |
+
+| 12 | Cơ sở dữ liệu danh mục điện tử dùng chung ngành Tài chính.                                                                                                               | Cơ sở dữ liệu danh mục điện tử dùng chung trong lĩnh vực tài chính được xây dựng đáp ứng toàn diện yêu cầu của Thông tư số 18/2017/TT-BTC ngày 28/02/2017. Cơ sở dữ liệu danh mục điện tử dùng chung gồm 77 danh mục. Ví dụ như: Đối tượng nộp thuế, Trạng thái mã số thuế, Loại hình doanh nghiệp, Tờ khai thuế, Biểu thuế theo các FTA, Doanh nghiệp có hoạt động xuất nhập khẩu, các công ty chứng khoán, các công ty quản lý quỹ, hàng dự trữ quốc gia, Mã số công dân - Bộ Công an, Mã định danh phục vụ kết nối các hệ thống quản lý văn bản và điều hành - Bộ TTTT, Mã Ngân hàng - Ngân hàng nhà nước, Mã số chương, Mã số ngành kinh tế (Loại, Khoản), Mã số nội dung kinh tế (Mục, tiểu mục), Mã số chương trình, mục tiêu Quốc gia, Mã số nguồn ngân sách nhà nước, Mã số các cấp ngân sách, Mã nhiệm vụ chi Ngân sách Nhà nước, Mã Kho bạc Nhà nước, Mã dự phòng, Mã Quỹ, Tài khoản tự nhiên (Áp dụng cho TABMIS), Đơn vị sử dụng Ngân sách, dự án đầu tư, Quỹ tài chính Nhà nước ngoài ngân sách, Ban quản lý dự án đầu tư, Cơ quan thu, tổ chức ngân sách, mã ngân sách toàn địa bàn,.... Cơ sở dữ liệu danh mục điện tử dùng chung sẽ cung cấp các dữ liệu chuẩn về danh mục để sử dụng thống nhất trong các phần mềm ứng dụng, hệ thống thông tin quản lý, cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu quốc gia về Tài chính, công tác kế toán, thống kê và hoạt động nghiệp vụ trong lĩnh vực Tài chính. Cơ sở dữ liệu danh mục điện tử dùng chung sẽ được xây dựng đảm bảo việc khai thác số liệu lớn đảm bảo trao đổi liên thông giữa Bộ Tài chính và các cơ quan bên trong và ngoài ngành Tài chính như Bộ Công An, Ngân hàng Nhà nước, Bộ Thông tin và Truyền thông.                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Cục Tin học và Thống kê tài chính.    |
+
+TT
+
+Cơ Sở dữ liệu chuyên ngành
+
+Nội dung chính
+
+Đơn vị chủ trì
+
+1
+
+Cơ sở dữ liệu chuyên ngành quản lý Thuế (nâng cấp kiến trúc kho cơ sở dữ liệu ngành Thuế và hệ thống khai thác dữ liệu, tổng hợp báo cáo phục vụ công tác quản lý thuế).
+
+- Kho dữ liệu ngành Thuế theo công nghệ mới Kho dữ liệu - Data Warehouse hỗ trợ công tác nghiệp vụ, công tác quản lý thuế, công tác chỉ đạo/điều hành và ra quyết định một cách nhanh chóng, dựa trên các số liệu báo cáo theo nhiều chiều, nhiều tiêu chí khác nhau.
+
+- Tổng hợp báo cáo đáp ứng các nhu cầu khai thác dữ liệu từ khâu lập dự toán, đôn đốc kê khai - nộp thuế, quản lý thuế, thanh tra - kiểm tra cho cả ba cấp Tổng cục Thuế, Cục Thuế và Chi cục Thuế.
+
+- Kho dữ liệu ngành Thuế cũng cung cấp các báo cáo tác nghiệp theo thời gian định trước, các báo cáo động theo nhiều tiêu chí, nhiều chiều dữ liệu một cách linh hoạt, hỗ trợ tối đa cho các hệ thống tác nghiệp khác của ngành Thuế cũng như giảm tải cho các hệ thống này trong việc xử lý nghiệp vụ về tra cứu và báo cáo.
+
+- Kho dữ liệu ngành thuế sẽ cung cấp thông tin cho các đơn vị bên ngoài thông qua cổng cung cấp thông tin về đăng ký thuế, nghĩa vụ thuế. Hệ thống sẽ thực hiện cung cấp thông tin cho các đơn vị bên ngoài qua cổng thông tin ngành Thuế.
+
+Tổng cục Thuế
+
+2
+
+Cơ sở dữ liệu chuyên ngành quản lý Kho bạc (nâng cấp và triển khai kho dữ liệu và công cụ thống kê, phân tích nghiệp vụ).
+
+- Cung cấp các báo cáo tổng hợp theo mẫu biểu quy định trong các văn bản về chế độ báo cáo thống kê hoạt động nghiệp vụ Kho bạc Nhà nước.
+
+- Cung cấp các báo cáo nhanh, báo cáo đột xuất theo yêu cầu của lãnh đạo, theo yêu cầu nghiệp vụ.
+
+- Cung cấp báo cáo động theo các chiều thông tin như theo 12 phân đoạn COA, theo trường động, theo các thông tin của cam kết chi,...
+
+- Cung cấp báo cáo phân tích đánh giá: Công cụ phân tích, đánh giá hình ảnh dạng biểu đồ, đồ thị; phân tích, đánh giá, so sánh số liệu giữa các năm theo thông tin đa chiều.
+
+Kho bạc Nhà nước
+
+3
+
+Cơ sở dữ liệu chuyên ngành quản lý Hải quan (xây dựng hệ thống thông tin hỗ trợ ra quyết định nghiệp vụ hải quan).
+
+- Xây dựng, cung cấp các báo cáo nhanh cho lãnh đạo Tổng cục phục vụ báo cáo Bộ Tài chính và các cơ quan, lãnh đạo nhà nước. Cung cấp các số liệu về kim ngạch, số lượng tờ khai và thu thuế hàng ngày và số liệu tổng hợp từ đầu năm;
+
+- Xây dựng hệ thống cung cấp các báo cáo thống kê, hỗ trợ ra quyết định, bao gồm các chỉ tiêu thông tin chủ yếu phục vụ công tác quản lý Hải quan các cấp:
+
++ Cung cấp các báo cáo thống kê các năm, các kỳ cho Tổng cục Hải quan, Cục Hải quan và Chi cục Hải quan;
+
++ Cung cấp các báo cáo, số liệu so sánh các chỉ tiêu theo các kỳ theo đơn vị hải quan.
+
+- Thiết lập các mô hình phân tích, khai thác dữ liệu đặc thù của ngành Hải quan:
+
++ Hệ thống tổng hợp số liệu từ nhiều nguồn của ngành Hải quan, thực hiện kết nối và cung cấp các báo cáo động cho người dùng, có thể tự tổng hợp số liệu và kết xuất các báo cáo đặc thù riêng tại từng thời điểm;
+
++ Được xây dựng trên nền tảng công nghệ báo cáo thông minh (Business Intelligence - BI) để sử dụng các mô hình phân tích và khai thác dữ liệu mới để tối ưu khai thác dữ liệu cho người dùng.
+
+- Xây dựng công cụ thu thập dữ liệu phục vụ cho quá trình xử lý phân tích, báo cáo hỗ trợ ra quyết định:
+
++ Xây dựng chức năng tích hợp dữ liệu (ETL) từ các hệ thống nguồn của ngành Hải quan: Hệ thống VNACCS/VCIS, Hệ thống eCustoms, Hệ thống Quản lý giá GTT, Hệ thống MHS, Hệ thống Thống kê, Hệ thống kế toán thuế KTT, Hệ thống Quản lý rủi ro, Hệ thống Quản lý vi phạm, Hệ thống Kiểm tra sau thông quan, Hệ thống quản lý phương tiện vận tải đường bộ, Hệ thống eManifest;
+
++ Cập nhật danh sách doanh nghiệp từ Tổng cục Thuế.
+
+Tổng cục Hải quan
+
+4
+
+Cơ sở dữ liệu chuyên ngành quản lý Chứng khoán (xây dựng hệ thống trao đổi và tích hợp các cơ sở dữ liệu của Ủy ban Chứng khoán Nhà nước).
+
+- Tích hợp, liên kết các hệ thống ứng dụng CNTT hiện có của Ủy ban Chứng khoán Nhà nước (UBCKNN) để nâng cao năng lực quản lý, giám sát và điều hành của UBCKNN.
+
+- Đổi mới theo hướng hiện đại công tác báo cáo thống kê trong UBCKNN, hạn chế việc phải báo cáo trùng lặp số liệu của các đơn vị.
+
+- Đáp ứng các yêu cầu về chia sẻ, trao đổi thông tin, dữ liệu giữa các đơn vị trong UBCKNN, tạo điều kiện thuận lợi cho cán bộ của UBCKNN trong quá trình thực hiện nhiệm vụ được giao.
+
+- Tăng cường khả năng trao đổi thông tin điện tử trong UBCKNN, hướng đến khả năng giảm thiểu trao đổi văn bản giấy trong cơ quan UBCKNN.
+
+- Hướng tới hỗ trợ tin học hóa các thủ tục hành chính trong UBCKNN.
+
+Ủy ban Chứng khoán Nhà nước
+
+5
+
+Cơ sở dữ liệu chuyên ngành quản lý Dự trữ nhà nước.
+
+- Kho dữ liệu tổng hợp Dự trữ nhà nước (DTNN) được xây dựng theo theo các tiêu chuẩn chung của một hệ thống Kho dữ liệu - Data warehouse. Dữ liệu đầu vào của kho được update thông qua 2 phương thức là thu thập tự động trên cơ sở các ứng dụng đang hoạt động tại Tổng cục DTNN và công cụ thu thập dữ liệu thủ công (ứng dụng webbase). Việc kết hợp 2 phương thức thu thập nêu trên là phù hợp nhằm hoàn thiện hệ thống dữ liệu và thông tin các mảng nghiệp vụ của ngành Dự trữ.
+
+- Cung cấp dữ liệu tổng hợp, đa chiều hoạt động Dự trữ quốc gia nhằm cung cấp thông tin đầy đủ, kịp thời, là đầu vào cho các hệ thống phân tích, hỗ trợ ra quyết định.
+
+Kho dữ liệu tổng hợp DTNN là một hệ thống chạy tập trung, có khả năng mở rộng, điều chỉnh hoặc bổ sung khi có sự thay đổi về cơ chế, chính sách cũng như yêu cầu quản lý.
+
+Tổng cục Dự trữ Nhà nước
+
+6
+
+Cơ sở dữ liệu chuyên ngành quản lý Giá.
+
+Hệ thống cơ sở dữ liệu quốc gia về giá tập trung, đồng bộ và thống nhất, bao gồm các nội dung:
+
+- Giá hàng hóa, dịch vụ do Nhà nước định giá theo quy định tại Điều 8 Nghị định số 177/2013/NĐ-CP và các pháp luật chuyên ngành có liên quan.
+
+- Giá đăng ký của hàng hóa, dịch vụ thuộc danh mục bình ổn giá phải thực hiện đăng ký giá trong thời gian áp dụng biện pháp bình ổn giá theo quy định tại Điều 3 Nghị định số 177/2013/NĐ-CP và các văn bản pháp luật có liên quan.
+
+- Giá kê khai của hàng hóa, dịch vụ thuộc danh mục kê khai giá (bao gồm cả giá do doanh nghiệp thông báo khi điều chỉnh giá trong phạm vi 3%) quy định tại Điều 15 Nghị định số 177/2013/NĐ-CP và các văn bản pháp luật có liên quan.
+
+- Giá thị trường hàng hóa, dịch vụ thuộc danh mục báo cáo giá thị trường theo quy định của Bộ Tài chính. Giá tài sản (giá mua, bán, thanh lý,...) thuộc sở hữu nhà nước theo quy định của pháp luật về quản lý, sử dụng tài sản nhà nước, tài sản tài chính, tài sản vô hình do Cục Quản lý công sản quản lý.
+
+- Trị giá hải quan (căn cứ theo tờ khai hải quan và diễn giải về hàng hóa tại tờ khai) đối với hàng hóa xuất khẩu, nhập khẩu do Tổng cục Hải quan quản lý.
+
+- Khung giá đất do Chính phủ ban hành; bảng giá đất, hệ số điều chỉnh giá đất hàng năm do Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương ban hành. Giá trúng đấu giá quyền sử dụng đất tại địa phương.
+
+- Giá tính thuế tài nguyên theo quy định của pháp luật về thuế tài nguyên do Tổng cục Thuế quản lý.
+
+- Quản lý thông tin hoạt động thẩm định giá, bao gồm: Quản lý thông tin doanh nghiệp thẩm định giá và tình hình hoạt động thẩm định giá của doanh nghiệp; Giá trị tài sản được thẩm định giá (đất đai, nhà, công trình xây dựng, máy, thiết bị, phương tiện vận tải, dây chuyền công nghệ, tài sản khác) và thông tin, tài liệu liên quan đến kết quả thẩm định giá theo quy định của pháp luật về thẩm định giá,...
+
+- Giá hàng hóa, dịch vụ khác được quy định tại khoản 1 Điều 4 Thông tư số 142/2014/TT-BTC như: giá giao dịch bất động sản, giá đất giao dịch thực tế trên thị trường, giá trúng thầu của hàng hóa, dịch vụ mua sắm,...
+
+Cục Tin học và Thống kê tài chính
+
+7
+
+Cơ sở dữ liệu chuyên ngành quản lý Bảo hiểm (hệ thống thông tin quản lý và giám sát hoạt động kinh doanh bảo hiểm).
+
+Xây dựng “Hệ thống thông tin quản lý và giám sát hoạt động kinh doanh bảo hiểm” dự kiến xây dựng gồm các phân hệ sau:
+
+(1) Phân hệ nhập số liệu báo cáo tại các doanh nghiệp bảo hiểm dự kiến bao gồm các chức năng và nhiệm vụ sau:
+
+- Quản lý cơ sở dữ liệu lưu trữ tại chỗ cho các doanh nghiệp bảo hiểm đáp ứng đầy đủ các báo cáo theo quy định.
+
+- Quản lý phương thức cho phép các doanh nghiệp bảo hiểm gửi các báo cáo điện tử.
+
+- Quản lý cách nhập (import) dữ liệu báo cáo từ các ứng dụng lõi bảo hiểm qua chuẩn XML hoặc excel từ doanh nghiệp bảo hiểm đến hệ thống tại Bộ.
+
+(2) Phân hệ nhận báo cáo từ các doanh nghiệp bảo hiểm và các nguồn khác bao gồm các chức năng và nhiệm vụ sau:
+
+- Quản lý chức năng nhận số liệu bao gồm cả dữ liệu có cấu trúc và các dữ liệu phi cấu trúc (như tài liệu văn bản).
+
+- Quản lý chức năng nhận số liệu từ các phần mềm tại các doanh nghiệp bảo hiểm.
+
+- Quản lý chức năng nhập các số liệu lưu trữ cũ nhằm phục vụ công tác thống kê, phân tích.
+
+(3) Phân hệ phục vụ quản lý, giám sát hoạt động kinh doanh bảo hiểm dự kiến có các chức năng sau:
+
+- Xây dựng các bộ tiêu chí đánh giá, kiểm soát doanh nghiệp theo quy định.
+
+- Phân tích rủi ro hoạt động của các doanh nghiệp bảo hiểm.
+
+- Xây dựng hệ thống các báo cáo theo quy định của pháp luật và yêu cầu của cơ quan quản lý.
+
+(4) Phân hệ quản lý và tra cứu dữ liệu phi cấu trúc về bảo hiểm có các chức năng sau:
+
+- Cấu hình phân loại hồ sơ.
+
+- Quét và lưu phiên bản hồ sơ vào một/nhiều các phân loại.
+
+- Tra cứu dữ liệu phi cấu trúc về bảo hiểm theo phân loại.
+
+(5) Hệ thống báo cáo phân tích, tổng hợp dữ liệu bảo hiểm được xây dựng nhằm xây dựng các báo cáo thông minh (Business Intelligence - BI) theo các chỉ tiêu động, có phân tích, có biểu đồ.
+
+- Các báo cáo của doanh nghiệp bảo hiểm nhân thọ, doanh nghiệp bảo hiểm phi nhân thọ, doanh nghiệp tái bảo hiểm, doanh nghiệp môi giới bảo hiểm theo quy định pháp luật và yêu cầu của cơ quan quản lý.
+
+Cục Quản lý, giám sát bảo hiểm
+
+8
+
+Cơ sở dữ liệu chuyên ngành quản lý Nợ công (triển khai hệ thống phân tích tài chính và quản lý nợ phiên bản 6.0 - DMFAS 6.0).
+
+Thực hiện nhiệm vụ mua bản quyền cài đặt phần mềm DMFAS từ phiên bản 5.3 lên phiên bản 6.0 bao gồm cả các nội dung đào tạo và chuyển giao công nghệ.
+
+Nghiên cứu xây dựng giao diện DMFAS với hệ thống InfoBond của Sở giao dịch chứng khoán Hà Nội (HNX).
+
+Cục Quản lý nợ và Tài chính đối ngoại
+
+9
+
+Xây dựng Cơ sở dữ liệu chuyên ngành quản lý Tài sản công (nâng cấp cơ sở dữ liệu quốc gia về tài sản công).
+
+Nâng cấp xây dựng cơ sở dữ liệu quản lý tài sản công hiện nay thành Kho cơ sở dữ liệu về tài sản công để quản lý:
+
+- Nhóm các loại tài sản công: Đất; Nhà; Ô tô; tài sản khác có nguyên giá từ 500 triệu đồng trở lên/tài sản; tài sản khác có nguyên giá dưới 500 triệu đồng/tài sản; tài sản kết cấu hạ tầng (công trình cấp nước sạch nông thôn tập trung; tài sản kết cấu hạ tầng giao thông đường bộ; tài sản kết cấu hạ tầng giao thông đường thủy nội địa; tài sản kết cấu hạ tầng hàng hải; tài sản kết cấu hạ tầng hàng không; tài sản kết cấu hạ tầng thủy lợi;..); tài sản được hình thành thông qua việc triển khai thực hiện nhiệm vụ khoa học và công nghệ sử dụng vốn nhà nước; tài sản xác lập quyền sở hữu toàn dân; tài nguyên thiên nhiên;
+
+- Chỉ tiêu thông tin về tài sản công cần quản lý:
+
++ Chia theo nguồn hình thành: Tài sản hình thành có nguồn gốc từ Ngân sách nhà nước; Nguồn khác (viện trợ, biếu tặng,...) và tài sản do thiên nhiên ban tặng;
+
++ Các chỉ tiêu quản lý chung: Đơn vị quản lý/sử dụng tài sản, mã tài sản, tên tài sản, loại tài sản; năm sản xuất/năm xây dựng, năm đưa vào sử dụng, tổng nguyên giá tài sản, tỷ lệ hao mòn/khấu hao, giá trị còn lại,..,
+
+- Các hệ thống báo cáo đầu ra phục vụ Báo cáo Quốc hội
+
++ Tổng hợp tài sản công;
+
++ Cơ cấu tài sản công;
+
++ Các tài sản chia theo mục đích sử dụng;
+
++ Tổng hợp Tài sản công chia theo loại tài sản;
+
++ Tổng hợp giá trị Tài sản công theo loại hình đơn vị;
+
++ Tổng hợp Tài sản công theo cấp quản lý;
+
++ Tổng hợp tình hình tăng, giảm Tài sản công;
+
++ Tổng hợp tình hình khai thác nguồn lực tài chính từ Tài sản công,...
+
+- Ngoài ra, cơ sở dữ liệu tổng thể cần thiết kế các hệ thống báo cáo phục vụ phân tích, dự báo đánh giá theo Biểu đồ, tra cứu theo vị trí địa lý,...
+
+Cục Quản lý công sản
+
+10
+
+Cơ Sở dữ liệu chuyên ngành quản lý, giám sát vốn nhà nước tại doanh nghiệp (Hệ thống thông tin quản lý, giám sát vốn nhà nước tại doanh nghiệp).
+
+Xây dựng, phát triển Hệ thống giám sát vốn nhà nước tại doanh nghiệp triển khai tập trung tại Bộ Tài chính, các đơn vị, doanh nghiệp có vốn nhà nước truy cập vào hệ thống qua đường truyền mạng để sử dụng hệ thống. Dự kiến gồm các chức năng:
+
+(1) Phân hệ nhập số liệu báo cáo tại các doanh nghiệp dự kiến bao gồm các chức năng và nhiệm vụ sau:
+
+- Nhập thông tin, báo cáo về doanh nghiệp theo quy định về chế độ báo cáo về đầu tư vốn nhà nước vào doanh nghiệp và quản lý, sử dụng tài sản tại doanh nghiệp.
+
+- Quản lý phương thức cho phép các doanh nghiệp nhập, gửi các báo cáo điện tử như: Quản lý cách import dữ liệu báo cáo từ các ứng dụng quản lý của doanh nghiệp ra hệ thống định dạng báo cáo chuẩn theo ngôn ngữ chuẩn XML hoặc excel.
+
+(2) Phân hệ tích hợp, trao đổi dữ liệu về hồ sơ doanh nghiệp từ các Hệ thống thông tin, Cơ sở chuyên ngành từ Ủy ban Chứng khoán nhà nước, Tổng cục Thuế, Sở Giao dịch chứng khoán Hà Nội (HNX), Sở Giao dịch chứng khoán TP.HCM (HOSE),...
+
+(3) Phân hệ phục vụ quản lý, giám sát đầu tư vốn nhà nước vào doanh nghiệp và quản lý, sử dụng vốn tại doanh nghiệp, dự kiến có các chức năng sau:
+
+- Xây dựng các bộ tiêu chí đánh giá, phân tích tình hình tài chính và hiệu quả sản xuất, kinh doanh, kiểm soát vốn và tài sản nhà nước tại doanh nghiệp.
+
+- Phân tích rủi ro quản lý vốn và hoạt động của các doanh nghiệp.
+
+- Xây dựng hệ thống tổng hợp các báo cáo theo quy định pháp luật và yêu cầu của cơ quan quản lý.
+
+(4) Hệ thống phân tích, tổng hợp dữ liệu doanh nghiệp có vốn của nhà nước theo công nghệ báo cáo thông minh (BI) theo các chỉ tiêu động, có phân tích, có biểu đồ, cảnh báo phục vụ cho công tác điều hành, hỗ trợ cho các cấp Lãnh đạo trong việc ra quyết định. Cung cấp dữ liệu chính xác, nhất quán giữa các đơn vị thuộc Cục Tài chính doanh nghiệp.
+
+Cục Tài chính Doanh nghiệp
+
+11
+
+Cơ sở dữ liệu chuyên ngành quản lý thu - chi ngân sách nhà nước
+
+- Kho dữ liệu thu - chi NSNN theo các tiêu chuẩn chung của một hệ thống Kho dữ liệu - Data warehouse nhằm chuẩn hóa dữ liệu từ nhiều nguồn dữ liệu khác nhau, linh hoạt trong quá trình lựa chọn phương thức khai thác báo cáo phân tích.
+
+- Đáp ứng yêu cầu về quản lý, khai thác, sử dụng thông tin về ngân sách nhà nước phục vụ công tác quản lý, điều hành của Bộ Tài chính và cơ quan tài chính các cấp.
+
+- Phổ biến thông tin về NSNN theo quy định bằng công cụ hỗ trợ khai thác, phân tích dữ liệu, cung cấp những báo cáo ngân sách từ khâu lập dự toán, chấp hành, quyết toán, công khai ngân sách. Các báo cáo tài chính - ngân sách tổng hợp từ các văn bản:
+
++ Nghị quyết số 343/2017/UBTVQH14 ngày 19/01/2017
+
++ Nghị định số 31/2017/NĐ-CP ngày 23/3/2017
+
++ Thông tư số 342/2016/TT-BTC ngày 30/12/2016
+
++ Thông tư số 343/2016/TT-BTC ngày 30/12/2016
+
++ Thông tư số 61/2017/TT-BTC ngày 15/6/2017
+
++ Thông tư số 77/2017/TT-BTC ngày 28/7/2017
+
++ Các văn bản có liên quan khác
+
+- Cung cấp các báo cáo tĩnh, báo cáo động, tùy biến, khoan sâu dữ liệu theo hệ thống chỉ tiêu, theo chuỗi thời gian, các biểu đồ, bản đồ,... theo công nghệ BI và cho phép kết xuất dữ liệu dưới nhiều loại định dạng như Microsoft Excel, PDF,... nhằm đáp ứng đa dạng nhu cầu phân tích, đánh giá chuyên sâu về NSNN.
+
+Cục Tin học và Thống kê tài chính
+
+12
+
+Cơ sở dữ liệu danh mục điện tử dùng chung ngành Tài chính.
+
+Cơ sở dữ liệu danh mục điện tử dùng chung trong lĩnh vực tài chính được xây dựng đáp ứng toàn diện yêu cầu của Thông tư số 18/2017/TT-BTC ngày 28/02/2017.
+
+Cơ sở dữ liệu danh mục điện tử dùng chung gồm 77 danh mục. Ví dụ như: Đối tượng nộp thuế, Trạng thái mã số thuế, Loại hình doanh nghiệp, Tờ khai thuế, Biểu thuế theo các FTA, Doanh nghiệp có hoạt động xuất nhập khẩu, các công ty chứng khoán, các công ty quản lý quỹ, hàng dự trữ quốc gia, Mã số công dân - Bộ Công an, Mã định danh phục vụ kết nối các hệ thống quản lý văn bản và điều hành - Bộ TTTT, Mã Ngân hàng - Ngân hàng nhà nước, Mã số chương, Mã số ngành kinh tế (Loại, Khoản), Mã số nội dung kinh tế (Mục, tiểu mục), Mã số chương trình, mục tiêu Quốc gia, Mã số nguồn ngân sách nhà nước, Mã số các cấp ngân sách, Mã nhiệm vụ chi Ngân sách Nhà nước, Mã Kho bạc Nhà nước, Mã dự phòng, Mã Quỹ, Tài khoản tự nhiên (Áp dụng cho TABMIS), Đơn vị sử dụng Ngân sách, dự án đầu tư, Quỹ tài chính Nhà nước ngoài ngân sách, Ban quản lý dự án đầu tư, Cơ quan thu, tổ chức ngân sách, mã ngân sách toàn địa bàn,....
+
+Cơ sở dữ liệu danh mục điện tử dùng chung sẽ cung cấp các dữ liệu chuẩn về danh mục để sử dụng thống nhất trong các phần mềm ứng dụng, hệ thống thông tin quản lý, cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu quốc gia về Tài chính, công tác kế toán, thống kê và hoạt động nghiệp vụ trong lĩnh vực Tài chính.
+
+Cơ sở dữ liệu danh mục điện tử dùng chung sẽ được xây dựng đảm bảo việc khai thác số liệu lớn đảm bảo trao đổi liên thông giữa Bộ Tài chính và các cơ quan bên trong và ngoài ngành Tài chính như Bộ Công An, Ngân hàng Nhà nước, Bộ Thông tin và Truyền thông.
+
+Cục Tin học và Thống kê tài chính.

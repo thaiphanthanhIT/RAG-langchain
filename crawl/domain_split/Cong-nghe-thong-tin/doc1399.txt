@@ -1,0 +1,3049 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 1361/QĐ-BTC | Hà Nội, ngày 08 tháng 08 năm 2019                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 1361/QĐ-BTC
+
+Hà Nội, ngày 08 tháng 08 năm 2019
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, KHAI THÁC PHẦN MỀM QUẢN LÝ THI ĐUA KHEN THƯỞNG NGÀNH TÀI CHÍNH
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Luật Thi đua, khen thưởng năm 2003; Luật sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng năm 2005 và năm 2013;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về về ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước;
+
+Căn cứ Nghị định số 56/2015/NĐ-CP ngày 09/6/2015 của Chính phủ về đánh giá và phân loại cán bộ, công chức, viên chức;
+
+Căn cứ Nghị định số 88/2017/NĐ-CP ngày 27/7/2017 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 56/2015/NĐ-CP ngày 09/6/2015;
+
+Căn cứ Nghị định số 91/2017/NĐ-CP ngày 31/7/2017 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, Khen thưởng;
+
+Căn cứ Thông tư số 08/2017/TT-BNV ngày 27/10/2017 của Bộ Nội vụ quy định chi tiết thi hành một số điều của Nghị định số 91/2017/NĐ-CP ngày 31/7/2017 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, Khen thưởng;
+
+Theo đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính, Vụ trưởng Vụ Thi đua - Khen thưởng,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo quyết định này Quy chế quản lý, vận hành, khai thác phần mềm Quản lý Thi đua khen thưởng ngành Tài chính.
+
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký. Cục trưởng Cục Tin học và Thống kê Tài chính, Vụ trưởng Vụ Thi đua - Khen thưởng, Thủ trưởng các cơ quan, đơn vị thuộc tuyến thi đua, khen thưởng ngành Tài chính chịu trách nhiệm thi hành quyết định này.
+
+| Nơi nhận: - Như Điều 2; - Cổng TTĐT BTC; - Lưu: VT, THTK. | KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai |
+
+|-----------------------------------------------------------|-------------------------------------|
+
+Nơi nhận: - Như Điều 2; - Cổng TTĐT BTC; - Lưu: VT, THTK.
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Vũ Thị Mai
+
+QUY CHẾ
+
+QUẢN LÝ, VẬN HÀNH, KHAI THÁC PHẦN MỀM QUẢN LÝ THI ĐUA KHEN THƯỞNG NGÀNH TÀI CHÍNH
+
+(Ban hành kèm theo Quyết định số 1361/QĐ-BTC ngày 08/08/2019 của Bộ trưởng Bộ Tài chính)
+
+Chương I.
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Quy chế này quy định việc quản lý, vận hành, khai thác phần mềm Quản lý thi đua khen thưởng ngành Tài chính (sau đây gọi tắt là phần mềm Thi đua khen thưởng).
+
+Điều 2. Đối tượng áp dụng
+
+Quy chế này áp dụng đối với các cơ quan, đơn vị thuộc tuyến thi đua, khen thưởng ngành Tài chính thuộc phạm vi được phép khai thác, sử dụng phần mềm Thi đua khen thưởng theo danh sách tại Phụ lục số 01 của Quy chế.
+
+Điều 3. Giải thích từ ngữ
+
+Trong quy chế này, các thuật ngữ dưới đây được hiểu như sau:
+
+1. Phần mềm Thi đua khen thưởng là phần mềm được cài đặt, lưu trữ tập trung tại Bộ Tài chính để để thực hiện quản lý các nhóm nghiệp vụ:
+
+- Quản lý thi đua của cá nhân và tập thể.
+
+- Quản lý khen thưởng của cá nhân và tập thể.
+
+- Quản lý sáng kiến.
+
+- Kết quả phân loại đánh giá mức độ hoàn thành nhiệm vụ của các cá nhân, tập thể.
+
+2. Cán bộ nghiệp vụ: là cán bộ được phân công làm công tác thi đua, khen thưởng của cơ quan, đơn vị và được cấp tài khoản sử dụng phần mềm Thi đua khen thưởng.
+
+3. Đơn vị cấp Tổng cục và tương đương: gồm Tổng cục Thuế, Tổng cục Hải quan, Tổng cục Dự trữ Nhà nước, Kho bạc Nhà nước, Ủy ban Chứng khoán Nhà nước và Tập đoàn Bảo Việt.
+
+4. Đơn vị cấp Vụ, Cục và tương đương: gồm các Vụ, Cục và tương đương thuộc Cơ quan Bộ Tài chính; các Vụ, Cục, Cục địa phương và tương đương thuộc các Tổng cục; các đơn vị sự nghiệp, doanh nghiệp và các đơn vị khác được phân cấp về công tác thi đua, khen thưởng thuộc tuyến trình khen thưởng của Bộ Tài chính.
+
+Điều 4. Điều kiện sử dụng phần mềm Thi đua khen thưởng
+
+1. Địa chỉ truy cập vào phần mềm Thi đua khen thưởng là: http://tdkt.mof.gov.vn
+
+2. Máy vi tính của người sử dụng phải được kết nối với mạng nội bộ của cơ quan Bộ Tài chính hoặc kết nối với hạ tầng truyền thông của ngành Tài chính hoặc kết nối internet.
+
+3. Máy vi tính của người sử dụng phải được cài đặt một trong các trình duyệt web sau: Mozilla Firefox 40.0 trở lên, Internet Explorer 10.0 trở lên hoặc Chrome/Chromium 50.0 trở lên.
+
+4. Thông tin nhập vào phần mềm Thi đua khen thưởng phải sử dụng phông chữ Unicode TCVN 6909 và gõ dấu tiếng Việt. Các văn bản dùng hệ phông chữ khác với Unicode, phải được chuyển đổi (convert) sang định dạng phông Unicode TCVN 6909 trước khi tải vào phần mềm Thi đua khen thưởng.
+
+Điều 5. Danh mục cơ cấu tổ chức
+
+1. Danh mục cơ cấu tổ chức của các đơn vị quản lý trên phần mềm Thi đua khen thưởng sử dụng thống nhất bộ mã định danh của ngành Tài chính đã được Bộ Tài chính ban hành tại Quyết định số 1624/QĐ-BTC ngày 05/10/2018 về việc ban hành danh mục mã định danh các đơn vị thuộc, trực thuộc Bộ Tài chính phục vụ kết nối, trao đổi văn bản điện tử thông qua hệ thống quản lý văn bản và điều hành và các Quyết định điều chỉnh bổ sung về việc ban hành bộ mã định danh các đơn vị thuộc, trực thuộc Bộ Tài chính.
+
+2. Đối với các đơn vị thuộc tuyến thi đua khen thưởng ngành Tài chính chưa được cấp mã định danh, Cục Tin học và Thống kê tài chính có trách nhiệm cấp mã định danh cho đơn vị theo Quy tắc đã được ban hành tại Quyết định số 1624/QĐ-BTC.
+
+Điều 6. Tài khoản sử dụng phần mềm Thi đua khen thưởng
+
+1. Các loại tài khoản:
+
+1.1. Tài khoản quản trị, hỗ trợ:
+
+- Là tài khoản cấp cho cán bộ kỹ thuật của Cục Tin học và Thống kê tài chính và Cục Công nghệ thông tin thuộc các Tổng cục và tương đương để thực hiện nhiệm vụ quản trị hỗ trợ kỹ thuật và hỗ trợ người sử dụng.
+
+- Cục Tin học và Thống kê tài chính quản lý tài khoản quản trị Cấp 1. Tài khoản quản trị Cấp 1 được quyền quản lý (thêm, sửa, xóa tài khoản và xem dữ liệu) các tài khoản nghiệp vụ, tài khoản tra cứu cấp cho người sử dụng của khối cơ quan Bộ Tài chính, các đơn vị sự nghiệp, các doanh nghiệp, các đơn vị thuộc tuyến thi đua, khen thưởng của Bộ Tài chính và tài khoản quản trị Cấp 2.
+
+- Cục Công nghệ thông tin thuộc các Tổng cục và tương đương quản lý tài khoản quản trị Cấp 2. Tài khoản quản trị Cấp 2 được quyền quản lý (thêm, sửa, xóa tài khoản và xem dữ liệu) các tài khoản nghiệp vụ và tài khoản tra cứu cấp cho người sử dụng của các đơn vị thuộc Tổng cục bao gồm các đơn vị thuộc cơ quan Tổng cục và các Cục địa phương.
+
+1.2. Tài khoản nghiệp vụ:
+
+- Là tài khoản cấp cho các cán bộ nghiệp vụ làm công tác thi đua khen thưởng của đơn vị và được giao trách nhiệm cập nhật dữ liệu vào phần mềm Thi đua khen thưởng.
+
+- Tài khoản nghiệp vụ có quyền cập nhật, sửa đổi dữ liệu; quản lý; khai thác Phần mềm Thi đua khen thưởng theo các quy định tại Quy chế này.
+
+1.3. Tài khoản tra cứu dữ liệu:
+
+- Là tài khoản dùng chung cấp đơn vị để cán bộ, công chức, người lao động thuộc đơn vị thực hiện nghiệp vụ tra cứu, tìm kiếm dữ liệu thi đua, khen thưởng của cá nhân và tập thể của đơn vị khi có nhu cầu.
+
+- Tài khoản tra cứu không có quyền cập nhật, sửa đổi dữ liệu.
+
+2. Số lượng và quy tắc cấp tài khoản:
+
+2.1. Tài khoản quản trị:
+
+- Cục Tin học và Thống kê Tài chính: được cấp 03 tài khoản quản trị Cấp 1.
+
+- Cục Công nghệ thông tin cấp Tổng cục và tương đương: mỗi đơn vị được cấp 02 tài khoản quản trị Cấp 2.
+
+2.2. Tài khoản nghiệp vụ và tài khoản tra cứu:
+
+- Vụ Thi đua khen thưởng: được cấp tài khoản nghiệp vụ cho tất cả cán bộ, công chức của đơn vị.
+
+- Vụ Tổ chức cán bộ các Tổng cục và tương đương: được cấp tài khoản nghiệp vụ cho các cán bộ được giao thực hiện nhiệm vụ về công tác thi đua, khen thưởng.
+
+- Các đơn vị còn lại: mỗi đơn vị được cấp tối đa 04 tài khoản nghiệp vụ và 01 tài khoản tra cứu.
+
+3. Quy tắc đặt tên cho các tài khoản:
+
+- Nhóm tài khoản quản trị đặt tên: theo quy tắc “tdkt-tên viết tắt đơn vị-quantri”
+
+- Tài khoản nghiệp vụ của các cán bộ Vụ Thi đua khen thưởng: đặt tên tài khoản theo tên của cán bộ trong Vụ.
+
+- Tài khoản nghiệp vụ của các cán bộ Vụ Tổ chức cán bộ các Tổng cục: đặt tên tài khoản theo tên của cán bộ được giao thực hiện nhiệm vụ về công tác thi đua, khen thưởng.
+
+- Nhóm tài khoản nghiệp vụ đặt tên: theo quy tắc “tdkt-tên viết tắt đơn vị- nv1” đến “tdkt-tên viết tắt đơn vị-nv4” (mỗi đơn vị được cấp tối đa 04 tài khoản nghiệp vụ).
+
+- Nhóm tài khoản tra cứu dữ liệu đặt tên: theo quy tắc “tdkt-tên viết tắt đơn vị-tracuu”.
+
+- Tên viết tắt đơn vị: theo danh sách tại Phụ lục 01 của Quy chế.
+
+4. Quy trình cấp tài khoản sử dụng:
+
+Trong quá trình vận hành, đơn vị có nhu cầu cấp thêm tài khoản cần thực hiện theo các bước sau:
+
+- Đơn vị có nhu cầu cấp tài khoản gửi yêu cầu cấp tài khoản sử dụng mới tới đơn vị quản lý tài khoản quản trị, hỗ trợ cấp trên trực tiếp bằng văn bản. Thông tin yêu cầu tạo tài khoản mới phải bao gồm các nội dung sau:
+
++ Tên người sử dụng (người sẽ được cấp tài khoản)
+
++ Thuộc đơn vị (ghi rõ tới cấp phòng)
+
++ Chức vụ
+
++ Số điện thoại
+
++ Các yêu cầu về tài khoản (các loại tài khoản cần tạo)
+
++ Địa chỉ tiếp nhận phản hồi (họ tên, đơn vị, thư điện tử, số điện thoại)
+
++ Tên người yêu cầu tạo tài khoản
+
+- Đơn vị quản lý tài khoản quản trị, hỗ trợ thực hiện cấp tài khoản mới cho đơn vị theo Quy định của Quy chế này.
+
+- Tài khoản mới được cấp trong phong bì có dấu mật, được gửi bằng văn bản đến đơn vị có yêu cầu.
+
+- Đơn vị nhận tài khoản mới và đổi mật khẩu trong lần đầu tiên đăng nhập phần mềm Thi đua khen thưởng.
+
+Thời gian xử lý cấp tài khoản mới không quá 03 ngày làm việc tính theo dấu xác nhận công văn đến.
+
+5. Đảm bảo an toàn đối với tài khoản sử dụng:
+
+Trách nhiệm quản lý tài khoản nghiệp vụ và tài khoản quản trị thuộc về các cá nhân cán bộ, công chức được cấp tài khoản. Trong quá trình sử dụng và quản lý tài khoản, cán bộ công chức và đơn vị được giao tài khoản cần thực hiện nguyên tắc đảm bảo an toàn đối với tài khoản:
+
+- Khai thác, sử dụng đúng mục đích công việc và trong phạm vi trách nhiệm đã được phân công.
+
+- Đặt mật khẩu và định kỳ thay đổi mật khẩu theo quy định sau: Mật khẩu của tài khoản dịch vụ gồm một chuỗi ký tự kết hợp đồng thời các yếu tố sau: Có tối thiểu 8 ký tự; gồm tối thiểu 3 trong số 4 loại ký tự sau: chữ cái viết hoa (A- Z); chữ cái viết thường (a-z); chữ số (0-9); các ký tự khác trên bàn phím máy tính (' ~ ! @ # $ % ^ & * ( ) _ - + = { } [ ] \ | : ; " ' < > , . ? /) và dấu cách; Mật khẩu không được trùng với một phần tên của tài khoản.
+
+- Mật khẩu của tài khoản được khuyến nghị thay đổi tối thiểu 3 tháng một lần.
+
+- Khi thay đổi mật khẩu của tài khoản bắt buộc phải khác mật khẩu cũ.
+
+- Quản lý mật khẩu theo quy định về bảo vệ bí mật nhà nước độ "Mật".
+
+6. Điều chỉnh, thu hồi, hủy bỏ, khôi phục tài khoản người sử dụng
+
+Khi người dùng thay đổi vị trí công tác, chuyển công tác, thôi việc hoặc nghỉ hưu, đơn vị quản lý người sử dụng phải:
+
+- Trường hợp thay đổi người dùng sử dụng tài khoản nghiệp vụ theo tên cán bộ: thông báo bằng văn bản cho đơn vị có tài khoản quản trị cấp 1 hoặc cấp 2 theo phân cấp quản lý đơn vị tại Điểm 1.1 Khoản 1 điều này để thực hiện điêu chỉnh, thu hồi, hủy bỏ, khôi phục các quyền sử dụng của người dùng đối với hệ thống mạng, ứng dụng.
+
+- Trường hợp thay đổi người dùng tài khoản quản trị: thông báo bằng văn bản cho Cục Tin học và Thống kê tài chính để thực hiện điều chỉnh, thu hồi, hủy bỏ, khôi phục các quyền sử dụng của người dùng đối với hệ thống mạng, ứng dụng.
+
+- Đối với trường hợp người dùng sử dụng các tài khoản nghiệp vụ đặt theo tên viết tắt đơn vị: cán bộ được cấp tài khoản có trách nhiệm bàn giao lại tài khoản cho người tiếp nhận công việc khi thay đổi vị trí công tác, chuyển công tác, thôi việc hoặc nghỉ hưu đồng thời thông báo đến người dùng tài khoản quản trị đơn vị về việc thay đổi người dùng sử dụng tài khoản nghiệp vụ.
+
+Điều 7. Nguyên tắc phân quyền cập nhật và khai thác dữ liệu trên phần mềm Thi đua khen thưởng
+
+Dữ liệu trên Phần mềm Thi đua khen thưởng được phân cấp theo nguyên tắc: Cấp trên được khai thác, cập nhật, sửa đổi dữ liệu của cấp dưới. Các đơn vị ngang cấp không tra cứu được dữ liệu của nhau và của đơn vị cấp trên. Các đơn vị được tra cứu, cập nhật, sửa đổi dữ liệu cho đơn vị mình; không được sửa đổi dữ liệu do đơn vị cấp trên hoặc đơn vị khác tạo ra.
+
+Điều 8. Quyền sở hữu thông tin và các hành vi nghiêm cấm trong quá trình quản lý, sử dụng, khai thác phần mềm Thi đua khen thưởng
+
+1. Toàn bộ các thông tin thi đua, khen thưởng trên phần mềm Thi đua khen thưởng thuộc sở hữu của Bộ Tài chính.
+
+2. Nghiêm cấm mọi hình thức mua bán, trao đổi hoặc sử dụng thông tin thi đua, khen thưởng vào các mục đích trục lợi và mọi hành vi truy cập trái phép, đánh cắp, làm sai lệch dữ liệu, phá hoại, sao lưu dữ liệu và thông tin Thi đua, khen thưởng bất hợp pháp trên phần mềm thi đua khen thưởng.
+
+Chương II
+
+QUY ĐỊNH CỤ THỂ
+
+Điều 9. Cập nhật thông tin phong trào thi đua
+
+1. Phát động phong trào thi đua:
+
+Vụ Thi đua Khen thưởng cập nhật trên phần mềm Thi đua khen thưởng thông tin về phát động phong trào thi đua thường xuyên, theo đợt (chuyên đề) của Bộ Tài chính.
+
+Đơn vị cấp Tổng cục và tương đương cập nhật thông tin về phát động phong trào thi đua riêng của Tổng cục hoặc hưởng ứng theo phong trào thi đua của Bộ Tài chính.
+
+Đơn vị cấp Vụ, Cục và tương đương cập nhật thông tin về phát động phong trào thi đua riêng của đơn vị hoặc hưởng ứng theo phong trào thi đua của cấp trên.
+
+2. Đăng ký tham gia phong trào thi đua:
+
+Sau khi đơn vị cấp trên cập nhật thông tin phát động phong trào thi đua trên hệ thống, các đơn vị cấp dưới thực hiện đăng ký tham gia phong trào thi đua do cấp trên phát động trên Phần mềm Thi đua khen thưởng.
+
+Điều 10. Cập nhật thông tin đánh giá phân loại công chức, đánh giá mức độ hoàn thành nhiệm vụ tập thể
+
+1. Ngay sau khi có kết quả đánh giá phân loại mức độ hoàn thành nhiệm vụ cuối năm cho các tập thể và cá nhân tại mỗi đơn vị, cán bộ nghiệp vụ của đơn vị có trách nhiệm cập nhật dữ liệu trên Phần mềm Thi đua khen thưởng.
+
+2. Các đơn vị cấp trên có thể tra cứu, theo dõi, thống kê kết quả đánh giá phân loại mức độ hoàn thành nhiệm vụ cuối năm của các tập thể và cá nhân tại các đơn vị thuộc thẩm quyền quản lý, phục vụ cho công tác thẩm định, bình xét thi đua, khen thưởng.
+
+Điều 11. Cập nhật thông tin sáng kiến
+
+Trong thời hạn 20 ngày làm việc kể từ khi có kết quả công nhận sáng kiến, các đơn vị thực hiện cập nhật dữ liệu vào Phần mềm Thi đua khen thưởng theo thẩm quyền công nhận sáng kiến:
+
+- Đơn vị cấp Vụ, Cục và tương đương: Cập nhật các sáng kiến do đơn vị công nhận.
+
+- Đơn vị cấp Tổng cục và tương đương: Cập nhật các Quyết định công nhận sáng kiến do đơn vị ký.
+
+- Vụ Thi đua Khen thưởng - Bộ Tài chính: Cập nhật các Quyết định công nhận sáng kiến do Bộ Tài chính ký.
+
+Điều 12. Cập nhật thông tin trình khen thưởng và trả kết quả xét duyệt khen thưởng
+
+1. Thực hiện tạo hồ sơ đề nghị khen thưởng và trả kết quả xét duyệt khen thưởng:
+
+- Đơn vị cấp Vụ, Cục và tương đương: chậm nhất sau 10 ngày làm việc kể từ ngày đơn vị ký Tờ trình khen thưởng, cán bộ nghiệp vụ gửi hồ sơ đề nghị khen thưởng trên phần mềm lên đơn vị khen thưởng cấp trên.
+
+- Đơn vị cấp Tổng cục và tương đương: thực hiện tiếp nhận danh sách đề nghị từ cấp dưới.
+
++ Đối với các danh hiệu thi đua và hình thức khen thưởng thuộc thẩm quyền xét duyệt của cấp Tổng cục, các bộ nghiệp vụ thực hiện trả kết quả khen thưởng trên phần mềm sau khi có quyết định khen thưởng.
+
++ Đối với các danh hiệu thi đua và hình thức khen thưởng thuộc thẩm quyền xét duyệt của cấp trên, cán bộ nghiệp vụ thực hiện gửi danh sách đề nghị trên phần mềm tới Vụ Thi đua - Khen thưởng, Bộ Tài chính chậm nhất sau 10 ngày làm việc kể từ ngày ký Tờ trình khen thưởng.
+
+- Vụ Thi đua - Khen thưởng: thực hiện tiếp nhận danh sách đề nghị từ các đơn vị gửi lên và trả kết quả khen thưởng trên phần mềm sau khi có quyết định khen thưởng.
+
+2. Cập nhật các Quyết định khen thưởng:
+
+Trong thời hạn 20 ngày làm việc kể từ ngày ký quyết định khen thưởng (đối với các quyết định đơn vị có thẩm quyền ban hành), hoặc kể từ ngày nhận được quyết định (đối với các quyết định do cấp trên hoặc cơ quan khác ban hành), các đơn vị có trách nhiệm cập nhật thông tin về quyết định khen thưởng vào Phần mềm Thi đua khen thưởng theo phân cấp như sau:
+
+- Vụ Thi đua Khen thưởng: cập nhật các Quyết định khen cao do Chính phủ, Chủ tịch nước, Thủ tướng Chính phủ ký tặng cho các cá nhân, tập thể thuộc tuyến trình khen thưởng của Bộ Tài chính.
+
+- Đơn vị cấp Tổng cục và tương đương: chịu trách nhiệm cập nhật hoặc phân cấp cho các đơn vị cấp dưới cập nhật các Quyết định khen do Bộ Tài chính ký, Tổng cục ký tặng cho các tập thể, cá nhân của đơn vị thuộc thẩm quyền quản lý của Tổng cục.
+
+- Đơn vị cấp Vụ, Cục và tương đương: Cập nhật các Quyết định khen thưởng do Bộ Tài chính, đơn vị cấp Tổng cục và tương đương, đơn vị ngoài ngành ký tặng cho các tập thể, cá nhân của đơn vị, và các Quyết định khen thưởng do đơn vị ban hành.
+
+Điều 13. Cập nhật danh mục danh hiệu thi đua, hình thức khen thưởng
+
+1. Vụ Thi đua Khen thưởng: cập nhật danh mục các danh hiệu thi đua, hình thức khen thưởng của Nhà nước và chung của ngành Tài chính; phối hợp với Cục Tin học và Thống kê tài chính cập nhật, cấu hình các công thức xét duyệt cho các danh hiệu thi đua, hình thức khen thưởng, phân cấp quyền phong tặng danh hiệu thi đua, hình thức khen thưởng theo thẩm quyền cho các đơn vị tuyến dưới.
+
+2. Đơn vị cấp Tổng cục và tương đương: cập nhật danh mục các danh hiệu thi đua, hình thức khen thưởng theo thẩm quyền được phân cấp cho đơn vị.
+
+Điều 14. Cập nhật thay đổi cơ cấu tổ chức đơn vị
+
+Khi có quyết định của cấp có thẩm quyền về thay đổi đơn vị tổ chức (thay đổi tên phòng/ ban/khoa/trung tâm/đơn vị, tách hoặc gộp phòng/ ban/khoa/trung tâm/đơn vị). Trách nhiệm cập nhật các thông tin về đơn vị tổ chức được thực hiện theo nguyên tắc sau:
+
+1. Phần mềm Thi đua khen thưởng sử dụng bộ mã định danh thống nhất được ban hành tại Quyết định số 1642/QĐ-BTC ngày 05/10/2018. Bộ mã định danh này sẽ được Cục Tin học và Thống kê tài chính cập nhật lên phần mềm Thi đua khen thưởng. Khi có thay đổi, các đơn vị có trách nhiệm chuẩn hóa, đối chiếu và hiệu chỉnh mã định danh cho đúng với Bộ mã định danh chuẩn và phù hợp với thực tế hoạt động tại đơn vị.
+
+2. Vụ Thi đua Khen thưởng: cập nhật các thông tin thay đổi đơn vị tổ chức của các đơn vị cấp Tổng cục và tương đương, các đơn vị là các tập thể lớn thuộc Bộ Tài chính.
+
+3. Đơn vị cấp Tổng cục và tương đương: cập nhật các thông tin thay đổi đơn vị tổ chức của các đơn vị là các tập thể lớn thuộc phạm vi quản lý của Tổng cục.
+
+4. Đơn vị cấp Vụ, Cục và tương đương: cập nhật các thông tin thay đổi đơn vị tổ chức của các tập thể thuộc đơn vị mình.
+
+Điều 15. Cập nhật thông tin luân chuyển cán bộ
+
+1. Đối với cán bộ mới được tuyển dụng, chưa từng công tác trong ngành Tài chính: cán bộ nghiệp vụ của đơn vị trực tiếp quản lý cán bộ đó thực hiện thêm mới và cập nhật hồ sơ cá nhân cho cán bộ vào phần mềm Thi đua khen thưởng.
+
+2. Đối với những cán bộ được điều chuyển trong nội bộ đơn vị cấp Vụ, Cục và tương đương: Cán bộ nghiệp vụ của đơn vị trực tiếp quản lý cán bộ đó cập nhập các thông tin điều chuyển nội bộ gồm ngày điều chuyển, bộ phận nhận, ngày tiếp nhận.
+
+3. Đối với những cán bộ được điều chuyển công tác giữa các đơn vị khác nhau trong phạm vi ngành Tài chính:
+
+- Tại đơn vị có cán bộ chuyển đi: Cán bộ nghiệp vụ thực hiện thao tác điều chuyển cán bộ đó trên Phần mềm Thi đua khen thưởng sang đơn vị chuyển đến.
+
+- Tại đơn vị cán bộ chuyển đến: Cán bộ nghiệp vụ thực hiện thao tác tiếp nhận cán bộ.
+
+4. Đối với các cán bộ chuyển ra ngoài ngành Tài chính, nghỉ hưu, thôi việc: Cán bộ nghiệp vụ thực hiện thao tác cập nhật trạng thái luân chuyển ngoài ngành, nghỉ hưu, thôi việc trên Phần mềm Thi đua khen thưởng.
+
+5. Thời hạn cập nhật thông tin luân chuyển cán bộ trên phần mềm Thi đua khen thưởng: Trong vòng 5 ngày làm việc kể từ khi có quyết định điều chuyển công tác, tuyển dụng, nghỉ hưu, thôi việc của cá nhân.
+
+Điều 16. Chuẩn hóa, rà soát dữ liệu
+
+1. Cán bộ nghiệp vụ của đơn vị có trách nhiệm thực hiện rà soát cơ sở dữ liệu của đơn vị mình, phát hiện các trường hợp trùng lặp, dư thừa tại đơn vị, tiến hành chuẩn hóa đảm bảo thông tin các tập thể, cá nhân tại đơn vị là duy nhất, chính xác.
+
+2. Trường hợp không xử lý được trên phần mềm Thi đua khen thưởng cần báo cáo ngay cho đơn vị quản lý tài khoản quản trị (Cục Tin học và Thống kê tài chính và Cục Công nghệ thông tin thuộc các Tổng cục) để hỗ trợ kịp thời.
+
+Chương III
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 17. Trách nhiệm của Cục Tin học và Thống kê tài chính
+
+1. Tiếp nhận các yêu cầu từ đơn vị, thực hiện hỗ trợ người sử dụng quản lý, khai thác các chức năng của phần mềm Thi đua khen thưởng.
+
+2. Quản lý, vận hành hệ thống hạ tầng kỹ thuật công nghệ thông tin đảm bảo phần mềm Thi đua khen thưởng vận hành thông suốt.
+
+3. Xử lý các vướng mắc liên quan đến vấn đề kỹ thuật của phần mềm Thi đua khen thưởng.
+
+4. Sao lưu dữ liệu của phần mềm Thi đua khen thưởng: Thực hiện sao lưu dữ liệu toàn bộ hệ thống (full backup) 1 tuần 1 lần. Các ngày còn lại trong tuần thực hiện sao lưu dữ liệu gia tăng (incremental backup). Dữ liệu sao lưu được lưu trữ tối thiểu 2 tuần đảm bảo khả năng khôi phục lại dữ liệu khi xảy ra sự cố.
+
+5. Cập nhật Bộ mã định danh chuẩn của ngành vào phần mềm khi có sự thay đổi.
+
+Điều 18. Trách nhiệm của Vụ Thi đua khen thưởng
+
+1. Quản lý các danh mục dùng chung cho toàn ngành trong phần mềm Thi đua khen thưởng, khai thác thông tin, báo cáo theo phân quyền trên hệ thống.
+
+2. Đôn đốc các đơn vị thực hiện cập nhật thông tin lên phần mềm Thi đua khen thưởng thưởng theo quy định tại Chương II của Quy chế, đảm bảo dữ liệu đầy đủ, chính xác, kịp thời.
+
+3. Phối hợp với Cục Tin học và Thống kê tài chính tiếp nhận các yêu cầu, chủ trì hỗ trợ xử lý các vướng mắc của các đơn vị về nghiệp vụ thi đua, khen thưởng trong quá trình sử dụng Phần mềm.
+
+Điều 19. Trách nhiệm của các Tổng cục và tương đương
+
+1. Đôn đốc các đơn vị thuộc phạm vi quản lý thực hiện cập nhật thông tin lên phần mềm Thi đua khen thưởng theo quy định tại Chương II của Quy chế, đảm bảo dữ liệu đầy đủ, chính xác, kịp thời; khai thác thông tin, báo cáo theo phân quyền trên hệ thống.
+
+2. Phối hợp với Cục Tin học và Thống kê tài chính và Vụ Thi đua Khen thưởng tiếp nhận các yêu cầu, hỗ trợ xử lý vướng mắc của các đơn vị thuộc phạm vi quản lý trong quá trình sử dụng phần mềm Thi đua khen thưởng.
+
+3. Quản lý tài khoản, phân quyền người sử dụng tại các đơn vị thuộc phạm vi quản lý.
+
+Điều 20. Trách nhiệm của các đơn vị, cá nhân trực tiếp khai thác sử dụng phần mềm Thi đua khen thưởng
+
+1. Thực hiện cập nhật thông tin cán bộ, cơ cấu tổ chức, đánh giá phân loại, sáng kiến, thi đua, khen thưởng đảm bảo đầy đủ, chính xác, đúng thời gian quy định lên Phần mềm. Thường xuyên đối chiếu thông tin, số liệu trên Phần mềm Thi đua khen thưởng đảm bảo thống nhất với hồ sơ, quyết định của đơn vị; khai thác thông tin, báo cáo theo phân quyền trên hệ thống.
+
+2. Sử dụng phần mềm Thi đua khen thưởng thực hiện báo cáo lịch sử thành tích thi đua, khen thưởng của cá nhân và tập thể hàng năm theo quy định.
+
+3. Phối hợp với các đơn vị cấp trên và các đơn vị có liên quan để rà soát và hiệu chỉnh thông tin điều động, luân chuyển, nghỉ hưu, thôi việc của cán bộ.
+
+4. Cập nhật thông tin đối với các danh mục do đơn vị quản lý và chịu trách nhiệm bảo mật thông tin đối với tài khoản đã cấp cho đơn vị để truy cập, sử dụng Phần mềm Thi đua khen thưởng.
+
+5. Thông báo sự cố, vấn đề cần hỗ trợ trong quá trình sử dụng phần mềm Thi đua khen thưởng lên đơn vị cấp trên để được hỗ trợ.
+
+6. Thông báo bằng văn bản lên đơn vị cấp trên những trường hợp điều chỉnh tài khoản và quyền truy nhập phần mềm Thi đua khen thưởng.
+
+7. Quản lý, đảm bảo an ninh, an toàn đối với tài khoản truy cập phần mềm Thi đua khen thưởng được cấp.
+
+Điều 21. Tổ chức thực hiện
+
+1. Việc quản lý, vận hành, khai thác phần mềm Thi đua, khen thưởng phải tuân thủ các quy định tại Quy chế này và các quy định về an toàn thông tin hiện hành của Bộ Tài chính.
+
+2. Trong quá trình thực hiện nếu phát sinh các vướng mắc, các cơ quan, tổ chức, đơn vị phản ánh kịp thời về Bộ Tài chính (Cục Tin học và Thống kê tài chính, Vụ Thi đua khen thưởng) để phối hợp xử lý./.
+
+PHỤ LỤC 01
+
+DANH SÁCH CÁC ĐƠN VỊ ĐƯỢC CẤP TÀI KHOẢN KHAI THÁC, SỬ DỤNG PHẦN MỀM QUẢN LÝ THI ĐUA KHEN THƯỞNG NGÀNH TÀI CHÍNH (Ban hành kèm theo Quyết định số: 1361/QĐ-BTC ngày 08/08/2019 của Bộ trưởng Bộ Tài chính)
+
+| STT   | Đơn vị                                                            | Tên viết tắt của đơn vị dùng để cấp tài khoản theo Quy định tại Điều 6 của Quy chế                  |
+
+|-------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+
+| I     | Bộ Tài chính                                                      |                                                                                                     |
+
+| 1.1   | Các đơn vị thuộc cơ quan Bộ Tài chính                             |                                                                                                     |
+
+| 1     | Vụ Thi đua - Khen thưởng                                          | Đặt tên tài khoản theo tên của cán bộ trong Vụ                                                      |
+
+| 2     | Vụ Ngân sách nhà nước                                             | btc-nsnn                                                                                            |
+
+| 3     | Thanh tra Bộ                                                      | btc-ttb                                                                                             |
+
+| 4     | Văn phòng Bộ                                                      | btc-vpb                                                                                             |
+
+| 5     | Cục Quản lý công sản                                              | btc-qlcs                                                                                            |
+
+| 6     | Cục Quản lý nợ và Tài chính đối ngoại                             | btc-tcđn                                                                                            |
+
+| 7     | Cục Quản lý và Giám sát bảo hiểm                                  | btc-qlgsbh                                                                                          |
+
+| 8     | Cục Quản lý, giám sát kế toán, kiểm toán                          | btc-qlkt                                                                                            |
+
+| 9     | Cục Quản lý giá                                                   | btc-qlg                                                                                             |
+
+| 10    | Cục Tin học và Thống kê tài chính                                 | btc-thtk                                                                                            |
+
+| 11    | Cục Tài chính doanh nghiệp                                        | btc-tcdn                                                                                            |
+
+| 12    | Vụ Đầu tư                                                         | btc-đt                                                                                              |
+
+| 13    | Cục Kế hoạch - Tài chính                                          | btc-khtc                                                                                            |
+
+| 14    | Vụ Tài chính quốc phòng, an ninh, đặc biệt (Vụ I)                 | btc-vu1                                                                                             |
+
+| 15    | Vụ Tài chính hành chính sự nghiệp                                 | btc-hcsn                                                                                            |
+
+| 16    | Vụ Chính sách thuế                                                | btc-cst                                                                                             |
+
+| 17    | Vụ Tài chính các ngân hàng và tổ chức tài chính                   | btc-tcnh                                                                                            |
+
+| 18    | Vụ Hợp tác quốc tế                                                | btc-htqt                                                                                            |
+
+| 19    | Vụ Pháp chế                                                       | btc-pc                                                                                              |
+
+| 20    | Vụ Tổ chức cán bộ                                                 | btc-tccb                                                                                            |
+
+| 21    | Văn phòng Đảng ủy                                                 | btc-vpdu                                                                                            |
+
+| 22    | Văn phòng Đoàn thanh niên                                         | btc-vpdtn                                                                                           |
+
+| 23    | Văn phòng Công đoàn                                               | btc-vpcd                                                                                            |
+
+| 24    | Ban quản lý dự án ODA                                             | btc-bqloda                                                                                          |
+
+| I.2   | Các đơn vị sự nghiệp, doanh nghiệp thuộc Bộ Tài chính             |                                                                                                     |
+
+| 1     | Trường Bồi dưỡng cán bộ Tài chính                                 | btc-tbdcbtc                                                                                         |
+
+| 2     | Viện Chiến lược và Chính sách tài chính                           | vclcstc                                                                                             |
+
+| 3     | Thời báo Tài chính Việt Nam                                       | tbtcvn                                                                                              |
+
+| 4     | Tạp chí Tài chính                                                 | tctc                                                                                                |
+
+| 5     | Nhà xuất bản Tài chính                                            | nxbtc                                                                                               |
+
+| 6     | Công ty Mua bán nợ và tài sản tồn đọng của doanh nghiệp           | mbnvn                                                                                               |
+
+| 7     | Công ty Xổ số điện toán Việt Nam                                  | xsdtvn                                                                                              |
+
+| 8     | Sở giao dịch chứng khoán Hà Nội                                   | sgdckhn                                                                                             |
+
+| 9     | Sở giao dịch chứng khoán Hồ Chí Minh                              | sgdckhcm                                                                                            |
+
+| 10    | Trung tâm lưu ký chứng khoán Việt Nam                             | ttlkck                                                                                              |
+
+| 11    | Tập đoàn Bảo Việt                                                 | tdbv                                                                                                |
+
+| 12    | Công ty TNHH Quản lý Quỹ Bảo Việt                                 | tdbv-ctqlqbv                                                                                        |
+
+| 13    | Công ty TNHH đầu tư Bảo Việt                                      | tdbv-ctdtbv                                                                                         |
+
+| 14    | Tổng công ty bảo hiểm Bảo Việt                                    | tdbv-tctbhbv                                                                                        |
+
+| 15    | Tổng công ty Bảo Việt Nhân Thọ                                    | tdbv-tctbhnt                                                                                        |
+
+| 16    | Công ty cổ phần chứng khoán Bảo Việt                              | tdbv-ctcpckbv                                                                                       |
+
+| 17    | Ngân hàng Bảo Việt                                                | tdbv-nhbv                                                                                           |
+
+| I.3   | Các đơn vị đang thuộc tuyến thi đua khen thưởng của Bộ Tài chính  |                                                                                                     |
+
+| 1     | Tổng công ty cổ phần Bảo Minh                                     | tctcpbm                                                                                             |
+
+| 2     | Tổng công ty cổ phần tái bảo hiểm Quốc gia Việt Nam (VINARE)      | vinare                                                                                              |
+
+| 3     | Công ty CP Định giá và dịch vụ tài chính Việt Nam (VVFC)          | vvfc                                                                                                |
+
+| 4     | Công ty CP Thông tin và Thẩm định giá Miền nam (SIVC)             | sivc                                                                                                |
+
+| 5     | Công ty TNHH kiểm toán AASC                                       | aasc                                                                                                |
+
+| 6     | Công ty TNHH Kiểm toán và tư vấn A&C                              | kttv                                                                                                |
+
+| 7     | Công ty TNHH Deloitte Việt Nam                                    | deloittevn                                                                                          |
+
+| 8     | Hiệp hội Bảo hiểm Việt Nam                                        | hhbh                                                                                                |
+
+| 9     | Hội Kế toán và Kiểm toán Việt Nam                                 | hktvkt                                                                                              |
+
+| 10    | Hội Kiểm toán viên hành nghề - VACPA                              | hktln                                                                                               |
+
+| 11    | Hội Thẩm định giá Việt Nam - VVA                                  | htdg                                                                                                |
+
+| 12    | Hội Tư vấn thuế Việt Nam - VTCA                                   | htvtvn                                                                                              |
+
+| I.4   | Các trường                                                        |                                                                                                     |
+
+| 1     | Trường Đại học Tài chính - Kế toán                                | dhtckt                                                                                              |
+
+| 2     | Trường Đại học Tài chính - Marketing                              | dhtc-marketing                                                                                      |
+
+| 2     | Trường Đại học Tài chính - Quản trị kinh doanh                    | dhtcqtkd                                                                                            |
+
+| 4     | Học viện Tài chính                                                | hvtc                                                                                                |
+
+| II    | Tổng cục Thuế                                                     |                                                                                                     |
+
+| II.1  | Các Vụ, Cục trực thuộc Tổng cục Thuế                              |                                                                                                     |
+
+| 1     | Vụ Tổ chức cán bộ                                                 | Đặt tên tài khoản theo tên của cán bộ được giao thực hiện nhiệm vụ về công tác thi đua, khen thưởng |
+
+| 2     | Vụ Chính sách                                                     | tct-vcs                                                                                             |
+
+| 3     | Vụ Pháp chế                                                       | tct-vpc                                                                                             |
+
+| 4     | Vụ Dự toán thu thuế                                               | tct-vdttt                                                                                           |
+
+| 5     | Vụ Kê khai và Kế toán thuế                                        | tct-vkkvktt                                                                                         |
+
+| 6     | Vụ Quản lý nợ và Cưỡng chế nợ thuế                                | tct-vqln                                                                                            |
+
+| 8     | Vụ Quản lý thuế doanh nghiệp lớn                                  | tct-vqltdnl                                                                                         |
+
+| 9     | Vụ Tuyên truyền - Hỗ trợ người nộp thuế                           | tct-vttht                                                                                           |
+
+| 10    | Vụ Hợp tác quốc tế                                                | tct-vhtqt                                                                                           |
+
+| 11    | Vụ Kiểm tra nội bộ                                                | tct-vktnb                                                                                           |
+
+| 12    | Vụ Tài vụ - Quản trị                                              | tct-vtvqt                                                                                           |
+
+| 13    | Văn phòng                                                         | tct-vp                                                                                              |
+
+| 14    | Đại diện Văn phòng tại thành phố Hồ Chí Minh                      | tct-ddtctttphcm                                                                                     |
+
+| 15    | Vụ Thanh tra - Kiểm tra thuế                                      | tct-ttt                                                                                             |
+
+| 16    | Cục Công nghệ thông tin                                           | tct-cntt                                                                                            |
+
+| 17    | Vụ Quản lý thuế Doanh nghiệp nhỏ và vừa và Hộ kinh doanh, cá nhân | tct-vqlt                                                                                            |
+
+| II.2  | Các đơn vị sự nghiệp trực thuộc Tổng cục Thuế                     |                                                                                                     |
+
+| 1     | Trường Nghiệp vụ thuế                                             | tct-tnvt                                                                                            |
+
+| 2     | Tạp chí Thuế                                                      | tct-tct                                                                                             |
+
+| II.3  | Các Cục thuế địa phương (63 Cục)                                  |                                                                                                     |
+
+| 1     | Cục Thuế Tỉnh An Giang                                            | tct-ag                                                                                              |
+
+| 2     | Cục Thuế Tỉnh Bà Rịa - Vũng Tàu                                   | tct-br-vt                                                                                           |
+
+| 3     | Cục Thuế Tỉnh Bạc Liêu                                            | tct-bl                                                                                              |
+
+| 4     | Cục Thuế Tỉnh Bắc Cạn                                             | tct-bc                                                                                              |
+
+| 5     | Cục Thuế Tỉnh Bắc Giang                                           | tct-bg                                                                                              |
+
+| 6     | Cục Thuế Tỉnh Bắc Ninh                                            | tct-bn                                                                                              |
+
+| 7     | Cục Thuế Tỉnh Bến Tre                                             | tct-bt01                                                                                            |
+
+| 8     | Cục Thuế Tỉnh Bình Dương                                          | tct-bd01                                                                                            |
+
+| 9     | Cục Thuế Tỉnh Bình Định                                           | tct-bd                                                                                              |
+
+| 10    | Cục Thuế Tỉnh Bình Phước                                          | tct-bp                                                                                              |
+
+| 11    | Cục Thuế Tỉnh Bình Thuận                                          | tct-bt                                                                                              |
+
+| 12    | Cục Thuế Tỉnh Cà Mau                                              | tct-cm                                                                                              |
+
+| 13    | Cục Thuế Tỉnh Cao Bằng                                            | tct-cb                                                                                              |
+
+| 14    | Cục thuế tỉnh Đắc Nông                                            | tct-dn01                                                                                            |
+
+| 15    | Cục Thuế Tỉnh Đắk Lắk                                             | tct-dl                                                                                              |
+
+| 16    | Cục Thuế Tỉnh Điện Biên                                           | tct-db                                                                                              |
+
+| 17    | Cục Thuế Tỉnh Đồng Nai                                            | tct-dn                                                                                              |
+
+| 18    | Cục Thuế Tỉnh Đồng Tháp                                           | tct-dt                                                                                              |
+
+| 19    | Cục Thuế Tỉnh Gia Lai                                             | tct-gl                                                                                              |
+
+| 20    | Cục Thuế Tỉnh Hà Giang                                            | tct-hg01                                                                                            |
+
+| 21    | Cục Thuế Tỉnh Hà Nam                                              | tct-hn                                                                                              |
+
+| 22    | Cục Thuế Tỉnh Hà Tĩnh                                             | tct-ht                                                                                              |
+
+| 23    | Cục Thuế Tỉnh Hải Dương                                           | tct-hd                                                                                              |
+
+| 24    | Cục thuế tỉnh Hậu Giang                                           | tct-hg                                                                                              |
+
+| 25    | Cục Thuế Tỉnh Hòa Bình                                            | tct-hb                                                                                              |
+
+| 26    | Cục Thuế Tỉnh Hưng Yên                                            | tct-hy                                                                                              |
+
+| 27    | Cục Thuế Tỉnh Kiên Giang                                          | tct-kg                                                                                              |
+
+| 28    | Cục Thuế Tỉnh Kon Tum                                             | tct-kt                                                                                              |
+
+| 29    | Cục Thuế Tỉnh Khánh Hoà                                           | tct-kh                                                                                              |
+
+| 30    | Cục thuế tỉnh Lai châu                                            | tct-lc01                                                                                            |
+
+| 31    | Cục Thuế Tỉnh Lạng Sơn                                            | tct-ls                                                                                              |
+
+| 32    | Cục Thuế Tỉnh Lào Cai                                             | tct-lc                                                                                              |
+
+| 33    | Cục Thuế Tỉnh Lâm Đồng                                            | tct-ld                                                                                              |
+
+| 34    | Cục Thuế Tỉnh Long An                                             | tct-la                                                                                              |
+
+| 35    | Cục Thuế Tỉnh Nam Định                                            | tct-nd                                                                                              |
+
+| 36    | Cục Thuế Tỉnh Ninh Bình                                           | tct-nb                                                                                              |
+
+| 37    | Cục Thuế Tỉnh Ninh Thuận                                          | tct-nt                                                                                              |
+
+| 38    | Cục Thuế Tỉnh Nghệ An                                             | tct-na                                                                                              |
+
+| 39    | Cục Thuế Tỉnh Phú Thọ                                             | tct-pt                                                                                              |
+
+| 40    | Cục Thuế Tỉnh Phú Yên                                             | tct-py                                                                                              |
+
+| 41    | Cục Thuế Tỉnh Quảng Bình                                          | tct-qb                                                                                              |
+
+| 42    | Cục Thuế Tỉnh Quảng Nam                                           | tct-qn01                                                                                            |
+
+| 43    | Cục Thuế Tỉnh Quảng Ninh                                          | tct-qn02                                                                                            |
+
+| 44    | Cục Thuế Tỉnh Quảng Ngãi                                          | tct-qn                                                                                              |
+
+| 45    | Cục Thuế Tỉnh Quảng Trị                                           | tct-qt                                                                                              |
+
+| 46    | Cục Thuế Tỉnh Sóc Trăng                                           | tct-st                                                                                              |
+
+| 47    | Cục Thuế Tỉnh Sơn La                                              | tct-sl                                                                                              |
+
+| 48    | Cục Thuế Tỉnh Tây Ninh                                            | tct-tn01                                                                                            |
+
+| 49    | Cục Thuế Tỉnh Tiền Giang                                          | tct-tg                                                                                              |
+
+| 50    | Cục Thuế Tỉnh Tuyên Quang                                         | tct-tq                                                                                              |
+
+| 51    | Cục Thuế Tỉnh Thái Bình                                           | tct-tb                                                                                              |
+
+| 52    | Cục Thuế Tỉnh Thái Nguyên                                         | tct-tn                                                                                              |
+
+| 53    | Cục Thuế Tỉnh Thanh Hóa                                           | tct-th                                                                                              |
+
+| 54    | Cục Thuế Tỉnh Thừa Thiên - Huế                                    | tct-tt-h                                                                                            |
+
+| 55    | Cục Thuế Tỉnh Trà Vinh                                            | tct-tv                                                                                              |
+
+| 56    | Cục Thuế Tỉnh Vĩnh Long                                           | tct-vl                                                                                              |
+
+| 57    | Cục Thuế Tỉnh Vĩnh Phúc                                           | tct-vp                                                                                              |
+
+| 58    | Cục Thuế Tỉnh Yên Bái                                             | tct-yb                                                                                              |
+
+| 59    | Cục Thuế TP Hà Nội                                                | tct-tphn                                                                                            |
+
+| 60    | Cục Thuế TP Hải Phòng                                             | tct-tphp                                                                                            |
+
+| 61    | Cục Thuế Thành Phố Cần Thơ                                        | tct-tpct                                                                                            |
+
+| 62    | Cục Thuế Thành phố Đà Nẵng                                        | tct-tpdn                                                                                            |
+
+| 63    | Cục Thuế Thành phố Hồ Chí Minh                                    | tct-tphcm                                                                                           |
+
+| III   | Tổng cục Hải quan                                                 |                                                                                                     |
+
+| III.1 | Các Vụ, Cục trực thuộc Tổng cục Hải quan                          |                                                                                                     |
+
+| 1     | Vụ Tổ chức cán bộ                                                 | Đặt tên tài khoản theo tên của cán bộ được giao thực hiện nhiệm vụ về công tác thi đua, khen thưởng |
+
+| 2     | Vụ Pháp chế                                                       | tchq-vpc                                                                                            |
+
+| 3     | Vụ Hợp tác quốc tế                                                | tchq-vhtqt                                                                                          |
+
+| 4     | Cục Tài vụ - Quản trị                                             | tchq-ctv-qt                                                                                         |
+
+| 5     | Văn phòng                                                         | tchq-vp                                                                                             |
+
+| 6     | Văn phòng Đảng và đoàn thể                                        | tchq-vpd-dt                                                                                         |
+
+| 7     | Vụ Thanh tra - Kiểm tra                                           | tchq-vtt-kt                                                                                         |
+
+| 8     | Cục Giám sát quản lý về hải quan                                  | tchq-cgshlvhq                                                                                       |
+
+| 9     | Cục Thuế xuất nhập khẩu                                           | tchq-ctxnk                                                                                          |
+
+| 10    | Cục Điều tra chống buôn lậu                                       | tchq-cdtcbl                                                                                         |
+
+| 11    | Cục Kiểm tra sau thông quan                                       | tchq-cdtstq                                                                                         |
+
+| 12    | Cục Công nghệ thông tin và Thống kê hải quan                      | tchq-cntt                                                                                           |
+
+| 13    | Cục Kiểm định Hải quan                                            | tchq-ckdhq                                                                                          |
+
+| 14    | Cục Quản lý rủi ro                                                | tchq-cqlrr                                                                                          |
+
+| 15    | Ban cải cách hiện đại hóa hải quan                                | tchq-bcchq                                                                                          |
+
+| III.2 | Các đơn vị sự nghiệp trực thuộc Tổng cục Hải quan                 |                                                                                                     |
+
+| 1     | Viện nghiên cứu hải quan                                          | tchq-vnchq                                                                                          |
+
+| 2     | Trường Hải quan Việt Nam                                          | tchq-thqvn                                                                                          |
+
+| 3     | Báo Hải quan                                                      | tchq-bhq                                                                                            |
+
+| III.3 | Các Cục Hải quan                                                  |                                                                                                     |
+
+| 1     | Cục Hải quan tỉnh An Giang                                        | tchq-ag                                                                                             |
+
+| 2     | Cục Hải quan tỉnh Bà Rịa - Vũng Tàu                               | tchq-br-vt                                                                                          |
+
+| 3     | Cục Hải quan tỉnh Bắc Ninh                                        | tchq-bn                                                                                             |
+
+| 4     | Cục Hải quan tỉnh Bình Dương                                      | tchq-bn-tracuu                                                                                      |
+
+| 5     | Cục Hải quan tỉnh Bình Định                                       | tchq-bd                                                                                             |
+
+| 6     | Cục Hải quan tỉnh Bình Phước                                      | tchq-bp                                                                                             |
+
+| 7     | Cục Hải quan tỉnh Cà Mau                                          | tchq-cm                                                                                             |
+
+| 8     | Cục Hải quan tỉnh Cao Bằng                                        | tchq-cb                                                                                             |
+
+| 9     | Cục Hải quan TP Cần Thơ                                           | tchq-ct                                                                                             |
+
+| 10    | Cục Hải quan TP Đà Nẵng                                           | tchq-dn01                                                                                           |
+
+| 11    | Cục Hải quan tỉnh Đăk Lăk                                         | tchq-dl                                                                                             |
+
+| 12    | Cục Hải quan tỉnh Điện Biên                                       | tchq-db                                                                                             |
+
+| 13    | Cục Hải quan tỉnh Đồng Nai                                        | tchq-dn                                                                                             |
+
+| 14    | Cục Hải quan tỉnh Đồng Tháp                                       | tchq-dt                                                                                             |
+
+| 15    | Cục Hải quan tỉnh Gia Lai - Kon Tum                               | tchq-gl-kt                                                                                          |
+
+| 16    | Cục Hải quan tỉnh Hà Giang                                        | tchq-hg                                                                                             |
+
+| 17    | Cục Hải quan TP Hà Nội                                            | tchq-tphn                                                                                           |
+
+| 18    | Cục Hải quan tỉnh Hà Tĩnh                                         | tchq-ht                                                                                             |
+
+| 19    | Cục Hải quan Hà Nam Ninh                                          | tchq-hnn                                                                                            |
+
+| 20    | Cục Hải quan Tp Hải Phòng                                         | tchq-hp                                                                                             |
+
+| 21    | Cục Hải quan TP Hồ Chí Minh                                       | tchq-tph                                                                                            |
+
+| 22    | Cục Hải quan tỉnh Kiên Giang                                      | tchq-kg                                                                                             |
+
+| 23    | Cục Hải quan tỉnh Khánh Hòa                                       | tchq-kh                                                                                             |
+
+| 24    | Cục Hải quan tỉnh Lạng Sơn                                        | tchq-ls                                                                                             |
+
+| 25    | Cục Hải quan tỉnh Lào Cai                                         | tchq-lc                                                                                             |
+
+| 26    | Cục Hải quan tỉnh Long An                                         | tchq-la                                                                                             |
+
+| 27    | Cục Hải quan tỉnh Nghệ An                                         | tchq-na                                                                                             |
+
+| 28    | Cục Hải quan tỉnh Quảng Bình                                      | tchq-qb                                                                                             |
+
+| 29    | Cục Hải quan tỉnh Quảng Nam                                       | tchq-qn01                                                                                           |
+
+| 30    | Cục Hải quan tỉnh Quảng Ninh                                      | tchq-qn02                                                                                           |
+
+| 31    | Cục Hải quan tỉnh Quảng Ngãi                                      | tchq-qn                                                                                             |
+
+| 32    | Cục Hải quan tỉnh Quảng Trị                                       | tchq-qt                                                                                             |
+
+| 33    | Cục Hải quan tỉnh Tây Ninh                                        | tchq-tn                                                                                             |
+
+| 34    | Cục Hải quan tỉnh Thanh Hóa                                       | tchq-th                                                                                             |
+
+| 35    | Cục Hải quan tỉnh Thừa Thiên Huế                                  | tchq-tth                                                                                            |
+
+| IV    | Tổng cục Dự trữ Nhà nước                                          |                                                                                                     |
+
+| IV.1  | Các Vụ, Cục trực thuộc Tổng cục Dự trữ Nhà nước                   |                                                                                                     |
+
+| 1     | Vụ Tổ chức cán bộ                                                 | Đặt tên tài khoản theo tên của cán bộ được giao thực hiện nhiệm vụ về công tác thi đua, khen thưởng |
+
+| 2     | Vụ Chính sách và Pháp chế                                         | dtnn-vcsvpc                                                                                         |
+
+| 3     | Vụ Kế hoạch                                                       | dtnn-vkh                                                                                            |
+
+| 4     | Vụ Khoa học và Công nghệ bảo quản                                 | dtnn-khvcnbq                                                                                        |
+
+| 5     | Vụ Quản lý hàng dự trữ                                            | dtnn-vqlhdt                                                                                         |
+
+| 6     | Vụ Tài vụ - Quản trị                                              | dtnn-vtv-qt                                                                                         |
+
+| 7     | Văn phòng                                                         | dtnn-vptc                                                                                           |
+
+| 8     | Vụ Thanh tra                                                      | dtnn-vtt                                                                                            |
+
+| 9     | Cục Công nghệ thông tin                                           | dtnn-cntt                                                                                           |
+
+| IV.2  | Các đơn vị sự nghiệp trực thuộc Tổng cục Dự trữ Nhà nước          |                                                                                                     |
+
+| 1     | Trung tâm Bồi dưỡng nghiệp vụ dự trữ Nhà nước                     | dtnn-ttbdnv                                                                                         |
+
+| IV.3  | Các Cục Dự trữ                                                    |                                                                                                     |
+
+| 1     | Cục Dự trữ Nhà nước khu vực Hà Nội                                | dtnn-hn                                                                                             |
+
+| 2     | Cục Dự trữ Nhà nước khu vực Tây Bắc                               | dtnn-tb01                                                                                           |
+
+| 3     | Cục Dự trữ Nhà nước khu vực Hoàng Liên Sơn                        | dtnn-hls                                                                                            |
+
+| 4     | Cục Dự trữ Nhà nước khu vực Vĩnh Phú                              | dtnn-vp                                                                                             |
+
+| 5     | Cục Dự trữ Nhà nước khu vực Bắc Thái                              | dtnn-bt                                                                                             |
+
+| 6     | Cục Dự trữ Nhà nước khu vực Hà Bắc                                | dtnn-hb                                                                                             |
+
+| 7     | Cục Dự trữ Nhà nước khu vực Hải Hưng                              | dtnn-hh                                                                                             |
+
+| 8     | Cục Dự trữ Nhà nước khu vực Đông Bắc                              | dtnn-db                                                                                             |
+
+| 9     | Cục Dự trữ Nhà nước khu vực Thái Bình                             | dtnn-tb                                                                                             |
+
+| 10    | Cục Dự trữ Nhà nước khu vực Hà Nam Ninh                           | dtnn-hnn                                                                                            |
+
+| 11    | Cục Dự trữ Nhà nước khu vực Thanh Hóa                             | dtnn-th                                                                                             |
+
+| 12    | Cục Dự trữ Nhà nước khu vực Nghệ Tĩnh                             | dtnn-nt                                                                                             |
+
+| 13    | Cục Dự trữ Nhà nước khu vực Bình Trị Thiên                        | dtnn-btt                                                                                            |
+
+| 14    | Cục Dự trữ Nhà nước khu vực Đà Nẵng                               | dtnn-dn                                                                                             |
+
+| 15    | Cục Dự trữ Nhà nước khu vực Nghĩa Bình                            | dtnn-nb                                                                                             |
+
+| 16    | Cục Dự trữ Nhà nước khu vực Nam Trung Bộ                          | dtnn-ntb                                                                                            |
+
+| 17    | Cục Dự trữ Nhà nước khu vực Bắc Tây Nguyên                        | dtnn-btn-nv02                                                                                       |
+
+| 18    | Cục Dự trữ Nhà nước khu vực Nam Tây Nguyên                        | dtnn-ntn                                                                                            |
+
+| 19    | Cục Dự trữ Nhà nước khu vực Đông Nam Bộ                           | dtnn-dnb                                                                                            |
+
+| 20    | Cục Dự trữ Nhà nước khu vực thành phố Hồ Chí Minh                 | dtnn-tphcm                                                                                          |
+
+| 21    | Cục Dự trữ Nhà nước khu vực Cửu Long                              | dtnn-cl                                                                                             |
+
+| 22    | Cục Dự trữ Nhà nước khu vực Tây Nam Bộ                            | dtnn-tnb                                                                                            |
+
+| V     | Kho bạc Nhà nước                                                  |                                                                                                     |
+
+| V.1   | Các Vụ, Cục trực thuộc Kho bạc Nhà nước                           |                                                                                                     |
+
+| 1     | Vụ Tổ chức cán bộ;                                                | Đặt tên tài khoản theo tên của cán bộ được giao thực hiện nhiệm vụ về công tác thi đua, khen thưởng |
+
+| 2     | Vụ Tổng hợp - Pháp chế;                                           | kbnn-vth-pc                                                                                         |
+
+| 3     | Vụ Kiểm soát chi;                                                 | kbnn-vksc                                                                                           |
+
+| 4     | Vụ Kho quỹ;                                                       | kbnn-vkq                                                                                            |
+
+| 5     | Vụ Hợp tác quốc tế;                                               | kbnn-vhtqt                                                                                          |
+
+| 6     | Vụ Thanh tra - Kiểm tra;                                          | kbnn-vttkt                                                                                          |
+
+| 7     | Vụ Tài vụ - Quản trị;                                             | kbnn-vtv-qt                                                                                         |
+
+| 8     | Văn phòng;                                                        | kbnn-vp                                                                                             |
+
+| 9     | Cục Kế toán nhà nước;                                             | kbnn-cktnn                                                                                          |
+
+| 10    | Cục Quản lý ngân quỹ;                                             | kbnn-cqlnq                                                                                          |
+
+| 11    | Cục Công nghệ thông tin;                                          | kbnn-cntt                                                                                           |
+
+| 12    | Sở Giao dịch Kho bạc Nhà nước;                                    | kbnn-sgdkbnn                                                                                        |
+
+| V.2   | Các đơn vị sự nghiệp trực thuộc Kho bạc Nhà nước                  |                                                                                                     |
+
+| 1     | Trường Nghiệp vụ Kho bạc;                                         | kbnn-tnvkb                                                                                          |
+
+| 2     | Tạp chí Quản lý Ngân quỹ Quốc gia.                                | kbnn-tcqlnqqg                                                                                       |
+
+| V.3   | Các Kho bạc địa phương                                            |                                                                                                     |
+
+| 1     | KBNN Nam Định                                                     | kbnn-nd                                                                                             |
+
+| 2     | KBNN Kon Tum                                                      | kbnn-kt                                                                                             |
+
+| 3     | KBNN An Giang                                                     | kbnn-ag                                                                                             |
+
+| 4     | KBNN Bà Rịa - Vũng Tàu                                            | kbnn-brt                                                                                            |
+
+| 5     | KBNN Bạc Liêu                                                     | kbnn-bl                                                                                             |
+
+| 6     | KBNN Bắc Kạn                                                      | kbnn-bc                                                                                             |
+
+| 7     | KBNN Bắc Giang                                                    | kbnn-bg                                                                                             |
+
+| 8     | KBNN Bắc Ninh                                                     | kbnn-bn                                                                                             |
+
+| 9     | KBNN Bến Tre                                                      | kbnn-bt01                                                                                           |
+
+| 10    | KBNN Bình Dương                                                   | kbnn-bd01                                                                                           |
+
+| 11    | KBNN Bình Định                                                    | kbnn-bd                                                                                             |
+
+| 12    | KBNN Bình Phước                                                   | kbnn-bp                                                                                             |
+
+| 13    | KBNN Bình Thuận                                                   | kbnn-bt                                                                                             |
+
+| 14    | KBNN Cà Mau                                                       | kbnn-cm                                                                                             |
+
+| 15    | KBNN Cao Bằng                                                     | kbnn-cb                                                                                             |
+
+| 16    | KBNN Cần Thơ                                                      | kbnn-ct                                                                                             |
+
+| 17    | KBNN Đà Nẵng                                                      | kbnn-dn01                                                                                           |
+
+| 18    | KBNN Đắc Nông                                                     | kbnn-dn02                                                                                           |
+
+| 19    | KBNN ĐăcLăc                                                       | kbnn-dl                                                                                             |
+
+| 20    | KBNN Điện Biên                                                    | kbnn-db                                                                                             |
+
+| 21    | KBNN Đồng Nai                                                     | kbnn-dn                                                                                             |
+
+| 22    | KBNN Đồng Tháp                                                    | kbnn-dt                                                                                             |
+
+| 23    | KBNN Gia Lai                                                      | kbnn-gl                                                                                             |
+
+| 24    | KBNN Hà Giang                                                     | kbnn-hg01                                                                                           |
+
+| 25    | KBNN Hà Nam                                                       | kbnn-hn01                                                                                           |
+
+| 26    | KBNN Hà Nội                                                       | kbnn-hn                                                                                             |
+
+| 27    | KBNN Hà Tĩnh                                                      | kbnn-ht                                                                                             |
+
+| 28    | KBNN Hải Dương                                                    | kbnn-hd                                                                                             |
+
+| 29    | KBNN Hải Phòng                                                    | kbnn-hp                                                                                             |
+
+| 30    | KBNN Hải Giang                                                    | kbnn-hg                                                                                             |
+
+| 32    | KBNN Hòa Bình                                                     | kbnn-hb                                                                                             |
+
+| 33    | KBNN Hưng Yên                                                     | kbnn-hy                                                                                             |
+
+| 34    | KBNN Kiên Giang                                                   | kbnn-kg                                                                                             |
+
+| 35    | KBNN Khánh Hòa                                                    | kbnn-kh                                                                                             |
+
+| 36    | KBNN Lai Châu                                                     | kbnn-lc01                                                                                           |
+
+| 37    | KBNN Lạng Sơn                                                     | kbnn-ls                                                                                             |
+
+| 38    | KBNN Lào Cai                                                      | kbnn-lc                                                                                             |
+
+| 39    | KBNN Lâm Đồng                                                     | kbnn-ld                                                                                             |
+
+| 40    | KBNN Long An                                                      | kbnn-la                                                                                             |
+
+| 41    | KBNN Ninh Bình                                                    | kbnn-nb                                                                                             |
+
+| 42    | KBNN Ninh Thuận                                                   | kbnn-nt                                                                                             |
+
+| 43    | KBNN Nghệ An                                                      | kbnn-na                                                                                             |
+
+| 44    | KBNN Phú Thọ                                                      | kbnn-pt                                                                                             |
+
+| 45    | KBNN Phú Yên                                                      | kbnn-py                                                                                             |
+
+| 46    | KBNN Quảng Bình                                                   | kbnn-qb                                                                                             |
+
+| 47    | KBNN Quảng Nam                                                    | kbnn-qn01                                                                                           |
+
+| 48    | KBNN Quảng Ninh                                                   | kbnn-qn02                                                                                           |
+
+| 49    | KBNN Quảng Ngãi                                                   | kbnn-qn                                                                                             |
+
+| 50    | KBNN Quảng Trị                                                    | kbnn-qt                                                                                             |
+
+| 51    | KBNN Sóc Trăng                                                    | kbnn-st                                                                                             |
+
+| 52    | KBNN Sơn La                                                       | kbnn-sl                                                                                             |
+
+| 53    | KBNN Tây Ninh                                                     | kbnn-tn01                                                                                           |
+
+| 54    | KBNN Tiền Giang                                                   | kbnn-tg                                                                                             |
+
+| 55    | KBNN TP.Hồ Chí Minh                                               | kbnn-tph                                                                                            |
+
+| 56    | KBNN Tuyên Quang                                                  | kbnn-tq                                                                                             |
+
+| 57    | KBNN Thái Bình                                                    | kbnn-tb                                                                                             |
+
+| 58    | KBNN Thái Nguyên                                                  | kbnn-tn                                                                                             |
+
+| 59    | KBNN Thanh Hóa                                                    | kbnn-th                                                                                             |
+
+| 60    | KBNN Thừa Thiên-Huế                                               | kbnn-tt                                                                                             |
+
+| 61    | KBNN Trà Vinh                                                     | kbnn-tv                                                                                             |
+
+| 62    | KBNN Vĩnh Long                                                    | kbnn-vl                                                                                             |
+
+| 63    | KBNN Vĩnh Phúc                                                    | kbnn-vp                                                                                             |
+
+| 64    | KBNN Yên Bái                                                      | kbnn-yb                                                                                             |
+
+| VI    | Ủy ban Chứng khoán Nhà nước                                       |                                                                                                     |
+
+| VI.1  | Các Vụ, Cục trực thuộc Ủy ban Chứng khoán Nhà nước                |                                                                                                     |
+
+| 1     | Vụ Tổ chức cán bộ                                                 | Đặt tên tài khoản theo tên của cán bộ được giao thực hiện nhiệm vụ về công tác thi đua, khen thưởng |
+
+| 2     | Vụ Pháp chế                                                       | ubcknn -vpc                                                                                         |
+
+| 3     | Vụ Phát triển thị trường chứng khoán                              | ubcknn -vptttck                                                                                     |
+
+| 4     | Vụ Quản lý chào bán chứng khoán                                   | ubcknn -vqlcbck                                                                                     |
+
+| 5     | Vụ Giám sát công ty đại chúng                                     | ubcknn -vgsctdc                                                                                     |
+
+| 6     | Vụ Quản lý kinh doanh chứng khoán                                 | ubcknn -vqlkdck                                                                                     |
+
+| 7     | Vụ Quản lý các công ty quản lý quỹ và Quỹ đầu tư CK               | ubcknn -vqlcctqlq                                                                                   |
+
+| 8     | Vụ Giám sát thị trường chứng khoán                                | ubcknn -vgsttck                                                                                     |
+
+| 9     | Vụ Hợp tác quốc tế                                                | ubcknn -vhtqt                                                                                       |
+
+| 10    | Vụ Tài vụ - quản trị                                              | ubcknn -vtvqt                                                                                       |
+
+| 11    | Văn phòng                                                         | ubcknn -vp                                                                                          |
+
+| 12    | Thanh tra                                                         | ubcknn-tt                                                                                           |
+
+| 13    | Cục Công nghệ thông tin                                           | ubcknn-cntt                                                                                         |
+
+| VI.2  | Các đơn vị sự nghiệp trực thuộc Ủy ban Chứng khoán Nhà nước       |                                                                                                     |
+
+| 1     | Trung tâm Nghiên cứu khoa học và Đào tạo chứng khoán              | ubcknn-ttnckhvdtck                                                                                  |
+
+| 2     | Tạp chí Chứng khoán                                               | ubcknn-tcck                                                                                         |
+
+STT
+
+Đơn vị
+
+Tên viết tắt của đơn vị dùng để cấp tài khoản theo Quy định tại Điều 6 của Quy chế
+
+I
+
+Bộ Tài chính
+
+1.1
+
+Các đơn vị thuộc cơ quan Bộ Tài chính
+
+1
+
+Vụ Thi đua - Khen thưởng
+
+Đặt tên tài khoản theo tên của cán bộ trong Vụ
+
+2
+
+Vụ Ngân sách nhà nước
+
+btc-nsnn
+
+3
+
+Thanh tra Bộ
+
+btc-ttb
+
+4
+
+Văn phòng Bộ
+
+btc-vpb
+
+5
+
+Cục Quản lý công sản
+
+btc-qlcs
+
+6
+
+Cục Quản lý nợ và Tài chính đối ngoại
+
+btc-tcđn
+
+7
+
+Cục Quản lý và Giám sát bảo hiểm
+
+btc-qlgsbh
+
+8
+
+Cục Quản lý, giám sát kế toán, kiểm toán
+
+btc-qlkt
+
+9
+
+Cục Quản lý giá
+
+btc-qlg
+
+10
+
+Cục Tin học và Thống kê tài chính
+
+btc-thtk
+
+11
+
+Cục Tài chính doanh nghiệp
+
+btc-tcdn
+
+12
+
+Vụ Đầu tư
+
+btc-đt
+
+13
+
+Cục Kế hoạch - Tài chính
+
+btc-khtc
+
+14
+
+Vụ Tài chính quốc phòng, an ninh, đặc biệt (Vụ I)
+
+btc-vu1
+
+15
+
+Vụ Tài chính hành chính sự nghiệp
+
+btc-hcsn
+
+16
+
+Vụ Chính sách thuế
+
+btc-cst
+
+17
+
+Vụ Tài chính các ngân hàng và tổ chức tài chính
+
+btc-tcnh
+
+18
+
+Vụ Hợp tác quốc tế
+
+btc-htqt
+
+19
+
+Vụ Pháp chế
+
+btc-pc
+
+20
+
+Vụ Tổ chức cán bộ
+
+btc-tccb
+
+21
+
+Văn phòng Đảng ủy
+
+btc-vpdu
+
+22
+
+Văn phòng Đoàn thanh niên
+
+btc-vpdtn
+
+23
+
+Văn phòng Công đoàn
+
+btc-vpcd
+
+24
+
+Ban quản lý dự án ODA
+
+btc-bqloda
+
+I.2
+
+Các đơn vị sự nghiệp, doanh nghiệp thuộc Bộ Tài chính
+
+1
+
+Trường Bồi dưỡng cán bộ Tài chính
+
+btc-tbdcbtc
+
+2
+
+Viện Chiến lược và Chính sách tài chính
+
+vclcstc
+
+3
+
+Thời báo Tài chính Việt Nam
+
+tbtcvn
+
+4
+
+Tạp chí Tài chính
+
+tctc
+
+5
+
+Nhà xuất bản Tài chính
+
+nxbtc
+
+6
+
+Công ty Mua bán nợ và tài sản tồn đọng của doanh nghiệp
+
+mbnvn
+
+7
+
+Công ty Xổ số điện toán Việt Nam
+
+xsdtvn
+
+8
+
+Sở giao dịch chứng khoán Hà Nội
+
+sgdckhn
+
+9
+
+Sở giao dịch chứng khoán Hồ Chí Minh
+
+sgdckhcm
+
+10
+
+Trung tâm lưu ký chứng khoán Việt Nam
+
+ttlkck
+
+11
+
+Tập đoàn Bảo Việt
+
+tdbv
+
+12
+
+Công ty TNHH Quản lý Quỹ Bảo Việt
+
+tdbv-ctqlqbv
+
+13
+
+Công ty TNHH đầu tư Bảo Việt
+
+tdbv-ctdtbv
+
+14
+
+Tổng công ty bảo hiểm Bảo Việt
+
+tdbv-tctbhbv
+
+15
+
+Tổng công ty Bảo Việt Nhân Thọ
+
+tdbv-tctbhnt
+
+16
+
+Công ty cổ phần chứng khoán Bảo Việt
+
+tdbv-ctcpckbv
+
+17
+
+Ngân hàng Bảo Việt
+
+tdbv-nhbv
+
+I.3
+
+Các đơn vị đang thuộc tuyến thi đua khen thưởng của Bộ Tài chính
+
+1
+
+Tổng công ty cổ phần Bảo Minh
+
+tctcpbm
+
+2
+
+Tổng công ty cổ phần tái bảo hiểm Quốc gia Việt Nam (VINARE)
+
+vinare
+
+3
+
+Công ty CP Định giá và dịch vụ tài chính Việt Nam (VVFC)
+
+vvfc
+
+4
+
+Công ty CP Thông tin và Thẩm định giá Miền nam (SIVC)
+
+sivc
+
+5
+
+Công ty TNHH kiểm toán AASC
+
+aasc
+
+6
+
+Công ty TNHH Kiểm toán và tư vấn A&C
+
+kttv
+
+7
+
+Công ty TNHH Deloitte Việt Nam
+
+deloittevn
+
+8
+
+Hiệp hội Bảo hiểm Việt Nam
+
+hhbh
+
+9
+
+Hội Kế toán và Kiểm toán Việt Nam
+
+hktvkt
+
+10
+
+Hội Kiểm toán viên hành nghề - VACPA
+
+hktln
+
+11
+
+Hội Thẩm định giá Việt Nam - VVA
+
+htdg
+
+12
+
+Hội Tư vấn thuế Việt Nam - VTCA
+
+htvtvn
+
+I.4
+
+Các trường
+
+1
+
+Trường Đại học Tài chính - Kế toán
+
+dhtckt
+
+2
+
+Trường Đại học Tài chính - Marketing
+
+dhtc-marketing
+
+2
+
+Trường Đại học Tài chính - Quản trị kinh doanh
+
+dhtcqtkd
+
+4
+
+Học viện Tài chính
+
+hvtc
+
+II
+
+Tổng cục Thuế
+
+II.1
+
+Các Vụ, Cục trực thuộc Tổng cục Thuế
+
+1
+
+Vụ Tổ chức cán bộ
+
+Đặt tên tài khoản theo tên của cán bộ được giao thực hiện nhiệm vụ về công tác thi đua, khen thưởng
+
+2
+
+Vụ Chính sách
+
+tct-vcs
+
+3
+
+Vụ Pháp chế
+
+tct-vpc
+
+4
+
+Vụ Dự toán thu thuế
+
+tct-vdttt
+
+5
+
+Vụ Kê khai và Kế toán thuế
+
+tct-vkkvktt
+
+6
+
+Vụ Quản lý nợ và Cưỡng chế nợ thuế
+
+tct-vqln
+
+8
+
+Vụ Quản lý thuế doanh nghiệp lớn
+
+tct-vqltdnl
+
+9
+
+Vụ Tuyên truyền - Hỗ trợ người nộp thuế
+
+tct-vttht
+
+10
+
+Vụ Hợp tác quốc tế
+
+tct-vhtqt
+
+11
+
+Vụ Kiểm tra nội bộ
+
+tct-vktnb
+
+12
+
+Vụ Tài vụ - Quản trị
+
+tct-vtvqt
+
+13
+
+Văn phòng
+
+tct-vp
+
+14
+
+Đại diện Văn phòng tại thành phố Hồ Chí Minh
+
+tct-ddtctttphcm
+
+15
+
+Vụ Thanh tra - Kiểm tra thuế
+
+tct-ttt
+
+16
+
+Cục Công nghệ thông tin
+
+tct-cntt
+
+17
+
+Vụ Quản lý thuế Doanh nghiệp nhỏ và vừa và Hộ kinh doanh, cá nhân
+
+tct-vqlt
+
+II.2
+
+Các đơn vị sự nghiệp trực thuộc Tổng cục Thuế
+
+1
+
+Trường Nghiệp vụ thuế
+
+tct-tnvt
+
+2
+
+Tạp chí Thuế
+
+tct-tct
+
+II.3
+
+Các Cục thuế địa phương (63 Cục)
+
+1
+
+Cục Thuế Tỉnh An Giang
+
+tct-ag
+
+2
+
+Cục Thuế Tỉnh Bà Rịa - Vũng Tàu
+
+tct-br-vt
+
+3
+
+Cục Thuế Tỉnh Bạc Liêu
+
+tct-bl
+
+4
+
+Cục Thuế Tỉnh Bắc Cạn
+
+tct-bc
+
+5
+
+Cục Thuế Tỉnh Bắc Giang
+
+tct-bg
+
+6
+
+Cục Thuế Tỉnh Bắc Ninh
+
+tct-bn
+
+7
+
+Cục Thuế Tỉnh Bến Tre
+
+tct-bt01
+
+8
+
+Cục Thuế Tỉnh Bình Dương
+
+tct-bd01
+
+9
+
+Cục Thuế Tỉnh Bình Định
+
+tct-bd
+
+10
+
+Cục Thuế Tỉnh Bình Phước
+
+tct-bp
+
+11
+
+Cục Thuế Tỉnh Bình Thuận
+
+tct-bt
+
+12
+
+Cục Thuế Tỉnh Cà Mau
+
+tct-cm
+
+13
+
+Cục Thuế Tỉnh Cao Bằng
+
+tct-cb
+
+14
+
+Cục thuế tỉnh Đắc Nông
+
+tct-dn01
+
+15
+
+Cục Thuế Tỉnh Đắk Lắk
+
+tct-dl
+
+16
+
+Cục Thuế Tỉnh Điện Biên
+
+tct-db
+
+17
+
+Cục Thuế Tỉnh Đồng Nai
+
+tct-dn
+
+18
+
+Cục Thuế Tỉnh Đồng Tháp
+
+tct-dt
+
+19
+
+Cục Thuế Tỉnh Gia Lai
+
+tct-gl
+
+20
+
+Cục Thuế Tỉnh Hà Giang
+
+tct-hg01
+
+21
+
+Cục Thuế Tỉnh Hà Nam
+
+tct-hn
+
+22
+
+Cục Thuế Tỉnh Hà Tĩnh
+
+tct-ht
+
+23
+
+Cục Thuế Tỉnh Hải Dương
+
+tct-hd
+
+24
+
+Cục thuế tỉnh Hậu Giang
+
+tct-hg
+
+25
+
+Cục Thuế Tỉnh Hòa Bình
+
+tct-hb
+
+26
+
+Cục Thuế Tỉnh Hưng Yên
+
+tct-hy
+
+27
+
+Cục Thuế Tỉnh Kiên Giang
+
+tct-kg
+
+28
+
+Cục Thuế Tỉnh Kon Tum
+
+tct-kt
+
+29
+
+Cục Thuế Tỉnh Khánh Hoà
+
+tct-kh
+
+30
+
+Cục thuế tỉnh Lai châu
+
+tct-lc01
+
+31
+
+Cục Thuế Tỉnh Lạng Sơn
+
+tct-ls
+
+32
+
+Cục Thuế Tỉnh Lào Cai
+
+tct-lc
+
+33
+
+Cục Thuế Tỉnh Lâm Đồng
+
+tct-ld
+
+34
+
+Cục Thuế Tỉnh Long An
+
+tct-la
+
+35
+
+Cục Thuế Tỉnh Nam Định
+
+tct-nd
+
+36
+
+Cục Thuế Tỉnh Ninh Bình
+
+tct-nb
+
+37
+
+Cục Thuế Tỉnh Ninh Thuận
+
+tct-nt
+
+38
+
+Cục Thuế Tỉnh Nghệ An
+
+tct-na
+
+39
+
+Cục Thuế Tỉnh Phú Thọ
+
+tct-pt
+
+40
+
+Cục Thuế Tỉnh Phú Yên
+
+tct-py
+
+41
+
+Cục Thuế Tỉnh Quảng Bình
+
+tct-qb
+
+42
+
+Cục Thuế Tỉnh Quảng Nam
+
+tct-qn01
+
+43
+
+Cục Thuế Tỉnh Quảng Ninh
+
+tct-qn02
+
+44
+
+Cục Thuế Tỉnh Quảng Ngãi
+
+tct-qn
+
+45
+
+Cục Thuế Tỉnh Quảng Trị
+
+tct-qt
+
+46
+
+Cục Thuế Tỉnh Sóc Trăng
+
+tct-st
+
+47
+
+Cục Thuế Tỉnh Sơn La
+
+tct-sl
+
+48
+
+Cục Thuế Tỉnh Tây Ninh
+
+tct-tn01
+
+49
+
+Cục Thuế Tỉnh Tiền Giang
+
+tct-tg
+
+50
+
+Cục Thuế Tỉnh Tuyên Quang
+
+tct-tq
+
+51
+
+Cục Thuế Tỉnh Thái Bình
+
+tct-tb
+
+52
+
+Cục Thuế Tỉnh Thái Nguyên
+
+tct-tn
+
+53
+
+Cục Thuế Tỉnh Thanh Hóa
+
+tct-th
+
+54
+
+Cục Thuế Tỉnh Thừa Thiên - Huế
+
+tct-tt-h
+
+55
+
+Cục Thuế Tỉnh Trà Vinh
+
+tct-tv
+
+56
+
+Cục Thuế Tỉnh Vĩnh Long
+
+tct-vl
+
+57
+
+Cục Thuế Tỉnh Vĩnh Phúc
+
+tct-vp
+
+58
+
+Cục Thuế Tỉnh Yên Bái
+
+tct-yb
+
+59
+
+Cục Thuế TP Hà Nội
+
+tct-tphn
+
+60
+
+Cục Thuế TP Hải Phòng
+
+tct-tphp
+
+61
+
+Cục Thuế Thành Phố Cần Thơ
+
+tct-tpct
+
+62
+
+Cục Thuế Thành phố Đà Nẵng
+
+tct-tpdn
+
+63
+
+Cục Thuế Thành phố Hồ Chí Minh
+
+tct-tphcm
+
+III
+
+Tổng cục Hải quan
+
+III.1
+
+Các Vụ, Cục trực thuộc Tổng cục Hải quan
+
+1
+
+Vụ Tổ chức cán bộ
+
+Đặt tên tài khoản theo tên của cán bộ được giao thực hiện nhiệm vụ về công tác thi đua, khen thưởng
+
+2
+
+Vụ Pháp chế
+
+tchq-vpc
+
+3
+
+Vụ Hợp tác quốc tế
+
+tchq-vhtqt
+
+4
+
+Cục Tài vụ - Quản trị
+
+tchq-ctv-qt
+
+5
+
+Văn phòng
+
+tchq-vp
+
+6
+
+Văn phòng Đảng và đoàn thể
+
+tchq-vpd-dt
+
+7
+
+Vụ Thanh tra - Kiểm tra
+
+tchq-vtt-kt
+
+8
+
+Cục Giám sát quản lý về hải quan
+
+tchq-cgshlvhq
+
+9
+
+Cục Thuế xuất nhập khẩu
+
+tchq-ctxnk
+
+10
+
+Cục Điều tra chống buôn lậu
+
+tchq-cdtcbl
+
+11
+
+Cục Kiểm tra sau thông quan
+
+tchq-cdtstq
+
+12
+
+Cục Công nghệ thông tin và Thống kê hải quan
+
+tchq-cntt
+
+13
+
+Cục Kiểm định Hải quan
+
+tchq-ckdhq
+
+14
+
+Cục Quản lý rủi ro
+
+tchq-cqlrr
+
+15
+
+Ban cải cách hiện đại hóa hải quan
+
+tchq-bcchq
+
+III.2
+
+Các đơn vị sự nghiệp trực thuộc Tổng cục Hải quan
+
+1
+
+Viện nghiên cứu hải quan
+
+tchq-vnchq
+
+2
+
+Trường Hải quan Việt Nam
+
+tchq-thqvn
+
+3
+
+Báo Hải quan
+
+tchq-bhq
+
+III.3
+
+Các Cục Hải quan
+
+1
+
+Cục Hải quan tỉnh An Giang
+
+tchq-ag
+
+2
+
+Cục Hải quan tỉnh Bà Rịa - Vũng Tàu
+
+tchq-br-vt
+
+3
+
+Cục Hải quan tỉnh Bắc Ninh
+
+tchq-bn
+
+4
+
+Cục Hải quan tỉnh Bình Dương
+
+tchq-bn-tracuu
+
+5
+
+Cục Hải quan tỉnh Bình Định
+
+tchq-bd
+
+6
+
+Cục Hải quan tỉnh Bình Phước
+
+tchq-bp
+
+7
+
+Cục Hải quan tỉnh Cà Mau
+
+tchq-cm
+
+8
+
+Cục Hải quan tỉnh Cao Bằng
+
+tchq-cb
+
+9
+
+Cục Hải quan TP Cần Thơ
+
+tchq-ct
+
+10
+
+Cục Hải quan TP Đà Nẵng
+
+tchq-dn01
+
+11
+
+Cục Hải quan tỉnh Đăk Lăk
+
+tchq-dl
+
+12
+
+Cục Hải quan tỉnh Điện Biên
+
+tchq-db
+
+13
+
+Cục Hải quan tỉnh Đồng Nai
+
+tchq-dn
+
+14
+
+Cục Hải quan tỉnh Đồng Tháp
+
+tchq-dt
+
+15
+
+Cục Hải quan tỉnh Gia Lai - Kon Tum
+
+tchq-gl-kt
+
+16
+
+Cục Hải quan tỉnh Hà Giang
+
+tchq-hg
+
+17
+
+Cục Hải quan TP Hà Nội
+
+tchq-tphn
+
+18
+
+Cục Hải quan tỉnh Hà Tĩnh
+
+tchq-ht
+
+19
+
+Cục Hải quan Hà Nam Ninh
+
+tchq-hnn
+
+20
+
+Cục Hải quan Tp Hải Phòng
+
+tchq-hp
+
+21
+
+Cục Hải quan TP Hồ Chí Minh
+
+tchq-tph
+
+22
+
+Cục Hải quan tỉnh Kiên Giang
+
+tchq-kg
+
+23
+
+Cục Hải quan tỉnh Khánh Hòa
+
+tchq-kh
+
+24
+
+Cục Hải quan tỉnh Lạng Sơn
+
+tchq-ls
+
+25
+
+Cục Hải quan tỉnh Lào Cai
+
+tchq-lc
+
+26
+
+Cục Hải quan tỉnh Long An
+
+tchq-la
+
+27
+
+Cục Hải quan tỉnh Nghệ An
+
+tchq-na
+
+28
+
+Cục Hải quan tỉnh Quảng Bình
+
+tchq-qb
+
+29
+
+Cục Hải quan tỉnh Quảng Nam
+
+tchq-qn01
+
+30
+
+Cục Hải quan tỉnh Quảng Ninh
+
+tchq-qn02
+
+31
+
+Cục Hải quan tỉnh Quảng Ngãi
+
+tchq-qn
+
+32
+
+Cục Hải quan tỉnh Quảng Trị
+
+tchq-qt
+
+33
+
+Cục Hải quan tỉnh Tây Ninh
+
+tchq-tn
+
+34
+
+Cục Hải quan tỉnh Thanh Hóa
+
+tchq-th
+
+35
+
+Cục Hải quan tỉnh Thừa Thiên Huế
+
+tchq-tth
+
+IV
+
+Tổng cục Dự trữ Nhà nước
+
+IV.1
+
+Các Vụ, Cục trực thuộc Tổng cục Dự trữ Nhà nước
+
+1
+
+Vụ Tổ chức cán bộ
+
+Đặt tên tài khoản theo tên của cán bộ được giao thực hiện nhiệm vụ về công tác thi đua, khen thưởng
+
+2
+
+Vụ Chính sách và Pháp chế
+
+dtnn-vcsvpc
+
+3
+
+Vụ Kế hoạch
+
+dtnn-vkh
+
+4
+
+Vụ Khoa học và Công nghệ bảo quản
+
+dtnn-khvcnbq
+
+5
+
+Vụ Quản lý hàng dự trữ
+
+dtnn-vqlhdt
+
+6
+
+Vụ Tài vụ - Quản trị
+
+dtnn-vtv-qt
+
+7
+
+Văn phòng
+
+dtnn-vptc
+
+8
+
+Vụ Thanh tra
+
+dtnn-vtt
+
+9
+
+Cục Công nghệ thông tin
+
+dtnn-cntt
+
+IV.2
+
+Các đơn vị sự nghiệp trực thuộc Tổng cục Dự trữ Nhà nước
+
+1
+
+Trung tâm Bồi dưỡng nghiệp vụ dự trữ Nhà nước
+
+dtnn-ttbdnv
+
+IV.3
+
+Các Cục Dự trữ
+
+1
+
+Cục Dự trữ Nhà nước khu vực Hà Nội
+
+dtnn-hn
+
+2
+
+Cục Dự trữ Nhà nước khu vực Tây Bắc
+
+dtnn-tb01
+
+3
+
+Cục Dự trữ Nhà nước khu vực Hoàng Liên Sơn
+
+dtnn-hls
+
+4
+
+Cục Dự trữ Nhà nước khu vực Vĩnh Phú
+
+dtnn-vp
+
+5
+
+Cục Dự trữ Nhà nước khu vực Bắc Thái
+
+dtnn-bt
+
+6
+
+Cục Dự trữ Nhà nước khu vực Hà Bắc
+
+dtnn-hb
+
+7
+
+Cục Dự trữ Nhà nước khu vực Hải Hưng
+
+dtnn-hh
+
+8
+
+Cục Dự trữ Nhà nước khu vực Đông Bắc
+
+dtnn-db
+
+9
+
+Cục Dự trữ Nhà nước khu vực Thái Bình
+
+dtnn-tb
+
+10
+
+Cục Dự trữ Nhà nước khu vực Hà Nam Ninh
+
+dtnn-hnn
+
+11
+
+Cục Dự trữ Nhà nước khu vực Thanh Hóa
+
+dtnn-th
+
+12
+
+Cục Dự trữ Nhà nước khu vực Nghệ Tĩnh
+
+dtnn-nt
+
+13
+
+Cục Dự trữ Nhà nước khu vực Bình Trị Thiên
+
+dtnn-btt
+
+14
+
+Cục Dự trữ Nhà nước khu vực Đà Nẵng
+
+dtnn-dn
+
+15
+
+Cục Dự trữ Nhà nước khu vực Nghĩa Bình
+
+dtnn-nb
+
+16
+
+Cục Dự trữ Nhà nước khu vực Nam Trung Bộ
+
+dtnn-ntb
+
+17
+
+Cục Dự trữ Nhà nước khu vực Bắc Tây Nguyên
+
+dtnn-btn-nv02
+
+18
+
+Cục Dự trữ Nhà nước khu vực Nam Tây Nguyên
+
+dtnn-ntn
+
+19
+
+Cục Dự trữ Nhà nước khu vực Đông Nam Bộ
+
+dtnn-dnb
+
+20
+
+Cục Dự trữ Nhà nước khu vực thành phố Hồ Chí Minh
+
+dtnn-tphcm
+
+21
+
+Cục Dự trữ Nhà nước khu vực Cửu Long
+
+dtnn-cl
+
+22
+
+Cục Dự trữ Nhà nước khu vực Tây Nam Bộ
+
+dtnn-tnb
+
+V
+
+Kho bạc Nhà nước
+
+V.1
+
+Các Vụ, Cục trực thuộc Kho bạc Nhà nước
+
+1
+
+Vụ Tổ chức cán bộ;
+
+Đặt tên tài khoản theo tên của cán bộ được giao thực hiện nhiệm vụ về công tác thi đua, khen thưởng
+
+2
+
+Vụ Tổng hợp - Pháp chế;
+
+kbnn-vth-pc
+
+3
+
+Vụ Kiểm soát chi;
+
+kbnn-vksc
+
+4
+
+Vụ Kho quỹ;
+
+kbnn-vkq
+
+5
+
+Vụ Hợp tác quốc tế;
+
+kbnn-vhtqt
+
+6
+
+Vụ Thanh tra - Kiểm tra;
+
+kbnn-vttkt
+
+7
+
+Vụ Tài vụ - Quản trị;
+
+kbnn-vtv-qt
+
+8
+
+Văn phòng;
+
+kbnn-vp
+
+9
+
+Cục Kế toán nhà nước;
+
+kbnn-cktnn
+
+10
+
+Cục Quản lý ngân quỹ;
+
+kbnn-cqlnq
+
+11
+
+Cục Công nghệ thông tin;
+
+kbnn-cntt
+
+12
+
+Sở Giao dịch Kho bạc Nhà nước;
+
+kbnn-sgdkbnn
+
+V.2
+
+Các đơn vị sự nghiệp trực thuộc Kho bạc Nhà nước
+
+1
+
+Trường Nghiệp vụ Kho bạc;
+
+kbnn-tnvkb
+
+2
+
+Tạp chí Quản lý Ngân quỹ Quốc gia.
+
+kbnn-tcqlnqqg
+
+V.3
+
+Các Kho bạc địa phương
+
+1
+
+KBNN Nam Định
+
+kbnn-nd
+
+2
+
+KBNN Kon Tum
+
+kbnn-kt
+
+3
+
+KBNN An Giang
+
+kbnn-ag
+
+4
+
+KBNN Bà Rịa - Vũng Tàu
+
+kbnn-brt
+
+5
+
+KBNN Bạc Liêu
+
+kbnn-bl
+
+6
+
+KBNN Bắc Kạn
+
+kbnn-bc
+
+7
+
+KBNN Bắc Giang
+
+kbnn-bg
+
+8
+
+KBNN Bắc Ninh
+
+kbnn-bn
+
+9
+
+KBNN Bến Tre
+
+kbnn-bt01
+
+10
+
+KBNN Bình Dương
+
+kbnn-bd01
+
+11
+
+KBNN Bình Định
+
+kbnn-bd
+
+12
+
+KBNN Bình Phước
+
+kbnn-bp
+
+13
+
+KBNN Bình Thuận
+
+kbnn-bt
+
+14
+
+KBNN Cà Mau
+
+kbnn-cm
+
+15
+
+KBNN Cao Bằng
+
+kbnn-cb
+
+16
+
+KBNN Cần Thơ
+
+kbnn-ct
+
+17
+
+KBNN Đà Nẵng
+
+kbnn-dn01
+
+18
+
+KBNN Đắc Nông
+
+kbnn-dn02
+
+19
+
+KBNN ĐăcLăc
+
+kbnn-dl
+
+20
+
+KBNN Điện Biên
+
+kbnn-db
+
+21
+
+KBNN Đồng Nai
+
+kbnn-dn
+
+22
+
+KBNN Đồng Tháp
+
+kbnn-dt
+
+23
+
+KBNN Gia Lai
+
+kbnn-gl
+
+24
+
+KBNN Hà Giang
+
+kbnn-hg01
+
+25
+
+KBNN Hà Nam
+
+kbnn-hn01
+
+26
+
+KBNN Hà Nội
+
+kbnn-hn
+
+27
+
+KBNN Hà Tĩnh
+
+kbnn-ht
+
+28
+
+KBNN Hải Dương
+
+kbnn-hd
+
+29
+
+KBNN Hải Phòng
+
+kbnn-hp
+
+30
+
+KBNN Hải Giang
+
+kbnn-hg
+
+32
+
+KBNN Hòa Bình
+
+kbnn-hb
+
+33
+
+KBNN Hưng Yên
+
+kbnn-hy
+
+34
+
+KBNN Kiên Giang
+
+kbnn-kg
+
+35
+
+KBNN Khánh Hòa
+
+kbnn-kh
+
+36
+
+KBNN Lai Châu
+
+kbnn-lc01
+
+37
+
+KBNN Lạng Sơn
+
+kbnn-ls
+
+38
+
+KBNN Lào Cai
+
+kbnn-lc
+
+39
+
+KBNN Lâm Đồng
+
+kbnn-ld
+
+40
+
+KBNN Long An
+
+kbnn-la
+
+41
+
+KBNN Ninh Bình
+
+kbnn-nb
+
+42
+
+KBNN Ninh Thuận
+
+kbnn-nt
+
+43
+
+KBNN Nghệ An
+
+kbnn-na
+
+44
+
+KBNN Phú Thọ
+
+kbnn-pt
+
+45
+
+KBNN Phú Yên
+
+kbnn-py
+
+46
+
+KBNN Quảng Bình
+
+kbnn-qb
+
+47
+
+KBNN Quảng Nam
+
+kbnn-qn01
+
+48
+
+KBNN Quảng Ninh
+
+kbnn-qn02
+
+49
+
+KBNN Quảng Ngãi
+
+kbnn-qn
+
+50
+
+KBNN Quảng Trị
+
+kbnn-qt
+
+51
+
+KBNN Sóc Trăng
+
+kbnn-st
+
+52
+
+KBNN Sơn La
+
+kbnn-sl
+
+53
+
+KBNN Tây Ninh
+
+kbnn-tn01
+
+54
+
+KBNN Tiền Giang
+
+kbnn-tg
+
+55
+
+KBNN TP.Hồ Chí Minh
+
+kbnn-tph
+
+56
+
+KBNN Tuyên Quang
+
+kbnn-tq
+
+57
+
+KBNN Thái Bình
+
+kbnn-tb
+
+58
+
+KBNN Thái Nguyên
+
+kbnn-tn
+
+59
+
+KBNN Thanh Hóa
+
+kbnn-th
+
+60
+
+KBNN Thừa Thiên-Huế
+
+kbnn-tt
+
+61
+
+KBNN Trà Vinh
+
+kbnn-tv
+
+62
+
+KBNN Vĩnh Long
+
+kbnn-vl
+
+63
+
+KBNN Vĩnh Phúc
+
+kbnn-vp
+
+64
+
+KBNN Yên Bái
+
+kbnn-yb
+
+VI
+
+Ủy ban Chứng khoán Nhà nước
+
+VI.1
+
+Các Vụ, Cục trực thuộc Ủy ban Chứng khoán Nhà nước
+
+1
+
+Vụ Tổ chức cán bộ
+
+Đặt tên tài khoản theo tên của cán bộ được giao thực hiện nhiệm vụ về công tác thi đua, khen thưởng
+
+2
+
+Vụ Pháp chế
+
+ubcknn -vpc
+
+3
+
+Vụ Phát triển thị trường chứng khoán
+
+ubcknn -vptttck
+
+4
+
+Vụ Quản lý chào bán chứng khoán
+
+ubcknn -vqlcbck
+
+5
+
+Vụ Giám sát công ty đại chúng
+
+ubcknn -vgsctdc
+
+6
+
+Vụ Quản lý kinh doanh chứng khoán
+
+ubcknn -vqlkdck
+
+7
+
+Vụ Quản lý các công ty quản lý quỹ và Quỹ đầu tư CK
+
+ubcknn -vqlcctqlq
+
+8
+
+Vụ Giám sát thị trường chứng khoán
+
+ubcknn -vgsttck
+
+9
+
+Vụ Hợp tác quốc tế
+
+ubcknn -vhtqt
+
+10
+
+Vụ Tài vụ - quản trị
+
+ubcknn -vtvqt
+
+11
+
+Văn phòng
+
+ubcknn -vp
+
+12
+
+Thanh tra
+
+ubcknn-tt
+
+13
+
+Cục Công nghệ thông tin
+
+ubcknn-cntt
+
+VI.2
+
+Các đơn vị sự nghiệp trực thuộc Ủy ban Chứng khoán Nhà nước
+
+1
+
+Trung tâm Nghiên cứu khoa học và Đào tạo chứng khoán
+
+ubcknn-ttnckhvdtck
+
+2
+
+Tạp chí Chứng khoán
+
+ubcknn-tcck

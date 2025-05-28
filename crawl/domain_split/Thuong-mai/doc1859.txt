@@ -1,0 +1,2507 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 09/VBHN-BTC | Hà Nội, ngày 03 tháng 5 năm 2017                                |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 09/VBHN-BTC
+
+Hà Nội, ngày 03 tháng 5 năm 2017
+
+THÔNG TƯ 1
+
+HƯỚNG DẪN VỀ NIÊM YẾT CHỨNG KHOÁN TRÊN SỞ GIAO DỊCH CHỨNG KHOÁN
+
+Thông tư số 202/2015/TT-BTC ngày 18 tháng 12 năm 2015 của Bộ trưởng Bộ Tài chính hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán, có hiệu lực kể từ ngày 01 tháng 3 năm 2015 được sửa đổi, bổ sung bởi:
+
+Thông tư số 29/2017/TT-BTC ngày 12 tháng 4 năm 2017 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 202/2015/TT-BTC ngày 18 tháng 12 năm 2015 hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán, có hiệu lực kể từ ngày 01 tháng 6 năm 2017.
+
+Căn cứ Luật Chứng khoán ngày 29 tháng 6 năm 2006;
+
+Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán ngày 24 tháng 11 năm 2010;
+
+Căn cứ Luật Doanh nghiệp ngày 26 tháng 11 năm 2014;
+
+Căn cứ Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán;
+
+Căn cứ Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán;
+
+Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Chủ tịch Ủy ban Chứng khoán Nhà nước;
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán.2
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+1. Thông tư này hướng dẫn điều kiện, hồ sơ, thủ tục niêm yết, thay đổi niêm yết, hủy niêm yết, niêm yết lại chứng khoán trên Sở giao dịch chứng khoán.
+
+2. Thông tư này áp dụng đối với các đối tượng sau:
+
+a) Tổ chức phát hành;
+
+b) Công ty đại chúng;
+
+c) Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam;
+
+d) Cơ quan, tổ chức, cá nhân khác có liên quan.
+
+Điều 2. Giải thích từ ngữ
+
+Ngoài các thuật ngữ đã được giải thích trong Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán (sau đây gọi là Nghị định số 58/2012/NĐ-CP) và Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 58/2012/NĐ-CP (sau đây gọi là Nghị định số 60/2015/NĐ-CP), trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Hợp nhất doanh nghiệp là trường hợp hai hoặc một số công ty (sau đây gọi là công ty bị hợp nhất) hợp nhất thành một công ty mới (sau đây gọi là công ty hợp nhất), đồng thời chấm dứt sự tồn tại của các công ty bị hợp nhất theo quy định tại Điều 194 Luật doanh nghiệp ngày 26 tháng 11 năm 2014.
+
+2. Sáp nhập doanh nghiệp là trường hợp một hoặc một số công ty (sau đây gọi là công ty bị sáp nhập) sáp nhập vào một công ty khác (sau đây gọi là công ty nhận sáp nhập) bằng cách chuyển toàn bộ tài sản, quyền, nghĩa vụ và lợi ích hợp pháp sang công ty nhận sáp nhập, đồng thời chấm dứt sự tồn tại của công ty bị sáp nhập theo quy định tại Điều 195 Luật doanh nghiệp ngày 26 tháng 11 năm 2014.
+
+3. Tổ chức thẩm định giá độc lập là tổ chức kiểm toán được chấp thuận theo quy định tại khoản 4, khoản 5 Điều này hoặc công ty chứng khoán có chức năng thẩm định giá hoặc tổ chức thẩm định giá theo quy định pháp luật liên quan và không phải là người có liên quan với tổ chức được thẩm định giá.
+
+4. Tổ chức kiểm toán được Bộ Tài chính chấp thuận là tổ chức kiểm toán được Bộ Tài chính chấp thuận thực hiện kiểm toán, soát xét báo cáo tài chính, các thông tin tài chính và các báo cáo khác của các đơn vị có lợi ích công chúng theo quy định pháp luật về kiểm toán độc lập đối với đơn vị có lợi ích công chúng.
+
+5. Tổ chức kiểm toán được Ủy ban Chứng khoán Nhà nước chấp thuận là tổ chức kiểm toán được Ủy ban Chứng khoán Nhà nước chấp thuận thực hiện kiểm toán, soát xét báo cáo tài chính, các thông tin tài chính và các báo cáo khác của các đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán theo quy định pháp luật về kiểm toán độc lập đối với đơn vị có lợi ích công chúng.
+
+6. Công ty trong diện hủy niêm yết bắt buộc là tổ chức niêm yết mà Sở giao dịch chứng khoán đã có thông báo về khả năng bị hủy niêm yết hoặc đã ban hành quyết định hủy niêm yết theo quy định tại các khoản 2, 3 Điều 10 Thông tư này.
+
+7. Hệ thống giao dịch Upcom là hệ thống giao dịch cho chứng khoán chưa niêm yết do Sở giao dịch chứng khoán Hà Nội tổ chức.
+
+8. Cụm từ “công ty”, “doanh nghiệp” và “tổ chức” được sử dụng với nghĩa như nhau trong Thông tư này.
+
+Chương II
+
+NIÊM YẾT CHỨNG KHOÁN TẠI SỞ GIAO DỊCH CHỨNG KHOÁN
+
+Điều 3. Quy định chung về niêm yết chứng khoán trên Sở giao dịch chứng khoán
+
+1. Điều kiện niêm yết chứng khoán thực hiện theo quy định tại Nghị định số 58/2012/NĐ-CP và Nghị định số 60/2015/NĐ-CP , cụ thể như sau:
+
+a) Điều kiện niêm yết chứng khoán tại Sở giao dịch chứng khoán Thành phố Hồ Chí Minh thực hiện theo quy định tại Điều 53 Nghị định số 58/2012/NĐ-CP đã được sửa đổi tại khoản 15 Điều 1 Nghị định số 60/2015/NĐ-CP;
+
+b) Điều kiện niêm yết chứng khoán tại Sở giao dịch chứng khoán Hà Nội thực hiện theo quy định tại Điều 54 Nghị định số 58/2012/NĐ-CP.
+
+2. Hồ sơ đăng ký niêm yết chứng khoán tại Sở giao dịch chứng khoán được thực hiện theo quy định tại Điều 57 Nghị định số 58/2012/NĐ-CP và khoản 18 Điều 1 Nghị định số 60/2015/NĐ-CP, trong đó:
+
+a) Giấy đăng ký niêm yết cổ phiếu, trái phiếu, chứng chỉ quỹ đầu tư đại chúng, cổ phiếu công ty đầu tư chứng khoán đại chúng theo mẫu quy định tại các Phụ lục số 01 (a), 01 (b), 01 (c), 01 (d) ban hành kèm theo Thông tư này;
+
+b) Bản cáo bạch theo mẫu quy định tại các Phụ lục số 02, 03, 04 ban hành kèm theo Thông tư này.
+
+3. Các thông tin, số liệu trong hồ sơ, bản cáo bạch phải căn cứ vào báo cáo tài chính được kiểm toán, cụ thể như sau:
+
+a) Báo cáo tài chính, báo cáo kiểm toán đối với khoản mục vốn chủ sở hữu, vốn điều lệ đã góp của tổ chức đăng ký niêm yết (thay đổi đăng ký niêm yết) phải được kiểm toán bởi tổ chức kiểm toán được Ủy ban Chứng khoán Nhà nước chấp thuận. Đối với các tổ chức liên quan khác tham gia hợp nhất, sáp nhập, hoán đổi, báo cáo tài chính phải được kiểm toán theo quy định pháp luật về kiểm toán độc lập;
+
+b)3 Ý kiến kiểm toán đối với khoản mục vốn chủ sở hữu, vốn điều lệ đã góp phải là ý kiến chấp nhận toàn phần. Trường hợp ý kiến kiểm toán đối với báo cáo tài chính là chấp nhận có ngoại trừ, thì yếu tố ngoại trừ không phải là khoản mục vốn chủ sở hữu (trừ trường hợp ý kiến ngoại trừ về việc chưa bàn giao vốn nhà nước tại doanh nghiệp nhà nước cổ phần hóa) và khoản mục trọng yếu khác ảnh hưởng đến điều kiện niêm yết như: tiền mặt, hàng tồn kho, tài sản cố định, các khoản phải thu, nợ phải trả.
+
+c) Tùy thuộc vào thời điểm nộp hồ sơ niêm yết, thay đổi niêm yết, công ty hợp nhất, công ty nhận sáp nhập sau quá trình sáp nhập hoặc công ty niêm yết sau hoán đổi được lựa chọn báo cáo tài chính được lập và đã được kiểm toán tại thời điểm gần nhất, nhưng không quá sáu (06) tháng tính đến thời điểm nộp hồ sơ, bao gồm báo cáo tài chính lập ngay sau thời điểm hợp nhất, sáp nhập, hoán đổi; hoặc báo cáo tài chính quý, hoặc báo cáo tài chính bán niên, hoặc báo cáo tài chính năm lập sau thời điểm hợp nhất, sáp nhập, hoán đổi.
+
+4. Tỷ lệ lợi nhuận sau thuế trên vốn chủ sở hữu (ROE) được tính bằng tỷ lệ giữa lợi nhuận sau thuế so với vốn chủ sở hữu bình quân trong năm của doanh nghiệp, trong đó:
+
+a)4 Trường hợp tổ chức đăng ký niêm yết là công ty mẹ, tỷ lệ ROE được xác định trên cơ sở báo cáo tài chính hợp nhất, trong đó lợi nhuận sau thuế và vốn chủ sở hữu được xác định sau khi đã loại trừ lợi ích của cổ đông không kiểm soát. Trường hợp trong năm có hoạt động chuyển đổi loại hình doanh nghiệp, lợi nhuận sau thuế là tổng lợi nhuận sau thuế của các giai đoạn trong năm liền trước năm đăng ký niêm yết được xác định tại báo cáo tài chính kiểm toán trong từng giai đoạn hoạt động;
+
+b) Vốn chủ sở hữu bình quân là bình quân vốn chủ sở hữu đầu kỳ và cuối kỳ trên cơ sở báo cáo tài chính đã được kiểm toán. Trường hợp trong năm có hoạt động chuyển đổi loại hình doanh nghiệp, chỉ tiêu vốn chủ sở hữu được tính bình quân vốn chủ sở hữu đầu kỳ, vốn chủ sở hữu cuối kỳ của các giai đoạn hoạt động.
+
+5. Đối với hoạt động hợp nhất, sáp nhập, hoán đổi cổ phần:
+
+a) Tỷ lệ hoán đổi và phương pháp xác định tỷ lệ hoán đổi giữa các công ty tham gia hợp nhất, sáp nhập, hoán đổi phải được tổ chức thẩm định giá độc lập xác nhận. Trường hợp còn có ý kiến khác nhau giữa tỷ lệ hoán đổi dự kiến thực hiện và tỷ lệ hoán đổi hợp lý do tổ chức thẩm định giá độc lập xác định, thì Hội đồng quản trị phải có văn bản giải trình, báo cáo Đại hội đồng cổ đông xem xét, quyết định;
+
+b) Công ty trong diện hủy niêm yết bắt buộc theo quy định tại các điểm h, k, l, m khoản 1 Điều 60 Nghị định số 58/2012/NĐ-CP tham gia vào quá trình hợp nhất, sáp nhập doanh nghiệp hoặc phát hành cổ phiếu để hoán đổi thì công ty hình thành sau khi hợp nhất, sáp nhập hoặc hoán đổi được đăng ký niêm yết, thay đổi đăng ký niêm yết khi đáp ứng đầy đủ các điều kiện niêm yết chứng khoán tại Sở giao dịch chứng khoán Thành phố Hồ Chí Minh theo quy định tại Điều 53 Nghị định số 58/2012/NĐ-CP và khoản 15 Điều 1 Nghị định số 60/2015/NĐ-CP; hoặc điều kiện niêm yết chứng khoán tại Sở giao dịch chứng khoán Hà Nội theo quy định tại Điều 54 Nghị định số 58/2012/NĐ-CP.
+
+Điều 4. Điều kiện niêm yết chứng khoán của công ty hợp nhất trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh
+
+1. Trường hợp các công ty bị hợp nhất đang niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh thì công ty hợp nhất được đăng ký niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh khi đáp ứng các điều kiện quy định tại các điểm a, c, d, đ, e khoản 1 Điều 53 Nghị định số 58/2012/NĐ-CP và có ROE dương.
+
+2.5 Trường hợp công ty đang niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh hợp nhất với công ty chưa niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh (bao gồm cả công ty niêm yết trên Sở giao dịch chứng khoán Hà Nội), công ty hợp nhất được đăng ký niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh khi đáp ứng các điều kiện quy định tại các điểm a, c, d, đ, e khoản 1 Điều 53 Nghị định số 58/2012/NĐ-CP và có ROE đạt tối thiểu 5%.
+
+3. Trường hợp hợp nhất theo quy định tại các khoản 1, 2 Điều này mà công ty hợp nhất đáp ứng điều kiện niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh nhưng không muốn niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh hoặc không đáp ứng điều kiện niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh nhưng đáp ứng điều kiện niêm yết trên Sở giao dịch chứng khoán Hà Nội thì công ty hợp nhất được đăng ký niêm yết trên Sở giao dịch chứng khoán Hà Nội. Trường hợp công ty hợp nhất là công ty đại chúng, không niêm yết tại cả hai Sở giao dịch chứng khoán, thì phải đăng ký giao dịch trên hệ thống giao dịch Upcom.
+
+4.6 Trường hợp các công ty bị hợp nhất đều chưa niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh, công ty hợp nhất được đăng ký niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh khi đáp ứng đầy đủ các điều kiện quy định tại khoản 1 Điều 53 Nghị định số 58/2012/NĐ-CP.
+
+5. Trường hợp hợp nhất theo quy định tại các khoản 1, 2, 4 Điều này mà trong đó có doanh nghiệp có vốn nhà nước tham gia hợp nhất, và sau hợp nhất, phần vốn của nhà nước chiếm từ 80% trở lên vốn điều lệ tại công ty hợp nhất, thì điều kiện niêm yết thực hiện theo các quy định liên quan tại các khoản 1, 2, 4 Điều này, ngoại trừ điều kiện về cơ cấu cổ đông quy định tại điểm d khoản 1 Điều 53 Nghị định số 58/2012/NĐ-CP.
+
+6. Việc niêm yết trái phiếu của công ty hợp nhất thực hiện theo quy định tại khoản 2 Điều 53 Nghị định số 58/2012/NĐ-CP; việc niêm yết chứng chỉ quỹ của quỹ đại chúng sau khi nhận hợp nhất quỹ thực hiện theo quy định tại khoản 3 Điều 53 Nghị định số 58/2012/NĐ-CP đã được sửa đổi tại khoản 15 Điều 1 Nghị định số 60/2015/NĐ-CP.
+
+Điều 5. Điều kiện niêm yết chứng khoán của công ty nhận sáp nhập trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh
+
+1. Trường hợp công ty nhận sáp nhập và công ty bị sáp nhập đều đang niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh thì sau khi sáp nhập, công ty nhận sáp nhập được làm thủ tục thay đổi đăng ký niêm yết khi:
+
+a) Trước khi sáp nhập, công ty nhận sáp nhập và công ty bị sáp nhập đều có ROE dương; hoặc
+
+b) Sau khi sáp nhập, công ty nhận sáp nhập có ROE dương hoặc có ROE lớn hơn ROE của công ty đó trong năm liền trước năm thực hiện sáp nhập;
+
+c) Trường hợp không đáp ứng các điều kiện quy định tại điểm a hoặc điểm b khoản này thì số cổ phiếu phát hành thêm chỉ được đăng ký niêm yết bổ sung trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh sau một (01) năm kể từ thời điểm công ty nhận sáp nhập được cấp giấy chứng nhận đăng ký doanh nghiệp mới.
+
+2.7 Trường hợp công ty nhận sáp nhập là công ty niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh, các công ty bị sáp nhập có ít nhất một công ty chưa niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh (bao gồm cả công ty niêm yết trên Sở giao dịch chứng khoán Hà Nội), sau khi sáp nhập, công ty nhận sáp nhập được thay đổi đăng ký niêm yết khi:
+
+a) Trước khi sáp nhập, công ty nhận sáp nhập và công ty bị sáp nhập đang niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh có ROE dương, các công ty bị sáp nhập chưa niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh đáp ứng quy định tại điểm b khoản 1 Điều 53 Nghị định số 58/2012/NĐ-CP, ngoại trừ điều kiện hoạt động dưới hình thức công ty cổ phần; hoặc
+
+b) Sau khi sáp nhập, công ty nhận sáp nhập có ROE đạt từ 5% trở lên, hoặc có ROE dương và lớn hơn ROE của công ty đó trong năm liền trước năm thực hiện sáp nhập;
+
+c) Trường hợp không đáp ứng điều kiện quy định tại điểm a hoặc điểm b khoản này, đồng thời phần vốn phát hành thêm để hoán đổi làm phát sinh tăng không quá 50% vốn điều lệ thực góp (trước khi phát hành) thì số cổ phiếu phát hành thêm chỉ được đăng ký niêm yết bổ sung trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh sau một (01) năm kể từ thời điểm công ty nhận sáp nhập được cấp giấy chứng nhận đăng ký doanh nghiệp mới.
+
+3. Trường hợp sáp nhập doanh nghiệp theo quy định tại khoản 2 Điều này mà sau khi sáp nhập, công ty nhận sáp nhập không đáp ứng các điều kiện quy định tại các điểm a, b khoản 2 Điều này, đồng thời phần vốn phát hành thêm để hoán đổi làm phát sinh tăng trên 50% vốn điều lệ thực góp (trước khi phát hành) thì trong vòng sáu (06) tháng, kể từ ngày được cấp giấy chứng nhận đăng ký doanh nghiệp mới, công ty nhận sáp nhập bị hủy niêm yết bắt buộc trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh và được đăng ký niêm yết trên Sở giao dịch chứng khoán Hà Nội nếu đáp ứng các điều kiện niêm yết trên Sở giao dịch chứng khoán Hà Nội theo quy định tại khoản 4 Điều 7 Thông tư này hoặc đăng ký giao dịch trên hệ thống giao dịch Upcom nếu không thực hiện niêm yết tại cả hai Sở giao dịch chứng khoán.
+
+4. Trường hợp công ty nhận sáp nhập là công ty chưa niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh, thì sau khi sáp nhập, công ty nhận sáp nhập phải đáp ứng đầy đủ các điều kiện quy định tại khoản 1 Điều 53 Nghị định số 58/2012/NĐ-CP trong đó điều kiện phải có tối thiểu hai (02) năm hoạt động dưới hình thức công ty cổ phần tính từ thời điểm thành lập công ty nhận sáp nhập.
+
+5. Trường hợp sáp nhập theo quy định tại các khoản 1, 2, 4 Điều này mà trong đó có doanh nghiệp có vốn nhà nước tham gia sáp nhập, và sau sáp nhập, phần vốn của nhà nước chiếm từ 80% trở lên vốn điều lệ tại công ty nhận sáp nhập, thì điều kiện niêm yết thực hiện theo các quy định liên quan tại các điểm khoản 1, 2, 4 Điều này, ngoại trừ điều kiện về cơ cấu cổ đông quy định tại điểm d khoản 1 Điều 53 Nghị định số 58/2012/NĐ-CP.
+
+6. Việc niêm yết trái phiếu của công ty nhận sáp nhập thực hiện theo quy định tại khoản 2 Điều 53 Nghị định số 58/2012/NĐ-CP; việc niêm yết chứng chỉ quỹ của quỹ đại chúng sau khi nhận sáp nhập quỹ thực hiện theo quy định tại khoản 3 Điều 53 Nghị định số 58/2012/NĐ-CP đã được sửa đổi tại khoản 15 Điều 1 Nghị định số 60/2015/NĐ-CP.
+
+Điều 6. Điều kiện niêm yết chứng khoán của công ty hợp nhất trên Sở giao dịch chứng khoán Hà Nội
+
+1. Trường hợp các công ty bị hợp nhất đều đang niêm yết (trên Sở giao dịch chứng khoán Hà Nội hoặc Sở giao dịch chứng khoán Thành phố Hồ Chí Minh) thì công ty hợp nhất phải đáp ứng các điều kiện quy định tại các điểm a, c, d, đ khoản 1 Điều 54 Nghị định số 58/2012/NĐ-CP và có ROE dương.
+
+2.8 Trường hợp công ty đang niêm yết trên Sở giao dịch chứng khoán Hà Nội hoặc Sở giao dịch chứng khoán Thành phố Hồ Chí Minh hợp nhất với công ty chưa niêm yết thì công ty hợp nhất được đăng ký niêm yết trên Sở giao dịch chứng khoán Hà Nội khi đáp ứng các điều kiện quy định tại các điểm a, c, d, đ, e khoản 1 Điều 54 Nghị định số 58/2012/NĐ-CP và có ROE đạt tối thiểu 5%.
+
+3. Công ty hợp nhất theo quy định tại các khoản 1, 2 Điều này là công ty đại chúng không đáp ứng điều kiện niêm yết, thì phải thực hiện đăng ký giao dịch trên hệ thống giao dịch Upcom.
+
+4.9 Trường hợp các công ty bị hợp nhất đều chưa niêm yết trên cả hai Sở giao dịch chứng khoán, công ty hợp nhất được đăng ký niêm yết trên Sở giao dịch chứng khoán Hà Nội khi đáp ứng đầy đủ các điều kiện quy định tại khoản 1 Điều 54 Nghị định số 58/2012/NĐ-CP.
+
+5. Trường hợp hợp nhất theo quy định tại các khoản 1, 2, 4 Điều này mà trong đó có doanh nghiệp có vốn nhà nước tham gia hợp nhất, và sau hợp nhất, phần vốn của nhà nước chiếm từ 85% trở lên vốn điều lệ tại công ty hợp nhất, thì điều kiện niêm yết thực hiện theo các quy định liên quan tại các khoản 1, 2, 4 Điều này, ngoại trừ điều kiện về cơ cấu cổ đông quy định tại điểm c khoản 1 Điều 54 Nghị định số 58/2012/NĐ-CP.
+
+6. Việc niêm yết trái phiếu của công ty hợp nhất thực hiện theo quy định tại khoản 2 Điều 54 Nghị định số 58/2012/NĐ-CP.
+
+Điều 7. Điều kiện niêm yết chứng khoán của công ty nhận sáp nhập trên Sở giao dịch chứng khoán Hà Nội
+
+1. Trường hợp công ty nhận sáp nhập là công ty niêm yết trên Sở giao dịch chứng khoán Hà Nội, công ty bị sáp nhập là công ty niêm yết (trên Sở giao dịch chứng khoán Hà Nội hoặc Thành phố Hồ Chí Minh), thì sau khi sáp nhập, công ty nhận sáp nhập được làm thủ tục thay đổi đăng ký niêm yết khi:
+
+a) Trước khi sáp nhập, công ty nhận sáp nhập và công ty bị sáp nhập đều có ROE dương; hoặc
+
+b) Sau khi sáp nhập, công ty nhận sáp nhập có ROE dương hoặc có ROE lớn hơn ROE của công ty đó trong năm liền trước năm thực hiện sáp nhập;
+
+c) Trường hợp không đáp ứng các điều kiện quy định tại điểm a hoặc điểm b khoản này, thì số cổ phiếu phát hành thêm chỉ được niêm yết bổ sung trên Sở giao dịch chứng khoán Hà Nội sau một (01) năm kể từ thời điểm công ty nhận sáp nhập được cấp giấy chứng nhận đăng ký doanh nghiệp mới.
+
+2.10 Trường hợp công ty nhận sáp nhập là công ty niêm yết trên Sở giao dịch chứng khoán Hà Nội, các công ty bị sáp nhập có ít nhất một công ty là công ty chưa niêm yết, sau khi sáp nhập, công ty nhận sáp nhập được thay đổi đăng ký niêm yết khi:
+
+a) Trước khi sáp nhập, công ty nhận sáp nhập và công ty bị sáp nhập đang niêm yết trên Sở giao dịch chứng khoán Hà Nội hoặc Sở giao dịch chứng khoán thành phố Hồ Chí Minh có ROE dương, các công ty bị sáp nhập là công ty chưa niêm yết đáp ứng quy định tại điểm b khoản 1 Điều 54 Nghị định số 58/2012/NĐ-CP, ngoại trừ điều kiện hoạt động dưới hình thức công ty cổ phần; hoặc
+
+b) Sau khi sáp nhập, công ty nhận sáp nhập có ROE đạt từ 05% trở lên; hoặc có ROE dương và lớn hơn ROE của công ty đó trong năm liền trước năm thực hiện sáp nhập;
+
+c) Trường hợp không đáp ứng điều kiện quy định tại điểm a hoặc b khoản này, đồng thời phần vốn phát hành thêm để hoán đổi làm phát sinh tăng không quá 50% vốn điều lệ thực góp (trước khi phát hành) thì số cổ phiếu phát hành thêm chỉ được niêm yết bổ sung sau một (01) năm kể từ thời điểm công ty nhận sáp nhập được cấp giấy chứng nhận đăng ký doanh nghiệp mới.
+
+3. Trường hợp sáp nhập doanh nghiệp theo quy định tại khoản 2 Điều này mà sau khi sáp nhập, công ty nhận sáp nhập không đáp ứng các điều kiện quy định tại các điểm a, b khoản 2 Điều này, đồng thời phần vốn phát hành thêm để hoán đổi làm phát sinh tăng trên 50% vốn điều lệ thực góp (trước khi phát hành) thì trong vòng sáu (06) tháng, kể từ ngày được cấp giấy chứng nhận đăng ký doanh nghiệp mới, Sở giao dịch chứng khoán Hà Nội phối hợp với Trung tâm lưu ký chứng khoán Việt Nam làm thủ tục hủy niêm yết bắt buộc và đăng ký giao dịch cho công ty nhận sáp nhập trên hệ thống giao dịch Upcom.
+
+4. Trường hợp công ty nhận sáp nhập là công ty chưa niêm yết hoặc đang niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh, thì sau khi sáp nhập, công ty nhận sáp nhập phải đáp ứng đầy đủ các điều kiện quy định tại khoản 1 Điều 54 Nghị định số 58/2012/NĐ-CP, trong đó có điều kiện phải có tối thiểu một (01) năm hoạt động dưới hình thức công ty cổ phần tính từ thời điểm thành lập công ty nhận sáp nhập.
+
+5. Trường hợp sáp nhập theo quy định tại các khoản 1, 2, 4 Điều này mà trong đó có doanh nghiệp có vốn nhà nước tham gia sáp nhập, và sau sáp nhập, phần vốn của nhà nước chiếm từ 85% trở lên vốn điều lệ tại công ty nhận sáp nhập, thì điều kiện niêm yết thực hiện theo các quy định liên quan tại các khoản 1, 2, 4 Điều này, ngoại trừ điều kiện về cơ cấu cổ đông quy định tại điểm c khoản 1 Điều 54 Nghị định số 58/2012/NĐ-CP.
+
+6. Việc niêm yết trái phiếu của công ty nhận sáp nhập sau khi sáp nhập doanh nghiệp thực hiện theo quy định tại khoản 2 Điều 54 Nghị định số 58/2012/NĐ-CP.
+
+Điều 8. Điều kiện niêm yết trên Sở giao dịch chứng khoán của công ty niêm yết thực hiện phát hành cổ phiếu để hoán đổi lấy cổ phiếu, phần vốn góp tại doanh nghiệp khác hoặc khoản nợ của tổ chức phát hành đối với chủ nợ
+
+1. Công ty niêm yết được đăng ký niêm yết bổ sung số cổ phiếu phát hành để hoán đổi khi có ROE sau khi hoán đổi đạt tối thiểu là 05%.
+
+2. Trường hợp công ty niêm yết không đáp ứng quy định tại khoản 1 Điều này:
+
+a) Nếu phần vốn phát hành thêm để hoán đổi làm phát sinh tăng không quá 50% vốn điều lệ thực góp (trước khi phát hành) thì số cổ phiếu phát hành thêm chỉ được niêm yết bổ sung sau một (01) năm kể từ thời điểm hoàn tất việc hoán đổi;
+
+b) Nếu phần vốn phát hành thêm để hoán đổi làm phát sinh tăng trên 50% vốn điều lệ thực góp (trước khi phát hành), công ty niêm yết sau hoán đổi sẽ bị hủy niêm yết bắt buộc và được các Sở giao dịch chứng khoán phối hợp với Trung tâm lưu ký chứng khoán Việt Nam làm thủ tục đăng ký giao dịch trên hệ thống giao dịch Upcom.
+
+Điều 9. Trình tự, thủ tục, hồ sơ đăng ký niêm yết tại Sở giao dịch chứng khoán
+
+1. Hồ sơ đăng ký niêm yết cổ phiếu lần đầu:
+
+a) Giấy đăng ký niêm yết cổ phiếu theo mẫu quy định tại Phụ lục số 01 (a) ban hành kèm theo Thông tư này;
+
+b) Các tài liệu theo quy định tại các điểm b, đ, e, g, h, i, k khoản 2 Điều 57 Nghị định số 58/2012/NĐ-CP đã được sửa đổi tại khoản 18 Điều 1 Nghị định số 60/2015/NĐ-CP;
+
+c) Sổ đăng ký cổ đông được lập trong vòng một (01) tháng trước thời điểm nộp hồ sơ đăng ký niêm yết; kèm theo danh sách cổ đông lớn, người nội bộ, cổ đông chiến lược, người được ủy quyền công bố thông tin và nhóm người có liên quan của người nội bộ, người được ủy quyền công bố thông tin (số lượng, tỷ lệ nắm giữ, thời gian bị hạn chế chuyển nhượng (nếu có)).
+
+Trường hợp tổ chức phát hành là công ty đại chúng đã đăng ký chứng khoán tại Trung tâm lưu ký chứng khoán Việt Nam thì bổ sung bản sao Công văn thông báo cho Trung tâm lưu ký chứng khoán Việt Nam về việc đăng ký ngày chốt danh sách cổ đông để lập sổ đăng ký cổ đông.
+
+d) Bản cáo bạch theo mẫu quy định tại Phụ lục số 02 ban hành kèm theo Thông tư này.
+
+2. Trước khi tham gia hợp nhất, công ty niêm yết thực hiện việc hủy niêm yết theo quy chế của Sở giao dịch chứng khoán. Sau khi hợp nhất, công ty hợp nhất đáp ứng điều kiện niêm yết theo quy định liên quan tại Điều 4, Điều 6 Thông tư này được đăng ký niêm yết trên Sở giao dịch chứng khoán. Hồ sơ đăng ký niêm yết cổ phiếu của công ty hợp nhất bao gồm:
+
+a) Trường hợp công ty hợp nhất đáp ứng điều kiện niêm yết theo quy định tại các khoản 1, 2 Điều 4, khoản 1, 2 Điều 6 Thông tư này:
+
+- Các tài liệu theo quy định tại khoản 1 Điều này;
+
+- Biên bản họp, nghị quyết đại hội đồng cổ đông thông qua phương án hợp nhất kèm theo bản sao hợp lệ hợp đồng hợp nhất theo quy định pháp luật; ý kiến của tổ chức thẩm định giá độc lập về tỷ lệ hoán đổi, văn bản giải trình và cam kết của Hội đồng quản trị về việc đã trình Đại hội đồng cổ đông biểu quyết về các ý kiến khác nhau (nếu có) giữa tỷ lệ hoán đổi thực hiện và tỷ lệ hoán đổi do tổ chức thẩm định giá độc lập xác định;
+
+- Văn bản chấp thuận của cơ quan nhà nước có thẩm quyền về việc hợp nhất doanh nghiệp (trường hợp phải có sự chấp thuận của cơ quan nhà nước có thẩm quyền).
+
+b) Trong vòng sáu (06) tháng, kể từ ngày được cấp giấy chứng nhận đăng ký doanh nghiệp, công ty hợp nhất đáp ứng điều kiện niêm yết tại các khoản 1, 2 Điều 4 và các khoản 1, 2 Điều 6 Thông tư này phải hoàn tất thủ tục đăng ký niêm yết trên Sở giao dịch chứng khoán. Quá thời hạn trên mà công ty không hoàn tất thủ tục đăng ký niêm yết thì trong vòng sáu (06) tháng tiếp theo, công ty phải hoàn tất thủ tục đăng ký giao dịch trên hệ thống giao dịch Upcom.
+
+c)11 Trường hợp công ty hợp nhất đáp ứng các điều kiện quy định tại khoản 4 Điều 4, khoản 4 Điều 6 Thông tư này, hồ sơ đăng ký niêm yết theo quy định tại khoản 1 Điều này.
+
+d)12 (được bãi bỏ)
+
+3. Hồ sơ thay đổi đăng ký niêm yết cổ phiếu của công ty nhận sáp nhập
+
+a) Trong vòng một (01) tháng, kể từ ngày được cấp giấy chứng nhận đăng ký doanh nghiệp mới, công ty nhận sáp nhập đáp ứng quy định tại điểm a khoản 1 Điều 5, điểm a khoản 1 Điều 7 Thông tư này phải nộp hồ sơ thay đổi đăng ký niêm yết. Hồ sơ bao gồm:
+
+- Giấy đề nghị thay đổi đăng ký niêm yết theo mẫu quy định tại Phụ lục số 05 ban hành kèm theo Thông tư này;
+
+- Bản sao Giấy chứng nhận đăng ký chào bán chứng khoán hoặc các văn bản khác do Ủy ban Chứng khoán Nhà nước cấp trong trường hợp phát hành thêm cổ phiếu;
+
+- Biên bản họp, nghị quyết đại hội đồng cổ đông thông qua phương án sáp nhập kèm theo bản sao hợp lệ hợp đồng sáp nhập theo quy định pháp luật; ý kiến của tổ chức thẩm định giá độc lập về tỷ lệ hoán đổi, văn bản giải trình và cam kết của Hội đồng quản trị về việc đã trình Đại hội đồng cổ đông biểu quyết về các ý kiến khác nhau (nếu có) giữa tỷ lệ hoán đổi thực hiện và tỷ lệ hoán đổi do tổ chức thẩm định giá độc lập xác định;
+
+- Văn bản chấp thuận của cơ quan nhà nước có thẩm quyền về việc sáp nhập doanh nghiệp (trường hợp phải có sự chấp thuận của cơ quan nhà nước có thẩm quyền).
+
+- Báo cáo tài chính năm được kiểm toán trước năm thực hiện sáp nhập của công ty nhận sáp nhập, công ty bị sáp nhập;
+
+- Báo cáo kiểm toán vốn điều lệ đã góp lập sau thời điểm sáp nhập.
+
+b) Trong vòng sáu (06) tháng, kể từ ngày được cấp giấy chứng nhận đăng ký doanh nghiệp mới, công ty nhận sáp nhập đáp ứng quy định tại điểm b các khoản 1, 2 Điều 5, điểm b các khoản 1, 2 Điều 7 Thông tư này phải nộp hồ sơ thay đổi đăng ký niêm yết. Hồ sơ bao gồm:
+
+- Hồ sơ thay đổi đăng ký niêm yết theo quy định tại điểm a khoản này ngoại trừ báo cáo tài chính năm hoặc bán niên được kiểm toán tại thời điểm liền trước với thời điểm thực hiện sáp nhập của công ty nhận sáp nhập, công ty bị sáp nhập và báo cáo đối với khoản mục vốn chủ sở hữu đã được kiểm toán;
+
+- Báo cáo tài chính được kiểm toán lập ngay sau thời điểm sáp nhập hoặc báo cáo tài chính quý, hoặc báo cáo tài chính bán niên, hoặc báo cáo tài chính năm lập sau thời điểm sáp nhập của công ty nhận sáp nhập.
+
+- Trường hợp xem xét ROE sau khi sáp nhập của công ty nhận sáp nhập với ROE của công ty đó trong năm liền trước năm thực hiện sáp nhập, hồ sơ thay đổi đăng ký niêm yết bổ sung thêm báo cáo tài chính được kiểm toán năm liền trước năm thực hiện sáp nhập của công ty nhận sáp nhập.
+
+c)13 Trong vòng một (01) tháng, kể từ ngày được cấp giấy chứng nhận đăng ký doanh nghiệp mới, công ty nhận sáp nhập đáp ứng các điều kiện niêm yết theo quy định tại điểm a khoản 2 Điều 5, điểm a khoản 2 Điều 7 Thông tư này phải nộp hồ sơ thay đổi đăng ký niêm yết. Hồ sơ bao gồm:
+
+- Hồ sơ thay đổi đăng ký niêm yết theo quy định tại điểm a khoản này;
+
+- Các báo cáo tài chính năm đã kiểm toán của hai (02) năm liền trước năm thực hiện sáp nhập (đối với trường hợp thay đổi đăng ký niêm yết tại Sở giao dịch chứng khoán Thành phố Hồ Chí Minh) hoặc một (01) năm liền trước năm thực hiện sáp nhập (đối với trường hợp thay đổi đăng ký niêm yết tại Sở giao dịch chứng khoán Hà Nội) của công ty bị sáp nhập chưa niêm yết;
+
+- Bản sao giấy chứng nhận đăng ký doanh nghiệp của công ty bị sáp nhập chưa niêm yết.
+
+d) Sau một (01) năm kể từ ngày được cấp giấy chứng nhận đăng ký doanh nghiệp mới và trong vòng một (01) tháng tiếp theo, công ty nhận sáp nhập đáp ứng quy định tại điểm c các khoản 1, 2 Điều 5, điểm c các khoản 1, 2 Điều 7 Thông tư này phải nộp hồ sơ thay đổi đăng ký niêm yết bao gồm:
+
+- Hồ sơ thay đổi đăng ký niêm yết theo quy định tại điểm a khoản này ngoại trừ báo cáo tài chính được kiểm toán năm liền trước năm thực hiện sáp nhập của công ty nhận sáp nhập, công ty bị sáp nhập.
+
+đ) Sau khi sáp nhập, công ty nhận sáp nhập đáp ứng quy định tại khoản 4 Điều 5, khoản 4 Điều 7 Thông tư này nộp hồ sơ đăng ký niêm yết theo quy định tại khoản 1 Điều này.
+
+4. Trong vòng sáu (06) tháng, kể từ ngày hoàn tất việc hoán đổi, công ty niêm yết thực hiện hoán đổi cổ phiếu đáp ứng quy định tại khoản 1 Điều 8 Thông tư này phải nộp hồ sơ thay đổi đăng ký niêm yết để niêm yết bổ sung số cổ phiếu phát hành để hoán đổi. Hồ sơ bao gồm:
+
+a) Hồ sơ thay đổi đăng ký niêm yết theo quy định tại khoản 2 Điều 59 Nghị định số 58/2012/NĐ-CP đã được sửa đổi tại khoản 19 Điều 1 Nghị định số 60/2015/NĐ-CP;
+
+b) Ý kiến của tổ chức thẩm định giá độc lập về tỷ lệ hoán đổi, văn bản giải trình và cam kết của Hội đồng quản trị về việc đã trình Đại hội đồng cổ đông biểu quyết về các ý kiến khác nhau (nếu có) giữa tỷ lệ hoán đổi thực hiện và tỷ lệ hoán đổi do tổ chức thẩm định giá độc lập xác định;
+
+c) Báo cáo tài chính được kiểm toán lập ngay sau thời điểm phát hành cổ phiếu để hoán đổi hoặc báo cáo tài chính bán niên, hoặc báo cáo tài chính năm lập sau thời điểm hoán đổi.
+
+5. Sau một năm kể từ ngày hoàn tất việc hoán đổi và trong vòng một (01) tháng tiếp theo, công ty niêm yết thực hiện hoán đổi cổ phiếu đáp ứng quy định tại điểm a khoản 2 Điều 8 phải nộp hồ sơ thay đổi đăng ký niêm yết theo quy định tại điểm d khoản 3 Điều này để niêm yết bổ sung số cổ phiếu đã phát hành để hoán đổi.
+
+6. Trong vòng ba mươi (30) ngày kể từ ngày hoàn thành đợt chào bán, bao gồm chào bán ra công chúng, hoặc chào bán riêng lẻ (trừ chào bán cổ phiếu để hoán đổi trong hoạt động sáp nhập theo quy định tại các Điều 5, Điều 7 và hoán đổi cổ phiếu, phần vốn góp hoặc các khoản nợ theo quy định tại Điều 8 Thông tư này), công ty đại chúng phải làm thủ tục thay đổi đăng ký niêm yết để niêm yết bổ sung số cổ phiếu đã chào bán. Hồ sơ thay đổi đăng ký niêm yết thực hiện theo quy định tại khoản 2 Điều 59 Nghị định số 58/2012/NĐ-CP đã được sửa đổi tại khoản 19 Điều 1 Nghị định số 60/2015/NĐ-CP. Trình tự, thủ tục thực hiện theo quy định tại Quy chế niêm yết của Sở giao dịch chứng khoán.
+
+7. Hồ sơ đăng ký niêm yết trái phiếu bao gồm:
+
+a) Hồ sơ đăng ký niêm yết trái phiếu theo quy định tại các điểm b, c, đ, e, g, h, i Khoản 3 Điều 57 Nghị định số 58/2012/NĐ-CP;
+
+b) Giấy đăng ký niêm yết theo mẫu quy định tại Phụ lục số 01 (b) ban hành kèm theo Thông tư này;
+
+c) Bản cáo bạch theo mẫu quy định tại Phụ lục số 02 ban hành kèm theo Thông tư này.
+
+8. Hồ sơ đăng ký niêm yết chứng chỉ quỹ đại chúng và cổ phiếu của công ty đầu tư chứng khoán đại chúng, bao gồm:
+
+a) Hồ sơ đăng ký niêm yết chứng chỉ quỹ đại chúng và cổ phiếu của công ty đầu tư chứng khoán đại chúng theo quy định tại các điểm b, c, đ, e, g, h khoản 4 Điều 57 Nghị định số 58/2012/NĐ-CP đã được sửa đổi tại khoản 18 Điều 1 Nghị định số 60/2015/NĐ-CP;
+
+b) Giấy đăng ký niêm yết theo mẫu quy định tại Phụ lục số 01 (c) và Phụ lục số 01 (d) ban hành kèm theo Thông tư này;
+
+c) Bản cáo bạch theo mẫu quy định tại Phụ lục số 03 và Phụ lục số 04 ban hành kèm theo Thông tư này.
+
+9. Hồ sơ đăng ký niêm yết, thay đổi đăng ký niêm yết quy định tại Điều này được lập thành một (01) bộ bản gốc kèm theo một (01) bản dữ liệu điện tử, nộp trực tiếp hoặc qua đường bưu điện cho Sở giao dịch chứng khoán.
+
+10. Trừ trường hợp thay đổi đăng ký niêm yết theo quy định tại khoản 6 Điều này, đối với các trường hợp đăng ký niêm yết, thay đổi đăng ký niêm yết khác, trong thời hạn ba mươi (30) ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở giao dịch chứng khoán có trách nhiệm chấp thuận hoặc từ chối. Trường hợp từ chối, Sở giao dịch chứng khoán phải trả lời bằng văn bản và nêu rõ lý do.
+
+11. Tổ chức được chấp thuận niêm yết phải đưa chứng khoán vào giao dịch trong vòng chín mươi (90) ngày, kể từ ngày được Sở giao dịch chứng khoán chấp thuận. Sau thời hạn này, quyết định chấp thuận của Sở giao dịch chứng khoán mặc nhiên hết hiệu lực.
+
+12. Doanh nghiệp nhà nước chuyển đổi thành công ty cổ phần dưới hình thức chào bán cổ phiếu ra công chúng đáp ứng điều kiện niêm yết quy định tại khoản 1 Điều 53 hoặc khoản 1 Điều 54 Nghị định số 58/2010/NĐ-CP thì phải:
+
+a) Hoàn tất nghĩa vụ báo cáo, công bố thông tin về kết quả đợt chào bán, đăng ký chứng khoán và đăng ký giao dịch trên hệ thống giao dịch Upcom theo quy định pháp luật chứng khoán về đăng ký giao dịch trên hệ thống giao dịch cho chứng khoán chưa niêm yết;
+
+b) Trong thời gian đăng ký giao dịch trên hệ thống giao dịch Upcom, doanh nghiệp được đồng thời nộp hồ sơ đăng ký niêm yết theo quy định tại khoản 1 Điều này.
+
+Điều 10. Hủy niêm yết bắt buộc
+
+1. Các trường hợp hủy niêm yết bắt buộc thực hiện theo quy định tại khoản 1 Điều 60 Nghị định số 58/2012/NĐ-CP đã được sửa đổi tại khoản 20 Điều 1 Nghị định số 60/2015/NĐ-CP và không đáp ứng điều kiện niêm yết do hợp nhất, sáp nhập, hoán đổi theo quy định tại các Điều 4, 5, 6, 7, 8 Thông tư này.
+
+2. Sở giao dịch chứng khoán có trách nhiệm thông báo cho tổ chức niêm yết và thực hiện việc công bố thông tin khi phát hiện chứng khoán niêm yết có khả năng bị hủy niêm yết theo quy định tại các điểm a, b, d, đ, h, k, l, m khoản 1 Điều 60 Nghị định số 58/2012/NĐ-CP và yêu cầu tổ chức niêm yết, công ty quản lý quỹ báo cáo giải trình cụ thể (nếu thấy cần thiết).
+
+3.14 Trường hợp buộc phải hủy niêm yết, Sở giao dịch chứng khoán ban hành quyết định hủy niêm yết và công bố thông tin ra thị trường. Chứng khoán thuộc diện hủy niêm yết được tiếp tục giao dịch trong thời hạn tối đa ba mươi (30) ngày kể từ ngày ra Quyết định hủy niêm yết, trừ trường hợp hủy niêm yết để đăng ký giao dịch trên hệ thống giao dịch Upcom do không còn đáp ứng điều kiện niêm yết theo quy định tại các Điều 3, 4, 5, 6, 7, 8 Thông tư này và trường hợp hủy niêm yết theo quy định tại điểm e khoản 1 Điều 60 Nghị định số 58/2012/NĐ-CP đã được sửa đổi tại khoản 20 Điều 1 Nghị định số 60/2015/NĐ-CP và điểm c, điểm g khoản 1 Điều 60 Nghị định số 58/2012/NĐ-CP .
+
+Điều 11. Hủy niêm yết tự nguyện
+
+1. Các điều kiện hủy niêm yết tự nguyện thực hiện theo quy định tại điểm a khoản 2 Điều 60 Nghị định số 58/2012/NĐ-CP đã được sửa đổi tại khoản 20 Điều 1 Nghị định số 60/2015/NĐ-CP; trong đó tỷ lệ biểu quyết của các cổ đông không phải là cổ đông lớn được tính toán trên cơ sở số phiếu biểu quyết của các cổ đông không phải là cổ đông lớn của công ty trong danh sách cổ đông có quyền dự họp Đại hội đồng cổ đông hoặc danh sách cổ đông được gửi phiếu biểu quyết dưới hình thức lấy ý kiến cổ đông bằng văn bản.
+
+2. Tổ chức đăng ký hủy niêm yết theo khoản 1 Điều này phải nộp một (01) bộ hồ sơ đề nghị hủy niêm yết theo quy định tại điểm b khoản 2 Điều 60 Nghị định số 58/2012/NĐ-CP trực tiếp hoặc qua đường bưu điện cho Sở giao dịch chứng khoán kèm theo phương án giải quyết quyền lợi cho cổ đông sau khi hủy niêm yết đã được Đại hội đồng cổ đông thông qua.
+
+3. Trong vòng mười lăm (15) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ bao gồm báo cáo đã hoàn tất phương án giải quyết quyền lợi cho cổ đông, Sở giao dịch chứng khoán ban hành quyết định chấp thuận hủy niêm yết chứng khoán. Trường hợp từ chối, Sở giao dịch chứng khoán có văn bản giải thích rõ lý do.
+
+Điều 11a. Chuyển niêm yết cổ phiếu 15
+
+Tổ chức niêm yết thực hiện chuyển niêm yết cổ phiếu từ Sở giao dịch chứng khoán Hà Nội sang Sở giao dịch chứng khoán Thành phố Hồ Chí Minh hoặc ngược lại phải được Đại hội đồng cổ đông biểu quyết thông qua theo quy định của pháp luật doanh nghiệp và phải đáp ứng điều kiện niêm yết tại Sở giao dịch chứng khoán dự kiến chuyển sang niêm yết.
+
+Điều 12. Đăng ký niêm yết lại
+
+1. Tổ chức có chứng khoán bị hủy niêm yết theo quy định tại Điều 10, Điều 11 Thông tư này chỉ được đăng ký niêm yết lại sau 12 tháng kể từ ngày bị hủy niêm yết nếu đáp ứng các điều kiện quy định tại Điều 53 Nghị định số 58/2012/NĐ-CP đã được sửa đổi tại khoản 15 Điều 1 Nghị định số 60/2015/NĐ-CP hoặc Điều 54 Nghị định số 58/2012/NĐ-CP trừ trường hợp hủy niêm yết tại Sở giao dịch chứng khoán Hà Nội do đã được chấp thuận niêm yết tại Sở giao dịch chứng khoán Thành phố Hồ Chí Minh hoặc ngược lại.
+
+2. Hồ sơ và thủ tục đăng ký niêm yết lại thực hiện theo quy định tại khoản 1 Điều 9 Thông tư này.
+
+Chương III
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 13. Điều khoản thi hành16
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 3 năm 2016 thay thế cho Thông tư số 73/2013/TT-BTC ngày 29 tháng 5 năm 2013 của Bộ trưởng Bộ Tài chính hướng dẫn chi tiết một số điều về niêm yết chứng khoán tại Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán.
+
+2. Trên cơ sở quy định tại Thông tư này, Sở giao dịch chứng khoán ban hành các quy chế hoạt động nghiệp vụ sau khi được sự chấp thuận của Ủy ban Chứng khoán Nhà nước.
+
+Điều 14. Tổ chức thực hiện
+
+Các Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam và các cơ quan, tổ chức, cá nhân liên quan có trách nhiệm thực hiện Thông tư này./.
+
+|  | XÁC THỰC VĂN BẢN HỢP NHẤT KT. BỘ TRƯỞNG THỨ TRƯỞNG Trần Xuân Hà |
+
+|--|-----------------------------------------------------------------|
+
+XÁC THỰC VĂN BẢN HỢP NHẤT
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Trần Xuân Hà
+
+PHỤ LỤC SỐ 01 (a)
+
+GIẤY ĐĂNG KÝ NIÊM YẾT CỔ PHIẾU (Ban hành kèm theo Thông tư số 202/2015/TT-BTC ngày 18 tháng 12 năm 2015 của Bộ Tài chính hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc -------------
+
+GIẤY ĐĂNG KÝ NIÊM YẾT CỔ PHIẾU
+
+Cổ phiếu:.... (tên cổ phiếu)
+
+Mã cổ phiếu (nếu có)
+
+Kính gửi: Sở giao dịch chứng khoán...
+
+I. Giới thiệu về tổ chức đăng ký niêm yết:
+
+1. Tên tổ chức đăng ký niêm yết (đầy đủ):
+
+2. Tên tiếng Anh (nếu có)
+
+3. Tên viết tắt (nếu có):
+
+4. Vốn điều lệ đăng ký:
+
+5. Vốn điều lệ thực góp:
+
+6. Địa chỉ trụ sở chính:
+
+7. Điện thoại: Fax:
+
+8. Nơi mở tài khoản: Số hiệu tài khoản:
+
+9. Căn cứ pháp lý hoạt động kinh doanh:
+
+- Giấy chứng nhận đăng ký doanh nghiệp số:... do.................... cấp ngày... hoặc Giấy phép thành lập và hoạt động số:....................... do............ cấp ngày..................
+
+- Ngành nghề kinh doanh chủ yếu: Mã số:
+
+- Sản phẩm/dịch vụ chính:
+
+II. Cổ phiếu đăng ký niêm yết:
+
+1. Tên cổ phiếu:
+
+2. Loại cổ phiếu:
+
+3. Mệnh giá cổ phiếu: đồng
+
+4. Giá niêm yết dự kiến: đồng
+
+5. Số lượng cổ phiếu đăng ký niêm yết: cổ phiếu
+
+6. Thời gian dự kiến niêm yết:
+
+7. Tỷ lệ số cổ phần đăng ký niêm yết trên tổng số cổ phần đã phát hành:
+
+III. Các bên liên quan:
+
+1. Tổ chức tư vấn niêm yết
+
+2. Tổ chức kiểm toán báo cáo tài chính
+
+3. Tổ chức khác (nếu có)
+
+IV. Cam kết của tổ chức đăng ký:
+
+Chúng tôi xin đảm bảo rằng những số liệu trong hồ sơ này là đầy đủ và đúng sự thật, không phải là số liệu giả hoặc thiếu có thể làm cho người mua cổ phiếu chịu thiệt hại. Chúng tôi cam kết:
+
+Nghiên cứu đầy đủ và thực hiện nghiêm chỉnh các văn bản pháp luật về chứng khoán và thị trường chứng khoán và chịu mọi hình thức xử lý nếu vi phạm cam kết nêu trên.
+
+V. Hồ sơ kèm theo:
+
+1. Quyết định của Đại hội đồng cổ đông thông qua việc niêm yết cổ phiếu.
+
+2. Sổ đăng ký cổ đông của tổ chức đăng ký niêm yết được lập trong thời hạn một tháng trước thời điểm nộp hồ sơ đăng ký niêm yết. Sổ đăng ký cổ đông phải kèm theo bản liệt kê danh sách cổ đông lớn, người nội bộ, người được ủy quyền công bố thông tin, cổ đông chiến lược (số lượng, tỷ lệ nắm giữ, thời gian bị hạn chế chuyển nhượng (nếu có)).
+
+3. Bản cáo bạch theo mẫu của Bộ Tài chính.
+
+4. Cam kết của cổ đông là thành viên Hội đồng quản trị, Ban Kiểm soát, Giám đốc (Tổng Giám đốc), Phó Giám đốc (Phó Tổng Giám đốc), Kế toán trưởng và cam kết của cổ đông lớn là người có liên quan với thành viên Hội đồng quản trị, Ban kiểm soát, Giám đốc (Tổng Giám đốc), Phó Giám đốc (Phó Tổng Giám đốc) và Kế toán trưởng của công ty nắm giữ 100% số cổ phiếu do mình sở hữu trong thời gian 6 tháng kể từ ngày niêm yết và 50% số cổ phiếu này trong thời gian 6 tháng tiếp theo.
+
+5. Hợp đồng tư vấn niêm yết (nếu có).
+
+6. Giấy cam kết hạn chế tỷ lệ tham gia của bên nước ngoài theo quy định của pháp luật đối với lĩnh vực kinh doanh đặc thù (nếu có).
+
+7. Danh sách những người có liên quan đến các thành viên Hội đồng quản trị, Ban Giám đốc, Ban Kiểm soát và Kế toán trưởng (hoặc giám đốc tài chính, trưởng phòng kế toán);
+
+8. Giấy chứng nhận của Trung tâm lưu ký chứng khoán về việc cổ phiếu của tổ chức đã đăng ký, lưu ký tập trung;
+
+9. Văn bản chấp thuận của Ngân hàng Nhà nước đối với tổ chức tín dụng cổ phần;
+
+10. Các tài liệu khác (nếu có).
+
+|  | ..., ngày... tháng... năm... (tên tổ chức đăng ký niêm yết) ĐẠI DIỆN THEO PHÁP LUẬT CỦA TỔ CHỨC NIÊM YẾT (Ký, ghi rõ họ tên và đóng dấu) |
+
+|--|------------------------------------------------------------------------------------------------------------------------------------------|
+
+..., ngày... tháng... năm... (tên tổ chức đăng ký niêm yết) ĐẠI DIỆN THEO PHÁP LUẬT CỦA TỔ CHỨC NIÊM YẾT (Ký, ghi rõ họ tên và đóng dấu)
+
+PHỤ LỤC SỐ 01 (b)
+
+GIẤY ĐĂNG KÝ NIÊM YẾT TRÁI PHIẾU (Ban hành kèm theo Thông tư số 202/2015/TT-BTC ngày 18 tháng 12 năm 2015 của Bộ Tài chính hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc -------------
+
+GIẤY ĐĂNG KÝ NIÊM YẾT TRÁI PHIẾU
+
+Trái phiếu:.... (tên trái phiếu)
+
+Kính gửi: Sở giao dịch chứng khoán...
+
+I. Giới thiệu về tổ chức đăng ký niêm yết:
+
+1. Tên tổ chức đăng ký niêm yết (đầy đủ):
+
+2. Tên Tiếng Anh (nếu có):
+
+3. Tên viết tắt (nếu có):
+
+4. Vốn điều lệ đăng ký:
+
+5. Vốn điều lệ thực góp:
+
+6. Địa chỉ trụ sở chính:
+
+7. Điện thoại: Fax:
+
+8. Nơi mở tài khoản: Số hiệu tài khoản:
+
+9. Căn cứ pháp lý hoạt động kinh doanh
+
+- Giấy chứng nhận đăng ký doanh nghiệp số:... do........ cấp ngày... hoặc Giấy phép thành lập và hoạt động số:................................ do................... cấp ngày...........
+
+- Ngành nghề kinh doanh chủ yếu: Mã số:
+
+- Sản phẩm/dịch vụ chính:
+
+II. Trái phiếu đăng ký niêm yết:
+
+1. Tên trái phiếu:
+
+2. Loại trái phiếu:
+
+3. Thời hạn trái phiếu:... năm
+
+4. Kỳ hạn trả lãi:
+
+5. Lãi suất danh nghĩa:
+
+6. Mệnh giá trái phiếu: đồng
+
+7. Giá niêm yết dự kiến: đồng
+
+8. Số lượng trái phiếu đăng ký niêm yết: trái phiếu
+
+9. Thời gian dự kiến niêm yết:
+
+10. Tỷ lệ số trái phiếu đăng ký niêm yết trên tổng số trái phiếu đã phát hành:
+
+III. Các bên liên quan:
+
+1. Tổ chức tư vấn niêm yết
+
+2. Tổ chức kiểm toán báo cáo tài chính
+
+3. Tổ chức khác (nếu có)
+
+IV. Cam kết của tổ chức đăng ký niêm yết:
+
+Chúng tôi xin đảm bảo rằng những số liệu trong hồ sơ này là đầy đủ và đúng sự thật, không phải là số liệu giả hoặc thiếu có thể làm cho người mua trái phiếu chịu thiệt hại. Chúng tôi cam kết:
+
+Nghiên cứu đầy đủ và thực hiện nghiêm chỉnh các văn bản pháp luật về chứng khoán và thị trường chứng khoán và chịu mọi hình thức xử lý nếu vi phạm cam kết nêu trên.
+
+V. Hồ sơ kèm theo:
+
+1. Quyết định thông qua việc niêm yết trái phiếu của Hội đồng quản trị hoặc trái phiếu chuyển đổi của Đại hội đồng cổ đông (đối với công ty cổ phần), niêm yết trái phiếu của Hội đồng thành viên (đối với công ty trách nhiệm hữu hạn từ hai thành viên trở lên) hoặc Chủ sở hữu công ty (đối với công ty trách nhiệm hữu hạn một thành viên);
+
+2. Sổ đăng ký chủ sở hữu trái phiếu của tổ chức đăng ký niêm yết;
+
+3. Bản cáo bạch theo mẫu của Bộ Tài chính;
+
+4. Cam kết thực hiện nghĩa vụ của tổ chức đăng ký niêm yết đối với nhà đầu tư, bao gồm các điều kiện thanh toán, tỉ lệ nợ trên vốn chủ sở hữu, điều kiện chuyển đổi (trường hợp niêm yết trái phiếu chuyển đổi) và các điều kiện khác;
+
+5. Cam kết bảo lãnh thanh toán hoặc Biên bản xác định giá trị tài sản bảo đảm, kèm tài liệu hợp lệ chứng minh quyền sở hữu hợp pháp và hợp đồng bảo hiểm (nếu có) đối với các tài sản đó trong trường hợp niêm yết trái phiếu có bảo đảm. Tài sản dùng để bảo đảm phải được đăng ký với cơ quan có thẩm quyền;
+
+6. Hợp đồng giữa tổ chức phát hành và đại diện người sở hữu trái phiếu;
+
+7. Giấy chứng nhận của Trung tâm lưu ký chứng khoán về việc trái phiếu của tổ chức đó đã đăng ký, lưu ký tập trung;
+
+8. Văn bản chấp thuận của Ngân hàng Nhà nước đối với tổ chức tín dụng cổ phần;
+
+9. Các tài liệu khác (nếu có).
+
+|  | ..., ngày... tháng... năm... (tên tổ chức niêm yết) ĐẠI DIỆN THEO PHÁP LUẬT CỦA TỔ CHỨC NIÊM YẾT (Ký, ghi rõ họ tên và đóng dấu) |
+
+|--|----------------------------------------------------------------------------------------------------------------------------------|
+
+..., ngày... tháng... năm... (tên tổ chức niêm yết) ĐẠI DIỆN THEO PHÁP LUẬT CỦA TỔ CHỨC NIÊM YẾT (Ký, ghi rõ họ tên và đóng dấu)
+
+PHỤ LỤC SỐ 01 (c)
+
+GIẤY ĐĂNG KÝ NIÊM YẾT CHỨNG CHỈ QUỸ ĐẦU TƯ ĐẠI CHÚNG (Ban hành kèm theo Thông tư số 202/2015/TT-BTC ngày 18 tháng 12 năm 2015 của Bộ Tài chính hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc -------------
+
+GIẤY ĐĂNG KÝ NIÊM YẾT CHỨNG CHỈ QUỸ ĐẦU TƯ ĐẠI CHÚNG
+
+Chứng chỉ:.... (tên chứng chỉ quỹ đầu tư)
+
+Kính gửi: Sở giao dịch chứng khoán...
+
+I. Giới thiệu về tổ chức đăng ký niêm yết chứng chỉ quỹ đầu tư đại chúng:
+
+1. Tên công ty quản lý quỹ đầu tư đại chúng (tên đầy đủ)
+
+2. Tên tiếng Anh (nếu có)
+
+3. Tên viết tắt (nếu có):
+
+4. Vốn điều lệ:
+
+5. Địa chỉ trụ sở chính:
+
+6. Điện thoại: Fax: Website:
+
+7. Nơi mở tài khoản: Số tài khoản:
+
+8. Giấy phép thành lập và hoạt động số... do UBCKNN cấp ngày... tháng... năm
+
+9. Giấy phép quản lý quỹ đầu tư số:... ngày... tháng... năm.....
+
+II. Giới thiệu về quỹ đầu tư đại chúng đăng ký niêm yết
+
+1. Tên Quỹ (đầy đủ):
+
+2. Tên tiếng Anh (nếu có)
+
+3. Tên viết tắt (nếu có):
+
+4. Loại hình Quỹ
+
+5. Địa chỉ trụ sở chính:
+
+6. Điện thoại: Fax: Website:
+
+7. Nơi mở tài khoản: Số tài khoản:
+
+8. Giấy phép phát hành chứng chỉ quỹ ra công chúng số:..... ngày... tháng... năm... do Ủy ban Chứng khoán Nhà nước cấp
+
+9. Giấy chứng nhận đăng ký lập quỹ công chúng số:... ngày... tháng... năm... do UBCKNN cấp
+
+10. Vốn điều lệ của quỹ:
+
+11. Thời điểm đóng quỹ:
+
+12. Thời hạn hoạt động của quỹ:
+
+III. Chứng chỉ quỹ đăng ký niêm yết:
+
+1. Tên chứng chỉ quỹ:
+
+2. Loại chứng chỉ quỹ:
+
+3. Số lượng chứng chỉ quỹ đăng ký niêm yết: chứng chỉ
+
+4. Mệnh giá chứng chỉ quỹ: đồng
+
+5. Giá niêm yết dự kiến: đồng/chứng chỉ
+
+6. Thời gian dự kiến niêm yết:
+
+7. Tỷ lệ số chứng chỉ quỹ đăng ký niêm yết trên tổng số chứng chỉ quỹ đã phát hành:
+
+IV. Các bên liên quan:
+
+1. Tổ chức tư vấn niêm yết
+
+2. Tổ chức kiểm toán báo cáo tài chính
+
+3. Ngân hàng giám sát
+
+4. Tổ chức khác (nếu có)
+
+V. Cam kết của tổ chức đăng ký niêm yết:
+
+Chúng tôi xin đảm bảo rằng những số liệu trong hồ sơ này là đầy đủ và đúng sự thật, không phải là số liệu giả hoặc thiếu có thể làm cho người mua chứng chỉ quỹ chịu thiệt hại. Chúng tôi cam kết:
+
+Nghiên cứu đầy đủ và thực hiện nghiêm chỉnh các văn bản pháp luật về chứng khoán và thị trường chứng khoán và chịu mọi hình thức xử lý nếu vi phạm cam kết nêu trên.
+
+VI. Hồ sơ kèm theo:
+
+1. Sổ đăng ký nhà đầu tư nắm giữ chứng chỉ quỹ đại chúng;
+
+2. Điều lệ Quỹ đại chúng theo mẫu do Bộ Tài chính quy định và Hợp đồng giám sát đã được Đại hội nhà đầu tư thông qua;
+
+3. Bản cáo bạch theo mẫu của Bộ Tài chính;
+
+4. Danh sách và lý lịch tóm tắt của thành viên Ban đại diện quỹ; cam kết bằng văn bản của các thành viên độc lập trong Ban đại diện quỹ về sự độc lập của mình đối với công ty quản lý quỹ và ngân hàng giám sát;
+
+5. Cam kết của thành viên Ban đại diện quỹ đầu tư chứng khoán về việc nắm giữ 100% số chứng chỉ quỹ hoặc cổ phiếu do mình sở hữu trong thời gian 6 tháng kể từ ngày niêm yết và 50% số chứng chỉ quỹ này trong thời gian 6 tháng tiếp theo;
+
+6. Báo cáo kết quả đầu tư của quỹ tính đến thời điểm đăng ký niêm yết có xác nhận của ngân hàng giám sát;
+
+7. Giấy chứng nhận của Trung tâm lưu ký chứng khoán về việc chứng chỉ quỹ của quỹ đại chúng đã đăng ký, lưu ký tập trung.
+
+8. Các tài liệu khác (nếu có).
+
+|  | ..., ngày... tháng... năm... (tên tổ chức niêm yết) TM. QUỸ ĐẦU TƯ ĐẠI CHÚNG CÔNG TY QUẢN LÝ QUỸ TỔNG GIÁM ĐỐC (Ký, ghi rõ họ tên và đóng dấu) |
+
+|--|------------------------------------------------------------------------------------------------------------------------------------------------|
+
+..., ngày... tháng... năm... (tên tổ chức niêm yết) TM. QUỸ ĐẦU TƯ ĐẠI CHÚNG CÔNG TY QUẢN LÝ QUỸ TỔNG GIÁM ĐỐC (Ký, ghi rõ họ tên và đóng dấu)
+
+PHỤ LỤC SỐ 01 (d)
+
+GIẤY ĐĂNG KÝ NIÊM YẾT CỔ PHIẾU CÔNG TY ĐẦU TƯ CHỨNG KHOÁN ĐẠI CHÚNG (Ban hành kèm theo Thông tư số 202/2015/TT-BTC ngày 18 tháng 12 năm 2015 của Bộ Tài chính hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc -------------
+
+GIẤY ĐĂNG KÝ NIÊM YẾT CỔ PHIẾU CÔNG TY ĐẦU TƯ CHỨNG KHOÁN ĐẠI CHÚNG
+
+Cổ phiếu:.... (tên cổ phiếu)
+
+Kính gửi: Sở giao dịch chứng khoán...
+
+I. Giới thiệu về tổ chức đăng ký niêm yết:
+
+1. Tên tổ chức đăng ký niêm yết (đầy đủ):
+
+2. Tên Tiếng Anh (nếu có):
+
+3. Tên viết tắt (nếu có):
+
+4. Vốn điều lệ:
+
+5. Địa chỉ trụ sở chính:
+
+6. Điện thoại: Fax:
+
+7. Nơi mở tài khoản:
+
+8. Số hiệu tài khoản:
+
+9. Giấy phép thành lập và hoạt động kinh doanh đầu tư chứng khoán số... ngày... tháng... năm...
+
+II. Cổ phiếu đăng ký niêm yết:
+
+1. Tên cổ phiếu:
+
+2. Loại cổ phiếu:
+
+3. Mệnh giá cổ phiếu: đồng
+
+4. Giá niêm yết dự kiến: đồng/cổ phiếu
+
+5. Số lượng cổ phiếu đăng ký niêm yết: cổ phiếu
+
+6. Thời gian dự kiến niêm yết:
+
+7. Tỷ lệ số cổ phần đăng ký niêm yết trên tổng số cổ phần đã phát hành:
+
+III. Các bên liên quan:
+
+1. Tổ chức tư vấn niêm yết
+
+2. Tổ chức kiểm toán báo cáo tài chính
+
+3. Tổ chức khác (nếu có)
+
+IV. Cam kết của tổ chức đăng ký niêm yết:
+
+Chúng tôi xin đảm bảo rằng những số liệu trong hồ sơ này là đầy đủ và đúng sự thật, không phải là số liệu giả hoặc thiếu có thể làm cho người mua cổ phiếu chịu thiệt hại. Chúng tôi cam kết:
+
+Nghiên cứu đầy đủ và thực hiện nghiêm chỉnh các văn bản pháp luật về chứng khoán và thị trường chứng khoán và chịu mọi hình thức xử lý nếu vi phạm cam kết nêu trên.
+
+V. Hồ sơ kèm theo:
+
+1. Sổ đăng ký cổ đông của công ty đầu tư chứng khoán đại chúng;
+
+2. Điều lệ công ty đầu tư chứng khoán đại chúng theo mẫu do Bộ Tài chính quy định và Hợp đồng giám sát đã được Đại hội đồng cổ đông thông qua;
+
+3. Bản cáo bạch theo mẫu của Bộ Tài chính;
+
+4. Cam kết của cổ đông là thành viên Hội đồng quản trị, Ban kiểm soát, Giám đốc (Tổng giám đốc), Phó Giám đốc (Phó Tổng giám đốc), Kế toán trưởng, cổ đông lớn là người có liên quan với thành viên Hội đồng quản trị, Ban kiểm soát, Giám đốc (Tổng Giám đốc), Phó Giám đốc (Phó Tổng Giám đốc) và Kế toán trưởng (nếu có) của công ty đầu tư chứng khoán về việc nắm giữ 100% số cổ phiếu do mình sở hữu trong thời gian 6 tháng kể từ ngày niêm yết và 50% số cổ phiếu này trong thời gian 6 tháng tiếp theo;
+
+5. Báo cáo kết quả đầu tư của công ty đầu tư chứng khoán đại chúng tính đến thời điểm đăng ký niêm yết có xác nhận của ngân hàng giám sát;
+
+6. Giấy chứng nhận của Trung tâm lưu ký chứng khoán về việc cổ phiếu của công ty đầu tư chứng khoán đại chúng đã đăng ký lưu ký tập trung.
+
+7. Các tài liệu khác (nếu có).
+
+|  | ..., ngày... tháng... năm... (tên tổ chức đăng ký niêm yết) ĐẠI DIỆN THEO PHÁP LUẬT CỦA TỔ CHỨC NIÊM YẾT (Ký, ghi rõ họ tên và đóng dấu) |
+
+|--|------------------------------------------------------------------------------------------------------------------------------------------|
+
+..., ngày... tháng... năm... (tên tổ chức đăng ký niêm yết) ĐẠI DIỆN THEO PHÁP LUẬT CỦA TỔ CHỨC NIÊM YẾT (Ký, ghi rõ họ tên và đóng dấu)
+
+PHỤ LỤC SỐ 02 17
+
+MẪU BẢN CÁO BẠCH NIÊM YẾT CỔ PHIẾU/TRÁI PHIẾU TRÊN SỞ GIAO DỊCH CHỨNG KHOÁN (Ban hành kèm theo Thông tư số 29/2017/TT-BTC ngày 12 tháng 4 năm 2017 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 202/2015/TT-BTC ngày 18 tháng 12 năm 2015 hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán)
+
+(trang bìa)
+
+| SỞ GIAO DỊCH CHỨNG KHOÁN CẤP ĐĂNG KÝ NIÊM YẾT CHỨNG KHOÁN CHỈ CÓ NGHĨA LÀ VIỆC NIÊM YẾT CHỨNG KHOÁN ĐÃ THỰC HIỆN THEO CÁC QUY ĐỊNH CỦA PHÁP LUẬT LIÊN QUAN MÀ KHÔNG HÀM Ý ĐẢM BẢO GIÁ TRỊ CỦA CHỨNG KHOÁN. MỌI TUYÊN BỐ TRÁI VỚI ĐIỀU NÀY LÀ BẤT HỢP PHÁP. |
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+SỞ GIAO DỊCH CHỨNG KHOÁN CẤP ĐĂNG KÝ NIÊM YẾT CHỨNG KHOÁN CHỈ CÓ NGHĨA LÀ VIỆC NIÊM YẾT CHỨNG KHOÁN ĐÃ THỰC HIỆN THEO CÁC QUY ĐỊNH CỦA PHÁP LUẬT LIÊN QUAN MÀ KHÔNG HÀM Ý ĐẢM BẢO GIÁ TRỊ CỦA CHỨNG KHOÁN. MỌI TUYÊN BỐ TRÁI VỚI ĐIỀU NÀY LÀ BẤT HỢP PHÁP.
+
+BẢN CÁO BẠCH
+
+CÔNG TY: ABC
+
+(Giấy chứng nhận ĐKKD số.... do.... cấp ngày... tháng... năm... hoặc Giấy phép thành lập và hoạt động số:............ do...... cấp ngày......)
+
+NIÊM YẾT CỔ PHIẾU (TRÁI PHIẾU) TRÊN SỞ GIAO DỊCH CHỨNG KHOÁN...
+
+(Quyết định đăng ký niêm yết số:.../SGD...-QĐ do..... cấp ngày... tháng... năm...)
+
+Bản cáo bạch này và tài liệu bổ sung sẽ được cung cấp tại:......................................
+
+Phụ trách công bố thông tin:
+
+Họ tên:.................................... Số điện thoại:.......................... Chức vụ:....................
+
+(trang bìa)
+
+CÔNG TY: ABC
+
+(Giấy chứng nhận ĐKKD số.... do.... cấp ngày... tháng... năm....)
+
+(Ghi rõ địa chỉ trụ sở chính, số điện thoại, fax, email, website của công ty)
+
+NIÊM YẾT CỔ PHIẾU (TRÁI PHIẾU) TRÊN SỞ GIAO DỊCH CHỨNG KHOÁN...
+
+Tên cổ phiếu/trái phiếu:
+
+Loại cổ phiếu/trái phiếu:
+
+Mã cổ phiếu/trái phiếu (nếu có):
+
+Thời điểm đáo hạn (đối với trái phiếu):
+
+Lãi suất (đối với trái phiếu):
+
+Kỳ trả lãi (đối với trái phiếu):
+
+Mệnh giá:
+
+Tổng số lượng niêm yết:
+
+Tổng giá trị niêm yết (theo mệnh giá):
+
+TỔ CHỨC KIỂM TOÁN:
+
+CÔNG TY:............... (ghi rõ địa chỉ trụ sở chính, số điện thoại, số fax giao dịch)
+
+TỔ CHỨC TƯ VẤN:
+
+CÔNG TY:............... (ghi rõ địa chỉ trụ sở chính, số điện thoại, số fax giao dịch)
+
+(trang bìa)
+
+MỤC LỤC
+
+I. Các nhân tố rủi ro ảnh hưởng đến giá cả chứng khoán niêm yết
+
+II. Những người chịu trách nhiệm chính đối với nội dung Bản cáo bạch
+
+III. Các khái niệm
+
+IV. Tình hình và đặc điểm của tổ chức niêm yết
+
+V. Chứng khoán niêm yết
+
+VI. Các đối tác liên quan tới việc niêm yết
+
+VII. Phụ lục
+
+NỘI DUNG BẢN CÁO BẠCH
+
+I. CÁC NHÂN TỐ RỦI RO
+
+(Phân tích rõ ảnh hưởng của các nhân tố rủi ro đến giá cả chứng khoán niêm yết)
+
+1. Đối với tổ chức không phải là tổ chức tín dụng và tổ chức tài chính phi ngân hàng:
+
+1.1. Rủi ro về kinh tế
+
+1.2. Rủi ro về luật pháp
+
+1.3. Rủi ro đặc thù (ngành, công ty, lĩnh vực hoạt động)
+
+1.4. Rủi ro khác (rủi ro bất khả kháng như: thiên tai, địch họa…)
+
+2. Đối với tổ chức tín dụng và tổ chức tài chính phi ngân hàng:
+
+2.1. Rủi ro về kinh tế:
+
+a. Rủi ro về lãi suất: (Phân tích tình hình huy động và cho vay, chênh lệch giữa kỳ hạn tiền gửi và tiền vay, từ đó những biến động về lãi suất đã gây tác động thế nào tới giá trị các khoản tiền gửi và cho vay)
+
+b. Rủi ro về tín dụng: (Phân tích rủi ro có thể xảy ra do có một số công ty vì lý do cụ thể nào đó có thể không trả được nợ vay)
+
+c. Rủi ro về ngoại hối: (Biến động tỷ giá đã gây tác động thế nào đến giá trị của các loại tài sản có và nợ bằng ngoại tệ. Kết quả ròng của các tác động này là thuận lợi hay bất lợi)
+
+d. Rủi ro về thanh toán: (Phân tích khả năng có thể xảy ra việc rút tiền đột xuất với khối lượng lớn của người gửi tiền và khả năng của ngân hàng trong việc bảo đảm tiền mặt để đáp ứng yêu cầu rút tiền thường xuyên và đột xuất (đặc biệt là nhu cầu đột xuất) của khách hàng)
+
+đ. Rủi ro từ các hoạt động ngoại bảng: (Phân tích các giao dịch kỳ hạn, các khoản cam kết cho vay, các khoản bảo lãnh L/C có khả năng gây ra những tác động gì đến tình hình tài chính của ngân hàng)
+
+2.2. Rủi ro về luật pháp:
+
+2.3. Rủi ro về ngành:
+
+2.4. Rủi ro khác: (Rủi ro bất khả kháng như: thiên tai, địch họa...)
+
+II. NHỮNG NGƯỜI CHỊU TRÁCH NHIỆM CHÍNH ĐỐI VỚI NỘI DUNG BẢN CÁO BẠCH
+
+1. Tổ chức niêm yết
+
+Ông/Bà:........................................ Chức vụ: Chủ tịch Hội đồng quản trị
+
+Ông/Bà:........................................ Chức vụ: Giám đốc (Tổng giám đốc)
+
+Ông/Bà:........................................... Chức vụ: Phó Giám đốc (Phó Tổng giám đốc) có liên quan đến việc đăng ký niêm yết.
+
+Ông/Bà:............................................................... Chức vụ: Kế toán trưởng hoặc Giám đốc Tài chính
+
+Ông/Bà:..................................................................... Chức vụ: Trưởng ban Kiểm soát hoặc Trưởng ban Kiểm toán nội bộ
+
+Chúng tôi đảm bảo rằng các thông tin và số liệu trong Bản cáo bạch này là phù hợp với thực tế mà chúng tôi được biết, hoặc đã điều tra, thu thập một cách hợp lý.
+
+2. Tổ chức tư vấn
+
+Đại diện theo pháp luật: Ông/Bà:..........................................................................
+
+Chức vụ:................................................................................................................
+
+Giấy ủy quyền:......................................................................................................
+
+Bản cáo bạch này là một phần của hồ sơ đăng ký niêm yết do [tên tổ chức tư vấn] tham gia lập trên cơ sở hợp đồng tư vấn (nếu có) với [tên tổ chức niêm yết]. Chúng tôi đảm bảo rằng việc phân tích, đánh giá và lựa chọn ngôn từ trên Bản cáo bạch này đã được thực hiện một cách hợp lý và cẩn trọng dựa trên cơ sở các thông tin và số liệu do [tên tổ chức niêm yết] cung cấp.
+
+III. CÁC KHÁI NIỆM
+
+(Những từ, nhóm từ viết tắt hoặc khó hiểu, hoặc có thể gây hiểu lầm được thể hiện trong bản cáo bạch cần phải định nghĩa)
+
+IV. TÌNH HÌNH VÀ ĐẶC ĐIỂM CỦA TỔ CHỨC NIÊM YẾT
+
+1. Tóm tắt quá trình hình thành và phát triển:
+
+1.1. Giới thiệu chung về tổ chức niêm yết
+
+1.2. Quá trình hình thành, phát triển
+
+1.3. Quá trình tăng vốn điều lệ
+
+…
+
+2. Cơ cấu tổ chức công ty (và cơ cấu trong tập đoàn nếu có) (thể hiện bằng sơ đồ và kèm theo diễn giải)
+
+3. Cơ cấu bộ máy quản lý của công ty (thể hiện bằng sơ đồ và kèm theo diễn giải)
+
+4. Danh sách cổ đông (tên, địa chỉ, số CMND, số ĐKKD (nếu có)) nắm giữ từ trên 5% vốn cổ phần của công ty; Danh sách cổ đông sáng lập và tỷ lệ cổ phần nắm giữ (nếu các quy định về hạn chế chuyển nhượng còn hiệu lực); Cơ cấu cổ đông (tổ chức, cá nhân trong nước, ngoài nước và tỷ lệ nắm giữ)
+
+5. Danh sách những công ty mẹ và công ty con của tổ chức đăng ký niêm yết, những công ty mà tổ chức đăng ký niêm yết đang nắm giữ quyền kiểm soát hoặc cổ phần chi phối, những công ty nắm quyền kiểm soát hoặc cổ phần chi phối đối với tổ chức đăng ký niêm yết, gồm: tên, địa chỉ, ngành nghề kinh doanh, vốn điều lệ đã đăng ký, vốn điều lệ thực góp; vốn đăng ký/vốn thực góp của tổ chức ĐKNY, tỷ lệ nắm giữ của TCĐKNY...
+
+6. Hoạt động kinh doanh
+
+6.1. Đối với tổ chức không phải là tổ chức tín dụng và tổ chức tài chính phi ngân hàng:
+
+6.1.1. Sản lượng sản phẩm/giá trị dịch vụ qua các năm (tỷ lệ từng loại sản phẩm/dịch vụ trong doanh thu, lợi nhuận)
+
+6.1.2. Nguyên vật liệu
+
+- Nguồn nguyên vật liệu
+
+- Sự ổn định của các nguồn cung cấp này
+
+- Ảnh hưởng của giá cả nguyên vật liệu tới doanh thu, lợi nhuận
+
+6.1.3. Chi phí sản xuất (cao hay thấp, có tính cạnh tranh hay không?), tỷ lệ từng loại chi phí/doanh thu
+
+6.1.4. Trình độ công nghệ
+
+6.1.5. Tình hình nghiên cứu và phát triển sản phẩm mới (nếu có)
+
+6.1.6. Tình hình kiểm tra chất lượng sản phẩm/dịch vụ
+
+- Hệ thống quản lý chất lượng đang áp dụng
+
+- Bộ phận kiểm tra chất lượng của công ty
+
+6.1.7. Hoạt động Marketing
+
+6.1.8. Nhãn hiệu thương mại, đăng ký phát minh sáng chế và bản quyền
+
+6.1.9. Các hợp đồng lớn đang được thực hiện hoặc đã được ký kết (nêu tên, trị giá, thời gian thực hiện, sản phẩm, đối tác trong hợp đồng)
+
+6.2. Đối với tổ chức tín dụng và tổ chức tài chính phi ngân hàng:
+
+6.2.1. Ngành nghề kinh doanh chính của công ty:
+
+- Chủng loại và chất lượng sản phẩm/dịch vụ
+
+- Huy động vốn (Cơ cấu, tỷ trọng nguồn vốn huy động trong nước, ngoài nước của tổ chức đăng ký niêm yết trong 2 - 3 năm gần nhất)
+
+- Hoạt động tín dụng (Hiệu quả, tỷ lệ an toàn vốn, tổng dư nợ cho vay, tỷ lệ nợ khó đòi, rủi ro lãi suất, phân loại... trong 2 - 3 năm gần nhất)
+
+- Hoạt động kinh doanh ngoại tệ và thanh toán (Tình hình hoạt động kinh doanh ngoại tệ và thanh toán, các dịch vụ thanh toán trong nước và thanh toán quốc tế trong 2 - 3 năm gần nhất)
+
+- Hoạt động ngân hàng đại lý (nếu có)
+
+6.2.2. Quản lý rủi ro và bảo toàn vốn
+
+6.2.3. Thị trường hoạt động
+
+- Mạng lưới chi nhánh
+
+- Mạng lưới khách hàng và các loại dịch vụ cho khách hàng
+
+- Thị phần và khả năng cạnh tranh
+
+6.2.4. Các dự án phát triển hoạt động kinh doanh đang thực hiện.
+
+7. Báo cáo kết quả hoạt động kinh doanh
+
+7.1. Tóm tắt một số chỉ tiêu chủ yếu về hoạt động sản xuất kinh doanh của công ty trong hai (02) năm gần nhất và quý gần nhất (nếu có)
+
+- Kết quả hoạt động kinh doanh
+
+| Chỉ tiêu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Năm X-1 | Năm X | % tăng giảm | Lũy kế từ đầu năm đến cuối kỳ gần nhất |
+
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|-------|-------------|----------------------------------------|
+
+| * Đối với tổ chức không phải là tổ chức tín dụng và tổ chức tài chính phi ngân hàng: Tổng giá trị tài sản Vốn chủ sở hữu Doanh thu thuần Lợi nhuận từ hoạt động kinh doanh Lợi nhuận khác Lợi nhuận trước thuế Lợi nhuận sau thuế Tỷ lệ lợi nhuận trả cổ tức Tỷ lệ lợi nhuận sau thuế trên vốn chủ sở hữu * Đối với tổ chức tín dụng và tổ chức tài chính phi ngân hàng: Tổng giá trị tài sản Vốn chủ sở hữu Doanh thu Thuế và các khoản phải nộp Lợi nhuận trước thuế Lợi nhuận sau thuế Tỷ lệ lợi nhuận sau thuế trên vốn chủ sở hữu |         |       |             |                                        |
+
+Chỉ tiêu
+
+Năm X-1
+
+Năm X
+
+% tăng giảm
+
+Lũy kế từ đầu năm đến cuối kỳ gần nhất
+
+* Đối với tổ chức không phải là tổ chức tín dụng và tổ chức tài chính phi ngân hàng: Tổng giá trị tài sản
+
+Vốn chủ sở hữu
+
+Doanh thu thuần
+
+Lợi nhuận từ hoạt động kinh doanh
+
+Lợi nhuận khác
+
+Lợi nhuận trước thuế
+
+Lợi nhuận sau thuế
+
+Tỷ lệ lợi nhuận trả cổ tức
+
+Tỷ lệ lợi nhuận sau thuế trên vốn chủ sở hữu
+
+* Đối với tổ chức tín dụng và tổ chức tài chính phi ngân hàng:
+
+Tổng giá trị tài sản
+
+Vốn chủ sở hữu
+
+Doanh thu
+
+Thuế và các khoản phải nộp
+
+Lợi nhuận trước thuế
+
+Lợi nhuận sau thuế
+
+Tỷ lệ lợi nhuận sau thuế trên vốn chủ sở hữu
+
+(Trường hợp tổ chức đăng ký niêm yết là công ty mẹ, chỉ tiêu kết quả hoạt động sản xuất kinh doanh dựa trên báo cáo tài chính công ty mẹ và báo cáo tài chính hợp nhất).
+
+- Các chỉ tiêu khác (tùy theo đặc điểm riêng của ngành, của công ty để làm rõ kết quả hoạt động kinh doanh trong hai năm gần nhất)
+
+- Ý kiến kiểm toán, hướng xử lý, khắc phục đến thời điểm ĐKNY (nếu có)
+
+7.2. Những nhân tố ảnh hưởng đến hoạt động sản xuất kinh doanh của công ty trong năm báo cáo (Nêu rõ những nhân tố thuận lợi và khó khăn tác động chính đến tình hình kinh doanh của công ty trong năm báo cáo. Trường hợp tình hình kinh doanh của công ty giảm sút, cần giải trình rõ nguyên nhân)
+
+8. Vị thế của công ty so với các doanh nghiệp khác trong cùng ngành
+
+- Vị thế của công ty trong ngành
+
+- Triển vọng phát triển của ngành
+
+- So sánh về tình hình tài chính và hoạt động kinh doanh của các doanh nghiệp trong cùng ngành
+
+- Đánh giá về sự phù hợp định hướng phát triển của công ty với định hướng của ngành, chính sách của Nhà nước, và xu thế chung trên thế giới
+
+9. Chính sách đối với người lao động
+
+- Số lượng người lao động trong công ty
+
+- Chính sách đào tạo, lương thưởng, trợ cấp,...
+
+10. Chính sách cổ tức (trong trường hợp cổ phiếu - nêu rõ tỷ lệ cổ tức trong hai năm gần nhất, các chính sách liên quan đến việc trả cổ tức, nêu rõ việc thanh toán cổ tức qua các năm và việc tạm ứng cổ tức đến thời điểm gần nhất (nếu có) hoặc chính sách vay nợ trong thời hạn trái phiếu, thứ tự ưu tiên thanh toán của trái phiếu được niêm yết trong danh mục nợ của tổ chức đăng ký niêm yết (trong trường hợp niêm yết trái phiếu)
+
+11. Tình hình hoạt động tài chính
+
+11.1. Đối với các tổ chức không phải là tổ chức tín dụng và tổ chức tài chính phi ngân hàng:
+
+11.1.1. Các chỉ tiêu cơ bản (trong năm gần nhất)
+
+- Trích khấu hao TSCĐ: (theo đúng chế độ quy định? có thay đổi gì trong chính sách khấu hao?)
+
+- Mức lương bình quân: (so với mức lương bình quân của các doanh nghiệp khác cùng ngành trong cùng địa bàn?)
+
+- Thanh toán các khoản nợ đến hạn: (có thanh toán đúng hạn và đầy đủ các khoản nợ không?)
+
+- Các khoản phải nộp theo luật định: (có thực hiện theo luật định?)
+
+- Trích lập các quỹ theo luật định: (có đúng theo Điều lệ và luật định?)
+
+- Tổng dư nợ vay: (ghi rõ nợ quá hạn, tổng dư nợ bảo lãnh (nếu có), quá hạn ngắn hạn hay trung hạn và dài hạn, nguyên nhân dẫn đến nợ quá hạn, khả năng thu hồi)
+
+- Tình hình công nợ hiện nay: (tổng số nợ phải thu, tổng số nợ phải trả)
+
+- Chỉ tiêu khác (nếu có)
+
+11.1.2. Các chỉ tiêu tài chính chủ yếu (tùy theo từng ngành)
+
+| Các chỉ tiêu                                                                                                                                                                                                     | Năm X - 1 | Năm X | Ghi chú |
+
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------|---------|
+
+| Chỉ tiêu về khả năng thanh toán + Hệ số thanh toán ngắn hạn: Tài sản ngắn hạn/Nợ ngắn hạn + Hệ số thanh toán nhanh: Tài sản ngắn hạn - Hàng tồn kho ____________________________ Nợ ngắn hạn                     |           |       |         |
+
+| Chỉ tiêu về cơ cấu vốn + Nợ/Tổng tài sản + Nợ/Vốn chủ sở hữu                                                                                                                                                     |           |       |         |
+
+| Chỉ tiêu về năng lực hoạt động + Vòng quay hàng tồn kho: Giá vốn hàng bán ___________________________ Hàng tồn kho bình quân + Doanh thu thuần/Tổng tài sản bình quân                                            |           |       |         |
+
+| Chỉ tiêu về khả năng sinh lời + Lợi nhuận sau thuế/Doanh thu thuần + Lợi nhuận sau thuế/Vốn chủ sở hữu bình quân + Lợi nhuận sau thuế/Tổng tài sản bình quân + Lợi nhuận từ hoạt động kinh doanh/Doanh thu thuần |           |       |         |
+
+Các chỉ tiêu
+
+Năm X - 1
+
+Năm X
+
+Ghi chú
+
+Chỉ tiêu về khả năng thanh toán
+
++ Hệ số thanh toán ngắn hạn:
+
+Tài sản ngắn hạn/Nợ ngắn hạn
+
++ Hệ số thanh toán nhanh:
+
+Tài sản ngắn hạn - Hàng tồn kho
+
+____________________________
+
+Nợ ngắn hạn
+
+Chỉ tiêu về cơ cấu vốn
+
++ Nợ/Tổng tài sản
+
++ Nợ/Vốn chủ sở hữu
+
+Chỉ tiêu về năng lực hoạt động
+
++ Vòng quay hàng tồn kho:
+
+Giá vốn hàng bán
+
+___________________________
+
+Hàng tồn kho bình quân
+
++ Doanh thu thuần/Tổng tài sản bình quân
+
+Chỉ tiêu về khả năng sinh lời
+
++ Lợi nhuận sau thuế/Doanh thu thuần
+
++ Lợi nhuận sau thuế/Vốn chủ sở hữu bình quân
+
++ Lợi nhuận sau thuế/Tổng tài sản bình quân
+
++ Lợi nhuận từ hoạt động kinh doanh/Doanh thu thuần
+
+(Trường hợp tổ chức đăng ký niêm yết là công ty mẹ, chỉ tiêu tài chính dựa theo báo cáo công ty mẹ và báo cáo tài chính hợp nhất)
+
+- Các chỉ tiêu khác (tùy theo đặc điểm riêng của ngành, của công ty để làm rõ tình hình tài chính trong hai năm gần nhất)
+
+11.2. Đối với tổ chức tín dụng và tổ chức tài chính phi ngân hàng:
+
+| Chỉ tiêu                                        | Năm X - 1 | Năm X | Ghi chú |
+
+|-------------------------------------------------|-----------|-------|---------|
+
+| 1. Quy mô vốn                                   |           |       |         |
+
+| - Vốn điều lệ                                   |           |       |         |
+
+| - Tổng tài sản có                               |           |       |         |
+
+| - Tỷ lệ an toàn vốn                             |           |       |         |
+
+| 2. Kết quả hoạt động kinh doanh                 |           |       |         |
+
+| - Doanh số huy động tiền gửi                    |           |       |         |
+
+| - Doanh số cho vay                              |           |       |         |
+
+| - Doanh số thu nợ                               |           |       |         |
+
+| - Nợ quá hạn                                    |           |       |         |
+
+| - Nợ khó đòi                                    |           |       |         |
+
+| - Hệ số sử dụng vốn                             |           |       |         |
+
+| - Tỷ lệ nợ bảo lãnh quá hạn/Tổng số dư bảo lãnh |           |       |         |
+
+| - Tỷ lệ nợ quá hạn/Tổng dư nợ                   |           |       |         |
+
+| - Tỷ lệ nợ khó đòi/Tổng dư nợ                   |           |       |         |
+
+| 3. Khả năng thanh khoản                         |           |       |         |
+
+| - Khả năng thanh toán ngay                      |           |       |         |
+
+| - Khả năng thanh toán chung                     |           |       |         |
+
+Chỉ tiêu
+
+Năm X - 1
+
+Năm X
+
+Ghi chú
+
+1. Quy mô vốn
+
+- Vốn điều lệ
+
+- Tổng tài sản có
+
+- Tỷ lệ an toàn vốn
+
+2. Kết quả hoạt động kinh doanh
+
+- Doanh số huy động tiền gửi
+
+- Doanh số cho vay
+
+- Doanh số thu nợ
+
+- Nợ quá hạn
+
+- Nợ khó đòi
+
+- Hệ số sử dụng vốn
+
+- Tỷ lệ nợ bảo lãnh quá hạn/Tổng số dư bảo lãnh
+
+- Tỷ lệ nợ quá hạn/Tổng dư nợ
+
+- Tỷ lệ nợ khó đòi/Tổng dư nợ
+
+3. Khả năng thanh khoản
+
+- Khả năng thanh toán ngay
+
+- Khả năng thanh toán chung
+
+(Trường hợp tổ chức đăng ký niêm yết là công ty mẹ, chỉ tiêu tài chính dựa trên báo cáo tài chính công ty mẹ và báo cáo tài chính hợp nhất)
+
+- Các chỉ tiêu khác (tùy theo đặc điểm riêng của ngành, của công ty để làm rõ tình hình tài chính trong hai năm gần nhất)
+
+12. Hội đồng quản trị, Ban giám đốc, Ban kiểm soát, Kế toán trưởng
+
+- Danh sách [Tên, tuổi, số CMND]
+
+- Sơ yếu lý lịch, bao gồm các nội dung sau:
+
++ Chức vụ hiện tại (thời gian đảm nhiệm tính đến thời điểm hiện tại), chức vụ đang nắm giữ ở các tổ chức khác, các công tác đã trải qua, bằng cấp;
+
++ Tỷ lệ sở hữu chứng khoán của bản thân và những người liên quan trong tổ chức đăng ký niêm yết;
+
++ Các khoản nợ đối với công ty (nếu có)(áp dụng cho niêm yết cổ phiếu);
+
++ Thù lao và các khoản lợi ích khác (nếu có);
+
++ Lợi ích liên quan đối với tổ chức niêm yết (nếu có).
+
+13. Tài sản (Những nhà xưởng, tài sản thuộc sở hữu của công ty)
+
+14. Kế hoạch sản xuất kinh doanh, lợi nhuận và cổ tức trong các năm tiếp theo (áp dụng đối với niêm yết cổ phiếu)
+
+| Chỉ tiêu                                                         | Năm X+1                  | Năm X+2    |                            |  |
+
+|------------------------------------------------------------------|--------------------------|------------|----------------------------|--|
+
+| Giá trị, %                                                       | % tăng giảm so với năm X | Giá trị, % | % tăng giảm so với năm X+1 |  |
+
+| Doanh thu thuần (hoặc Doanh số cho vay đối với tổ chức tín dụng) |                          |            |                            |  |
+
+| Lợi nhuận sau thuế                                               |                          |            |                            |  |
+
+| Vốn chủ sở hữu                                                   |                          |            |                            |  |
+
+| Tỷ lệ lợi nhuận sau thuế/Doanh thu thuần                         |                          |            |                            |  |
+
+| Tỷ lệ lợi nhuận sau thuế/Vốn chủ sở hữu                          |                          |            |                            |  |
+
+| Cổ tức                                                           |                          |            |                            |  |
+
+Chỉ tiêu
+
+Năm X+1
+
+Năm X+2
+
+Giá trị, %
+
+% tăng giảm so với năm X
+
+Giá trị, %
+
+% tăng giảm so với năm X+1
+
+Doanh thu thuần (hoặc Doanh số cho vay đối với tổ chức tín dụng)
+
+Lợi nhuận sau thuế
+
+Vốn chủ sở hữu
+
+Tỷ lệ lợi nhuận sau thuế/Doanh thu thuần
+
+Tỷ lệ lợi nhuận sau thuế/Vốn chủ sở hữu
+
+Cổ tức
+
+(Trường hợp tổ chức đăng ký niêm yết là công ty mẹ, chỉ tiêu tài chính dựa trên báo cáo tài chính công ty mẹ và báo cáo tài chính hợp nhất)
+
+- Các chỉ tiêu khác (tùy theo đặc điểm riêng của ngành, của công ty)
+
+- Nêu căn cứ để đạt được kế hoạch lợi nhuận và cổ tức nói trên
+
+- Kế hoạch đầu tư, dự án đã được HĐQT, ĐHĐCĐ thông qua
+
+- Kế hoạch tăng vốn điều lệ (nếu có)
+
+15. Đánh giá của tổ chức tư vấn về kế hoạch lợi nhuận và cổ tức
+
+16. Thông tin về những cam kết nhưng chưa thực hiện của tổ chức đăng ký niêm yết (thông tin về trái phiếu chuyển đổi và các thông tin liên quan đến cổ phiếu, trái phiếu…)
+
+17. Các thông tin, các tranh chấp kiện tụng liên quan tới công ty mà có thể ảnh hưởng đến giá cả chứng khoán niêm yết (nếu có)
+
+V. CHỨNG KHOÁN NIÊM YẾT
+
+1. Loại chứng khoán
+
+2. Mệnh giá
+
+3. Tổng số chứng khoán niêm yết: Nêu rõ số lượng chứng khoán đã phát hành nhưng chưa được niêm yết và lý do chưa niêm yết (nếu có)
+
+4. Số lượng cổ phiếu, trái phiếu bị hạn chế chuyển nhượng theo quy định của pháp luật hoặc của tổ chức phát hành
+
+5. Xếp hạng tín nhiệm (nếu có)
+
+6. Phương pháp tính giá
+
+7. Phương pháp tính lợi suất khi đáo hạn (đối với niêm yết trái phiếu) (công thức tính kèm theo ví dụ minh họa)
+
+8. Phương thức thực hiện quyền
+
+- Điều kiện, thời gian thực hiện quyền
+
+- Tỷ lệ chuyển đổi và phương pháp tính giá mua và/hoặc chuyển đổi
+
+- Phương pháp tính và đền bù thiệt hại trong trường hợp không thực hiện được quyền
+
+- Các điều khoản khác liên quan đến quyền lợi của người sở hữu quyền mua cổ phần hoặc chứng quyền
+
+9. Đánh giá tác động của tình hình lạm phát đối với trái phiếu niêm yết (sử dụng số liệu lạm phát trong vòng 05 năm để dự báo tác động của lạm phát với lợi suất trái phiếu)
+
+10. Cam kết về tỷ lệ đảm bảo (trường hợp niêm yết trái phiếu có đảm bảo).
+
+11. Giới hạn về tỷ lệ nắm giữ đối với người nước ngoài (theo quy định của pháp luật về chứng khoán và pháp luật chuyên ngành nếu có)
+
+12. Các loại thuế có liên quan (thuế thu nhập và các thuế khác liên quan đến chứng khoán niêm yết)
+
+VI. CÁC ĐỐI TÁC LIÊN QUAN TỚI VIỆC NIÊM YẾT
+
+(Nêu tên, địa chỉ trụ sở chính và giới thiệu sơ bộ các đối tác có liên quan đến việc niêm yết: đại diện người sở hữu trái phiếu, tổ chức kiểm toán, tư vấn...)
+
+VII. PHỤ LỤC
+
+1. Phụ lục I: Bản sao hợp lệ Giấy chứng nhận đăng ký doanh nghiệp
+
+2. Phụ lục II: Điều lệ công ty phù hợp với Điều lệ mẫu công ty niêm yết
+
+3. Phụ lục III: Biên bản xác định giá trị tài sản (nếu có)
+
+4. Phụ lục IV: Bản định giá trang thiết bị, nhà xưởng,... (nếu có)
+
+5. Phụ lục V: Giới thiệu những văn bản pháp luật liên quan đến tổ chức niêm yết
+
+6. Phụ lục VI: Báo cáo tài chính của tổ chức đăng ký niêm yết
+
+- Báo cáo tài chính được kiểm toán của hai năm liền trước năm đăng ký niêm yết (đối với trường hợp công ty đăng ký niêm yết tại Sở giao dịch chứng khoán Thành phố Hồ Chí Minh theo quy định tại điểm a khoản 1 Điều 3 Thông tư số 202/2015/TT-BTC) hoặc Báo cáo tài chính được kiểm toán của năm liền trước năm đăng ký niêm yết (đối với trường hợp công ty đăng ký niêm yết tại Sở giao dịch chứng khoán Hà Nội theo quy định tại điểm b khoản 1 Điều 3 Thông tư số 202/2015/TT-BTC). Trường hợp tổ chức đăng ký niêm yết nộp hồ sơ trước thời điểm kết thúc năm tài chính nhưng việc bổ sung, hoàn thiện hồ sơ vẫn đang thực hiện và kéo dài sang năm tài chính tiếp theo thì tổ chức đăng ký niêm yết phải nộp bổ sung báo cáo tài chính kiểm toán của năm tài chính nộp hồ sơ đăng ký niêm yết để xem xét điều kiện niêm yết.
+
+- Báo cáo tài chính được kiểm toán lập ngay sau thời điểm hợp nhất; hoặc báo cáo tài chính quý, báo cáo tài chính bán niên, hoặc báo cáo tài chính năm được kiểm toán lập sau thời điểm hợp nhất (đối với trường hợp công ty hợp nhất đáp ứng điều kiện niêm yết theo quy định tại các khoản 1 Điều 4, khoản 1 Điều 6 Thông tư số 202/2015/TT-BTC và khoản 2 Điều 4, khoản 2 Điều 6 Thông tư số 202/2015/TT-BTC đã được sửa đổi tại khoản 2, khoản 4 Điều 1 Thông tư này).
+
+- Báo cáo tài chính đến kỳ kế toán gần nhất tương tự quy định về công bố thông tin báo cáo tài chính của tổ chức niêm yết (đối với trường hợp tổ chức đăng ký niêm yết đang trong quá trình chỉnh sửa, bổ sung hồ sơ đăng ký niêm yết quá thời hạn công bố thông tin báo cáo tài chính bán niên, báo cáo tài chính quý).
+
+7. Phụ lục VII: Báo cáo về những tranh chấp pháp luật
+
+8. Các phụ lục khác (nếu có)
+
+|  | TẤT CẢ CHỮ KÝ CỦA NGƯỜI CHỊU TRÁCH NHIỆM NỘI DUNG BCB (Ký, ghi rõ họ tên và đóng dấu) |
+
+|--|---------------------------------------------------------------------------------------|
+
+TẤT CẢ CHỮ KÝ CỦA NGƯỜI CHỊU TRÁCH NHIỆM NỘI DUNG BCB (Ký, ghi rõ họ tên và đóng dấu)
+
+PHỤ LỤC SỐ 03
+
+MẪU BẢN CÁO BẠCH NIÊM YẾT CHỨNG CHỈ QUỸ ĐẦU TƯ CHỨNG KHOÁN TRÊN SỞ GIAO DỊCH CHỨNG KHOÁN (Ban hành kèm theo Thông tư số 20/2015/TT-BTC ngày 18 tháng 12 năm 2015 của Bộ Tài chính hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán)
+
+(trang bìa)
+
+| SỞ GIAO DỊCH CHỨNG KHOÁN TP.HCM CẤP ĐĂNG KÝ NIÊM YẾT CHỨNG CHỈ QUỸ CHỈ CÓ NGHĨA LÀ VIỆC NIÊM YẾT CHỨNG CHỈ QUỸ ĐÃ THỰC HIỆN THEO CÁC QUY ĐỊNH CỦA PHÁP LUẬT LIÊN QUAN MÀ KHÔNG HÀM Ý ĐẢM BẢO GIÁ TRỊ CỦA CHỨNG CHỈ QUỸ CŨNG NHƯ MỤC TIÊU, CHIẾN LƯỢC ĐẦU TƯ CỦA QUỸ. MỌI TUYÊN BỐ TRÁI VỚI ĐIỀU NÀY LÀ BẤT HỢP PHÁP |
+
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+SỞ GIAO DỊCH CHỨNG KHOÁN TP.HCM CẤP ĐĂNG KÝ NIÊM YẾT CHỨNG CHỈ QUỸ CHỈ CÓ NGHĨA LÀ VIỆC NIÊM YẾT CHỨNG CHỈ QUỸ ĐÃ THỰC HIỆN THEO CÁC QUY ĐỊNH CỦA PHÁP LUẬT LIÊN QUAN MÀ KHÔNG HÀM Ý ĐẢM BẢO GIÁ TRỊ CỦA CHỨNG CHỈ QUỸ CŨNG NHƯ MỤC TIÊU, CHIẾN LƯỢC ĐẦU TƯ CỦA QUỸ. MỌI TUYÊN BỐ TRÁI VỚI ĐIỀU NÀY LÀ BẤT HỢP PHÁP
+
+BẢN CÁO BẠCH
+
+TÊN QUỸ (Giấy chứng nhận Đăng ký lập Quỹ số.... do UBCKNN cấp ngày... tháng... năm....)
+
+NIÊM YẾT CHỨNG CHỈ QUỸ TRÊN SỞ GIAO DỊCH CHỨNG KHOÁN… (Đăng ký niêm yết số:... do SGDCK… cấp ngày... tháng... năm...)
+
+1. Họ tên, chức danh và địa chỉ của người phụ trách công bố thông tin.
+
+2. Nơi cung cấp Bản cáo bạch, phương tiện công bố bản cáo bạch (trụ sở chính, chi nhánh Công ty, Website...).
+
+(trang bìa)
+
+MỤC LỤC
+
+I. Những người chịu trách nhiệm chính đối với nội dung Bản cáo bạch
+
+II. Các Thuật ngữ/Định nghĩa
+
+III. Cơ hội đầu tư
+
+IV. Thông tin về Quỹ đầu tư
+
+V. Thông tin về công ty quản lý quỹ và các tổ chức khác có liên quan
+
+VI. Niêm yết chứng chỉ quỹ
+
+VII. Cam kết
+
+VIII. Phụ lục đính kèm
+
+NỘI DUNG BẢN CÁO BẠCH
+
+I. NHỮNG NGƯỜI CHỊU TRÁCH NHIỆM CHÍNH ĐỐI VỚI NỘI DUNG BẢN CÁO BẠCH
+
+1. Tổ chức đăng ký niêm yết - Tên Quỹ
+
+1.1. Các thành viên chủ chốt của Công ty quản lý quỹ [Tên Cty QLQ] gồm có:
+
+Ông/Bà:............................................. Chức vụ: Chủ tịch Hội đồng quản trị/Hội đồng thành viên
+
+Ông/Bà:............................................. Chức vụ: Giám đốc /Tổng giám đốc
+
+Ông/Bà:............................................. Chức vụ: Kế toán trưởng
+
+1.2. Các thành viên Ban đại diện quỹ gồm có:
+
+Ông/Bà:.............................................. Chức vụ: Chủ tịch
+
+Ông/Bà:............................................. Chức vụ: Phó chủ tịch
+
+Ông/Bà:............................................. Chức vụ: Thành viên
+
+Chúng tôi đảm bảo rằng các thông tin và số liệu trong Bản cáo bạch này là phù hợp với thực tế mà chúng tôi được biết, hoặc đã điều tra, thu thập một cách hợp lý.
+
+2. Các tổ chức có liên quan:
+
+2.1. Ngân hàng giám sát:
+
+Ông/Bà:............................................. Chức vụ: Chủ tịch Hội đồng quản trị
+
+Ông/Bà:............................................. Chức vụ: Giám đốc/Tổng giám đốc
+
+2.2. Công ty định giá tài sản (nếu có)
+
+2.3. Tổ chức tư vấn:
+
+Đại diện theo pháp luật: Ông/Bà:..........................................................................
+
+Chức vụ:................................................................................................................
+
+Bản cáo bạch này là một phần của hồ sơ đăng ký niêm yết do [tên tổ chức tư vấn] tham gia lập trên cơ sở hợp đồng tư vấn với [tên tổ chức đăng ký niêm yết]. Chúng tôi đảm bảo rằng việc phân tích, đánh giá và lựa chọn ngôn từ trên Bản cáo bạch này đã được thực hiện một cách hợp lý và cẩn trọng dựa trên cơ sở các thông tin và số liệu do [tên tổ chức đăng ký niêm yết] cung cấp.
+
+II. CÁC THUẬT NGỮ/ĐỊNH NGHĨA
+
+Phần này dành để giải thích các thuật ngữ/ định nghĩa dùng trong Bản cáo bạch.
+
+III. CƠ HỘI ĐẦU TƯ
+
+1. Tổng quan về nền kinh tế Việt Nam
+
+2. Thị trường chứng khoán Việt Nam và cơ hội đầu tư
+
+IV. THÔNG TIN VỀ QUỸ ĐẦU TƯ
+
+1. Thông tin chung về Quỹ
+
+1.1. Tên và địa chỉ liên hệ, điện thoại, fax, website, email của Quỹ.
+
+1.2. Ban đại diện quỹ:
+
+Giới thiệu về Ban đại diện Quỹ:
+
+- Cơ cấu Ban điều hành Công ty Quản lý Quỹ;
+
+- Thông tin tóm tắt về các thành viên trong Ban đại diện Quỹ (họ tên, chức vụ, số CMND/hộ chiếu, kinh nghiệm làm việc...) và người có liên quan.
+
+1.3. Quá trình thành lập Quỹ:
+
+Ghi rõ quá trình từ lúc được cấp Giấy chứng nhận chào bán chứng khoán ra công chúng cho đến khi được cấp Giấy đăng ký lập quỹ công chúng, gồm các nội dung sau:
+
+v Kết quả huy động vốn cho Quỹ:
+
+● Tên quỹ phát hành:
+
+● Loại hình quỹ:
+
+● Mệnh giá:
+
+● Tổng số lượng chứng chỉ quỹ thực tế phân phối:
+
+● Tổng giá trị thực tế huy động (trừ các loại phí liên quan đến phát hành):
+
+● Ngày phát hành:
+
+● Ngày kết thúc huy động vốn:
+
+● Ngân hàng giám sát:
+
+● Tài khoản nộp tiền:
+
+v Báo cáo kết quả huy động vốn đã được ngân hàng giám sát xác nhận và đệ trình UBCKNN
+
+v Tính chất và thời gian hoạt động của Quỹ
+
+2. Điều lệ Quỹ
+
+Tóm tắt Điều lệ Quỹ với các thông tin chính sau đây:
+
+2.1. Các điều khoản chung
+
+2.2. Các quy định về mục tiêu, chính sách và hạn chế đầu tư
+
+- Mục tiêu đầu tư;
+
+- Chiến lược đầu tư/Chính sách đầu tư, lĩnh vực ngành nghề dự định đầu tư;
+
+- Tài sản được phép đầu tư;
+
+- Cơ cấu đầu tư;
+
+- Các hạn chế đầu tư;
+
+- Phương pháp lựa chọn đầu tư/Quy trình đầu tư và ban hành quyết định đầu tư.
+
+2.3. Nhà đầu tư, sổ đăng ký sở hữu chứng chỉ và chuyển nhượng chứng chỉ quỹ đầu tư
+
+- Nhà đầu tư;
+
+- Quyền và nghĩa vụ của nhà đầu tư;
+
+- Sổ đăng ký sở hữu chứng chỉ quỹ;
+
+- Chuyển nhượng chứng chỉ quỹ;
+
+- Thừa kế chứng chỉ quỹ đầu tư.
+
+2.4. Phân phối kết quả hoạt động
+
+- Phương thức phân phối lợi nhuận của quỹ;
+
+- Giải pháp cho vấn đề thua lỗ của Quỹ.
+
+2.5. Đại hội người đầu tư
+
+- Đại hội người đầu tư thường niên, bất thường;
+
+- Quyền hạn và nhiệm vụ của người đầu tư, đại hội người đầu tư;
+
+- Thể thức tiến hành Đại hội người đầu tư;
+
+- Quyết định của đại hội người đầu tư.
+
+2.6. Ban đại diện Quỹ
+
+- Tổ chức Ban đại diện Quỹ (danh sách ban đại diện quỹ);
+
+- Tiêu chuẩn lựa chọn thành viên Ban đại diện quỹ;
+
+- Quyền hạn và nhiệm vụ của Ban đại diện quỹ;
+
+- Chủ tịch Ban đại diện quỹ;
+
+- Thủ tục điều hành của Ban đại diện quỹ;
+
+- Đình chỉ và bãi miễn thành viên Ban đại diện Quỹ;
+
+- Người đại diện cho thành viên Ban đại diện Quỹ;
+
+- Biên bản họp Ban đại diện Quỹ.
+
+2.7. Tiêu chí lựa chọn, quyền hạn và trách nhiệm của Công ty Quản lý Quỹ
+
+- Tiêu chuẩn lựa chọn Công ty Quản lý Quỹ;
+
+- Trách nhiệm và quyền hạn của Công ty Quản lý Quỹ;
+
+- Chấm dứt quyền và nghĩa vụ đối với Công ty Quản lý Quỹ;
+
+- Hạn chế hoạt động của Công ty Quản lý Quỹ.
+
+2.8. Tiêu chí lựa chọn, quyền hạn và trách nhiệm của Ngân hàng giám sát
+
+- Tiêu chuẩn lựa chọn ngân hàng giám sát;
+
+- Trách nhiệm, quyền hạn của ngân hàng giám sát;
+
+- Chấm dứt quyền và nghĩa vụ đối với ngân hàng giám sát.
+
+2.9. Kiểm toán, kế toán và chế độ báo cáo
+
+3. Mục tiêu đầu tư của Quỹ
+
+4. Các rủi ro khi đầu tư vào Quỹ
+
+4.1. Rủi ro thị trường
+
+4.2. Rủi ro lãi suất
+
+4.3. Rủi ro lạm phát
+
+4.4. Rủi ro thiếu tính thanh khoản
+
+4.5. Rủi ro pháp lý
+
+4.6. Rủi ro tín nhiệm
+
+4.7. Rủi ro xung đột lợi ích
+
+4.8. Rủi ro khác
+
+5. Phí, lệ phí và thưởng hoạt động
+
+5.1. Phí phát hành
+
+5.2. Phí quản lý
+
+5.3. Phí giám sát, phí lưu ký
+
+5.4. Các loại phí và lệ phí khác
+
+5.5. Thưởng hoạt động
+
+5.6. Các thông tin khác
+
+6. Giao dịch chứng chỉ quỹ
+
+6.1. Chuyển nhượng và thừa kế chứng chỉ quỹ
+
+6.2. Thời hạn nắm giữ tối thiểu
+
+6.3. Các quy định khác
+
+7. Phương pháp xác định giá trị tài sản ròng
+
+7.1. Thời điểm xác định giá trị tài sản ròng
+
+7.2. Phương pháp xác định giá trị tài sản ròng
+
+8. Phương pháp tính thu nhập và kế hoạch phân chia lợi nhuận của Quỹ
+
+Nêu rõ phương thức tính các khoản thu nhập của Quỹ; kế hoạch và phương thức phân chia lợi nhuận của Quỹ cho các nhà đầu tư.
+
+9. Chế độ báo cáo
+
+Nêu rõ nghĩa vụ của Công ty quản lý quỹ và ngân hàng giám sát trong việc cung cấp báo cáo tài chính và báo cáo hoạt động tháng quý năm cho người đầu tư của Quỹ.
+
+10. Địa chỉ liên lạc giải đáp thắc mắc cho các nhà đầu tư
+
+Ghi rõ thông tin về địa chỉ, số điện thoại liên lạc để các nhà đầu tư có thể tiếp xúc với Công ty quản lý Quỹ nhằm giải đáp các thắc mắc liên quan đến Quỹ.
+
+V. THÔNG TIN VỀ CÔNG TY QUẢN LÝ QUỸ VÀ CÁC TỔ CHỨC CÓ LIÊN QUAN:
+
+1. Thông tin về công ty quản lý Quỹ
+
+1.1. Thông tin chung về Công ty Quản lý Quỹ:
+
+1.1.1. Tên và địa chỉ trụ sở (địa chỉ, điện thoại, fax, website, email), chi nhánh, Văn phòng đại diện (nếu có) của Công ty quản lý quỹ;
+
+1.1.2. Số giấy phép (đính kèm bản sao Giấy phép vào Bản cáo bạch);
+
+1.1.3. Giới thiệu về các cổ đông/thành viên sáng lập Công ty QLQ và người có liên quan;
+
+1.1.4. Giới thiệu về cơ cấu Hội đồng quản trị/Hội đồng thành viên Công ty QLQ
+
+- Cơ cấu HĐQT/HĐTV Công ty Quản lý Quỹ;
+
+- Thông tin tóm tắt về các thành viên trong HĐQT/HĐTV (họ tên, chức vụ, số CMND/hộ chiếu, kinh nghiệm làm việc...).
+
+1.1.5. Giới thiệu về Ban điều hành Công ty Quản lý Quỹ
+
+- Cơ cấu Ban điều hành Công ty Quản lý Quỹ
+
+- Thông tin tóm tắt về các thành viên trong Ban điều hành (họ tên, chức vụ, số CMND/hộ chiếu, kinh nghiệm làm việc...) và những người có liên quan.
+
+1.1.6. Giới thiệu về Hội đồng cố vấn/Hội đồng đầu tư:
+
+- Thông tin tóm tắt về các thành viên trong Hội đồng cố vấn/Hội đồng đầu tư (họ tên, chức vụ, số CMND/hộ chiếu, kinh nghiệm làm việc...).
+
+1.1.7. Giới thiệu về người hành nghề quản lý tài sản trực tiếp quản lý quỹ:
+
+- Họ và tên:
+
+- Số CMND/Hộ chiếu:
+
+- Số chứng chỉ hành nghề:
+
+- Quá trình công tác và kinh nghiệm làm việc:
+
+1.2. Thông tin về tình hình hoạt động của Công ty quản lý quỹ
+
+- Tổng hợp tình hình hoạt động của Công ty Quản lý Quỹ (kết quả hoạt động kinh doanh, tình hình tài chính...) từ ngày thành lập đến thời điểm gần nhất so với ngày đưa thông tin vào Bản cáo bạch.
+
+- Các loại quỹ mà công ty đang quản lý;
+
+- Yêu cầu: nêu rõ nguồn gốc, thời gian cung cấp các thông tin trên; nêu rõ các thông tin về hoạt động trong quá khứ của Công ty quản lý quỹ, không hàm ý đảm bảo cho khả năng hoạt động của công ty quản lý quỹ trong tương lai.
+
+- Bản cáo bạch không được cung cấp vì mục đích riêng, theo xu hướng thổi phồng các thành công và che đậy thất bại đối với các thông tin về tình hình hoạt động, kinh nghiệm quản lý trong quá khứ cũng như hiện tại của Công ty quản lý quỹ, tình hình hoạt động trong quá khứ cũng như hiện tại của các quỹ khác do Công ty quản lý quỹ đang quản lý.
+
+2. Thông tin về ngân hàng giám sát
+
+2.1. Các thông tin chung về ngân hàng giám sát (tên, địa chỉ, điện thoại, fax, website, email, chức năng...);
+
+2.2. Đính kèm hợp đồng giám sát giữa công ty quản lý quỹ và ngân hàng giám sát.
+
+3. Thông tin về công ty kiểm toán
+
+3.1. Các thông tin chung về Công ty kiểm toán BCTC của Quỹ đầu tư (tên, địa chỉ, điện thoại, fax, website, email, chức năng...);
+
+3.2. Đính kèm hợp đồng kiểm toán giữa Công ty QLQ và Công ty kiểm toán.
+
+4. Thông tin về Công ty tư vấn luật (nếu có)
+
+4.1. Các thông tin chung về Công ty tư vấn luật (tên, địa chỉ, điện thoại, fax, website, email, chức năng...);
+
+4.2. Đính kèm hợp đồng tư vấn luật giữa Công ty QLQ và Công ty tư vấn luật.
+
+5. Thông tin về tổ chức định giá (nếu có)
+
+VI. NIÊM YẾT CHỨNG CHỈ QUỸ
+
+1. Các thông tin chung về niêm yết chứng chỉ quỹ:
+
+§ Tên chứng khoán:
+
+§ Loại chứng khoán:
+
+§ Mệnh giá:
+
+§ Tổng số chứng khoán niêm yết:
+
+§ Phương pháp tính giá:
+
+2. Giấy ủy quyền của ban đại diện quỹ cho Công ty quản lý quỹ về việc tiến hành các thủ tục niêm yết.
+
+3. Số lượng chứng chỉ quỹ bị hạn chế chuyển nhượng theo quy định của pháp luật hoặc của tổ chức phát hành
+
+4. Thông tin về những cam kết nhưng chưa thực hiện của tổ chức đăng ký niêm yết
+
+5. Giới hạn về tỷ lệ nắm giữ đối với người nước ngoài
+
+6. Các loại thuế có liên quan (thuế thu nhập và các thuế khác liên quan đến chứng khoán niêm yết)
+
+7. Các thông tin khác.
+
+VII. CAM KẾT
+
+Công ty quản lý quỹ, công ty tư vấn, ngân hàng giám sát (và những tổ chức có liên quan khác) cam đoan những thông tin trong báo cáo này và các tài liệu đính kèm là đầy đủ, chính xác và cam kết tuân thủ các quy định của pháp luật về chứng khoán và thị trường chứng khoán và các quy định hiện hành có liên quan
+
+VIII. PHỤ LỤC ĐÍNH KÈM
+
+1. Điều lệ Quỹ đã được Đại hội nhà đầu tư thông qua
+
+2. Các phụ lục khác được nói đến trong BCB
+
+3. Giới thiệu những văn bản pháp luật liên quan đến chứng chỉ quỹ niêm yết.
+
+4. Địa chỉ cung cấp Bản cáo bạch
+
+|  | TẤT CẢ CHỮ KÝ CỦA NGƯỜI CHỊU TRÁCH NHIỆM NỘI DUNG BCB (Ký, ghi rõ họ tên và đóng dấu) |
+
+|--|---------------------------------------------------------------------------------------|
+
+TẤT CẢ CHỮ KÝ CỦA NGƯỜI CHỊU TRÁCH NHIỆM NỘI DUNG BCB (Ký, ghi rõ họ tên và đóng dấu)
+
+PHỤ LỤC SỐ 04
+
+MẪU BẢN CÁO BẠCH NIÊM YẾT CỔ PHIẾU CÔNG TY ĐẦU TƯ CHỨNG KHOÁN TRÊN SỞ GIAO DỊCH CHỨNG KHOÁN (Ban hành kèm theo Thông tư số 202/2015/TT-BTC ngày 18 tháng 12 năm 2015 của Bộ Tài chính hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán)
+
+(trang bìa)
+
+| SỞ GIAO DỊCH CHỨNG KHOÁN… CẤP ĐĂNG KÝ NIÊM YẾT CỔ PHIẾU CÔNG TY ĐẦU TƯ CHỨNG KHOÁN CHỈ CÓ NGHĨA LÀ VIỆC NIÊM YẾT CỔ PHIẾU CÔNG TY ĐẦU TƯ CHỨNG KHOÁN ĐÃ THỰC HIỆN THEO CÁC QUY ĐỊNH CỦA PHÁP LUẬT LIÊN QUAN MÀ KHÔNG HÀM Ý ĐẢM BẢO GIÁ TRỊ CỦA CỔ PHIẾU CÔNG TY ĐẦU CHỨNG KHOÁN CŨNG NHƯ MỤC TIÊU, CHIẾN LƯỢC ĐẦU TƯ CỦA CÔNG TY. MỌI TUYÊN BỐ TRÁI VỚI ĐIỀU NÀY LÀ BẤT HỢP PHÁP |
+
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+SỞ GIAO DỊCH CHỨNG KHOÁN… CẤP ĐĂNG KÝ NIÊM YẾT CỔ PHIẾU CÔNG TY ĐẦU TƯ CHỨNG KHOÁN CHỈ CÓ NGHĨA LÀ VIỆC NIÊM YẾT CỔ PHIẾU CÔNG TY ĐẦU TƯ CHỨNG KHOÁN ĐÃ THỰC HIỆN THEO CÁC QUY ĐỊNH CỦA PHÁP LUẬT LIÊN QUAN MÀ KHÔNG HÀM Ý ĐẢM BẢO GIÁ TRỊ CỦA CỔ PHIẾU CÔNG TY ĐẦU CHỨNG KHOÁN CŨNG NHƯ MỤC TIÊU, CHIẾN LƯỢC ĐẦU TƯ CỦA CÔNG TY. MỌI TUYÊN BỐ TRÁI VỚI ĐIỀU NÀY LÀ BẤT HỢP PHÁP
+
+BẢN CÁO BẠCH
+
+TÊN CÔNG TY ĐẦU TƯ CHỨNG KHOÁN (Giấy chứng nhận Đăng ký thành lập và hoạt động của Công ty đầu tư chứng khoán số.... do UBCKNN cấp ngày... tháng... năm....)
+
+NIÊM YẾT CỔ PHIẾU CÔNG TY ĐẦU TƯ CHỨNG KHOÁN TRÊN SỞ GIAO DỊCH CHỨNG KHOÁN TP. HCM (Đăng ký niêm yết số:... do SGDCK… cấp ngày... tháng... năm...)
+
+1. Họ tên, chức danh và địa chỉ của người phụ trách công bố thông tin;
+
+2. Nơi cung cấp Bản cáo bạch, phương tiện công bố bản cáo bạch (trụ sở chính, chi nhánh Công ty, Website...)
+
+(trang bìa)
+
+MỤC LỤC
+
+I. Những người chịu trách nhiệm chính đối với nội dung Bản cáo bạch
+
+II. Các thuật ngữ, định nghĩa
+
+III. Cơ hội đầu tư
+
+IV. Thông tin về công ty quản lý quỹ
+
+V. Ngân hàng lưu ký, giám sát
+
+VI. Công ty kiểm toán
+
+VII. Công ty tư vấn luật
+
+VIII. Quá trình thành lập Công ty đầu tư chứng khoán
+
+IX. Các thông tin về công ty đầu tư chứng khoán
+
+X. Tình hình hoạt động của công ty đầu tư chứng khoán
+
+XI. Xung đột lợi ích
+
+XII. Cung cấp thông tin cho cổ đông (chế độ báo cáo,...)
+
+XIII. Niêm yết cổ phiếu Công ty đầu tư chứng khoán
+
+XIV. Địa chỉ liên lạc, giải đáp thắc mắc cho các cổ đông
+
+XV. Cam kết
+
+XVI. Phụ lục đính kèm
+
+NỘI DUNG BẢN CÁO BẠCH
+
+I. NHỮNG NGƯỜI CHỊU TRÁCH NHIỆM CHÍNH ĐỐI VỚI NỘI DUNG BẢN CÁO BẠCH
+
+1. Hội đồng quản trị Công ty đầu tư chứng khoán:
+
+Ông/Bà:.............................................. Chức vụ: Chủ tịch Hội đồng quản trị
+
+Ông/Bà:.............................................. Chức vụ: Phó Chủ tịch Hội đồng quản trị
+
+Ông/Bà:............................................. Chức vụ: Thành viên
+
+2. Công ty quản lý quỹ (tổ chức đăng ký niêm yết cho công ty đầu tư chứng khoán...)
+
+Ông/Bà:............................................. Chức vụ: Chủ tịch Hội đồng quản trị/Hội đồng thành viên
+
+Ông/Bà:............................................. Chức vụ: Giám đốc (Tổng giám đốc)
+
+Ông/Bà:............................................. Chức vụ: Kế toán trưởng
+
+Chúng tôi đảm bảo rằng các thông tin và số liệu trong Bản cáo bạch này là phù hợp với thực tế mà chúng tôi được biết, hoặc đã điều tra, thu thập một cách hợp lý.
+
+3. Ngân hàng giám sát
+
+Đại diện theo pháp luật: Ông/bà:..........................................................................
+
+Chức vụ:................................................................................................................
+
+Bản cáo bạch này là một phần của hồ sơ đăng ký niêm yết do [tên Công ty quản lý quỹ] lập sau khi có xác nhận của [tên Ngân hàng giám sát]. Chúng tôi đảm bảo rằng việc phân tích, đánh giá và lựa chọn ngôn từ trên Bản cáo bạch này đã được thực hiện một cách hợp lý và cẩn trọng dựa trên cơ sở các thông tin và số liệu do [tên các tổ chức liên quan] cung cấp.
+
+4. Tổ chức tư vấn
+
+Đại diện theo pháp luật: Ông/Bà:.........................................................................
+
+Chức vụ:...............................................................................................................
+
+Bản cáo bạch này là một phần của hồ sơ đăng ký niêm yết do [tổ chức tư vấn] tham gia lập trên cơ sở hợp đồng tư vấn với [tên tổ chức đăng ký niêm yết]. Chúng tôi đảm bảo rằng việc phân tích, đánh giá và lựa chọn ngôn từ trên Bản cáo bạch này đã được thực hiện một cách hợp lý và cẩn trọng dựa trên cơ sở các thông tin và số liệu do [tên tổ chức đăng ký niêm yết] cung cấp.
+
+II. CÁC THUẬT NGỮ/ĐỊNH NGHĨA
+
+Phần này dành để giải thích các thuật ngữ/định nghĩa dùng trong Bản cáo bạch.
+
+III. CƠ HỘI ĐẦU TƯ
+
+1. Tổng quan về nền kinh tế Việt Nam
+
+2. Thị trường chứng khoán Việt Nam và cơ hội đầu tư
+
+IV. THÔNG TIN VỀ CÔNG TY QUẢN LÝ QUỸ
+
+1. Các thông tin chung về Công ty Quản lý Quỹ:
+
+- Tên công ty:
+
+- Giấy phép thành lập và hoạt động số:
+
+- Trụ sở chính:
+
+- Điện thoại: Fax: Website:
+
+- Địa chỉ chi nhánh, văn phòng đại diện (nếu có):
+
+- Thời hạn hoạt động (nếu có):
+
+- Vốn điều lệ:
+
+- Cổ đông/thành viên công ty quản lý quỹ:
+
+- Giới thiệu về cổ đông/thành viên sáng lập;
+
+- Giới thiệu về cổ đông/thành viên từ 5% vốn điều lệ;
+
+- Giới thiệu về cơ cấu Hội đồng quản trị/hội đồng thành viên Công ty QLQ
+
+§ Cơ cấu HĐQT Công ty Quản lý Quỹ;
+
+§ Thông tin tóm tắt về các thành viên trong HĐQT (họ tên, chức vụ, kinh nghiệm làm việc...).
+
+- Giới thiệu về Ban điều hành Công ty Quản lý Quỹ
+
+§ Cơ cấu Ban điều hành Công ty Quản lý Quỹ;
+
+§ Thông tin tóm tắt về các thành viên trong Ban điều hành (họ tên, chức vụ, kinh nghiệm làm việc...).
+
+- Giới thiệu về Hội đồng đầu tư (thông tin tóm tắt các thành viên)
+
+§ Cơ cấu Hội đồng đầu tư Công ty Quản lý Quỹ;
+
+§ Thông tin tóm tắt về các thành viên trong Hội đồng đầu tư (họ tên, chức vụ, kinh nghiệm làm việc...).
+
+2. Các thông tin về tình hình hoạt động của Công ty quản lý quỹ:
+
+- Tổng hợp tình hình hoạt động của Công ty Quản lý Quỹ (kết quả hoạt động kinh doanh, tình hình tài chính...) từ ngày thành lập đến thời điểm gần nhất so với ngày đưa thông tin vào Bản cáo bạch;
+
+- Các loại quỹ/Công ty đầu tư chứng khoán mà công ty đang quản lý (nêu chi tiết danh sách, tên quỹ/Công ty đầu tư chứng khoán, loại hình quỹ/Công ty đầu tư chứng khoán...);
+
+- Yêu cầu: nêu rõ nguồn gốc, thời gian cung cấp các thông tin trên; nêu rõ các thông tin về hoạt động trong quá khứ của Công ty quản lý quỹ, không hàm ý đảm bảo cho khả năng hoạt động của công ty quản lý quỹ trong tương lai.
+
+- Trong bản cáo bạch không được cung cấp vì mục đích riêng, theo xu hướng thổi phồng các thành công và che đậy thất bại đối với các thông tin về tình hình hoạt động, kinh nghiệm quản lý quá khứ cũng như hiện tại của Công ty quản lý quỹ, tình hình hoạt động quá khứ cũng như hiện tại của các quỹ/Công ty đầu tư chứng khoán khác do Công ty quản lý quỹ đang quản lý.
+
+V. NGÂN HÀNG LƯU KÝ, GIÁM SÁT
+
+- Tên ngân hàng:
+
+- Giấy phép thành lập số: (đính kèm bản sao)
+
+- Giấy chứng nhận đăng ký hoạt động lưu ký số:
+
+- Trụ sở chính:
+
+- Điện thoại: Fax: Website:
+
+- Thời hạn hoạt động (nếu có)
+
+- Lĩnh vực hoạt động chính:
+
+(Đính kèm hợp đồng giám sát giữa công ty quản lý quỹ và ngân hàng giám sát).
+
+VI. CÔNG TY KIỂM TOÁN
+
+- Tên công ty:
+
+- Giấy phép thành lập số: (đính kèm bản sao)
+
+- Nơi thành lập:
+
+- Trụ sở chính:
+
+- Điện thoại: Fax: Website:
+
+- Thời hạn hoạt động (nếu có)
+
+(Đính kèm hợp đồng kiểm toán giữa Công ty QLQ và Công ty kiểm toán và đính kèm văn bản chấp thuận của UBCKNN về việc được kiểm toán cho tổ chức đăng ký niêm yết).
+
+VII. CÔNG TY TƯ VẤN LUẬT (Nếu có)
+
+- Tên công ty:
+
+- Giấy phép thành lập số: (đính kèm bản sao)
+
+- Nơi thành lập:
+
+- Trụ sở chính:
+
+- Điện thoại: Fax: Website:
+
+- Thời hạn hoạt động (nếu có)
+
+(Đính kèm hợp đồng kiểm toán giữa Công ty QLQ và Công ty tư vấn luật)
+
+VIII. QUÁ TRÌNH THÀNH LẬP CÔNG TY ĐẦU TƯ CHỨNG KHOÁN
+
+Ghi rõ quá trình từ lúc được cấp Giấy chứng nhận chào bán chứng khoán ra công chúng cho đến khi được cấp Giấy đăng ký thành lập và hoạt động Công ty đầu tư chứng khoán, gồm các nội dung sau:
+
+v Kết quả huy động vốn:
+
+● Tên Công ty đầu tư chứng khoán:
+
+● Thời hạn hoạt động:
+
+● Mệnh giá:
+
+● Giá phát hành:
+
+● Phí phát hành lần đầu:
+
+● Tổng số lượng cổ phiếu thực tế phân phối:
+
+● Tổng giá trị thực tế huy động (trừ các loại phí liên quan đến phát hành):
+
+● Ngày phát hành:
+
+● Ngày kết thúc phát hành:
+
+(Báo cáo kết quả phát hành đã được ngân hàng giám sát xác nhận và đệ trình UBCKNN)
+
+IX. CÁC THÔNG TIN VỀ CÔNG TY ĐẦU TƯ CHỨNG KHOÁN
+
+1. Thông tin chung về công ty đầu tư chứng khoán
+
+1.1. Tên và địa chỉ liên hệ của công ty đầu tư chứng khoán
+
+1.2. Giấy đăng ký phát hành
+
+1.3. Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán
+
+1.4. Thời gian hoạt động (nếu có)
+
+2. Thông tin về cổ đông sáng lập và Hội đồng quản trị Công ty đầu tư chứng khoán
+
+2.1. Thông tin cổ đông sáng lập của Công ty (cơ cấu sở hữu cổ phần)
+
+2.2. Giới thiệu về Hội đồng quản trị Công ty (thông tin tóm tắt các thành viên)
+
+§ Cơ cấu Hội đồng quản trị
+
+§ Thông tin tóm tắt về các thành viên trong Hội đồng quản trị (họ tên, chức vụ, kinh nghiệm làm việc...)
+
+3. Điều lệ công ty đầu tư chứng khoán
+
+Tóm tắt Điều lệ công ty đầu tư chứng khoán với các thông tin chính sau đây:
+
+3.1. Các điều khoản chung
+
+3.2. Các quy định về mục tiêu, chính sách và hạn chế
+
+- Mục tiêu đầu tư
+
+- Chiến lược đầu tư
+
+- Tài sản được phép đầu tư
+
+- Cơ cấu đầu tư
+
+- Các hạn chế đầu tư
+
+- Hoạt động vay, cho vay, giao dịch mua bán lại, giao dịch ký quỹ
+
+- Phương pháp lựa chọn đầu tư;
+
+- Nguyên tắc, phương thức xác định giá trị tài sản ròng
+
+3.3. Quyền, nghĩa vụ cổ đông
+
+- Cổ đông
+
+- Quyền và nghĩa vụ của cổ đông
+
+- Sổ đăng ký cổ đông
+
+- Quyền biểu quyết của cổ đông
+
+- Các trường hợp hợp nhất, sáp nhập, thanh lý, giải thể công ty đầu tư chứng khoán và quyền của cổ đông trong trường hợp thanh lý, giải thể công ty đầu tư chứng khoán.
+
+3.4. Thông tin về các mức phí mà công ty đầu tư chứng khoán phải trả
+
+- Phí quản lý
+
+- Phí giám sát
+
+- Các chi phí khác phù hợp với quy định của pháp luật
+
+- Các loại phí, chi phí hạch toán vào công ty đầu tư.
+
+3.5. Phân chia lợi nhuận và chính sách thuế
+
+- Phương thức xác định và phân phối lợi nhuận của công ty đầu tư chứng khoán;
+
+- Chính sách thuế: thuế áp dụng đối với công ty đầu tư chứng khoán, thuế thu nhập đối với cổ đông (hình thức thanh toán: khấu trừ tại nguồn hoặc cổ đông tự thanh toán)
+
+3.6. Đại hội đồng cổ đông
+
+- Đại hội đồng cổ đông thường niên, bất thường
+
+- Quyền hạn và nhiệm vụ đại hội đồng cổ đông;
+
+- Thể thức tiến hành Đại hội đồng cổ đông;
+
+- Quyết định của đại hội đồng cổ đông.
+
+3.7. Hội đồng quản trị
+
+- Tổ chức hội đồng quản trị;
+
+- Tiêu chuẩn lựa chọn thành viên hội đồng quản trị;
+
+- Quyền hạn và nhiệm vụ của hội đồng quản trị;
+
+- Chủ tịch hội đồng quản trị;
+
+3.8. Tiêu chí lựa chọn, quyền hạn và trách nhiệm của Công ty quản lý quỹ
+
+- Tiêu chuẩn lựa chọn Công ty quản lý quỹ;
+
+- Trách nhiệm và quyền hạn của Công ty quản lý quỹ;
+
+- Chấm dứt quyền và nghĩa vụ đối với Công ty quản lý quỹ;
+
+- Hạn chế hoạt động của Công ty Quản lý quỹ.
+
+3.9. Tiêu chí lựa chọn, quyền hạn và trách nhiệm của Ngân hàng giám sát
+
+- Tiêu chuẩn lựa chọn ngân hàng giám sát;
+
+- Trách nhiệm, quyền hạn của ngân hàng giám sát;
+
+- Chấm dứt quyền và nghĩa vụ đối với ngân hàng giám sát.
+
+3.10. Kiểm toán, kế toán và chế độ báo cáo
+
+4. Các rủi ro khi đầu tư vào công ty đầu tư chứng khoán: Ghi rõ quy trình kiểm soát rủi ro đầu tư của công ty như thế nào
+
+4.1. Rủi ro thị trường
+
+4.2. Rủi ro lãi suất
+
+4.3. Rủi ro lạm phát
+
+4.4. Rủi ro thiếu tính thanh khoản
+
+4.5. Rủi ro pháp lý
+
+4.6. Rủi ro tín nhiệm
+
+4.7. Rủi ro xung đột lợi ích
+
+4.8. Rủi ro đối với sản phẩm đầu tư cụ thể (tùy theo loại tài sản mà Công ty dự kiến đầu tư)
+
+4.9. Rủi ro cá biệt
+
+4.10. Rủi ro khác
+
+5. Các thông tin đầu tư khác
+
+X. TÌNH HÌNH HOẠT ĐỘNG CỦA CÔNG TY ĐẦU TƯ CHỨNG KHOÁN
+
+1. Báo cáo tài chính (cập nhật hàng năm): Thông tin về tình hình hoạt động đầu tư của Công ty đầu tư tài chính 02 năm gần nhất
+
+2. Phí, lệ phí và thưởng hoạt động
+
+2.1. Phí phát hành lần đầu
+
+2.2. Phí quản lý
+
+2.3. Phí giám sát, phí lưu ký
+
+2.4. Các loại phí và lệ phí khác (phí kiểm toán, tư vấn thuế, định giá....)
+
+2.5. Các thông tin khác
+
+3. Các chỉ tiêu hoạt động
+
+4. Phương pháp tính thu nhập và kế hoạch phân chia lợi nhuận của công ty đầu tư chứng khoán
+
+Nêu rõ phương thức tính các khoản thu nhập của công ty đầu tư chứng khoán; kế hoạch và phương thức phân chia lợi nhuận của công ty đầu tư chứng khoán cho các cổ đông.
+
+5. Dự báo kết quả hoạt động của công ty đầu tư chứng khoán
+
+Trong bản cáo bạch có thể đưa ra các dự báo, ước đoán về tình hình chung của nền kinh tế, của thị trường chứng khoán, các xu hướng phát triển kinh tế,.v.v... nhưng phải nêu rõ các dự báo, ước đoán trên không hàm ý đảm bảo về kết quả hoạt động trong tương lai của công ty đầu tư chứng khoán. Bản cáo bạch phải nêu rõ các căn cứ để đưa ra các dự báo trên.
+
+6. Thời gian và địa điểm cung cấp báo cáo hoạt động của công ty đầu tư chứng khoán
+
+XI. XUNG ĐỘT LỢI ÍCH
+
+(Nêu ra nguyên tắc trong việc giải quyết các xung đột lợi ích có thể xảy ra)
+
+XII. CUNG CẤP THÔNG TIN CHO CỔ ĐÔNG (CHẾ ĐỘ BÁO CÁO,...)
+
+Nêu rõ nghĩa vụ của Công ty quản lý quỹ và ngân hàng giám sát trong việc cung cấp bản cáo bạch, báo cáo tài chính và báo cáo hoạt động tháng quý năm cho cổ đông của công ty đầu tư chứng khoán.
+
+XIII. NIÊM YẾT CỔ PHIẾU CÔNG TY ĐẦU TƯ CHỨNG KHOÁN
+
+Các thông tin chung về niêm yết cổ phiếu:
+
+1. Tên chứng khoán:
+
+2. Loại chứng khoán:
+
+3. Mệnh giá:
+
+4. Tổng số chứng khoán niêm yết:
+
+5. Phương pháp tính giá:
+
+6. Số lượng cổ phiếu bị hạn chế chuyển nhượng theo quy định của pháp luật hoặc của tổ chức phát hành
+
+7. Thông tin về những cam kết nhưng chưa thực hiện của tổ chức đăng ký niêm yết
+
+8. Giới hạn về tỷ lệ nắm giữ đối với người nước ngoài
+
+9. Các loại thuế có liên quan (thuế thu nhập và các thuế khác liên quan đến chứng khoán niêm yết)
+
+10. Các thông tin khác
+
+XIV. ĐỊA CHỈ LIÊN LẠC GIẢI ĐÁP THẮC MẮC CHO CÁC CỔ ĐÔNG
+
+Ghi rõ thông tin về địa chỉ, số điện thoại liên lạc để các cổ đông có thể tiếp xúc với Công ty quản lý Quỹ nhằm giải đáp các thắc mắc liên quan đến công ty đầu tư chứng khoán.
+
+XV. CAM KẾT
+
+Công ty đầu tư chứng khoán, Công ty tư vấn, Công ty quản lý quỹ, ngân hàng giám sát và những tổ chức có liên quan khác cam đoan những thông tin trong báo cáo này và các tài liệu đính kèm là đầy đủ, chính xác và cam kết tuân thủ các quy định của pháp luật về chứng khoán và thị trường chứng khoán và các quy định hiện hành có liên quan
+
+XVI. PHỤ LỤC ĐÍNH KÈM
+
+1. Điều lệ Công ty đã được Đại hội cổ đông thông qua theo Điều lệ mẫu
+
+2. Các phụ lục khác được nói đến trong BCB (BCTC, hợp đồng giám sát...)
+
+3. Giới thiệu những văn bản pháp luật liên quan đến cổ phiếu Công ty đầu tư chứng khoán
+
+4. Địa chỉ cung cấp Bản cáo bạch
+
+|  | TẤT CẢ CHỮ KÝ CỦA NGƯỜI CHỊU TRÁCH NHIỆM NỘI DUNG BCB (Ký, ghi rõ họ tên và đóng dấu) |
+
+|--|---------------------------------------------------------------------------------------|
+
+TẤT CẢ CHỮ KÝ CỦA NGƯỜI CHỊU TRÁCH NHIỆM NỘI DUNG BCB (Ký, ghi rõ họ tên và đóng dấu)
+
+PHỤ LỤC SỐ 05
+
+GIẤY ĐĂNG KÝ THAY ĐỔI NIÊM YẾT (Ban hành kèm theo Thông tư số 202/2015/TT-BTC ngày 18 tháng 12 năm 2015 của Bộ Tài chính hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc -------------
+
+GIẤY ĐĂNG KÝ THAY ĐỔI NIÊM YẾT CỔ PHIẾU
+
+Cổ phiếu.... (Tên cổ phiếu)
+
+Kính gửi: Sở giao dịch chứng khoán…
+
+I. THÔNG TIN VỀ TỔ CHỨC NIÊM YẾT
+
+1. Tên tổ chức niêm yết:
+
+2. Tên tiếng Anh:
+
+3. Tên viết tắt:
+
+4. Vốn điều lệ:
+
+- Vốn điều lệ thực góp trước khi thay đổi:
+
+- Vốn điều lệ thực góp sau khi thay đổi:
+
+5. Địa chỉ trụ sở chính:
+
+6. Điện thoại: Fax:
+
+7. Website:
+
+8. Nơi mở tài khoản:
+
+9. Số hiệu tài khoản:
+
+10. Căn cứ pháp lý hoạt động kinh doanh:
+
+- Giấy chứng nhận đăng ký kinh doanh số....... do......... Cấp lần đầu ngày........, thay đổi lần thứ............ ngày.............
+
+- Ngành nghề kinh doanh chính:
+
+- Sản phẩm, dịch vụ chính:
+
+11. Nguồn vốn chủ sở hữu (tại thời điểm…):
+
+12. Cơ cấu vốn cổ phần sau khi thay đổi tăng/giảm cổ phiếu: Dựa trên cơ cấu vốn tại thời điểm..................................
+
+| STT                    | Danh mục                              | Số lượng cổ phiếu | Tỷ lệ % | Số lượng cổ đông | Cơ cấu cổ đông (*) |  |
+
+|------------------------|---------------------------------------|-------------------|---------|------------------|--------------------|--|
+
+| Tổ chức                | Cá nhân                               |                   |         |                  |                    |  |
+
+| 1                      | Cổ đông Nhà nước                      |                   |         |                  |                    |  |
+
+| 2                      | Cổ đông sáng lập/cổ đông FDI          |                   |         |                  |                    |  |
+
+| 3                      | Cổ đông lớn (sở hữu từ 5% cp trở lên) |                   |         |                  |                    |  |
+
+| 4                      | Công đoàn Công ty                     |                   |         |                  |                    |  |
+
+| 5                      | Cổ phiếu quỹ                          |                   |         |                  |                    |  |
+
+| 6                      | Cổ đông khác                          |                   |         |                  |                    |  |
+
+| Tổng cộng              |                                       |                   |         |                  |                    |  |
+
+| Trong đó: - Trong nước |                                       |                   |         |                  |                    |  |
+
+| - Nước ngoài           |                                       |                   |         |                  |                    |  |
+
+STT
+
+Danh mục
+
+Số lượng cổ phiếu
+
+Tỷ lệ %
+
+Số lượng cổ đông
+
+Cơ cấu cổ đông (*)
+
+Tổ chức
+
+Cá nhân
+
+1
+
+Cổ đông Nhà nước
+
+2
+
+Cổ đông sáng lập/cổ đông FDI
+
+3
+
+Cổ đông lớn (sở hữu từ 5% cp trở lên)
+
+4
+
+Công đoàn Công ty
+
+5
+
+Cổ phiếu quỹ
+
+6
+
+Cổ đông khác
+
+Tổng cộng
+
+Trong đó: - Trong nước
+
+- Nước ngoài
+
+(*): nêu số lượng tổ chức, cá nhân của từng loại hình
+
+II. LÝ DO THAY ĐỔI TĂNG/GIẢM SỐ LƯỢNG CỔ PHIẾU ĐĂNG KÝ NIÊM YẾT
+
+III. CỔ PHIẾU THAY ĐỔI ĐĂNG KÝ NIÊM YẾT
+
+1. Tên cổ phiếu:
+
+2. Mã chứng khoán:
+
+3. Loại cổ phiếu:
+
+4. Mệnh giá cổ phiếu:...................... đồng/cổ phiếu
+
+5. Số lượng cổ phiếu thay đổi đăng ký niêm yết:................ cổ phiếu
+
+6. Số lượng cổ phiếu thay đổi không đăng ký niêm yết:.......... cổ phiếu (nếu có)
+
+7. Thời gian dự kiến niêm yết:
+
+8. Số lượng, tỷ lệ cổ phiếu do cổ đông nước ngoài nắm giữ trong tổng số lượng cổ phiếu thay đổi đăng ký niêm yết:
+
+- Số lượng:
+
+- Tỷ lệ:
+
+IV. CỔ PHIẾU SAU KHI THAY ĐỔI ĐĂNG KÝ NIÊM YẾT
+
+1. Tên cổ phiếu:
+
+2. Mã chứng khoán:
+
+3. Loại cổ phiếu:
+
+4. Mệnh giá cổ phiếu: đồng/cổ phiếu
+
+5. Tổng số lượng cổ phiếu niêm yết sau khi thay đổi đăng ký niêm yết:……….. cổ phiếu
+
+6. Tỷ lệ cổ phiếu niêm yết sau khi thay đổi đăng ký niêm yết trên tổng số cổ phiếu đang lưu hành:…............%
+
+7. Tổng số lượng cổ phiếu không đăng ký niêm yết sau khi thay đổi đăng ký niêm yết:……….... cổ phiếu
+
+8. Số lượng, tỷ lệ cổ phiếu do cổ đông nước ngoài nắm giữ trong tổng số lượng cổ phiếu sau khi thay đổi đăng ký niêm yết:
+
+- Số lượng:
+
+- Tỷ lệ:
+
+V. CÁC BÊN CÓ LIÊN QUAN
+
+1. Tổ chức tư vấn:
+
+- Địa chỉ trụ sở chính:
+
+- Điện thoại: Fax:
+
+- Website:
+
+2. Tổ chức bảo lãnh phát hành:
+
+- Địa chỉ trụ sở chính:
+
+- Điện thoại: Fax:
+
+- Website:
+
+3. Tổ chức kiểm toán:
+
+- Địa chỉ trụ sở chính:
+
+- Điện thoại: Fax:
+
+- Website:
+
+VI. CAM KẾT CỦA TỔ CHỨC ĐĂNG KÝ NIÊM YẾT
+
+Chúng tôi đảm bảo các thông tin và số liệu trình bày trong hồ sơ thay đổi đăng ký niêm yết của chúng tôi là đầy đủ, chính xác và trung thực. Chúng tôi cam kết thực hiện nghiêm chỉnh mọi nghĩa vụ của tổ chức niêm yết cũng như các quy định pháp luật về chứng khoán và thị trường chứng khoán và chịu mọi hình thức xử lý nếu vi phạm cam kết nêu trên.
+
+VII. HỒ SƠ KÈM THEO
+
+(Liệt kê các tài liệu đi kèm)
+
+|  | …..........., ngày… tháng…. năm….. TỔ CHỨC NIÊM YẾT ĐẠI DIỆN THEO PHÁP LUẬT (Ký, ghi rõ họ tên, chức vụ và đóng dấu) |
+
+|--|----------------------------------------------------------------------------------------------------------------------|
+
+…..........., ngày… tháng…. năm….. TỔ CHỨC NIÊM YẾT ĐẠI DIỆN THEO PHÁP LUẬT (Ký, ghi rõ họ tên, chức vụ và đóng dấu)
+
+1 Văn bản này hợp nhất từ 02 Thông tư sau:
+
+- Thông tư số 202/2015/TT-BTC ngày 18 tháng 12 năm 2015 của Bộ trưởng Bộ Tài chính hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán, có hiệu lực kể từ ngày 01 tháng 3 năm 2015.
+
+- Thông tư số 29/2017/TT-BTC ngày 12 tháng 4 năm 2017 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 202/2015/TT-BTC ngày 18 tháng 12 năm 2015 hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán, có hiệu lực kể từ ngày 01 tháng 6 năm 2017.
+
+Văn bản hợp nhất này không thay thế 02 Thông tư nêu trên.
+
+2 Thông tư số 29/2017/TT-BTC ngày 12 tháng 4 năm 2017 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 202/2015/TT-BTC ngày 18 tháng 12 năm 2015 hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán có căn cứ ban hành như sau:
+
+“Căn cứ Luật Chứng khoán ngày 29 tháng 6 năm 2006;
+
+Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán ngày 24 tháng 11 năm 2010;
+
+Căn cứ Luật Doanh nghiệp ngày 26 tháng 11 năm 2014;
+
+Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán;
+
+Căn cứ Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán;
+
+Theo đề nghị của Chủ tịch Ủy ban Chứng khoán Nhà nước;
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư sửa đổi, bổ sung một số điều của Thông tư số 202/2015/TT-BTC ngày 18 tháng 12 năm 2015 hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán.”
+
+3 Điểm này được sửa đổi theo quy định tại điểm a khoản 1 Điều 1 Thông tư số 29/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 6 năm 2017.
+
+4 Điểm này được sửa đổi theo quy định tại điểm b khoản 1 Điều 1 Thông tư số 29/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 6 năm 2017.
+
+5 Khoản này được sửa đổi theo quy định tại khoản 2 Điều 1 Thông tư số 29/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 6 năm 2017.
+
+6 Khoản này được sửa đổi theo quy định tại khoản 2 Điều 1 Thông tư số 29/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 6 năm 2017.
+
+7 Khoản này được sửa đổi theo quy định tại khoản 3 Điều 1 Thông tư số 29/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 6 năm 2017.
+
+8 Khoản này được sửa đổi theo quy định tại khoản 4 Điều 1 Thông tư số 29/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 6 năm 2017.
+
+9 Khoản này được sửa đổi theo quy định tại khoản 4 Điều 1 Thông tư số 29/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 6 năm 2017.
+
+10 Khoản này được sửa đổi theo quy định tại khoản 5 Điều 1 Thông tư số 29/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 6 năm 2017.
+
+11 Điểm này được sửa đổi theo quy định tại điểm a khoản 6 Điều 1 Thông tư số 29/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 6 năm 2017.
+
+12 Điểm này được bãi bỏ theo quy định tại Điều 2 Thông tư số 29/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 6 năm 2017.
+
+13 Điểm này được sửa đổi theo quy định tại điểm b khoản 6 Điều 1 Thông tư số 29/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 6 năm 2017.
+
+14 Khoản này được sửa đổi theo quy định tại khoản 7 Điều 1 Thông tư số 29/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 6 năm 2017.
+
+15 Điều này được bổ sung theo quy định tại khoản 8 Điều 1 Thông tư số 29/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 6 năm 2017.
+
+16 Điều 3 Thông tư số 29/2017/TT-BTC ngày 12 tháng 4 năm 2017 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 202/2015/TT-BTC ngày 18 tháng 12 năm 2015 hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán quy định như sau:
+
+“Điều 3. Điều khoản thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 6 năm 2017. Trường hợp công ty hợp nhất đáp ứng điều kiện niêm yết theo quy định tại khoản 4 Điều 4 và khoản 4 Điều 6 Thông tư số 202/2015/TT-BTC ngày 18 tháng 12 năm 2015 hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán đã nộp hồ sơ đăng ký niêm yết hợp lệ trước thời điểm Thông tư này có hiệu lực, điều kiện niêm yết và hồ sơ đăng ký niêm yết được thực hiện theo quy định tại Thông tư số 202/2015/TT-BTC ngày 18 tháng 12 năm 2015 hướng dẫn về niêm yết chứng khoán trên Sở giao dịch chứng khoán.
+
+2. Các Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam và các cơ quan, tổ chức, cá nhân liên quan có trách nhiệm thực hiện Thông tư này.”
+
+17 Phụ lục này đã được sửa đổi theo quy định tại khoản 9 Điều 1 Thông tư số 29/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 6 năm 2017.

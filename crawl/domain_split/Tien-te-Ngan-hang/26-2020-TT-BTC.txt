@@ -1,0 +1,199 @@
+| BỘ TÀI CHÍNH       | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|--------------------|-----------------------------------------------------------------|
+
+| Số: 26/2020/TT-BTC | Hà Nội, ngày 14 tháng 4 năm 2020                                |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 26/2020/TT-BTC
+
+Hà Nội, ngày 14 tháng 4 năm 2020
+
+THÔNG TƯ
+
+SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG CỦA THÔNG TƯ SỐ 111/2007/TT-BTC NGÀY 12 THÁNG 9 NĂM 2007 HƯỚNG DẪN THỰC HIỆN QUY CHẾ QUẢN LÝ TÀI CHÍNH ĐỐI VỚI NGÂN HÀNG PHÁT TRIỂN VIỆT NAM VÀ THÔNG TƯ SỐ 67/2016/TT-BTC NGÀY 29 THÁNG 4 NĂM 2016 SỬA ĐỔI, BỔ SUNG MỘT SỐ NỘI DUNG CỦA THÔNG TƯ SỐ 111/2007/TT-BTC NGÀY 12 THÁNG 9 NĂM 2007 HƯỚNG DẪN THỰC HIỆN QUY CHẾ QUẢN LÝ TÀI CHÍNH ĐỐI VỚI NGÂN HÀNG PHÁT TRIỂN VIỆT NAM
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 07 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Nghị định số 32/2017/NĐ-CP ngày 31 tháng 03 năm 2017 của Chính phủ về tín dụng đầu tư của Nhà nước;
+
+Căn cứ Quyết định số 44/2007/QĐ-TTg ngày 30 tháng 03 năm 2007 của Thủ tướng Chính phủ về việc ban hành Quy chế quản lý tài chính đối với Ngân hàng Phát triển Việt Nam;
+
+Theo đề nghị của Vụ trưởng Vụ Tài chính các ngân hàng và tổ chức tài chính;
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư sửa đổi, bổ sung Thông tư số 111/2007/TT-BTC ngày 12 tháng 09 năm 2007 hướng dẫn thực hiện quy chế quản lý tài chính đối với Ngân hàng Phát triển Việt Nam và Thông tư số 67/2016/TT-BTC ngày 29 tháng 4 năm 2016 sửa đổi, bổ sung một số nội dung của Thông tư số 111/2007/TT-BTC ngày 12 tháng 9 năm 2007 hướng dẫn thực hiện quy chế quản lý tài chính đối với Ngân hàng Phát triển Việt Nam.
+
+Điều 1. Sửa đổi, bổ sung một số điều của Thông tư số 111/2007/TT- BTC ngày 12 tháng 9 năm 2007 hướng dẫn thực hiện quy chế quản lý tài chính đối với Ngân hàng Phát triển Việt Nam như sau:
+
+1. Điểm 3.2 khoản 3 Phần V được sửa đổi như sau:
+
+“3.2. Cách xác định các yếu tố để tính số cấp bù chênh lệch lãi suất
+
+a) Dư nợ cho vay bình quân: là tổng số dư nợ cho vay các chương trình, dự án được ngân sách nhà nước cấp bù chênh lệch lãi suất theo quy định (sau đây gọi tắt là các dự án được cấp bù) tính theo phương pháp bình quân tháng;
+
+b) Lãi suất bình quân các nguồn vốn được xác định như sau:
+
+| Lãi suất bình quân các nguồn vốn (quý, năm)                  | = | Tổng lãi thực trả cho việc huy động các nguồn vốn (quý, năm) |
+
+|--------------------------------------------------------------|---|--------------------------------------------------------------|
+
+| Tổng nguồn vốn thực tế tính theo phương pháp bình quân tháng |   |                                                              |
+
+Lãi suất bình quân các nguồn vốn (quý, năm)
+
+=
+
+Tổng lãi thực trả cho việc huy động các nguồn vốn (quý, năm)
+
+Tổng nguồn vốn thực tế tính theo phương pháp bình quân tháng
+
+Trong đó:
+
+- Tổng lãi thực trả cho việc huy động các nguồn vốn là tổng số lãi thực trả để huy động các nguồn vốn phải trả lãi được sử dụng để cho vay các dự án được cấp bù và nguồn vốn tồn ngân tiền mặt, tiền gửi tại Ngân hàng Nhà nước Việt Nam, tiền gửi tại các tổ chức tín dụng để đảm bảo thanh khoản cho các dự án được cấp bù (sau đây gọi tắt là tồn ngân được cấp bù); được xác định cụ thể như sau:
+
+| Tổng lãi thực trả cho việc huy động các nguồn vốn (quý, năm) | = | (Nguồn vốn được cấp bù (quý, năm) | - | Nguồn vốn không phải trả lãi (quý, năm)) | x | Lãi suất huy động bình quân (quý, năm) |
+
+|--------------------------------------------------------------|---|-----------------------------------|---|------------------------------------------|---|----------------------------------------|
+
+Tổng lãi thực trả cho việc huy động các nguồn vốn (quý, năm)
+
+=
+
+(Nguồn vốn được cấp bù (quý, năm)
+
+-
+
+Nguồn vốn không phải trả lãi (quý, năm))
+
+x
+
+Lãi suất huy động bình quân (quý, năm)
+
+| (Nguồn vốn được cấp bù (quý, năm) | = | Dư nợ cho vay bình quân (quý, năm) | + | Tồn ngân được cấp bù (quý, năm) |
+
+|-----------------------------------|---|------------------------------------|---|---------------------------------|
+
+(Nguồn vốn được cấp bù (quý, năm)
+
+=
+
+Dư nợ cho vay bình quân (quý, năm)
+
++
+
+Tồn ngân được cấp bù (quý, năm)
+
+| Tồn ngân được cấp bù (quý, năm) | = | 7% | x | Dư nợ cho vay bình quân (quý, năm) |
+
+|---------------------------------|---|----|---|------------------------------------|
+
+Tồn ngân được cấp bù (quý, năm)
+
+=
+
+7%
+
+x
+
+Dư nợ cho vay bình quân (quý, năm)
+
+| Lãi suất huy động bình quân (quý, năm)                                                                                              | = | Tổng chi phí lãi thực trả (quý, năm) (không bao gồm chi phí trả lãi cho nguồn vốn huy động chỉ định) |
+
+|-------------------------------------------------------------------------------------------------------------------------------------|---|------------------------------------------------------------------------------------------------------|
+
+| Tổng số dư bình quân nguồn vốn huy động (quý, năm) tính theo phương pháp bình quân tháng (không bao gồm nguồn vốn huy động chỉ định |   |                                                                                                      |
+
+Lãi suất huy động bình quân (quý, năm)
+
+=
+
+Tổng chi phí lãi thực trả (quý, năm) (không bao gồm chi phí trả lãi cho nguồn vốn huy động chỉ định)
+
+Tổng số dư bình quân nguồn vốn huy động (quý, năm) tính theo phương pháp bình quân tháng (không bao gồm nguồn vốn huy động chỉ định
+
+Nguồn vốn huy động bao gồm phát hành trái phiếu được Chính phủ bảo lãnh theo quy định của pháp luật; phát hành trái phiếu, kỳ phiếu, chứng chỉ tiền gửi, giấy tờ có giá bằng nội tệ của Ngân hàng Phát triển Việt Nam theo quy định của pháp luật; vay Bảo hiểm xã hội Việt Nam; vay của các tổ chức tài chính, tín dụng trong nước và nước ngoài theo quy định của pháp luật; vay tái cấp vốn tại Ngân hàng Nhà nước Việt Nam theo quy định của pháp luật và hướng dẫn của Ngân hàng Nhà nước Việt Nam; nhận tiền gửi ủy thác của các tổ chức trong và ngoài nước.
+
+Nguồn vốn huy động chỉ định là các nguồn vay các tổ chức tài chính, tổ chức tín dụng ở nước ngoài và nguồn vốn vay lại vốn vay nước ngoài của Chính phủ để cho vay các chương trình, dự án không được cấp bù chênh lệch lãi suất.
+
+Nguồn vốn không phải trả lãi bao gồm vốn điều lệ của Ngân hàng Phát triển Việt Nam; chênh lệch do đánh giá lại tài sản, chênh lệch tỷ giá; các quỹ dự trữ bổ sung vốn điều lệ, quỹ đầu tư phát triển; kết quả hoạt động chưa phân phối các quý, năm trước; vốn đầu tư xây dựng cơ bản ngân sách nhà nước cấp và vốn khác thuộc sở hữu của Ngân hàng Phát triển Việt Nam. Khi xác định nguồn vốn không phải trả lãi, Ngân hàng Phát triển Việt Nam xác định theo phương pháp bình quân tháng và được loại trừ:
+
++ Số vốn thực tế đã sử dụng để đầu tư, mua sắm tài sản cố định (nguyên giá tài sản cố định trừ đi khấu hao) và chi phí xây dựng cơ bản dở dang theo mức thực tế nhưng tối đa không vượt quá 30% vốn điều lệ và quỹ dự trữ bổ sung vốn điều lệ của Ngân hàng Phát triển Việt Nam.
+
++ Số vốn điều lệ thực tế đã góp vốn điều lệ của Tổng công ty Phát triển hạ tầng và Đầu tư tài chính Việt Nam.
+
+- Tổng nguồn vốn thực tế được xác định bằng dư nợ cho vay bình quân;
+
+c) Lãi suất cho vay bình quân các dự án: là lãi suất tính theo phương pháp bình quân gia quyền giữa dư nợ cho vay thực tế theo phương pháp bình quân tháng với lãi suất cho vay được xác định cho từng dự án và được tính như sau:
+
+| Lãi suất cho vay bình quân (quý, năm)                            | = | Tổng thu nợ lãi cho vay (quý, năm) |
+
+|------------------------------------------------------------------|---|------------------------------------|
+
+| Tổng dư nợ cho vay thực tế tính theo phương pháp bình quân tháng |   |                                    |
+
+Lãi suất cho vay bình quân (quý, năm)
+
+=
+
+Tổng thu nợ lãi cho vay (quý, năm)
+
+Tổng dư nợ cho vay thực tế tính theo phương pháp bình quân tháng
+
+Tổng số thu nợ lãi cho vay là lãi thực thu được (kể cả lãi trong hạn và lãi quá hạn) từ các dự án được cấp bù và số lãi tiền gửi thực thu được từ nguồn vốn tồn ngân được cấp bù, trong đó:
+
+| Số lãi tiền gửi thực thu được từ nguồn vốn tồn ngân được cấp bù (quý, năm) | = | Tồn ngân được cấp bù (quý, năm) | x | Lãi suất tiền gửi bình quân (quý, năm) |
+
+|----------------------------------------------------------------------------|---|---------------------------------|---|----------------------------------------|
+
+Số lãi tiền gửi thực thu được từ nguồn vốn tồn ngân được cấp bù (quý, năm)
+
+=
+
+Tồn ngân được cấp bù (quý, năm)
+
+x
+
+Lãi suất tiền gửi bình quân (quý, năm)
+
+| Lãi suất tiền gửi bình quân (quý, năm)                                                        | = | Tổng lãi tiền gửi thực thu (quý, năm) |
+
+|-----------------------------------------------------------------------------------------------|---|---------------------------------------|
+
+| Tổng tồn ngân (tiền mặt, tiền gửi) bình quân (quý, năm) tính theo phương pháp bình quân tháng |   |                                       |
+
+Lãi suất tiền gửi bình quân (quý, năm)
+
+=
+
+Tổng lãi tiền gửi thực thu (quý, năm)
+
+Tổng tồn ngân (tiền mặt, tiền gửi) bình quân (quý, năm) tính theo phương pháp bình quân tháng
+
+2. Gạch đầu dòng thứ hai tiết c Điểm 4.2 Khoản 4 Phần V được sửa đổi như sau:
+
+“Nếu số được cấp bù cả năm được quyết toán thấp hơn số đã tạm cấp bù trong năm (theo các quý) thì phần chênh lệch vượt phải nộp lại ngân sách nhà nước, trừ trường hợp được Thủ tướng Chính phủ cho phép kéo dài thời gian thực hiện đến 31/12 năm sau thì được chuyển nguồn sang năm sau.”
+
+Điều 2. Bãi bỏ khoản 1 và khoản 2 Điều 1 Thông tư số 67/2016/TT-BTC ngày 29 tháng 4 năm 2016 về sửa đổi, bổ sung một số nội dung của Thông tư số 111/2007/TT-BTC ngày 12 tháng 09 năm 2007 hướng dẫn thực hiện quy chế quản lý tài chính đối với Ngân hàng Phát triển Việt Nam.
+
+Điều 3. Điều khoản chuyển tiếp
+
+Việc xác định chính thức số cấp bù chênh lệch lãi suất cho Ngân hàng Phát triển Việt Nam chưa hoàn thành trước thời điểm Thông tư này có hiệu lực thi hành thì thực hiện theo quy định tại Thông tư này.
+
+Điều 4. Hiệu lực thi hành và tổ chức thực hiện
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 29 tháng 5 năm 2020.
+
+2. Hội đồng quản trị, Tổng giám đốc Ngân hàng Phát triển và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành quy định tại Thông tư này.
+
+3. Trong quá trình thực hiện, nếu có khó khăn vướng mắc, đề nghị các cơ quan, đơn vị có liên quan phản ánh về Bộ Tài chính để được hướng dẫn theo quy định của pháp luật./.
+
+| Nơi nhận: - Thủ tướng, các Phó Thủ tướng Chính phủ; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng bí thư; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Các Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - Viện Kiểm sát nhân dân tối cao; - Tòa án nhân dân tối cao; - Kiểm toán Nhà nước, - Cơ quan Trung ương của các đoàn thể; - Công báo; - Website Chính phủ, Bộ Tài chính; - UBND, Sở Tài chính các tỉnh, TP trực thuộc TW; - Cục kiểm tra văn bản (Bộ Tư pháp); - Các đơn vị trực thuộc Bộ Tài chính; - Lưu: VT, TCNH (5). | KT. BỘ TRƯỞNG THỨ TRƯỞNG Huỳnh Quang Hải |
+
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+
+Nơi nhận: - Thủ tướng, các Phó Thủ tướng Chính phủ; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng bí thư; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Các Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - Viện Kiểm sát nhân dân tối cao; - Tòa án nhân dân tối cao; - Kiểm toán Nhà nước, - Cơ quan Trung ương của các đoàn thể; - Công báo; - Website Chính phủ, Bộ Tài chính; - UBND, Sở Tài chính các tỉnh, TP trực thuộc TW; - Cục kiểm tra văn bản (Bộ Tư pháp); - Các đơn vị trực thuộc Bộ Tài chính; - Lưu: VT, TCNH (5).
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Huỳnh Quang Hải

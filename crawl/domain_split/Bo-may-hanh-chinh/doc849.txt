@@ -1,0 +1,741 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 2146/QĐ-BTC | Hà Nội, ngày 12 tháng 11 năm 2021                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 2146/QĐ-BTC
+
+Hà Nội, ngày 12 tháng 11 năm 2021
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH KẾ HOẠCH TỔNG THỂ THỰC HIỆN CÁC GIẢI PHÁP TẠI ĐỀ ÁN “QUẢN LÝ THUẾ ĐỐI VỚI HOẠT ĐỘNG THƯƠNG MẠI ĐIỆN TỬ TẠI VIỆT NAM”
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Luật quản lý thuế ngày 13 tháng 6 năm 2019;
+
+Căn cứ Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật quản lý thuế;
+
+Căn cứ Thông tư số 80/2021/TT-BTC ngày 29/09/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế;
+
+Căn cứ Thông tư số 40/2021/TT-BTC ngày 01/06/2021 của Bộ Tài chính hướng dẫn thuế giá trị gia tăng, thuế thu nhập cá nhân và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Tổng cục Trưởng Tổng cục Thuế.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành Kế hoạch tổng thể thực hiện các giải pháp tại đề án “Quản lý thuế đối với hoạt động thương mại điện tử tại Việt Nam” nhằm tăng cường hiệu quả công tác quản lý thuế đối với thương mại điện tử trong nước và xuyên biên giới, chú trọng hoạt động cung cấp dịch vụ số xuyên biên giới của nhà cung cấp nước ngoài không có cơ sở kinh doanh cố định tại Việt Nam.
+
+Kế hoạch được xây dựng để triển khai trong ngắn hạn và dài hạn từ nay đến hết năm 2025. Trong ngắn hạn: chú trọng công tác tuyên truyền, hỗ trợ người nộp thuế thực hiện nghĩa vụ thuế áp dụng công nghệ thông tin cấp độ 4.0; phối hợp với các Bộ/Ngành, tổ chức, hiệp hội; xây dựng cơ sở dữ liệu rủi ro; kiểm tra, đối chiếu thông tin người nộp thuế; thanh tra đối với người nộp thuế lớn, phức tạp, không tuân thủ nghĩa vụ thuế; củng cố chức năng quản lý thuế chuyên sâu đối với thương mại điện tử của một số Vụ/đơn vị thuộc Tổng cục Thuế; xúc tiến hợp tác quốc tế. Trong dài hạn: hoàn thiện pháp thuế và pháp luật chuyên ngành có liên quan; xây dựng đề án bổ sung chức năng điều tra cho cơ quan thuế.
+
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.
+
+Điều 3. Thủ trưởng các đơn vị thuộc Bộ Tài chính căn cứ nội dung phân công tại kế hoạch kèm theo Quyết định này có trách nhiệm tổ chức thực hiện./.
+
+| Nơi nhận: - Các đồng chí lãnh đạo Bộ Tài chính; - Như Điều 3; - Cổng thông tin điện tử Bộ Tài chính; - Lưu: VT, TCT (VP, DNNCN(3b)). | BỘ TRƯỞNG Hồ Đức Phớc |
+
+|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+
+Nơi nhận: - Các đồng chí lãnh đạo Bộ Tài chính; - Như Điều 3; - Cổng thông tin điện tử Bộ Tài chính; - Lưu: VT, TCT (VP, DNNCN(3b)).
+
+BỘ TRƯỞNG Hồ Đức Phớc
+
+KẾ HOẠCH TỔNG THỂ
+
+TRIỂN KHAI ĐỀ ÁN QUẢN LÝ THUẾ ĐỐI VỚI THƯƠNG MẠI ĐIỆN TỬ TẠI VIỆT NAM (Kèm theo Quyết định số 2146/QĐ-BTC ngày 12/11/2021 của Bộ Tài chính)
+
+| TT                                                                                          | Nội dung công việc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Sản phẩm                                                                                                                                                                                                                                                  | Thời gian thực hiện | Đơn vị chủ trì                                        | Đơn vị phối hợp                                                                   |
+
+|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------------------------------------------|-----------------------------------------------------------------------------------|
+
+| A.                                                                                          | LỘ TRÌNH NGẮN HẠN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| I                                                                                           | TĂNG CƯỜNG CÔNG TÁC QUẢN LÝ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 1                                                                                           | Nghiên cứu, sửa đổi, bổ sung các quy trình quản lý thuế hiện hành để đáp ứng quản lý đối với TMĐT; Nghiên cứu, xây dựng các tài liệu hướng dẫn về đăng ký thuế, kê khai thuế, nộp thuế cho nhà cung cấp ở nước ngoài không có cơ sở kinh doanh cố định tại Việt Nam.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | - Quy trình (Quy trình đăng ký thuế, Quy trình kê khai kế toán thuế, Quy trình thanh tra, kiểm tra và các Quy trình có liên quan) sửa đổi, bổ sung khi chưa đáp ứng yêu cầu quản lý thuế, ban hành kèm theo Quyết định của Tổng cục trưởng Tổng cục Thuế. | Trước tháng 12/2022 | Tổng cục Thuế                                         | -                                                                                 |
+
+| - Tài liệu hướng dẫn về đăng ký thuế, kê khai thuế, nộp thuế cho nhà cung cấp ở nước ngoài. | Trước 01/01/2022                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 2                                                                                           | Tăng cường công tác tuyên truyền về chính sách thuế, quản lý thuế đối với hoạt động TMĐT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 2.1                                                                                         | Tuyên truyền qua các phương tiện thông tin đại chúng bằng nhiều hình thức đa dạng, phù hợp.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Các bài báo, chương trình phổ biến pháp luật thuế, tham gia các chương trình truyền hình liên quan đến TMĐT,...                                                                                                                                           | 2021-2023           | Tổng cục Thuế                                         | Văn phòng BTC                                                                     |
+
+| 2.2                                                                                         | Tổ chức cuộc thi viết về thuế đối với TMĐT.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Công bố kết quả và trao giải cuộc thi.                                                                                                                                                                                                                    | Trong năm 2022      | Tổng cục Thuế                                         | Văn phòng BTC                                                                     |
+
+| 3                                                                                           | Thực hiện thanh tra, kiểm tra theo chuyên đề đối với hoạt động TMĐT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 3.1                                                                                         | Thanh tra, kiểm tra theo chuyên đề tại Hà Nội và Hồ Chí Minh đối với hoạt động TMĐT trong nước.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Báo cáo kết quả thanh tra, kiểm tra, đối chiếu thông tin theo chuyên đề đối với hoạt động TMĐT trong nước.                                                                                                                                                | Đến tháng 12/2023   | Tổng cục Thuế                                         | Thanh tra BTC                                                                     |
+
+| 3.2                                                                                         | Kiểm tra đối chiếu thông tin theo chuyên đề đối với hoạt động TMĐT xuyên biên giới.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Báo cáo kết quả kiểm tra đối chiếu thông tin theo chuyên đề đối với hoạt động TMĐT xuyên biên giới.                                                                                                                                                       | Đến tháng 12/2023   | Tổng cục Thuế                                         | Thanh tra BTC                                                                     |
+
+| 3.3                                                                                         | Chỉ đạo và hướng dẫn các Cục Thuế địa phương xây dựng kế hoạch thanh tra, kiểm tra hàng năm để áp dụng trên toàn quốc đối với hoạt động TMĐT.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Báo cáo kết quả trên toàn quốc đối với hoạt động TMĐT.                                                                                                                                                                                                    | Đến tháng 12/2023   | Tổng cục Thuế                                         | Thanh tra BTC                                                                     |
+
+| 4                                                                                           | Tăng cường công tác đào tạo:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 4.1                                                                                         | Xây dựng chương trình đào tạo bồi dưỡng cán bộ thuế đối với lĩnh vực TMĐT để áp dụng cho việc đào tạo toàn ngành từ năm 2023.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Các khóa đào tạo, bồi dưỡng cho cán bộ ngành thuế về hoạt động TMĐT.                                                                                                                                                                                      | Trước tháng 6/2023  | Tổng cục Thuế                                         | Trường Bồi dưỡng cán bộ tài chính                                                 |
+
+| 4.2                                                                                         | Xây dựng tài liệu đào tạo: - Chính sách thuế, quản lý thuế đối với TMĐT tại Việt Nam. - Kỹ năng khai thác, tìm kiếm, thu thập thông tin từ nhiều nguồn để phục vụ cho công tác quản lý thuế đối với hoạt động thương mại điện tử. - Kỹ năng thanh tra, kiểm tra đối với hoạt động TMĐT.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Tài liệu đào tạo                                                                                                                                                                                                                                          | Trước tháng 6/2023  | Tổng cục Thuế                                         | Trường Bồi dưỡng cán bộ tài chính                                                 |
+
+| II                                                                                          | PHỐI HỢP VỚI CÁC BỘ, NGÀNH, HIỆP HỘI, TỔ CHỨC CÓ LIÊN QUAN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 1                                                                                           | Xây dựng chương trình làm việc với Bộ Công An, Ngân hàng Nhà nước.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 1.1                                                                                         | Trình Bộ tài liệu làm việc trực tiếp với Bộ Công An về công tác quản lý thuế đối với hoạt động TMĐT.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Tài liệu làm việc với Bộ Công An.                                                                                                                                                                                                                         | Trong tháng 11/2021 | Tổng cục Thuế                                         | Văn phòng BTC                                                                     |
+
+| 1.2                                                                                         | Trình Bộ ban hành công văn gửi Ngân hàng nhà nước đề nghị phối hợp với Bộ Tài chính (TCT) trong công tác quản lý thuế đối với hoạt động TMĐT.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Dự thảo văn bản gửi Ngân hàng nhà nước đề xuất các nội dung kiến nghị Ngân hàng nhà nước phối hợp trong công tác quản lý thuế đối với hoạt động TMĐT.                                                                                                     |                     |                                                       |                                                                                   |
+
+| 2                                                                                           | Triển khai các biện pháp phối hợp với các Bộ, Ngành, tổ chức có liên quan:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                           | 2021-2023           |                                                       | Văn phòng BTC                                                                     |
+
+| - Bộ Công Thương.                                                                           | Thỏa thuận phối hợp.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Tổng cục Hải quan                                                                                                                                                                                                                                         |                     |                                                       |                                                                                   |
+
+| - Bộ Thông tin và Truyền thông.                                                             | Thỏa thuận phối hợp.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Tổng cục Thuế                                                                                                                                                                                                                                             |                     |                                                       |                                                                                   |
+
+| - Ngân hàng nhà nước, Ngân hàng thương mại.                                                 | Tài liệu làm việc hoặc văn bản phối hợp.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Tổng cục Thuế                                                                                                                                                                                                                                             |                     |                                                       |                                                                                   |
+
+| - Bộ Công an.                                                                               | Tài liệu làm việc hoặc văn bản phối hợp.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| - Hiệp hội TMĐT, tổ chức có liên quan.                                                      | Văn bản phối hợp.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 3                                                                                           | Báo cáo Thủ tướng Chính phủ về các giải pháp triển khai công tác quản lý thuế đối với TMĐT và đề xuất cơ chế phối hợp giữa cơ quan thuế với các Bộ/ngành có liên quan                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Văn bản báo cáo Thủ tướng về công tác triển khai quản lý thuế đối với TMĐT và đề xuất cơ chế phối hợp giữa các Bộ, ngành.                                                                                                                                 | Trong tháng 12/2021 | Tổng cục Thuế                                         | Văn phòng BTC                                                                     |
+
+| III                                                                                         | HIỆN ĐẠI HÓA CÔNG TÁC QUẢN LÝ THUẾ ĐỐI VỚI TMĐT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 1                                                                                           | Xây dựng Cổng thông tin điện tử thuộc Tổng cục Thuế để các nhà cung cấp ở nước ngoài không có cơ sở kinh doanh cố định tại Việt Nam thực hiện đăng ký thuế, kê khai thuế, nộp thuế tại Việt Nam.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Cổng thông tin điện tử thuộc Tổng cục Thuế để các nhà cung cấp ở nước ngoài không có cơ sở kinh doanh cố định tại Việt Nam thực hiện đăng ký thuế, kê khai thuế, nộp thuế tại Việt Nam.                                                                   | Trước 01/01/2022    | Tổng cục Thuế                                         | Cục Tin học và thống kê tài chính - BTC                                           |
+
+| 2                                                                                           | Xây dựng giải pháp kỹ thuật, hạ tầng CNTT để kết nối, lưu trữ thông tin từ Sàn giao dịch TMĐT đến Cơ quan thuế theo quy định của pháp luật, thông tin từ các cơ quan nhà nước có chức năng quản lý đối với hoạt động TMĐT.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Giải pháp ứng dụng để kết nối và hệ thống lưu trữ thông tin.                                                                                                                                                                                              | Trước tháng 12/2022 | Tổng cục Thuế                                         | Cục Tin học và thống kê tài chính - BTC                                           |
+
+| 3                                                                                           | Ứng dụng các phần mềm công nghệ thông tin để thu thập, phân tích thông tin, dữ liệu về hoạt động TMĐT, kinh doanh trên nền tảng số và kinh doanh xuyên biên giới phục vụ công tác quản lý thuế.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Phần mềm công nghệ thông tin để thu thập, phân tích thông tin, dữ liệu.                                                                                                                                                                                   | Trước tháng 12/2022 | Tổng cục Thuế                                         | Cục Tin học và thống kê tài chính - BTC                                           |
+
+| IV                                                                                          | XÂY DỰNG CƠ SỞ DỮ LIỆU QUẢN LÝ RỦI RO ĐỐI VỚI TMĐT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 1                                                                                           | Xây dựng CSDL về tổ chức, cá nhân có hoạt động TMĐT để phục vụ công tác quản lý thuế từ các nguồn thông tin: (1) CSDL của ngành thuế, kết quả thanh tra, kiểm tra; (2) từ bên thứ 3 cung cấp (bao gồm thông tin từ các cơ quan nhà nước có liên quan) theo yêu cầu nghiệp vụ.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | CSDL về tổ chức, cá nhân có hoạt động TMĐT.                                                                                                                                                                                                               | Trước tháng 12/2022 | Tổng cục Thuế                                         | -                                                                                 |
+
+| 2                                                                                           | Khai thác, phân tích CSDL áp dụng rủi ro về tổ chức, cá nhân có hoạt động TMĐT trong đó có sử dụng phương pháp học máy - áp dụng trí tuệ nhân tạo (AI) để xử lý dữ liệu, đưa ra các cảnh báo đối với trường hợp vượt ngưỡng rủi ro; Tổng cục Thuế có văn bản chỉ đạo toàn ngành đối với hoạt động TMĐT; phân cấp khai thác, chia sẻ dữ liệu với các cơ quan thuế cấp dưới.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Văn bản chỉ đạo toàn ngành về áp dụng quản lý rủi ro đối với TMĐT                                                                                                                                                                                         | Trước tháng 6/2023  | Tổng cục Thuế                                         | -                                                                                 |
+
+| V                                                                                           | XÚC TIẾN HỢP TÁC QUỐC TẾ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 1                                                                                           | Thông qua việc đào tạo kỹ năng và nhận diện các trường hợp rủi ro có thể khai thác thông tin từ cơ quan thuế nước ngoài, tăng cường trao đổi thông tin thuế với cơ quan thuế các nước, hợp tác chống gian lận thuế quốc tế đối với hoạt động TMĐT và dịch vụ kỹ thuật số xuyên biên giới.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Thông tin trao đổi về quản lý thuế đối với hoạt động TMĐT và dịch vụ kỹ thuật số của các nước để hợp tác chống gian lận thuế quốc tế.                                                                                                                     | Trong năm 2022      | Tổng cục Thuế                                         | Vụ Hợp tác quốc tế - BTC                                                          |
+
+| 2                                                                                           | Xây dựng và trình Chính phủ về chủ trương tham gia đàm phán, ký kết Hiệp định đa phương về phân bố lợi nhuận đối với hoạt động kinh doanh kỹ thuật số                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Tờ trình Chính phủ về việc chủ trương tham gia đàm phán, ký kết Hiệp định đa phương về phân bố lợi nhuận đối với hoạt động kinh doanh kỹ thuật số                                                                                                         | Trong năm 2022      | Tổng cục Thuế                                         | Vụ Hợp tác quốc tế - BTC                                                          |
+
+| 3                                                                                           | Xây dựng chương trình hợp tác quốc tế, trao đổi kinh nghiệm về quản lý thuế quốc tế (đặc biệt thanh tra, kiểm tra thuế) đối với hoạt động TMĐT và dịch vụ kỹ thuật số xuyên biên giới.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Chương trình hợp tác quốc tế, trao đổi kinh nghiệm về quản lý thuế quốc tế đối với hoạt động TMĐT và dịch vụ kỹ thuật số.                                                                                                                                 | Trong năm 2022      | Tổng cục Thuế                                         | Vụ Hợp tác quốc tế - BTC                                                          |
+
+| 4                                                                                           | Xúc tiến đàm phán các hiệp định song phương hoặc đa phương về thuế đối với hoạt động TMĐT và dịch vụ kỹ thuật số xuyên biên giới.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Hiệp định song phương hoặc đa phương về thuế đối với hoạt động TMĐT và dịch vụ kỹ thuật số.                                                                                                                                                               | Từ năm 2023         | Tổng cục Thuế                                         | Vụ Hợp tác quốc tế - BTC                                                          |
+
+| VI                                                                                          | HOÀN THIỆN TỔ CHỨC BỘ MÁY QUẢN LÝ THUẾ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+|                                                                                             | Nghiên cứu bổ sung chức năng nhiệm vụ của một số Vụ, đơn vị thuộc Tổng cục thuế nhằm nâng cao hiệu quả trong công tác quản lý thuế đối với hoạt động TMĐT.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Quyết định về chức năng, nhiệm vụ của các Vụ, đơn vị thuộc Tổng cục thuế.                                                                                                                                                                                 | Trong tháng 10/2021 | Vụ TCCB-BTC                                           | Tổng cục Thuế                                                                     |
+
+| B.                                                                                          | LỘ TRÌNH DÀI HẠN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| I                                                                                           | HOÀN THIỆN QUY ĐỊNH PHÁP LUẬT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 1                                                                                           | Nghiên cứu xây dựng chính sách thuế áp dụng đối với dịch vụ số xuyên biên giới (DST- Digital service Tax) trong điều kiện bị điều chỉnh bởi hiệp định tránh đánh thuế hai lần Theo kinh nghiệm một số nước, ngoài thuế GTGT các quốc gia có thể ban hành một quy định thuế riêng áp dụng đối với dịch vụ số xuyên biên giới (DST- Digital service Tax), như: Ấn độ đã áp dụng 2%, một số nước thuộc liên minh Châu Âu đang đề xuất ban hành luật từ 1,5% đến 7,5%. Với quy định thuế riêng này sẽ được xây dựng phù hợp với những nội dung mới sẽ được bổ sung, sửa đổi tại các Hiệp định tránh đánh thuế hai lần. Theo khuyến cáo thì mức thuế (DST- Digital service Tax) nên được xây dựng tương ứng với tỷ lệ điều chỉnh thuế nếu tham gia các hiệp định song phương và đa phương trong tương lai.                                                                                                                                                               | Đề xuất xây dựng chính sách thuế đối với dịch vụ số xuyên biên giới.                                                                                                                                                                                      | Trước 2024          | Tổng cục Thuế                                         | Vụ Chính sách thuế - BTC; Vụ Pháp chế - BTC                                       |
+
+| 2                                                                                           | Sửa đổi, bổ sung quy định pháp luật thuế hiện hành (trong trường hợp chưa nghiên cứu xây dựng chính sách thuế áp dụng đối với dịch vụ số xuyên biên giới) đảm bảo mức động viên hợp lý theo xu hướng quốc tế và khu vực                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 2.1                                                                                         | Luật Thuế TNDN: - Quy định mức thuế suất tính trên doanh thu đối với hoạt động TMĐT của nhà cung cấp nước ngoài không có cơ sở kinh doanh cố định tại Việt Nam. Mức thuế suất đảm bảo phù hợp với xu hướng của các nước trong khu vực và thông lệ quốc tế nhằm đơn giản, hiệu quả trong việc thu thuế. - Sửa đổi, bổ sung nội dung khác nếu cần thiết.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Luật thuế TNDN.                                                                                                                                                                                                                                           | Trước 2024          | Vụ Chính sách thuế - BTC                              | Vụ Pháp chế - BTC; Tổng cục Thuế                                                  |
+
+| 2.2                                                                                         | Luật Quản lý thuế: - Quy định trách nhiệm khấu trừ, khai thuế, nộp thuế đối với chủ sở hữu sàn giao dịch TMĐT thực hiện khấu trừ thuế đối với CNKD thông qua sàn giao dịch TMĐT. - Quy định các NCC nước ngoài không có cơ sở kinh doanh cố định tại Việt Nam trước khi trả tiền cho cá nhân Việt Nam (dòng tiền vào VN) thì thực hiện khấu trừ, khai thuế trực tiếp với cơ quan thuế qua Cổng thông tin điện tử của ngành thuế. Hiện nay đã có quy định NCC nước ngoài không có cơ sở kinh doanh cố định tại VN cung cấp hàng hóa dịch vụ cho tổ chức, cá nhân trong nước (dòng tiền ra) khai thuế, nộp thuế điện tử trực tiếp tại Cổng thông tin điện tử của TCT. - Quy định các ngân hàng thương mại, trung gian thanh toán căn cứ khoản tiền được tra từ nước ngoài thông qua tài khoản của cá nhân để khấu trừ, khai thay, nộp thay cho cá nhân trong nước khi nhận tiền từ kinh doanh được tra từ nước ngoài. - Sửa đổi, bổ sung nội dung khác nếu cần thiết. | Luật Quản lý thuế.                                                                                                                                                                                                                                        | Trước 2024          | Tổng cục Thuế                                         | Các Vụ/đơn vị có liên quan                                                        |
+
+| 3                                                                                           | Sửa đổi, bổ sung quy định pháp luật chuyên ngành liên quan                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 3.1                                                                                         | Các văn bản Luật chuyên ngành có liên quan:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 3.1.1                                                                                       | - Phối hợp với Ngân hàng Nhà nước Việt Nam để đề xuất sửa đổi, bổ sung Luật các tổ chức tín dụng theo hướng: + Quy định các NHTM, trung gian thanh toán phải trao đổi, kết nối thông tin các giao dịch thanh toán mua bán hàng hóa trên các sàn giao dịch TMĐT, hoạt động TMĐT xuyên biên giới với cơ quan thuế theo hình thức điện tử đảm bảo bảo mật thông tin. + Sửa đổi, bổ sung nội dung khác nếu cần thiết.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Đề xuất sửa đổi, bổ sung Luật các tổ chức tín dụng.                                                                                                                                                                                                       |                     | Vụ Tài chính các ngân hàng và tổ chức tài chính - BTC | Vụ Pháp chế - BTC; Tổng cục Thuế                                                  |
+
+| 3.1.2                                                                                       | - Phối hợp với Bộ Công an để đề xuất sửa đổi, bổ sung Luật An ninh mạng theo hướng: + Quy định các NHTM, trung gian thanh toán phải trao đổi, kết nối thông tin các giao dịch thanh toán mua bán hàng hóa trên các sàn giao dịch TMĐT, hoạt động TMĐT xuyên biên giới với cơ quan thuế theo hình thức điện tử đảm bảo bảo mật thông tin. + Sửa đổi, bổ sung nội dung khác nếu cần thiết.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Đề xuất sửa đổi, bổ sung Luật An ninh mạng.                                                                                                                                                                                                               |                     | Vụ Tài chính các ngân hàng và tổ chức tài chính - BTC | Vụ tài chính Quốc phòng, an ninh, đặc biệt- BTC; Vụ Pháp chế - BTC; Tổng cục Thuế |
+
+| 3.2                                                                                         | Các Nghị định hướng dẫn Luật chuyên ngành có liên quan:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 3.2.1                                                                                       | Phối hợp với Ngân hàng Nhà nước Việt Nam để đề xuất sửa đổi, bổ sung Nghị định số 117/2018/NĐ-CP về việc giữ bí mật, cung cấp thông tin khách hàng của các tổ chức tín dụng theo hướng: - Đề xuất quy định các trung gian thanh toán phải trao đổi, kết nối thông tin các giao dịch thanh toán mua bán hàng hóa trên các sàn giao dịch TMĐT với cơ quan thuế theo hình thức điện tử. - Đề xuất quy định các thông tin trao đổi, phương thức trao đổi, kết nối thông tin đảm bảo bảo mật thông tin. - Sửa đổi, bổ sung nội dung khác nếu cần thiết.                                                                                                                                                                                                                                                                                                                                                                                                                  | Đề xuất sửa đổi, bổ sung Nghị định 117/2018/NĐ-CP.                                                                                                                                                                                                        |                     | Vụ Tài chính các ngân hàng và tổ chức tài chính - BTC | Vụ Pháp chế - BTC; Tổng cục Thuế                                                  |
+
+| 3.2.2                                                                                       | Phối hợp với Bộ Thông tin và Truyền thông để đề xuất sửa đổi, bổ sung Nghị định số 72/2013/NĐ-CP về quản lý, cung cấp, sử dụng dịch vụ mạng internet và thông tin trên mạng và Nghị định số 49/2017/NĐ-CP của Chính Phủ quy định xử phạt vi phạm hành chính trong lĩnh vực bưu chính, viễn thông, công nghệ thông tin và tần số vô tuyến điện theo hướng: - Đề xuất sửa đổi, bổ sung quy định về nghĩa vụ tuân thủ pháp luật thuế đối với chủ thể cung cấp dịch vụ viễn thông, quảng cáo trên mạng; quy định trách nhiệm của các tổ chức cung cấp dịch vụ viễn thông trong việc kết nối thông tin với cơ quan thuế để định danh các cá nhân, tổ chức thông qua số điện thoại. Thông qua Bộ Thông tin và Truyền thông để xử lý các trường hợp chủ thể vi phạm pháp luật thuế và thực hiện tạm dừng, thu hồi cấp phép hoạt động trên môi trường viễn thông, mạng và nền tảng số - Sửa đổi, bổ sung nội dung khác nếu cần thiết.                                       | Đề xuất sửa đổi, bổ sung Nghị định số 72/2013/NĐ-CP và Nghị định 49/2017/NĐ-CP                                                                                                                                                                            |                     | Tổng cục Thuế                                         | Vụ Pháp chế - BTC                                                                 |
+
+| 3.2.3                                                                                       | Phối hợp với Bộ Công Thương để đề xuất sửa đổi, bổ sung Nghị định số 52/2013/NĐ-CP và Nghị định số 85/2021/NĐ-CP về thương mại điện tử theo hướng: - Đề nghị nghiên cứu, bổ sung cơ sở pháp lý tại các văn bản quy phạm pháp luật trong lĩnh vực kinh doanh TMĐT để đảm bảo: (i) quy định các doanh nghiệp là chủ sở hữu Sàn giao dịch TMĐT phải có trách nhiệm kết nối, cung cấp thông tin theo hình thức điện tử với cơ quan thuế để phục vụ công tác quản lý thuế; (ii) việc đăng ký hoạt động kinh doanh của các tổ chức, cá nhân trên các Sàn giao dịch TMĐT bắt buộc phải có thông tin Mã số thuế và giấy phép đăng ký kinh doanh; (iii) các tổ chức, cá nhân kinh doanh trên các sàn TMĐT phải có trách nhiệm cung cấp thông tin theo yêu cầu của cơ quan thuế để phục vụ công tác quản lý thuế - Sửa đổi, bổ sung nội dung khác nếu cần thiết.                                                                                                              | Đề xuất sửa đổi, bổ sung Nghị định số 52/2013/NĐ-CP và Nghị định số 85/2021/NĐ-CP.                                                                                                                                                                        |                     | Tổng cục Thuế                                         | Vụ Pháp chế - BTC                                                                 |
+
+| 3.3                                                                                         | Xây dựng cơ sở pháp lý về tiền ảo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+|                                                                                             | Phối hợp với Bộ Tư pháp, NHNN để xây dựng cơ sở pháp lý cho việc quản lý tiền ảo phù hợp thông lệ quốc tế để tránh những vấn đề về trốn thuế, rửa tiền thuế.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Đề xuất hoàn thiện cơ sở pháp lý cho việc quản lý đối với tiền ảo.                                                                                                                                                                                        |                     | Ủy ban Chứng khoán Nhà nước - BTC                     | Vụ Pháp chế - BTC; Tổng cục Thuế                                                  |
+
+| II                                                                                          | HOÀN THIỆN TỔ CHỨC BỘ MÁY QUẢN LÝ THUẾ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 1                                                                                           | Xây dựng Đề án bổ sung chức năng điều tra cho Tổng cục Thuế                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 1.1                                                                                         | Đề xuất sửa pháp luật liên quan (Luật Quản lý thuế, Luật Tổ chức các cơ quan điều tra, Luật tố tụng hình sự ...) trong đó cho phép Tổng cục thuế có chức năng điều tra. Trên cơ sở đó Vụ TCCB - BTC chủ trì trình dự thảo Quyết định chức năng, nhiệm vụ của Tổng cục Thuế.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Đề án bổ sung chức năng điều tra cho Tổng cục Thuế.                                                                                                                                                                                                       | Trước 2025          | Tổng cục Thuế                                         | Vụ tổ chức cán bộ - BTC; Vụ Pháp chế - BTC                                        |
+
+| 1.2                                                                                         | Xây dựng kế hoạch triển khai, lộ trình đào tạo lực lượng, triển khai thực hiện từ 2025.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Quyết định bổ sung chức năng điều tra cho Tổng cục Thuế.                                                                                                                                                                                                  | Tổng cục Thuế       | -                                                     |                                                                                   |
+
+| C                                                                                           | BỐ TRÍ KINH PHÍ THỰC HIỆN ĐỀ ÁN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                           |                     |                                                       |                                                                                   |
+
+| 1                                                                                           | Xâv dựng dự toán kinh phí thực hiện Đề án                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Tờ trình Bộ về dự toán kinh phí thực hiện Đề án.                                                                                                                                                                                                          | Đến tháng 12/2021   | Cục Kế hoạch Tài chính - BTC                          | Tổng cục Thuế                                                                     |
+
+| 2                                                                                           | Quyết toán kinh phí thực hiện Đề án                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Tờ trình Bộ về quyết toán triển khai đề án.                                                                                                                                                                                                               | Trước tháng 4/2024  | Cục Kế hoạch Tài chính - BTC                          | Tổng cục Thuế                                                                     |
+
+TT
+
+Nội dung công việc
+
+Sản phẩm
+
+Thời gian thực hiện
+
+Đơn vị chủ trì
+
+Đơn vị phối hợp
+
+A.
+
+LỘ TRÌNH NGẮN HẠN
+
+I
+
+TĂNG CƯỜNG CÔNG TÁC QUẢN LÝ
+
+1
+
+Nghiên cứu, sửa đổi, bổ sung các quy trình quản lý thuế hiện hành để đáp ứng quản lý đối với TMĐT; Nghiên cứu, xây dựng các tài liệu hướng dẫn về đăng ký thuế, kê khai thuế, nộp thuế cho nhà cung cấp ở nước ngoài không có cơ sở kinh doanh cố định tại Việt Nam.
+
+- Quy trình (Quy trình đăng ký thuế, Quy trình kê khai kế toán thuế, Quy trình thanh tra, kiểm tra và các Quy trình có liên quan) sửa đổi, bổ sung khi chưa đáp ứng yêu cầu quản lý thuế, ban hành kèm theo Quyết định của Tổng cục trưởng Tổng cục Thuế.
+
+Trước tháng 12/2022
+
+Tổng cục Thuế
+
+-
+
+- Tài liệu hướng dẫn về đăng ký thuế, kê khai thuế, nộp thuế cho nhà cung cấp ở nước ngoài.
+
+Trước 01/01/2022
+
+2
+
+Tăng cường công tác tuyên truyền về chính sách thuế, quản lý thuế đối với hoạt động TMĐT
+
+2.1
+
+Tuyên truyền qua các phương tiện thông tin đại chúng bằng nhiều hình thức đa dạng, phù hợp.
+
+Các bài báo, chương trình phổ biến pháp luật thuế, tham gia các chương trình truyền hình liên quan đến TMĐT,...
+
+2021-2023
+
+Tổng cục Thuế
+
+Văn phòng BTC
+
+2.2
+
+Tổ chức cuộc thi viết về thuế đối với TMĐT.
+
+Công bố kết quả và trao giải cuộc thi.
+
+Trong năm 2022
+
+Tổng cục Thuế
+
+Văn phòng BTC
+
+3
+
+Thực hiện thanh tra, kiểm tra theo chuyên đề đối với hoạt động TMĐT
+
+3.1
+
+Thanh tra, kiểm tra theo chuyên đề tại Hà Nội và Hồ Chí Minh đối với hoạt động TMĐT trong nước.
+
+Báo cáo kết quả thanh tra, kiểm tra, đối chiếu thông tin theo chuyên đề đối với hoạt động TMĐT trong nước.
+
+Đến tháng 12/2023
+
+Tổng cục Thuế
+
+Thanh tra BTC
+
+3.2
+
+Kiểm tra đối chiếu thông tin theo chuyên đề đối với hoạt động TMĐT xuyên biên giới.
+
+Báo cáo kết quả kiểm tra đối chiếu thông tin theo chuyên đề đối với hoạt động TMĐT xuyên biên giới.
+
+Đến tháng 12/2023
+
+Tổng cục Thuế
+
+Thanh tra BTC
+
+3.3
+
+Chỉ đạo và hướng dẫn các Cục Thuế địa phương xây dựng kế hoạch thanh tra, kiểm tra hàng năm để áp dụng trên toàn quốc đối với hoạt động TMĐT.
+
+Báo cáo kết quả trên toàn quốc đối với hoạt động TMĐT.
+
+Đến tháng 12/2023
+
+Tổng cục Thuế
+
+Thanh tra BTC
+
+4
+
+Tăng cường công tác đào tạo:
+
+4.1
+
+Xây dựng chương trình đào tạo bồi dưỡng cán bộ thuế đối với lĩnh vực TMĐT để áp dụng cho việc đào tạo toàn ngành từ năm 2023.
+
+Các khóa đào tạo, bồi dưỡng cho cán bộ ngành thuế về hoạt động TMĐT.
+
+Trước tháng 6/2023
+
+Tổng cục Thuế
+
+Trường Bồi dưỡng cán bộ tài chính
+
+4.2
+
+Xây dựng tài liệu đào tạo:
+
+- Chính sách thuế, quản lý thuế đối với TMĐT tại Việt Nam.
+
+- Kỹ năng khai thác, tìm kiếm, thu thập thông tin từ nhiều nguồn để phục vụ cho công tác quản lý thuế đối với hoạt động thương mại điện tử.
+
+- Kỹ năng thanh tra, kiểm tra đối với hoạt động TMĐT.
+
+Tài liệu đào tạo
+
+Trước tháng 6/2023
+
+Tổng cục Thuế
+
+Trường Bồi dưỡng cán bộ tài chính
+
+II
+
+PHỐI HỢP VỚI CÁC BỘ, NGÀNH, HIỆP HỘI, TỔ CHỨC CÓ LIÊN QUAN
+
+1
+
+Xây dựng chương trình làm việc với Bộ Công An, Ngân hàng Nhà nước.
+
+1.1
+
+Trình Bộ tài liệu làm việc trực tiếp với Bộ Công An về công tác quản lý thuế đối với hoạt động TMĐT.
+
+Tài liệu làm việc với Bộ Công An.
+
+Trong tháng 11/2021
+
+Tổng cục Thuế
+
+Văn phòng BTC
+
+1.2
+
+Trình Bộ ban hành công văn gửi Ngân hàng nhà nước đề nghị phối hợp với Bộ Tài chính (TCT) trong công tác quản lý thuế đối với hoạt động TMĐT.
+
+Dự thảo văn bản gửi Ngân hàng nhà nước đề xuất các nội dung kiến nghị Ngân hàng nhà nước phối hợp trong công tác quản lý thuế đối với hoạt động TMĐT.
+
+2
+
+Triển khai các biện pháp phối hợp với các Bộ, Ngành, tổ chức có liên quan:
+
+2021-2023
+
+Văn phòng BTC
+
+- Bộ Công Thương.
+
+Thỏa thuận phối hợp.
+
+Tổng cục Hải quan
+
+- Bộ Thông tin và Truyền thông.
+
+Thỏa thuận phối hợp.
+
+Tổng cục Thuế
+
+- Ngân hàng nhà nước, Ngân hàng thương mại.
+
+Tài liệu làm việc hoặc văn bản phối hợp.
+
+Tổng cục Thuế
+
+- Bộ Công an.
+
+Tài liệu làm việc hoặc văn bản phối hợp.
+
+- Hiệp hội TMĐT, tổ chức có liên quan.
+
+Văn bản phối hợp.
+
+3
+
+Báo cáo Thủ tướng Chính phủ về các giải pháp triển khai công tác quản lý thuế đối với TMĐT và đề xuất cơ chế phối hợp giữa cơ quan thuế với các Bộ/ngành có liên quan
+
+Văn bản báo cáo Thủ tướng về công tác triển khai quản lý thuế đối với TMĐT và đề xuất cơ chế phối hợp giữa các Bộ, ngành.
+
+Trong tháng 12/2021
+
+Tổng cục Thuế
+
+Văn phòng BTC
+
+III
+
+HIỆN ĐẠI HÓA CÔNG TÁC QUẢN LÝ THUẾ ĐỐI VỚI TMĐT
+
+1
+
+Xây dựng Cổng thông tin điện tử thuộc Tổng cục Thuế để các nhà cung cấp ở nước ngoài không có cơ sở kinh doanh cố định tại Việt Nam thực hiện đăng ký thuế, kê khai thuế, nộp thuế tại Việt Nam.
+
+Cổng thông tin điện tử thuộc Tổng cục Thuế để các nhà cung cấp ở nước ngoài không có cơ sở kinh doanh cố định tại Việt Nam thực hiện đăng ký thuế, kê khai thuế, nộp thuế tại Việt Nam.
+
+Trước 01/01/2022
+
+Tổng cục Thuế
+
+Cục Tin học và thống kê tài chính - BTC
+
+2
+
+Xây dựng giải pháp kỹ thuật, hạ tầng CNTT để kết nối, lưu trữ thông tin từ Sàn giao dịch TMĐT đến Cơ quan thuế theo quy định của pháp luật, thông tin từ các cơ quan nhà nước có chức năng quản lý đối với hoạt động TMĐT.
+
+Giải pháp ứng dụng để kết nối và hệ thống lưu trữ thông tin.
+
+Trước tháng 12/2022
+
+Tổng cục Thuế
+
+Cục Tin học và thống kê tài chính - BTC
+
+3
+
+Ứng dụng các phần mềm công nghệ thông tin để thu thập, phân tích thông tin, dữ liệu về hoạt động TMĐT, kinh doanh trên nền tảng số và kinh doanh xuyên biên giới phục vụ công tác quản lý thuế.
+
+Phần mềm công nghệ thông tin để thu thập, phân tích thông tin, dữ liệu.
+
+Trước tháng 12/2022
+
+Tổng cục Thuế
+
+Cục Tin học và thống kê tài chính - BTC
+
+IV
+
+XÂY DỰNG CƠ SỞ DỮ LIỆU QUẢN LÝ RỦI RO ĐỐI VỚI TMĐT
+
+1
+
+Xây dựng CSDL về tổ chức, cá nhân có hoạt động TMĐT để phục vụ công tác quản lý thuế từ các nguồn thông tin: (1) CSDL của ngành thuế, kết quả thanh tra, kiểm tra; (2) từ bên thứ 3 cung cấp (bao gồm thông tin từ các cơ quan nhà nước có liên quan) theo yêu cầu nghiệp vụ.
+
+CSDL về tổ chức, cá nhân có hoạt động TMĐT.
+
+Trước tháng 12/2022
+
+Tổng cục Thuế
+
+-
+
+2
+
+Khai thác, phân tích CSDL áp dụng rủi ro về tổ chức, cá nhân có hoạt động TMĐT trong đó có sử dụng phương pháp học máy - áp dụng trí tuệ nhân tạo (AI) để xử lý dữ liệu, đưa ra các cảnh báo đối với trường hợp vượt ngưỡng rủi ro; Tổng cục Thuế có văn bản chỉ đạo toàn ngành đối với hoạt động TMĐT; phân cấp khai thác, chia sẻ dữ liệu với các cơ quan thuế cấp dưới.
+
+Văn bản chỉ đạo toàn ngành về áp dụng quản lý rủi ro đối với TMĐT
+
+Trước tháng 6/2023
+
+Tổng cục Thuế
+
+-
+
+V
+
+XÚC TIẾN HỢP TÁC QUỐC TẾ
+
+1
+
+Thông qua việc đào tạo kỹ năng và nhận diện các trường hợp rủi ro có thể khai thác thông tin từ cơ quan thuế nước ngoài, tăng cường trao đổi thông tin thuế với cơ quan thuế các nước, hợp tác chống gian lận thuế quốc tế đối với hoạt động TMĐT và dịch vụ kỹ thuật số xuyên biên giới.
+
+Thông tin trao đổi về quản lý thuế đối với hoạt động TMĐT và dịch vụ kỹ thuật số của các nước để hợp tác chống gian lận thuế quốc tế.
+
+Trong năm 2022
+
+Tổng cục Thuế
+
+Vụ Hợp tác quốc tế - BTC
+
+2
+
+Xây dựng và trình Chính phủ về chủ trương tham gia đàm phán, ký kết Hiệp định đa phương về phân bố lợi nhuận đối với hoạt động kinh doanh kỹ thuật số
+
+Tờ trình Chính phủ về việc chủ trương tham gia đàm phán, ký kết Hiệp định đa phương về phân bố lợi nhuận đối với hoạt động kinh doanh kỹ thuật số
+
+Trong năm 2022
+
+Tổng cục Thuế
+
+Vụ Hợp tác quốc tế - BTC
+
+3
+
+Xây dựng chương trình hợp tác quốc tế, trao đổi kinh nghiệm về quản lý thuế quốc tế (đặc biệt thanh tra, kiểm tra thuế) đối với hoạt động TMĐT và dịch vụ kỹ thuật số xuyên biên giới.
+
+Chương trình hợp tác quốc tế, trao đổi kinh nghiệm về quản lý thuế quốc tế đối với hoạt động TMĐT và dịch vụ kỹ thuật số.
+
+Trong năm 2022
+
+Tổng cục Thuế
+
+Vụ Hợp tác quốc tế - BTC
+
+4
+
+Xúc tiến đàm phán các hiệp định song phương hoặc đa phương về thuế đối với hoạt động TMĐT và dịch vụ kỹ thuật số xuyên biên giới.
+
+Hiệp định song phương hoặc đa phương về thuế đối với hoạt động TMĐT và dịch vụ kỹ thuật số.
+
+Từ năm 2023
+
+Tổng cục Thuế
+
+Vụ Hợp tác quốc tế - BTC
+
+VI
+
+HOÀN THIỆN TỔ CHỨC BỘ MÁY QUẢN LÝ THUẾ
+
+Nghiên cứu bổ sung chức năng nhiệm vụ của một số Vụ, đơn vị thuộc Tổng cục thuế nhằm nâng cao hiệu quả trong công tác quản lý thuế đối với hoạt động TMĐT.
+
+Quyết định về chức năng, nhiệm vụ của các Vụ, đơn vị thuộc Tổng cục thuế.
+
+Trong tháng 10/2021
+
+Vụ TCCB-BTC
+
+Tổng cục Thuế
+
+B.
+
+LỘ TRÌNH DÀI HẠN
+
+I
+
+HOÀN THIỆN QUY ĐỊNH PHÁP LUẬT
+
+1
+
+Nghiên cứu xây dựng chính sách thuế áp dụng đối với dịch vụ số xuyên biên giới (DST- Digital service Tax) trong điều kiện bị điều chỉnh bởi hiệp định tránh đánh thuế hai lần
+
+Theo kinh nghiệm một số nước, ngoài thuế GTGT các quốc gia có thể ban hành một quy định thuế riêng áp dụng đối với dịch vụ số xuyên biên giới (DST- Digital service Tax), như: Ấn độ đã áp dụng 2%, một số nước thuộc liên minh Châu Âu đang đề xuất ban hành luật từ 1,5% đến 7,5%. Với quy định thuế riêng này sẽ được xây dựng phù hợp với những nội dung mới sẽ được bổ sung, sửa đổi tại các Hiệp định tránh đánh thuế hai lần. Theo khuyến cáo thì mức thuế (DST- Digital service Tax) nên được xây dựng tương ứng với tỷ lệ điều chỉnh thuế nếu tham gia các hiệp định song phương và đa phương trong tương lai.
+
+Đề xuất xây dựng chính sách thuế đối với dịch vụ số xuyên biên giới.
+
+Trước 2024
+
+Tổng cục Thuế
+
+Vụ Chính sách thuế - BTC; Vụ Pháp chế - BTC
+
+2
+
+Sửa đổi, bổ sung quy định pháp luật thuế hiện hành (trong trường hợp chưa nghiên cứu xây dựng chính sách thuế áp dụng đối với dịch vụ số xuyên biên giới) đảm bảo mức động viên hợp lý theo xu hướng quốc tế và khu vực
+
+2.1
+
+Luật Thuế TNDN:
+
+- Quy định mức thuế suất tính trên doanh thu đối với hoạt động TMĐT của nhà cung cấp nước ngoài không có cơ sở kinh doanh cố định tại Việt Nam. Mức thuế suất đảm bảo phù hợp với xu hướng của các nước trong khu vực và thông lệ quốc tế nhằm đơn giản, hiệu quả trong việc thu thuế.
+
+- Sửa đổi, bổ sung nội dung khác nếu cần thiết.
+
+Luật thuế TNDN.
+
+Trước 2024
+
+Vụ Chính sách thuế - BTC
+
+Vụ Pháp chế - BTC; Tổng cục Thuế
+
+2.2
+
+Luật Quản lý thuế:
+
+- Quy định trách nhiệm khấu trừ, khai thuế, nộp thuế đối với chủ sở hữu sàn giao dịch TMĐT thực hiện khấu trừ thuế đối với CNKD thông qua sàn giao dịch TMĐT.
+
+- Quy định các NCC nước ngoài không có cơ sở kinh doanh cố định tại Việt Nam trước khi trả tiền cho cá nhân Việt Nam (dòng tiền vào VN) thì thực hiện khấu trừ, khai thuế trực tiếp với cơ quan thuế qua Cổng thông tin điện tử của ngành thuế. Hiện nay đã có quy định NCC nước ngoài không có cơ sở kinh doanh cố định tại VN cung cấp hàng hóa dịch vụ cho tổ chức, cá nhân trong nước (dòng tiền ra) khai thuế, nộp thuế điện tử trực tiếp tại Cổng thông tin điện tử của TCT.
+
+- Quy định các ngân hàng thương mại, trung gian thanh toán căn cứ khoản tiền được tra từ nước ngoài thông qua tài khoản của cá nhân để khấu trừ, khai thay, nộp thay cho cá nhân trong nước khi nhận tiền từ kinh doanh được tra từ nước ngoài.
+
+- Sửa đổi, bổ sung nội dung khác nếu cần thiết.
+
+Luật Quản lý thuế.
+
+Trước 2024
+
+Tổng cục Thuế
+
+Các Vụ/đơn vị có liên quan
+
+3
+
+Sửa đổi, bổ sung quy định pháp luật chuyên ngành liên quan
+
+3.1
+
+Các văn bản Luật chuyên ngành có liên quan:
+
+3.1.1
+
+- Phối hợp với Ngân hàng Nhà nước Việt Nam để đề xuất sửa đổi, bổ sung Luật các tổ chức tín dụng theo hướng:
+
++ Quy định các NHTM, trung gian thanh toán phải trao đổi, kết nối thông tin các giao dịch thanh toán mua bán hàng hóa trên các sàn giao dịch TMĐT, hoạt động TMĐT xuyên biên giới với cơ quan thuế theo hình thức điện tử đảm bảo bảo mật thông tin.
+
++ Sửa đổi, bổ sung nội dung khác nếu cần thiết.
+
+Đề xuất sửa đổi, bổ sung Luật các tổ chức tín dụng.
+
+Vụ Tài chính các ngân hàng và tổ chức tài chính - BTC
+
+Vụ Pháp chế - BTC; Tổng cục Thuế
+
+3.1.2
+
+- Phối hợp với Bộ Công an để đề xuất sửa đổi, bổ sung Luật An ninh mạng theo hướng:
+
++ Quy định các NHTM, trung gian thanh toán phải trao đổi, kết nối thông tin các giao dịch thanh toán mua bán hàng hóa trên các sàn giao dịch TMĐT, hoạt động TMĐT xuyên biên giới với cơ quan thuế theo hình thức điện tử đảm bảo bảo mật thông tin.
+
++ Sửa đổi, bổ sung nội dung khác nếu cần thiết.
+
+Đề xuất sửa đổi, bổ sung Luật An ninh mạng.
+
+Vụ Tài chính các ngân hàng và tổ chức tài chính - BTC
+
+Vụ tài chính Quốc phòng, an ninh, đặc biệt- BTC; Vụ Pháp chế - BTC; Tổng cục Thuế
+
+3.2
+
+Các Nghị định hướng dẫn Luật chuyên ngành có liên quan:
+
+3.2.1
+
+Phối hợp với Ngân hàng Nhà nước Việt Nam để đề xuất sửa đổi, bổ sung Nghị định số 117/2018/NĐ-CP về việc giữ bí mật, cung cấp thông tin khách hàng của các tổ chức tín dụng theo hướng:
+
+- Đề xuất quy định các trung gian thanh toán phải trao đổi, kết nối thông tin các giao dịch thanh toán mua bán hàng hóa trên các sàn giao dịch TMĐT với cơ quan thuế theo hình thức điện tử.
+
+- Đề xuất quy định các thông tin trao đổi, phương thức trao đổi, kết nối thông tin đảm bảo bảo mật thông tin.
+
+- Sửa đổi, bổ sung nội dung khác nếu cần thiết.
+
+Đề xuất sửa đổi, bổ sung Nghị định 117/2018/NĐ-CP.
+
+Vụ Tài chính các ngân hàng và tổ chức tài chính - BTC
+
+Vụ Pháp chế - BTC; Tổng cục Thuế
+
+3.2.2
+
+Phối hợp với Bộ Thông tin và Truyền thông để đề xuất sửa đổi, bổ sung Nghị định số 72/2013/NĐ-CP về quản lý, cung cấp, sử dụng dịch vụ mạng internet và thông tin trên mạng và Nghị định số 49/2017/NĐ-CP của Chính Phủ quy định xử phạt vi phạm hành chính trong lĩnh vực bưu chính, viễn thông, công nghệ thông tin và tần số vô tuyến điện theo hướng:
+
+- Đề xuất sửa đổi, bổ sung quy định về nghĩa vụ tuân thủ pháp luật thuế đối với chủ thể cung cấp dịch vụ viễn thông, quảng cáo trên mạng; quy định trách nhiệm của các tổ chức cung cấp dịch vụ viễn thông trong việc kết nối thông tin với cơ quan thuế để định danh các cá nhân, tổ chức thông qua số điện thoại. Thông qua Bộ Thông tin và Truyền thông để xử lý các trường hợp chủ thể vi phạm pháp luật thuế và thực hiện tạm dừng, thu hồi cấp phép hoạt động trên môi trường viễn thông, mạng và nền tảng số
+
+- Sửa đổi, bổ sung nội dung khác nếu cần thiết.
+
+Đề xuất sửa đổi, bổ sung Nghị định số 72/2013/NĐ-CP và Nghị định 49/2017/NĐ-CP
+
+Tổng cục Thuế
+
+Vụ Pháp chế - BTC
+
+3.2.3
+
+Phối hợp với Bộ Công Thương để đề xuất sửa đổi, bổ sung Nghị định số 52/2013/NĐ-CP và Nghị định số 85/2021/NĐ-CP về thương mại điện tử theo hướng:
+
+- Đề nghị nghiên cứu, bổ sung cơ sở pháp lý tại các văn bản quy phạm pháp luật trong lĩnh vực kinh doanh TMĐT để đảm bảo: (i) quy định các doanh nghiệp là chủ sở hữu Sàn giao dịch TMĐT phải có trách nhiệm kết nối, cung cấp thông tin theo hình thức điện tử với cơ quan thuế để phục vụ công tác quản lý thuế; (ii) việc đăng ký hoạt động kinh doanh của các tổ chức, cá nhân trên các Sàn giao dịch TMĐT bắt buộc phải có thông tin Mã số thuế và giấy phép đăng ký kinh doanh; (iii) các tổ chức, cá nhân kinh doanh trên các sàn TMĐT phải có trách nhiệm cung cấp thông tin theo yêu cầu của cơ quan thuế để phục vụ công tác quản lý thuế
+
+- Sửa đổi, bổ sung nội dung khác nếu cần thiết.
+
+Đề xuất sửa đổi, bổ sung Nghị định số 52/2013/NĐ-CP và Nghị định số 85/2021/NĐ-CP.
+
+Tổng cục Thuế
+
+Vụ Pháp chế - BTC
+
+3.3
+
+Xây dựng cơ sở pháp lý về tiền ảo
+
+Phối hợp với Bộ Tư pháp, NHNN để xây dựng cơ sở pháp lý cho việc quản lý tiền ảo phù hợp thông lệ quốc tế để tránh những vấn đề về trốn thuế, rửa tiền thuế.
+
+Đề xuất hoàn thiện cơ sở pháp lý cho việc quản lý đối với tiền ảo.
+
+Ủy ban Chứng khoán Nhà nước - BTC
+
+Vụ Pháp chế - BTC; Tổng cục Thuế
+
+II
+
+HOÀN THIỆN TỔ CHỨC BỘ MÁY QUẢN LÝ THUẾ
+
+1
+
+Xây dựng Đề án bổ sung chức năng điều tra cho Tổng cục Thuế
+
+1.1
+
+Đề xuất sửa pháp luật liên quan (Luật Quản lý thuế, Luật Tổ chức các cơ quan điều tra, Luật tố tụng hình sự ...) trong đó cho phép Tổng cục thuế có chức năng điều tra. Trên cơ sở đó Vụ TCCB - BTC chủ trì trình dự thảo Quyết định chức năng, nhiệm vụ của Tổng cục Thuế.
+
+Đề án bổ sung chức năng điều tra cho Tổng cục Thuế.
+
+Trước 2025
+
+Tổng cục Thuế
+
+Vụ tổ chức cán bộ - BTC; Vụ Pháp chế - BTC
+
+1.2
+
+Xây dựng kế hoạch triển khai, lộ trình đào tạo lực lượng, triển khai thực hiện từ 2025.
+
+Quyết định bổ sung chức năng điều tra cho Tổng cục Thuế.
+
+Tổng cục Thuế
+
+-
+
+C
+
+BỐ TRÍ KINH PHÍ THỰC HIỆN ĐỀ ÁN
+
+1
+
+Xâv dựng dự toán kinh phí thực hiện Đề án
+
+Tờ trình Bộ về dự toán kinh phí thực hiện Đề án.
+
+Đến tháng 12/2021
+
+Cục Kế hoạch Tài chính - BTC
+
+Tổng cục Thuế
+
+2
+
+Quyết toán kinh phí thực hiện Đề án
+
+Tờ trình Bộ về quyết toán triển khai đề án.
+
+Trước tháng 4/2024
+
+Cục Kế hoạch Tài chính - BTC
+
+Tổng cục Thuế

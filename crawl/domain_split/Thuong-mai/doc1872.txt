@@ -1,0 +1,915 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 08/VBHN-BTC | Hà Nội, ngày 14 tháng 4 năm 2017                                |
+
+BỘ TÀI CHÍNH --------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 08/VBHN-BTC
+
+Hà Nội, ngày 14 tháng 4 năm 2017
+
+THÔNG TƯ [1]
+
+HƯỚNG DẪN MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 42/2015/NĐ-CP NGÀY 05 THÁNG 5 NĂM 2015 CỦA CHÍNH PHỦ VỀ CHỨNG KHOÁN PHÁI SINH VÀ THỊ TRƯỜNG CHỨNG KHOÁN PHÁI SINH
+
+Thông tư số 11/2016/TT-BTC ngày 19 tháng 01 năm 2016 của Bộ trưởng Bộ Tài chính hướng dẫn một số điều của Nghị định số 42/2015/NĐ-CP ngày 05 tháng 5 năm 2015 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh, có hiệu lực kể từ ngày 01 tháng 7 năm 2016, được sửa đổi, bổ sung bởi:
+
+Thông tư số 23/2017/TT-BTC ngày 16 tháng 3 năm 2017 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 11/2016/TT-BTC ngày 19 tháng 01 năm 2016 hướng dẫn một số điều của Nghị định số 42/2015/NĐ-CP ngày 05 tháng 5 năm 2015 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh, có hiệu lực kể từ ngày 01 tháng 5 năm 2017.
+
+Căn cứ Luật Chứng khoán ngày 29 tháng 6 năm 2006;
+
+Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán ngày 24 tháng 11 năm 2010;
+
+Căn cứ Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán;
+
+Căn cứ Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán; Căn cứ Nghị định số 42/2015/NĐ-CP ngày 05 tháng 5 năm 2015 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh;
+
+Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Theo đề nghị của Chủ tịch Ủy ban Chứng khoán Nhà nước;
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn một số điều của Nghị định số 42/2015/NĐ-CP ngày 05 tháng 5 năm 2015 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh[2].
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+1. Thông tư này hướng dẫn một số điều của Nghị định số 42/2015/NĐ-CP ngày 05 tháng 5 năm 2015 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh, bao gồm:
+
+a) Các sản phẩm chứng khoán phái sinh bao gồm: hợp đồng tương lai chỉ số chứng khoán, hợp đồng tương lai trái phiếu Chính phủ;
+
+b) Tổ chức hoạt động thị trường chứng khoán phái sinh bao gồm: giao dịch, bù trừ, thanh toán giao dịch chứng khoán phái sinh;
+
+c) Hoạt động của tổ chức kinh doanh dịch vụ chứng khoán phái sinh, thành viên bù trừ, thành viên giao dịch, thành viên tạo lập thị trường.
+
+2. Đối tượng áp dụng của Thông tư này bao gồm:
+
+a) Sở giao dịch chứng khoán;
+
+b) Trung tâm lưu ký chứng khoán Việt Nam;
+
+c) Tổ chức kinh doanh chứng khoán phái sinh;
+
+d) Tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh;
+
+đ) Thành viên bù trừ, thành viên giao dịch, thành viên tạo lập thị trường;
+
+e) Nhà đầu tư và các tổ chức, cá nhân có liên quan.
+
+Điều 2. Giải thích từ ngữ
+
+Ngoài các từ ngữ đã được giải thích trong Nghị định số 42/2015/NĐ-CP ngày 05 tháng 5 năm 2015 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh (sau đây gọi tắt là Nghị định số 42/2015/NĐ-CP), trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Bù trừ là quá trình xác định vị thế ròng để tính toán nghĩa vụ tài chính của các bên tham gia giao dịch.
+
+2. Giao dịch đối ứng là việc mở một vị thế mua (hoặc bán) mới nhằm làm giảm vị thế bán (hoặc mua) đã mở trước đó.
+
+3. Giá tham chiếu là mức giá do Sở giao dịch chứng khoán xác định và được dùng làm cơ sở để xác định giá cao nhất (giá trần), giá thấp nhất (giá sàn) trong ngày giao dịch.
+
+4. Giá thanh toán (settlement price) là giá khớp lệnh giao dịch hợp đồng tương lai giữa các nhà đầu tư thông qua hệ thống giao dịch của Sở giao dịch chứng khoán.
+
+5. Giá thanh toán cuối ngày (daily settlement price) là mức giá được xác định cuối ngày giao dịch để tính toán lãi lỗ hàng ngày của các vị thế.
+
+6. Giá thanh toán cuối cùng (final settlement price) là mức giá được xác định tại ngày giao dịch cuối cùng để xác định nghĩa vụ thanh toán khi thực hiện hợp đồng.
+
+7. Giá trị tài sản ký quỹ bao gồm số dư trên tài khoản tiền gửi ký quỹ và giá trị danh mục chứng khoán ký quỹ được xác định theo giá thị trường và tỷ lệ chiết khấu theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam.
+
+8. Khách hàng môi giới là nhà đầu tư thực hiện giao dịch chứng khoán phái sinh thông qua hoạt động môi giới của thành viên giao dịch.
+
+9. Khách hàng bù trừ, thanh toán là thành viên giao dịch không bù trừ và các khách hàng môi giới của thành viên này đã ủy thác hoạt động bù trừ, thanh toán giao dịch chứng khoán phái sinh cho thành viên bù trừ được chỉ định.
+
+10. Khối lượng mở (Open Interests) của một chứng khoán phái sinh tại một thời điểm là khối lượng chứng khoán phái sinh đang còn lưu hành tại thời điểm đó, chưa được thanh lý hoặc chưa được tất toán.
+
+11. Ký quỹ là việc bên có nghĩa vụ gửi một khoản tiền hoặc chứng khoán được chấp nhận ký quỹ để đảm bảo nghĩa vụ thanh toán giao dịch chứng khoán phái sinh của bên có nghĩa vụ.
+
+12. Ký quỹ ban đầu là việc ký quỹ trước khi thực hiện giao dịch chứng khoán phái sinh.
+
+13. Giá trị ký quỹ duy trì yêu cầu là giá trị ký quỹ tối thiểu mà bên có nghĩa vụ phải duy trì và do Trung tâm lưu ký chứng khoán Việt Nam tính toán đối với số chứng khoán phái sinh trên một tài khoản giao dịch.
+
+14. Tỷ lệ ký quỹ bằng tiền là tỷ lệ giữa giá trị tài sản ký quỹ bằng tiền so với tổng giá trị tài sản phải ký quỹ.
+
+15. Hợp đồng tương lai chỉ số chứng khoán (sau đây gọi tắt là hợp đồng tương lai chỉ số) là hợp đồng tương lai dựa trên tài sản cơ sở là chỉ số chứng khoán.
+
+16. Hợp đồng tương lai trái phiếu chính phủ là hợp đồng tương lai dựa trên tài sản cơ sở là trái phiếu Chính phủ hoặc trái phiếu giả định có một số đặc trưng cơ bản của trái phiếu Chính phủ.
+
+17. Hợp đồng bù trừ, thanh toán là hợp đồng giữa thành viên bù trừ và Trung tâm lưu ký chứng khoán Việt Nam để thực hiện hoạt động bù trừ, thanh toán giao dịch chứng khoán phái sinh đứng tên thành viên bù trừ với Trung tâm lưu ký chứng khoán Việt Nam.
+
+18. Ngân hàng thanh toán giao dịch chứng khoán phái sinh (sau đây gọi là ngân hàng thanh toán) là ngân hàng thương mại quản lý tài khoản tiền gửi ký quỹ của Trung tâm lưu ký chứng khoán Việt Nam và phục vụ hoạt động thanh toán tiền các giao dịch chứng khoán phái sinh mà Trung tâm lưu ký chứng khoán Việt Nam là đối tác bù trừ trung tâm.
+
+19. Tài khoản giao dịch là tài khoản mở tại thành viên giao dịch để thực hiện giao dịch chứng khoán phái sinh của khách hàng.
+
+20. Tài khoản ký quỹ là tài khoản được mở cho nhà đầu tư, thành viên bù trừ để quản lý tài sản ký quỹ và tài sản cơ sở để chuyển giao, hạch toán lãi lỗ vị thế hàng ngày và thực hiện hợp đồng.
+
+21. Tổ chức kinh doanh dịch vụ chứng khoán phái sinh là tổ chức kinh doanh chứng khoán được cấp Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh; ngân hàng thương mại, chi nhánh ngân hàng nước ngoài được cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh.
+
+22. Thực hiện hợp đồng là việc các bên tham gia giao dịch hợp đồng tương lai thực hiện việc mua hoặc bán tài sản cơ sở hoặc thanh toán khoản chênh lệch giữa giá thanh toán cuối ngày và giá thanh toán, giá thanh toán cuối cùng theo nội dung của hợp đồng và quy chế của Trung tâm lưu ký chứng khoán Việt Nam.
+
+23. Vị thế đứng tên thành viên bù trừ bao gồm vị thế của nhà đầu tư và vị thế của thành viên bù trừ, cụ thể như sau:
+
+a) Vị thế trong các giao dịch tự doanh và tạo lập thị trường (nếu có) của thành viên bù trừ;
+
+b) Vị thế của khách hàng môi giới của thành viên bù trừ;
+
+c) Vị thế của khách hàng ủy thác bù trừ, thanh toán.
+
+24[3]. Tài khoản giao dịch tổng là tài khoản giao dịch của nhà đầu tư mà các vị thế mua và bán của cùng một hợp đồng tương lai (có cùng tài sản cơ sở và cùng tháng đáo hạn) được mở và duy trì cho đến khi thành viên bù trừ có đề nghị thực hiện đối trừ trên cơ sở thỏa thuận hoặc yêu cầu của nhà đầu tư.
+
+Chương II
+
+SẢN PHẨM CHỨNG KHOÁN PHÁI SINH
+
+Điều 3. Hợp đồng tương lai chỉ số
+
+1. Tài sản cơ sở của hợp đồng tương lai chỉ số là chỉ số chứng khoán (sau đây gọi là chỉ số cơ sở) do Sở giao dịch chứng khoán thiết kế trên cơ sở các nguyên tắc xây dựng và quản lý chỉ số do Sở giao dịch chứng khoán ban hành sau khi được Ủy ban Chứng khoán Nhà nước chấp thuận.
+
+2. Hợp đồng tương lai chỉ số khi đáo hạn được thực hiện dưới hình thức thanh toán bằng tiền theo quy chế do Trung tâm lưu ký chứng khoán Việt Nam ban hành sau khi được Ủy ban Chứng khoán Nhà nước chấp thuận.
+
+Điều 4. Hợp đồng tương lai trái phiếu Chính phủ
+
+Tài sản cơ sở của hợp đồng tương lai trái phiếu Chính phủ là:
+
+a) Trái phiếu Chính phủ đang giao dịch trên thị trường; hoặc
+
+b) Trái phiếu giả định có một số đặc trưng cơ bản của trái phiếu Chính phủ. Ủy ban Chứng khoán Nhà nước xây dựng các đặc trưng cơ bản của trái phiếu Chính phủ, thiết kế trái phiếu giả định báo cáo Bộ Tài chính chấp thuận trước khi thực hiện.
+
+2. Hợp đồng tương lai trái phiếu chính phủ khi đáo hạn được thực hiện dưới hình thức thanh toán bằng tiền hoặc chuyển giao tài sản theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam. Phương thức thanh toán phải được quy định rõ trước khi niêm yết.
+
+3. Sở giao dịch chứng khoán phối hợp với Trung tâm lưu ký chứng khoán Việt Nam xác định và công bố trên trang thông tin điện tử của mình:
+
+a) Danh sách các trái phiếu có thể chuyển giao, nguyên tắc xác định và hệ số chuyển đổi của từng trái phiếu (đối với hợp đồng tương lai trái phiếu Chính phủ thanh toán dưới hình thức chuyển giao tài sản cơ sở);
+
+b) Danh sách các trái phiếu được sử dụng để xác định giá thanh toán cuối cùng, nguyên tắc xác định và tỷ trọng từng trái phiếu trong danh sách đó (đối với hợp đồng tương lai trái phiếu Chính phủ thanh toán bằng tiền).
+
+4. Việc xác định và công bố thông tin về các trái phiếu quy định tại khoản 3 Điều này thực hiện theo quy chế của Sở giao dịch chứng khoán và Trung tâm lưu ký chứng khoán Việt Nam. Sở giao dịch chứng khoán phối hợp với Trung tâm lưu ký chứng khoán Việt Nam xác định thời điểm cuối cùng để chốt danh sách các trái phiếu có thể chuyển giao hoặc được sử dụng để xác định giá thanh toán cuối cùng. Sau thời điểm đó, Sở giao dịch chứng khoán và Trung tâm lưu ký chứng khoán Việt Nam không được điều chỉnh danh sách các trái phiếu nêu trên.
+
+Điều 5. Niêm yết, tổ chức giao dịch chứng khoán phái sinh
+
+1. Sở giao dịch chứng khoán phối hợp với Trung tâm lưu ký chứng khoán Việt Nam xác định các nội dung của chứng khoán phái sinh theo quy định tại điểm a, b khoản 2 Điều 6 Nghị định số 42/2015/NĐ-CP ; thực hiện việc niêm yết và tổ chức giao dịch chứng khoán phái sinh sau khi đã được Ủy ban Chứng khoán Nhà nước chấp thuận theo quy định của pháp luật.
+
+2. Sở giao dịch chứng khoán được tạm ngừng giao dịch một, một số loại chứng khoán phái sinh nhất định hoặc tạm ngừng giao dịch các chứng khoán phái sinh trên toàn thị trường khi xảy ra một trong các trường hợp sau:
+
+a) Không thể xác định được giá trị của tài sản cơ sở do thị trường cơ sở ngừng giao dịch;
+
+b) Chứng khoán cơ sở bị tạm ngừng giao dịch;
+
+c) Xảy ra sự kiện bất khả kháng như thiên tai, hỏa hoạn hoặc sự cố kỹ thuật tại hệ thống giao dịch, hệ thống bù trừ, thanh toán;
+
+d) Các trường hợp khác theo quy chế của Sở giao dịch chứng khoán.
+
+3. Sở giao dịch chứng khoán công bố thông tin trong thời hạn hai mươi bốn (24) giờ kể từ khi xảy ra sự kiện dẫn tới việc phải tạm ngừng giao dịch. Hoạt động giao dịch phải được khôi phục ngay trong thời hạn hai mươi bốn (24) giờ kể từ khi các sự kiện dẫn tới việc tạm ngừng giao dịch đã được khắc phục.
+
+4. Trường hợp giao dịch trên thị trường phát sinh lỗi, việc sửa lỗi giao dịch thực hiện theo quy chế của Sở giao dịch chứng khoán và Trung tâm lưu ký chứng khoán Việt Nam. Trường hợp việc sửa lỗi dẫn tới vượt giới hạn vị thế, thành viên giao dịch, khách hàng phải thực hiện các giao dịch đối ứng tại ngày giao dịch kế tiếp để giảm vị thế theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam.
+
+Chương III
+
+HOẠT ĐỘNG GIAO DỊCH, THANH TOÁN CHỨNG KHOÁN PHÁI SINH
+
+Điều 6. Hoạt động giao dịch chứng khoán phái sinh
+
+1. Để thực hiện giao dịch chứng khoán phái sinh, nhà đầu tư phải mở tài khoản giao dịch chứng khoán phái sinh tại thành viên giao dịch và tài khoản ký quỹ tại thành viên bù trừ được chỉ định. Trường hợp nhà đầu tư đã có tài khoản giao dịch chứng khoán thông thường mở tại công ty chứng khoán đồng thời là thành viên giao dịch chứng khoán phái sinh, nhà đầu tư được sử dụng tài khoản giao dịch chứng khoán nêu trên để thực hiện giao dịch chứng khoán phái sinh sau khi đã mở tài khoản ký quỹ tại thành viên bù trừ được chỉ định.
+
+2. Hoạt động giao dịch của nhà đầu tư thực hiện như sau:
+
+a) Lệnh giao dịch của các nhà đầu tư được khớp với nhau trên hệ thống giao dịch của Sở giao dịch chứng khoán. Sau khi lệnh được khớp, nhà đầu tư được coi là đã tham gia hợp đồng chứng khoán phái sinh, có đầy đủ quyền và phải hoàn toàn chịu trách nhiệm thực hiện các nghĩa vụ phát sinh từ hợp đồng đó;
+
+b) Trước khi đặt lệnh giao dịch, trong thời gian nắm giữ vị thế và khi thực hiện hợp đồng, nhà đầu tư phải bảo đảm mức ký quỹ duy trì theo yêu cầu của thành viên bù trừ, phù hợp với quy định tại Thông tư này;
+
+c)[4] Nhà đầu tư phải đảm bảo vị thế trên tài khoản giao dịch trong giới hạn vị thế theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam. Trường hợp vượt giới hạn vị thế, nhà đầu tư có trách nhiệm thực hiện các giao dịch đối ứng để giảm vị thế, bổ sung ký quỹ (nếu cần thiết) trong thời hạn theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam.
+
+Sau thời hạn quy định, nhà đầu tư không hoàn tất việc giảm vị thế thì thành viên bù trừ được thực hiện lệnh giao dịch đối ứng để đóng một phần hoặc toàn bộ vị thế của nhà đầu tư. Trường hợp thành viên bù trừ không thực hiện giao dịch đối ứng để đóng vị thế của nhà đầu tư, Trung tâm lưu ký chứng khoán Việt Nam được thực hiện lệnh giao dịch đối ứng để đóng một phần hoặc toàn bộ vị thế của nhà đầu tư đứng tên thành viên bù trừ.
+
+Điều 7. Tài khoản giao dịch của nhà đầu tư
+
+1. Nhà đầu tư phải ký hợp đồng mở tài khoản giao dịch chứng khoán phái sinh với thành viên giao dịch. Nhà đầu tư nước ngoài phải đăng ký mã số giao dịch chứng khoán theo quy định pháp luật chứng khoán về hoạt động đầu tư nước ngoài trên thị trường chứng khoán trước khi mở tài khoản giao dịch chứng khoán phái sinh.
+
+2. Nhà đầu tư được mở nhiều tài khoản giao dịch chứng khoán phái sinh theo nguyên tắc tại mỗi thành viên giao dịch chỉ được mở một (01) tài khoản giao dịch. Ứng với mỗi tài khoản giao dịch, nhà đầu tư được mở tài khoản ký quỹ tại thành viên bù trừ được chỉ định theo quy định tại Điều 8 Thông tư này. Công ty quản lý quỹ được mở cho mỗi nhà đầu tư ủy thác một tài khoản giao dịch chứng khoán phái sinh đứng tên công ty tại thành viên giao dịch.
+
+3. Công ty chứng khoán có giấy chứng nhận đủ điều kiện tự doanh chứng khoán phái sinh nhưng không phải là thành viên giao dịch chứng khoán phái sinh được mở tài khoản giao dịch tại thành viên giao dịch, tài khoản ký quỹ tại thành viên bù trừ được chỉ định để đầu tư chứng khoán phái sinh theo quy định tại Thông tư này. Công ty chứng khoán thành lập ở nước ngoài được mở một (01) tài khoản để thực hiện hoạt động tự doanh chứng khoán phái sinh và một (01) tài khoản để thực hiện hoạt động môi giới chứng khoán phái sinh cho các nhà đầu tư nước ngoài khác.
+
+4[5]. Nhà đầu tư được mở tài khoản giao dịch tổng trong các trường hợp sau:
+
+a. Công ty quản lý quỹ theo quy định tại khoản 2 Điều này được mở một (01) tài khoản giao dịch tổng cho nhà đầu tư ủy thác trong nước và một (01) tài khoản giao dịch tổng cho nhà đầu tư ủy thác nước ngoài;
+
+b. Công ty chứng khoán thành lập ở nước ngoài quy định tại khoản 3 Điều này được mở một (01) tài khoản giao dịch tổng để thực hiện hoạt động môi giới chứng khoán phái sinh cho các nhà đầu tư nước ngoài;
+
+c. Các trường hợp khác theo hướng dẫn của Trung tâm lưu ký chứng khoán Việt Nam.
+
+Điều 8. Tài khoản ký quỹ của nhà đầu tư
+
+1[6]. Thành viên bù trừ mở tài khoản tiền gửi ký quỹ cho nhà đầu tư đứng tên thành viên bù trừ theo quy định tại điểm a khoản 4 Điều 26 Nghị định số 42/2015/NĐ-CP và có trách nhiệm quản lý tách biệt tiền gửi ký quỹ tới từng nhà đầu tư. Tiền gửi ký quỹ này thuộc sở hữu của nhà đầu tư, không thuộc sở hữu của thành viên bù trừ. Thành viên bù trừ được sử dụng tài khoản tiền gửi ký quỹ của nhà đầu tư theo quy định tại khoản 2 Điều này.
+
+Thành viên bù trừ mở cho mỗi nhà đầu tư một (01) tài khoản chứng khoán ký quỹ để quản lý tài sản ký quỹ và thực hiện nghĩa vụ thanh toán cho vị thế trên tài khoản giao dịch của nhà đầu tư. Thành viên không bù trừ, khách hàng môi giới của thành viên không bù trừ mở tài khoản chứng khoán ký quỹ tại thành viên bù trừ chung.
+
+2. Tài khoản tiền gửi ký quỹ và tài khoản chứng khoán ký quỹ của nhà đầu tư chỉ được sử dụng cho các hoạt động sau:
+
+a) Nhận và hoàn trả tài sản ký quỹ cho nhà đầu tư;
+
+b) Nhận lãi hoặc thanh toán lỗ hàng ngày từ vị thế của nhà đầu tư; thanh toán khi thực hiện hợp đồng; nhận thanh toán lãi tiền gửi ngân hàng với mức lãi suất theo thỏa thuận giữa thành viên bù trừ và ngân hàng;
+
+c) Nhận hoặc chuyển giao tài sản cơ sở khi thực hiện hợp đồng (trong trường hợp thanh toán dưới hình thức chuyển giao tài sản cơ sở) đối với vị thế của nhà đầu tư.
+
+3. Khi thực hiện giao dịch chứng khoán phái sinh, nhà đầu tư phải thực hiện ký quỹ với thành viên bù trừ như sau:
+
+a) Nhà đầu tư có trách nhiệm nộp đầy đủ ký quỹ ban đầu cho toàn bộ vị thế dự kiến mở cho thành viên bù trừ trước khi thực hiện giao dịch, ngoại trừ các giao dịch đối ứng;
+
+b) Nhà đầu tư phải duy trì ký quỹ cho vị thế của mình và phải bổ sung ký quỹ khi giá trị tài sản ký quỹ xuống dưới giá trị ký quỹ duy trì yêu cầu hoặc số dư tiền gửi ký quỹ không đảm bảo tỷ lệ ký quỹ duy trì bằng tiền theo yêu cầu của thành viên bù trừ. Tùy vào điều kiện thị trường, thành viên bù trừ có quyền yêu cầu nhà đầu tư bổ sung ký quỹ ngay trong phiên giao dịch (intra-day margin);
+
+c) Nhà đầu tư được rút bớt tài sản ký quỹ nếu giá trị tài sản ký quỹ vượt quá giá trị ký quỹ duy trì yêu cầu do thành viên bù trừ quy định;
+
+d) Khi ký quỹ ban đầu hoặc bổ sung ký quỹ, thành viên bù trừ được yêu cầu nhà đầu tư ký quỹ hoàn toàn bằng tiền hoặc cho phép nhà đầu tư sử dụng một phần tài sản ký quỹ là chứng khoán theo tỷ lệ ký quỹ bằng tiền do thành viên bù trừ quy định nhưng không thấp hơn tỷ lệ ký quỹ bằng tiền theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam.
+
+4. Chứng khoán được thành viên bù trừ lựa chọn cho phép nhà đầu tư nộp làm tài sản ký quỹ phải bảo đảm:
+
+a) Là chứng khoán có trong danh sách chứng khoán được chấp nhận ký quỹ do Trung tâm lưu ký chứng khoán Việt Nam công bố theo quy định tại Điều 22 Thông tư này;
+
+b) Không phải là tài sản bảo đảm trong các giao dịch theo quy định pháp luật dân sự về giao dịch tài sản bảo đảm, kể cả cổ phiếu được mua trong giao dịch vay mua ký quỹ; không phải là tài sản đang bị phong tỏa bởi tổ chức, cơ quan quản lý nhà nước theo quy định pháp luật liên quan hoặc không phải là tài sản đang được cho vay theo quy định pháp luật;
+
+c) Đáp ứng các tiêu chí khác của thành viên bù trừ.
+
+Điều 9. Hoạt động thanh toán của nhà đầu tư
+
+1[7]. Hoạt động thanh toán giao dịch chứng khoán phái sinh bao gồm thanh toán lãi lỗ vị thế và thanh toán khi thực hiện hợp đồng, cụ thể như sau:
+
+a) Trường hợp thanh toán lãi lỗ vị thế:
+
+- Tại ngày giao dịch trước ngày giao dịch cuối cùng, giá trị khoản thanh toán lãi lỗ vị thế được xác định hàng ngày trên cơ sở các vị thế mở trên tài khoản giao dịch của nhà đầu tư và chênh lệch giữa giá thanh toán cuối ngày so với giá thanh toán cuối ngày của ngày giao dịch liền trước; hoặc chênh lệch giữa giá thanh toán cuối ngày so với giá thanh toán (đối với vị thế vừa mở trong ngày); hoặc chênh lệch giữa giá thanh toán so với giá thanh toán cuối ngày của ngày giao dịch liền trước (đối với trường hợp đóng vị thế trước hạn); hoặc chênh lệch giữa giá thanh toán đóng vị thế so với giá thanh toán mở vị thế (đối với trường hợp mở và đóng vị thế trong cùng ngày giao dịch).
+
+- Tại ngày giao dịch cuối cùng, giá trị khoản thanh toán lãi lỗ vị thế được xác định trên cơ sở các vị thế mở trên tài khoản giao dịch của nhà đầu tư và chênh lệch giữa giá thanh toán cuối cùng so với giá thanh toán cuối ngày của ngày giao dịch liền trước; hoặc chênh lệch giữa giá thanh toán cuối cùng so với giá thanh toán (đối với vị thế vừa mở trong ngày); hoặc chênh lệch giữa giá thanh toán so với giá thanh toán cuối ngày của ngày giao dịch liền trước (đối với trường hợp đóng vị thế trước hạn); hoặc chênh lệch giữa giá thanh toán đóng vị thế so với giá thanh toán mở vị thế (đối với trường hợp mở và đóng vị thế trong cùng ngày giao dịch cuối cùng).
+
+Các mức giá nêu trên được công bố trên trang thông tin điện tử của Sở giao dịch chứng khoán.
+
+b) Trường hợp thanh toán khi thực hiện hợp đồng:
+
+- Đối với hợp đồng thanh toán dưới hình thức bằng tiền: việc thanh toán hợp đồng được hoàn tất khi hoàn tất thanh toán lãi lỗ vị thế của ngày giao dịch cuối cùng.
+
+- Đối với hợp đồng thanh toán dưới hình thức chuyển giao tài sản cơ sở: nhà đầu tư bên bán phải chuyển giao tài sản cơ sở và nhà đầu tư bên mua phải thực hiện thanh toán tiền theo các điều khoản tại hợp đồng và Quy chế của Trung tâm lưu ký chứng khoán Việt Nam.
+
+2. Việc thanh toán được thực hiện trên tài khoản tiền gửi ký quỹ, tài khoản chứng khoán ký quỹ của nhà đầu tư. Hoạt động thanh toán được Trung tâm lưu ký chứng khoán Việt Nam, thành viên bù trừ phối hợp thực hiện theo quy định tại Điều 19 Thông tư này.
+
+Chương IV
+
+TỔ CHỨC KINH DOANH, CUNG CẤP DỊCH VỤ CHỨNG KHOÁN PHÁI SINH
+
+Mục 1. TỔ CHỨC KINH DOANH CHỨNG KHOÁN PHÁI SINH
+
+Điều 10. Đăng ký kinh doanh chứng khoán phái sinh
+
+1. Tổ chức kinh doanh chứng khoán được kinh doanh chứng khoán phái sinh sau khi đã được Ủy ban Chứng khoán Nhà nước cấp Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh. Điều kiện để được cấp Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh bao gồm:
+
+a) Là tổ chức kinh doanh chứng khoán đáp ứng các điều kiện quy định tại khoản 1 Điều 4 Nghị định số 42/2015/NĐ-CP ;
+
+b) Trích lập đầy đủ các khoản dự phòng theo quy định và không có lỗ trong hai (02) năm gần nhất; tỷ lệ vốn khả dụng đạt tối thiểu 220% liên tục trong mười hai (12) tháng gần nhất trước tháng nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh;
+
+c) Báo cáo tài chính của năm tài chính gần nhất đã được kiểm toán và báo cáo tài chính bán niên gần nhất đã được soát xét bởi tổ chức kiểm toán được chấp thuận. Ý kiến của kiểm toán tại các báo cáo tài chính này phải là chấp nhận toàn bộ, không có ngoại trừ hoặc lưu ý.
+
+2. Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh bao gồm:
+
+a) Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh theo hướng dẫn của Ủy ban Chứng khoán Nhà nước;
+
+b) Biên bản họp, Nghị quyết Đại hội đồng cổ đông, Hội đồng thành viên hoặc Quyết định của chủ sở hữu về việc thực hiện kinh doanh chứng khoán phái sinh;
+
+c) Các tài liệu hợp lệ chứng minh tổ chức kinh doanh chứng khoán đáp ứng quy định tại khoản 1 Điều này;
+
+d) Danh sách kèm theo hồ sơ cá nhân Giám đốc (Tổng giám đốc), Phó Giám đốc (Phó Tổng giám đốc) phụ trách nghiệp vụ và các nhân viên cho mỗi hoạt động kinh doanh chứng phái sinh theo hướng dẫn của Ủy ban Chứng khoán Nhà nước;
+
+đ) Các quy trình nghiệp vụ, quy trình kiểm soát nội bộ, quy trình quản trị rủi ro áp dụng cho hoạt động chứng khoán phái sinh dự kiến thực hiện;
+
+e) Bản thuyết trình về cơ sở vật chất kỹ thuật, hạ tầng công nghệ thông tin với các hệ thống phù hợp (hệ thống giao dịch; hệ thống bù trừ, thanh toán) cho hoạt động kinh doanh, dịch vụ chứng khoán phái sinh.
+
+3. Hồ sơ theo quy định tại khoản 2 Điều này được lập thành một (01) bộ gốc kèm theo tệp thông tin điện tử. Bộ hồ sơ gốc được gửi trực tiếp Ủy ban Chứng khoán Nhà nước hoặc gửi qua đường bưu điện.
+
+4. Trong thời hạn mười lăm (15) ngày, kể từ ngày nhận được đầy đủ hồ sơ hợp lệ theo quy định tại các khoản 2, 3 Điều này, Ủy ban Chứng khoán Nhà nước cấp Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước phải trả lời bằng văn bản và nêu rõ lý do.
+
+5. Sau khi Ủy ban Chứng khoán Nhà nước cấp Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh, tổ chức kinh doanh chứng khoán có trách nhiệm sửa đổi, bổ sung tại Điều lệ công ty các quy định liên quan tới hoạt động kinh doanh chứng khoán phái sinh và nộp cho Ủy ban Chứng khoán Nhà nước sau khi đã được Đại hội đồng cổ đông, Hội đồng thành viên gần nhất hoặc chủ sở hữu thông qua.
+
+Điều 11. Đình chỉ, chấm dứt hoạt động kinh doanh chứng khoán phái sinh
+
+1. Ủy ban Chứng khoán Nhà nước quyết định đình chỉ tối đa mười hai (12) tháng đối với một hoặc một số hoạt động kinh doanh chứng khoán phái sinh trong các trường hợp theo quy định tại khoản 1 Điều 5 Nghị định số 42/2015/NĐ-CP .
+
+2. Tổ chức kinh doanh chứng khoán phái sinh chỉ được phục hồi hoạt động kinh doanh sau khi đã khắc phục được hết các hành vi dẫn tới bị đình chỉ hoạt động. Trường hợp không khắc phục được sau thời gian bị đình chỉ hoạt động, tổ chức kinh doanh chứng khoán phái sinh bị buộc phải chấm dứt hoạt động kinh doanh chứng khoán phái sinh.
+
+3. Tổ chức kinh doanh chứng khoán phái sinh chấm dứt hoạt động kinh doanh chứng khoán phái sinh khi bị thu hồi Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh. Việc thu hồi thực hiện trong các trường hợp theo quy định tại khoản 2 Điều 5 Nghị định số 42/2015/NĐ-CP .
+
+4. Trường hợp tự nguyện chấm dứt hoạt động, tổ chức kinh doanh chứng khoán phái sinh phải nộp hồ sơ đề nghị chấm dứt hoạt động kinh doanh chứng khoán phái sinh. Hồ sơ bao gồm các tài liệu sau:
+
+a) Đơn đề nghị chấm dứt hoạt động kinh doanh chứng khoán phái sinh theo hướng dẫn của Ủy ban Chứng khoán Nhà nước;
+
+b) Biên bản họp, Nghị quyết của Đại hội đồng cổ đông, Hội đồng thành viên hoặc Quyết định chủ sở hữu về việc chấm dứt hoạt động kinh doanh chứng khoán phái sinh và thông qua phương án xử lý các vấn đề liên quan;
+
+c) Phương án xử lý các hợp đồng kinh doanh chứng khoán phái sinh còn hiệu lực, bao gồm cả phương án xử lý các tài khoản và tài sản ký quỹ của khách hàng.
+
+5. Hồ sơ theo quy định tại khoản 4 Điều này được lập thành một (01) bộ gốc kèm theo tệp thông tin điện tử. Bộ hồ sơ gốc được gửi trực tiếp Ủy ban Chứng khoán Nhà nước hoặc gửi qua đường bưu điện.
+
+6. Trong thời hạn mười lăm (15) ngày kể từ ngày nhận được bộ hồ sơ đầy đủ, hợp lệ, Ủy ban Chứng khoán Nhà nước có văn bản cho phép chấm dứt hoạt động kinh doanh chứng khoán phái sinh. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước phải trả lời bằng văn bản và nêu rõ lý do.
+
+7. Tổ chức kinh doanh chứng khoán phái sinh bị buộc phải chấm dứt hoạt động kinh doanh chứng khoán phái sinh trong các trường hợp theo quy định tại khoản 4 Điều 5 Nghị định số 42/2015/NĐ-CP .
+
+8. Trong thời hạn ba mươi (30) ngày, kể từ ngày tổ chức kinh doanh chứng khoán phái sinh bị buộc phải chấm dứt hoạt động kinh doanh chứng khoán phái sinh theo quy định tại khoản 7 Điều này, Ủy ban Chứng khoán Nhà nước có văn bản yêu cầu tổ chức kinh doanh chứng khoán phái sinh tiến hành thủ tục chấm dứt hoạt động kinh doanh chứng khoán phái sinh.
+
+9. Kể từ khi nhận được văn bản của Ủy ban Chứng khoán Nhà nước theo quy định tại khoản 1, khoản 6, khoản 8 Điều này:
+
+a) Trong thời hạn hai mươi bốn (24) giờ, tổ chức kinh doanh chứng khoán phái sinh có trách nhiệm công bố thông tin về việc đình chỉ, chấm dứt hoạt động chứng khoán phái sinh; phương án, thời hạn và lộ trình xử lý các hợp đồng còn hiệu lực. Thời hạn xử lý phải bảo đảm nhà đầu tư có tối thiểu bốn mươi lăm (45) ngày để xử lý các vị thế và chuyển khoản tài sản ký quỹ, nhưng không vượt quá sáu mươi (60) ngày, kể từ ngày công bố thông tin;
+
+b) Trong thời hạn năm (05) ngày, tổ chức kinh doanh chứng khoán phái sinh gửi thông báo cho từng khách hàng của mình về phương án xử lý hợp đồng với khách hàng.
+
+10. Trong thời gian bị đình chỉ hoạt động, thực hiện các thủ tục chấm dứt hoạt động, tổ chức kinh doanh chứng khoán có trách nhiệm:
+
+a) Thực hiện các hoạt động theo quy định tại khoản 5 Điều 5 Nghị định số 42/2015/NĐ-CP ;
+
+b) Dừng tự doanh chứng khoán phái sinh, trừ trường hợp giao dịch đối ứng; dừng thực hiện các giao dịch tạo lập thị trường (nếu có);
+
+c) Không được ký mới các hợp đồng kinh doanh chứng khoán phái sinh. Đối với các hợp đồng kinh doanh chứng khoán phái sinh còn hiệu lực:
+
+- Ngừng tiếp nhận, thực hiện lệnh giao dịch của khách hàng, trừ giao dịch đối ứng; ngừng tiếp nhận tài sản ký quỹ của khách hàng, trừ trường hợp bổ sung ký quỹ;
+
+- Chốt số dư, thực hiện tất toán tài khoản khách hàng; thanh lý vị thế và hoàn trả tài sản ký quỹ cho khách hàng; thỏa thuận, bàn giao quyền, trách nhiệm, nghĩa vụ, chuyển tài khoản, tài sản ký quỹ cho thành viên thay thế. Trường hợp tổ chức kinh doanh chứng khoán bị đình chỉ hoạt động chỉ phải thực hiện quy định này khi khách hàng có yêu cầu;
+
+- Thực hiện các giao dịch theo yêu cầu của Trung tâm lưu ký chứng khoán Việt Nam, Sở giao dịch chứng khoán nhằm giảm vị thế của khách hàng.
+
+d) Nộp đủ số thuế còn nợ; tiếp tục thanh toán các khoản nợ.
+
+11. Trong thời hạn năm (05) ngày kể từ ngày kết thúc thời hạn thực hiện thủ tục chấm dứt hoạt động kinh doanh chứng khoán phái sinh, tổ chức kinh doanh chứng khoán phái sinh nộp hồ sơ báo cáo Ủy ban Chứng khoán Nhà nước kết quả xử lý, bao gồm các tài liệu sau:
+
+a) Danh sách khách hàng với đầy đủ thông tin nhận diện khách hàng, số tài khoản giao dịch, số tài khoản ký quỹ và danh mục tài sản ký quỹ, vị thế trên từng tài khoản; lý do không thể tất toán, xử lý các tài khoản còn tồn (nếu chưa xử lý được);
+
+b) Biên bản thanh lý, có xác nhận của thành viên bù trừ thay thế và tài liệu xác nhận việc đã hoàn tất bàn giao toàn bộ tài khoản, tài sản ký quỹ (nếu có) của khách hàng cho thành viên thay thế;
+
+c) Quyết định rút tư cách thành viên của Sở giao dịch chứng khoán (đối với thành viên giao dịch), Trung tâm lưu ký chứng khoán Việt Nam (đối với thành viên bù trừ).
+
+12. Trong thời hạn mười (10) ngày kể từ ngày nhận được hồ sơ báo cáo kết quả quy định tại khoản 11 Điều này, Ủy ban Chứng khoán Nhà nước có văn bản cho phép chấm dứt hoạt động kinh doanh chứng khoán phái sinh hoặc ra quyết định thu hồi Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh. Trường hợp từ chối Ủy ban Chứng khoán Nhà nước phải trả lời bằng văn bản và nêu rõ lý do.
+
+13. Thành viên Hội đồng quản trị hoặc Hội đồng thành viên, chủ sở hữu công ty, Giám đốc hoặc Tổng giám đốc, người đại diện theo pháp luật của tổ chức kinh doanh chứng khoán phái sinh chịu trách nhiệm về tính trung thực, chính xác của hồ sơ đề nghị chấm dứt hoạt động, hồ sơ báo cáo kết quả chấm dứt hoạt động kinh doanh chứng khoán phái sinh. Trường hợp hồ sơ không chính xác, giả mạo, những người này phải liên đới chịu trách nhiệm thanh toán số nợ chưa thanh toán, số thuế chưa nộp và quyền lợi của người lao động chưa được giải quyết và chịu trách nhiệm cá nhân trước pháp luật về những hệ quả phát sinh trong thời hạn năm (05) năm, kể từ ngày nộp hồ sơ quy định tại khoản 11 Điều này đến Ủy ban Chứng khoán Nhà nước.
+
+Mục 2. TỔ CHỨC CUNG CẤP DỊCH VỤ BÙ TRỪ, THANH TOÁN GIAO DỊCH CHỨNG KHOÁN PHÁI SINH
+
+Điều 12. Đăng ký hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh
+
+1. Công ty chứng khoán, ngân hàng thương mại, chi nhánh ngân hàng nước ngoài được cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh sau khi đã được Ủy ban Chứng khoán Nhà nước cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh. Điều kiện được cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh bao gồm:
+
+a) Đáp ứng các điều kiện theo quy định tại khoản 2 Điều 4 Nghị định số 42/2015/NĐ-CP và quy định tại điểm c khoản 1 Điều 10 Thông tư này;
+
+b) Đáp ứng tỷ lệ an toàn tài chính sau:
+
+- Đối với công ty chứng khoán: trích lập đầy đủ các khoản dự phòng theo quy định và không có lỗ trong hai (02) năm gần nhất; tỷ lệ vốn khả dụng đạt tối thiểu 260% liên tục trong mười hai (12) tháng gần nhất trước tháng nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh;
+
+- Đối với ngân hàng thương mại, chi nhánh ngân hàng nước ngoài: đáp ứng tỷ lệ an toàn vốn theo quy định pháp luật về tổ chức tín dụng trong vòng mười hai (12) tháng gần nhất trước tháng nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh.
+
+2. Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh bao gồm:
+
+a) Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh theo hướng dẫn của Ủy ban Chứng khoán Nhà nước;
+
+b) Biên bản họp, Nghị quyết Đại hội đồng cổ đông, Hội đồng thành viên hoặc Quyết định của chủ sở hữu về việc thực hiện hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh;
+
+c) Các tài liệu hợp lệ chứng minh công ty chứng khoán, ngân hàng thương mại, chi nhánh ngân hàng nước ngoài đáp ứng quy định tại khoản 1 Điều này;
+
+d) Các quy trình nghiệp vụ, quy trình kiểm soát nội bộ, quy trình quản trị rủi ro áp dụng cho hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh dự kiến thực hiện;
+
+đ) Bản thuyết trình về cơ sở vật chất kỹ thuật, hạ tầng công nghệ thông tin với các hệ thống phù hợp (hệ thống bù trừ, thanh toán) cho hoạt động cung cấp dich vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh.
+
+3. Hồ sơ theo quy định tại khoản 2 Điều này được lập thành một (01) bộ gốc kèm theo tệp thông tin điện tử. Bộ hồ sơ gốc được gửi trực tiếp Ủy ban Chứng khoán Nhà nước hoặc gửi qua đường bưu điện.
+
+4. Trong thời hạn mười lăm (15) ngày, kể từ ngày nhận được đầy đủ hồ sơ hợp lệ theo các quy định tại khoản 2, khoản 3 Điều này, Ủy ban Chứng khoán Nhà nước cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước phải trả lời bằng văn bản và nêu rõ lý do.
+
+5. Sau khi Ủy ban Chứng khoán Nhà nước cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh, công ty chứng khoán, ngân hàng thương mại có trách nhiệm sửa đổi, bổ sung tại điều lệ công ty, ngân hàng các quy định liên quan tới hoạt động chứng khoán phái sinh và nộp cho Ủy ban Chứng khoán Nhà nước sau khi đã được Đại hội đồng cổ đông, Hội đồng thành viên gần nhất hoặc chủ sở hữu thông qua.
+
+Điều 13. Đình chỉ, chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh
+
+1. Ủy ban Chứng khoán Nhà nước quyết định đình chỉ tối đa mười hai (12) tháng hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh trong các trường hợp sau:
+
+a) Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh có tài liệu giả mạo hoặc có thông tin sai sự thật;
+
+b) Hoạt động sai mục đích, không đúng với hoạt động đã được cấp theo Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh;
+
+c) Không đáp ứng quy định tại điểm a, đ khoản 2 Điều 4 Nghị định số 42/2015/ NĐ-CP;
+
+d) Không đáp ứng quy định tại điểm c khoản 2 Điều 4 Nghị định số 42/2015/ NĐ-CP trong vòng sáu (06) tháng liên tiếp;
+
+đ) Không đáp ứng chỉ tiêu an toàn tài chính, an toàn vốn theo quy định tại điểm b khoản 1 Điều 12 Thông tư này trong vòng sáu (06) tháng liên tiếp.
+
+2. Tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh chỉ được phục hồi hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh sau khi đã khắc phục được toàn bộ hành vi dẫn tới bị đình chỉ hoạt động. Trường hợp không khắc phục được sau thời gian bị đình chỉ hoạt động, tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh bị buộc phải chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh.
+
+3. Tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh khi bị thu hồi Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh. Việc thu hồi thực hiện trong các trường hợp sau:
+
+a) Tự nguyện chấm dứt hoạt động;
+
+b) Bị buộc phải chấm dứt hoạt động.
+
+4. Trường hợp tự nguyện chấm dứt hoạt động, tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh phải nộp hồ sơ đề nghị chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh. Hồ sơ bao gồm các tài liệu sau:
+
+a) Đơn đề nghị chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh theo hướng dẫn của Ủy ban Chứng khoán Nhà nước;
+
+b) Biên bản họp, Nghị quyết của Đại hội đồng cổ đông, Hội đồng thành viên hoặc Quyết định của chủ sở hữu về việc chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh và thông qua phương án xử lý các vấn đề liên quan;
+
+c) Phương án xử lý các hợp đồng cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh còn hiệu lực, bao gồm cả phương án xử lý các tài khoản và tài sản ký quỹ của khách hàng.
+
+5. Hồ sơ theo quy định tại khoản 4 Điều này được lập thành một (01) bộ gốc kèm theo tệp thông tin điện tử. Bộ hồ sơ gốc được gửi trực tiếp Ủy ban Chứng khoán Nhà nước hoặc gửi qua đường bưu điện.
+
+6. Trong thời hạn mười lăm (15) ngày kể từ ngày nhận được bộ hồ sơ đầy đủ, hợp lệ, Ủy ban Chứng khoán Nhà nước có văn bản cho phép chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước phải trả lời bằng văn bản và nêu rõ lý do.
+
+7. Tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh bị buộc phải chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh trong các trường hợp sau:
+
+a) Sau thời hạn đình chỉ hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh mà vẫn không khắc phục được các vi phạm dẫn tới bị đình chỉ hoạt động;
+
+b) Giải thể, phá sản, tạm ngừng hoạt động hoặc bị thu hồi giấy phép thành lập và hoạt động; hoặc bị Ngân hàng Nhà nước thu hồi văn bản chấp thuận cho hoạt động bù trừ, thanh toán giao dịch chứng khoán phái sinh (đối với ngân hàng thương mại, chi nhánh ngân hàng nước ngoài); hoặc bị Ủy ban Chứng khoán Nhà nước thu hồi Giấy chứng nhận đủ điều kiện hoạt động môi giới chứng khoán phái sinh, Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh; hoặc bị chia, tách mà tổ chức hình thành sau khi chia, tách không đáp ứng một trong các điều kiện kinh doanh quy định tại khoản 2 Điều 4 Nghị định số 42/2015/NĐ-CP .
+
+8. Trong thời hạn ba mươi (30) ngày, kể từ ngày tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh bị buộc phải chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh theo quy định tại khoản 7 Điều này, Ủy ban Chứng khoán Nhà nước có văn bản yêu cầu tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh tiến hành thủ tục chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh.
+
+9. Tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh bị đình chỉ, chấm dứt phải thực hiện và áp dụng các quy định có liên quan theo quy định tại khoản 9, khoản 10, khoản 13 Điều 11 Thông tư này.
+
+10. Trong thời hạn năm (05) ngày kể từ ngày kết thúc thời hạn thực hiện thủ tục chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh, tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh nộp hồ sơ báo cáo Ủy ban Chứng khoán Nhà nước kết quả xử lý, bao gồm các tài liệu sau:
+
+a) Danh sách khách hàng với đầy đủ thông tin nhận diện khách hàng, tài khoản giao dịch, tài khoản ký quỹ và danh mục tài sản ký quỹ, vị thế trên từng tài khoản; lý do không thể tất toán, xử lý các tài khoản còn tồn (nếu chưa xử lý được);
+
+b) Biên bản thanh lý, có xác nhận của thành viên bù trừ thay thế và tài liệu xác thực việc đã hoàn tất bàn giao toàn bộ tài khoản, tài sản ký quỹ (nếu có) của khách hàng cho thành viên thay thế;
+
+c) Quyết định rút tư cách thành viên bù trừ của Trung tâm lưu ký chứng khoán Việt Nam.
+
+11. Trong thời hạn mười (10) ngày kể từ ngày nhận được hồ sơ báo cáo kết quả quy định tại khoản 10 Điều này, Ủy ban Chứng khoán Nhà nước có văn bản chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh hoặc ra quyết định thu hồi Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước phải trả lời bằng văn bản và nêu rõ lý do.
+
+Mục 3. HOẠT ĐỘNG CỦA THÀNH VIÊN GIAO DỊCH, SỞ GIAO DỊCH CHỨNG KHOÁN
+
+Điều 14. Quyền, nghĩa vụ của thành viên giao dịch
+
+1. Thành viên giao dịch không bù trừ phải ký hợp đồng ủy thác bù trừ, thanh toán với một thành viên bù trừ chung. Hợp đồng phải có các nội dung theo hướng dẫn của Ủy ban Chứng khoán Nhà nước. Việc tất toán, chuyển khoản ký quỹ, chuyển vị thế trong trường hợp thay đổi thành viên bù trừ chung thực hiện theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam.
+
+2. Thành viên giao dịch phải ký hợp đồng mở tài khoản giao dịch với khách hàng. Nội dung hợp đồng thực hiện theo hướng dẫn của Ủy ban Chứng khoán Nhà nước.
+
+3. Thành viên giao dịch có trách nhiệm thường xuyên đối chiếu, soát xét, cập nhật, cung cấp đầy đủ và kịp thời thông tin về giao dịch và các thông tin khác cho thành viên bù trừ chung. Mọi thông tin về nhà đầu tư và tài khoản giao dịch của nhà đầu tư phải được cung cấp đầy đủ, kịp thời cho Ủy ban Chứng khoán Nhà nước, Trung tâm lưu ký chứng khoán Việt Nam, Sở giao dịch chứng khoán khi có yêu cầu bằng văn bản.
+
+4. Thành viên giao dịch không được mở tài khoản giao dịch cho các khách hàng dưới đây:
+
+a) Cá nhân dưới 18 tuổi;
+
+b) Cá nhân không có năng lực hành vi dân sự đầy đủ, đang chấp hành hình phạt tù, hoặc bị tòa án cấm hành nghề kinh doanh;
+
+c) Giám đốc (Tổng Giám đốc), Phó Giám đốc (Phó Tổng Giám đốc), các trưởng bộ phận, nhân viên của thành viên giao dịch khác.
+
+5. Khi phát hiện khách hàng đã mở tài khoản giao dịch thuộc một trong các trường hợp quy định tại khoản 4 Điều này, thành viên giao dịch phải dừng ngay việc nhận lệnh giao dịch từ khách hàng, ngoại trừ các giao dịch đối ứng và phải đóng tài khoản của khách hàng ngay sau khi hoàn tất việc thanh lý vị thế của khách hàng đó.
+
+6. Trong trường hợp thành viên bù trừ, khách hàng mất khả năng thanh toán, theo yêu cầu của Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam, Ủy ban Chứng khoán Nhà nước, thành viên giao dịch có trách nhiệm:
+
+a) Dừng tiếp nhận, thực hiện lệnh giao dịch của thành viên bù trừ, khách hàng mất khả năng thanh toán, trừ các giao dịch đối ứng;
+
+b) Thực hiện các hoạt động khác theo yêu cầu của Ủy ban Chứng khoán Nhà nước, Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam.
+
+7. Thực hiện các quyền, nghĩa vụ khác theo quy định tại khoản 1, khoản 2 Điều 15 Nghị định số 42/2015/NĐ-CP và quy chế của Sở giao dịch chứng khoán.
+
+Điều 15. Nhận, thực hiện lệnh và xác nhận kết quả giao dịch
+
+1. Thành viên giao dịch được nhận lệnh giao dịch của khách hàng trực tiếp tại quầy giao dịch hoặc nhận lệnh từ xa qua điện thoại, fax và các đường truyền khác hoặc qua hệ thống giao dịch trực tuyến của thành viên giao dịch. Lệnh giao dịch phải được ghi nhận lại đầy đủ thông tin tại thời điểm nhận lệnh, nhân viên nhận lệnh (nhập lệnh, sửa lệnh nếu có) và bằng chứng chứng minh về việc đặt lệnh của khách hàng.
+
+Trường hợp nhận lệnh giao dịch qua điện thoại, fax thì phải xác nhận với khách hàng trước khi nhập lệnh vào hệ thống. Trường hợp nhận lệnh giao dịch trực tuyến thì phải tuân thủ các quy định pháp luật về giao dịch điện tử.
+
+2. Thành viên giao dịch chỉ được thực hiện lệnh của khách hàng khi lệnh giao dịch có đầy đủ các thông tin về khách hàng, tài khoản giao dịch, ngày giao dịch, mã chứng khoán phái sinh, phương thức, loại lệnh, loại giao dịch, số lượng và giá giao dịch theo quy chế của Sở giao dịch chứng khoán.
+
+3. Thành viên giao dịch phải từ chối nhận lệnh của khách hàng trong trường hợp:
+
+a) Khách hàng chưa ký quỹ đầy đủ, trừ các giao dịch đối ứng; hoặc
+
+b) Lệnh vượt quá giới hạn lệnh; lệnh mà cùng với các lệnh đang chờ thực hiện trên hệ thống của cùng tài khoản giao dịch đó vượt quá giới hạn lệnh tích lũy hoặc lệnh dẫn tới vị thế của khách hàng trên tài khoản đó vượt quá giới hạn vị thế theo quy chế của Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam (nếu có).
+
+4. Trong vòng hai mươi bốn (24) giờ sau khi lệnh đã được thực hiện, thành viên giao dịch có trách nhiệm xác nhận kết quả giao dịch với khách hàng theo hướng dẫn của Ủy ban Chứng khoán Nhà nước.
+
+5. Trong vòng hai mươi bốn (24) giờ, sau khi có yêu cầu của khách hàng và trong thời hạn ba (03) ngày sau khi kết thúc tháng, thành viên giao dịch phải gửi khách hàng sao kê tài khoản giao dịch, báo cáo về tình hình giao dịch trên tài khoản của khách hàng. Nội dung báo cáo thực hiện theo hướng dẫn của Ủy ban Chứng khoán Nhà nước.
+
+Điều 16. Thành viên tạo lập thị trường
+
+1. Thành viên tạo lập thị trường phải trung thực và thiện chí khi tạo lập thị trường.
+
+2. Loại chứng khoán phái sinh cần tạo thanh khoản và các quy định giao dịch đối với nhà tạo lập thị trường được thực hiện theo hợp đồng tạo lập thị trường và quy chế của Sở giao dịch chứng khoán.
+
+3. Thành viên tạo lập thị trường được đồng thời thực hiện giao dịch tạo lập thị trường và tự doanh nhưng phải bảo đảm các nguyên tắc theo quy chế của Sở giao dịch chứng khoán.
+
+4. Thực hiện các quyền và nghĩa vụ theo quy định tại khoản 2 Điều 15 Nghị định số 42/2015/NĐ-CP .
+
+Điều 17. Quản lý hoạt động tạo lập thị trường
+
+1. Sở giao dịch chứng khoán có quyền chấm dứt, từ chối ký, từ chối kéo dài hợp đồng với thành viên tạo lập thị trường căn cứ vào các yếu tố sau:
+
+a) Mức độ thanh khoản của từng loại chứng khoán phái sinh;
+
+b) Năng lực tài chính của thành viên;
+
+c) Hiệu quả hoạt động, chất lượng tạo lập thị trường và mức độ khách quan, trung thực, thiện chí trong hoạt động tạo lập thị trường.
+
+2. Sở giao dịch chứng khoán có quyền đình chỉ hoặc chấm dứt hợp đồng tạo lập thị trường trong trường hợp:
+
+a) Thành viên vi phạm điều khoản về trách nhiệm báo giá, quy mô tạo lập thị trường, thời gian báo giá và các điều khoản dẫn tới bị đình chỉ hoặc chấm dứt hợp đồng theo quy chế của Sở giao dịch chứng khoán;
+
+b) Các trường hợp khác theo quy chế của Sở giao dịch chứng khoán và theo hợp đồng tạo lập thị trường.
+
+3. Thành viên tạo lập thị trường có quyền chấm dứt hoạt động tạo lập thị trường theo quy định tại hợp đồng tạo lập thị trường ký với Sở giao dịch chứng khoán.
+
+4. Định kỳ hàng quý, Sở giao dịch chứng khoán đánh giá hiệu quả và chất lượng hoạt động của thành viên tạo lập thị trường đối với từng loại chứng khoán phái sinh mà thành viên đó cung cấp dịch vụ tạo lập thị trường. Hiệu quả, chất lượng hoạt động tạo lập thị trường được đánh giá căn cứ vào hoạt động yết giá (chênh lệch giá yết, thời gian yết giá, khối lượng yết), khối lượng giao dịch và các tiêu chí khác theo quy chế của Sở giao dịch chứng khoán.
+
+Mục 4. HOẠT ĐỘNG CỦA THÀNH VIÊN BÙ TRỪ, TRUNG TÂM LƯU KÝ CHỨNG KHOÁN
+
+Điều 18. Thành viên bù trừ
+
+1. Thành viên bù trừ có quyền, nghĩa vụ sau:
+
+a) Ký hợp đồng bù trừ, thanh toán với Trung tâm lưu ký chứng khoán Việt Nam, ký hợp đồng ủy thác bù trừ, thanh toán với thành viên không bù trừ. Các hợp đồng phải có điều khoản nêu rõ thành viên bù trừ là đại diện theo ủy quyền của khách hàng môi giới và khách hàng bù trừ, thanh toán, đứng tên vị thế của các khách hàng này và chịu trách nhiệm thực hiện đầy đủ các nghĩa vụ của khách hàng đối với Trung tâm lưu ký chứng khoán Việt Nam;
+
+b) Quản lý tách biệt tài khoản và tài sản ký quỹ tới từng khách hàng; xây dựng hệ thống sổ theo dõi và tổng hợp đầy đủ thông tin về vị thế, lãi lỗ vị thế hàng ngày, giá trị ký quỹ ban đầu, giá trị ký quỹ duy trì yêu cầu, giá trị và danh mục tài sản ký quỹ theo từng tài khoản của nhà đầu tư;
+
+c) Quy định giá trị ký quỹ ban đầu, giá trị ký quỹ duy trì, tỷ lệ ký quỹ bằng tiền nhưng không được thấp hơn các giá trị tương ứng theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam. Thông tin về tài sản được chấp nhận ký quỹ, phương thức và thời gian nộp ký quỹ phải được thành viên bù trừ công bố chi tiết trên trang thông tin điện tử của mình;
+
+d) Các quyền, nghĩa vụ khác theo quy định tại Điều 22 Nghị định số 42/2015/NĐ-CP và quy chế của Trung tâm lưu ký chứng khoán Việt Nam.
+
+2. Tùy vào mức độ vi phạm hoạt động thanh toán bù trừ, Trung tâm lưu ký chứng khoán Việt Nam được áp dụng các hình thức xử lý vi phạm đối với thành viên bù trừ, bao gồm:
+
+a) Công văn nhắc nhở;
+
+b) Khiển trách;
+
+c) Đình chỉ;
+
+d) Chấm dứt tư cách thành viên bù trừ.
+
+3. Các hành vi vi phạm, trình tự, thủ tục xử lý vi phạm của thành viên bù trừ thực hiện theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam.
+
+4. Việc chấm dứt tư cách thành viên bù trừ chỉ được thực hiện sau khi thành viên bù trừ đã hoàn tất việc chuyển khoản vị thế, ký quỹ để tất toán tài khoản khách hàng, thanh lý vị thế và hoàn tất nghĩa vụ thanh toán trên tài khoản tự doanh (nếu có) và đã thực hiện đầy đủ nghĩa vụ với Trung tâm lưu ký chứng khoán Việt Nam.
+
+Điều 19. Hoạt động bù trừ, thanh toán giao dịch chứng khoán phái sinh
+
+1. Việc bù trừ chứng khoán phái sinh được Trung tâm lưu ký chứng khoán Việt Nam thực hiện theo từng tài khoản của nhà đầu tư, thành viên bù trừ theo nguyên tắc các vị thế đối ứng của cùng một chứng khoán phái sinh có cùng thời điểm đáo hạn trên cùng một tài khoản được Trung tâm lưu ký chứng khoán Việt Nam đối trừ để xác định số vị thế ròng chứng khoán phái sinh trên tài khoản đó.
+
+2. Đối với hoạt động thanh toán lãi lỗ vị thế hàng ngày, căn cứ kết quả lãi lỗ cuối ngày trên từng tài khoản của nhà đầu tư, Trung tâm lưu ký chứng khoán Việt Nam bù trừ tiền theo từng tài khoản của nhà đầu tư và theo từng thành viên bù trừ để xác định giá trị phải trả và được nhận của từng tài khoản nhà đầu tư, thành viên bù trừ. Việc thanh toán lãi lỗ hàng ngày được thực hiện dưới hình thức chuyển khoản qua tài khoản tiền gửi ký quỹ của Trung tâm lưu ký chứng khoán Việt Nam tại ngân hàng thanh toán.
+
+3. Đối với hoạt động thanh toán khi thực hiện hợp đồng, Trung tâm lưu ký chứng khoán Việt Nam thực hiện thanh toán tại ngày thanh toán cuối cùng theo nguyên tắc sau:
+
+a) Trường hợp thanh toán bằng tiền: Trung tâm lưu ký chứng khoán Việt Nam tính toán nghĩa vụ thanh toán tách biệt theo từng nhà đầu tư và theo từng thành viên bù trừ. Thành viên bù trừ bên phải trả phải chuyển đủ tiền vào tài khoản tiền gửi ký quỹ thành viên mở tại ngân hàng thanh toán để thanh toán cho thành viên bù trừ bên được nhận thông qua Trung tâm lưu ký chứng khoán Việt Nam. Thành viên bù trừ bên được nhận có nghĩa vụ thực hiện thanh toán cho nhà đầu tư ngay sau khi tiếp nhận thanh toán từ Trung tâm lưu ký chứng khoán Việt Nam;
+
+b)[8] Trường hợp thanh toán dưới hình thức chuyển giao tài sản cơ sở: thành viên bù trừ bên bán phải chuyển giao đủ số lượng và đúng loại tài sản cơ sở có thể chuyển giao theo hợp đồng chứng khoán phái sinh vào tài khoản chứng khoán ký quỹ thành viên theo yêu cầu của Trung tâm lưu ký chứng khoán Việt Nam. Thành viên bù trừ được sử dụng chứng khoán vay từ hệ thống vay và cho vay chứng khoán của Trung tâm lưu ký chứng khoán Việt Nam để thanh toán theo Quy chế của Trung tâm lưu ký chứng khoán Việt Nam.
+
+Thành viên bù trừ bên mua chỉ được nhận tài sản chuyển giao sau khi đã thanh toán đủ tiền theo yêu cầu của Trung tâm lưu ký chứng khoán Việt Nam, sau đó phân bổ cho nhà đầu tư bên mua ngay;
+
+c)[9] Trường hợp thành viên bù trừ không đủ tiền để thanh toán hoặc trái phiếu Chính phủ để chuyển giao, Trung tâm lưu ký chứng khoán Việt Nam được thực hiện thanh toán hợp đồng tương lai trái phiếu Chính phủ theo hình thức bằng tiền. Trong trường hợp này, thành viên bù trừ không đủ tiền để thanh toán hoặc trái phiếu Chính phủ để chuyển giao có trách nhiệm bồi thường cho thành viên bù trừ liên quan thông qua Trung tâm lưu ký chứng khoán Việt Nam, với số tiền có giá trị không thấp hơn 5% giá trị thanh toán hợp đồng. Trung tâm lưu ký chứng khoán Việt Nam quy định việc xác định giá trị và phương thức thanh toán bồi thường.
+
+4. Trung tâm lưu ký chứng khoán Việt Nam ban hành quy chế hướng dẫn trình tự, thủ tục bù trừ, thanh toán và chuyển giao tài sản khi thực hiện hợp đồng, phương thức thanh toán, thời gian thanh toán sau khi được Ủy ban Chứng khoán Nhà nước chấp thuận.
+
+Điều 20. Tài khoản ký quỹ thành viên bù trừ
+
+1. Trung tâm lưu ký chứng khoán Việt Nam có trách nhiệm mở các tài khoản tiền gửi ký quỹ đứng tên Trung tâm lưu ký chứng khoán Việt Nam tại ngân hàng thanh toán (sau đây gọi tắt là tài khoản tiền gửi ký quỹ thành viên) và tài khoản chứng khoán ký quỹ tại Trung tâm lưu ký chứng khoán Việt Nam (sau đây gọi tắt là tài khoản chứng khoán ký quỹ thành viên) để quản lý tài sản ký quỹ và thực hiện nghĩa vụ thanh toán cho các vị thế đứng tên thành viên bù trừ.
+
+2. Tài khoản tiền gửi ký quỹ thành viên tại ngân hàng thanh toán mở cho mỗi thành viên bù trừ bao gồm:
+
+a) Tài khoản tiền gửi ký quỹ tự doanh để quản lý tiền ký quỹ cho giao dịch tự doanh, tạo lập thị trường của chính thành viên bù trừ đó;
+
+b) Tài khoản tiền gửi ký quỹ khách hàng để quản lý tiền ký quỹ của toàn bộ khách hàng của thành viên bù trừ đó;
+
+c) Tài khoản tiền thanh toán để thanh toán lãi lỗ vị thế hàng ngày, thanh toán khi thực hiện hợp đồng đứng tên thành viên bù trừ và các hoạt động thanh toán khác của thành viên bù trừ.
+
+3. Tài khoản tiền gửi ký quỹ thành viên và tài khoản chứng khoán ký quỹ thành viên chỉ được sử dụng cho các hoạt động sau:
+
+a) Nhận và hoàn trả tài sản ký quỹ cho thành viên bù trừ. Tài sản ký quỹ trên tài khoản này bao gồm cả tài sản của khách hàng được thành viên bù trừ sử dụng để ký quỹ cho vị thế của chính khách hàng đó;
+
+b) Nhận lãi hoặc thanh toán lỗ hàng ngày cho các vị thế đứng tên thành viên bù trừ; thanh toán và tiếp nhận thanh toán khi thực hiện hợp đồng; nhận thanh toán lãi tiền gửi ngân hàng;
+
+c) Nhận, chuyển giao chứng khoán cơ sở khi thực hiện hợp đồng (trong trường hợp thanh toán dưới hình thức chuyển giao tài sản cơ sở) đối với vị thế đứng tên thành viên bù trừ.
+
+4. Tài khoản ký quỹ thành viên phải được thiết lập, bảo đảm quản lý tách biệt tài sản của thành viên bù trừ với tài sản của Trung tâm lưu ký chứng khoán Việt Nam; tách biệt tài sản của từng thành viên bù trừ và tách biệt tài sản của thành viên bù trừ với các khách hàng của thành viên bù trừ đó.
+
+5. Tại mọi thời điểm, Trung tâm lưu ký chứng khoán Việt Nam có quyền yêu cầu thành viên bù trừ cung cấp thông tin chi tiết về tài khoản giao dịch, tài khoản ký quỹ, giá trị và danh mục tài sản ký quỹ của từng nhà đầu tư.
+
+6. Tiền, chứng khoán phát sinh từ thực hiện quyền đối với chứng khoán ký quỹ trên tài khoản ký quỹ thành viên được phân bổ theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam. Trung tâm lưu ký chứng khoán Việt Nam không được thực hiện gửi có kỳ hạn đối với tiền gửi ký quỹ của thành viên bù trừ. Lãi tiền gửi sẽ được hoàn trả cho thành viên bù trừ theo lãi suất không kỳ hạn do ngân hàng thanh toán công bố.
+
+7. Trung tâm lưu ký chứng khoán Việt Nam có trách nhiệm thiết lập hệ thống quản lý đầy đủ thông tin về biến động vị thế, lãi lỗ vị thế hàng ngày, giá trị ký quỹ ban đầu, giá trị ký quỹ duy trì yêu cầu, giá trị và danh mục tài sản ký quỹ theo từng tài khoản giao dịch của nhà đầu tư, thành viên bù trừ.
+
+8. Ủy ban Chứng khoán Nhà nước được lựa chọn ngân hàng thương mại làm ngân hàng thanh toán để cung cấp dịch vụ thanh toán tiền cho các giao dịch chứng khoán phái sinh trên Sở giao dịch chứng khoán theo các tiêu chí, trình tự và thủ tục quy định của pháp luật chứng khoán về đăng ký, lưu ký, bù trừ, thanh toán giao dịch chứng khoán. Ngân hàng thanh toán có các quyền và nghĩa vụ sau:
+
+a) Thiết lập hệ thống tài khoản quản lý tiền gửi ký quỹ theo quy định tại Thông tư này;
+
+b) Cung cấp kịp thời và đầy đủ thông tin về hoạt động và số dư chi tiết trên tài khoản tiền gửi ký quỹ theo yêu cầu của Trung tâm lưu ký chứng khoán Việt Nam, Ủy ban Chứng khoán Nhà nước;
+
+c) Các quyền và nghĩa vụ khác theo quy định pháp luật chứng khoán về đăng ký, lưu ký, bù trừ, thanh toán giao dịch chứng khoán.
+
+Điều 21. Ký quỹ của thành viên bù trừ
+
+1. Việc ký quỹ của thành viên bù trừ với Trung tâm lưu ký chứng khoán Việt Nam được thực hiện như sau:
+
+a) Thành viên bù trừ phải nộp ký quỹ ban đầu cho Trung tâm lưu ký chứng khoán Việt Nam cho các vị thế đứng tên mình dự kiến mở trước khi thực hiện giao dịch, trừ các giao dịch đối ứng của cùng một tài khoản giao dịch;
+
+b) Thành viên bù trừ phải bổ sung ký quỹ khi tổng giá trị tài sản ký quỹ không đáp ứng được giá trị ký quỹ duy trì yêu cầu do Trung tâm lưu ký chứng khoán Việt Nam tính toán đối với toàn bộ vị thế đứng tên mình và được rút bớt tài sản ký quỹ nếu giá trị tài sản ký quỹ vượt quá giá trị ký quỹ duy trì yêu cầu theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam;
+
+c) Tỷ lệ ký quỹ bằng tiền thực hiện theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam, đảm bảo không thấp hơn 80%, trừ trường hợp ký quỹ bằng chứng khoán để chuyển giao khi thực hiện hợp đồng hoặc nhà đầu tư nắm giữ vị thế bán hợp đồng tương lai trái phiếu thanh toán dưới hình thức chuyển giao tài sản cơ sở thực hiện ký quỹ bằng tài sản có thể chuyển giao. Giá trị ký quỹ duy trì yêu cầu đối với danh mục đầu tư trên từng tài khoản giao dịch của nhà đầu tư, tổng giá trị ký quỹ duy trì yêu cầu đối với toàn bộ vị thế đứng tên thành viên bù trừ do Trung tâm lưu ký chứng khoán Việt Nam tính toán trong phiên giao dịch dựa trên giá trị ký quỹ ban đầu, giá trị lãi lỗ vị thế kết hợp với việc đánh giá về khả năng biến động giá tối đa, mức độ tương quan giữa các vị thế, yêu cầu ký quỹ khi thực hiện hợp đồng theo phương thức chuyển giao tài sản cơ sở và các yếu tố khác mà Trung tâm lưu ký chứng khoán Việt Nam xét thấy là cần thiết;
+
+d) Trung tâm lưu ký chứng khoán Việt Nam xác định và giám sát theo thời gian thực tỷ lệ giữa giá trị ký quỹ duy trì yêu cầu với tổng giá trị tài sản ký quỹ theo từng tài khoản của nhà đầu tư, thành viên bù trừ. Trường hợp tỷ lệ này rơi vào các ngưỡng theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam, Trung tâm lưu ký chứng khoán Việt Nam có quyền cảnh báo thành viên bù trừ và áp dụng một trong các biện pháp xử lý sau:
+
+- Đề nghị Sở giao dịch chứng khoán đình chỉ giao dịch đối với các tài khoản giao dịch liên quan, trừ các giao dịch đối ứng;
+
+- Yêu cầu thành viên bù trừ (đối với tài khoản tự doanh) hoặc thông qua thành viên bù trừ yêu cầu nhà đầu tư (đối với tài khoản của nhà đầu tư) thực hiện giao dịch đối ứng để giảm vị thế, bổ sung tài sản ký quỹ.
+
+2. Việc xác định các loại ký quỹ, phương pháp tính ký quỹ và các tham số của phương pháp này, loại tài sản được chấp nhận ký quỹ, cách thức và thời gian, thủ tục nộp hoặc rút ký quỹ, tỷ lệ ký quỹ ban đầu, tỷ lệ ký quỹ bằng tiền, việc thực hiện các quyền liên quan tới chứng khoán ký quỹ và các nội dung liên quan khác thực hiện theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam ban hành sau khi Ủy ban Chứng khoán Nhà nước chấp thuận.
+
+Điều 22. Tài sản ký quỹ
+
+1. Nhà đầu tư và thành viên bù trừ được sử dụng tiền và chứng khoán đáp ứng các điều kiện tại khoản 2 Điều này để thực hiện ký quỹ.
+
+2. Chứng khoán được Trung tâm lưu ký chứng khoán Việt Nam, thành viên bù trừ chấp nhận là tài sản ký quỹ cho các vị thế chứng khoán phái sinh phải đáp ứng đầy đủ các điều kiện sau:
+
+a) Thuộc danh sách tài sản được chấp nhận ký quỹ của Trung tâm lưu ký chứng khoán Việt Nam;
+
+b) Không thuộc loại bị cảnh báo, bị kiểm soát, tạm ngừng giao dịch trên Sở giao dịch chứng khoán; hoặc chứng khoán của các tổ chức phát hành đang trong tình trạng thanh lý, giải thể, phá sản, hợp nhất, sáp nhập;
+
+c) Không bị cầm cố, phong tỏa, tạm giữ tại Trung tâm lưu ký chứng khoán Việt Nam;
+
+d) Thuộc loại tự do chuyển nhượng và đã được lưu ký trên tài khoản chứng khoán giao dịch tại Trung tâm lưu ký chứng khoán Việt Nam; là tài sản thuộc quyền sở hữu của bên ký quỹ là nhà đầu tư, thành viên bù trừ;
+
+đ) Đáp ứng các điều kiện khác theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam.
+
+3. Trung tâm lưu ký chứng khoán Việt Nam, thành viên bù trừ có trách nhiệm công bố danh sách chứng khoán được chấp nhận ký quỹ và tỷ lệ chiết khấu của từng chứng khoán trên trang thông tin điện tử của mình. Trường hợp thay đổi chứng khoán được chấp nhận ký quỹ, nhà đầu tư, thành viên bù trừ có trách nhiệm thay thế bằng tiền hoặc các chứng khoán được chấp nhận ký quỹ khác theo yêu cầu của Trung tâm lưu ký chứng khoán Việt Nam, thành viên bù trừ.
+
+4. Quản lý tài sản ký quỹ:
+
+a) Trung tâm lưu ký chứng khoán Việt Nam, thành viên bù trừ quản lý tài sản ký quỹ của thành viên bù trừ, nhà đầu tư theo các quy định tại Điều 25, 26 Nghị định số 42/2015/NĐ-CP ;
+
+b) Thành viên bù trừ chỉ được sử dụng tài sản ký quỹ trên tài khoản ký quỹ của nhà đầu tư để ký quỹ, bảo đảm nghĩa vụ thanh toán, thực hiện thanh toán cho các vị thế trên tài khoản giao dịch tương ứng của chính nhà đầu tư đó; không được sử dụng để bảo đảm, hỗ trợ thanh toán, thực hiện thanh toán cho các tài khoản giao dịch khác, kể cả tài khoản thuộc sở hữu của cùng một nhà đầu tư; không được sử dụng làm tài sản bảo đảm hoặc để thanh toán cho các mục đích khác hoặc cho bên thứ ba, ngoại trừ quy định tại điểm d, đ khoản này; không được sử dụng làm tài sản bảo đảm cho các khoản vay của mình hoặc sử dụng để đầu tư. Lãi tiền gửi sẽ được hoàn trả cho nhà đầu tư theo lãi suất không kỳ hạn do ngân hàng thanh toán công bố;
+
+c) Tài sản ký quỹ của nhà đầu tư phải được quản lý tách biệt, không phải và không được coi là tài sản của thành viên bù trừ, kể cả khi đã được ký quỹ trên tài khoản ký quỹ thành viên. Trường hợp thành viên bù trừ bị phá sản, tài sản ký quỹ của nhà đầu tư phải được hoàn trả hết cho nhà đầu tư sau khi đã hoàn tất nghĩa vụ thanh toán của chính nhà đầu tư đó;
+
+d) Trong trường hợp nhà đầu tư mất khả năng thanh toán, thành viên bù trừ được sử dụng, bán hoặc chuyển giao tài sản ký quỹ mà không cần sự chấp thuận của nhà đầu tư. Trong vòng một ngày trước khi và sau khi xử lý tài sản ký quỹ, thành viên bù trừ phải thông báo bằng văn bản cho nhà đầu tư về việc xử lý tài sản ký quỹ. Thông báo phải nêu rõ lý do, loại tài sản đã xử lý, phương thức và thời gian dự kiến xử lý (hoặc đã xử lý), giá trị dự kiến thực hiện (hoặc đã thực hiện);
+
+đ) Trung tâm lưu ký chứng khoán Việt Nam có quyền sử dụng tài sản ký quỹ của nhà đầu tư và của thành viên bù trừ đã nộp cho Trung tâm lưu ký chứng khoán Việt Nam để hỗ trợ thanh toán cho các vị thế của nhà đầu tư và của thành viên bù trừ theo quy định tại khoản 4 Điều 19 Nghị định số 42/2015/NĐ-CP ;
+
+e) Trong thời gian ký quỹ, nhà đầu tư, thành viên bù trừ vẫn được nhận các quyền và lợi ích phát sinh liên quan tới chứng khoán ký quỹ theo quy định pháp luật doanh nghiệp và pháp luật chứng khoán. Việc xử lý bảo đảm quyền lợi của nhà đầu tư đối với chứng khoán ký quỹ thực hiện theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam.
+
+5. Trong thời gian ký quỹ trên tài khoản ký quỹ, nhà đầu tư, thành viên bù trừ không được chuyển nhượng, cho, tặng, thế chấp, cầm cố, ký quỹ, ký cược, đăng ký tài sản bảo đảm hoặc sử dụng các tài sản ký quỹ vào các mục đích khác.
+
+Điều 23. Quỹ bù trừ
+
+1. Quỹ bù trừ được hình thành từ các khoản đóng góp của thành viên bù trừ bằng tiền hoặc chứng khoán được Trung tâm lưu ký chứng khoán Việt Nam chấp thuận với mục đích bồi thường thiệt hại và hoàn tất các giao dịch chứng khoán phái sinh đứng tên thành viên bù trừ trong trường hợp thành viên bù trừ, nhà đầu tư của thành viên bù trừ mất khả năng thanh toán. Tỷ lệ đóng góp vào quỹ bù trừ bằng tiền thực hiện theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam sau khi được Ủy ban Chứng khoán Nhà nước chấp thuận.
+
+2. Sau khi Trung tâm lưu ký chứng khoán Việt Nam chấp thuận nguyên tắc việc đăng ký làm thành viên bù trừ, thành viên bù trừ có nghĩa vụ đóng góp vào Quỹ bù trừ theo mức tối thiểu ban đầu.
+
+3. Định kỳ hàng tháng, Trung tâm lưu ký chứng khoán Việt Nam thực hiện đánh giá lại quy mô Quỹ bù trừ và xác định nghĩa vụ đóng góp Quỹ bù trừ của từng thành viên bù trừ căn cứ vào quy mô giao dịch, mức biến động giá trên thị trường, nghĩa vụ tài chính, mức độ rủi ro và các tiêu chí khác:
+
+a) Trường hợp số dư đóng góp Quỹ bù trừ lớn hơn nghĩa vụ phải đóng góp, thành viên bù trừ được nhận phần chênh lệch;
+
+b) Trường hợp số dư đóng góp Quỹ bù trừ nhỏ hơn nghĩa vụ phải đóng góp, thành viên bù trừ phải đóng góp bổ sung phần chênh lệch.
+
+4. Thành viên bù trừ có trách nhiệm đóng góp bổ sung bất thường vào Quỹ bù trừ theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam trong các trường hợp sau đây:
+
+a) Thành viên bù trừ bị đặt vào các tình trạng cảnh báo theo quy định pháp luật chứng khoán về an toàn tài chính, quy định pháp luật ngân hàng về an toàn vốn;
+
+b) Tài sản đóng góp của thành viên bù trừ bị phong tỏa, tịch thu bởi cơ quan nhà nước có thẩm quyền hoặc theo quyết định của Tòa án;
+
+c) Các trường hợp khác do Trung tâm lưu ký chứng khoán Việt Nam báo cáo và được Ủy ban Chứng khoán Nhà nước chấp thuận.
+
+5. Quản lý Quỹ bù trừ:
+
+a) Tài sản mà mỗi thành viên bù trừ đóng góp vào Quỹ bù trừ thuộc sở hữu của chính thành viên bù trừ đó và được Trung tâm lưu ký chứng khoán Việt Nam quản lý tách biệt với tài sản của Trung tâm lưu ký chứng khoán Việt Nam. Thành viên bù trừ phải ký cam kết cho phép Trung tâm lưu ký chứng khoán Việt Nam toàn quyền sử dụng, kể cả bán các tài sản đóng góp vào Quỹ bù trừ để thực hiện nghĩa vụ của các vị thế đứng tên thành viên bù trừ;
+
+b) Đối với khoản đóng góp bằng tiền, Trung tâm lưu ký chứng khoán Việt Nam mở tài khoản tiền gửi tại ngân hàng thanh toán để quản lý tiền của các thành viên bù trừ đóng góp vào Quỹ bù trừ;
+
+Đối với khoản đóng góp bằng chứng khoán: Trung tâm lưu ký chứng khoán Việt Nam mở tài khoản lưu ký đứng tên Trung tâm lưu ký chứng khoán Việt Nam để quản lý khoản đóng góp bằng chứng khoán của thành viên bù trừ. Cổ tức, trái tức, lãi suất phát sinh và các quyền lợi phát sinh khác đối với chứng khoán đóng góp phải được hoàn trả cho thành viên bù trừ, sau khi trừ đi các chi phí và thuế liên quan;
+
+c) Lãi phát sinh từ tiền đóng góp Quỹ bù trừ được phân bổ cho thành viên bù trừ phù hợp với số tiền và thời gian đóng góp của từng thành viên bù trừ sau khi trừ các chi phí liên quan.
+
+6. Hoàn trả Quỹ bù trừ
+
+Thành viên bù trừ chỉ được hoàn trả lại tài sản đóng góp vào Quỹ bù trừ khi bị chấm dứt tư cách thành viên bù trừ hoặc không còn là thành viên bù trừ.
+
+Việc hoàn trả Quỹ bù trừ được thực hiện sau khi Trung tâm lưu ký chứng khoán Việt Nam đã khấu trừ các khoản phải trả (nghĩa vụ nợ) và các khoản phải thanh toán để thực hiện các vị thế đứng tên thành viên đó theo quy định.
+
+7. Việc lập, quản lý và sử dụng quỹ bù trừ thực hiện theo quy chế do Trung tâm lưu ký chứng khoán Việt Nam ban hành sau khi được Ủy ban Chứng khoán Nhà nước chấp thuận.
+
+Điều 24. Xử lý trường hợp mất khả năng thanh toán
+
+1. Thành viên bù trừ, khách hàng của thành viên bù trừ bị mất khả năng thanh toán khi thuộc một trong các trường hợp sau:
+
+a) Không kịp thời thực hiện hoặc thực hiện không đầy đủ các nghĩa vụ thanh toán lỗ vị thế, thanh toán khi thực hiện hợp đồng theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam;
+
+b) Bị phá sản hoặc tuyên bố phá sản theo quy định pháp luật về phá sản doanh nghiệp;
+
+c) Các trường hợp khác theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam.
+
+2. Trung tâm lưu ký chứng khoán Việt Nam sử dụng các nguồn hỗ trợ quy định tại khoản 1 Điều 27 Nghị định số 42/2015/NĐ-CP để đảm bảo thanh toán khi thành viên bù trừ, khách hàng của thành viên bù trừ mất khả năng thanh toán. Việc sử dụng các nguồn hỗ trợ được thực hiện theo trình tự:
+
+a) Sử dụng tiền ký quỹ của thành viên bù trừ mất khả năng thanh toán, tiền ký quỹ của khách hàng của thành viên bù trừ mất khả năng thanh toán;
+
+b) Trường hợp tiền ký quỹ không đủ bù đắp nghĩa vụ thanh toán, Trung tâm lưu ký chứng khoán Việt Nam được:
+
+- Sử dụng khoản đóng góp bằng tiền vào Quỹ bù trừ của thành viên bù trừ mất khả năng thanh toán;
+
+- Thực hiện bán tài sản ký quỹ, khoản đóng góp Quỹ bù trừ bằng chứng khoán của thành viên bù trừ mất khả năng thanh toán trên Sở giao dịch chứng khoán thông qua thành viên giao dịch chỉ định theo mức giá do Trung tâm lưu ký chứng khoán Việt Nam quyết định;
+
+d)[10] Sử dụng khoản đóng góp của các thành viên bù trừ khác theo tỷ lệ do Trung tâm lưu ký chứng khoán Việt Nam xác định. Trong trường hợp này, Trung tâm lưu ký chứng khoán Việt Nam thông báo cho các thành viên bù trừ liên quan chi tiết về việc sử dụng Quỹ bù trừ ngay trong ngày sử dụng. Thành viên bù trừ mất khả năng thanh toán có nghĩa vụ hoàn trả toàn bộ số tài sản đã sử dụng của Quỹ và thanh toán tiền lãi cho các thành viên khác theo lãi suất do Trung tâm lưu ký chứng khoán Việt Nam xác định phù hợp với quy định của pháp luật hiện hành;
+
+đ) Sử dụng Quỹ dự phòng rủi ro thanh toán và các nguồn vốn hợp pháp của Trung tâm lưu ký chứng khoán Việt Nam theo quy chế của Trung tâm lưu ký chứng khoán Việt Nam.
+
+3. Ngoài việc sử dụng các nguồn hỗ trợ quy định tại khoản 2 Điều này, Trung tâm lưu ký chứng khoán Việt Nam được thực hiện các biện pháp sau:
+
+a) Yêu cầu thành viên giải trình lý do, cung cấp toàn bộ thông tin liên quan đến việc mất khả năng thanh toán, cung cấp danh sách khách hàng, thông tin nhận biết khách hàng và thông tin trên tài khoản ký quỹ của khách hàng;
+
+b) Phối hợp với Sở giao dịch chứng khoán hạn chế hoặc không cho phép mở vị thế mới đứng tên thành viên này, ngoại trừ các giao dịch đối ứng;
+
+c) Yêu cầu thành viên thanh lý vị thế của mình theo quy định tại khoản 4 Điều 19 Nghị định số 42/2015/NĐ-CP ;
+
+d) Mở tài khoản giao dịch tại Sở giao dịch chứng khoán để thực hiện các giao dịch đóng vị thế của thành viên bù trừ mất khả năng thanh toán theo quy định tại điểm a khoản 4 Điều 19 Nghị định số 42/2015/NĐ-CP và thực hiện các hoạt động và biện pháp phòng ngừa rủi ro khác theo quy định tại khoản 4 Điều 19 và Điều 28 Nghị định số 42/2015/NĐ-CP .
+
+đ) Trung tâm lưu ký chứng khoán Việt Nam được thực hiện thanh toán hợp đồng tương lai trái phiếu Chính phủ theo hình thức bằng tiền trong trường hợp thành viên bù trừ mất khả năng thanh toán tiền hoặc chuyển giao trái phiếu Chính phủ. Trong trường hợp này, thành viên bù trừ mất khả năng thanh toán có trách nhiệm bồi thường, thông qua Trung tâm lưu ký chứng khoán Việt Nam, cho thành viên bù trừ liên quan với số tiền có giá trị không thấp hơn 5% giá trị thanh toán hợp đồng. Trung tâm lưu ký chứng khoán Việt Nam quy định việc xác định giá trị và phương thức thanh toán bồi thường.
+
+4. Trường hợp nhà đầu tư mất khả năng thanh toán, thành viên bù trừ có trách nhiệm thông báo ngay cho Trung tâm lưu ký chứng khoán Việt Nam về vị thế, danh mục tài sản ký quỹ của nhà đầu tư đó và được thực hiện các giải pháp xử lý phù hợp, bao gồm:
+
+a) Yêu cầu nhà đầu tư thực hiện hoặc thành viên bù trừ thực hiện việc đóng vị thế, thanh lý vị thế bắt buộc đối với các vị thế mở của nhà đầu tư;
+
+b) Đình chỉ việc nhận lệnh giao dịch để mở vị thế mới từ nhà đầu tư liên quan; đồng thời hủy các lệnh giao dịch chưa thực hiện của nhà đầu tư đó;
+
+c) Sử dụng, bán, chuyển giao tài sản ký quỹ của nhà đầu tư để mua hoặc làm tài sản bảo đảm cho các khoản vay để thực hiện các nghĩa vụ thanh toán đối với các vị thế mở của nhà đầu tư. Trường hợp không đủ, thành viên bù trừ phải sử dụng tài sản của mình để thực hiện các hợp đồng chứng khoán phái sinh của nhà đầu tư;
+
+d) Nhà đầu tư có trách nhiệm hoàn trả thành viên bù trừ toàn bộ phần tài sản đã tạm ứng và chịu mọi chi phí phát sinh liên quan.
+
+5.[11] Trường hợp thành viên bù trừ mất khả năng thanh toán và đã được Trung tâm lưu ký chứng khoán Việt Nam thực hiện các biện pháp hỗ trợ thanh toán quy định tại khoản 2, khoản 3 Điều này, thành viên bù trừ có trách nhiệm hoàn trả Trung tâm lưu ký chứng khoán Việt Nam toàn bộ phần tài sản đã sử dụng từ Quỹ bù trừ, Quỹ dự phòng rủi ro và các nguồn khác để đảm bảo thanh toán và chịu mọi chi phí phát sinh liên quan.
+
+Chương V
+
+NGHĨA VỤ BÁO CÁO VÀ CÔNG BỐ THÔNG TIN
+
+Điều 25. Nghĩa vụ báo cáo, công bố thông tin của tổ chức kinh doanh dịch vụ chứng khoán phái sinh
+
+1. Tổ chức kinh doanh dịch vụ chứng khoán phái sinh gửi Ủy ban chứng khoán Nhà nước các báo cáo sau:
+
+a) Báo cáo tình hình hoạt động môi giới, tự doanh chứng khoán phái sinh (nếu có); hoạt động bù trừ, thanh toán giao dịch chứng khoán phái sinh (nếu có) theo hướng dẫn của Ủy ban Chứng khoán Nhà nước;
+
+b) Các báo cáo khác theo quy định của pháp luật chứng khoán về tổ chức hoạt động công ty chứng khoán, công ty quản lý quỹ.
+
+2. Tổ chức kinh doanh chứng khoán phái sinh phải công bố thông tin đồng thời báo cáo Ủy ban Chứng khoán Nhà nước những sự kiện sau:
+
+a) Thay đổi thành viên bù trừ (nếu có);
+
+b) Các trường hợp khác theo quy định pháp luật chứng khoán về tổ chức hoạt động công ty chứng khoán, công ty quản lý quỹ, về công bố thông tin trên thị trường chứng khoán và theo yêu cầu của Ủy ban Chứng khoán Nhà nước.
+
+Điều 26. Nghĩa vụ công bố thông tin của Sở giao dịch chứng khoán
+
+1. Sở giao dịch chứng khoán có trách nhiệm công bố các thông tin sau:
+
+a) Giá tham chiếu, giá trần, giá sàn, giá mở cửa, giá đóng cửa của từng phiên và ngày giao dịch, giá thỏa thuận (nếu có);
+
+b) Các mức giá chào mua, chào bán tốt nhất và khối lượng đặt mua, đặt bán tương ứng của từng loại chứng khoán phái sinh;
+
+c) Các thông tin công bố khác theo hướng dẫn của Ủy ban Chứng khoán Nhà nước.
+
+2. Sở giao dịch chứng khoán có trách nhiệm duy trì việc công bố thường xuyên bảng báo giá trên trang thông tin điện tử của mình với các thông tin dưới đây:
+
+a) Các mã chứng khoán phái sinh đang niêm yết;
+
+b) Giá tham chiếu, giá trần, giá sàn, giá thực hiện và khối lượng thực hiện của giao dịch gần nhất, giá giao dịch cao nhất trong phiên, giá giao dịch thấp nhất trong phiên, giá đóng cửa; ba (03) mức giá chào mua, giá chào bán tốt nhất;
+
+c) Tổng khối lượng thực hiện;
+
+d) Các thông tin khác theo hướng dẫn của Ủy ban Chứng khoán Nhà nước.
+
+3. Sở giao dịch chứng khoán có trách nhiệm công bố thông tin về việc hủy niêm yết, niêm yết mới chứng khoán phái sinh sau khi được Ủy ban Chứng khoán Nhà nước chấp thuận.
+
+4. Sở giao dịch chứng khoán có trách nhiệm công bố thông tin về thành viên giao dịch, thành viên tạo lập thị trường:
+
+a) Thông tin về chấp thuận thành viên giao dịch mới, thành viên tạo lập thị trường mới; đình chỉ, chấm dứt tư cách thành viên, tư cách thành viên tạo lập thị trường;
+
+b) Thông tin về vi phạm, xử phạt thành viên, thành viên tạo lập thị trường (nếu có);
+
+c) Các thông tin khác theo quy chế của Sở giao dịch chứng khoán.
+
+5. Sở giao dịch chứng khoán có trách nhiệm công bố các thông tin hoạt động của thị trường chứng khoán phái sinh bao gồm:
+
+a) Thông tin về việc tạm ngừng giao dịch thị trường chứng khoán phái sinh khi xảy ra sự cố bất khả kháng hoặc khi có những dấu hiệu bất thường trong giao dịch; thông tin về việc cho phép giao dịch trở lại đối với hợp đồng chứng khoán phái sinh;
+
+b) Thông tin về thay đổi biên độ dao động giá, giới hạn lệnh, giới hạn lệnh tích lũy (nếu có);
+
+c) Thông tin về việc sửa đổi, bổ sung nội dung của hợp đồng chứng khoán phái sinh sau khi được Ủy ban Chứng khoán Nhà nước chấp thuận;
+
+d) Các thông tin khác theo yêu cầu của Ủy ban Chứng khoán Nhà nước.
+
+6. Trung tâm lưu ký chứng khoán Việt Nam cung cấp các thông tin cần thiết để Sở giao dịch chứng khoán thực hiện công bố các thông tin hàng ngày, bao gồm các thông tin sau:
+
+a) Giá thanh toán cuối ngày, giá thanh toán cuối cùng (nếu có);
+
+b) Khối lượng mở của từng loại chứng khoán phái sinh của ngày giao dịch trước đó;
+
+c) Các nội dung khác theo hướng dẫn của Ủy ban Chứng khoán Nhà nước.
+
+Điều 27. Nghĩa vụ báo cáo, công bố thông tin của Trung tâm lưu ký chứng khoán Việt Nam
+
+1. Trung tâm lưu ký chứng khoán Việt Nam định kỳ gửi Ủy ban Chứng khoán Nhà nước các báo cáo dưới đây:
+
+a) Báo cáo về hoạt động bù trừ và thanh toán giao dịch chứng khoán phái sinh, báo cáo sử dụng cơ chế bảo đảm thanh toán, báo cáo giám sát và xử lý vi phạm của thành viên bù trừ theo hướng dẫn của Ủy ban Chứng khoán Nhà nước;
+
+b) Các báo cáo khác theo hướng dẫn của Ủy ban Chứng khoán Nhà nước.
+
+2. Trung tâm lưu ký chứng khoán Việt Nam phải báo cáo Ủy ban Chứng khoán Nhà nước trong thời hạn tối đa hai mươi bốn (24) giờ kể từ khi xảy ra các sự kiện bất thường sau:
+
+a) Thành viên bù trừ mất khả năng thanh toán giao dịch chứng khoán phái sinh;
+
+b) Đình chỉ, chấm dứt tư cách thành viên bù trừ.
+
+c) Các trường hợp khác theo quy định pháp luật và theo yêu cầu của Ủy ban Chứng khoán Nhà nước.
+
+3. Trung tâm lưu ký chứng khoán Việt Nam có trách nhiệm công bố thông tin sau:
+
+a) Việc cấp giấy chứng nhận đăng ký, thu hồi, đình chỉ tư cách thành viên bù trừ; danh sách thành viên bù trừ; thông tin về vi phạm của thành viên bù trừ (nếu có);
+
+b) Các thông tin về ký quỹ, giới hạn vị thế và các thông tin khác theo hướng dẫn của Ủy ban Chứng khoán Nhà nước.
+
+Điều 28. Thời hạn nộp báo cáo
+
+1. Đối với báo cáo định kỳ
+
+a)[12] Trong thời hạn mười (10) ngày kể từ ngày kết thúc tháng đối với các báo cáo tháng;
+
+b)[13] (Được bãi bỏ);
+
+c) Trong thời hạn bốn mươi lăm (45) ngày kể từ ngày kết thúc sáu tháng đầu năm đối với các báo cáo bán niên;
+
+d) Trong thời hạn chín mươi (90) ngày kể từ ngày kết thúc năm đối với các báo cáo năm.
+
+2. Đối với báo cáo các sự kiện phát sinh
+
+a) Trong thời hạn hai mươi bốn (24) giờ đối với báo cáo quy định tại khoản 2 Điều 25; khoản 3, khoản 4, khoản 5 Điều 26 Thông tư này;
+
+b) Trong thời hạn hai mươi bốn (24) giờ kể từ ngày nhận được yêu cầu báo cáo khác của Ủy ban Chứng khoán Nhà nước.
+
+3. Các báo cáo theo quy định tại Thông tư này phải được gửi kèm tệp thông tin điện tử.
+
+Chương VI
+
+ĐIỀU KHOẢN THI HÀNH[14]
+
+Điều 29. Hiệu lực thi hành
+
+Thông tư này có hiệu lực thi hành kể từ ngày 01/7/2016.
+
+Điều 30. Tổ chức thực hiện
+
+1. Ủy ban Chứng khoán Nhà nước, Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam, tổ chức kinh doanh dịch vụ chứng khoán phái sinh, thành viên giao dịch, thành viên bù trừ và các tổ chức, cá nhân có liên quan đến hoạt đầu tư, kinh doanh chứng khoán phái sinh và thị trường chứng khoán phái sinh tại Việt Nam có trách nhiệm tổ chức thực hiện.
+
+2. Việc sửa đổi, bổ sung Thông tư này do Bộ trưởng Bộ Tài chính quyết định./.
+
+|  | XÁC THỰC VĂN BẢN HỢP NHẤT KT. BỘ TRƯỞNG THỨ TRƯỞNG Trần Xuân Hà |
+
+|--|-----------------------------------------------------------------|
+
+XÁC THỰC VĂN BẢN HỢP NHẤT
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Trần Xuân Hà
+
+[1] Văn bản này hợp nhất từ 02 văn bản sau:
+
+- Thông tư số 11/2016/TT-BTC ngày 19 tháng 01 năm 2016 của Bộ trưởng Bộ Tài chính hướng dẫn một số điều của Nghị định số 42/2015/NĐ-CP ngày 05 tháng 5 năm 2015, có hiệu lực kể từ ngày 01 tháng 7 năm 2016.
+
+- Thông tư số 23/2017/TT-BTC ngày 16 tháng 3 năm 2017 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 11/2016/TT-BTC ngày 19 tháng 01 năm 2016 hướng dẫn một số điều của Nghị định số 42/2015/NĐ-CP ngày 05 tháng 5 năm 2015 (sau đây gọi tắt là Thông tư số 23/2017/TT-BTC), có hiệu lực kể từ ngày 01 tháng 5 năm 2017.
+
+Văn bản hợp nhất này không thay thế 02 văn bản nêu trên.
+
+[2] Thông tư số 23/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2017, có căn cứ ban hành như sau:
+
+“Căn cứ Luật Chứng khoán ngày 29 tháng 6 năm 2006;
+
+Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán ngày 24 tháng 11 năm 2010;
+
+Căn cứ Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán;
+
+Căn cứ Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán;
+
+Căn cứ Nghị định số 42/2015/NĐ-CP ngày 05 tháng 5 năm 2015 của Chính phủ quy định về chứng khoán phái sinh và thị trường chứng khoán phái sinh;
+
+Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Chủ tịch Ủy ban Chứng khoán Nhà nước;
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư sửa đổi, bổ sung một số điều của Thông tư số 11/2016/TT-BTC ngày 19 tháng 01 năm 2016 hướng dẫn một số điều của Nghị định số 42/2015/NĐ-CP ngày 05 tháng 5 năm 2015 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh.”
+
+[3] Khoản này được bổ sung theo quy định tại khoản 1 Điều 1 Thông tư số 23/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2017.
+
+[4] Điểm này được sửa đổi, bổ sung theo quy định tại khoản 2 Điều 1 Thông tư số 23/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2017.
+
+[5] Khoản này được bổ sung theo quy định tại khoản 3 Điều 1 Thông tư số 23/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2017.
+
+[6] Khoản này được sửa đổi, bổ sung theo quy định tại khoản 4 Điều 1 Thông tư số 23/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2017.
+
+[7] Khoản này được sửa đổi, bổ sung theo quy định tại khoản 5 Điều 1 Thông tư số 23/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2017.
+
+[8] Điểm này được sửa đổi, bổ sung theo quy định tại khoản 6 Điều 1 Thông tư số 23/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2017.
+
+[9] Điểm này được bổ sung theo quy định tại khoản 6 Điều 1 Thông tư số 23/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2017.
+
+[10] Điểm này được sửa đổi, bổ sung theo quy định tại khoản 7 Điều 1 Thông tư số 23/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2017.
+
+[11] Khoản này được bổ sung theo quy định tại khoản 8 Điều 1 Thông tư số 23/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2017.
+
+[12] Điểm này được sửa đổi, bổ sung theo quy định tại khoản 9 Điều 1 Thông tư số 23/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2017.
+
+[13] Điểm b khoản 1 Điều 28 được bãi bỏ theo quy định tại Điều 2 Thông tư số 23/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2017.
+
+[14] Điều 3 Thông tư số 23/2017/TT-BTC , có hiệu lực từ ngày 01 tháng 5 năm 2017 quy định như sau:
+
+“Điều 3. Điều khoản thi hành
+
+1. Thông tư này có hiệu lực kể từ ngày 01 tháng 5 năm 2017.
+
+2. Ủy ban Chứng khoán Nhà nước, Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam, tổ chức kinh doanh dịch vụ chứng khoán phái sinh, thành viên giao dịch, thành viên bù trừ và các tổ chức, cá nhân có liên quan đến hoạt động đầu tư, kinh doanh chứng khoán phái sinh và thị trường chứng khoán phái sinh tại Việt Nam có trách nhiệm tổ chức thực hiện Thông tư này.
+
+3. Việc sửa đổi, bổ sung, thay thế Thông tư này do Bộ trưởng Bộ Tài chính quyết định.”

@@ -1,0 +1,707 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 55/VBHN-BTC | Hà Nội, ngày 17 tháng 10 năm 2019                               |
+
+BỘ TÀI CHÍNH --------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 55/VBHN-BTC
+
+Hà Nội, ngày 17 tháng 10 năm 2019
+
+THÔNG TƯ[1]
+
+HƯỚNG DẪN MỘT SỐ ĐIỀU TẠI NGHỊ ĐỊNH SỐ 24/2016/NĐ-CP NGÀY 05 THÁNG 4 NĂM 2016 CỦA CHÍNH PHỦ QUY ĐỊNH CHẾ ĐỘ QUẢN LÝ NGÂN QUỸ NHÀ NƯỚC
+
+Thông tư số 314/2016/TT-BTC ngày 28 tháng 11 năm 2016 của Bộ Tài chính hướng dẫn một số điều tại Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước có hiệu lực kể từ ngày 15 tháng 01 năm 2017 được sửa đổi, bổ sung bởi:
+
+Thông tư số 64/2019/TT-BTC ngày 16 tháng 9 năm 2019 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 314/2016/TT-BTC ngày 28 tháng 11 năm 2016 của Bộ Tài chính hướng dẫn một số điều tại Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước có hiệu lực kể từ ngày 01 tháng 11 năm 2019.
+
+Căn cứ Luật Ngân sách nhà nước ngày 25 tháng 6 năm 2015;
+
+Căn cứ Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước;
+
+Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Căn cứ Quyết định số 26/2015/QĐ-TTg ngày 08 tháng 7 năm 2015 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Kho bạc Nhà nước trực thuộc Bộ Tài chính;
+
+Theo đề nghị của Tổng Giám đốc Kho bạc Nhà nước;
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn một số điều tại Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước.[2]
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh[3]
+
+1. Thông tư này hướng dẫn một số điều của Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước (sau đây gọi là Nghị định số 24/2016/NĐ-CP) về: dự báo luồng tiền; sử dụng ngân quỹ nhà nước (NQNN) tạm thời nhàn rỗi (không bao gồm việc tạm ứng NQNN tạm thời nhàn rỗi cho ngân sách trung ương, ngân sách cấp tỉnh); biện pháp xử lý NQNN tạm thời thiếu hụt; quản lý rủi ro đối với hoạt động quản lý NQNN; trách nhiệm, quyền hạn của các đơn vị trong quản lý NQNN.
+
+2. Việc sử dụng NQNN tạm thời nhàn rỗi, biện pháp xử lý NQNN tạm thời thiếu hụt quy định tại Thông tư này không áp dụng đối với NQNN bằng ngoại tệ.
+
+Điều 2. Đối tượng áp dụng
+
+1. Các đơn vị thuộc hệ thống Kho bạc Nhà nước (KBNN).
+
+2[4]. Các đơn vị thuộc và trực thuộc Bộ Tài chính có liên quan đến công tác quản lý NQNN, bao gồm: Tổng cục Thuế, Tổng cục Hải quan, Cục Quản lý nợ và Tài chính đối ngoại, Vụ Ngân sách nhà nước (NSNN), Vụ Tài chính các ngân hàng và tổ chức tài chính.
+
+3[5]. Các ngân hàng thương mại (NHTM) có liên quan đến hoạt động sử dụng ngân quỹ nhà nước tạm thời nhàn rỗi để gửi có kỳ hạn tại NHTM của Kho bạc Nhà nước (KBNN).
+
+Chương II
+
+DỰ BÁO LUỒNG TIỀN
+
+Điều 3. Các loại dự báo luồng tiền
+
+1. Dự báo luồng tiền có 03 loại dự báo sau:
+
+a) Dự báo luồng tiền bằng đồng Việt Nam.
+
+b) Dự báo luồng tiền bằng ngoại tệ quy ra đô la Mỹ.
+
+c) Dự báo luồng tiền cả bằng đồng Việt Nam và ngoại tệ quy ra đồng Việt Nam.
+
+2. Tỷ giá quy đổi từ các loại ngoại tệ ra đô la Mỹ và từ đô la Mỹ sang đồng Việt Nam theo tỷ giá hạch toán do Bộ Tài chính quy định tại thời điểm dự báo.
+
+Điều 4. Kỳ dự báo luồng tiền
+
+1. Kỳ dự báo luồng tiền được lập theo quý (có chia ra tháng) và dự báo năm (có chia ra quý).
+
+a) Đối với dự báo quý, KBNN tổng hợp số liệu dự báo trước ngày 20 tháng cuối quý trước.
+
+b) Đối với dự báo năm, KBNN tổng hợp số liệu dự báo trước ngày 20 tháng cuối năm trước.
+
+2. Tùy theo tình hình thu, chi NQNN và yêu cầu quản lý, KBNN có thể lập dự báo luồng tiền theo tháng, tuần hoặc ngày.
+
+a) Đối với dự báo tháng, KBNN tổng hợp số liệu trước ngày làm việc cuối cùng của tháng trước.
+
+b) Đối với dự báo tuần, KBNN tổng hợp số liệu trước ngày làm việc đầu tiên của tuần dự báo.
+
+Điều 5. Nội dung dự báo
+
+1. Nội dung dự báo thu, chi NQNN được thực hiện theo quy định tại Khoản 1 và Khoản 2 Điều 6 Nghị định số 24/2016/NĐ-CP , cụ thể như sau:
+
+a) Các khoản thu NQNN, bao gồm: thu NSNN; thu các quỹ tài chính nhà nước và các khoản thu tiền gửi của các đơn vị giao dịch tại KBNN; thu từ huy động vốn cho NSNN và cho đầu tư phát triển (vay trong nước; vay nước ngoài); các khoản thu hồi sử dụng NQNN tạm thời nhàn rỗi.
+
+b) Các khoản chi NQNN, bao gồm: chi NSNN (chi đầu tư phát triển; chi thường xuyên; chi trả hoàn thuế giá trị gia tăng, không bao gồm chi trả nợ thuộc phạm vi NSNN); chi trả nợ đến hạn (bao gồm, trả nợ trong nước như chi trả trái phiếu Chính phủ, trả nợ vay Bảo hiểm Xã hội Việt Nam,...; trả nợ nước ngoài và các khoản thanh toán nợ khác); các khoản chi tiền gửi của các đơn vị giao dịch tại KBNN và các quỹ tài chính nhà nước.
+
+Chi tiết dự báo luồng tiền được thực hiện theo Mẫu số 05/DBTH, Mẫu số 06/DBVN và Mẫu số 07/DBNT ban hành kèm theo Thông tư này.
+
+2. Dự báo luồng tiền quy định tại Khoản 1 Điều này không bao gồm các khoản thu, chi NQNN chỉ mang tính chất chuyển nguồn, chuyển quỹ, không ảnh hưởng đến sự biến động tồn NQNN của toàn hệ thống KBNN; các khoản thu, chi viện trợ, vay nợ nước ngoài theo phương thức tài trợ trực tiếp cho các chương trình, dự án, không thực hiện thanh toán qua KBNN; các khoản ghi thu, ghi chi NSNN.
+
+Điều 6. Nguồn thông tin dự báo
+
+1. Đối với số liệu thu NSNN:
+
+a) Tổng cục Thuế xác định và cung cấp cho KBNN số thu nội địa, thu dầu thô (theo Mẫu số 01/DB-TCT ban hành kèm theo Thông tư này).
+
+b) Tổng cục Hải quan xác định và cung cấp cho KBNN số thu NSNN từ hàng hóa xuất nhập khẩu (theo Mẫu số 02/DB-TCHQ ban hành kèm theo Thông tư này).
+
+2. Đối với số liệu chi NSNN (không bao gồm chi hoàn thuế giá trị gia tăng), do KBNN tự xác định; đối với số chi hoàn thuế giá trị gia tăng, do Tổng cục Thuế xác định và cung cấp cho KBNN (theo Mẫu số 01/DB-TCT).
+
+3. Đối với số liệu vay và trả nợ vay:
+
+a) Vay và trả nợ vay trong nước: KBNN xác định số vay và trả nợ vay qua phát hành trái phiếu Chính phủ để bù đắp bội chi NSNN và cho đầu tư phát triển; các khoản trả nợ vay phát hành tín phiếu kho bạc để bù đắp NQNN tạm thời thiếu hụt đến hạn trong kỳ.
+
+b) Vay và trả nợ vay nước ngoài: Cục Quản lý nợ và Tài chính đối ngoại xác định và cung cấp cho KBNN các khoản vay và viện trợ nước ngoài trực tiếp cho NSNN; các khoản trả nợ vay nước ngoài đến hạn trong kỳ (theo Mẫu số 03/DB-CQLN ban hành kèm theo Thông tư này).
+
+c) Vay và trả nợ vay khác của NSNN: Vụ NSNN xác định và cung cấp cho KBNN (theo Mẫu số 04/DB-NSNN ban hành kèm theo Thông tư này).
+
+4. Đối với số liệu thu, chi tiền gửi của các đơn vị giao dịch và các quỹ tài chính nhà nước: Do KBNN tự xác định.
+
+5. Thu hồi các khoản sử dụng NQNN tạm thời nhàn rỗi đến hạn trong kỳ: Do KBNN tự xác định.
+
+Điều 7. Xác định khả năng NQNN tạm thời nhàn rỗi hoặc NQNN tạm thời thiếu hụt
+
+1. NQNN tạm thời nhàn rỗi hoặc NQNN tạm thời thiếu hụt trong kỳ được xác định theo công thức sau:
+
+Tồn NQNN ước tính đầu kỳ cộng (+) tổng khả năng thu NQNN trong kỳ (bao gồm cả các khoản sử dụng NQNN đến hạn thu hồi) trừ đi (-) tổng nhu cầu chi NQNN trong kỳ (bao gồm cả các khoản hoàn trả tiền vay bù đắp NQNN tạm thời thiếu hụt đến hạn trong kỳ) trừ đi (-) định mức tồn NQNN tối thiểu trong kỳ. Trường hợp:
+
+a) Phần chênh lệch dương là NQNN tạm thời nhàn rỗi trong kỳ.
+
+b) Phần chênh lệch âm là NQNN tạm thời thiếu hụt trong kỳ.
+
+2[6]. Căn cứ dự báo khả năng NQNN tạm thời nhàn rỗi hoặc NQNN tạm thời thiếu hụt trong kỳ, KBNN xây dựng phương án điều hành NQNN, lấy ý kiến Vụ NSNN, Vụ Tài chính các ngân hàng và tổ chức tài chính, trình Bộ Tài chính phê duyệt theo quy định tại Điều 5 Nghị định số 24/2016/NĐ-CP. Cụ thể:
+
+a) Trường hợp dự kiến NQNN tạm thời nhàn rỗi trong quý, năm, phương án điều hành NQNN nêu rõ các hạn mức sử dụng NQNN tạm thời nhàn rỗi được quy định tại Điều 13 Thông tư này.
+
+b) Trường hợp dự kiến NQNN tạm thời thiếu hụt trong quý, năm, phương án điều hành NQNN nêu rõ tổng số lượng phát hành tín phiếu kho bạc để bù đắp NQNN tạm thời thiếu hụt; tổng số lượng thu hồi trước hạn các khoản tiền đang gửi có kỳ hạn tại các NHTM (nếu có).
+
+Chương III
+
+SỬ DỤNG NGÂN QUỸ NHÀ NƯỚC TẠM THỜI NHÀN RỖI
+
+Điều 8. Gửi có kỳ hạn tại ngân hàng thương mại
+
+1[7]. KBNN lựa chọn các NHTM để thực hiện gửi có kỳ hạn các khoản NQNN tạm thời nhàn rỗi như sau:
+
+a) Điều kiện lựa chọn các NHTM để gửi có kỳ hạn NQNN tạm thời nhàn rỗi
+
+- Trong danh sách các ngân hàng thương mại có mức độ an toàn cao do Ngân hàng Nhà nước Việt Nam cung cấp cho Bộ Tài chính (KBNN) hằng năm theo quy định tại Điểm c Khoản 1 Điều 7 Nghị định số 24/2016/NĐ-CP ;
+
+- Đáp ứng các tiêu chí đánh giá về quy mô tổng tài sản, tổng vốn chủ sở hữu, chất lượng tín dụng, kết quả hoạt động kinh doanh do Bộ Tài chính quy định. Các tiêu chí đánh giá, cách tính điểm từng tiêu chí, tổng điểm đánh giá, lựa chọn NHTM dự kiến gửi có kỳ hạn NQNN tạm thời nhàn rỗi theo quy định tại Điểm c Khoản này.
+
+b) Quy trình đánh giá, lựa chọn NHTM dự kiến gửi có kỳ hạn NQNN tạm thời nhàn rỗi:
+
+- Hằng năm, chậm nhất 05 ngày làm việc kể từ ngày nhận được danh sách các NHTM có mức độ an toàn cao do Ngân hàng Nhà nước Việt Nam cung cấp theo quy định tại Khoản 3 Điều 14 Nghị định số 24/2016/NĐ-CP , căn cứ báo cáo tài chính năm trước liền kề đã được kiểm toán bởi Kiểm toán Nhà nước hoặc tổ chức kiểm toán độc lập được phép hoạt động hợp pháp tại Việt Nam của các NHTM được công bố công khai trên các phương tiện thông tin đại chúng, KBNN thực hiện đánh giá, lựa chọn NHTM dự kiến gửi có kỳ hạn NQNN tạm thời nhàn rỗi theo quy định tại Điểm c Khoản này, trình Bộ Tài chính phê duyệt. Trường hợp báo cáo tài chính của NHTM chưa được công bố trên phương tiện thông tin đại chúng, KBNN gửi công văn đề nghị NHTM cung cấp báo cáo tài chính năm trước liền kề đã được kiểm toán nếu NHTM có nhu cầu nhận tiền gửi có kỳ hạn của KBNN;
+
+- Căn cứ danh sách các NHTM dự kiến gửi có kỳ hạn NQNN tạm thời nhàn rỗi đã được Bộ Tài chính phê duyệt, KBNN thông báo bằng văn bản đến từng NHTM được lựa chọn dự kiến gửi có kỳ hạn NQNN tạm thời nhàn rỗi hằng năm.
+
+- Trường hợp Ngân hàng Nhà nước Việt Nam thông báo điều chỉnh danh sách các NHTM có mức độ an toàn cao, KBNN trình Bộ Tài chính phê duyệt điều chỉnh danh sách các NHTM dự kiến gửi có kỳ hạn NQNN tạm thời nhàn rỗi.
+
+Căn cứ danh sách các NHTM dự kiến gửi có kỳ hạn NQNN tạm thời nhàn rỗi (đã điều chỉnh) được Bộ Tài chính phê duyệt, KBNN thông báo bằng văn bản đến từng NHTM được bổ sung hoặc bị loại khỏi danh sách dự kiến gửi có kỳ hạn NQNN tạm thời nhàn rỗi.
+
+c) Các tiêu chí đánh giá; cách tính điểm của từng tiêu chí; cách tính tổng điểm đánh giá, lựa chọn NHTM dự kiến gửi có kỳ hạn NQNN tạm thời nhàn rỗi:
+
+- Các tiêu chí đánh giá được sử dụng để đánh giá, lựa chọn NHTM dự kiến gửi có kỳ hạn NQNN tạm thời nhàn rỗi gồm:
+
++ Quy mô tổng tài sản;
+
++ Tổng vốn chủ sở hữu;
+
++ Chất lượng tín dụng (tỷ lệ nợ xấu so với dư nợ tín dụng);
+
++ Kết quả hoạt động kinh doanh (tỷ lệ lợi nhuận sau thuế so với vốn chủ sở hữu bình quân).
+
+- Cách tính điểm của từng tiêu chí: điểm của từng tiêu chí đánh giá bằng mức điểm của từng tiêu chí nhân với trọng số của tiêu chí đó; trong đó:
+
++ Mức điểm của từng tiêu chí được xác định như sau:
+
+| STT | Tiêu chí                                                                                | Mức điểm |
+
+|-----|-----------------------------------------------------------------------------------------|----------|
+
+| 1   | Quy mô tổng tài sản                                                                     |          |
+
+| 1.1 | Từ 1.000.000 tỷ đồng trở lên                                                            | 100      |
+
+| 1.2 | Từ 800.000 tỷ đồng đến dưới 1.000.000 tỷ đồng                                           | 90       |
+
+| 1.3 | Từ 600.000 tỷ đồng đến dưới 800.000 tỷ đồng                                             | 80       |
+
+| 1.4 | Từ 400.000 tỷ đồng đến dưới 600.000 tỷ đồng                                             | 70       |
+
+| 1.5 | Từ 200.000 tỷ đồng đến dưới 400.000 tỷ đồng                                             | 50       |
+
+| 1.6 | Dưới 200.000 tỷ đồng                                                                    | 0        |
+
+| 2   | Tổng vốn chủ sở hữu                                                                     |          |
+
+| 2.1 | Từ 50.000 tỷ đồng trở lên                                                               | 100      |
+
+| 2.2 | Từ 45.000 tỷ đồng đến dưới 50.000 tỷ đồng                                               | 90       |
+
+| 2.3 | Từ 40.000 tỷ đồng đến dưới 45.000 tỷ đồng                                               | 80       |
+
+| 2.4 | Từ 35.000 tỷ đồng đến dưới 40.000 tỷ đồng                                               | 70       |
+
+| 2.5 | Từ 30.000 tỷ đồng đến dưới 35.000 tỷ đồng                                               | 50       |
+
+| 2.6 | Dưới 30.000 tỷ đồng                                                                     | 0        |
+
+| 3   | Chất lượng tín dụng (tỷ lệ nợ xấu so với dư nợ tín dụng)                                |          |
+
+| 3.1 | Dưới 1%                                                                                 | 100      |
+
+| 3.2 | Từ 1% đến dưới 1,5%                                                                     | 90       |
+
+| 3.3 | Từ 1,5% đến dưới 2%                                                                     | 80       |
+
+| 3.4 | Từ 2% đến dưới 2,5%                                                                     | 70       |
+
+| 3.5 | Từ 2,5% đến dưới 3%                                                                     | 50       |
+
+| 3.6 | Từ 3% trở lên                                                                           | 0        |
+
+| 4   | Kết quả hoạt động kinh doanh (tỷ lệ lợi nhuận sau thuế so với vốn chủ sở hữu bình quân) |          |
+
+| 4.1 | Từ 20% trở lên                                                                          | 100      |
+
+| 4.2 | Từ 15% đến dưới 20%                                                                     | 90       |
+
+| 4.3 | Từ 10% đến dưới 15%                                                                     | 80       |
+
+| 4.4 | Từ 5% đến dưới 10%                                                                      | 70       |
+
+| 4.5 | Từ 2% đến dưới 5%                                                                       | 50       |
+
+| 4.6 | Dưới 2%                                                                                 | 0        |
+
+STT
+
+Tiêu chí
+
+Mức điểm
+
+1
+
+Quy mô tổng tài sản
+
+1.1
+
+Từ 1.000.000 tỷ đồng trở lên
+
+100
+
+1.2
+
+Từ 800.000 tỷ đồng đến dưới 1.000.000 tỷ đồng
+
+90
+
+1.3
+
+Từ 600.000 tỷ đồng đến dưới 800.000 tỷ đồng
+
+80
+
+1.4
+
+Từ 400.000 tỷ đồng đến dưới 600.000 tỷ đồng
+
+70
+
+1.5
+
+Từ 200.000 tỷ đồng đến dưới 400.000 tỷ đồng
+
+50
+
+1.6
+
+Dưới 200.000 tỷ đồng
+
+0
+
+2
+
+Tổng vốn chủ sở hữu
+
+2.1
+
+Từ 50.000 tỷ đồng trở lên
+
+100
+
+2.2
+
+Từ 45.000 tỷ đồng đến dưới 50.000 tỷ đồng
+
+90
+
+2.3
+
+Từ 40.000 tỷ đồng đến dưới 45.000 tỷ đồng
+
+80
+
+2.4
+
+Từ 35.000 tỷ đồng đến dưới 40.000 tỷ đồng
+
+70
+
+2.5
+
+Từ 30.000 tỷ đồng đến dưới 35.000 tỷ đồng
+
+50
+
+2.6
+
+Dưới 30.000 tỷ đồng
+
+0
+
+3
+
+Chất lượng tín dụng (tỷ lệ nợ xấu so với dư nợ tín dụng)
+
+3.1
+
+Dưới 1%
+
+100
+
+3.2
+
+Từ 1% đến dưới 1,5%
+
+90
+
+3.3
+
+Từ 1,5% đến dưới 2%
+
+80
+
+3.4
+
+Từ 2% đến dưới 2,5%
+
+70
+
+3.5
+
+Từ 2,5% đến dưới 3%
+
+50
+
+3.6
+
+Từ 3% trở lên
+
+0
+
+4
+
+Kết quả hoạt động kinh doanh (tỷ lệ lợi nhuận sau thuế so với vốn chủ sở hữu bình quân)
+
+4.1
+
+Từ 20% trở lên
+
+100
+
+4.2
+
+Từ 15% đến dưới 20%
+
+90
+
+4.3
+
+Từ 10% đến dưới 15%
+
+80
+
+4.4
+
+Từ 5% đến dưới 10%
+
+70
+
+4.5
+
+Từ 2% đến dưới 5%
+
+50
+
+4.6
+
+Dưới 2%
+
+0
+
++ Trọng số của từng tiêu chí được xác định trên cơ sở tầm quan trọng của từng tiêu chí đối với an toàn tiền gửi có kỳ hạn của KBNN, cụ thể như sau:
+
+| STT | Tiêu chí đánh giá                                                                       | Trọng số (%) |
+
+|-----|-----------------------------------------------------------------------------------------|--------------|
+
+| 1   | Quy mô tổng tài sản                                                                     | 55           |
+
+| 2   | Tổng vốn chủ sở hữu                                                                     | 25           |
+
+| 3   | Chất lượng tín dụng (tỷ lệ nợ xấu so với dư nợ tín dụng)                                | 10           |
+
+| 4   | Kết quả hoạt động kinh doanh (tỷ lệ lợi nhuận sau thuế so với vốn chủ sở hữu bình quân) | 10           |
+
+STT
+
+Tiêu chí đánh giá
+
+Trọng số (%)
+
+1
+
+Quy mô tổng tài sản
+
+55
+
+2
+
+Tổng vốn chủ sở hữu
+
+25
+
+3
+
+Chất lượng tín dụng (tỷ lệ nợ xấu so với dư nợ tín dụng)
+
+10
+
+4
+
+Kết quả hoạt động kinh doanh (tỷ lệ lợi nhuận sau thuế so với vốn chủ sở hữu bình quân)
+
+10
+
+- Cách tính tổng điểm đánh giá: tổng điểm đánh giá NHTM được xác định trên cơ sở tổng điểm của từng tiêu chí đánh giá.
+
+- Các NHTM đạt tổng điểm đánh giá từ 90 điểm trở lên được lựa chọn vào danh sách các NHTM dự kiến gửi có kỳ hạn NQNN tạm thời nhàn rỗi.
+
+- Số liệu sử dụng để đánh giá các NHTM là số liệu tại báo cáo tài chính riêng năm trước liền kề của các NHTM đã được kiểm toán bởi Kiểm toán Nhà nước hoặc tổ chức kiểm toán độc lập được phép hoạt động hợp pháp tại Việt Nam.
+
+- Trường hợp cần thiết, Tổng Giám đốc KBNN trình Bộ Tài chính quyết định điều chỉnh các tiêu chí đánh giá; cách tính điểm đánh giá, lựa chọn NHTM để phù hợp với tình hình thực tế.
+
+2[8]. Tổ chức thực hiện gửi có kỳ hạn NQNN tạm thời nhàn rỗi tại NHTM
+
+a) Hằng năm, căn cứ danh sách các NHTM dự kiến gửi có kỳ hạn NQNN tạm thời nhàn rỗi được Bộ Tài chính phê duyệt theo quy định tại Khoản 1 Điều này, KBNN thực hiện ký kết hợp đồng khung về việc gửi có kỳ hạn NQNN với các NHTM. Hợp đồng khung gồm các điều khoản cơ bản sau:
+
+- Thông tin về bên gửi tiền (KBNN) và bên nhận tiền gửi có kỳ hạn (NHTM), bao gồm Giấy tờ xác minh thông tin người đại diện theo pháp luật;
+
+- Phương thức chuyển tiền, thanh toán số tiền gốc và lãi;
+
+- Quyền và nghĩa vụ các bên;
+
+- Quy định về phạt vi phạm hợp đồng, xử lý tranh chấp, thỏa thuận rút trước hạn và các thỏa thuận khác có liên quan đến khoản tiền gửi có kỳ hạn của hai bên;
+
+- Quy định về trường hợp thay đổi điều khoản, điều kiện quy định tại hợp đồng khung;
+
+- Quy định về thời hạn hợp đồng, thanh lý, chấm dứt hợp đồng.
+
+Hợp đồng khung được thanh lý, chấm dứt theo thỏa thuận giữa KBNN và NHTM hoặc khi NHTM không đáp ứng được các điều kiện quy định tại Khoản 1 Điều này. Trường hợp chấm dứt hợp đồng, KBNN và NHTM ký kết biên bản thanh lý hợp đồng.
+
+b) Quy trình gửi có kỳ hạn NQNN tạm thời nhàn rỗi tại các NHTM được thực hiện như sau:
+
+- Tối thiểu 02 ngày làm việc trước ngày mở bản chào nhận tiền gửi, KBNN gửi thông báo bằng văn bản giấy hoặc văn bản điện tử về việc gửi có kỳ hạn NQNN tạm thời nhàn rỗi đến từng NHTM trong danh sách các NHTM dự kiến gửi có kỳ hạn NQNN tạm thời nhàn rỗi theo quy định tại Khoản 1 Điều 8 Thông tư này. Nội dung thông báo gồm: dự kiến khối lượng tiền gửi có kỳ hạn, kỳ hạn gửi tiền, thời hạn nhận bản chào nhận tiền gửi, phương thức gửi/nhận bản chào nhận tiền gửi (gửi văn bản giấy hoặc văn bản điện tử);
+
+- Chậm nhất 14 giờ 00 ngày đến hạn nhận bản chào nhận tiền gửi, các NHTM gửi bản chào nhận tiền gửi đến KBNN (bằng văn bản trong phong bì có dấu niêm phong hoặc văn bản điện tử đã được mã hóa), trong đó nêu rõ số tiền, lãi suất tương ứng từng kỳ hạn nhận gửi. Mỗi NHTM chỉ chào một mức lãi suất cho một kỳ hạn nhận gửi.
+
+Các bản chào nhận tiền gửi gửi đến KBNN sau thời hạn quy định không được chấp nhận; trong đó, thời gian nhận văn bản giấy được xác định căn cứ theo thời gian ghi trên sổ giao nhận công văn có chữ ký của bên giao, bên nhận, thời gian nhận văn bản điện tử được xác định căn cứ theo thời gian ghi lại việc hệ thống công nghệ thông tin của KBNN đã nhận được văn bản;
+
+- Chậm nhất mười lăm (15) phút sau thời hạn nhận bản chào nhận tiền gửi, KBNN mở các bản chào. Căn cứ thông tin bản chào của từng NHTM, KBNN xác định khối lượng tiền gửi, lãi suất gửi tương ứng từng kỳ hạn đối với từng NHTM.
+
+- Căn cứ xác định lãi suất gửi, khối lượng gửi:
+
++ Lãi suất và khối lượng từng kỳ hạn đăng ký nhận tiền gửi của các NHTM;
+
++ Khối lượng tiền gửi từng kỳ hạn theo thông báo của KBNN;
+
++ Lãi suất gửi có kỳ hạn NQNN tối thiểu cho từng kỳ hạn do Bộ Tài chính quy định.
+
+- Phương pháp xác định lãi suất gửi cho từng kỳ hạn:
+
+Lãi suất gửi áp dụng cho mỗi NHTM là mức lãi suất chào của NHTM đó, được xét chọn theo thứ tự từ cao xuống thấp của lãi suất chào thỏa mãn điều kiện: không thấp hơn lãi suất gửi có kỳ hạn NQNN tối thiểu do Bộ Tài chính quy định; khối lượng tiền gửi tính lũy kế đến các mức lãi suất được lựa chọn không vượt quá khối lượng tiền gửi KBNN thông báo;
+
+- Phương pháp xác định khối lượng tiền gửi tại từng NHTM:
+
++ Khối lượng tiền gửi tại mỗi NHTM tương đương với khối lượng nhận tiền gửi đăng ký tại mức lãi suất được KBNN lựa chọn. Trường hợp tại mức lãi suất được lựa chọn thấp nhất, khối lượng nhận tiền gửi đăng ký tính lũy kế đến mức lãi suất được lựa chọn thấp nhất vượt quá khối lượng tiền gửi KBNN thông báo thì sau khi đã trừ đi khối lượng tiền gửi đăng ký ở các mức lãi suất cao hơn, phần dư còn lại của khối lượng tiền gửi KBNN thông báo được phân bổ cho các NHTM chào tại mức lãi suất được lựa chọn thấp nhất theo tỷ lệ tương ứng với khối lượng tiền gửi đăng ký tại mức lãi suất được lựa chọn thấp nhất.
+
++ Khối lượng tiền gửi phân bổ cho các NHTM được làm tròn xuống đơn vị tỷ đồng;
+
+- Trong vòng 01 ngày làm việc kể từ ngày mở bản chào nhận tiền gửi, KBNN thông báo kết quả đến từng NHTM; đồng thời, gửi kèm dự thảo phụ lục hợp đồng gửi tiền có kỳ hạn đối với các NHTM được lựa chọn gửi tiền. Phụ lục hợp đồng gồm các điều khoản: số tiền gửi có kỳ hạn, kỳ hạn gửi tiền, lãi suất tiền gửi, ngày gửi tiền, ngày đáo hạn, điều khoản khác phát sinh (nếu có);
+
+- NHTM được lựa chọn gửi tiền thống nhất với KBNN về điều khoản của phụ lục hợp đồng (trừ điều khoản về số tiền gửi, kỳ hạn, lãi suất tiền gửi), trong đó, ngày gửi tiền không quá 02 ngày làm việc kể từ ngày KBNN thông báo kết quả lựa chọn NHTM gửi tiền. Trên cơ sở nội dung phụ lục hợp đồng đã thống nhất, KBNN và NHTM được lựa chọn ký kết phụ lục hợp đồng gửi có kỳ hạn NQNN;
+
+- Vào ngày chuyển tiền gửi quy định trong phụ lục hợp đồng đã ký kết, KBNN thực hiện việc chuyển tiền vào tài khoản chỉ định của NHTM theo quy định tại hợp đồng khung;
+
+- Vào ngày đến hạn tất toán khoản tiền gửi, toàn bộ số tiền gốc, lãi được chuyển vào tài khoản do KBNN chỉ định theo hợp đồng khung đã ký kết.
+
+- Các văn bản điện tử được gửi, nhận giữa KBNN và NHTM trong quy trình gửi có kỳ hạn NQNN tạm thời nhàn rỗi tại các NHTM quy định tại Thông tư này được coi là văn bản gốc, có giá trị pháp lý và có hiệu lực như văn bản giấy.
+
+3[9]. Kỳ hạn gửi, mức gửi NQNN có kỳ hạn tại các NHTM:
+
+a) NQNN tạm thời nhàn rỗi gửi tại NHTM theo các kỳ hạn: 01 tháng, 02 tháng và 03 tháng. KBNN lựa chọn kỳ hạn gửi tiền tại NHTM phù hợp với phương án điều hành NQNN đã được Bộ Tài chính phê duyệt hàng quý;
+
+b) Mức gửi NQNN có kỳ hạn tại NHTM không vượt quá hạn mức sử dụng NQNN tạm thời nhàn rỗi để gửi có kỳ hạn tại NHTM được quy định tại Khoản 2 Điều 13 Thông tư này.
+
+4[10]. Các khoản NQNN gửi có kỳ hạn tại NHTM được duy trì đến khi đáo hạn trừ trường hợp thu hồi trước hạn để bù đắp NQNN thiếu hụt tạm thời hoặc các trường hợp khác do Tổng Giám đốc KBNN quyết định. Khi thực hiện gửi mới các khoản NQNN tạm thời nhàn rỗi, KBNN điều chỉnh khối lượng gửi để phù hợp với hạn mức sử dụng NQNN tạm thời nhàn rỗi gửi có kỳ hạn tại NHTM hàng quý được phê duyệt.
+
+5. Tổng Giám đốc KBNN quyết định việc gửi tiền có kỳ hạn tại các ngân hàng thương mại theo quy định tại Điểm b Khoản 3 Điều 7 Nghị định số 24/2016/NĐ-CP .
+
+Điều 9. Mua lại có kỳ hạn trái phiếu Chính phủ
+
+1. KBNN được thực hiện giao dịch mua lại có kỳ hạn đối với các loại trái phiếu Chính phủ và tín phiếu do KBNN phát hành đang niêm yết tại Sở Giao dịch Chứng khoán.
+
+2. Hình thức giao dịch: Thỏa thuận điện tử hoặc thỏa thuận thông thường.
+
+3. Kỳ hạn mua lại trái phiếu Chính phủ tối đa không quá 03 tháng, kể từ ngày KBNN làm thủ tục chuyển tiền để thực hiện giao dịch.
+
+4. Quy trình, thủ tục mua lại có kỳ hạn trái phiếu Chính phủ được thực hiện theo quy định của Bộ Tài chính về quản lý giao dịch trái phiếu Chính phủ, trái phiếu được Chính phủ bảo lãnh và trái phiếu chính quyền địa phương.
+
+5. Tổng Giám đốc KBNN quyết định việc mua lại có kỳ hạn trái phiếu Chính phủ theo quy định tại Khoản 3 Điều 7 Nghị định số 24/2016/NĐ-CP .
+
+Chương IV
+
+XỬ LÝ NGÂN QUỸ NHÀ NƯỚC TẠM THỜI THIẾU HỤT
+
+Điều 10. Phát hành tín phiếu kho bạc
+
+1. Căn cứ tình hình thu, chi, tồn NQNN và tình hình thị trường, KBNN xác định thời điểm và số lượng phát hành tín phiếu kho bạc để bù đắp NQNN tạm thời thiếu hụt cho phù hợp. Số lượng phát hành tối đa không vượt quá hạn mức phát hành tín phiếu kho bạc để bù đắp NQNN tạm thời thiếu hụt đã được Bộ Tài chính phê duyệt tại phương án điều hành NQNN.
+
+2. Thời hạn phát hành tín phiếu kho bạc để bù đắp NQNN tạm thời thiếu hụt tối đa không quá 03 tháng, kể từ ngày phát hành.
+
+3. KBNN bố trí nguồn để hoàn trả đầy đủ, đúng hạn gốc, lãi và các khoản phí (nếu có) liên quan đến việc phát hành tín phiếu kho bạc để bù đắp NQNN tạm thời thiếu hụt.
+
+4. Quy trình, thủ tục phát hành tín phiếu kho bạc để bù đắp NQNN tạm thời thiếu hụt được thực hiện theo quy định hiện hành về việc phát hành trái phiếu Chính phủ.
+
+5. Tổng Giám đốc KBNN quyết định việc phát hành tín phiếu kho bạc để bù đắp NQNN tạm thời thiếu hụt theo quy định tại Khoản 4 Điều 8 Nghị định số 24/2016/NĐ-CP .
+
+Điều 11. Thu hồi trước hạn tiền gửi có kỳ hạn
+
+1. Căn cứ tình hình thu, chi, tồn NQNN và hợp đồng gửi tiền có kỳ hạn giữa KBNN với ngân hàng thương mại, KBNN phối hợp với ngân hàng thương mại nơi gửi tiền thực hiện thu hồi trước hạn các khoản NQNN đang gửi có kỳ hạn để bù đắp NQNN tạm thời thiếu hụt.
+
+2. Số lượng và lãi suất tiền gửi rút trước hạn được thực hiện theo hợp đồng gửi tiền có kỳ hạn giữa KBNN và ngân hàng thương mại.
+
+Chương V
+
+QUẢN LÝ RỦI RO ĐỐI VỚI HOẠT ĐỘNG QUẢN LÝ NGÂN QUỸ NHÀ NƯỚC
+
+Điều 12. Biện pháp quản lý và phòng ngừa rủi ro
+
+1. KBNN thực hiện quản lý rủi ro đối với hoạt động quản lý NQNN theo quy định tại Khoản 1, Khoản 2 và Khoản 4 Điều 9 Nghị định số 24/2016/NĐ-CP .
+
+2. KBNN duy trì tồn NQNN thực tế không thấp hơn định mức tồn NQNN tối thiểu trong quý được xác định theo công thức như sau:
+
+| Định mức tồn NQNN tối thiểu trong quý | = | Tổng nhu cầu chi NQNN trong quý kế hoạch | x | Số ngày định mức |
+
+|---------------------------------------|---|------------------------------------------|---|------------------|
+
+| Số ngày làm việc trong quý kế hoạch   |   |                                          |   |                  |
+
+Định mức tồn NQNN tối thiểu trong quý
+
+=
+
+Tổng nhu cầu chi NQNN trong quý kế hoạch
+
+x
+
+Số ngày định mức
+
+Số ngày làm việc trong quý kế hoạch
+
+Trong đó:
+
+a) Số ngày làm việc trong quý kế hoạch được quy định là 65 ngày.
+
+b) Số ngày định mức được quy định là 05 ngày. Trường hợp cần thiết, Tổng Giám đốc KBNN quyết định điều chỉnh số ngày định mức cho phù hợp với thực tế.
+
+3. Trường hợp số thu, chi NQNN thực tế có biến động lớn so với số liệu đã dự báo, thì KBNN kịp thời điều chỉnh số liệu dự báo trong kỳ tiếp theo cho phù hợp.
+
+4. KBNN xây dựng và ban hành các quy trình hướng dẫn nội bộ về quản lý rủi ro đối với hoạt động quản lý NQNN; trong đó, quy định rõ trách nhiệm và quyền hạn của các cá nhân, đơn vị thuộc KBNN có liên quan đến hoạt động quản lý NQNN.
+
+Điều 13. Hạn mức sử dụng NQNN tạm thời nhàn rỗi
+
+1. Hạn mức tạm ứng NQNN tạm thời nhàn rỗi cho NSNN:
+
+a) Đối với ngân sách trung ương: Căn cứ khả năng NQNN tạm thời nhàn rỗi và dư nợ tạm ứng NQNN cho ngân sách trung ương hiện tại, KBNN xác định hạn mức tạm ứng NQNN cho ngân sách trung ương cho phù hợp, tối đa không vượt quá khả năng NQNN tạm thời nhàn rỗi trong quý.
+
+b) Đối với ngân sách cấp tỉnh: Hạn mức tạm ứng NQNN cho ngân sách cấp tỉnh tối đa không vượt quá 10% khả năng NQNN tạm thời nhàn rỗi trong quý; trong đó, đối với từng ngân sách cấp tỉnh đảm bảo tổng số dư nợ tạm ứng NQNN và các khoản dư nợ vay khác của ngân sách cấp tỉnh đó không vượt quá mức dư nợ vay tối đa theo quy định của Luật NSNN.
+
+2[11]. Hạn mức sử dụng NQNN tạm thời nhàn rỗi để gửi có kỳ hạn tại NHTM và mua lại có kỳ hạn trái phiếu Chính phủ
+
+a) Hạn mức sử dụng NQNN tạm thời nhàn rỗi để gửi có kỳ hạn tại NHTM và mua lại có kỳ hạn trái phiếu Chính phủ hàng quý tối đa không vượt quá khả năng NQNN tạm thời nhàn rỗi trong quý, trong đó:
+
+- Hạn mức sử dụng NQNN tạm thời nhàn rỗi để gửi có kỳ hạn tại NHTM hàng quý tối đa là 50% tồn NQNN ước tính trong quý;
+
+- Hạn mức sử dụng NQNN tạm thời nhàn rỗi để mua lại có kỳ hạn trái phiếu Chính phủ hàng quý tối đa là 10% tồn NQNN ước tính trong quý;
+
+b) Tồn NQNN ước tính trong quý được xác định bằng trung bình cộng của tồn NQNN ước tính cuối mỗi tháng trong quý.
+
+3[12]. Trường hợp ngân sách trung ương có nhu cầu tạm ứng với khối lượng lớn hơn số dư NQNN tạm thời nhàn rỗi còn lại tại thời điểm phát sinh nhu cầu, KBNN thực hiện thu hồi trước hạn các khoản tiền đang gửi có kỳ hạn để đáp ứng nhu cầu tạm ứng NQNN của ngân sách trung ương.
+
+Chương VI
+
+HẠCH TOÁN KẾ TOÁN
+
+Điều 14. Hạch toán kế toán
+
+1. Các khoản sử dụng NQNN tạm thời nhàn rỗi; thu hồi các khoản sử dụng NQNN tạm thời nhàn rỗi; tiền lãi từ nghiệp vụ sử dụng NQNN tạm thời nhàn rỗi được KBNN hạch toán theo chế độ kế toán nhà nước áp dụng cho hệ thống TABMIS.
+
+2. Các khoản đi vay và trả nợ vay (gốc, lãi và phí - nếu có) bù đắp NQNN tạm thời thiếu hụt được KBNN hạch toán theo chế độ kế toán nhà nước áp dụng cho hệ thống TABMIS. Trong đó, các khoản tín phiếu kho bạc phát hành để bù đắp NQNN tạm thời thiếu hụt (nếu có) được KBNN theo dõi và hạch toán vào tài khoản riêng và không được tính vào số huy động vốn cho NSNN, tách bạch với khoản tín phiếu kho bạc phát hành để bù đắp thiếu hụt NSNN; các khoản chi trả lãi, phí (nếu có) được hạch toán vào chi hoạt động nghiệp vụ của KBNN.
+
+Chương VII
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 15. Nhiệm vụ, quyền hạn của các đơn vị trong việc quản lý NQNN
+
+1. KBNN thực hiện các nhiệm vụ, quyền hạn trong quản lý NQNN theo quy định tại Điều 16 Nghị định số 24/2016/NĐ-CP và tại Thông tư này.
+
+2[13]. Các đơn vị thuộc và trực thuộc Bộ Tài chính có liên quan đến công tác quản lý NQNN:
+
+a) Tổng cục Thuế, Tổng cục Hải quan, Cục Quản lý nợ và Tài chính đối ngoại có trách nhiệm cung cấp thông tin dự báo luồng tiền cho KBNN theo quy định tại Điều 6 Thông tư này;
+
+b) Vụ NSNN có trách nhiệm cung cấp thông tin dự báo luồng tiền cho KBNN theo quy định tại Điều 6 Thông tư này, tham gia ý kiến đối với phương án điều hành NQNN của KBNN;
+
+c) Vụ Tài chính các ngân hàng và tổ chức tài chính có trách nhiệm tham gia ý kiến đối với phương án điều hành NQNN của KBNN, trình Bộ Tài chính quyết định lãi suất gửi có kỳ hạn NQNN tối thiểu cho từng kỳ hạn cho từng thời kỳ.
+
+Điều 16. Hiệu lực thi hành[14]
+
+1. Thông tư này có hiệu lực kể từ ngày 15 tháng 01 năm 2017.
+
+2. KBNN, các đơn vị thuộc và trực thuộc Bộ Tài chính có trách nhiệm thi hành Thông tư này.
+
+|  | XÁC THỰC VĂN BẢN HỢP NHẤT KT. BỘ TRƯỞNG THỨ TRƯỞNG Đỗ Hoàng Anh Tuấn |
+
+|--|----------------------------------------------------------------------|
+
+XÁC THỰC VĂN BẢN HỢP NHẤT
+
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Đỗ Hoàng Anh Tuấn
+
+[1] Văn bản này hợp nhất từ 02 văn bản sau:
+
+- Thông tư số 314/2016/TT-BTC ngày 28 tháng 11 năm 2016 của Bộ Tài chính hướng dẫn một số điều tại Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước có hiệu lực kể từ ngày 15 tháng 01 năm 2017.
+
+- Thông tư số 64/2019/TT-BTC ngày 16 tháng 9 năm 2019 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 314/2016/TT-BTC ngày 28 tháng 11 năm 2016 của Bộ Tài chính hướng dẫn một số điều tại Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước có hiệu lực kể từ ngày 01 tháng 11 năm 2019.
+
+Văn bản hợp nhất này không thay thế 02 văn bản trên.
+
+[2] Thông tư số 64/2019/TT-BTC ngày 16 tháng 9 năm 2019 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 314/2016/TT-BTC ngày 28 tháng 11 năm 2016 của Bộ Tài chính hướng dẫn một số điều tại Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước (sau đây gọi tắt là Thông tư số 64/2019/TT-BTC) có căn cứ ban hành như sau:
+
+“Căn cứ Luật ngân sách nhà nước ngày 25 tháng 6 năm 2015;
+
+Căn cứ Nghị định số 163/2016/NĐ-CP ngày 21 tháng 12 năm 2016 của Chính phủ quy định chi tiết thi hành một số điều của Luật ngân sách nhà nước;
+
+Căn cứ Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước;
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Tổng Giám đốc Kho bạc Nhà nước;
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư sửa đổi, bổ sung một số điều của Thông tư số 314/2016/TT-BTC ngày 28 tháng 11 năm 2016 của Bộ Tài chính hướng dẫn một số điều tại Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước.”
+
+[3] Điều này được sửa đổi, bổ sung theo quy định tại Khoản 1 Điều 1 Thông tư số 64/2019/TT-BTC , có hiệu lực kể từ ngày 01 tháng 11 năm 2019.
+
+[4] Khoản này được sửa đổi, bổ sung theo quy định tại Điểm a Khoản 2 Điều 1 Thông tư số 64/2019/TT-BTC , có hiệu lực kể từ ngày 01 tháng 11 năm 2019.
+
+[5] Khoản này được bổ sung theo quy định tại Điểm b Khoản 2 Điều 1 Thông tư số 64/2019/TT-BTC , có hiệu lực kể từ ngày 01 tháng 11 năm 2019.
+
+[6] Khoản này được sửa đổi, bổ sung theo quy định tại Khoản 3 Điều 1 Thông tư số 64/2019/TT-BTC , có hiệu lực kể từ ngày 01 tháng 11 năm 2019.
+
+[7] Khoản này được sửa đổi, bổ sung theo quy định tại Điểm a Khoản 4 Điều 1 Thông tư số 64/2019/TT-BTC , có hiệu lực kể từ ngày 01 tháng 11 năm 2019.
+
+[8] Khoản này được sửa đổi, bổ sung theo quy định tại Điểm b Khoản 4 Điều 1 Thông tư số 64/2019/TT-BTC , có hiệu lực kể từ ngày 01 tháng 11 năm 2019.
+
+[9] Khoản này được sửa đổi, bổ sung theo quy định tại Điểm c Khoản 4 Điều 1 Thông tư số 64/2019/TT-BTC , có hiệu lực kể từ ngày 01 tháng 11 năm 2019.
+
+[10] Khoản này được sửa đổi, bổ sung theo quy định tại Điểm d Khoản 4 Điều 1 Thông tư số 64/2019/TT-BTC , có hiệu lực kể từ ngày 01 tháng 11 năm 2019.
+
+[11] Khoản này được sửa đổi, bổ sung theo quy định tại Điểm a Khoản 5 Điều 1 Thông tư số 64/2019/TT-BTC , có hiệu lực kể từ ngày 01 tháng 11 năm 2019.
+
+[12] Khoản này được bổ sung theo quy định tại Điểm b Khoản 5 Điều 1 Thông tư số 64/2019/TT-BTC , có hiệu lực kể từ ngày 01 tháng 11 năm 2019.
+
+[13] Khoản này được sửa đổi, bổ sung theo quy định tại Khoản 6 Điều 1 Thông tư số 64/2019/TT-BTC , có hiệu lực kể từ ngày 01 tháng 11 năm 2019.
+
+[14] - Điều 2 của Thông tư số 64/2019/TT-BTC ngày 16 tháng 9 năm 2019, có hiệu lực thi hành kể từ ngày 01 tháng 11 năm 2019 quy định như sau:
+
+“Điều 2. Điều khoản chuyển tiếp
+
+Các khoản NQNN tạm thời nhàn rỗi gửi có kỳ hạn tại NHTM được phê duyệt trước ngày Thông tư này có hiệu lực thi hành được tiếp tục thực hiện theo quy định tại Thông tư số 314/2016/TT-BTC ngày 28 tháng 11 năm 2016 của Bộ Tài chính hướng dẫn một số điều tại Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước cho đến khi đáo hạn”.
+
+- Điều 3 của Thông tư số 64/2019/TT-BTC ngày 16 tháng 9 năm 2019 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 314/2016/TT-BTC ngày 28 tháng 11 năm 2016 của Bộ Tài chính hướng dẫn một số điều tại Nghị định số 24/2016/NĐ-CP ngày 05 tháng 4 năm 2016 của Chính phủ quy định chế độ quản lý ngân quỹ nhà nước, có hiệu lực kể từ ngày 01 tháng 11 năm 2019 quy định như sau:
+
+“Điều 3. Hiệu lực thi hành và tổ chức thực hiện
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 11 năm 2019.
+
+2. Giao KBNN thực hiện gửi có kỳ hạn NQNN tạm thời nhàn rỗi tại các NHTM theo phương thức điện tử từ ngày 01 tháng 01 năm 2020.
+
+3. KBNN và các cơ quan, đơn vị, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.”

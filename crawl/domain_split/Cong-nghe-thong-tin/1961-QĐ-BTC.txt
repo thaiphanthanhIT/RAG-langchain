@@ -1,0 +1,385 @@
+| BỘ TÀI CHÍNH    | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc  |
+
+|-----------------|-----------------------------------------------------------------|
+
+| Số: 1961/QĐ-BTC | Hà Nội, ngày 26 tháng 09 năm 2022                               |
+
+BỘ TÀI CHÍNH -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
+
+Số: 1961/QĐ-BTC
+
+Hà Nội, ngày 26 tháng 09 năm 2022
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH KẾ HOẠCH CHUYỂN ĐỔI SỐ CỦA BỘ TÀI CHÍNH NĂM 2022
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Quyết định số 1484/QĐ-BTC ngày 27/7/2022 về việc ban hành Kế hoạch chuyển đổi số đến năm 2025, định hướng đến năm 2030;
+
+Căn cứ Quyết định số 1960/QĐ-BTC ngày 26/9/2022 của Ban chỉ đạo Chuyển đổi số Bộ Tài chính về việc ban hành Kế hoạch hoạt động của Ban chỉ đạo chuyển đổi số của Bộ Tài chính năm 2022.
+
+Theo đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này là Kế hoạch Chuyển đổi số của Bộ Tài chính năm 2022.
+
+Điều 2. Quyết định này cụ thể hóa một số nhiệm vụ được giao tại Quyết định số 1960/QĐ-BTC ngày 26/9/2022 của Bộ trưởng Bộ Tài chính về việc ban hành Kế hoạch hoạt động của Ban chỉ đạo chuyển đổi số của Bộ Tài chính trong năm 2022, Quyết định số 1484/QĐ-BTC ngày 27/7/2022 về việc ban hành Kế hoạch chuyển đổi số đến năm 2025, định hướng đến năm 2030, một số nhiệm vụ Bộ Tài chính được phân công thực hiện theo hướng dẫn của Bộ Thông tin và Truyền thông tại công văn số 797/BTTTT-THH ngày 06/3/2022 về việc hướng dẫn một số nhiệm vụ quan trọng thúc đẩy triển khai chuyển đổi số năm 2022
+
+Điều 3. Quyết định này có hiệu lực kể từ ngày ký. Cục trưởng Cục Tin học và Thống kê tài chính, Chánh Văn phòng Bộ, Thủ trưởng các đơn vị thuộc và trực thuộc Bộ có liên quan chịu trách nhiệm thực hiện Quyết định này./.
+
+| Nơi nhận: - Như Điều 3 (để thực hiện); - Các thứ trưởng (để theo dõi); - Ủy ban quốc gia về chuyển đổi số (để b/c); - Lưu: VT, THTK. | BỘ TRƯỞNG Hồ Đức Phớc |
+
+|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+
+Nơi nhận: - Như Điều 3 (để thực hiện); - Các thứ trưởng (để theo dõi); - Ủy ban quốc gia về chuyển đổi số (để b/c); - Lưu: VT, THTK.
+
+BỘ TRƯỞNG Hồ Đức Phớc
+
+KẾ HOẠCH
+
+CHUYỂN ĐỔI SỐ CỦA BỘ TÀI CHÍNH NĂM 2022 (Kèm theo Quyết định số 1961/QĐ-BTC ngày 26 tháng 9 năm 2022 của Bộ Tài chính)
+
+I. Căn cứ pháp lý:
+
+Căn cứ Quyết định số 1484/QĐ-BTC ngày 27/7/2022 của Bộ Tài chính về việc phê duyệt Kế hoạch chuyển đổi số của Bộ Tài chính đến năm 2025, định hướng đến năm 2030.
+
+Căn cứ Quyết định số /QĐ-BCĐCĐS ngày của Ban chỉ đạo Chuyển đổi số Bộ Tài chính về việc ban hành Kế hoạch hoạt động của Ban chỉ đạo chuyển đổi số của Bộ Tài chính năm 2022.
+
+Căn cứ công văn số 797/BTTTT-THH ngày 06/3/2022 của Bộ Thông tin và Truyền thông về hướng dẫn một số nhiệm vụ quan trọng thúc đẩy triển khai chuyển đổi số năm 2022.
+
+II. Các nhiệm vụ trọng tâm:
+
+1. Về tuyên truyền phổ biến quán triệt các hoạt động của Ủy ban quốc gia về chuyển đổi số:
+
+Tổ chức tuyên truyền, phổ biến nội dung, chính sách pháp luật để nâng cao nhận thức cho người dân và toàn xã hội về Chính phủ điện tử, Chính phủ số, chuyển đổi số nói chung và Bộ Tài chính số nói riêng, các hoạt động của Ủy ban quốc gia chuyển đổi số và ban chỉ đạo chuyển đổi số của Bộ Tài chính (có thể thông qua nhiều hình thức như đăng tải trên Cổng thông tin điện tử, tổ chức các hội thảo hội nghị chuyên đề với người dân doanh nghiệp để phổ biến kiến thức, kỹ năng về chuyển đổi số hoặc thông qua nhiều hoạt động xã hội hóa khác).
+
+2. Về hoàn thiện cơ chế chính sách:
+
+Nghiên cứu, xây dựng Đề án đổi mới quy trình, nghiệp vụ ngành tài chính phù hợp với mô hình kinh tế số, xã hội số.
+
+3. Về các nhiệm vụ, giải pháp
+
+Cụ thể hóa các nhiệm vụ giải pháp tại Kế hoạch chuyển đổi số của Bộ Tài chính đến năm 2025, định hướng đến năm 2030 và Kế hoạch hoạt động của Ban chỉ đạo chuyển đổi số của Bộ Tài chính năm 2022 (phụ lục chi tiết nhiệm vụ kèm theo Quyết định).
+
+III. Tổ chức thực hiện
+
+1. Thủ trưởng các đơn vị thuộc Bộ
+
+- Triển khai thực hiện các nhiệm vụ theo phân công tại kế hoạch này. Trường hợp cần thiết, thủ trưởng các đơn vị xem xét, báo cáo Lãnh đạo Bộ, Ban chỉ đạo chuyển đổi số Bộ Tài chính thực hiện điều chỉnh, bổ sung nhiệm vụ, hoặc điều chỉnh bổ sung tiến độ triển khai khi có các vấn đề phát sinh.
+
+- Về chế độ báo cáo: Các đơn vị thực hiện báo cáo theo chế độ báo cáo đã được Quy định tại Quyết định số 1484/QĐ-BTC ngày 27/7/2022 của Bộ Tài chính về việc ban hành Kế hoạch Chuyển đổi số của Bộ Tài chính đến năm 2025, định hướng đến năm 2030.
+
+2. Cục Tin học và Thống kê tài chính
+
+- Chịu trách nhiệm theo dõi, tổng hợp các thông tin, báo cáo lãnh đạo Bộ về kết quả thực hiện hàng tháng.
+
+PHỤ LỤC
+
+KẾ HOẠCH TRIỂN KHAI CÁC NHIỆM VỤ CHUYỂN ĐỔI SỐ CỦA BỘ TÀI CHÍNH NĂM 2022 (Kèm theo Quyết định số 1961/QĐ-BTC ngày 26/9/2022 của Bộ Tài Chính)
+
+| STT  | Tên nhiệm vụ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Đơn vị chủ trì           | Đơn vị phối hợp          | Tháng 09                                                                                                                                             | Tháng 10                                                                                                                                             | Tháng 11                                                                                                                                             | Tháng 12                                                                                                       |
+
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+
+| I    | Về tuyên truyền phổ biến quán triệt các hoạt động của Ủy ban quốc gia về chuyển đổi số                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                          |                          |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                |
+
+| 1    | Tổ chức tuyên truyền, phổ biến nội dung, chính sách pháp luật để nâng cao nhận thức cho người dân và toàn xã hội về Chính phủ điện tử, Chính phủ số, chuyển đổi số nói chung và Bộ Tài chính số nói riêng, các hoạt động của Ủy ban quốc gia chuyển đổi số và ban chỉ đạo chuyển đổi số của Bộ Tài chính (có thể thông qua nhiều hình thức như đăng tải trên cổng thông tin điện tử, tổ chức các hội thảo hội nghị chuyên đề với người dân doanh nghiệp để phổ biến kiến thức, kỹ năng về chuyển đổi số hoặc thông qua nhiều hoạt động xã hội hóa khác).                                                                                                                                                             | VPB                      | Các đơn vị liên quan     | Đề xuất các chương trình, kế hoạch hành động để hưởng ứng sự kiện ngày chuyển đổi số quốc gia từ 01-10/10/2022, đặc biệt trong từng lĩnh vực cụ thể. | Đề xuất các chương trình, kế hoạch hành động để hưởng ứng sự kiện ngày chuyển đổi số quốc gia từ 01-10/10/2022, đặc biệt trong từng lĩnh vực cụ thể. | Đề xuất các chương trình, kế hoạch hành động để hưởng ứng sự kiện ngày chuyển đổi số quốc gia từ 01-10/10/2022, đặc biệt trong từng lĩnh vực cụ thể. |                                                                                                                |
+
+| II   | Hoàn thiện cơ chế chính sách                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                          |                          |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                |
+
+| 1    | Nghiên cứu, xây dựng Đề án đổi mới quy trình, nghiệp vụ ngành tài chính phù hợp với mô hình kinh tế số.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Viện CL&CSTC             | Các đơn vị liên quan     | Hoàn thiện dự thảo)                                                                                                                                  | Hoàn thiện dự thảo                                                                                                                                   | Xin ý kiến các đơn vị trước khi trình phê duyệt                                                                                                      | Xin ý kiến các đơn vị trước khi trình phê duyệt                                                                |
+
+| III  | Triển khai các nhiệm vụ trung tâm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                          |                          |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                |
+
+| 1    | Về phát triển hạ tầng số                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                          |                          |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                |
+
+|      | Triển khai hệ thống đám mây tại Bộ Tài chính và các đơn vị Tổng cục phục vụ cho các ứng dụng của Bộ, đơn vị Tổng cục (trừ các ứng dụng đặc thù)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Cục THTK                 | Các đơn vị liên quan     | Trình Bộ phê duyệt CTĐT                                                                                                                              | Thực hiện các thủ tục lập dự án sau khi Bộ phê duyệt CTĐT                                                                                            | Thực hiện các thủ tục lập dự án sau khi Bộ phê duyệt CTĐT                                                                                            | Thực hiện các thủ tục lập dự án sau khi Bộ phê duyệt CTĐT                                                      |
+
+| 2    | Về phát triển các nền tảng, hệ thống                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                          |                          |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                |
+
+|      | Triển khai nền tảng kết nối, chia sẻ dữ liệu ngành Tài chính (FDXP) đảm bảo kết nối các hệ thống thông tin, cơ sở dữ liệu trong nội bộ, kết nối với Nền tảng tích hợp, chia sẻ dữ liệu quốc gia (NDXP).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Cục THTK                 | Các đơn vị liên quan     | Hoàn thiện KH thuê dịch vụ                                                                                                                           | Trình phê duyệt KH thuê dịch vụ                                                                                                                      | Trình phê duyệt KH thuê dịch vụ                                                                                                                      | Trình phê duyệt KH thuê dịch vụ                                                                                |
+
+| 3    | Phát triển dữ liệu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                          |                          |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                |
+
+|      | Xây dựng Cơ sở dữ liệu quốc gia về tài chính                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Cục THTK                 | Các đơn vị liên quan     | Xây dựng KHLCNT                                                                                                                                      | Xây dựng KHLCNT                                                                                                                                      | Xây dựng KHLCNT                                                                                                                                      | Xây dựng KHLCNT                                                                                                |
+
+| 4    | Phát triển các ứng dụng, dịch vụ số                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                          |                          |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                |
+
+| -    | Xây dựng hệ thống thông tin báo cáo Bộ Tài chính                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Cục THTK                 | Các đơn vị liên quan     | Hoàn thiện thuyết minh chủ trương đầu tư                                                                                                             | Hoàn thiện thuyết minh chủ trương đầu tư                                                                                                             | Hoàn thiện thuyết minh chủ trương đầu tư                                                                                                             | Trình phê duyệt chủ trương đầu tư                                                                              |
+
+| -    | Xây dựng và triển khai hệ thống hóa đơn điện tử                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | TCT                      |                          | Hỗ trợ triển khai hóa đơn điện tử trên toàn quốc                                                                                                     | Hỗ trợ triển khai hóa đơn điện tử trên toàn quốc                                                                                                     | Hỗ trợ triển khai hóa đơn điện tử trên toàn quốc                                                                                                     | Hỗ trợ triển khai hóa đơn điện tử trên toàn quốc                                                               |
+
+| -    | Đề án nâng cấp TABMIS và các hệ thống công nghệ thông tin liên quan để hình thành hệ thống thông tin Ngân sách và Kế toán Nhà nước số (VDBAS)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | KBNN                     |                          | Hoàn thiện đề án                                                                                                                                     | Hoàn thiện đề án                                                                                                                                     | Hoàn thiện đề án                                                                                                                                     | Trình Bộ phê duyệt đề án                                                                                       |
+
+| -    | Xây dựng và triển khai hệ thống CNTT thực hiện hải quan số                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | TCHQ                     |                          | Thực hiện các thủ tục phê duyệt Kế hoạch thuê dịch vụ                                                                                                | Thực hiện các thủ tục phê duyệt Kế hoạch thuê dịch vụ                                                                                                | Thực hiện các thủ tục phê duyệt Kế hoạch thuê dịch vụ                                                                                                | Thực hiện các thủ tục phê duyệt Kế hoạch thuê dịch vụ                                                          |
+
+| -    | Ứng dụng các công nghệ mới của Cuộc CMCN 4.0 trong triển khai xây dựng Hệ thống quản lý nghiệp vụ DTQG đáp ứng yêu cầu kết nối, cung cấp, khai thác dữ liệu chính xác, kịp thời                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | TCDTNN                   |                          | Xây dựng Hệ thống quản lý nghiệp vụ DTQG.                                                                                                            | Xây dựng Hệ thống quản lý nghiệp vụ DTQG.                                                                                                            | Xây dựng Hệ thống quản lý nghiệp vụ DTQG.                                                                                                            | Xây dựng Hệ thống quản lý nghiệp vụ DTQG.                                                                      |
+
+| 5    | Bảo đảm an toàn, an ninh thông tin mạng                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                          |                          |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                |
+
+| -    | Xây dựng và triển khai hệ thống giám sát an toàn thông tin mạng cho UBCKNN, KBNN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | UBCKNN                   |                          | Xây dựng yêu cầu đầu bài                                                                                                                             | Trình Bộ phê duyệt CTĐT                                                                                                                              | Trình Bộ phê duyệt CTĐT                                                                                                                              | Trình Bộ phê duyệt CTĐT                                                                                        |
+
+| KBNN |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Xây dựng KH thuê dịch vụ | Xây dựng KH thuê dịch vụ | Thẩm định KH thuê dịch vụ                                                                                                                            | Thẩm định KH thuê dịch vụ                                                                                                                            |                                                                                                                                                      |                                                                                                                |
+
+| 6    | Tập huấn, bồi dưỡng kỹ năng số và một số nhiệm vụ khác                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                          |                          |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                                                      |                                                                                                                |
+
+| -    | Ban hành Kế hoạch bồi dưỡng, tập huấn cho cán bộ, công chức, viên chức thuộc phạm vi quản lý về chuyển đổi số, phát triển chính phủ số, kinh tế số và xã hội số để thực hiện các nhiệm vụ được giao tại Quyết định số 146/QĐ-TTg ngày 28/01/2022 của Thủ tướng Chính phủ và hướng dẫn tại Văn bản số 489/BTTTT-THH ngày 17/02/2022 của Bộ Thông tin và Truyền thông, trong đó đặc biệt chú trọng tới bồi dưỡng, tập huấn kỹ năng phân tích, khai thác dữ liệu để ra quyết định và hoạch định chính sách; huy động nguồn lực xã hội cùng tham gia bồi dưỡng, tập huấn cho mạng lưới công nghệ số cộng đồng để hỗ trợ người dân, doanh nghiệp sử dụng các nền tảng số và khi tham gia các hoạt động trên môi trường số | Trường BDCBTC            |                          | Tổ chức tập huấn                                                                                                                                     | Tổ chức tập huấn                                                                                                                                     | Tổ chức tập huấn                                                                                                                                     | Tổ chức tập huấn                                                                                               |
+
+| -    | Bố trí kinh phí cho các hoạt động phát triển Chính phủ số, kinh tế số, xã hội số                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Vụ NSNN, Vụ HSCN         | Các đơn vị liên quan     | Bố trí kinh phí thường xuyên cho các Bộ, ngành theo quy định của Luật NSNN khi đơn vị xây dựng nhu cầu dự toán                                       | Bố trí kinh phí thường xuyên cho các Bộ, ngành theo quy định của Luật NSNN khi đơn vị xây dựng nhu cầu dự toán                                       | Bố trí kinh phí thường xuyên cho các Bộ, ngành theo quy định của Luật NSNN khi đơn vị xây dựng nhu cầu dự toán                                       | Bố trí kinh phí thường xuyên cho các Bộ, ngành theo quy định của Luật NSNN khi đơn vị xây dựng nhu cầu dự toán |
+
+STT
+
+Tên nhiệm vụ
+
+Đơn vị chủ trì
+
+Đơn vị phối hợp
+
+Tháng 09
+
+Tháng 10
+
+Tháng 11
+
+Tháng 12
+
+I
+
+Về tuyên truyền phổ biến quán triệt các hoạt động của Ủy ban quốc gia về chuyển đổi số
+
+1
+
+Tổ chức tuyên truyền, phổ biến nội dung, chính sách pháp luật để nâng cao nhận thức cho người dân và toàn xã hội về Chính phủ điện tử, Chính phủ số, chuyển đổi số nói chung và Bộ Tài chính số nói riêng, các hoạt động của Ủy ban quốc gia chuyển đổi số và ban chỉ đạo chuyển đổi số của Bộ Tài chính (có thể thông qua nhiều hình thức như đăng tải trên cổng thông tin điện tử, tổ chức các hội thảo hội nghị chuyên đề với người dân doanh nghiệp để phổ biến kiến thức, kỹ năng về chuyển đổi số hoặc thông qua nhiều hoạt động xã hội hóa khác).
+
+VPB
+
+Các đơn vị liên quan
+
+Đề xuất các chương trình, kế hoạch hành động để hưởng ứng sự kiện ngày chuyển đổi số quốc gia từ 01-10/10/2022, đặc biệt trong từng lĩnh vực cụ thể.
+
+Đề xuất các chương trình, kế hoạch hành động để hưởng ứng sự kiện ngày chuyển đổi số quốc gia từ 01-10/10/2022, đặc biệt trong từng lĩnh vực cụ thể.
+
+Đề xuất các chương trình, kế hoạch hành động để hưởng ứng sự kiện ngày chuyển đổi số quốc gia từ 01-10/10/2022, đặc biệt trong từng lĩnh vực cụ thể.
+
+II
+
+Hoàn thiện cơ chế chính sách
+
+1
+
+Nghiên cứu, xây dựng Đề án đổi mới quy trình, nghiệp vụ ngành tài chính phù hợp với mô hình kinh tế số.
+
+Viện CL&CSTC
+
+Các đơn vị liên quan
+
+Hoàn thiện dự thảo)
+
+Hoàn thiện dự thảo
+
+Xin ý kiến các đơn vị trước khi trình phê duyệt
+
+Xin ý kiến các đơn vị trước khi trình phê duyệt
+
+III
+
+Triển khai các nhiệm vụ trung tâm
+
+1
+
+Về phát triển hạ tầng số
+
+Triển khai hệ thống đám mây tại Bộ Tài chính và các đơn vị Tổng cục phục vụ cho các ứng dụng của Bộ, đơn vị Tổng cục (trừ các ứng dụng đặc thù)
+
+Cục THTK
+
+Các đơn vị liên quan
+
+Trình Bộ phê duyệt CTĐT
+
+Thực hiện các thủ tục lập dự án sau khi Bộ phê duyệt CTĐT
+
+Thực hiện các thủ tục lập dự án sau khi Bộ phê duyệt CTĐT
+
+Thực hiện các thủ tục lập dự án sau khi Bộ phê duyệt CTĐT
+
+2
+
+Về phát triển các nền tảng, hệ thống
+
+Triển khai nền tảng kết nối, chia sẻ dữ liệu ngành Tài chính (FDXP) đảm bảo kết nối các hệ thống thông tin, cơ sở dữ liệu trong nội bộ, kết nối với Nền tảng tích hợp, chia sẻ dữ liệu quốc gia (NDXP).
+
+Cục THTK
+
+Các đơn vị liên quan
+
+Hoàn thiện KH thuê dịch vụ
+
+Trình phê duyệt KH thuê dịch vụ
+
+Trình phê duyệt KH thuê dịch vụ
+
+Trình phê duyệt KH thuê dịch vụ
+
+3
+
+Phát triển dữ liệu
+
+Xây dựng Cơ sở dữ liệu quốc gia về tài chính
+
+Cục THTK
+
+Các đơn vị liên quan
+
+Xây dựng KHLCNT
+
+Xây dựng KHLCNT
+
+Xây dựng KHLCNT
+
+Xây dựng KHLCNT
+
+4
+
+Phát triển các ứng dụng, dịch vụ số
+
+-
+
+Xây dựng hệ thống thông tin báo cáo Bộ Tài chính
+
+Cục THTK
+
+Các đơn vị liên quan
+
+Hoàn thiện thuyết minh chủ trương đầu tư
+
+Hoàn thiện thuyết minh chủ trương đầu tư
+
+Hoàn thiện thuyết minh chủ trương đầu tư
+
+Trình phê duyệt chủ trương đầu tư
+
+-
+
+Xây dựng và triển khai hệ thống hóa đơn điện tử
+
+TCT
+
+Hỗ trợ triển khai hóa đơn điện tử trên toàn quốc
+
+Hỗ trợ triển khai hóa đơn điện tử trên toàn quốc
+
+Hỗ trợ triển khai hóa đơn điện tử trên toàn quốc
+
+Hỗ trợ triển khai hóa đơn điện tử trên toàn quốc
+
+-
+
+Đề án nâng cấp TABMIS và các hệ thống công nghệ thông tin liên quan để hình thành hệ thống thông tin Ngân sách và Kế toán Nhà nước số (VDBAS)
+
+KBNN
+
+Hoàn thiện đề án
+
+Hoàn thiện đề án
+
+Hoàn thiện đề án
+
+Trình Bộ phê duyệt đề án
+
+-
+
+Xây dựng và triển khai hệ thống CNTT thực hiện hải quan số
+
+TCHQ
+
+Thực hiện các thủ tục phê duyệt Kế hoạch thuê dịch vụ
+
+Thực hiện các thủ tục phê duyệt Kế hoạch thuê dịch vụ
+
+Thực hiện các thủ tục phê duyệt Kế hoạch thuê dịch vụ
+
+Thực hiện các thủ tục phê duyệt Kế hoạch thuê dịch vụ
+
+-
+
+Ứng dụng các công nghệ mới của Cuộc CMCN 4.0 trong triển khai xây dựng Hệ thống quản lý nghiệp vụ DTQG đáp ứng yêu cầu kết nối, cung cấp, khai thác dữ liệu chính xác, kịp thời
+
+TCDTNN
+
+Xây dựng Hệ thống quản lý nghiệp vụ DTQG.
+
+Xây dựng Hệ thống quản lý nghiệp vụ DTQG.
+
+Xây dựng Hệ thống quản lý nghiệp vụ DTQG.
+
+Xây dựng Hệ thống quản lý nghiệp vụ DTQG.
+
+5
+
+Bảo đảm an toàn, an ninh thông tin mạng
+
+-
+
+Xây dựng và triển khai hệ thống giám sát an toàn thông tin mạng cho UBCKNN, KBNN
+
+UBCKNN
+
+Xây dựng yêu cầu đầu bài
+
+Trình Bộ phê duyệt CTĐT
+
+Trình Bộ phê duyệt CTĐT
+
+Trình Bộ phê duyệt CTĐT
+
+KBNN
+
+Xây dựng KH thuê dịch vụ
+
+Xây dựng KH thuê dịch vụ
+
+Thẩm định KH thuê dịch vụ
+
+Thẩm định KH thuê dịch vụ
+
+6
+
+Tập huấn, bồi dưỡng kỹ năng số và một số nhiệm vụ khác
+
+-
+
+Ban hành Kế hoạch bồi dưỡng, tập huấn cho cán bộ, công chức, viên chức thuộc phạm vi quản lý về chuyển đổi số, phát triển chính phủ số, kinh tế số và xã hội số để thực hiện các nhiệm vụ được giao tại Quyết định số 146/QĐ-TTg ngày 28/01/2022 của Thủ tướng Chính phủ và hướng dẫn tại Văn bản số 489/BTTTT-THH ngày 17/02/2022 của Bộ Thông tin và Truyền thông, trong đó đặc biệt chú trọng tới bồi dưỡng, tập huấn kỹ năng phân tích, khai thác dữ liệu để ra quyết định và hoạch định chính sách; huy động nguồn lực xã hội cùng tham gia bồi dưỡng, tập huấn cho mạng lưới công nghệ số cộng đồng để hỗ trợ người dân, doanh nghiệp sử dụng các nền tảng số và khi tham gia các hoạt động trên môi trường số
+
+Trường BDCBTC
+
+Tổ chức tập huấn
+
+Tổ chức tập huấn
+
+Tổ chức tập huấn
+
+Tổ chức tập huấn
+
+-
+
+Bố trí kinh phí cho các hoạt động phát triển Chính phủ số, kinh tế số, xã hội số
+
+Vụ NSNN, Vụ HSCN
+
+Các đơn vị liên quan
+
+Bố trí kinh phí thường xuyên cho các Bộ, ngành theo quy định của Luật NSNN khi đơn vị xây dựng nhu cầu dự toán
+
+Bố trí kinh phí thường xuyên cho các Bộ, ngành theo quy định của Luật NSNN khi đơn vị xây dựng nhu cầu dự toán
+
+Bố trí kinh phí thường xuyên cho các Bộ, ngành theo quy định của Luật NSNN khi đơn vị xây dựng nhu cầu dự toán
+
+Bố trí kinh phí thường xuyên cho các Bộ, ngành theo quy định của Luật NSNN khi đơn vị xây dựng nhu cầu dự toán

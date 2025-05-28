@@ -1,0 +1,266 @@
+BỘ TÀI CHÍNH
+-------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 2663/QĐ-BTC
+Hà Nội, ngày 01 tháng 12 năm 2023
+QUYẾT ĐỊNH
+VỀ VIỆC PHÊ DUYỆT BỔ SUNG PHƯƠNG ÁN BẢO ĐẢM AN TOÀN HỆ THỐNG THÔNG TIN THEO CẤP ĐỘ ĐÁP ỨNG THÔNG TƯ SỐ 12/2022/TT-BTTTT
+BỘ TRƯỞNG TÀI CHÍNH
+Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015;
+Căn cứ Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ;
+Căn cứ Nghị định số 14/2023/NĐ-CP ngày 20/4/2023 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+Căn cứ Thông tư số 12/2022/TT-BTTTT ngày 12 tháng 8 năm 2022 của Bộ Thông tin và Truyền thông quy định chi tiết và hướng dẫn một số điều của Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ;
+Căn cứ Quyết định số 1013/QĐ-BTC ngày 19 tháng 5 năm 2023 của Bộ trưởng Bộ Tài chính ban hành Quy chế An toàn thông tin mạng và An ninh mạng Bộ Tài chính;
+Theo đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính.
+QUYẾT ĐỊNH:
+Điều 1. Điều chỉnh vai trò chủ quản hệ thống thông tin, đơn vị vận hành hệ thống thông tin đối với các hệ thống thông tin tại cơ quan Bộ Tài chính được phê duyệt hồ sơ đề xuất cấp độ trước ngày 12 tháng 8 năm 2022 theo Phụ lục I kèm theo Quyết định này.
+Điều 2. Phê duyệt bổ sung phương án bảo đảm an toàn hệ thống thông tin đáp ứng quy định Thông tư số 12/2022/TT-BTTTT ngày 12 tháng 8 năm 2022 của Bộ Thông tin và Truyền thông quy định chi tiết và hướng dẫn một số điều của Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ theo Phụ lục II kèm theo Quyết định này (bổ sung đáp ứng các yêu cầu ngoài phạm vi Tiêu chuẩn quốc gia TCVN 11930:2017 ).
+Điều 3. Tổ chức thực hiện
+Cục Tin học và Thống kê tài chính chủ trì, phối hợp với các đơn vị vận hành hệ thống thông tin và các đơn vị liên quan triển khai phương án bổ sung tại Điều 2 của Quyết định này; cập nhật hồ sơ đề xuất cấp độ các hệ thống thông tin thuộc Phụ lục I theo Điều 1 và 2 của Quyết định này.
+Điều 4. Điều khoản thi hành
+Quyết định này có hiệu lực kể từ ngày ký. Cục trưởng Cục Tin học và Thống kê tài chính, thủ trưởng các đơn vị vận hành hệ thống thông tin tại Phụ lục I và các đơn vị, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+Nơi nhận:
+- Như Điều 3;
+- Lưu: VT,THTK.
+TUQ. BỘ TRƯỞNG
+CỤC TRƯỞNG CỤC TIN HỌC VÀ
+THỐNG KÊ TÀI CHÍNH
+
+
+
+
+Nguyễn Việt Hà
+PHỤ LỤC I
+ĐIỀU CHỈNH VAI TRÒ CHỦ QUẢN HỆ THỐNG THÔNG TIN, ĐƠN VỊ VẬN HÀNH HỆ THỐNG THÔNG TIN ĐỐI VỚI CÁC HỆ THỐNG THÔNG TIN TẠI CƠ QUAN BỘ TÀI CHÍNH ĐƯỢC PHÊ DUYỆT HỒ SƠ ĐỀ XUẤT CẤP ĐỘ TRƯỚC NGÀY 12 THÁNG 8 NĂM 2022
+(Kèm theo Quyết định số 2663/QĐ-BTC ngày 01/12/2023 của Bộ Tài chính)
+STT
+Tên hệ thống thông tin
+Cấp độ đã phê duyệt
+Chủ quản hệ thống thông tin (*)
+Đơn vị vận hành hệ thống thông tin (*)
+1
+Cổng Thông tin điện tử Bộ Tài chính
+3
+Bộ Tài chính
+Cục Tin học và Thống kê tài chính
+2
+Hệ thống dịch vụ công
+Các dịch vụ công trực tuyến mức độ 4 của cơ quan Bộ Tài chính năm 2019
+3
+Bộ Tài chính
+Cục Tin học và Thống kê tài chính
+Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử BTC
+3
+Bộ Tài chính
+Cục Tin học và Thống kê tài chính
+Cấp mã số đơn vị quan hệ ngân sách trực tuyến
+3
+Bộ Tài chính
+Cục Tin học và Thống kê tài chính
+3
+Hệ thống thông tin về tài sản công
+Hệ thống thông tin cơ sở dữ liệu quốc gia về tài sản công
+3
+Bộ Tài chính
+Cục Quản lý công sản
+4
+Hệ thống thông tin bảo hiểm:
+Hệ thống thông tin quản lý và giám sát hoạt động kinh doanh bảo hiểm
+3
+Bộ Tài chính
+Cục Quản lý, giám sát bảo hiểm
+5
+Hệ thống thông tin quản lý nợ
+Trang thông tin đăng ký khoản vay nợ
+3
+Bộ Tài chính
+Cục Quản lý nợ và tài chính đối ngoại
+Hệ thống quản lý thông tin vay và trả nợ nước ngoài
+3
+Bộ Tài chính
+Cục Quản lý nợ và tài chính đối ngoại
+6
+Hệ thống thông tin về doanh nghiệp
+Hệ thống thông tin quản lý, giám sát vốn nhà nước tại doanh nghiệp
+3
+Bộ Tài chính
+Cục Tài chính doanh nghiệp
+7
+Hệ thống cơ sở dữ liệu ngành Tài chính
+Công khai ngân sách Nhà nước
+3
+Bộ Tài chính
+Cục Tin học và Thống kê tài chính
+Cơ sở dữ liệu Danh mục điện tử dùng chung trong lĩnh vực Tài chính
+3
+Bộ Tài chính
+Cục Tin học và Thống kê tài chính
+Cơ sở dữ liệu quốc gia về giá
+3
+Bộ Tài chính
+Cục Tin học và Thống kê tài chính
+Kho dữ liệu Thu chi Ngân sách Nhà nước
+3
+Bộ Tài chính
+Cục Tin học và Thống kê tài chính
+Hệ thống thông tin Thống kê tài chính
+3
+Bộ Tài chính
+Cục Tin học và Thống kê tài chính
+Cơ sở dữ liệu tổng hợp về tài chính
+3
+Bộ Tài chính
+Cục Tin học và Thống kê tài chính
+8
+Cổng Thông tin điện tử nội bộ Bộ Tài chính
+3
+Bộ Tài chính
+Cục Tin học và Thống kê tài chính
+9
+Quản lý văn bản và điều hành, lưu trữ
+Quản lý văn bản và điều hành
+3
+Bộ Tài chính
+Cục Tin học và Thống kê tài chính
+10
+Quản lý cán bộ Bộ Tài chính theo mô hình tập trung
+3
+Bộ Tài chính
+Cục Tin học và Thống kê tài chính
+11
+Thi đua khen thưởng ngành Tài chính
+3
+Bộ Tài chính
+Cục Tin học và Thống kê tài chính
+12
+Quản lý tài sản nội ngành, kế toán nội bộ
+Quản lý tài sản nội ngành Tài chính tập trung
+3
+Bộ Tài chính
+Cục Kế hoạch - Tài chính
+13
+Trung tâm trao đổi thông tin thu Ngân sách Nhà nước Bộ Tài chính
+3
+Bộ Tài chính
+Cục Tin học và Thống kê tài chính
+14
+Hệ thống thông tin Thanh tra
+Cơ sở dữ liệu Thanh tra tài chính
+3
+Bộ Tài chính
+Cục Kế hoạch - Tài chính
+15
+Hệ thống dịch vụ Intranet (AD, Domain Controler, Chat, Email, File Server, FTP, DNS, DHCP, Time Server, kết nối Internet an toàn qua Remote Server)
+3
+Bộ Tài chính
+Cục Tin học và Thống kê tài chính
+16
+Mạng nội bộ (LAN) Bộ Tài chính
+3
+Bộ Tài chính
+Cục Tin học và Thống kê tài chính
+Ghi chú: (*): sau khi được xác định lại theo Quy chế An toàn thông tin mạng và An ninh mạng Bộ Tài chính ban hành theo Quyết định số 1013/QĐ-BTC ngày 19/5/2023 của Bộ Tài chính.
+PHỤ LỤC II
+BỔ SUNG PHƯƠNG ÁN BẢO ĐẢM AN TOÀN HỆ THỐNG THÔNG TIN ĐÁP ỨNG THÔNG TƯ SỐ 12/2022/TT-BTTTT (ĐÁP ỨNG CÁC YÊU CẦU NGOÀI PHẠM VI TIÊU CHUẨN TCVN 11930:2017)
+(Kèm theo Quyết định số 2663/QĐ-BTC ngày 01/12/2023 của Bộ Tài chính)
+I. Bổ sung phương án đáp ứng yêu cầu quản lý theo Thông tư số 12/2022/TT-BTTTT
+Yêu cầu quản lý đối với hệ thống cấp độ 3 theo Phụ lục III Thông tư 12/2022/TT-BTTTT
+Đối tượng áp dụng
+Nội dung phương án
+Phương án quản lý rủi ro an toàn thông tin
+Tất cả các hệ thống thông tin tại Phụ lục I của Quyết định này
+Thực hiện theo quy định tại Điều 7 Quy chế An toàn thông tin mạng và An ninh mạng Bộ Tài chính
+Phương án kết thúc vận hành, khai thác, thanh lý, hủy bỏ
+Tất cả các hệ thống thông tin tại Phụ lục I của Quyết định này
+Thực hiện theo quy định tại Điều 20 Quy chế An toàn thông tin mạng và An ninh mạng Bộ Tài chính
+II. Bổ sung phương án đáp ứng yêu cầu kỹ thuật theo Thông tư số 12/2022/TT-BTTTT
+STT
+Yêu cầu kỹ thuật đối với hệ thống cấp độ 3 theo Phụ lục III Thông tư 12/2022/TT-BTTTT (ngoài TCVN 11930:2017)
+Đối tượng áp dụng
+Phương án bổ sung
+a
+Thiết kế các vùng mạng trong hệ thống theo chức năng, các vùng mạng tối thiểu bao gồm:
+i. Vùng mạng nội bộ;
+ii. Vùng mạng biên;
+iii. Vùng DMZ;
+iv. Vùng máy chủ nội bộ;
+v. Vùng mạng không dây (nếu có) tách riêng, độc lập với các vùng mạng khác;
+vi. Vùng mạng máy chủ cơ sở dữ liệu;
+vii. Vùng quản trị.
+Hệ thống Mạng nội bộ (LAN) Bộ Tài chính
+Không bổ sung do thiết kế hiện tại đã đáp ứng yêu cầu.
+b.i
+Có phương án quản lý truy cập, quản trị hệ thống từ xa an toàn sử dụng mạng riêng ảo hoặc phương án tương đương;
+Hệ thống Mạng nội bộ (LAN) Bộ Tài chính
+Không bổ sung do thiết kế hiện tại đã đáp ứng yêu cầu quản lý truy cập, quản trị hệ thống từ xa an toàn sử dụng mạng riêng ảo.
+Sử dụng sản phẩm Mạng riêng ảo đối với hệ thống thông tin có xử lý thông tin bí mật nhà nước hoặc hệ thống thông tin quy định tại điểm c khoản 2 Điều 9 Nghị định 85/2016/NĐ-CP;
+Không bổ sung do các hệ thống thông tin thuộc phạm vi Bộ Tài chính làm chủ quản hiện tại không xử lý bí mật nhà nước; không thuộc quy định tại điểm c khoản 2 Điều 9 Nghị định 85/2016/NĐ-CP “Cung cấp dịch vụ trực tuyến khác có xử lý thông tin riêng, thông tin cá nhân của từ 10.000 người sử dụng trở lên”
+b.ii
+Có phương án quản lý truy cập giữa các vùng mạng và phòng chống xâm nhập sử dụng sản phẩm Tường lửa có tích hợp chức năng phòng, chống xâm nhập hoặc sản phẩm Phòng, chống xâm nhập lớp mạng;
+Hệ thống Mạng nội bộ (LAN) Bộ Tài chính
+Không bổ sung do thiết kế hiện tại đã đáp ứng yêu cầu.
+b.iii
+Có phương án cân bằng tải, dự phòng nóng cho các thiết bị mạng chính, tối thiểu bao gồm thiết bị chuyển mạch trung tâm hoặc tương đương, thiết bị tường lửa trung tâm, tường lửa ứng dụng web, hệ thống lưu trữ tập trung, tường lửa cơ sở dữ liệu (nếu có);
+Hệ thống Mạng nội bộ (LAN) Bộ Tài chính
+Không bổ sung do thiết kế hiện tại đã đáp ứng yêu cầu.
+b.iv
+Có phương án bảo đảm an toàn cho máy chủ cơ sở dữ liệu;
+- Tất cả các hệ thống thông tin tại Phụ lục I
+Không bổ sung do thiết kế hiện tại đã đáp ứng yêu cầu.
+Sử dụng sản phẩm Tường lửa cơ sở dữ liệu đối với hệ thống cơ sở dữ liệu tập trung, đáp ứng tiêu chí quy định tại khoản 3 Điều 9 Nghị định 85/2016/NĐ-CP;
+Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử BTC; CSDL quốc gia về tài sản công; Quản lý, giám sát vốn nhà nước tại doanh nghiệp; Quản lý và giám sát hoạt động kinh doanh bảo hiểm; CSDL Danh mục dùng chung; CSDL quốc gia về Giá; Kho dữ liệu Thu chi Ngân sách nhà nước; Cơ sở dữ liệu tổng hợp
+Bổ sung trang bị giải pháp hoặc dịch vụ Tường lửa cơ sở dữ liệu sử dụng chung cho các hệ thống thông tin thuộc phạm vi áp dụng.
+b.v
+Có phương án chặn lọc phần mềm độc hại trên môi trường mạng sử dụng Tường lửa tích hợp chức năng phòng, chống mã độc trên môi trường mạng hoặc phương án tương đương;
+Hệ thống Mạng nội bộ (LAN) Bộ Tài chính
+Không bổ sung do thiết kế hiện tại đã đáp ứng yêu cầu.
+b.vi
+Có phương án phòng chống tấn công từ chối dịch vụ; sử dụng dịch vụ của doanh nghiệp hoặc sản phẩm Phòng, chống tấn công từ chối dịch vụ đối với các hệ thống Trung tâm dữ liệu, điện toán đám mây, hệ thống Định danh, xác thực điện tử, chứng thực điện tử, chữ ký số và hệ thống Kết nối tích hợp, chia sẻ dữ liệu, đáp ứng tiêu chí quy định tại khoản 3 Điều 9 Nghị định 85/2016/NĐ-CP;
+- Tất cả hệ thống thông tin tại Phụ lục I
+Không bổ sung do thiết kế hiện tại đã đáp ứng yêu cầu.
+b.vii
+Có phương án phòng chống tấn công mạng cho ứng dụng web;
+Tất cả các hệ thống thông tin tại Phụ lục I
+Không bổ sung do thiết kế hiện tại đã đáp ứng yêu cầu.
+Sử dụng sản phẩm Tường lửa ứng dụng web đối với các hệ thống thông tin được quy định tại khoản 2, Điều 9 Nghị định 85/2016/NĐ-CP;
+Không bổ sung do thiết kế hiện tại đã đáp ứng yêu cầu.
+b.viii
+Có phương án bảo đảm an toàn thông tin cho hệ thống thư điện tử; sử dụng sản phẩm Bảo đảm an toàn thông tin cho hệ thống thư điện tử đối với hệ thống Thư điện tử, đáp ứng tiêu chí quy định tại khoản 2 Điều 9 Nghị định 85/2016/NĐ-CP;
+Hệ thống Dịch vụ Intranet
+Không bổ sung do thiết kế hiện tại đã đáp ứng yêu cầu.
+b.ix
+Có phương án quản lý truy cập lớp mạng; sử dụng sản phẩm Quản lý truy cập lớp mạng đối với hệ thống Mạng nội bộ, Trung tâm giám sát điều hành an toàn thông tin mạng, đáp ứng tiêu chí quy định tại khoản 3 Điều 9 Nghị định 85/2016/NĐ-CP;
+Hệ thống mạng nội bộ Bộ Tài chính
+Bổ sung trang bị giải pháp hoặc thuê dịch vụ quản lý truy cập lớp mạng
+b.x
+Có phương án giám sát hệ thống thông tin tập trung;
+Tất cả các hệ thống thông tin tại Phụ lục I
+Không bổ sung do thiết kế hiện tại đã đáp ứng yêu cầu.
+b.xi
+Có phương án giám sát an toàn hệ thống thông tin tập trung sử dụng sản phẩm Quản lý và phân tích sự kiện an toàn thông tin hoặc sản phẩm tương đương;
+Tất cả các hệ thống thông tin tại Phụ lục I
+Không bổ sung do thiết kế hiện tại đã đáp ứng yêu cầu.
+b.xii
+Có phương án quản lý sao lưu dự phòng tập trung sử dụng hệ thống lưu trữ tập trung và sản phẩm quản lý lưu trữ tập trung;
+Tất cả các hệ thống thông tin tại Phụ lục I
+Không bổ sung do thiết kế hiện tại đã đáp ứng yêu cầu.
+b.xiii
+Có phương án quản lý phần mềm phòng chống mã độc trên máy chủ/máy tính người dùng, sử dụng sản phẩm Phòng, chống mã độc và/hoặc sản phẩm Phát hiện và phản ứng sự cố an toàn thông tin trên thiết bị đầu cuối, có chức năng quản lý tập trung;
+Tất cả các hệ thống thông tin tại Phụ lục I
+Không bổ sung do thiết kế hiện tại đã đáp ứng yêu cầu.
+b.xiv
+Có phương án phòng, chống thất thoát dữ liệu;
+Tất cả các hệ thống thông tin tại Phụ lục I
+Không bổ sung do thiết kế hiện tại đã đáp ứng yêu cầu.
+Sử dụng sản phẩm Phòng, chống thất thoát dữ liệu đối với hệ thống thông tin có xử lý thông tin bí mật nhà nước hoặc hệ thống thông tin quy định tại điểm c khoản 2 Điều 9 Nghị định 85/2016/NĐ-CP;
+Không bổ sung do các hệ thống thông tin thuộc phạm vi Bộ Tài chính làm chủ quản hiện tại không xử lý bí mật nhà nước; không thuộc quy định tại điểm c khoản 2 Điều 9 Nghị định 85/2016/NĐ-CP “Cung cấp dịch vụ trực tuyến khác có xử lý thông tin riêng, thông tin cá nhân của từ 10.000 người sử dụng trở lên”.
+b.xv
+Có phương án dự phòng kết nối mạng Internet cho các máy chủ dịch vụ;
+Tất cả các hệ thống thông tin tại Phụ lục I
+Không bổ sung do thiết kế hiện tại đã đáp ứng yêu cầu.
+b.xvi
+Có phương án bảo đảm an toàn cho mạng không dây (nếu có).
+Không bổ sung do các hệ thống thông tin của Bộ Tài chính không cho phép truy cập trực tiếp từ mạng không dây.

@@ -1,0 +1,212 @@
+BỘ TÀI CHÍNH
+-------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+Số: 1584/QĐ-BTC
+Hà Nội, ngày 08 tháng 7 năm 2024
+QUYẾT ĐỊNH
+VỀ VIỆC BAN HÀNH KẾ HOẠCH HÀNH ĐỘNG NÂNG CAO CHẤT LƯỢNG VÀ HIỆU QUẢ CUNG CẤP DỊCH VỤ CÔNG TRỰC TUYẾN CỦA BỘ TÀI CHÍNH NĂM 2024
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+Căn cứ Nghị định số 14/2023/NĐ-CP ngày 20/4/2023 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+Căn cứ Nghị định số 42/2022/NĐ-CP ngày 24/6/2022 của Chính phủ quy định việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan Nhà nước trên môi trường mạng;
+Căn cứ Quyết định số 942/QĐ-TTg ngày 15/06/2021 của Thủ tướng Chính phủ phê duyệt Chiến lược phát triển Chính phủ điện tử hướng tới Chính phủ số giai đoạn 2021 - 2025, định hướng đến năm 2030;
+Căn cứ Chỉ thị số 27/CT-TTg ngày 27/10/2023 của Thủ tướng Chính phủ Tiếp tục đẩy mạnh các giải pháp cải cách và nâng cao hiệu quả giải quyết thủ tục hành chính, cung cấp dịch vụ công phục vụ người dân, doanh nghiệp;
+Căn cứ Quyết định số 58/QĐ-UBQGCĐS ngày 19/4/2024 của Ủy ban Quốc gia về chuyển đổi số về việc ban hành Kế hoạch hoạt động năm 2024 của Ủy ban Quốc gia về chuyển đổi số;
+Căn cứ Quyết định số 1484/QĐ-BTC ngày 27/7/2022 của Bộ trưởng Bộ Tài chính về việc ban hành Kế hoạch chuyển đổi số đến năm 2025, định hướng đến năm 2030;
+Theo đề nghị của Cục trưởng Cục Tin học và Thống kê tài chính.
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Kế hoạch hành động nâng cao chất lượng và hiệu quả cung cấp dịch vụ công trực tuyến của Bộ Tài chính năm 2024.
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký.
+Điều 3. Cục trưởng Cục Tin học và Thống kê tài chính, Thủ trưởng các đơn vị thuộc Bộ có liên quan chịu trách nhiệm thực hiện Quyết định này./.
+
+Nơi nhận:
+- Như Điều 3;
+- Bộ trưởng Hồ Đức Phớc (để b/c);
+- Các đồng chí Thứ trưởng (để chỉ đạo);
+- Lưu: VT, THTK (4b).
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+
+
+
+
+Bùi Văn Khắng
+KẾ HOẠCH HÀNH ĐỘNG NÂNG CAO CHẤT LƯỢNG VÀ HIỆU QUẢ CUNG CẤP DỊCH VỤ CÔNG TRỰC TUYẾN CỦA BỘ TÀI CHÍNH NĂM 2024
+(Kèm theo Quyết định số 1584/QĐ-BTC ngày 08 tháng 07 năm 2024 của Bộ Tài chính)
+I. MỤC TIÊU, YÊU CẦU
+1. Mục tiêu
+- Tiếp tục rà soát, đề xuất phương án cắt giảm, đơn giản hóa quy định liên quan đến hoạt động kinh doanh, loại bỏ các quy định không cần thiết, không còn phù hợp; đảm bảo đến năm 2025 cắt giảm, đơn giản hóa ít nhất 20% số quy định và cắt giảm ít nhất 20% chi phí tuân thủ quy định liên quan đến hoạt động kinh doanh tại các văn bản đang có hiệu lực thi hành tính đến hết ngày 31/5/2020 theo đúng yêu cầu tại Nghị quyết số 68/NQ-CP ngày 12/5/2020 của Chính phủ.
+- 100% giao dịch trên Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử của Bộ Tài chính được xác thực điện tử, ngoại trừ các dịch vụ yêu cầu sự hiện diện bắt buộc theo quy định của pháp luật.
+- Các đơn vị Tổng cục thuộc Bộ hoàn thành tích hợp các DVCTT thuộc phạm vi quản lý của đơn vị lên Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử của Bộ Tài chính.
+- Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử Bộ Tài chính được kết nối, chia sẻ dữ liệu với Cổng Dịch vụ công quốc gia.
+100% Thủ tục hành chính đủ điều kiện theo quy định của pháp luật được cung cấp dưới hình thức dịch vụ công trực tuyến toàn trình; 100% DVCTT mức toàn trình đủ điều kiện kết nối được tích hợp lên Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử Bộ Tài chính; 100% DVCTT mức toàn trình đủ điều kiện kết nối, liên quan tới nhiều người dân, doanh nghiệp được tích hợp lên Cổng Dịch vụ công quốc gia.
+- Tối thiểu 80% hồ sơ thủ tục hành chính được xử lý hoàn toàn trực tuyến; các hệ thống thông tin của Bộ Tài chính có liên quan đến người dân, doanh nghiệp đã đưa vào vận hành, khai thác được kết nối, liên thông qua nền tảng tích hợp, chia sẻ dữ liệu; thông tin của người dân, doanh nghiệp đã được số hóa và lưu trữ tại các CSDL quốc gia không phải cung cấp lại.
+- Tiếp tục triển khai có hiệu quả Quyết định số 1865/QĐ-BTC ngày 13/9/2022 của Bộ Tài chính phê duyệt Đề án Đổi mới việc tiếp nhận và trả kết quả giải quyết thủ tục hành chính theo cơ chế một cửa Bộ Tài chính và Quyết định số 1866/QĐ-BTC ngày 13/9/2022 của Bộ Tài chính ban hành Quy chế thực hiện cơ chế một cửa trong giải quyết thủ tục hành chính của Bộ Tài chính nhằm đáp ứng mục tiêu, yêu cầu cải cách hành chính nhất là việc cắt giảm, đơn giản hóa TTHC thông qua việc ứng dụng công nghệ thông tin. Tiếp tục tổ chức triển khai, vận hành hoạt động Bộ phận Một cửa của Bộ Tài chính và Bộ phận Một cửa tại các đơn vị thuộc, trực thuộc Bộ Tài chính đảm bảo ổn định; thực hiện tiếp nhận và trả kết quả giải quyết thủ tục hành chính đảm bảo 100% đúng hạn cho cá nhân, tổ chức; nâng cao mức độ hài lòng của cá nhân, tổ chức đối với sự phục vụ của các cơ quan hành chính ngành Tài chính.
+- Tối thiểu 90% người dân và doanh nghiệp hài lòng về việc giải quyết thủ tục hành chính của Bộ Tài chính.
+- 100% cán bộ, công chức, viên chức sử dụng DVCTT và tuyên truyền, hướng dẫn người thân sử dụng DVCTT, hạn chế nộp hồ sơ trực tiếp.
+- Tuyên truyền, hướng dẫn người dân sử dụng DVCTT trên các phương tiện thông tin đại chúng.
+2. Yêu cầu
+- Triển khai đồng bộ các giải pháp nhằm nâng cao chất lượng, hiệu quả cung cấp DVCTT của Bộ trên cả 2 phương diện: Tăng tỷ lệ cung cấp DVCTT và tăng tỷ lệ hồ sơ trực tuyến thực tế phát sinh. Qua đó, thúc đẩy quá trình chuyển đổi số của Bộ.
+- Tổ chức triển khai thực hiện, đảm bảo kịp thời, chất lượng, hiệu quả và đúng thời hạn theo Kế hoạch được ban hành.
+II. NHIỆM VỤ TRIỂN KHAI
+1. Giao chỉ tiêu về cung cấp, sử dụng DVCTT năm 2024: (Chi tiết tại Phụ lục I).
+2. Các nhiệm vụ cụ thể nhằm nâng cao chất lượng và hiệu quả cung cấp DVCTT của Bộ Tài chính (Chi tiết tại Phụ lục II).
+III. TỔ CHỨC THỰC HIỆN
+1. Các đơn vị thuộc Bộ
+1.1. Căn cứ Kế hoạch này để xây dựng và cụ thể hóa thành kế hoạch triển khai thực hiện các nhiệm vụ được phân công.
+1.2. Thực hiện các nhiệm vụ được giao tại Phụ lục ban hành kèm theo Quyết định này. Chịu trách nhiệm về rà soát, đảm bảo tỷ lệ cung cấp DVCTT với lĩnh vực thuộc đơn vị quản lý.
+1.3. Thường xuyên đôn đốc, theo dõi việc triển khai sử dụng DVCTT thuộc lĩnh vực của đơn vị. Xem xét, nghiên cứu việc giao chỉ tiêu cụ thể đối với các đơn vị trực thuộc do đơn vị quản lý (nếu cần thiết).
+1.4. Định kỳ các đơn vị lồng ghép báo cáo tình hình kết quả triển khai Kế hoạch này thành một nội dung trong báo cáo của đơn vị để phục vụ báo cáo Lãnh đạo Bộ tại các cuộc họp giao ban hàng tháng.
+1.5. Trong quá trình tổ chức thực hiện, trường hợp cần thiết bổ sung, sửa đổi, cập nhật những nội dung cụ thể trong Kế hoạch hành động này, các đơn vị thuộc và trực thuộc Bộ chủ động kiến nghị với Cục Tin học và Thống kê tài chính để tổng hợp, báo cáo Bộ trưởng xem xét, quyết định để đảm bảo thực hiện đồng bộ, có hiệu quả Kế hoạch hành động này.
+2. Cục Tin học và Thống kê tài chính
+2.1. Triển khai các nhiệm vụ được phân công tại Kế hoạch này.
+2.2. Là đơn vị đầu mối theo dõi, đôn đốc các đơn vị thuộc Bộ. Tổng hợp thông tin từ các đơn vị, báo cáo Lãnh đạo Bộ về tình hình triển khai DVCTT của các đơn vị.
+PHỤ LỤC I
+GIAO CHỈ TIÊU VỀ CUNG CẤP, SỬ DỤNG DỊCH VỤ CÔNG TRỰC TUYẾN NĂM 2024 CỦA BỘ TÀI CHÍNH
+(Kèm theo Quyết định số 1584/QĐ-BTC ngày 08 tháng 07 năm 2024 của Bộ Tài chính)
+TT
+Lĩnh vực
+Tỷ lệ TTHC đủ điều kiện được cung cấp DVCTT toàn trình
+Tỷ lệ hồ sơ thủ tục hành chính được xử lý hoàn toàn trực tuyến
+Tỷ lệ hồ sơ phát sinh trực tuyến (tối thiểu)
+1
+Lĩnh vực Thuế
+100%
+90%
+90%
+2
+Lĩnh vực Hải quan
+100%
+95%
+90%
+3
+Lĩnh vực Chứng khoán
+100%
+80%
+50%
+4
+Lĩnh vực Kho bạc
+100%
+100%
+90%
+5
+Lĩnh vực Bảo hiểm
+100%
+80%
+50%
+6
+Lĩnh vực Kế toán kiểm toán
+100%
+80%
+50%
+7
+Lĩnh vực Tin học - Thống kê
+100%
+100%
+90%
+PHỤ LỤC II
+NHIỆM VỤ TRIỂN KHAI KẾ HOẠCH NÂNG CAO CHẤT LƯỢNG VÀ HIỆU QUẢ CUNG CẤP DỊCH VỤ CÔNG TRỰC TUYẾN CỦA BỘ TÀI CHÍNH NĂM 2024
+(Kèm theo Quyết định số 1584/QĐ-BTC ngày 08 tháng 07 năm 2024 của Bộ Tài chính)
+TT
+Nhiệm vụ
+Thời gian hoàn thành
+Đơn vị chủ trì
+Đơn vị phối hợp
+I. Hoàn thiện các văn bản quy định
+1
+Nghiên cứu ban hành chính sách khuyến khích người dân, doanh nghiệp sử dụng DVCTT
+Năm 2024
+Các đơn vị có TTHC
+Cục CST, Cục THTK
+II. Rà soát TTHC được cung cấp thành DVCTT; Nâng cao hiệu quả sử dụng DVCTT
+1
+Tiếp tục rà soát, đề xuất phương án cắt giảm, đơn giản hóa quy định liên quan đến hoạt động kinh doanh, loại bỏ các quy định không cần thiết, không còn phù hợp; đảm bảo đến năm 2025 cắt giảm, đơn giản hóa ít nhất 20% số quy định và cắt giảm ít nhất 20% chi phí tuân thủ quy định liên quan đến hoạt động kinh doanh tại các văn bản đang có hiệu lực thi hành tính đến hết ngày 31/5/2020 theo đúng yêu cầu tại Nghị quyết số 68/NQ-CP ngày 12/5/2020 của Chính phủ.
+Thường xuyên
+Các đơn vị có TTHC
+Văn phòng Bộ
+2
+Rà soát TTHC đủ điều kiện cung cấp thành DVCTT toàn trình
+Năm 2024
+2.1
+Căn cứ các tiêu chí đối với DVCTT toàn trình trong thực hiện TTHC trên môi trường điện tử tại khoản 1, Điều 13 của Thông tư số 01/2023/TT-VPCP ngày 05/4/2023 tiến hành rà soát TTHC đủ điều kiện cung cấp thành DVCTT toàn trình để đảm bảo 100% Thủ tục hành chính đủ điều kiện theo quy định của pháp luật được cung cấp dưới hình thức dịch vụ công trực tuyến toàn trình;
+Thường xuyên
+Các đơn vị có TTHC
+Cục THTK
+2.2
+Rà soát và thực hiện đảm bảo 100% dịch vụ công trực tuyến toàn trình đủ điều kiện kết nối được tích hợp lên Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử Bộ Tài chính
+Thường xuyên
+Các đơn vị có TTHC
+Cục THTK
+2.3
+Rà soát và thực hiện đảm bảo 100% dịch vụ công trực tuyến mức toàn trình đủ điều kiện kết nối, liên quan tới nhiều người dân, doanh nghiệp được tích hợp lên Cổng Dịch vụ công quốc gia.
+Thường xuyên
+Các đơn vị có TTHC
+Cục THTK
+3
+Rà soát, chuẩn hóa mẫu đơn, tờ khai. Thiết lập biểu mẫu điện tử tương tác theo quy định tại Điều 21, Điều 22 của Thông tư số 01/2023/TT-VPCP ngày 05/4/2023
+Thường xuyên
+Các đơn vị có TTHC
+Văn phòng Bộ, Cục THTK
+4
+Các đơn vị Tổng cục thuộc Bộ hoàn thành tích hợp các DVCTT thuộc phạm vi quản lý của đơn vị lên Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử của Bộ Tài chính.
+Quý 3 năm 2024
+Các đơn vị Tổng cục thuộc Bộ
+Cục THTK
+5
+Rà soát, hoàn thiện quy trình nghiệp vụ các dịch vụ công trực tuyến đã cung cấp trên Cổng Dịch vụ công quốc gia
+Thường xuyên
+Các đơn vị có TTHC
+Văn phòng Bộ, Cục THTK
+6
+Hoàn thành kết nối Kho quản lý dữ liệu điện tử của tổ chức, cá nhân trên Hệ thống thông tin giải quyết thủ tục hành chính Bộ Tài chính, cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành với Kho dữ liệu điện tử của tổ chức, cá nhân trên Cổng Dịch vụ công quốc gia
+Theo yêu cầu của Chính phủ
+Cục THTK và các Tổng cục thuộc Bộ
+Văn phòng Bộ và các đơn vị có liên quan
+7
+Hoàn thành tích hợp, đồng bộ hồ sơ và kết quả giải quyết thủ tục hành chính với Cổng DVC quốc gia và Hệ thống thông tin giải quyết TTHC của tỉnh
+Theo yêu cầu của Chính phủ
+Cục THTK và các Tổng cục thuộc Bộ
+Văn phòng Bộ và các đơn vị có liên quan
+8
+Chủ trì, phối hợp với Văn phòng Chính phủ và các đơn vị có liên quan xây dựng và áp dụng công nghệ bóc tách dữ liệu, trường thông tin cần số hóa, lưu trữ (dữ liệu được bóc tách bao gồm tối thiểu các trường dữ liệu đặc tả được quy định tại khoản 2, Điều 9 của Thông tư số 01/2023/TT-VPCP ngày 05/4/2023 )
+Năm 2024
+Cục THTK và các Tổng cục thuộc Bộ
+Văn phòng Bộ và các đơn vị có liên quan
+9
+Kết nối toàn diện Hệ thống thông tin giải quyết TTHC với Hệ thống giám sát, đo lường mức độ cung cấp và sử dụng dịch vụ Chính phủ số (Hệ thống EMC)
+Quý II năm 2024
+Cục THTK và các Tổng cục thuộc Bộ
+10
+Thực hiện tiếp nhận và trả kết quả giải quyết thủ tục hành chính đảm bảo 100% đúng hạn cho cá nhân, tổ chức
+Thường xuyên
+Các đơn vị có TTHC
+Văn phòng Bộ
+11
+100% các hồ sơ thủ tục hành chính tiếp nhận, giải quyết tại các cơ quan, đơn vị được theo dõi trạng thái xử lý trên Hệ thống thông tin Một cửa điện tử Bộ Tài chính
+Thường xuyên
+11.1
+Nâng cấp Hệ thống Một cửa điện tử, đảm bảo hệ thống vận hành an toàn, thông suốt
+Năm 2024
+Cục THTK
+Văn phòng Bộ và Các đơn vị sử dụng Hệ thống thông tin Một cửa điện tử Bộ Tài chính
+11.2
+Số hóa hồ sơ được tiếp nhận tại Bộ phận Một cửa (BPMC) tại trụ sở Bộ Tài chính
+Thường xuyên
+Văn phòng Bộ
+Cục THTK
+11.3
+Đồng bộ trạng thái giải quyết TTHC, số hóa kết quả giải quyết TTHC trên Hệ thống Một cửa điện tử
+Thường xuyên
+Các đơn vị sử dụng Hệ thống thông tin Một cửa điện tử Bộ Tài chính
+Văn phòng Bộ, Cục THTK
+12
+Thực hiện các nhiệm vụ được giao theo Quyết định số 206/QĐ-TTg ngày 28/02/2024 của Thủ tướng Chính phủ đã được Bộ Tài chính giao tại Thông báo số 476/TB-BTC ngày 23/4/2024
+Theo lộ trình tại QĐ số 206/QĐ- TTg
+Tổng cục Thuế, Cục CST và các đơn vị liên quan
+Văn phòng Bộ, Cục THTK
+13
+Đẩy mạnh tuyên truyền nâng cao nhận thức về sử dụng DVCTT trên Cổng TTĐT Bộ Tài chính và Cổng TTĐT của các đơn vị
+Thường xuyên
+Văn phòng Bộ, các đơn vị báo chí trong ngành Tài chính, các đơn vị có TTHC
+Văn phòng Bộ, Cục THTK
