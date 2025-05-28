@@ -154,14 +154,14 @@ class DocumentHandler:
 
 # ================================ SỬ DỤNG ================================
 if __name__ == "__main__":
-    domain_root = r"F:\TinHoc\BinningMini\RAG + langchain\crawl\domain_split"
-    data_path = r"F:\TinHoc\BinningMini\RAG + langchain\crawl\data\tvpl"
+    domain_root = r"F:\TinHoc\BinningMini\RAG + langchain\RAG-langchain\crawl\domain_split"
+    data_path = r"F:\TinHoc\BinningMini\RAG + langchain\RAG-langchain\crawl\data\tvpl"
 
     handler = DocumentHandler(domain_root, data_path)
 
     # Ví dụ câu hỏi
     questions = [
-        "ai là người kí nghị định 01/2023/TT-BTC"
+        "ai là người kí nghị định 1524/QĐ-BTC"
     ]
 
     for q in questions:
